@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 config.py
+my_api_client.json
 __pycache__/
 *.py[cod]
 *$py.class
