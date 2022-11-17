@@ -1,0 +1,889 @@
+{'text': 'it is equally important to fight bad', 'start': 0.0, 'duration': 3.439}
+{'text': 'arguments from the other side', 'start': 1.92, 'duration': 3.68}
+{'text': 'as it is to root out bad arguments on', 'start': 3.439, 'duration': 3.041}
+{'text': 'your own side', 'start': 5.6, 'duration': 2.56}
+{'text': 'because the only thing sometimes the', 'start': 6.48, 'duration': 3.119}
+{'text': 'people on the other side have to hold on', 'start': 8.16, 'duration': 3.68}
+{'text': 'to are the worst parts of yourself', 'start': 9.599, 'duration': 3.441}
+{'text': "so for instance and i've noticed this", 'start': 11.84, 'duration': 2.879}
+{'text': 'come up over and over and over again are', 'start': 13.04, 'duration': 3.04}
+{'text': 'they going to do another debate', 'start': 14.719, 'duration': 3.281}
+{'text': 'or is that just completely off i would', 'start': 16.08, 'duration': 3.44}
+{'text': 'be shocked', 'start': 18.0, 'duration': 5.279}
+{'text': 'um because completely unrelated did you', 'start': 19.52, 'duration': 4.8}
+{'text': 'hear that we mean about dylan being', 'start': 23.279, 'duration': 2.32}
+{'text': 'overly defensive during the debate', 'start': 24.32, 'duration': 2.959}
+{'text': "moderation and feeding the serf's", 'start': 25.599, 'duration': 2.561}
+{'text': 'articles', 'start': 27.279, 'duration': 2.641}
+{'text': 'i think aristam read it on her stream', 'start': 28.16, 'duration': 3.359}
+{'text': 'she might have forwarded it wait where', 'start': 29.92, 'duration': 2.08}
+{'text': 'what', 'start': 31.519, 'duration': 1.761}
+{'text': 'wait can somebody link me what is that', 'start': 32.0, 'duration': 3.28}
+{'text': 'guy talking about dylan burns working', 'start': 33.28, 'duration': 3.6}
+{'text': 'with the serfs in the lauren southern', 'start': 35.28, 'duration': 3.599}
+{'text': 'debate', 'start': 36.88, 'duration': 4.56}
+{'text': 'in what world does the host go second', 'start': 38.879, 'duration': 3.441}
+{'text': 'last', 'start': 41.44, 'duration': 2.48}
+{'text': 'i doubt this has happened in any other', 'start': 42.32, 'duration': 3.2}
+{'text': 'debates dylan has hosted', 'start': 43.92, 'duration': 3.84}
+{'text': 'the host always has the final word he', 'start': 45.52, 'duration': 3.76}
+{'text': "didn't even give his closing speech", 'start': 47.76, 'duration': 2.479}
+{'text': 'before all of them', 'start': 49.28, 'duration': 2.64}
+{'text': 'which would have still been very weird', 'start': 50.239, 'duration': 3.121}
+{'text': 'he gave it second to last and gave', 'start': 51.92, 'duration': 4.24}
+{'text': 'the serfs the closing words dylan was', 'start': 53.36, 'duration': 4.64}
+{'text': 'very defensive over any criticism', 'start': 56.16, 'duration': 3.039}
+{'text': 'of the service to the point where it', 'start': 58.0, 'duration': 2.559}
+{'text': 'started to sound bad faith and', 'start': 59.199, 'duration': 2.401}
+{'text': 'disingenuous', 'start': 60.559, 'duration': 2.961}
+{'text': 'i believe this for two reasons firstly', 'start': 61.6, 'duration': 3.76}
+{'text': 'because he did', 'start': 63.52, 'duration': 3.599}
+{'text': 'not want to offend the service but', 'start': 65.36, 'duration': 2.96}
+{'text': 'secondly because some of the arguments', 'start': 67.119, 'duration': 2.32}
+{'text': 'you were attacking were given to the', 'start': 68.32, 'duration': 2.479}
+{'text': 'serfs by dylan', 'start': 69.439, 'duration': 3.601}
+{'text': 'dylan also complemented the service on', 'start': 70.799, 'duration': 3.921}
+{'text': 'all the numbers he brought up which i', 'start': 73.04, 'duration': 3.2}
+{'text': 'reckon dylan had', 'start': 74.72, 'duration': 4.079}
+{'text': 'a hand in as discussed in point three if', 'start': 76.24, 'duration': 4.08}
+{'text': 'you re-watch the debate you can see', 'start': 78.799, 'duration': 3.441}
+{'text': "there's a high correlation between these", 'start': 80.32, 'duration': 3.2}
+{'text': 'three things', 'start': 82.24, 'duration': 2.879}
+{'text': 'lauren and sometimes counterpoint', 'start': 83.52, 'duration': 4.0}
+{'text': 'speaking dylan typing on his keyboard', 'start': 85.119, 'duration': 3.601}
+{'text': 'pulling up websites', 'start': 87.52, 'duration': 3.76}
+{'text': 'white flashes on his face and the serfs', 'start': 88.72, 'duration': 5.12}
+{'text': 'looking to his left to read his messages', 'start': 91.28, 'duration': 3.92}
+{'text': 'there are times when the serfs is', 'start': 93.84, 'duration': 3.68}
+{'text': 'excited to reply and for his whole reply', 'start': 95.2, 'duration': 3.919}
+{'text': "he's looking at the camera to his right", 'start': 97.52, 'duration': 2.559}
+{'text': "and then there are times when he's", 'start': 99.119, 'duration': 2.401}
+{'text': 'staring to the left for', 'start': 100.079, 'duration': 2.961}
+{'text': 'his whole discussion while struggling a', 'start': 101.52, 'duration': 2.959}
+{'text': 'bit more than usual to piece together', 'start': 103.04, 'duration': 4.16}
+{'text': 'his sentences', 'start': 104.479, 'duration': 2.721}
+{'text': 'wait wait is this does anyone have a', 'start': 110.159, 'duration': 3.361}
+{'text': 'time stamp of this happening', 'start': 112.079, 'duration': 3.281}
+{'text': "i'd be curious if there was a time stamp", 'start': 113.52, 'duration': 3.599}
+{'text': 'seeing this happen in real time yeah', 'start': 115.36, 'duration': 5.68}
+{'text': 'so this is dylan and the serfs', 'start': 117.119, 'duration': 6.32}
+{'text': 'were working together against lauren', 'start': 121.04, 'duration': 3.439}
+{'text': 'southern', 'start': 123.439, 'duration': 4.641}
+{'text': "it's a conspiracy to be clear", 'start': 124.479, 'duration': 5.681}
+{'text': 'i think this is a crazy hater email i', 'start': 128.08, 'duration': 3.28}
+{'text': "don't think they were actually", 'start': 130.16, 'duration': 2.799}
+{'text': "conspiring i don't believe that", 'start': 131.36, 'duration': 3.84}
+{'text': "i there's just no way that dylan would", 'start': 132.959, 'duration': 3.92}
+{'text': "risk it i don't think so", 'start': 135.2, 'duration': 3.759}
+{'text': 'right did you guys see what lance', 'start': 136.879, 'duration': 3.841}
+{'text': 'tweeted lance was like', 'start': 138.959, 'duration': 3.441}
+{'text': "my goal wasn't to go there and win that", 'start': 140.72, 'duration': 3.2}
+{'text': 'debate', 'start': 142.4, 'duration': 2.96}
+{'text': 'my goal was to just show lauren for', 'start': 143.92, 'duration': 4.0}
+{'text': "being a fascist it's like okay wait", 'start': 145.36, 'duration': 4.879}
+{'text': "so at least you admit you don't give a", 'start': 147.92, 'duration': 3.039}
+{'text': '[\xa0__\xa0] about', 'start': 150.239, 'duration': 2.241}
+{'text': 'any of the dead indigenous or tortured', 'start': 150.959, 'duration': 3.041}
+{'text': 'kids or whatever you were literally just', 'start': 152.48, 'duration': 2.96}
+{'text': 'there to score brownie points like that', 'start': 154.0, 'duration': 2.8}
+{'text': 'was all you really wanted to do', 'start': 155.44, 'duration': 2.56}
+{'text': "i didn't go there to have a wonderful", 'start': 156.8, 'duration': 2.799}
+{'text': 'time i wanted to call her a flash to her', 'start': 158.0, 'duration': 2.08}
+{'text': 'face', 'start': 159.599, 'duration': 2.0}
+{'text': 'and say that her whole rebranding tour', 'start': 160.08, 'duration': 2.64}
+{'text': 'is a lie and chance to apologize for', 'start': 161.599, 'duration': 2.64}
+{'text': 'identity europa great replacement white', 'start': 162.72, 'duration': 2.56}
+{'text': 'genocide', 'start': 164.239, 'duration': 2.64}
+{'text': 'and then this guy came in so you use the', 'start': 165.28, 'duration': 3.2}
+{'text': 'genocide of indigenous canadians as a', 'start': 166.879, 'duration': 3.121}
+{'text': 'political prop dealer lauren southern', 'start': 168.48, 'duration': 3.44}
+{'text': 'into a debate just to dunk on her did', 'start': 170.0, 'duration': 2.959}
+{'text': 'you have to pretend to care about', 'start': 171.92, 'duration': 2.64}
+{'text': 'indigenous issues to farm content views', 'start': 172.959, 'duration': 3.201}
+{'text': 'and social credit has all your coverage', 'start': 174.56, 'duration': 3.12}
+{'text': 'just been a huge grift', 'start': 176.16, 'duration': 9.68}
+{'text': 'when the mask accidentally slips', 'start': 177.68, 'duration': 8.16}
+{'text': 'is this going to be not safe for work', 'start': 186.239, 'duration': 12.401}
+{'text': 'hold on', 'start': 187.36, 'duration': 29.35}
+{'text': '[Music]', 'start': 198.64, 'duration': 20.159}
+{'text': '[Laughter]', 'start': 216.71, 'duration': 10.249}
+{'text': 'oh no', 'start': 218.799, 'duration': 9.841}
+{'text': "yeah no i'm not doing that she's already", 'start': 226.959, 'duration': 3.601}
+{'text': "she's already directed all the terms of", 'start': 228.64, 'duration': 3.519}
+{'text': "service all right i've done", 'start': 230.56, 'duration': 3.02}
+{'text': "every single thing she's asked", 'start': 232.159, 'duration': 4.08}
+{'text': '[Music]', 'start': 233.58, 'duration': 7.99}
+{'text': 'oh my god', 'start': 236.239, 'duration': 8.621}
+{'text': '[Music]', 'start': 241.57, 'duration': 3.29}
+{'text': "you're such a bitchland", 'start': 245.12, 'duration': 3.199}
+{'text': 'jesus i joined', 'start': 250.0, 'duration': 5.12}
+{'text': 'do you want to talk briefly about that', 'start': 253.519, 'duration': 3.28}
+{'text': 'debate if you want', 'start': 255.12, 'duration': 3.6}
+{'text': 'sure what about it i think we basically', 'start': 256.799, 'duration': 3.921}
+{'text': 'agreed that', 'start': 258.72, 'duration': 4.0}
+{'text': 'would you agree with me that overall', 'start': 260.72, 'duration': 3.84}
+{'text': "it's probably made the fight like what i", 'start': 262.72, 'duration': 2.88}
+{'text': 'said in that tweet', 'start': 264.56, 'duration': 4.16}
+{'text': "like in terms of the twitch space it's", 'start': 265.6, 'duration': 4.319}
+{'text': 'probably made', 'start': 268.72, 'duration': 4.24}
+{'text': 'um the optics of people who try to fight', 'start': 269.919, 'duration': 4.72}
+{'text': 'for indigenous reconciliation', 'start': 272.96, 'duration': 4.64}
+{'text': 'even harder now because yeah my point of', 'start': 274.639, 'duration': 3.28}
+{'text': 'view', 'start': 277.6, 'duration': 2.159}
+{'text': 'on all this recently has been with way', 'start': 277.919, 'duration': 3.28}
+{'text': 'more broadly than this conversation', 'start': 279.759, 'duration': 3.601}
+{'text': "but it's just that like any time people", 'start': 281.199, 'duration': 3.041}
+{'text': 'begin', 'start': 283.36, 'duration': 3.6}
+{'text': 'with an unfactual foundation it just it', 'start': 284.24, 'duration': 4.32}
+{'text': 'makes everything impossible from that', 'start': 286.96, 'duration': 2.959}
+{'text': 'point on because your credibility', 'start': 288.56, 'duration': 3.28}
+{'text': 'and when i say your credibility i mean', 'start': 289.919, 'duration': 3.921}
+{'text': 'like your credibility in terms of like', 'start': 291.84, 'duration': 3.28}
+{'text': "the side that you're on is just", 'start': 293.84, 'duration': 3.28}
+{'text': "completely destroyed that's why", 'start': 295.12, 'duration': 4.48}
+{'text': 'i think i think there are two parts that', 'start': 297.12, 'duration': 3.04}
+{'text': 'are', 'start': 299.6, 'duration': 2.8}
+{'text': 'equally important i think that it is i', 'start': 300.16, 'duration': 3.36}
+{'text': 'will say this and i will feel very', 'start': 302.4, 'duration': 2.639}
+{'text': 'confident i think it is equally', 'start': 303.52, 'duration': 3.36}
+{'text': 'important to fight bad arguments from', 'start': 305.039, 'duration': 2.641}
+{'text': 'the other side', 'start': 306.88, 'duration': 2.96}
+{'text': 'as it is to root out bad arguments on', 'start': 307.68, 'duration': 3.04}
+{'text': 'your own side', 'start': 309.84, 'duration': 2.56}
+{'text': 'because the only thing sometimes the', 'start': 310.72, 'duration': 3.199}
+{'text': 'people on the other side have to hold on', 'start': 312.4, 'duration': 3.68}
+{'text': 'to are the worst parts of yourself', 'start': 313.919, 'duration': 3.361}
+{'text': "so for instance and i've noticed this", 'start': 316.08, 'duration': 2.72}
+{'text': 'come up over and over and over again the', 'start': 317.28, 'duration': 1.919}
+{'text': 'most', 'start': 318.8, 'duration': 2.8}
+{'text': 'dog [\xa0__\xa0] crt takes that for some reason', 'start': 319.199, 'duration': 4.0}
+{'text': 'some people are compelled to defend even', 'start': 321.6, 'duration': 3.12}
+{'text': "though they shouldn't be like um", 'start': 323.199, 'duration': 3.681}
+{'text': 'yeah i think that that [\xa0__\xa0] needs to', 'start': 324.72, 'duration': 4.8}
+{'text': 'stop as soon as possible', 'start': 326.88, 'duration': 4.4}
+{'text': "well and it's it's especially", 'start': 329.52, 'duration': 4.08}
+{'text': 'embarrassing', 'start': 331.28, 'duration': 5.919}
+{'text': "oh someone's calling me weird", 'start': 333.6, 'duration': 6.96}
+{'text': "number um it's annoying because like as", 'start': 337.199, 'duration': 4.72}
+{'text': "i was watching i didn't watch the whole", 'start': 340.56, 'duration': 3.199}
+{'text': 'thing i joined like halfway through', 'start': 341.919, 'duration': 4.641}
+{'text': 'but there were there were very clear', 'start': 343.759, 'duration': 3.521}
+{'text': 'moments', 'start': 346.56, 'duration': 3.04}
+{'text': 'when lance could easily respond to a lot', 'start': 347.28, 'duration': 3.6}
+{'text': 'of the things', 'start': 349.6, 'duration': 4.08}
+{'text': "that lauren and what's the name of the", 'start': 350.88, 'duration': 3.599}
+{'text': 'other person', 'start': 353.68, 'duration': 3.2}
+{'text': "i'm not sure um it was lauren and a guy", 'start': 354.479, 'duration': 4.241}
+{'text': 'named connor points or counterpoints', 'start': 356.88, 'duration': 3.599}
+{'text': 'yeah so lauren and connor would say', 'start': 358.72, 'duration': 4.96}
+{'text': 'things and then instead of actually', 'start': 360.479, 'duration': 5.761}
+{'text': "because there's a lot of information out", 'start': 363.68, 'duration': 4.32}
+{'text': 'there and basic knowledge about the', 'start': 366.24, 'duration': 3.28}
+{'text': 'residential school system that you could', 'start': 368.0, 'duration': 2.319}
+{'text': 'point to', 'start': 369.52, 'duration': 2.959}
+{'text': 'you could point to very specific schools', 'start': 370.319, 'duration': 4.16}
+{'text': 'very specific instances that happened at', 'start': 372.479, 'duration': 3.121}
+{'text': 'various schools', 'start': 374.479, 'duration': 4.241}
+{'text': 'but instead he kind of retreats and like', 'start': 375.6, 'duration': 3.52}
+{'text': 'i think', 'start': 378.72, 'duration': 2.56}
+{'text': 'it was mostly just ad hominems most of', 'start': 379.12, 'duration': 4.48}
+{'text': 'the time or restatement that no there', 'start': 381.28, 'duration': 4.0}
+{'text': "definitely was genocide and if you're", 'start': 383.6, 'duration': 2.56}
+{'text': 'just', 'start': 385.28, 'duration': 2.639}
+{'text': "if you're just denying that then you", 'start': 386.16, 'duration': 3.68}
+{'text': "know you're being bad faith or whatever", 'start': 387.919, 'duration': 4.161}
+{'text': 'um and for some reason they spent i', 'start': 389.84, 'duration': 3.199}
+{'text': "don't know how long", 'start': 392.08, 'duration': 4.16}
+{'text': "talking about um [\xa0__\xa0] what's it", 'start': 393.039, 'duration': 4.961}
+{'text': 'called the the archaeological technique', 'start': 396.24, 'duration': 2.239}
+{'text': 'to', 'start': 398.0, 'duration': 1.6}
+{'text': 'figure out if there are bodies', 'start': 398.479, 'duration': 3.761}
+{'text': 'underneath the soil or whatever', 'start': 399.6, 'duration': 4.319}
+{'text': "the gpr's scanning or whatever yeah yeah", 'start': 402.24, 'duration': 4.16}
+{'text': "gpr like i don't even know why that was", 'start': 403.919, 'duration': 4.641}
+{'text': 'necessarily being discussed because you', 'start': 406.4, 'duration': 3.84}
+{'text': 'could even say', 'start': 408.56, 'duration': 3.68}
+{'text': "because for one thing we've known that", 'start': 410.24, 'duration': 4.64}
+{'text': 'there were mass atrocities that happened', 'start': 412.24, 'duration': 4.399}
+{'text': 'at residential schools before', 'start': 414.88, 'duration': 3.759}
+{'text': 'any of these graves were found the only', 'start': 416.639, 'duration': 3.601}
+{'text': "reason it's really significant", 'start': 418.639, 'duration': 3.601}
+{'text': 'is because the media is now reporting on', 'start': 420.24, 'duration': 3.28}
+{'text': 'that i mean indigenous', 'start': 422.24, 'duration': 3.28}
+{'text': 'like that their family members went', 'start': 423.52, 'duration': 3.28}
+{'text': 'missing this is', 'start': 425.52, 'duration': 2.88}
+{'text': "this has been it's not even an open", 'start': 426.8, 'duration': 3.04}
+{'text': 'secret this is just', 'start': 428.4, 'duration': 4.239}
+{'text': 'common knowledge um that generated you', 'start': 429.84, 'duration': 4.799}
+{'text': 'know intergenerational trauma', 'start': 432.639, 'duration': 5.12}
+{'text': 'and there were many cases of abuse that', 'start': 434.639, 'duration': 4.801}
+{'text': 'you can point to that are within', 'start': 437.759, 'duration': 4.16}
+{'text': 'government documents that you can point', 'start': 439.44, 'duration': 3.039}
+{'text': 'to', 'start': 441.919, 'duration': 3.521}
+{'text': 'uh instances of deliberate deliberate', 'start': 442.479, 'duration': 4.0}
+{'text': 'neglect', 'start': 445.44, 'duration': 3.28}
+{'text': "right and i i just i don't understand", 'start': 446.479, 'duration': 3.041}
+{'text': 'why', 'start': 448.72, 'duration': 4.8}
+{'text': "rabbit and uh lance didn't spend time", 'start': 449.52, 'duration': 6.799}
+{'text': 'talking about these cases and why', 'start': 453.52, 'duration': 4.32}
+{'text': 'exactly you have to', 'start': 456.319, 'duration': 4.16}
+{'text': 'have the whole semantical debate about', 'start': 457.84, 'duration': 4.639}
+{'text': 'whether you know genocide', 'start': 460.479, 'duration': 3.361}
+{'text': 'actually because yeah but like the', 'start': 462.479, 'duration': 3.12}
+{'text': 'problem the problem is', 'start': 463.84, 'duration': 5.12}
+{'text': 'um as canadians the the feeling that i', 'start': 465.599, 'duration': 5.28}
+{'text': "get is that the broader story that's", 'start': 468.96, 'duration': 2.72}
+{'text': 'being sold', 'start': 470.879, 'duration': 3.841}
+{'text': 'with the grave thing is this concept of', 'start': 471.68, 'duration': 3.84}
+{'text': 'these mass', 'start': 474.72, 'duration': 2.96}
+{'text': 'graves being newly discovered where they', 'start': 475.52, 'duration': 4.0}
+{'text': 'never knew any children were before that', 'start': 477.68, 'duration': 3.68}
+{'text': 'were like just all killed and thrown in', 'start': 479.52, 'duration': 2.64}
+{'text': 'a pit', 'start': 481.36, 'duration': 2.72}
+{'text': "rather than what's actually happened is", 'start': 482.16, 'duration': 3.759}
+{'text': 'as you said indigenous communities have', 'start': 484.08, 'duration': 3.519}
+{'text': 'known about these cemeteries or these', 'start': 485.919, 'duration': 2.161}
+{'text': 'sites', 'start': 487.599, 'duration': 1.681}
+{'text': "and they've taken people with the", 'start': 488.08, 'duration': 2.72}
+{'text': 'technology there now to say like hey can', 'start': 489.28, 'duration': 2.8}
+{'text': 'we start to locate some of these or', 'start': 490.8, 'duration': 2.56}
+{'text': "whatever like that's actually what's", 'start': 492.08, 'duration': 2.48}
+{'text': "happened it's not that they're like", 'start': 493.36, 'duration': 2.88}
+{'text': 'they randomly scanned in an area like oh', 'start': 494.56, 'duration': 3.12}
+{'text': "my god there's 200 dead children here", 'start': 496.24, 'duration': 2.239}
+{'text': 'this is crazy', 'start': 497.68, 'duration': 2.0}
+{'text': "but that's the idea that everybody's", 'start': 498.479, 'duration': 2.241}
+{'text': "being sold and i'm pretty sure that's", 'start': 499.68, 'duration': 2.48}
+{'text': 'what lance and that rabbit dude think', 'start': 500.72, 'duration': 2.64}
+{'text': 'actually happened just based on the way', 'start': 502.16, 'duration': 2.8}
+{'text': 'they talked about the conversation like', 'start': 503.36, 'duration': 3.2}
+{'text': 'when that guy said like uh like', 'start': 504.96, 'duration': 3.519}
+{'text': 'what is a mass grave well it just mass', 'start': 506.56, 'duration': 2.96}
+{'text': "it just means there's a lot of bodies", 'start': 508.479, 'duration': 2.801}
+{'text': "that's not what mass grave means why", 'start': 509.52, 'duration': 3.28}
+{'text': 'would you even say something so [\xa0__\xa0]', 'start': 511.28, 'duration': 2.96}
+{'text': 'stupid like what the [\xa0__\xa0]', 'start': 512.8, 'duration': 3.119}
+{'text': 'by your definition literally every', 'start': 514.24, 'duration': 3.76}
+{'text': 'single cemetery is a mass grave', 'start': 515.919, 'duration': 3.761}
+{'text': 'like oh did you go to the mass grave', 'start': 518.0, 'duration': 3.599}
+{'text': 'yesterday and visit grandpa like yeah', 'start': 519.68, 'duration': 4.96}
+{'text': 'like wha would it', 'start': 521.599, 'duration': 5.601}
+{'text': "oh okay wait wait that's what we said i", 'start': 524.64, 'duration': 4.16}
+{'text': "don't let's let them finish", 'start': 527.2, 'duration': 3.92}
+{'text': "we've denied mass graves exist even", 'start': 528.8, 'duration': 3.84}
+{'text': 'though the definition of', 'start': 531.12, 'duration': 5.12}
+{'text': 'mass is big so', 'start': 532.64, 'duration': 6.8}
+{'text': 'i mean so on the topic of whether or not', 'start': 536.24, 'duration': 5.279}
+{'text': 'like genocide for example happened', 'start': 539.44, 'duration': 3.92}
+{'text': "like we basically we've covered this", 'start': 541.519, 'duration': 4.241}
+{'text': 'before that recently', 'start': 543.36, 'duration': 4.159}
+{'text': 'in in the literature like for example', 'start': 545.76, 'duration': 3.199}
+{'text': 'the truth and reconciliation', 'start': 547.519, 'duration': 3.44}
+{'text': 'uh commission their whole string of', 'start': 548.959, 'duration': 3.361}
+{'text': 'reports', 'start': 550.959, 'duration': 3.601}
+{'text': 'refers to it really almost always as', 'start': 552.32, 'duration': 4.8}
+{'text': 'cultural genocide it very rarely uses', 'start': 554.56, 'duration': 3.279}
+{'text': 'that word', 'start': 557.12, 'duration': 2.64}
+{'text': 'sure uh because of the political baggage', 'start': 557.839, 'duration': 3.201}
+{'text': 'that it carries of course but', 'start': 559.76, 'duration': 2.8}
+{'text': 'within like actual literature in', 'start': 561.04, 'duration': 3.12}
+{'text': 'indigenous studies there has been a', 'start': 562.56, 'duration': 4.32}
+{'text': 'movement to reclaim the word genocide', 'start': 564.16, 'duration': 4.56}
+{'text': 'you know and you talk about the u.n', 'start': 566.88, 'duration': 3.04}
+{'text': 'genocide convention', 'start': 568.72, 'duration': 2.88}
+{'text': 'and international law and you reference', 'start': 569.92, 'duration': 4.0}
+{'text': 'you know raphael lemkin and whatnot', 'start': 571.6, 'duration': 4.72}
+{'text': 'um as as you know because you have this', 'start': 573.92, 'duration': 4.32}
+{'text': 'political force behind the word genocide', 'start': 576.32, 'duration': 3.199}
+{'text': "that isn't there behind cultural", 'start': 578.24, 'duration': 2.08}
+{'text': 'genocide', 'start': 579.519, 'duration': 2.0}
+{'text': "you know that's a whole empirical", 'start': 580.32, 'duration': 2.8}
+{'text': "argument but that's not even what they", 'start': 581.519, 'duration': 2.801}
+{'text': 'they were discussing', 'start': 583.12, 'duration': 3.2}
+{'text': 'instead lance chose to try to actually', 'start': 584.32, 'duration': 3.199}
+{'text': 'defend', 'start': 586.32, 'duration': 4.16}
+{'text': "genocide as physical like that that's", 'start': 587.519, 'duration': 3.841}
+{'text': 'not', 'start': 590.48, 'duration': 3.6}
+{'text': "i i i just i can't even have something", 'start': 591.36, 'duration': 4.159}
+{'text': "the problem is like there's like", 'start': 594.08, 'duration': 2.72}
+{'text': 'no yeah the problem is like there are a', 'start': 595.519, 'duration': 3.201}
+{'text': 'lot of good discussions to be had around', 'start': 596.8, 'duration': 3.039}
+{'text': 'like all the topics there', 'start': 598.72, 'duration': 2.4}
+{'text': 'but lance and the other dude like', 'start': 599.839, 'duration': 2.481}
+{'text': "literally didn't know anything about", 'start': 601.12, 'duration': 1.92}
+{'text': 'anything like', 'start': 602.32, 'duration': 2.959}
+{'text': "it sounds to me and i'd bet money on", 'start': 603.04, 'duration': 3.84}
+{'text': "this and i know i wouldn't be right", 'start': 605.279, 'duration': 3.201}
+{'text': 'all of their information basically just', 'start': 606.88, 'duration': 3.28}
+{'text': 'comes from like skimming twitter', 'start': 608.48, 'duration': 2.72}
+{'text': 'headlines', 'start': 610.16, 'duration': 2.64}
+{'text': "because they didn't know anything about", 'start': 611.2, 'duration': 3.28}
+{'text': 'a single topic they talked about', 'start': 612.8, 'duration': 3.36}
+{'text': "um and all and i've i've learned", 'start': 614.48, 'duration': 3.28}
+{'text': "everything that i've learned i would say", 'start': 616.16, 'duration': 3.76}
+{'text': "collectively i've done", 'start': 617.76, 'duration': 4.8}
+{'text': 'maybe maybe 30 to 60 minutes of reading', 'start': 619.92, 'duration': 4.56}
+{'text': "slash research that'd be like my guess", 'start': 622.56, 'duration': 2.719}
+{'text': 'on this', 'start': 624.48, 'duration': 2.479}
+{'text': "they didn't know anything about that 96", 'start': 625.279, 'duration': 3.12}
+{'text': 'school that shut down or the court case', 'start': 626.959, 'duration': 3.12}
+{'text': "around it they didn't know what gpr", 'start': 628.399, 'duration': 3.12}
+{'text': "scans were they didn't know why they", 'start': 630.079, 'duration': 2.641}
+{'text': 'were tbr scanning', 'start': 631.519, 'duration': 2.961}
+{'text': "they didn't know like when that dr bryce", 'start': 632.72, 'duration': 3.119}
+{'text': 'report was even filed', 'start': 634.48, 'duration': 2.64}
+{'text': "probably don't know anything about the", 'start': 635.839, 'duration': 2.641}
+{'text': 'progress on the truth and reconciliation', 'start': 637.12, 'duration': 2.32}
+{'text': "recommend like they didn't know anything", 'start': 638.48, 'duration': 2.16}
+{'text': 'about any topic they brought up like it', 'start': 639.44, 'duration': 2.56}
+{'text': 'was like they expected to come in rattle', 'start': 640.64, 'duration': 2.56}
+{'text': 'off some twitter headlines and win like', 'start': 642.0, 'duration': 2.16}
+{'text': "they didn't think the other side would", 'start': 643.2, 'duration': 3.44}
+{'text': 'prepare at all it was unbelievable to me', 'start': 644.16, 'duration': 5.359}
+{'text': 'yeah like i just from the very get-go', 'start': 646.64, 'duration': 3.36}
+{'text': 'you', 'start': 649.519, 'duration': 1.76}
+{'text': 'that there are a few discussions right', 'start': 650.0, 'duration': 2.88}
+{'text': 'that you can have you can have well is', 'start': 651.279, 'duration': 2.8}
+{'text': 'it actually you should it be probably', 'start': 652.88, 'duration': 3.36}
+{'text': 'considered genocide or not based on you', 'start': 654.079, 'duration': 2.721}
+{'text': 'know', 'start': 656.24, 'duration': 3.44}
+{'text': 'uh you know is that a pragmatic uh is', 'start': 656.8, 'duration': 4.32}
+{'text': 'that a helpful thing', 'start': 659.68, 'duration': 4.48}
+{'text': 'etc uh to be had and does it advance the', 'start': 661.12, 'duration': 4.64}
+{'text': 'actual goals of you know', 'start': 664.16, 'duration': 3.359}
+{'text': 'uh residential school survivors and', 'start': 665.76, 'duration': 3.199}
+{'text': "whatnot so there's that discussion you", 'start': 667.519, 'duration': 2.241}
+{'text': 'can have', 'start': 668.959, 'duration': 3.361}
+{'text': 'you can then have the discussion of um', 'start': 669.76, 'duration': 4.8}
+{'text': 'like were there actual atrocities', 'start': 672.32, 'duration': 4.72}
+{'text': 'that were intentionally inflicted upon', 'start': 674.56, 'duration': 4.24}
+{'text': 'indigenous children in residential', 'start': 677.04, 'duration': 2.4}
+{'text': 'schools', 'start': 678.8, 'duration': 3.36}
+{'text': 'the answer to that is also obviously yes', 'start': 679.44, 'duration': 3.2}
+{'text': 'um', 'start': 682.16, 'duration': 2.56}
+{'text': "but there's there's no space for the", 'start': 682.64, 'duration': 3.6}
+{'text': "discussion and i've never really seen", 'start': 684.72, 'duration': 3.04}
+{'text': 'someone try to', 'start': 686.24, 'duration': 4.24}
+{'text': 'try to actually claim this that you know', 'start': 687.76, 'duration': 4.319}
+{'text': 'that catholic priests', 'start': 690.48, 'duration': 4.16}
+{'text': 'or government um workers were like', 'start': 692.079, 'duration': 4.801}
+{'text': 'rounding up indigenous children', 'start': 694.64, 'duration': 3.759}
+{'text': 'shooting them like you know when i think', 'start': 696.88, 'duration': 2.959}
+{'text': 'of mass graves i think of like you know', 'start': 698.399, 'duration': 4.641}
+{'text': 'shrivernitsa or like', 'start': 699.839, 'duration': 3.201}
+{'text': "that's what a mass grave is that's what", 'start': 703.68, 'duration': 3.04}
+{'text': 'mass graves mean not just like places', 'start': 705.2, 'duration': 2.879}
+{'text': 'where lots of people were buried yeah oh', 'start': 706.72, 'duration': 2.88}
+{'text': "i mean they're unmarked graves and", 'start': 708.079, 'duration': 3.361}
+{'text': "that's that's how the chiefs", 'start': 709.6, 'duration': 4.72}
+{'text': 'that well one specific chief describe i', 'start': 711.44, 'duration': 6.079}
+{'text': 'think the 700 the 716', 'start': 714.32, 'duration': 5.12}
+{'text': 'graves that were found they described', 'start': 717.519, 'duration': 3.521}
+{'text': "they even said it's specifically not", 'start': 719.44, 'duration': 5.199}
+{'text': 'a mass grave it is a secretary', 'start': 721.04, 'duration': 5.039}
+{'text': 'yeah that was like they either lost the', 'start': 724.639, 'duration': 3.121}
+{'text': "headstone or they just wasn't maintained", 'start': 726.079, 'duration': 2.081}
+{'text': 'or like', 'start': 727.76, 'duration': 2.24}
+{'text': "yeah it's a little bit more complicated", 'start': 728.16, 'duration': 4.72}
+{'text': 'um yeah it just sucks because like', 'start': 730.0, 'duration': 4.48}
+{'text': "it sucks because like if there's a", 'start': 732.88, 'duration': 3.759}
+{'text': 'position if one is the most left-leaning', 'start': 734.48, 'duration': 3.919}
+{'text': 'position or rather if negative 10 is the', 'start': 736.639, 'duration': 3.2}
+{'text': 'most left-leaning position and 10 is the', 'start': 738.399, 'duration': 2.801}
+{'text': 'most right-leaning position', 'start': 739.839, 'duration': 3.44}
+{'text': 'the problem is that like by all the', 'start': 741.2, 'duration': 4.079}
+{'text': 'facts you could get most people to agree', 'start': 743.279, 'duration': 4.081}
+{'text': 'to like negative five but people want to', 'start': 745.279, 'duration': 4.0}
+{'text': 'start all the way at like negative 10 by', 'start': 747.36, 'duration': 3.12}
+{'text': 'making some [\xa0__\xa0] up', 'start': 749.279, 'duration': 2.721}
+{'text': 'and then like by the time people hear', 'start': 750.48, 'duration': 3.12}
+{'text': "arguments they're like at like four or", 'start': 752.0, 'duration': 2.88}
+{'text': 'five like in the plus side because they', 'start': 753.6, 'duration': 2.479}
+{'text': "don't even believe anything you say", 'start': 754.88, 'duration': 2.16}
+{'text': "anymore it's like well you lied about", 'start': 756.079, 'duration': 2.0}
+{'text': 'this and this and this and this like why', 'start': 757.04, 'duration': 2.16}
+{'text': 'the [\xa0__\xa0] would we think any of this is', 'start': 758.079, 'duration': 3.041}
+{'text': "happening like it's so irritating yeah", 'start': 759.2, 'duration': 3.84}
+{'text': 'i want to say though that there are', 'start': 761.12, 'duration': 3.2}
+{'text': 'specific', 'start': 763.04, 'duration': 4.799}
+{'text': 'you know reflecting on it there are', 'start': 764.32, 'duration': 6.319}
+{'text': 'movements i think in i keep saying the', 'start': 767.839, 'duration': 4.401}
+{'text': 'literature but just you know experts on', 'start': 770.639, 'duration': 2.561}
+{'text': 'the topic', 'start': 772.24, 'duration': 4.32}
+{'text': 'who want to um who want to sort of', 'start': 773.2, 'duration': 5.04}
+{'text': "weaken so they're not talking about", 'start': 776.56, 'duration': 3.279}
+{'text': 'cultural genocide per se', 'start': 778.24, 'duration': 3.599}
+{'text': "but they also don't mean genocide in the", 'start': 779.839, 'duration': 4.641}
+{'text': 'sense of you know the holocaust', 'start': 781.839, 'duration': 5.921}
+{'text': 'or no you know our typical', 'start': 784.48, 'duration': 5.84}
+{'text': 'cases of of genocide but want to weaken', 'start': 787.76, 'duration': 4.079}
+{'text': 'it enough and actually still call it a', 'start': 790.32, 'duration': 3.199}
+{'text': 'genocide but say it entails more than', 'start': 791.839, 'duration': 3.12}
+{'text': 'just cultural genocide', 'start': 793.519, 'duration': 3.921}
+{'text': "and i think maybe that's what lance is", 'start': 794.959, 'duration': 5.281}
+{'text': 'trying to reference i think it was um', 'start': 797.44, 'duration': 5.04}
+{'text': 'way too much credit but oh god well the', 'start': 800.24, 'duration': 3.839}
+{'text': 'the commissioner the commissioner of the', 'start': 802.48, 'duration': 3.28}
+{'text': 'truth and reconciliation committee', 'start': 804.079, 'duration': 4.961}
+{'text': 'uh marie wilson even said you know i i', 'start': 805.76, 'duration': 4.4}
+{'text': 'would qualify', 'start': 809.04, 'duration': 3.2}
+{'text': 'their experiences listening to the', 'start': 810.16, 'duration': 3.28}
+{'text': 'survivors', 'start': 812.24, 'duration': 3.2}
+{'text': 'listening to the survivors she said i', 'start': 813.44, 'duration': 4.16}
+{'text': 'would classify their experience as a', 'start': 815.44, 'duration': 3.36}
+{'text': 'genocide', 'start': 817.6, 'duration': 3.359}
+{'text': "because they didn't describe it as a", 'start': 818.8, 'duration': 4.0}
+{'text': 'cultural genocide they described it as a', 'start': 820.959, 'duration': 3.44}
+{'text': 'genocide itself', 'start': 822.8, 'duration': 4.159}
+{'text': "but that's very different than the", 'start': 824.399, 'duration': 4.88}
+{'text': 'conclusion of the truth reconciliation', 'start': 826.959, 'duration': 5.44}
+{'text': 'um report saying that cultural genocide', 'start': 829.279, 'duration': 4.081}
+{'text': 'actually happened', 'start': 832.399, 'duration': 3.521}
+{'text': 'instead it is the survivors of the', 'start': 833.36, 'duration': 3.839}
+{'text': 'residential schools', 'start': 835.92, 'duration': 2.88}
+{'text': 'saying that the way they describe their', 'start': 837.199, 'duration': 3.601}
+{'text': 'own experiences as one of genocide', 'start': 838.8, 'duration': 3.76}
+{'text': 'as opposed to one of cultural genocide', 'start': 840.8, 'duration': 3.12}
+{'text': "and i mean that's fine", 'start': 842.56, 'duration': 2.48}
+{'text': 'and that kind of can go into the', 'start': 843.92, 'duration': 2.719}
+{'text': 'pragmatic discussion of whether using', 'start': 845.04, 'duration': 3.12}
+{'text': 'that term is useful or not but that', 'start': 846.639, 'duration': 3.281}
+{'text': "doesn't change the facts of the matter", 'start': 848.16, 'duration': 3.2}
+{'text': 'about whether a genocide actually', 'start': 849.92, 'duration': 3.2}
+{'text': 'happened or not the way that they', 'start': 851.36, 'duration': 3.52}
+{'text': 'describe it is not', 'start': 853.12, 'duration': 3.6}
+{'text': "i'm obviously it is very important", 'start': 854.88, 'duration': 3.28}
+{'text': 'because that is data', 'start': 856.72, 'duration': 4.479}
+{'text': 'but you understand what i mean that the', 'start': 858.16, 'duration': 4.88}
+{'text': 'actual existence of a genocide occurring', 'start': 861.199, 'duration': 4.08}
+{'text': 'or not is not dependent on what i think', 'start': 863.04, 'duration': 5.599}
+{'text': 'one individual thinks happened um', 'start': 865.279, 'duration': 5.36}
+{'text': 'you actually have to provide you have to', 'start': 868.639, 'duration': 4.32}
+{'text': 'provide a lot of evidence to establish', 'start': 870.639, 'duration': 4.56}
+{'text': 'something like a genocide is happening', 'start': 872.959, 'duration': 3.361}
+{'text': "yeah especially and that's the thing", 'start': 875.199, 'duration': 2.401}
+{'text': 'that irritates me the most and i push', 'start': 876.32, 'duration': 2.8}
+{'text': 'back on this a lot a few months ago', 'start': 877.6, 'duration': 2.72}
+{'text': 'maybe even in talking', 'start': 879.12, 'duration': 2.24}
+{'text': 'oh i think we were going to talk about', 'start': 880.32, 'duration': 2.24}
+{'text': "it maybe we didn't i'm really", 'start': 881.36, 'duration': 2.96}
+{'text': 'uncomfortable characterizing anything as', 'start': 882.56, 'duration': 3.2}
+{'text': 'an ongoing genocide', 'start': 884.32, 'duration': 2.879}
+{'text': 'because in my opinion an ongoing', 'start': 885.76, 'duration': 3.439}
+{'text': 'genocide demands like violent action', 'start': 887.199, 'duration': 4.481}
+{'text': 'immediately because ongoing genocide', 'start': 889.199, 'duration': 4.32}
+{'text': 'implies that somebody with a great deal', 'start': 891.68, 'duration': 2.719}
+{'text': 'of power', 'start': 893.519, 'duration': 5.44}
+{'text': 'is currently deliberately trying to', 'start': 894.399, 'duration': 4.56}
+{'text': 'because if you want to tell me that', 'start': 899.76, 'duration': 3.12}
+{'text': "there was a genocide in canada i'd", 'start': 900.88, 'duration': 3.759}
+{'text': 'probably believe that there was probably', 'start': 902.88, 'duration': 3.759}
+{'text': 'a genocide in almost every country', 'start': 904.639, 'duration': 3.921}
+{'text': 'related to the indigenous populations', 'start': 906.639, 'duration': 3.521}
+{'text': 'because they did actually want to', 'start': 908.56, 'duration': 3.44}
+{'text': 'destroy or remove an entire group', 'start': 910.16, 'duration': 3.52}
+{'text': 'of people and there was intentionality', 'start': 912.0, 'duration': 3.519}
+{'text': 'behind there i would agree with that in', 'start': 913.68, 'duration': 3.44}
+{'text': 'a heartbeat', 'start': 915.519, 'duration': 2.961}
+{'text': "yeah don't you think that's different", 'start': 917.12, 'duration': 3.92}
+{'text': 'than the black population in the u.s', 'start': 918.48, 'duration': 4.24}
+{'text': 'this is the problem that i have and i', 'start': 921.04, 'duration': 3.359}
+{'text': "don't really care", 'start': 922.72, 'duration': 2.96}
+{'text': 'that much about like the words or the', 'start': 924.399, 'duration': 2.481}
+{'text': "definitions but here's the problem that", 'start': 925.68, 'duration': 2.0}
+{'text': 'i have okay', 'start': 926.88, 'duration': 2.16}
+{'text': "let's say that i was given two different", 'start': 927.68, 'duration': 2.959}
+{'text': "countries let's say that in one of those", 'start': 929.04, 'duration': 2.159}
+{'text': 'countries', 'start': 930.639, 'duration': 2.64}
+{'text': 'somebody told me that a population was', 'start': 931.199, 'duration': 3.2}
+{'text': 'being genocided', 'start': 933.279, 'duration': 2.8}
+{'text': 'and then in another country somebody', 'start': 934.399, 'duration': 2.641}
+{'text': 'told me that there was a bunch of', 'start': 936.079, 'duration': 2.401}
+{'text': 'systemic conditions leading to the', 'start': 937.04, 'duration': 3.52}
+{'text': 'erasure of a group of people', 'start': 938.48, 'duration': 4.159}
+{'text': 'in the first country i would need to do', 'start': 940.56, 'duration': 3.519}
+{'text': 'one thing first because i need to find', 'start': 942.639, 'duration': 3.12}
+{'text': "out are all the people they're genocidal", 'start': 944.079, 'duration': 3.361}
+{'text': 'does the public support the genocide of', 'start': 945.759, 'duration': 3.361}
+{'text': "a population if that wasn't the case", 'start': 947.44, 'duration': 3.519}
+{'text': 'well now i need to find out which', 'start': 949.12, 'duration': 3.12}
+{'text': 'aspects of the government', 'start': 950.959, 'duration': 2.88}
+{'text': 'are covertly involved in this there', 'start': 952.24, 'duration': 3.12}
+{'text': 'needs to be investigations', 'start': 953.839, 'duration': 4.0}
+{'text': 'there needs to be prosecutions maybe war', 'start': 955.36, 'duration': 4.399}
+{'text': "crime trials or something um if it's an", 'start': 957.839, 'duration': 3.841}
+{'text': 'internationally defined genocide right', 'start': 959.759, 'duration': 3.281}
+{'text': 'we need to find those people we need to', 'start': 961.68, 'duration': 2.48}
+{'text': 'make them accountable bring them to', 'start': 963.04, 'duration': 1.68}
+{'text': 'justice', 'start': 964.16, 'duration': 2.0}
+{'text': 'and then hopefully the system will begin', 'start': 964.72, 'duration': 3.52}
+{'text': 'to reorient itself in order to', 'start': 966.16, 'duration': 3.599}
+{'text': 'alleviate the concerns of the indigenous', 'start': 968.24, 'duration': 3.36}
+{'text': 'populations that would be the goal', 'start': 969.759, 'duration': 3.52}
+{'text': 'but in the second country if there', 'start': 971.6, 'duration': 3.599}
+{'text': "wasn't like this explicit intentional", 'start': 973.279, 'duration': 2.8}
+{'text': 'genocide occurring', 'start': 975.199, 'duration': 2.961}
+{'text': "well then it's just okay we have a whole", 'start': 976.079, 'duration': 3.921}
+{'text': 'bunch of systemic issues we need to come', 'start': 978.16, 'duration': 3.119}
+{'text': 'together we need to figure out different', 'start': 980.0, 'duration': 2.079}
+{'text': 'ways to approach', 'start': 981.279, 'duration': 2.0}
+{'text': 'and solve these problems because what', 'start': 982.079, 'duration': 3.041}
+{'text': "we're doing right now isn't working", 'start': 983.279, 'duration': 2.8}
+{'text': 'the way that you would address the', 'start': 985.12, 'duration': 2.719}
+{'text': 'problems in each country is wholly', 'start': 986.079, 'duration': 2.401}
+{'text': 'different', 'start': 987.839, 'duration': 1.92}
+{'text': "and this is why i don't like using a", 'start': 988.48, 'duration': 3.68}
+{'text': 'word like genocide to define', 'start': 989.759, 'duration': 4.241}
+{'text': 'what could just be like bad systemic', 'start': 992.16, 'duration': 2.64}
+{'text': "problems because now you're going to", 'start': 994.0, 'duration': 2.32}
+{'text': 'have people looking because you need a', 'start': 994.8, 'duration': 2.719}
+{'text': 'bad guy', 'start': 996.32, 'duration': 3.36}
+{'text': 'well for genocide it comes down to you', 'start': 997.519, 'duration': 4.32}
+{'text': 'like cartoonishly you need a bad guy', 'start': 999.68, 'duration': 5.36}
+{'text': "the results you need a bad guy i don't", 'start': 1001.839, 'duration': 4.161}
+{'text': 'need a bad guy', 'start': 1005.04, 'duration': 2.96}
+{'text': 'and so like when people start pushing', 'start': 1006.0, 'duration': 3.6}
+{'text': 'that narrative and then you start to see', 'start': 1008.0, 'duration': 3.199}
+{'text': 'like [\xa0__\xa0] like 20 plus churches or', 'start': 1009.6, 'duration': 2.72}
+{'text': 'whatever over the past few months have', 'start': 1011.199, 'duration': 1.921}
+{'text': 'been burned down', 'start': 1012.32, 'duration': 2.24}
+{'text': "it's like okay well [\xa0__\xa0] like i mean", 'start': 1013.12, 'duration': 2.719}
+{'text': "that's kind of the response that you", 'start': 1014.56, 'duration': 2.48}
+{'text': "would expect if you're legitimately", 'start': 1015.839, 'duration': 2.401}
+{'text': 'trying to say that there is a current', 'start': 1017.04, 'duration': 3.44}
+{'text': 'ongoing genocide you know', 'start': 1018.24, 'duration': 6.4}
+{'text': "yeah and it's tricky because", 'start': 1020.48, 'duration': 6.64}
+{'text': "like it's a commission right and the", 'start': 1024.64, 'duration': 4.559}
+{'text': "commission didn't have the legal purge", 'start': 1027.12, 'duration': 3.839}
+{'text': 'like they were not investigating whether', 'start': 1029.199, 'duration': 3.6}
+{'text': 'genocide occurred in the first place', 'start': 1030.959, 'duration': 3.521}
+{'text': "so i'm not really i i don't often", 'start': 1032.799, 'duration': 3.12}
+{'text': 'understand why people are referencing', 'start': 1034.48, 'duration': 2.479}
+{'text': 'the document as', 'start': 1035.919, 'duration': 2.721}
+{'text': 'establishing that because by the very', 'start': 1036.959, 'duration': 3.12}
+{'text': 'nature of the report', 'start': 1038.64, 'duration': 3.679}
+{'text': 'the truth and reconciliation commission', 'start': 1040.079, 'duration': 3.201}
+{'text': 'report', 'start': 1042.319, 'duration': 3.441}
+{'text': "was not it wasn't within the legal", 'start': 1043.28, 'duration': 4.88}
+{'text': 'balance it was a post-judicial review', 'start': 1045.76, 'duration': 6.4}
+{'text': 'right um to help you know settle', 'start': 1048.16, 'duration': 7.36}
+{'text': 'this massive um class-action uh', 'start': 1052.16, 'duration': 5.36}
+{'text': 'lawsuit uh against the canadian', 'start': 1055.52, 'duration': 3.92}
+{'text': 'government so', 'start': 1057.52, 'duration': 5.36}
+{'text': 'you know it was not it was not meant to', 'start': 1059.44, 'duration': 5.76}
+{'text': 'determine the type of conclusions that', 'start': 1062.88, 'duration': 3.919}
+{'text': 'people like lance or you know other', 'start': 1065.2, 'duration': 3.359}
+{'text': 'people on the left want to say it does', 'start': 1066.799, 'duration': 3.841}
+{'text': 'um you have to be referencing something', 'start': 1068.559, 'duration': 4.641}
+{'text': 'more than that in order to do that', 'start': 1070.64, 'duration': 4.159}
+{'text': "and these people just don't have the", 'start': 1073.2, 'duration': 4.0}
+{'text': 'knowledge yeah any of that', 'start': 1074.799, 'duration': 4.641}
+{'text': 'yeah in order to actually make those', 'start': 1077.2, 'duration': 3.52}
+{'text': 'types of arguments', 'start': 1079.44, 'duration': 2.72}
+{'text': "and so you know as someone who's", 'start': 1080.72, 'duration': 3.44}
+{'text': 'interested and you know cares about', 'start': 1082.16, 'duration': 2.72}
+{'text': 'indigenous', 'start': 1084.16, 'duration': 4.399}
+{'text': "rights obviously i i don't even know", 'start': 1084.88, 'duration': 5.44}
+{'text': "i don't even know how you begin having", 'start': 1088.559, 'duration': 3.521}
+{'text': 'me like for someone like lauren southern', 'start': 1090.32, 'duration': 3.44}
+{'text': 'like what what would be', 'start': 1092.08, 'duration': 4.88}
+{'text': 'the tactics um that you would use', 'start': 1093.76, 'duration': 5.12}
+{'text': 'because ultimately i i think people are', 'start': 1096.96, 'duration': 3.52}
+{'text': 'just using it and trying to be a bit', 'start': 1098.88, 'duration': 3.28}
+{'text': 'contrarian about it in order to gain', 'start': 1100.48, 'duration': 2.079}
+{'text': 'traffic', 'start': 1102.16, 'duration': 1.68}
+{'text': "well like and that's the question and", 'start': 1102.559, 'duration': 2.561}
+{'text': "that's the issue because it's hard to", 'start': 1103.84, 'duration': 2.56}
+{'text': 'tell where because', 'start': 1105.12, 'duration': 3.28}
+{'text': 'based on the concessions that like', 'start': 1106.4, 'duration': 4.0}
+{'text': "lauren why don't you call him concession", 'start': 1108.4, 'duration': 3.279}
+{'text': 'based on things that she did say', 'start': 1110.4, 'duration': 3.44}
+{'text': "it sounds like even for somebody i don't", 'start': 1111.679, 'duration': 3.36}
+{'text': 'know how far right she is', 'start': 1113.84, 'duration': 2.48}
+{'text': "today but for somebody's far right", 'start': 1115.039, 'duration': 2.561}
+{'text': 'shades it seems like even she agrees', 'start': 1116.32, 'duration': 2.479}
+{'text': 'that there were like atrocities that', 'start': 1117.6, 'duration': 2.8}
+{'text': 'were committed in the residential school', 'start': 1118.799, 'duration': 2.321}
+{'text': 'system', 'start': 1120.4, 'duration': 2.48}
+{'text': 'like so if somebody that far right even', 'start': 1121.12, 'duration': 2.88}
+{'text': 'agrees with that then it seems like', 'start': 1122.88, 'duration': 2.64}
+{'text': "you've got way more common ground than", 'start': 1124.0, 'duration': 3.12}
+{'text': 'it seems so why would you start with', 'start': 1125.52, 'duration': 3.36}
+{'text': 'something so divisive and so like', 'start': 1127.12, 'duration': 2.559}
+{'text': 'unfactual like', 'start': 1128.88, 'duration': 3.2}
+{'text': "it's just so stupid yeah that that white", 'start': 1129.679, 'duration': 3.441}
+{'text': 'rabbit guy too is', 'start': 1132.08, 'duration': 3.04}
+{'text': 'like the bigger disappointment lance i', 'start': 1133.12, 'duration': 2.96}
+{'text': "don't know how much of that debate you", 'start': 1135.12, 'duration': 2.48}
+{'text': 'listen to but oh my god what an absolute', 'start': 1136.08, 'duration': 2.8}
+{'text': '[\xa0__\xa0] clown', 'start': 1137.6, 'duration': 3.68}
+{'text': 'connor shut the [\xa0__\xa0] up lord please for', 'start': 1138.88, 'duration': 4.159}
+{'text': "the love of god tale of twin rabbits i'm", 'start': 1141.28, 'duration': 3.279}
+{'text': 'pretty sure your brain is running on', 'start': 1143.039, 'duration': 2.721}
+{'text': '1995. okay', 'start': 1144.559, 'duration': 3.921}
+{'text': "never mind connor [\xa0__\xa0] you're clear", 'start': 1145.76, 'duration': 4.32}
+{'text': 'for takeoff', 'start': 1148.48, 'duration': 3.28}
+{'text': "we're [\xa0__\xa0] 30 minutes into this", 'start': 1150.08, 'duration': 3.52}
+{'text': 'goddamn debate talking about like', 'start': 1151.76, 'duration': 3.919}
+{'text': "i don't know terms about murder and", 'start': 1153.6, 'duration': 3.68}
+{'text': 'descriptive reality and history and all', 'start': 1155.679, 'duration': 2.721}
+{'text': 'that kind of [\xa0__\xa0] and you want to talk', 'start': 1157.28, 'duration': 2.96}
+{'text': 'to lauren about [\xa0__\xa0] gpr', 'start': 1158.4, 'duration': 3.92}
+{'text': 'and whether or not she can offhand and', 'start': 1160.24, 'duration': 3.679}
+{'text': 'come up with a new way to conduct', 'start': 1162.32, 'duration': 2.56}
+{'text': 'anthropology', 'start': 1163.919, 'duration': 3.361}
+{'text': "i don't give a [\xa0__\xa0] [\xa0__\xa0] catch up", 'start': 1164.88, 'duration': 3.679}
+{'text': "because basically what you're doing", 'start': 1167.28, 'duration': 2.8}
+{'text': "right now is you're acting smarter than", 'start': 1168.559, 'duration': 2.961}
+{'text': 'everybody else in the [\xa0__\xa0] room', 'start': 1170.08, 'duration': 3.839}
+{'text': 'while saying absolutely nothing', 'start': 1171.52, 'duration': 4.88}
+{'text': 'absolutely [\xa0__\xa0] true okay', 'start': 1173.919, 'duration': 6.561}
+{'text': 'he reminded he spoke like bosch', 'start': 1176.4, 'duration': 4.08}
+{'text': "there's a lot of people like you can", 'start': 1180.799, 'duration': 3.361}
+{'text': "tell when someone's watching bosh", 'start': 1182.48, 'duration': 3.6}
+{'text': 'because they start to speak like him', 'start': 1184.16, 'duration': 3.759}
+{'text': 'and actually that really comes back to', 'start': 1186.08, 'duration': 3.52}
+{'text': 'you because you influenced the way that', 'start': 1187.919, 'duration': 2.961}
+{'text': 'bosh speaks', 'start': 1189.6, 'duration': 3.12}
+{'text': 'so you can actually recognize parts of', 'start': 1190.88, 'duration': 3.36}
+{'text': "you and these monsters that you're", 'start': 1192.72, 'duration': 2.319}
+{'text': 'creating', 'start': 1194.24, 'duration': 2.24}
+{'text': "so i think it's my third generation", 'start': 1195.039, 'duration': 3.441}
+{'text': 'clones you know my demons exactly', 'start': 1196.48, 'duration': 3.76}
+{'text': "you're you are partially to blame for", 'start': 1198.48, 'duration': 3.04}
+{'text': 'all of this', 'start': 1200.24, 'duration': 4.4}
+{'text': 'so uh am i trying but you know what', 'start': 1201.52, 'duration': 5.44}
+{'text': "i i'd are they going to do another", 'start': 1204.64, 'duration': 4.399}
+{'text': 'debate or is that just completely off', 'start': 1206.96, 'duration': 5.12}
+{'text': 'i would be shocked um because', 'start': 1209.039, 'duration': 5.12}
+{'text': 'there are a lot of kind of like i', 'start': 1212.08, 'duration': 3.36}
+{'text': 'personally think that lauren was', 'start': 1214.159, 'duration': 2.561}
+{'text': 'involved in stuff that was', 'start': 1215.44, 'duration': 2.719}
+{'text': 'way too far right for anything i would', 'start': 1216.72, 'duration': 3.28}
+{'text': 'find acceptable yeah but there', 'start': 1218.159, 'duration': 4.64}
+{'text': 'is a lot of exaggeration there and lance', 'start': 1220.0, 'duration': 4.08}
+{'text': 'plays into it', 'start': 1222.799, 'duration': 3.041}
+{'text': 'um so for instance like she was never', 'start': 1224.08, 'duration': 3.36}
+{'text': 'like shooting flares', 'start': 1225.84, 'duration': 3.199}
+{'text': 'like at immigrants or whatever like that', 'start': 1227.44, 'duration': 3.84}
+{'text': 'like a lot of it is heavily exaggerated', 'start': 1229.039, 'duration': 4.081}
+{'text': "so the problem that's gonna happen and", 'start': 1231.28, 'duration': 3.44}
+{'text': "this is i don't think he'll actually do", 'start': 1233.12, 'duration': 1.919}
+{'text': 'this', 'start': 1234.72, 'duration': 1.68}
+{'text': 'actually he might his ego might be able', 'start': 1235.039, 'duration': 2.88}
+{'text': 'to do it the problem is that if lance', 'start': 1236.4, 'duration': 3.519}
+{'text': 'goes into a debate with lauren southern', 'start': 1237.919, 'duration': 3.201}
+{'text': 'lauren is going to come out of that', 'start': 1239.919, 'duration': 2.88}
+{'text': "debate looking like she actually wasn't", 'start': 1241.12, 'duration': 3.2}
+{'text': 'involved in anything far right at all', 'start': 1242.799, 'duration': 3.201}
+{'text': "because all of lance's claims", 'start': 1244.32, 'duration': 4.08}
+{'text': 'are going to be staked way too extreme', 'start': 1246.0, 'duration': 3.12}
+{'text': "and they're not going to", 'start': 1248.4, 'duration': 2.24}
+{'text': 'actually like trace back to reality much', 'start': 1249.12, 'duration': 3.28}
+{'text': "and she's going to have like 50.", 'start': 1250.64, 'duration': 4.159}
+{'text': "um i'll just say that she has a lot of", 'start': 1252.4, 'duration': 3.279}
+{'text': 'evidence of', 'start': 1254.799, 'duration': 2.801}
+{'text': 'what because of stuff not on like', 'start': 1255.679, 'duration': 3.521}
+{'text': 'wikipedia she has a lot of evidence for', 'start': 1257.6, 'duration': 2.88}
+{'text': 'like what actually happened to what she', 'start': 1259.2, 'duration': 2.16}
+{'text': 'was involved in', 'start': 1260.48, 'duration': 2.319}
+{'text': 'that is contrary to a lot of like the', 'start': 1261.36, 'duration': 3.439}
+{'text': 'really popular left-leaning narrative so', 'start': 1262.799, 'duration': 3.36}
+{'text': 'it would be like a really bad', 'start': 1264.799, 'duration': 3.521}
+{'text': 'conversation for him to have', 'start': 1266.159, 'duration': 5.361}
+{'text': 'yeah then the other thing though is', 'start': 1268.32, 'duration': 5.28}
+{'text': 'i mean even with someone like lauren', 'start': 1271.52, 'duration': 4.159}
+{'text': "that i don't think that she was really", 'start': 1273.6, 'duration': 3.68}
+{'text': 'engaging with the issue like', 'start': 1275.679, 'duration': 3.441}
+{'text': 'i remember she was talking about like oh', 'start': 1277.28, 'duration': 3.44}
+{'text': 'you know i want to see what we should', 'start': 1279.12, 'duration': 2.88}
+{'text': 'really do is we should find those', 'start': 1280.72, 'duration': 2.48}
+{'text': 'individual', 'start': 1282.0, 'duration': 4.0}
+{'text': 'um the individual actors who committed', 'start': 1283.2, 'duration': 5.2}
+{'text': 'these crimes and you know yada yada', 'start': 1286.0, 'duration': 4.159}
+{'text': 'and i think she eventually said you know', 'start': 1288.4, 'duration': 4.08}
+{'text': "but there's you know it's been however", 'start': 1290.159, 'duration': 4.0}
+{'text': 'many years since that happened so', 'start': 1292.48, 'duration': 3.36}
+{'text': "but the other thing is that i i don't", 'start': 1294.159, 'duration': 3.601}
+{'text': 'really know indigenous people who want', 'start': 1295.84, 'duration': 2.48}
+{'text': 'that', 'start': 1297.76, 'duration': 2.88}
+{'text': "i've never heard and i know quite a few", 'start': 1298.32, 'duration': 3.76}
+{'text': 'residential school survivors', 'start': 1300.64, 'duration': 3.919}
+{'text': 'none of them are asking for that right', 'start': 1302.08, 'duration': 4.479}
+{'text': "because for one thing that's incredibly", 'start': 1304.559, 'duration': 4.401}
+{'text': 'emotionally an emotionally draining', 'start': 1306.559, 'duration': 4.48}
+{'text': 'experience to go on the stand', 'start': 1308.96, 'duration': 4.64}
+{'text': 'and you know what is basically a settler', 'start': 1311.039, 'duration': 3.52}
+{'text': 'dominated', 'start': 1313.6, 'duration': 4.959}
+{'text': "legal system let's let's be frank um", 'start': 1314.559, 'duration': 5.681}
+{'text': 'to then you know try to prosecute these', 'start': 1318.559, 'duration': 3.841}
+{'text': 'individual governmental workers or or', 'start': 1320.24, 'duration': 3.2}
+{'text': 'catholic priests or', 'start': 1322.4, 'duration': 2.639}
+{'text': "or whoever it may be that that's just", 'start': 1323.44, 'duration': 3.68}
+{'text': "not something that's really on the table", 'start': 1325.039, 'duration': 4.081}
+{'text': 'um so it seems like a lot of the', 'start': 1327.12, 'duration': 4.24}
+{'text': 'discussion about the topic', 'start': 1329.12, 'duration': 4.88}
+{'text': "are it's completely useless because", 'start': 1331.36, 'duration': 3.84}
+{'text': 'these are not the things that need to be', 'start': 1334.0, 'duration': 2.64}
+{'text': 'talked about when we talk about you know', 'start': 1335.2, 'duration': 2.959}
+{'text': 'indigenous reconciliation', 'start': 1336.64, 'duration': 3.68}
+{'text': 'sure uh we have to actually be talking', 'start': 1338.159, 'duration': 3.76}
+{'text': 'about well what can the government do', 'start': 1340.32, 'duration': 2.16}
+{'text': 'now', 'start': 1341.919, 'duration': 2.0}
+{'text': 'i think the point of bringing that up', 'start': 1342.48, 'duration': 2.88}
+{'text': "though is that like something that's", 'start': 1343.919, 'duration': 3.12}
+{'text': 'very frustrating is that', 'start': 1345.36, 'duration': 3.28}
+{'text': 'the legal system a lot of people have a', 'start': 1347.039, 'duration': 2.961}
+{'text': 'misconception that the legal system', 'start': 1348.64, 'duration': 3.12}
+{'text': 'works like a tv show where every murder', 'start': 1350.0, 'duration': 3.2}
+{'text': 'all of these things are solvable as long', 'start': 1351.76, 'duration': 2.96}
+{'text': 'as you like have like the smartest guys', 'start': 1353.2, 'duration': 2.32}
+{'text': 'researching it', 'start': 1354.72, 'duration': 2.48}
+{'text': 'when it comes to like sexual molestation', 'start': 1355.52, 'duration': 3.519}
+{'text': "cases or that stuff that's like 20 30", 'start': 1357.2, 'duration': 2.8}
+{'text': 'years old even something', 'start': 1359.039, 'duration': 2.481}
+{'text': "that's current day if nobody's willing", 'start': 1360.0, 'duration': 3.039}
+{'text': "to like come out and testify like you're", 'start': 1361.52, 'duration': 2.72}
+{'text': "pretty [\xa0__\xa0] like you're never really", 'start': 1363.039, 'duration': 2.64}
+{'text': "gonna solve any of this [\xa0__\xa0] like it's", 'start': 1364.24, 'duration': 2.319}
+{'text': 'just [\xa0__\xa0]', 'start': 1365.679, 'duration': 2.721}
+{'text': 'um and i think that was i think because', 'start': 1366.559, 'duration': 3.201}
+{'text': 'lance was trying to say like oh like why', 'start': 1368.4, 'duration': 2.48}
+{'text': "aren't all of these cases being worked", 'start': 1369.76, 'duration': 2.32}
+{'text': "on or whatever and it's like well i", 'start': 1370.88, 'duration': 3.12}
+{'text': 'i mean like unfortunately like he just', 'start': 1372.08, 'duration': 3.12}
+{'text': 'never will be right', 'start': 1374.0, 'duration': 2.72}
+{'text': 'um and i think he was arguing that the', 'start': 1375.2, 'duration': 2.959}
+{'text': 'catholic church should release all the', 'start': 1376.72, 'duration': 2.72}
+{'text': 'records for all the priests that worked', 'start': 1378.159, 'duration': 2.241}
+{'text': 'at those schools', 'start': 1379.44, 'duration': 2.0}
+{'text': "but i mean given that they're already", 'start': 1380.4, 'duration': 2.88}
+{'text': 'burning down churches i would be pretty', 'start': 1381.44, 'duration': 3.52}
+{'text': 'it would be probably not good to release', 'start': 1383.28, 'duration': 2.96}
+{'text': 'the names of everybody that was involved', 'start': 1384.96, 'duration': 2.719}
+{'text': 'in it', 'start': 1386.24, 'duration': 5.439}
+{'text': "yeah and i i agree to an extent but it's", 'start': 1387.679, 'duration': 6.641}
+{'text': 'also just', 'start': 1391.679, 'duration': 5.041}
+{'text': "it's difficult because like for example", 'start': 1394.32, 'duration': 3.68}
+{'text': 'there are a lot of like i think', 'start': 1396.72, 'duration': 3.6}
+{'text': 'you and i still probably disagree on the', 'start': 1398.0, 'duration': 4.159}
+{'text': 'matter you know fun like', 'start': 1400.32, 'duration': 3.68}
+{'text': 'do i think that the canadian government', 'start': 1402.159, 'duration': 3.841}
+{'text': 'is committing genocide right now', 'start': 1404.0, 'duration': 4.4}
+{'text': 'obviously no obviously not but the', 'start': 1406.0, 'duration': 4.32}
+{'text': 'canadian government is still taking', 'start': 1408.4, 'duration': 4.88}
+{'text': 'and has recently taken active steps that', 'start': 1410.32, 'duration': 5.359}
+{'text': "don't point towards reconciliation", 'start': 1413.28, 'duration': 4.08}
+{'text': "and that's what's very frustrating i", 'start': 1415.679, 'duration': 3.441}
+{'text': 'think to indigenous people', 'start': 1417.36, 'duration': 3.679}
+{'text': 'is that the government is not being as', 'start': 1419.12, 'duration': 3.6}
+{'text': 'transparent as it needs to be', 'start': 1421.039, 'duration': 3.601}
+{'text': "it's not assisting in the way that they", 'start': 1422.72, 'duration': 3.6}
+{'text': 'need to um', 'start': 1424.64, 'duration': 3.12}
+{'text': "and and that's what should really be", 'start': 1426.32, 'duration': 2.959}
+{'text': 'talked about you know like the canadian', 'start': 1427.76, 'duration': 2.32}
+{'text': 'government', 'start': 1429.279, 'duration': 4.561}
+{'text': 'uh they were destroying documents um', 'start': 1430.08, 'duration': 5.12}
+{'text': 'that would have been relevant to the', 'start': 1433.84, 'duration': 3.04}
+{'text': 'conclusions made by', 'start': 1435.2, 'duration': 5.2}
+{'text': 'the uh by the report um a lot of people', 'start': 1436.88, 'duration': 4.64}
+{'text': "don't know that", 'start': 1440.4, 'duration': 3.68}
+{'text': 'but this canadian supreme court made it', 'start': 1441.52, 'duration': 3.84}
+{'text': 'legal to destroy', 'start': 1444.08, 'duration': 3.36}
+{'text': 'uh documents from the department of', 'start': 1445.36, 'duration': 3.439}
+{'text': 'indian affairs and its', 'start': 1447.44, 'duration': 4.719}
+{'text': 'subsequent um agents their subsequent uh', 'start': 1448.799, 'duration': 4.161}
+{'text': 'departments', 'start': 1452.159, 'duration': 4.241}
+{'text': 'you know if they are 15 year years old', 'start': 1452.96, 'duration': 5.36}
+{'text': 'and they did destroy a ton of documents', 'start': 1456.4, 'duration': 3.92}
+{'text': 'i mean that that to me is clearly a step', 'start': 1458.32, 'duration': 3.839}
+{'text': 'that the canadian government took', 'start': 1460.32, 'duration': 4.32}
+{'text': 'to reduce its legal liability and they', 'start': 1462.159, 'duration': 4.081}
+{'text': 'are spending', 'start': 1464.64, 'duration': 4.56}
+{'text': 'a ton of money fighting a lot of', 'start': 1466.24, 'duration': 4.319}
+{'text': 'indigenous people', 'start': 1469.2, 'duration': 4.0}
+{'text': 'in court to prevent them from getting', 'start': 1470.559, 'duration': 4.24}
+{'text': 'the type of reparations that they', 'start': 1473.2, 'duration': 2.959}
+{'text': 'probably rightfully deserve', 'start': 1474.799, 'duration': 3.76}
+{'text': 'sure right so those are points that', 'start': 1476.159, 'duration': 3.921}
+{'text': 'those are things you can point to', 'start': 1478.559, 'duration': 3.521}
+{'text': 'that are active steps made by the', 'start': 1480.08, 'duration': 3.28}
+{'text': 'canadian government', 'start': 1482.08, 'duration': 4.079}
+{'text': 'that in a sense continue the process of', 'start': 1483.36, 'duration': 4.08}
+{'text': 'cultural genocide', 'start': 1486.159, 'duration': 3.76}
+{'text': "because that's just to say they are not", 'start': 1487.44, 'duration': 4.719}
+{'text': 'really seeking reconciliation', 'start': 1489.919, 'duration': 5.041}
+{'text': "in you know in what could be it's true", 'start': 1492.159, 'duration': 5.12}
+{'text': 'in genuine form', 'start': 1494.96, 'duration': 5.04}
+{'text': 'and the media also [\xa0__\xa0] sucks at', 'start': 1497.279, 'duration': 6.0}
+{'text': 'talking about the issue like the cbc', 'start': 1500.0, 'duration': 5.52}
+{'text': 'the reporting on on the entire issue is', 'start': 1503.279, 'duration': 3.601}
+{'text': 'just really', 'start': 1505.52, 'duration': 2.88}
+{'text': "but but that that's the same for any", 'start': 1506.88, 'duration': 3.76}
+{'text': 'issue ultimately right like', 'start': 1508.4, 'duration': 5.44}
+{'text': 'news companies are reporting news for', 'start': 1510.64, 'duration': 3.76}
+{'text': 'clicks', 'start': 1513.84, 'duration': 3.6}
+{'text': 'and for monetary profit um', 'start': 1514.4, 'duration': 5.84}
+{'text': 'and ultimately they are now reporting on', 'start': 1517.44, 'duration': 3.119}
+{'text': 'this', 'start': 1520.24, 'duration': 2.559}
+{'text': "because it's generated a lot of traction", 'start': 1520.559, 'duration': 3.041}
+{'text': 'but you know', 'start': 1522.799, 'duration': 2.561}
+{'text': 'they were not reporting on these like if', 'start': 1523.6, 'duration': 3.36}
+{'text': 'you look at the reports that came out', 'start': 1525.36, 'duration': 3.12}
+{'text': 'from the oka crisis', 'start': 1526.96, 'duration': 4.0}
+{'text': 'um in the early 90s like the way that', 'start': 1528.48, 'duration': 4.24}
+{'text': 'they described indigenous people were', 'start': 1530.96, 'duration': 3.44}
+{'text': 'like horrific but you know', 'start': 1532.72, 'duration': 3.839}
+{'text': 'now the overturned window has shifted', 'start': 1534.4, 'duration': 4.08}
+{'text': 'and all of a sudden oh wait no we have', 'start': 1536.559, 'duration': 2.401}
+{'text': 'to be', 'start': 1538.48, 'duration': 1.92}
+{'text': 'you know we have to recognize that in', 'start': 1538.96, 'duration': 3.76}
+{'text': 'dishes people are actual people', 'start': 1540.4, 'duration': 6.0}
+{'text': "and whatnot so it's a process", 'start': 1542.72, 'duration': 6.4}
+{'text': 'of coming to terms with you know what', 'start': 1546.4, 'duration': 4.08}
+{'text': 'you know canada has done', 'start': 1549.12, 'duration': 2.88}
+{'text': 'to indigenous people which i think there', 'start': 1550.48, 'duration': 4.16}
+{'text': 'seems to be relatively broad agreement', 'start': 1552.0, 'duration': 4.159}
+{'text': 'on but the disagreement lies in what', 'start': 1554.64, 'duration': 3.039}
+{'text': 'should the canadian government do', 'start': 1556.159, 'duration': 4.0}
+{'text': 'right now and what is it actively doing', 'start': 1557.679, 'duration': 4.24}
+{'text': "that's where the discussion needs to be", 'start': 1560.159, 'duration': 3.76}
+{'text': "but no one's [\xa0__\xa0] talking about that", 'start': 1561.919, 'duration': 3.12}
+{'text': 'instead they spend', 'start': 1563.919, 'duration': 3.041}
+{'text': 'you know two hours debating what the', 'start': 1565.039, 'duration': 3.601}
+{'text': 'definition of genocide should be', 'start': 1566.96, 'duration': 3.52}
+{'text': 'or what the definition of the mass grave', 'start': 1568.64, 'duration': 3.36}
+{'text': 'is or', 'start': 1570.48, 'duration': 3.12}
+{'text': "like that that's completely [\xa0__\xa0]", 'start': 1572.0, 'duration': 3.52}
+{'text': 'useless yeah yeah i agree', 'start': 1573.6, 'duration': 4.24}
+{'text': 'who does that help probably nobody all', 'start': 1575.52, 'duration': 4.08}
+{'text': 'right say your piece i got one right of', 'start': 1577.84, 'duration': 2.319}
+{'text': 'twitter everything then', 'start': 1579.6, 'duration': 1.92}
+{'text': "i'm gonna save it's late well that", 'start': 1580.159, 'duration': 3.201}
+{'text': "that's all i got um", 'start': 1581.52, 'duration': 4.32}
+{'text': 'you can bath underscore boy with nine', 'start': 1583.36, 'duration': 3.199}
+{'text': "that's all i", 'start': 1585.84, 'duration': 2.48}
+{'text': "on twitter that's all i have oh all", 'start': 1586.559, 'duration': 3.36}
+{'text': 'right i love you be careful', 'start': 1588.32, 'duration': 3.839}
+{'text': "yeah oh actually wait i want to say i'm", 'start': 1589.919, 'duration': 3.601}
+{'text': 'willing to have', 'start': 1592.159, 'duration': 3.681}
+{'text': 'a debate with lauren southern if she', 'start': 1593.52, 'duration': 4.08}
+{'text': 'wants to as long who is actually', 'start': 1595.84, 'duration': 4.16}
+{'text': "knowledgeable on the subject and i've", 'start': 1597.6, 'duration': 4.48}
+{'text': 'spent a few years studying residential', 'start': 1600.0, 'duration': 3.039}
+{'text': 'schools', 'start': 1602.08, 'duration': 3.44}
+{'text': 'and the history of the indian act i', 'start': 1603.039, 'duration': 4.161}
+{'text': 'would love to have a discussion with', 'start': 1605.52, 'duration': 2.24}
+{'text': 'lauren', 'start': 1607.2, 'duration': 3.04}
+{'text': "and destiny i think you'd be a fantastic", 'start': 1607.76, 'duration': 3.919}
+{'text': 'moderator for that debate', 'start': 1610.24, 'duration': 4.4}
+{'text': 'okay no never mind okay yeah and all', 'start': 1611.679, 'duration': 5.12}
+{'text': 'proceeds could go to charity or whatever', 'start': 1614.64, 'duration': 4.8}
+{'text': "right um i just there's a lot of lost", 'start': 1616.799, 'duration': 4.24}
+{'text': 'ground that has to be made up', 'start': 1619.44, 'duration': 4.4}
+{'text': "so someone's got to do it okay okay have", 'start': 1621.039, 'duration': 3.921}
+{'text': 'a good night remember to hit that like', 'start': 1623.84, 'duration': 2.319}
+{'text': "and subscribe and don't forget the", 'start': 1624.96, 'duration': 2.959}
+{'text': 'notification bell so that my videos', 'start': 1626.159, 'duration': 4.481}
+{'text': 'show up right in your feed lord lance i', 'start': 1627.919, 'duration': 6.401}
+{'text': 'love you but this was a dumpster fire', 'start': 1630.64, 'duration': 3.68}

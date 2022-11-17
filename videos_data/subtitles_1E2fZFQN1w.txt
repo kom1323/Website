@@ -1,0 +1,413 @@
+{'text': 'wait hold on', 'start': 3.199, 'duration': 4.16}
+{'text': 'apple has informed epic games', 'start': 3.919, 'duration': 6.64}
+{'text': 'they basically took their tools apple', 'start': 7.359, 'duration': 4.481}
+{'text': 'has informed epic games that it will', 'start': 10.559, 'duration': 2.881}
+{'text': 'terminate all their developer accounts', 'start': 11.84, 'duration': 3.36}
+{'text': 'and cut epic off from ios and mac', 'start': 13.44, 'duration': 3.04}
+{'text': 'development tools', 'start': 15.2, 'duration': 4.159}
+{'text': 'wait does this mean that like the unreal', 'start': 16.48, 'duration': 4.32}
+{'text': 'engine will probably get cut off is what', 'start': 19.359, 'duration': 2.881}
+{'text': 'it sounded like', 'start': 20.8, 'duration': 5.04}
+{'text': "no way right we're just nuts wait who is", 'start': 22.24, 'duration': 4.32}
+{'text': 'this who is this', 'start': 25.84, 'duration': 3.04}
+{'text': "[\xa0__\xa0] i'm sorry oh my god hold on wait", 'start': 26.56, 'duration': 3.84}
+{'text': "i'm sorry i'm getting super triggered i", 'start': 28.88, 'duration': 2.88}
+{'text': 'have to meet this [\xa0__\xa0] halo how do i', 'start': 30.4, 'duration': 3.12}
+{'text': 'make this [\xa0__\xa0]', 'start': 31.76, 'duration': 4.479}
+{'text': 'who is this [\xa0__\xa0] [\xa0__\xa0] at boogie this', 'start': 33.52, 'duration': 4.48}
+{'text': 'includes pub g mobile blah blah blah', 'start': 36.239, 'duration': 4.401}
+{'text': 'not only is epics stunt really harming', 'start': 38.0, 'duration': 3.36}
+{'text': 'the market', 'start': 40.64, 'duration': 2.239}
+{'text': 'but this bullying by trying to leverage', 'start': 41.36, 'duration': 2.96}
+{'text': "you before won't go far with apple or", 'start': 42.879, 'duration': 2.401}
+{'text': 'devs', 'start': 44.32, 'duration': 3.28}
+{'text': "what a [\xa0__\xa0] ass maybe epic shouldn't", 'start': 45.28, 'duration': 4.08}
+{'text': 'violate the tos if you', 'start': 47.6, 'duration': 3.279}
+{'text': 'wait are people actually siding with', 'start': 49.36, 'duration': 3.6}
+{'text': '[\xa0__\xa0] apple over this', 'start': 50.879, 'duration': 5.601}
+{'text': 'what is the public opinion right now', 'start': 52.96, 'duration': 3.52}
+{'text': 'i think some people are mad that like', 'start': 57.44, 'duration': 3.04}
+{'text': 'epic is using like kids', 'start': 58.879, 'duration': 4.32}
+{'text': 'to like go at apple or whatever but', 'start': 60.48, 'duration': 3.6}
+{'text': "that's the only", 'start': 63.199, 'duration': 2.0}
+{'text': "kind of fair argument i've heard", 'start': 64.08, 'duration': 2.56}
+{'text': 'everything i mean no this is like what', 'start': 65.199, 'duration': 3.041}
+{'text': 'you have like if anybody was ever going', 'start': 66.64, 'duration': 2.96}
+{'text': "to change these environments it's got to", 'start': 68.24, 'duration': 2.72}
+{'text': 'be a big company', 'start': 69.6, 'duration': 2.72}
+{'text': "yeah it's not gonna be [\xa0__\xa0] like the", 'start': 70.96, 'duration': 3.839}
+{'text': 'destiny gg llc app', 'start': 72.32, 'duration': 3.76}
+{'text': 'no i remember one of the things that', 'start': 74.799, 'duration': 2.561}
+{'text': 'stopped me from investing money in an', 'start': 76.08, 'duration': 2.56}
+{'text': 'app in the beginning was the fact that', 'start': 77.36, 'duration': 1.84}
+{'text': 'the', 'start': 78.64, 'duration': 3.2}
+{'text': "if you subscribed here's a here's a meme", 'start': 79.2, 'duration': 3.52}
+{'text': 'if you were to sub', 'start': 81.84, 'duration': 4.4}
+{'text': 'to my stream via an app on the app store', 'start': 82.72, 'duration': 5.28}
+{'text': 'like have i had a destiny gg chat app', 'start': 86.24, 'duration': 3.36}
+{'text': 'even if you sub directly on my site', 'start': 88.0, 'duration': 3.439}
+{'text': '30 of the revenue that you spend goes to', 'start': 89.6, 'duration': 3.6}
+{'text': '[\xa0__\xa0] apple [\xa0__\xa0] that shame happens on', 'start': 91.439, 'duration': 2.481}
+{'text': 'the twitch app', 'start': 93.2, 'duration': 4.879}
+{'text': "yeah on on yeah on ios that's insane", 'start': 93.92, 'duration': 7.6}
+{'text': 'and there is no [\xa0__\xa0] alternative', 'start': 98.079, 'duration': 4.961}
+{'text': "there's no other app store there's no", 'start': 101.52, 'duration': 3.76}
+{'text': 'other market like if you have a [\xa0__\xa0]', 'start': 103.04, 'duration': 4.24}
+{'text': 'if you have an iphone you have one os on', 'start': 105.28, 'duration': 3.519}
+{'text': "it only ios that's it", 'start': 107.28, 'duration': 2.96}
+{'text': 'and if you have ios you have one way to', 'start': 108.799, 'duration': 2.64}
+{'text': "get apps on your phone and that's", 'start': 110.24, 'duration': 2.6}
+{'text': 'through the [\xa0__\xa0] app store', 'start': 111.439, 'duration': 4.401}
+{'text': 'like wait is it', 'start': 112.84, 'duration': 5.639}
+{'text': 'can can you actually can you just down', 'start': 115.84, 'duration': 3.76}
+{'text': 'there must be a way to just download', 'start': 118.479, 'duration': 2.64}
+{'text': 'like a third-party app without it going', 'start': 119.6, 'duration': 2.72}
+{'text': 'through the store on your phone right is', 'start': 121.119, 'duration': 2.721}
+{'text': 'there do you have to jailbreak for that', 'start': 122.32, 'duration': 3.2}
+{'text': "there's no way", 'start': 123.84, 'duration': 3.36}
+{'text': 'to download a third-party app like if i', 'start': 125.52, 'duration': 3.28}
+{'text': 'just want to download like a program on', 'start': 127.2, 'duration': 2.72}
+{'text': 'my phone', 'start': 128.8, 'duration': 2.64}
+{'text': "they're saying that so you cannot get", 'start': 129.92, 'duration': 3.12}
+{'text': 'third-party apps onto ios', 'start': 131.44, 'duration': 5.2}
+{'text': 'without hacking the [\xa0__\xa0] platform', 'start': 133.04, 'duration': 3.6}
+{'text': "that's insane on android can you have", 'start': 137.36, 'duration': 3.68}
+{'text': "unofficial apps that don't come from the", 'start': 139.52, 'duration': 3.12}
+{'text': 'google store', 'start': 141.04, 'duration': 16.8}
+{'text': '[\xa0__\xa0] ios', 'start': 142.64, 'duration': 15.2}
+{'text': 'you can just download an apk i got you', 'start': 157.92, 'duration': 3.679}
+{'text': "it's pretty nuts you have to jailbreak", 'start': 163.04, 'duration': 2.8}
+{'text': "your phone to download anything that's", 'start': 164.4, 'duration': 2.479}
+{'text': "not on apple's", 'start': 165.84, 'duration': 2.96}
+{'text': 'store that they get a thirty percent cut', 'start': 166.879, 'duration': 3.041}
+{'text': 'from thirty percent', 'start': 168.8, 'duration': 4.0}
+{'text': 'that is so [\xa0__\xa0] how is this not some', 'start': 169.92, 'duration': 4.319}
+{'text': 'anti-trust [\xa0__\xa0] dude like', 'start': 172.8, 'duration': 3.92}
+{'text': "that's so [\xa0__\xa0] insane i can't believe", 'start': 174.239, 'duration': 3.92}
+{'text': 'apple is going even further like yeah', 'start': 176.72, 'duration': 2.159}
+{'text': '[\xa0__\xa0] it dog', 'start': 178.159, 'duration': 2.08}
+{'text': 'maybe we just get rid of all unreal', 'start': 178.879, 'duration': 3.121}
+{'text': "games like what's next like maybe we're", 'start': 180.239, 'duration': 3.36}
+{'text': 'gonna you know what epic you want to do', 'start': 182.0, 'duration': 2.879}
+{'text': "this maybe we're just gonna ban", 'start': 183.599, 'duration': 2.64}
+{'text': 'every single [\xa0__\xa0] game from the app', 'start': 184.879, 'duration': 2.561}
+{'text': 'store that starts with the letter f', 'start': 186.239, 'duration': 2.961}
+{'text': '[\xa0__\xa0] like this is insane', 'start': 187.44, 'duration': 4.48}
+{'text': 'holy [\xa0__\xa0]', 'start': 189.2, 'duration': 2.72}
+{'text': "i'm excited to see how this goes down", 'start': 193.76, 'duration': 4.64}
+{'text': "i'm not because our [\xa0__\xa0]", 'start': 196.319, 'duration': 5.28}
+{'text': 'what would it be is it the f f', 'start': 198.4, 'duration': 4.96}
+{'text': "is it the ft no it's not it wouldn't be", 'start': 201.599, 'duration': 3.2}
+{'text': 'the ftc', 'start': 203.36, 'duration': 5.68}
+{'text': 'it would um wait would it be', 'start': 204.799, 'duration': 6.16}
+{'text': 'would it be would it be the fcc would', 'start': 209.04, 'duration': 4.16}
+{'text': 'they do this', 'start': 210.959, 'duration': 5.601}
+{'text': "it's not the sec shut up", 'start': 213.2, 'duration': 3.36}
+{'text': 'it might be the fcc that would do this i', 'start': 219.68, 'duration': 3.04}
+{'text': "don't know i don't think anybody in", 'start': 221.76, 'duration': 6.08}
+{'text': 'congress knows anything about', 'start': 222.72, 'duration': 5.12}
+{'text': "because i don't know how apple would be", 'start': 228.64, 'duration': 3.679}
+{'text': "allowed to do this that's so crazy", 'start': 229.84, 'duration': 3.84}
+{'text': "well just like what's even existing", 'start': 232.319, 'duration': 3.601}
+{'text': 'right now is crazy if i want to put an', 'start': 233.68, 'duration': 5.119}
+{'text': "application on your phone i'm trying to", 'start': 235.92, 'duration': 4.48}
+{'text': 'think of what the equivalent would be', 'start': 238.799, 'duration': 4.881}
+{'text': 'like imagine making a car', 'start': 240.4, 'duration': 4.8}
+{'text': "where you can't like put like new seats", 'start': 243.68, 'duration': 3.04}
+{'text': 'in the [\xa0__\xa0] car because the', 'start': 245.2, 'duration': 3.44}
+{'text': 'manufacturers banned it and if they find', 'start': 246.72, 'duration': 3.36}
+{'text': 'out they like kick you off the car or', 'start': 248.64, 'duration': 2.4}
+{'text': "something i don't know that's", 'start': 250.08, 'duration': 3.76}
+{'text': "that's just like what about like um like", 'start': 251.04, 'duration': 5.68}
+{'text': 'an xbox or something', 'start': 253.84, 'duration': 4.56}
+{'text': "it's kind of similar right if you buy an", 'start': 256.72, 'duration': 3.28}
+{'text': 'xbox and you want to put a game on it', 'start': 258.4, 'duration': 2.48}
+{'text': 'you have to give money', 'start': 260.0, 'duration': 2.4}
+{'text': "like you have to do a cut to xbox i'm", 'start': 260.88, 'duration': 3.84}
+{'text': "sure yeah um i'm trying i feel like yes", 'start': 262.4, 'duration': 3.84}
+{'text': 'i just have like people come and drop', 'start': 264.72, 'duration': 3.36}
+{'text': 'you i have a gut feeling that consoles', 'start': 266.24, 'duration': 2.88}
+{'text': 'are different', 'start': 268.08, 'duration': 3.119}
+{'text': "but i'm trying to think of why i don't", 'start': 269.12, 'duration': 3.04}
+{'text': 'know if i could justify that or not', 'start': 271.199, 'duration': 1.921}
+{'text': 'because consoles are', 'start': 272.16, 'duration': 2.56}
+{'text': "similar in that it's typically you have", 'start': 273.12, 'duration': 3.2}
+{'text': 'like an xbox app store', 'start': 274.72, 'duration': 3.039}
+{'text': 'right the microsoft windows whatever', 'start': 276.32, 'duration': 3.36}
+{'text': "[\xa0__\xa0] and then you've got like a ps4", 'start': 277.759, 'duration': 5.44}
+{'text': 'store ps5 store or whatever', 'start': 279.68, 'duration': 6.64}
+{'text': 'so i have a thought about it um', 'start': 283.199, 'duration': 4.641}
+{'text': 'i think it comes like one of the reasons', 'start': 286.32, 'duration': 2.8}
+{'text': 'might come down to the fact that like', 'start': 287.84, 'duration': 2.72}
+{'text': 'android and ios', 'start': 289.12, 'duration': 3.92}
+{'text': "more so ios they're very specific about", 'start': 290.56, 'duration': 3.28}
+{'text': 'the style', 'start': 293.04, 'duration': 2.96}
+{'text': "of the app so you'll see like one app on", 'start': 293.84, 'duration': 3.68}
+{'text': 'one platform is completely different the', 'start': 296.0, 'duration': 3.6}
+{'text': 'way it functions and whatnot', 'start': 297.52, 'duration': 4.72}
+{'text': 'and the way it looks the stylization and', 'start': 299.6, 'duration': 4.4}
+{'text': "i think that that's the reason they", 'start': 302.24, 'duration': 3.2}
+{'text': 'require you to go through their app', 'start': 304.0, 'duration': 3.36}
+{'text': 'store is because they want their product', 'start': 305.44, 'duration': 3.039}
+{'text': 'which is that iphone', 'start': 307.36, 'duration': 2.8}
+{'text': 'to have that certain look and feel and', 'start': 308.479, 'duration': 3.041}
+{'text': 'the way you make that app', 'start': 310.16, 'duration': 3.44}
+{'text': "does affect the person's perspective of", 'start': 311.52, 'duration': 3.679}
+{'text': 'the iphone or the android', 'start': 313.6, 'duration': 4.8}
+{'text': 'yeah of course no i completely agree', 'start': 315.199, 'duration': 4.161}
+{'text': "with the other [\xa0__\xa0] though like they're", 'start': 318.4, 'duration': 2.16}
+{'text': 'getting a third well nothing', 'start': 319.36, 'duration': 2.96}
+{'text': 'absolutely nothing you said has any', 'start': 320.56, 'duration': 4.24}
+{'text': 'impact on anything that i said', 'start': 322.32, 'duration': 4.64}
+{'text': 'of course apple wants vertical control', 'start': 324.8, 'duration': 3.839}
+{'text': 'of the platform completely so that they', 'start': 326.96, 'duration': 3.6}
+{'text': 'can deliver a consistent user interface', 'start': 328.639, 'duration': 3.761}
+{'text': 'and user experience from top to bottom', 'start': 330.56, 'duration': 3.44}
+{'text': 'from when you turn on from when you hold', 'start': 332.4, 'duration': 2.4}
+{'text': 'the phone in your hand', 'start': 334.0, 'duration': 1.84}
+{'text': 'to when you turn it on to when you', 'start': 334.8, 'duration': 2.239}
+{'text': 'interact with any app that comes in the', 'start': 335.84, 'duration': 3.12}
+{'text': "app store that's apple's goal of course", 'start': 337.039, 'duration': 4.401}
+{'text': 'but that is nothing but the idea that', 'start': 338.96, 'duration': 3.6}
+{'text': 'you can own', 'start': 341.44, 'duration': 2.72}
+{'text': 'that you have a phone with a whole i', 'start': 342.56, 'duration': 3.199}
+{'text': 'with a whole operating system on it', 'start': 344.16, 'duration': 3.2}
+{'text': 'and you can only get programs for that', 'start': 345.759, 'duration': 4.561}
+{'text': 'phone from one place', 'start': 347.36, 'duration': 4.559}
+{'text': "i think that's just why right that gives", 'start': 350.32, 'duration': 3.36}
+{'text': 'them that control i understand that it', 'start': 351.919, 'duration': 2.72}
+{'text': 'gives them the control i know the', 'start': 353.68, 'duration': 2.32}
+{'text': "benefits i'm just saying that that's", 'start': 354.639, 'duration': 3.12}
+{'text': "[\xa0__\xa0] crazy that i can't put any other", 'start': 356.0, 'duration': 2.8}
+{'text': 'program on my phone', 'start': 357.759, 'duration': 2.801}
+{'text': "if it doesn't run through apple's 30", 'start': 358.8, 'duration': 4.88}
+{'text': '[\xa0__\xa0] price gouge store first', 'start': 360.56, 'duration': 7.28}
+{'text': "yep that's all", 'start': 363.68, 'duration': 4.16}
+{'text': 'i feel like consoles are different', 'start': 368.479, 'duration': 4.081}
+{'text': 'because i feel like consoles', 'start': 369.919, 'duration': 3.681}
+{'text': 'i feel like consoles are different', 'start': 372.56, 'duration': 2.24}
+{'text': 'because i feel like consoles are way', 'start': 373.6, 'duration': 4.159}
+{'text': 'more specialized', 'start': 374.8, 'duration': 2.959}
+{'text': 'like', 'start': 378.84, 'duration': 2.919}
+{'text': "but they're specialized for like one", 'start': 380.24, 'duration': 3.2}
+{'text': 'thing and only yeah for just playing', 'start': 381.759, 'duration': 3.841}
+{'text': 'games yeah i guess you could argue like', 'start': 383.44, 'duration': 3.92}
+{'text': "now they're kind of blu-ray devices like", 'start': 385.6, 'duration': 3.439}
+{'text': 'a lot of people watch', 'start': 387.36, 'duration': 3.44}
+{'text': 'like movies and [\xa0__\xa0] on their consoles', 'start': 389.039, 'duration': 3.921}
+{'text': 'those have like apps like hulu and [\xa0__\xa0]', 'start': 390.8, 'duration': 3.2}
+{'text': 'no', 'start': 392.96, 'duration': 4.56}
+{'text': "um i guess they're not as much for games", 'start': 394.0, 'duration': 5.44}
+{'text': 'anymore as they used to be', 'start': 397.52, 'duration': 3.36}
+{'text': 'i think they even have browsers in some', 'start': 399.44, 'duration': 4.4}
+{'text': 'of them i know my old nintendo wii u did', 'start': 400.88, 'duration': 8.96}
+{'text': 'i remember my dream casted', 'start': 403.84, 'duration': 6.0}
+{'text': "hmm yeah i don't know i'd be curious of", 'start': 421.36, 'duration': 3.679}
+{'text': 'the distinction', 'start': 423.52, 'duration': 5.84}
+{'text': 'between like the console and phone', 'start': 425.039, 'duration': 4.321}
+{'text': "because everybody needs a phone i don't", 'start': 429.599, 'duration': 3.361}
+{'text': "think anybody would argue that you don't", 'start': 431.039, 'duration': 6.801}
+{'text': 'this day and age well actually', 'start': 432.96, 'duration': 4.88}
+{'text': "can't you buy okay wait can you even buy", 'start': 438.56, 'duration': 4.639}
+{'text': 'actual games anymore are they all', 'start': 441.759, 'duration': 3.921}
+{'text': "digital no there's a dv there's a cd dvd", 'start': 443.199, 'duration': 3.761}
+{'text': 'slot in a ps4', 'start': 445.68, 'duration': 4.639}
+{'text': "right uh i have a ps4 i'm pausing", 'start': 446.96, 'duration': 4.4}
+{'text': 'i think you push the button yeah you', 'start': 450.319, 'duration': 2.481}
+{'text': 'push the button because that yeah so', 'start': 451.36, 'duration': 2.0}
+{'text': 'actually', 'start': 452.8, 'duration': 2.239}
+{'text': "no that's actually i can go to any store", 'start': 453.36, 'duration': 3.92}
+{'text': 'if i want to', 'start': 455.039, 'duration': 4.801}
+{'text': 'and i could buy like a game for my', 'start': 457.28, 'duration': 3.919}
+{'text': 'playstation 5 or', 'start': 459.84, 'duration': 2.639}
+{'text': "it's four right [\xa0__\xa0] i don't even", 'start': 461.199, 'duration': 4.4}
+{'text': 'remember playstation 4 right', 'start': 462.479, 'duration': 5.12}
+{'text': 'so i feel like if i i feel like to make', 'start': 465.599, 'duration': 3.201}
+{'text': "it more comparable it'd have to be if", 'start': 467.599, 'duration': 2.641}
+{'text': 'like sony came out and was like you', 'start': 468.8, 'duration': 2.239}
+{'text': 'cannot buy', 'start': 470.24, 'duration': 3.28}
+{'text': 'games ever again unless you only buy it', 'start': 471.039, 'duration': 4.16}
+{'text': 'through the place the playstation', 'start': 473.52, 'duration': 2.799}
+{'text': "network store i don't know what the [\xa0__\xa0]", 'start': 475.199, 'duration': 2.161}
+{'text': 'they call it', 'start': 476.319, 'duration': 2.401}
+{'text': 'then it would be like more equivalent to', 'start': 477.36, 'duration': 4.08}
+{'text': "what apple's doing", 'start': 478.72, 'duration': 2.72}
+{'text': 'wait can you say that again sorry i feel', 'start': 489.28, 'duration': 3.28}
+{'text': 'like the only way to make the analogy', 'start': 491.44, 'duration': 2.64}
+{'text': 'equivalent would be to make it so that', 'start': 492.56, 'duration': 3.52}
+{'text': 'on um', 'start': 494.08, 'duration': 4.799}
+{'text': 'on the uh on the on the playstation they', 'start': 496.08, 'duration': 4.399}
+{'text': 'basically say no more no one else is', 'start': 498.879, 'duration': 5.04}
+{'text': 'allowed to sell games only us', 'start': 500.479, 'duration': 3.44}
+{'text': 'like you would have to go through the ps', 'start': 504.24, 'duration': 2.959}
+{'text': 'store to sell the game i guess the way', 'start': 505.759, 'duration': 3.921}
+{'text': 'that i would think around that is like', 'start': 507.199, 'duration': 3.84}
+{'text': 'i honestly honestly gotta know how it', 'start': 509.68, 'duration': 3.44}
+{'text': 'works but in order to develop on a', 'start': 511.039, 'duration': 3.041}
+{'text': 'playstation', 'start': 513.12, 'duration': 2.96}
+{'text': 'do you have to give them a cut of like', 'start': 514.08, 'duration': 3.839}
+{'text': 'say 10 of the revenue to even like', 'start': 516.08, 'duration': 2.399}
+{'text': 'beyond', 'start': 517.919, 'duration': 2.24}
+{'text': 'to sell your like game on the', 'start': 518.479, 'duration': 2.961}
+{'text': "playstation i don't know do you have to", 'start': 520.159, 'duration': 2.641}
+{'text': 'like license some part of the', 'start': 521.44, 'duration': 3.28}
+{'text': 'playstation platform or something', 'start': 522.8, 'duration': 5.039}
+{'text': "i'm not sure i would have seen", 'start': 524.72, 'duration': 4.559}
+{'text': 'you just need to buy a dev kit does that', 'start': 527.839, 'duration': 3.44}
+{'text': 'include like you need to paid', 'start': 529.279, 'duration': 4.721}
+{'text': 'playstation 10 for the rest of your uh', 'start': 531.279, 'duration': 3.601}
+{'text': "game's life", 'start': 534.0, 'duration': 3.12}
+{'text': 'which would make sense right like', 'start': 534.88, 'duration': 3.76}
+{'text': "they're selling these consoles at a loss", 'start': 537.12, 'duration': 2.56}
+{'text': 'the way they make money', 'start': 538.64, 'duration': 3.759}
+{'text': 'is by recouping it on video games that', 'start': 539.68, 'duration': 4.24}
+{'text': 'people play', 'start': 542.399, 'duration': 2.801}
+{'text': "so i would still think that they're kind", 'start': 543.92, 'duration': 5.919}
+{'text': 'of like similar', 'start': 545.2, 'duration': 4.639}
+{'text': 'kids are just like a thousand dollars', 'start': 558.959, 'duration': 2.081}
+{'text': "but i don't think you have to pay a", 'start': 560.16, 'duration': 2.08}
+{'text': 'recurring fee', 'start': 561.04, 'duration': 3.919}
+{'text': 'sony takes 30 percent i think 30 is', 'start': 562.24, 'duration': 3.2}
+{'text': 'really', 'start': 564.959, 'duration': 2.401}
+{'text': "it's really it seems really high seems", 'start': 565.44, 'duration': 3.2}
+{'text': 'like the industry standard for like', 'start': 567.36, 'duration': 3.039}
+{'text': 'anybody who does anything for you', 'start': 568.64, 'duration': 6.0}
+{'text': 'is like 15 to 20 20 is like 30 normal 30', 'start': 570.399, 'duration': 7.281}
+{'text': 'is just the reason why thirty percent is', 'start': 574.64, 'duration': 3.759}
+{'text': 'high is because', 'start': 577.68, 'duration': 2.24}
+{'text': 'i wanna know what am i getting for that', 'start': 578.399, 'duration': 4.321}
+{'text': 'thirty percent like', 'start': 579.92, 'duration': 5.84}
+{'text': 'like if i go through the work of', 'start': 582.72, 'duration': 3.6}
+{'text': 'building an', 'start': 585.76, 'duration': 3.36}
+{'text': 'app for myself if i have a whole front', 'start': 586.32, 'duration': 4.88}
+{'text': 'end of my app and a whole back end', 'start': 589.12, 'duration': 3.6}
+{'text': "okay that we've all built out ourselves", 'start': 591.2, 'duration': 3.28}
+{'text': 'to connect our database if we handle all', 'start': 592.72, 'duration': 2.64}
+{'text': 'the', 'start': 594.48, 'duration': 2.72}
+{'text': "payment processing which i'm pretty sure", 'start': 595.36, 'duration': 3.52}
+{'text': 'we would maybe apple would take care of', 'start': 597.2, 'duration': 3.04}
+{'text': "that for you i don't know", 'start': 598.88, 'duration': 4.079}
+{'text': 'like and now i just want my app listed', 'start': 600.24, 'duration': 4.08}
+{'text': 'on your store', 'start': 602.959, 'duration': 3.12}
+{'text': "if you're if you if you want to take", 'start': 604.32, 'duration': 3.68}
+{'text': 'like five percent or whatever or two', 'start': 606.079, 'duration': 2.481}
+{'text': 'percent', 'start': 608.0, 'duration': 2.48}
+{'text': 'five percent for access to your customer', 'start': 608.56, 'duration': 3.279}
+{'text': "list and fine that's fair", 'start': 610.48, 'duration': 3.359}
+{'text': 'you want to take 30 [\xa0__\xa0] percent for', 'start': 611.839, 'duration': 4.161}
+{'text': 'me just to be on the just to be in your', 'start': 613.839, 'duration': 2.56}
+{'text': '[\xa0__\xa0]', 'start': 616.0, 'duration': 2.24}
+{'text': "store that's some [\xa0__\xa0] ass rate", 'start': 616.399, 'duration': 3.041}
+{'text': "that's some [\xa0__\xa0]", 'start': 618.24, 'duration': 4.56}
+{'text': 'that is so much [\xa0__\xa0] money what 30', 'start': 619.44, 'duration': 4.639}
+{'text': "i've got to build the app and do", 'start': 622.8, 'duration': 2.719}
+{'text': 'everything myself what do you do for me', 'start': 624.079, 'duration': 3.041}
+{'text': 'you just give me a customer list that', 'start': 625.519, 'duration': 3.361}
+{'text': 'you have exclusive controller', 'start': 627.12, 'duration': 3.36}
+{'text': 'how do you feel about like twitch taking', 'start': 628.88, 'duration': 3.84}
+{'text': "like in theory let's say they take fifty", 'start': 630.48, 'duration': 4.24}
+{'text': "percent of someone's big revenue right", 'start': 632.72, 'duration': 5.04}
+{'text': 'uh i think that [\xa0__\xa0] is well insane i', 'start': 634.72, 'duration': 3.359}
+{'text': 'think', 'start': 637.76, 'duration': 2.079}
+{'text': "i think it's still high but the", 'start': 638.079, 'duration': 3.2}
+{'text': 'difference there is that twitch is', 'start': 639.839, 'duration': 2.24}
+{'text': 'providing me', 'start': 641.279, 'duration': 3.601}
+{'text': 'like like actual physical yeah like that', 'start': 642.079, 'duration': 4.081}
+{'text': 'like twitch is giving me like a huge', 'start': 644.88, 'duration': 2.0}
+{'text': '[\xa0__\xa0] service', 'start': 646.16, 'duration': 2.4}
+{'text': 'i can distribute my app on my own i can', 'start': 646.88, 'duration': 3.68}
+{'text': 'pay a million different anybody on aws', 'start': 648.56, 'duration': 3.519}
+{'text': 'or i can host this i can host my app', 'start': 650.56, 'duration': 2.48}
+{'text': "anywhere on my own i don't need a", 'start': 652.079, 'duration': 2.401}
+{'text': '[\xa0__\xa0] apple to do that for me', 'start': 653.04, 'duration': 4.0}
+{'text': 'right yeah', 'start': 654.48, 'duration': 2.56}
+{'text': 'so how does it work if you make a game', 'start': 658.8, 'duration': 3.039}
+{'text': 'on the un oh never mind they were', 'start': 660.48, 'duration': 2.64}
+{'text': 'talking about the epic story like if you', 'start': 661.839, 'duration': 3.041}
+{'text': 'make a game with the unreal engine', 'start': 663.12, 'duration': 3.68}
+{'text': "oh apparently it's like 12.5 it's like", 'start': 664.88, 'duration': 4.079}
+{'text': '12 or something', 'start': 666.8, 'duration': 5.12}
+{'text': 'which is i mean more than half of what', 'start': 668.959, 'duration': 4.401}
+{'text': 'steam will take which is 30', 'start': 671.92, 'duration': 4.159}
+{'text': 'which is nuts', 'start': 673.36, 'duration': 2.719}
+{'text': "thank you steven that's such [\xa0__\xa0]", 'start': 676.88, 'duration': 3.76}
+{'text': 'dude', 'start': 679.68, 'duration': 2.56}
+{'text': "i can't believe that people unironically", 'start': 680.64, 'duration': 4.0}
+{'text': "defend rtba doesn't defend this does he", 'start': 682.24, 'duration': 4.0}
+{'text': "i don't think so and that's i mean i", 'start': 684.64, 'duration': 3.84}
+{'text': 'guess 30 for the gaming industry is the', 'start': 686.24, 'duration': 3.52}
+{'text': "industry standard but i think that's", 'start': 688.48, 'duration': 2.24}
+{'text': 'insane', 'start': 689.76, 'duration': 3.6}
+{'text': "it's really high what are you gonna do", 'start': 690.72, 'duration': 4.0}
+{'text': 'about it well i guess epics doing', 'start': 693.36, 'duration': 2.4}
+{'text': 'something about it', 'start': 694.72, 'duration': 3.679}
+{'text': 'hello hello oh [\xa0__\xa0] my mic just start i', 'start': 695.76, 'duration': 4.48}
+{'text': 'think i hit a chord', 'start': 698.399, 'duration': 4.321}
+{'text': 'my 38-month streak may seem long but', 'start': 700.24, 'duration': 4.48}
+{'text': "it's not as long as ye's dominance over", 'start': 702.72, 'duration': 3.52}
+{'text': 'the stupid frog', 'start': 704.72, 'duration': 4.48}
+{'text': "yi i don't know [\xa0__\xa0] that saying the", 'start': 706.24, 'duration': 4.64}
+{'text': 'ample game publishers on physical games', 'start': 709.2, 'duration': 2.56}
+{'text': 'take up to 50', 'start': 710.88, 'duration': 3.759}
+{'text': 'of the retail price', 'start': 711.76, 'duration': 2.879}
+{'text': 'um rtb i said yeah i can understand', 'start': 715.04, 'duration': 6.96}
+{'text': "that if you're hosting my product in a", 'start': 719.36, 'duration': 3.84}
+{'text': 'physical store', 'start': 722.0, 'duration': 3.44}
+{'text': 'you gotta [\xa0__\xa0] pay like employees to', 'start': 723.2, 'duration': 3.6}
+{'text': "sell that [\xa0__\xa0] you've got to pay", 'start': 725.44, 'duration': 3.28}
+{'text': 'rent or mortgage on a brick and mortar', 'start': 726.8, 'duration': 3.44}
+{'text': "store you've got to pay for shipping", 'start': 728.72, 'duration': 2.0}
+{'text': '[\xa0__\xa0]', 'start': 730.24, 'duration': 2.08}
+{'text': "like i can understand if you're going to", 'start': 730.72, 'duration': 3.119}
+{'text': "if you're going to physically showcase", 'start': 732.32, 'duration': 2.4}
+{'text': 'my product', 'start': 733.839, 'duration': 2.161}
+{'text': "that i understand there's going to be an", 'start': 734.72, 'duration': 3.04}
+{'text': "overhead for that but like you're", 'start': 736.0, 'duration': 2.48}
+{'text': 'talking about', 'start': 737.76, 'duration': 2.8}
+{'text': 'hosting zeros and ones like i can i can', 'start': 738.48, 'duration': 3.599}
+{'text': 'pay for that i can pay amazon to do that', 'start': 740.56, 'duration': 2.88}
+{'text': "i don't need you to do that", 'start': 742.079, 'duration': 3.521}
+{'text': 'the only thing the only value that you', 'start': 743.44, 'duration': 4.16}
+{'text': 'get the only reason why apple can take', 'start': 745.6, 'duration': 3.76}
+{'text': 'that 30 [\xa0__\xa0] percent from you', 'start': 747.6, 'duration': 3.359}
+{'text': 'is just because they have a monopoly on', 'start': 749.36, 'duration': 3.36}
+{'text': "the platform that's it", 'start': 750.959, 'duration': 4.241}
+{'text': "that's [\xa0__\xa0] what would you want like", 'start': 752.72, 'duration': 4.559}
+{'text': 'any phone can download like a', 'start': 755.2, 'duration': 3.759}
+{'text': "i don't know like a yeah there should be", 'start': 757.279, 'duration': 2.881}
+{'text': "an option even if it's like in the", 'start': 758.959, 'duration': 2.161}
+{'text': 'advanced menu', 'start': 760.16, 'duration': 2.479}
+{'text': "where they're like hey if you want to", 'start': 761.12, 'duration': 3.279}
+{'text': 'download these shitty s apps just you', 'start': 762.639, 'duration': 3.361}
+{'text': "know like we can't guarantee the", 'start': 764.399, 'duration': 3.361}
+{'text': 'like reliability or blah blah blah any', 'start': 766.0, 'duration': 3.12}
+{'text': 'of these things like check this box to', 'start': 767.76, 'duration': 2.48}
+{'text': 'pursue it at your own risk or whatever', 'start': 769.12, 'duration': 2.48}
+{'text': "sure that's fine yeah", 'start': 770.24, 'duration': 2.48}
+{'text': 'but that goes against the idea of an', 'start': 771.6, 'duration': 2.4}
+{'text': "iphone it's supposed to be a curated", 'start': 772.72, 'duration': 2.64}
+{'text': 'experience with no user control apart', 'start': 774.0, 'duration': 3.04}
+{'text': 'from what apple exposes', 'start': 775.36, 'duration': 3.68}
+{'text': "get an android if you want control it's", 'start': 777.04, 'duration': 3.599}
+{'text': "not about i'm not talking this we're not", 'start': 779.04, 'duration': 2.64}
+{'text': 'talking about the perspective of the', 'start': 780.639, 'duration': 2.561}
+{'text': 'user you [\xa0__\xa0] inbred', 'start': 781.68, 'duration': 3.52}
+{'text': "knuckle dragging dumb [\xa0__\xa0] we're talking", 'start': 783.2, 'duration': 3.04}
+{'text': 'about from the perspective of a', 'start': 785.2, 'duration': 1.84}
+{'text': 'developer', 'start': 786.24, 'duration': 2.88}
+{'text': 'a developer if if 80 of the [\xa0__\xa0]', 'start': 787.04, 'duration': 3.599}
+{'text': 'market our iphones', 'start': 789.12, 'duration': 2.88}
+{'text': "well then you can't just develop the", 'start': 790.639, 'duration': 2.801}
+{'text': "android no well oh cool i'm just gonna", 'start': 792.0, 'duration': 2.32}
+{'text': '[\xa0__\xa0] lose 80', 'start': 793.44, 'duration': 3.28}
+{'text': 'well what is the mark iphone market', 'start': 794.32, 'duration': 3.92}
+{'text': "share isn't it like 45", 'start': 796.72, 'duration': 3.52}
+{'text': "isn't it some huge number in the world", 'start': 798.24, 'duration': 4.48}
+{'text': 'or just the us um', 'start': 800.24, 'duration': 4.64}
+{'text': "in the i don't know anything apple is in", 'start': 802.72, 'duration': 3.28}
+{'text': 'the u in the u.s', 'start': 804.88, 'duration': 4.48}
+{'text': 'smartphone market apple has as of 2018', 'start': 806.0, 'duration': 6.639}
+{'text': "39 that's crazy", 'start': 809.36, 'duration': 6.719}
+{'text': 'torture your [\xa0__\xa0] and balls must endure', 'start': 812.639, 'duration': 6.521}
+{'text': 'two spaces forward your [\xa0__\xa0] will be', 'start': 816.079, 'duration': 6.081}
+{'text': 'stretched', 'start': 819.16, 'duration': 3.0}

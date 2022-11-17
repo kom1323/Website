@@ -1,0 +1,2367 @@
+{'text': "psychiatry isn't the science what", 'start': 0.08, 'duration': 4.96}
+{'text': "psychology doesn't listen to social", 'start': 3.199, 'duration': 3.361}
+{'text': "media that's not true", 'start': 5.04, 'duration': 4.799}
+{'text': "it doesn't are all social", 'start': 6.56, 'duration': 3.279}
+{'text': 'psychological explanations are reduced', 'start': 10.4, 'duration': 3.68}
+{'text': 'to specific times and place', 'start': 12.799, 'duration': 3.121}
+{'text': "you can't do that with people wait what", 'start': 14.08, 'duration': 2.959}
+{'text': 'do you mean well how can you do that so', 'start': 15.92, 'duration': 2.08}
+{'text': 'let me let me leave', 'start': 17.039, 'duration': 2.801}
+{'text': 'this right between like biology and', 'start': 18.0, 'duration': 3.52}
+{'text': 'psychology because people will look at', 'start': 19.84, 'duration': 3.84}
+{'text': 'microscopic claims made biology and', 'start': 21.52, 'duration': 3.599}
+{'text': "pretend that that's where all of the big", 'start': 23.68, 'duration': 2.32}
+{'text': 'claims are made', 'start': 25.119, 'duration': 2.721}
+{'text': "so for instance like so rob's earlier", 'start': 26.0, 'duration': 3.84}
+{'text': 'question of like do we know that mitosis', 'start': 27.84, 'duration': 3.599}
+{'text': 'happens that cells divide well yeah of', 'start': 29.84, 'duration': 2.48}
+{'text': "course but that's not", 'start': 31.439, 'duration': 2.721}
+{'text': 'interesting and oh or whoever asked that', 'start': 32.32, 'duration': 3.28}
+{'text': 'earlier oh turn into ashton right', 'start': 34.16, 'duration': 2.64}
+{'text': "that's not interesting we know that", 'start': 35.6, 'duration': 2.799}
+{'text': "right that's fine like this would be", 'start': 36.8, 'duration': 2.72}
+{'text': 'comparable to a claim', 'start': 38.399, 'duration': 2.721}
+{'text': 'or a system in psychology say like', 'start': 39.52, 'duration': 3.12}
+{'text': 'related to operant conditioning', 'start': 41.12, 'duration': 2.8}
+{'text': 'right do we know that there are some', 'start': 42.64, 'duration': 3.12}
+{'text': 'ways to condition a behavior based on a', 'start': 43.92, 'duration': 3.36}
+{'text': 'reward that will make that behavior more', 'start': 45.76, 'duration': 3.2}
+{'text': "repeatable that's like really basic easy", 'start': 47.28, 'duration': 2.4}
+{'text': 'psychology', 'start': 48.96, 'duration': 2.32}
+{'text': 'the problem is that with psychology', 'start': 49.68, 'duration': 3.68}
+{'text': "we're really trying to answer really big", 'start': 51.28, 'duration': 4.0}
+{'text': 'really complicated questions these are', 'start': 53.36, 'duration': 3.519}
+{'text': 'really hard to answer for every', 'start': 55.28, 'duration': 3.36}
+{'text': 'scientific discipline so to compare like', 'start': 56.879, 'duration': 3.281}
+{'text': 'a very precise claim like', 'start': 58.64, 'duration': 3.599}
+{'text': 'do we know how you know like rna reads', 'start': 60.16, 'duration': 3.84}
+{'text': 'dna and you know makes proteins like', 'start': 62.239, 'duration': 3.041}
+{'text': 'sure like we might have like a', 'start': 64.0, 'duration': 2.56}
+{'text': 'microscopic thing like that but on a', 'start': 65.28, 'duration': 2.24}
+{'text': 'more macro level', 'start': 66.56, 'duration': 3.2}
+{'text': 'for instance like how do we cure cancer', 'start': 67.52, 'duration': 3.919}
+{'text': "um what do we do with alzheimer's", 'start': 69.76, 'duration': 3.12}
+{'text': 'disease like we know the little plaques', 'start': 71.439, 'duration': 2.481}
+{'text': 'that are involved you know the little', 'start': 72.88, 'duration': 2.32}
+{'text': "primes about why can't we do anything", 'start': 73.92, 'duration': 2.48}
+{'text': 'about that you know like how do we get', 'start': 75.2, 'duration': 2.64}
+{'text': 'people to lose weight', 'start': 76.4, 'duration': 3.28}
+{'text': "i see where you're going yeah that makes", 'start': 77.84, 'duration': 3.68}
+{'text': "sense even for something that we've been", 'start': 79.68, 'duration': 3.04}
+{'text': 'doing for thousand years like how do you', 'start': 81.52, 'duration': 2.8}
+{'text': 'build muscle the most effective way even', 'start': 82.72, 'duration': 2.719}
+{'text': "this is something that's like argued", 'start': 84.32, 'duration': 1.76}
+{'text': 'about you know', 'start': 85.439, 'duration': 2.32}
+{'text': 'th this is just a blog post from a', 'start': 86.08, 'duration': 3.44}
+{'text': "for-profit hospital this isn't like a", 'start': 87.759, 'duration': 3.04}
+{'text': "medical authority or anything i don't", 'start': 89.52, 'duration': 3.2}
+{'text': 'know why you linked this', 'start': 90.799, 'duration': 4.161}
+{'text': 'rob', 'start': 92.72, 'duration': 2.24}
+{'text': "what's that you're a sneaky one", 'start': 98.0, 'duration': 7.6}
+{'text': 'mickey listen really fast bro', 'start': 101.04, 'duration': 7.84}
+{'text': 'you have to we should have a fast cop', 'start': 105.6, 'duration': 4.72}
+{'text': 'come on you were interrupting me too', 'start': 108.88, 'duration': 2.559}
+{'text': "don't play the victim because you", 'start': 110.32, 'duration': 2.079}
+{'text': 'pivoted like', 'start': 111.439, 'duration': 2.161}
+{'text': 'every time we have a conversation you', 'start': 112.399, 'duration': 2.801}
+{'text': 'bring up like 35 [\xa0__\xa0] random', 'start': 113.6, 'duration': 2.64}
+{'text': 'questions', 'start': 115.2, 'duration': 2.72}
+{'text': "you're literally talking about trump in", 'start': 116.24, 'duration': 4.4}
+{'text': 'a conversation about romance', 'start': 117.92, 'duration': 4.159}
+{'text': 'you mentioned you compared your travel', 'start': 120.64, 'duration': 4.64}
+{'text': 'bans stuff no no', 'start': 122.079, 'duration': 5.601}
+{'text': "rob you did bring trump up okay i'm", 'start': 125.28, 'duration': 3.039}
+{'text': 'sorry but', 'start': 127.68, 'duration': 3.04}
+{'text': 'you brought trump it was john that was', 'start': 128.319, 'duration': 4.321}
+{'text': "oh i didn't okay maybe john i didn't do", 'start': 130.72, 'duration': 2.32}
+{'text': 'it', 'start': 132.64, 'duration': 2.16}
+{'text': "i didn't know it could have been john", 'start': 133.04, 'duration': 3.279}
+{'text': 'but i know when you were coming back at', 'start': 134.8, 'duration': 3.36}
+{'text': 'destiny you definitely brought trump', 'start': 136.319, 'duration': 2.961}
+{'text': 'into it and i was like', 'start': 138.16, 'duration': 2.56}
+{'text': 'so when you were coming back at destiny', 'start': 139.28, 'duration': 2.72}
+{'text': 'talking about bringing trump into it i', 'start': 140.72, 'duration': 1.92}
+{'text': 'was like', 'start': 142.0, 'duration': 3.68}
+{'text': "that was you bro no i don't want to that", 'start': 142.64, 'duration': 4.56}
+{'text': 'i brought it up in response to them', 'start': 145.68, 'duration': 4.32}
+{'text': "look the tiffany's not here it's from", 'start': 147.2, 'duration': 3.52}
+{'text': 'the imperial', 'start': 150.0, 'duration': 3.44}
+{'text': 'well just real quick uh honestly what', 'start': 150.72, 'duration': 3.04}
+{'text': 'she', 'start': 153.44, 'duration': 2.799}
+{'text': 'cited what she cited was the imperial', 'start': 153.76, 'duration': 3.6}
+{'text': 'college', 'start': 156.239, 'duration': 2.561}
+{'text': 'stating that lockdowns work yeah that', 'start': 157.36, 'duration': 3.36}
+{'text': 'was the model that was used in the uk', 'start': 158.8, 'duration': 3.2}
+{'text': 'and in the united states from neil', 'start': 160.72, 'duration': 2.159}
+{'text': 'ferguson', 'start': 162.0, 'duration': 2.8}
+{'text': 'that said 2.2 a million americans would', 'start': 162.879, 'duration': 3.681}
+{'text': 'die in a do-nothing scenario and said', 'start': 164.8, 'duration': 3.6}
+{'text': '500 000 brits would die in a do nothing', 'start': 166.56, 'duration': 2.399}
+{'text': 'scenario', 'start': 168.4, 'duration': 2.0}
+{'text': "they've been largely discredited that", 'start': 168.959, 'duration': 3.441}
+{'text': 'does not seem like crazy anymore does it', 'start': 170.4, 'duration': 3.36}
+{'text': 'considering how much we did try to do', 'start': 172.4, 'duration': 2.559}
+{'text': "and we lost we're probably going to lose", 'start': 173.76, 'duration': 2.64}
+{'text': 'about 650 000 people i know that a lot', 'start': 174.959, 'duration': 2.56}
+{'text': 'of people like you are making fun of', 'start': 176.4, 'duration': 2.96}
+{'text': 'that 2 million figure relentlessly', 'start': 177.519, 'duration': 3.521}
+{'text': "we're actually like not really that far", 'start': 179.36, 'duration': 2.879}
+{'text': 'from it considering how many steps we', 'start': 181.04, 'duration': 2.96}
+{'text': 'have taken listen', 'start': 182.239, 'duration': 3.201}
+{'text': "listen though that that's not what i'm", 'start': 184.0, 'duration': 3.36}
+{'text': 'saying right now they said first off', 'start': 185.44, 'duration': 3.439}
+{'text': "they're discredited by saying a do", 'start': 187.36, 'duration': 2.799}
+{'text': 'nothing scenario which is literally', 'start': 188.879, 'duration': 2.161}
+{'text': 'impossible second', 'start': 190.159, 'duration': 2.241}
+{'text': "we're only a quarter of a way to that", 'start': 191.04, 'duration': 2.64}
+{'text': 'and they said that these numbers would', 'start': 192.4, 'duration': 2.64}
+{'text': "approach that if we didn't follow their", 'start': 193.68, 'duration': 3.199}
+{'text': 'lockdown guns which they suggested', 'start': 195.04, 'duration': 4.4}
+{'text': "an 18-month lockdown so we didn't know", 'start': 196.879, 'duration': 5.201}
+{'text': 'we in the united states now', 'start': 199.44, 'duration': 3.68}
+{'text': "so you're saying we've been in a", 'start': 202.08, 'duration': 2.56}
+{'text': 'lockdown like they recommended for 18', 'start': 203.12, 'duration': 3.039}
+{'text': "months no we haven't but we we started", 'start': 204.64, 'duration': 2.8}
+{'text': 'to follow a lot of the guidelines which', 'start': 206.159, 'duration': 2.401}
+{'text': "is why we didn't hit that two", 'start': 207.44, 'duration': 5.439}
+{'text': 'uh the two million number right', 'start': 208.56, 'duration': 5.84}
+{'text': 'i gotta go to the bathroom okay how do', 'start': 212.879, 'duration': 2.64}
+{'text': "you guy i'm curious brother you", 'start': 214.4, 'duration': 1.919}
+{'text': 'anti-locking people', 'start': 215.519, 'duration': 2.64}
+{'text': 'how do you explain places like australia', 'start': 216.319, 'duration': 3.2}
+{'text': 'where they locked down the virus went', 'start': 218.159, 'duration': 2.64}
+{'text': 'away and then they unlocked down and in', 'start': 219.519, 'duration': 2.561}
+{'text': 'places like victoria started to spring', 'start': 220.799, 'duration': 2.321}
+{'text': 'up and then they locked down again it', 'start': 222.08, 'duration': 3.04}
+{'text': 'went away was that just random chance or', 'start': 223.12, 'duration': 5.199}
+{'text': "i'm i'm kind of mixed on it i don't", 'start': 225.12, 'duration': 4.32}
+{'text': 'think that we should have locked down', 'start': 228.319, 'duration': 2.321}
+{'text': 'the whole population i think that we', 'start': 229.44, 'duration': 2.799}
+{'text': 'definitely should have locked down', 'start': 230.64, 'duration': 3.12}
+{'text': 'to begin with because nobody knew', 'start': 232.239, 'duration': 2.801}
+{'text': "anything about it i don't think the", 'start': 233.76, 'duration': 2.64}
+{'text': 'lockdowns were', 'start': 235.04, 'duration': 3.04}
+{'text': "were bad to start like i think that's a", 'start': 236.4, 'duration': 3.119}
+{'text': 'good thing but', 'start': 238.08, 'duration': 3.68}
+{'text': "the fact that it's been a year now like", 'start': 239.519, 'duration': 3.041}
+{'text': 'we we', 'start': 241.76, 'duration': 2.399}
+{'text': 'learned more about the virus we learned', 'start': 242.56, 'duration': 3.12}
+{'text': 'that it had a target population', 'start': 244.159, 'duration': 2.881}
+{'text': 'and at that point we should have said', 'start': 245.68, 'duration': 3.199}
+{'text': "okay let's look at a way that we can", 'start': 247.04, 'duration': 3.6}
+{'text': 'kind of subsidize this portion of the', 'start': 248.879, 'duration': 2.56}
+{'text': 'population', 'start': 250.64, 'duration': 2.879}
+{'text': "let's look at a way to keep these people", 'start': 251.439, 'duration': 4.08}
+{'text': 'out of of the environment', 'start': 253.519, 'duration': 4.0}
+{'text': 'and and and maybe maybe we can give', 'start': 255.519, 'duration': 3.761}
+{'text': 'those people stimulus', 'start': 257.519, 'duration': 4.801}
+{'text': 'no literally nobody with this', 'start': 259.28, 'duration': 5.04}
+{'text': "yeah we knew it wasn't as deadly to the", 'start': 262.32, 'duration': 3.439}
+{'text': 'younger population so', 'start': 264.32, 'duration': 3.76}
+{'text': "i'm kind of like in the middle like i i", 'start': 265.759, 'duration': 3.921}
+{'text': 'i think a lot more', 'start': 268.08, 'duration': 3.2}
+{'text': "right yeah literally no one i'm not", 'start': 269.68, 'duration': 3.12}
+{'text': "asking about that i don't want i don't", 'start': 271.28, 'duration': 4.24}
+{'text': 'want a moderate position of like', 'start': 272.8, 'duration': 4.48}
+{'text': "that's me yeah hold on i'm not asking", 'start': 275.52, 'duration': 2.88}
+{'text': 'for the moderate position of well we', 'start': 277.28, 'duration': 2.56}
+{'text': 'needed more stimulus we should have been', 'start': 278.4, 'duration': 3.359}
+{'text': 'like more nuanced with our literally', 'start': 279.84, 'duration': 2.96}
+{'text': 'everyone would agree with that the', 'start': 281.759, 'duration': 2.16}
+{'text': 'question is for people that literally', 'start': 282.8, 'duration': 2.08}
+{'text': 'because there were at least two of you', 'start': 283.919, 'duration': 1.921}
+{'text': 'in here that were saying like oh', 'start': 284.88, 'duration': 2.4}
+{'text': "lockdowns don't do anything at all i", 'start': 285.84, 'duration': 2.799}
+{'text': 'want to know very specifically when you', 'start': 287.28, 'duration': 2.72}
+{'text': 'look at a place like australia', 'start': 288.639, 'duration': 2.641}
+{'text': 'how do you explain the fact that they', 'start': 290.0, 'duration': 3.28}
+{'text': 'had cases they locked down', 'start': 291.28, 'duration': 3.52}
+{'text': 'and then they unlocked down they got', 'start': 293.28, 'duration': 2.8}
+{'text': 'more cases and then they locked down and', 'start': 294.8, 'duration': 2.48}
+{'text': 'they went away again how do you explain', 'start': 296.08, 'duration': 2.559}
+{'text': 'stuff like that', 'start': 297.28, 'duration': 3.12}
+{'text': "so there's several people in the other", 'start': 298.639, 'duration': 3.601}
+{'text': "cases that's", 'start': 300.4, 'duration': 3.12}
+{'text': "that's right so no one has a", 'start': 302.24, 'duration': 3.44}
+{'text': 'responsibility okay all right but listen', 'start': 303.52, 'duration': 2.56}
+{'text': 'listen', 'start': 305.68, 'duration': 1.84}
+{'text': "i'll answer i'll answer your question", 'start': 306.08, 'duration': 2.399}
+{'text': "i'll answer it for you can you do it", 'start': 307.52, 'duration': 1.92}
+{'text': 'without naming another country right', 'start': 308.479, 'duration': 2.0}
+{'text': "let's see if you can do it", 'start': 309.44, 'duration': 4.08}
+{'text': "yes okay it'll be tough i'll try my best", 'start': 310.479, 'duration': 5.041}
+{'text': "australia's lockdown was probably far", 'start': 313.52, 'duration': 3.36}
+{'text': 'more stringent than other countries', 'start': 315.52, 'duration': 1.679}
+{'text': 'correct', 'start': 316.88, 'duration': 2.159}
+{'text': "that's correct yeah right that's the", 'start': 317.199, 'duration': 3.44}
+{'text': "problem like that's all the problems", 'start': 319.039, 'duration': 3.361}
+{'text': "that's what we're saying we need to do", 'start': 320.639, 'duration': 5.12}
+{'text': 'no no no listen no one a lockdown could', 'start': 322.4, 'duration': 5.2}
+{'text': "possibly be effective if it's almost", 'start': 325.759, 'duration': 2.72}
+{'text': 'universal', 'start': 327.6, 'duration': 2.319}
+{'text': 'that was never even attempted in the', 'start': 328.479, 'duration': 3.44}
+{'text': 'united states right what we did was it', 'start': 329.919, 'duration': 2.72}
+{'text': "wasn't", 'start': 331.919, 'duration': 3.441}
+{'text': "though wait hold on rob you're because", 'start': 332.639, 'duration': 3.12}
+{'text': 'okay', 'start': 335.36, 'duration': 1.52}
+{'text': "never mind i don't want to i agree with", 'start': 335.759, 'duration': 3.201}
+{'text': 'you', 'start': 336.88, 'duration': 2.08}
+{'text': 'we should have did from the get-go i', 'start': 344.56, 'duration': 2.24}
+{'text': 'said we should have protected the most', 'start': 345.68, 'duration': 2.32}
+{'text': 'vulnerable population', 'start': 346.8, 'duration': 2.8}
+{'text': 'and allowed those that were less at risk', 'start': 348.0, 'duration': 4.56}
+{'text': 'that have a 99.97 survivability rate to', 'start': 349.6, 'duration': 4.48}
+{'text': 'continue to go about their life as best', 'start': 352.56, 'duration': 2.16}
+{'text': 'as possible', 'start': 354.08, 'duration': 2.32}
+{'text': 'and then take the resources because our', 'start': 354.72, 'duration': 3.199}
+{'text': 'economy would have been collapsing', 'start': 356.4, 'duration': 3.44}
+{'text': 'like it is now because we brought down', 'start': 357.919, 'duration': 3.12}
+{'text': 'the healthy population', 'start': 359.84, 'duration': 2.72}
+{'text': 'took those resources and used it to', 'start': 361.039, 'duration': 3.041}
+{'text': 'protect the most vulnerable people', 'start': 362.56, 'duration': 3.44}
+{'text': 'now you could have done that okay rob', 'start': 364.08, 'duration': 4.399}
+{'text': 'rob rob rob hold off we are live now the', 'start': 366.0, 'duration': 3.68}
+{'text': 'break is over', 'start': 368.479, 'duration': 3.761}
+{'text': "we can carry this on we didn't want to", 'start': 369.68, 'duration': 3.68}
+{'text': 'argue at all in here and rob was', 'start': 372.24, 'duration': 2.399}
+{'text': 'screaming at all of us the entire time', 'start': 373.36, 'duration': 8.48}
+{'text': 'we were all very threatened in here', 'start': 374.639, 'duration': 7.201}
+{'text': "all right we're moving on to the next", 'start': 387.039, 'duration': 3.041}
+{'text': 'topic now amazingly enough that topic', 'start': 388.319, 'duration': 3.281}
+{'text': 'the first one was a softball that was', 'start': 390.08, 'duration': 2.72}
+{'text': 'kind of like the', 'start': 391.6, 'duration': 2.64}
+{'text': "easy one the next one we're getting into", 'start': 392.8, 'duration': 3.76}
+{'text': 'is a little bit more spicy if you will', 'start': 394.24, 'duration': 4.56}
+{'text': "all right so let's get into it amazon", 'start': 396.56, 'duration': 4.16}
+{'text': 'slammed after banning books', 'start': 398.8, 'duration': 4.399}
+{'text': 'it says frames transgenderism as a', 'start': 400.72, 'duration': 4.64}
+{'text': 'mental illness', 'start': 403.199, 'duration': 5.28}
+{'text': 'liberal billionaire uh jeff bezos', 'start': 405.36, 'duration': 5.04}
+{'text': 'behemoth online reads and by the way', 'start': 408.479, 'duration': 3.361}
+{'text': 'this is the news from fox', 'start': 410.4, 'duration': 3.359}
+{'text': 'i am not quoting this is if i agree with', 'start': 411.84, 'duration': 3.759}
+{'text': 'it in regards to the defamation whatever', 'start': 413.759, 'duration': 3.761}
+{'text': "i'm just literally reading from a source", 'start': 415.599, 'duration': 4.401}
+{'text': 'i take sources from cnn breitbart to fox', 'start': 417.52, 'duration': 4.0}
+{'text': 'across the spectrum so please keep that', 'start': 420.0, 'duration': 2.4}
+{'text': "in mind i'm not trying to show", 'start': 421.52, 'duration': 2.88}
+{'text': 'favoritism here i do my best to keep it', 'start': 422.4, 'duration': 3.919}
+{'text': 'what do you got chris stack uh could you', 'start': 424.4, 'duration': 3.84}
+{'text': 'please link the article', 'start': 426.319, 'duration': 3.6}
+{'text': 'absolutely yes absolutely one second let', 'start': 428.24, 'duration': 3.04}
+{'text': 'me let me finish the intro and i will', 'start': 429.919, 'duration': 2.241}
+{'text': 'actually link it to you', 'start': 431.28, 'duration': 2.639}
+{'text': 'all right billionaire jeff bezos bahamut', 'start': 432.16, 'duration': 3.52}
+{'text': 'online retailer amazon is receiving', 'start': 433.919, 'duration': 2.081}
+{'text': 'fierce', 'start': 435.68, 'duration': 2.239}
+{'text': 'criticism after announcing it would no', 'start': 436.0, 'duration': 3.84}
+{'text': 'longer sell books that it says', 'start': 437.919, 'duration': 3.68}
+{'text': 'frame transgender and other sexual', 'start': 439.84, 'duration': 3.759}
+{'text': 'identities as mental illnesses', 'start': 441.599, 'duration': 3.841}
+{'text': 'amazon announced that the decision and a', 'start': 443.599, 'duration': 3.841}
+{'text': 'letter sent to republican lawmakers that', 'start': 445.44, 'duration': 2.64}
+{'text': 'it was', 'start': 447.44, 'duration': 2.0}
+{'text': 'obtained and published by the wall', 'start': 448.08, 'duration': 3.76}
+{'text': 'street journal senators marco rubio mike', 'start': 449.44, 'duration': 4.159}
+{'text': 'lee mike braun and josh hawley had', 'start': 451.84, 'duration': 3.6}
+{'text': 'inquired why the online retailer pulled', 'start': 453.599, 'duration': 2.401}
+{'text': 'ryan t', 'start': 455.44, 'duration': 2.479}
+{'text': "anderson's best-selling book when harry", 'start': 456.0, 'duration': 3.84}
+{'text': 'became sally responding to the', 'start': 457.919, 'duration': 3.361}
+{'text': 'transgender movement which has been', 'start': 459.84, 'duration': 3.12}
+{'text': 'characterized by the basis owned', 'start': 461.28, 'duration': 3.16}
+{'text': 'washington post as', 'start': 462.96, 'duration': 4.32}
+{'text': 'anti-transgender as a book in quotations', 'start': 464.44, 'duration': 4.599}
+{'text': 'on this part as a book seller we provide', 'start': 467.28, 'duration': 3.599}
+{'text': 'our customers with access to a variety', 'start': 469.039, 'duration': 2.801}
+{'text': 'of viewpoints', 'start': 470.879, 'duration': 2.72}
+{'text': 'including books that some customers may', 'start': 471.84, 'duration': 4.079}
+{'text': 'find objectionable', 'start': 473.599, 'duration': 4.481}
+{'text': 'amazon works hard to ensure customers', 'start': 475.919, 'duration': 3.921}
+{'text': 'have a great shopping experience', 'start': 478.08, 'duration': 4.32}
+{'text': 'and access to widest and most diverse', 'start': 479.84, 'duration': 4.32}
+{'text': 'cross-section of written and spoken word', 'start': 482.4, 'duration': 2.88}
+{'text': 'in retail today', 'start': 484.16, 'duration': 3.439}
+{'text': 'amazon wrote to lawmakers we reserve the', 'start': 485.28, 'duration': 3.52}
+{'text': 'right not to sell', 'start': 487.599, 'duration': 3.201}
+{'text': 'certain content all retailers make', 'start': 488.8, 'duration': 3.839}
+{'text': 'decisions about what selection they', 'start': 490.8, 'duration': 3.04}
+{'text': 'choose to offer', 'start': 492.639, 'duration': 4.641}
+{'text': 'as do we panless my question to you is', 'start': 493.84, 'duration': 5.039}
+{'text': 'how do you feel about this', 'start': 497.28, 'duration': 3.599}
+{'text': 'in regards to should amazon be forced by', 'start': 498.879, 'duration': 3.76}
+{'text': 'the government or does amazon', 'start': 500.879, 'duration': 3.281}
+{'text': 'retain the right to choose what they', 'start': 502.639, 'duration': 3.041}
+{'text': "wish to sell and what they don't wish to", 'start': 504.16, 'duration': 2.159}
+{'text': 'sell', 'start': 505.68, 'duration': 2.88}
+{'text': "so we're going to change this up destiny", 'start': 506.319, 'duration': 3.361}
+{'text': "we're going to start with you you got", 'start': 508.56, 'duration': 3.12}
+{'text': 'one minute on the horn go ahead sir', 'start': 509.68, 'duration': 3.359}
+{'text': "i think it's a private distributor of", 'start': 511.68, 'duration': 3.599}
+{'text': 'any good you have a right um i', 'start': 513.039, 'duration': 4.321}
+{'text': 'i would argue to first remember right', 'start': 515.279, 'duration': 3.921}
+{'text': 'have a decision over what you wish to', 'start': 517.36, 'duration': 2.239}
+{'text': 'sell', 'start': 519.2, 'duration': 1.6}
+{'text': "so i mean if you don't want to force a", 'start': 519.599, 'duration': 3.601}
+{'text': 'particular seller to carry a product or', 'start': 520.8, 'duration': 3.76}
+{'text': "we shouldn't be forcing particular", 'start': 523.2, 'duration': 2.8}
+{'text': 'sellers to carry products i think that', 'start': 524.56, 'duration': 1.92}
+{'text': "that's", 'start': 526.0, 'duration': 3.44}
+{'text': 'okay that idea um i would say though', 'start': 526.48, 'duration': 4.0}
+{'text': 'that like i think i', 'start': 529.44, 'duration': 3.76}
+{'text': "i don't like the idea that a large like", 'start': 530.48, 'duration': 3.52}
+{'text': 'retailer would', 'start': 533.2, 'duration': 2.16}
+{'text': 'start to make like ideological', 'start': 534.0, 'duration': 2.399}
+{'text': "distinctions in terms of what they're", 'start': 535.36, 'duration': 3.2}
+{'text': "selling unless it's like a specific type", 'start': 536.399, 'duration': 2.88}
+{'text': 'of retailer', 'start': 538.56, 'duration': 2.0}
+{'text': 'so for instance if you had like a', 'start': 539.279, 'duration': 3.041}
+{'text': "christian bookstore i wouldn't see you", 'start': 540.56, 'duration': 3.12}
+{'text': 'like selling a bunch of books by like', 'start': 542.32, 'duration': 1.92}
+{'text': 'kitchens', 'start': 543.68, 'duration': 1.68}
+{'text': 'i would that would be like', 'start': 544.24, 'duration': 3.039}
+{'text': "understandable um if you're amazon and", 'start': 545.36, 'duration': 2.96}
+{'text': "you're selling books", 'start': 547.279, 'duration': 2.321}
+{'text': 'i would imagine that i should be able to', 'start': 548.32, 'duration': 2.88}
+{'text': 'go on amazon and buy whatever [\xa0__\xa0]', 'start': 549.6, 'duration': 2.48}
+{'text': 'book i want', 'start': 551.2, 'duration': 2.48}
+{'text': 'um the biggest problem that i have is', 'start': 552.08, 'duration': 2.96}
+{'text': 'that when you start like getting rid of', 'start': 553.68, 'duration': 2.8}
+{'text': 'books because you think that what they', 'start': 555.04, 'duration': 2.56}
+{'text': 'say is like', 'start': 556.48, 'duration': 2.72}
+{'text': "bad or whatever you don't agree with", 'start': 557.6, 'duration': 3.2}
+{'text': 'them then i think the next logical', 'start': 559.2, 'duration': 2.8}
+{'text': 'assumption is then we should be able', 'start': 560.8, 'duration': 2.88}
+{'text': 'to say that every book you do sell is', 'start': 562.0, 'duration': 3.04}
+{'text': 'something that you do agree with', 'start': 563.68, 'duration': 2.56}
+{'text': 'and i just feel like that just leads to', 'start': 565.04, 'duration': 2.56}
+{'text': 'a really weird world where we start', 'start': 566.24, 'duration': 3.2}
+{'text': 'banning the sale of all sorts of', 'start': 567.6, 'duration': 3.2}
+{'text': 'books because we think that you must', 'start': 569.44, 'duration': 3.36}
+{'text': 'support like do they sell mind conf for', 'start': 570.8, 'duration': 2.479}
+{'text': 'something', 'start': 572.8, 'duration': 5.039}
+{'text': 'on amazon is that a big', 'start': 573.279, 'duration': 4.56}
+{'text': "yeah honestly i'm gonna i'm basically", 'start': 582.399, 'duration': 3.44}
+{'text': 'gonna agree with almost everything', 'start': 584.56, 'duration': 3.36}
+{'text': 'destiny said i i have to', 'start': 585.839, 'duration': 5.201}
+{'text': 'uh base this around our constitutional', 'start': 587.92, 'duration': 6.08}
+{'text': "uh freedoms and and rights yeah i'm", 'start': 591.04, 'duration': 4.32}
+{'text': 'going to agree with destiny again on', 'start': 594.0, 'duration': 2.16}
+{'text': 'this one', 'start': 595.36, 'duration': 2.72}
+{'text': 'it really comes down to the constitution', 'start': 596.16, 'duration': 3.44}
+{'text': "on this one and it's like", 'start': 598.08, 'duration': 4.4}
+{'text': 'they have the right to do it uh', 'start': 599.6, 'duration': 4.479}
+{'text': 'transgender people', 'start': 602.48, 'duration': 3.52}
+{'text': 'is no longer classified as a mental', 'start': 604.079, 'duration': 3.121}
+{'text': 'disorder by the world health', 'start': 606.0, 'duration': 2.399}
+{'text': 'organization', 'start': 607.2, 'duration': 3.28}
+{'text': 'the fact that they removed these books', 'start': 608.399, 'duration': 3.761}
+{'text': "show that it's in line with current", 'start': 610.48, 'duration': 2.96}
+{'text': 'scientific uh', 'start': 612.16, 'duration': 4.08}
+{'text': "consensus it's amazon's best interest", 'start': 613.44, 'duration': 4.639}
+{'text': 'not to sell these books that now hold', 'start': 616.24, 'duration': 3.44}
+{'text': 'what conservatives would call', 'start': 618.079, 'duration': 4.961}
+{'text': 'fake news amazon can refuse to sell', 'start': 619.68, 'duration': 5.04}
+{'text': 'books at their own discretion', 'start': 623.04, 'duration': 3.84}
+{'text': 'however keep in mind these books do', 'start': 624.72, 'duration': 4.0}
+{'text': 'actively harm trans people', 'start': 626.88, 'duration': 4.24}
+{'text': 'by spreading misinformation at a time', 'start': 628.72, 'duration': 4.4}
+{'text': 'when misinformation on trans people', 'start': 631.12, 'duration': 5.68}
+{'text': 'is prevalent before i do my minutes', 'start': 633.12, 'duration': 5.279}
+{'text': 'you were talking about minecamp i', 'start': 636.8, 'duration': 3.68}
+{'text': 'actually owned minecamp myself so', 'start': 638.399, 'duration': 4.241}
+{'text': "that's kind of funny oh my god i can't", 'start': 640.48, 'duration': 3.52}
+{'text': 'have you on this panel', 'start': 642.64, 'duration': 5.199}
+{'text': 'nazi nazi', 'start': 644.0, 'duration': 3.839}
+{'text': 'same reason i have rage anyway', 'start': 658.88, 'duration': 6.24}
+{'text': 'uh with this whole thing about amazon i', 'start': 662.56, 'duration': 4.0}
+{'text': 'come from working within the arts', 'start': 665.12, 'duration': 2.24}
+{'text': 'industry', 'start': 666.56, 'duration': 3.12}
+{'text': 'and although wait did you say the', 'start': 667.36, 'duration': 4.479}
+{'text': 'neo-nazi industry what did you say', 'start': 669.68, 'duration': 5.279}
+{'text': 'no not', 'start': 671.839, 'duration': 3.12}
+{'text': 'i work within the arts industry and i', 'start': 685.92, 'duration': 4.159}
+{'text': 'think with', 'start': 688.88, 'duration': 4.639}
+{'text': "what's happening here is uh amazon", 'start': 690.079, 'duration': 5.041}
+{'text': "shouldn't really be", 'start': 693.519, 'duration': 4.0}
+{'text': 'censoring it in a way these books should', 'start': 695.12, 'duration': 3.04}
+{'text': 'be there', 'start': 697.519, 'duration': 4.0}
+{'text': 'with say a warning uh', 'start': 698.16, 'duration': 4.64}
+{'text': 'because one of the major things with the', 'start': 701.519, 'duration': 4.56}
+{'text': "arts industry is you don't censor art", 'start': 702.8, 'duration': 5.039}
+{'text': "it's same with history you don't censor", 'start': 706.079, 'duration': 3.44}
+{'text': 'it it has to be there', 'start': 707.839, 'duration': 4.401}
+{'text': 'for the public eyes uh so i think what', 'start': 709.519, 'duration': 3.76}
+{'text': "they're doing", 'start': 712.24, 'duration': 4.08}
+{'text': "is completely wrong yeah i'm totally not", 'start': 713.279, 'duration': 4.56}
+{'text': 'married to like the whole', 'start': 716.32, 'duration': 3.6}
+{'text': 'dangerous books i mean they do it all', 'start': 717.839, 'duration': 3.68}
+{'text': 'the time with some stuff censorship in', 'start': 719.92, 'duration': 2.32}
+{'text': 'itself', 'start': 721.519, 'duration': 3.281}
+{'text': "uh i'm a little iffy sometimes you know", 'start': 722.24, 'duration': 3.76}
+{'text': "when you go into and you're looking at", 'start': 724.8, 'duration': 2.96}
+{'text': "the medical medium it's placed to a book", 'start': 726.0, 'duration': 2.24}
+{'text': 'from the', 'start': 727.76, 'duration': 2.72}
+{'text': "mayo clinic you know one's a reliable", 'start': 728.24, 'duration': 4.24}
+{'text': "source of information and one's not", 'start': 730.48, 'duration': 4.479}
+{'text': 'uh personal responsibility is important', 'start': 732.48, 'duration': 3.68}
+{'text': "when you're trying to learn yourself i", 'start': 734.959, 'duration': 2.32}
+{'text': 'mean ultimately', 'start': 736.16, 'duration': 3.679}
+{'text': 'we need a better universal education and', 'start': 737.279, 'duration': 4.0}
+{'text': 'evidence against educational practice', 'start': 739.839, 'duration': 4.081}
+{'text': 'practices and this access to information', 'start': 741.279, 'duration': 4.161}
+{'text': 'regardless of the ability to pay for', 'start': 743.92, 'duration': 2.479}
+{'text': 'college but', 'start': 745.44, 'duration': 2.72}
+{'text': "while it's worrisome it's definitely", 'start': 746.399, 'duration': 3.601}
+{'text': 'important to have the misinformation and', 'start': 748.16, 'duration': 3.919}
+{'text': 'anti-science sources', 'start': 750.0, 'duration': 4.8}
+{'text': 'uh be kept in public information so that', 'start': 752.079, 'duration': 3.921}
+{'text': 'people have access to all kinds of', 'start': 754.8, 'duration': 2.08}
+{'text': 'information', 'start': 756.0, 'duration': 4.0}
+{'text': 'and it being amazon is probably just a', 'start': 756.88, 'duration': 4.56}
+{'text': 'grab for attention because it seems like', 'start': 760.0, 'duration': 3.44}
+{'text': 'a really small step', 'start': 761.44, 'duration': 5.12}
+{'text': 'in a direction that you know nobody', 'start': 763.44, 'duration': 4.079}
+{'text': 'really asked', 'start': 766.56, 'duration': 2.48}
+{'text': 'so on this issue yeah i largely agree', 'start': 767.519, 'duration': 3.44}
+{'text': "with most everyone uh i don't think like", 'start': 769.04, 'duration': 3.039}
+{'text': "there's a difference between", 'start': 770.959, 'duration': 3.201}
+{'text': 'when we see things like social media and', 'start': 772.079, 'duration': 3.601}
+{'text': 'sort of the monopolies that they may', 'start': 774.16, 'duration': 1.76}
+{'text': 'have', 'start': 775.68, 'duration': 1.839}
+{'text': 'on the flow of information versus amazon', 'start': 775.92, 'duration': 3.2}
+{'text': 'not has certainly has a large share in', 'start': 777.519, 'duration': 2.961}
+{'text': 'the amount of books that are sold', 'start': 779.12, 'duration': 3.04}
+{'text': 'but clearly there are other options that', 'start': 780.48, 'duration': 3.039}
+{'text': 'you could buy books from other retailers', 'start': 782.16, 'duration': 2.56}
+{'text': 'so they can do whatever they want', 'start': 783.519, 'duration': 2.32}
+{'text': "i don't have a problem with that i agree", 'start': 784.72, 'duration': 3.04}
+{'text': "it's a bad idea for them to do this i go", 'start': 785.839, 'duration': 3.12}
+{'text': "with you john the fact that they're", 'start': 787.76, 'duration': 2.16}
+{'text': 'selling minecomp', 'start': 788.959, 'duration': 2.88}
+{'text': 'and as american nachos said what does', 'start': 789.92, 'duration': 3.68}
+{'text': 'that prove they disagree with this', 'start': 791.839, 'duration': 3.601}
+{'text': 'criticism of transgender issues but they', 'start': 793.6, 'duration': 3.359}
+{'text': 'agree with mineconf right', 'start': 795.44, 'duration': 2.959}
+{'text': "apparently that's what they're saying", 'start': 796.959, 'duration': 3.521}
+{'text': "without saying it uh let's spice it up", 'start': 798.399, 'duration': 2.481}
+{'text': 'though', 'start': 800.48, 'duration': 2.4}
+{'text': 'uh transgenderism is an illness whether', 'start': 800.88, 'duration': 3.44}
+{'text': 'it be mental or physical', 'start': 802.88, 'duration': 3.36}
+{'text': "and even if you disagree with that it's", 'start': 804.32, 'duration': 3.44}
+{'text': 'certainly debatable so even the fact', 'start': 806.24, 'duration': 2.8}
+{'text': 'that it should have some sort of warning', 'start': 807.76, 'duration': 2.8}
+{'text': 'label on it is absurd', 'start': 809.04, 'duration': 3.359}
+{'text': 'this is a position within a science this', 'start': 810.56, 'duration': 3.519}
+{'text': 'is a position within common sense', 'start': 812.399, 'duration': 3.921}
+{'text': "and i'm tired of trying to censor the", 'start': 814.079, 'duration': 3.681}
+{'text': "truth to make people feel good it's", 'start': 816.32, 'duration': 2.319}
+{'text': 'ridiculous', 'start': 817.76, 'duration': 2.56}
+{'text': 'and uh book burning is bad book', 'start': 818.639, 'duration': 3.76}
+{'text': 'censorship is bad no movement in history', 'start': 820.32, 'duration': 3.68}
+{'text': "that i'm aware of is suggested removing", 'start': 822.399, 'duration': 3.361}
+{'text': 'books and ended up being a movement that', 'start': 824.0, 'duration': 3.199}
+{'text': 'was worthwhile', 'start': 825.76, 'duration': 3.36}
+{'text': "my stance on this is uh i'm a", 'start': 827.199, 'duration': 3.041}
+{'text': "libertarian in a sense i'm a", 'start': 829.12, 'duration': 2.399}
+{'text': 'constitutionalist i believe that is a', 'start': 830.24, 'duration': 2.32}
+{'text': 'private enterprise they have the right', 'start': 831.519, 'duration': 2.401}
+{'text': 'to do whatever they want', 'start': 832.56, 'duration': 2.399}
+{'text': "if they don't want to sell the book", 'start': 833.92, 'duration': 2.24}
+{'text': "don't sell the book you can get it from", 'start': 834.959, 'duration': 2.801}
+{'text': 'some place else i but i do agree with', 'start': 836.16, 'duration': 2.72}
+{'text': 'destiny rob the rest of them that it', 'start': 837.76, 'duration': 2.56}
+{'text': 'sets a very bad presence that', 'start': 838.88, 'duration': 3.6}
+{'text': "basically you're selling mineconf but", 'start': 840.32, 'duration': 3.72}
+{'text': "you're not going to sell a book that is", 'start': 842.48, 'duration': 3.28}
+{'text': 'anti-transgenderism the statement that', 'start': 844.04, 'duration': 2.919}
+{'text': "you're making there is like saying hey", 'start': 845.76, 'duration': 2.72}
+{'text': "don't talk bad about transgenders", 'start': 846.959, 'duration': 3.601}
+{'text': 'but nazism is perfectly acceptable so i', 'start': 848.48, 'duration': 3.28}
+{'text': "think that it's kind of like the whole", 'start': 850.56, 'duration': 2.56}
+{'text': 'facebook debacle like do they want to', 'start': 851.76, 'duration': 3.199}
+{'text': 'step in as moderators or editors', 'start': 853.12, 'duration': 3.92}
+{'text': 'the same as amazon in my mind a smart', 'start': 854.959, 'duration': 3.601}
+{'text': 'move would have been we sell', 'start': 857.04, 'duration': 3.44}
+{'text': "everything we don't agree or disagree we", 'start': 858.56, 'duration': 3.44}
+{'text': 'just serve as a book', 'start': 860.48, 'duration': 3.44}
+{'text': "seller that's it if that's the stance", 'start': 862.0, 'duration': 3.12}
+{'text': "you take i think you're pretty much safe", 'start': 863.92, 'duration': 3.039}
+{'text': 'from public outcry and cancel culture in', 'start': 865.12, 'duration': 4.079}
+{'text': "regards to transgenderism i'm sorry", 'start': 866.959, 'duration': 4.081}
+{'text': 'tiffany all due respect and i think that', 'start': 869.199, 'duration': 4.0}
+{'text': 'this this argument is kind of overlooked', 'start': 871.04, 'duration': 3.76}
+{'text': 'that even if i find that somebody i', 'start': 873.199, 'duration': 2.961}
+{'text': 'disagree with in regards to suffering', 'start': 874.8, 'duration': 2.56}
+{'text': 'from a psychological disorder whatever', 'start': 876.16, 'duration': 2.08}
+{'text': 'you want to claim it as', 'start': 877.36, 'duration': 2.479}
+{'text': 'makes them inherently a bad person', 'start': 878.24, 'duration': 3.2}
+{'text': "that's not what i'm trying to say", 'start': 879.839, 'duration': 2.961}
+{'text': "but i do feel like if there's a", 'start': 881.44, 'duration': 3.04}
+{'text': 'disconnect between the body and the', 'start': 882.8, 'duration': 2.56}
+{'text': 'actual mind', 'start': 884.48, 'duration': 2.719}
+{'text': 'saying regards to what sex you are i', 'start': 885.36, 'duration': 3.36}
+{'text': 'think that is i think that is an issue', 'start': 887.199, 'duration': 3.041}
+{'text': 'i i honestly think it is does it make a', 'start': 888.72, 'duration': 3.04}
+{'text': 'person a bad person no', 'start': 890.24, 'duration': 3.12}
+{'text': 'you could say the same thing about ptsd', 'start': 891.76, 'duration': 3.04}
+{'text': 'post-traumatic stress does that make', 'start': 893.36, 'duration': 2.719}
+{'text': 'somebody a bad person because they have', 'start': 894.8, 'duration': 2.32}
+{'text': 'this absolutely not', 'start': 896.079, 'duration': 2.481}
+{'text': 'but the basis of the argument saying', 'start': 897.12, 'duration': 2.719}
+{'text': 'that somebody feels like they should', 'start': 898.56, 'duration': 3.12}
+{'text': "they're in the wrong body the wrong sex", 'start': 899.839, 'duration': 2.8}
+{'text': "that means there's a disconnect", 'start': 901.68, 'duration': 2.32}
+{'text': "therefore there's a disorder there's", 'start': 902.639, 'duration': 2.32}
+{'text': "there's something wrong", 'start': 904.0, 'duration': 2.399}
+{'text': "but again i feel like the argument's", 'start': 904.959, 'duration': 4.0}
+{'text': 'been taken so far off the rails saying', 'start': 906.399, 'duration': 4.161}
+{'text': 'if somebody does have a psychological', 'start': 908.959, 'duration': 3.281}
+{'text': "disorder they're inherently a bad human", 'start': 910.56, 'duration': 2.88}
+{'text': "being i don't agree with that", 'start': 912.24, 'duration': 3.039}
+{'text': "i actually have trans friends and i'm", 'start': 913.44, 'duration': 3.12}
+{'text': "not saying that like oh hey i've got a", 'start': 915.279, 'duration': 2.56}
+{'text': "black friend i'm not racist i actually", 'start': 916.56, 'duration': 3.04}
+{'text': 'have trans friends i love him to death i', 'start': 917.839, 'duration': 2.321}
+{'text': 'do', 'start': 919.6, 'duration': 2.4}
+{'text': 'we just disagree on some of these topics', 'start': 920.16, 'duration': 3.919}
+{'text': "there but that's where i stand", 'start': 922.0, 'duration': 4.16}
+{'text': 'open for debates have at it yeah that', 'start': 924.079, 'duration': 3.361}
+{'text': 'sounds like the whole i have a black', 'start': 926.16, 'duration': 2.239}
+{'text': 'friend argument', 'start': 927.44, 'duration': 2.8}
+{'text': "uh you have to remember that that's why", 'start': 928.399, 'duration': 3.36}
+{'text': 'i literally just said that', 'start': 930.24, 'duration': 3.839}
+{'text': 'yeah i know uh but it still sounds like', 'start': 931.759, 'duration': 4.401}
+{'text': 'that even if you like preemptively', 'start': 934.079, 'duration': 4.721}
+{'text': "like try to like stop that analogy it's", 'start': 936.16, 'duration': 3.119}
+{'text': "it's", 'start': 938.8, 'duration': 4.0}
+{'text': 'hard to you know uh vary uh just because', 'start': 939.279, 'duration': 5.201}
+{'text': 'trans people do have a disconnect with', 'start': 942.8, 'duration': 2.24}
+{'text': 'their brain', 'start': 944.48, 'duration': 4.719}
+{'text': "and body uh it's a biological issue but", 'start': 945.04, 'duration': 6.08}
+{'text': 'none not when we think mental issues', 'start': 949.199, 'duration': 3.2}
+{'text': "we're not talking about just", 'start': 951.12, 'duration': 3.36}
+{'text': "you know uh one thing doesn't match with", 'start': 952.399, 'duration': 3.44}
+{'text': "the other it's", 'start': 954.48, 'duration': 3.76}
+{'text': 'more of uh can you function in society', 'start': 955.839, 'duration': 4.481}
+{'text': 'trans people are capable of functioning', 'start': 958.24, 'duration': 4.56}
+{'text': 'in society perfectly as long as they', 'start': 960.32, 'duration': 5.12}
+{'text': "uh you know they're treated well like i", 'start': 962.8, 'duration': 4.399}
+{'text': 'know trans suicide rates are high but', 'start': 965.44, 'duration': 2.88}
+{'text': "that's because", 'start': 967.199, 'duration': 3.361}
+{'text': "uh they're treated like [\xa0__\xa0] a lot of uh", 'start': 968.32, 'duration': 4.16}
+{'text': 'times by their own family in fact', 'start': 970.56, 'duration': 4.56}
+{'text': 'it shows that like trans people who are', 'start': 972.48, 'duration': 4.0}
+{'text': 'accepted by their parents', 'start': 975.12, 'duration': 4.56}
+{'text': 'suicide suicidality is less likely to', 'start': 976.48, 'duration': 4.359}
+{'text': 'happen i think', 'start': 979.68, 'duration': 3.12}
+{'text': "uh around like nine isn't it kind of", 'start': 980.839, 'duration': 3.24}
+{'text': 'hard to prove that though', 'start': 982.8, 'duration': 3.68}
+{'text': "i'm not done i'm not done uh so no it's", 'start': 984.079, 'duration': 3.68}
+{'text': "not no it's not hard to prove because", 'start': 986.48, 'duration': 2.96}
+{'text': 'this is an actual study i can link', 'start': 987.759, 'duration': 4.961}
+{'text': "uh first off uh okay it's not a mental", 'start': 989.44, 'duration': 4.16}
+{'text': 'illness', 'start': 992.72, 'duration': 2.239}
+{'text': 'uh based on the world health', 'start': 993.6, 'duration': 3.84}
+{'text': 'organization which fyi individuals', 'start': 994.959, 'duration': 4.32}
+{'text': 'infinitely smarter than anyone on this', 'start': 997.44, 'duration': 4.399}
+{'text': "panel uh if if you're in denial that's", 'start': 999.279, 'duration': 3.12}
+{'text': 'okay', 'start': 1001.839, 'duration': 4.161}
+{'text': 'uh specifically ron and john i get it', 'start': 1002.399, 'duration': 6.161}
+{'text': "uh it's like it just solidifies my", 'start': 1006.0, 'duration': 4.24}
+{'text': 'severe low opinion of you', 'start': 1008.56, 'duration': 4.48}
+{'text': 'not so much john but rob uh that said', 'start': 1010.24, 'duration': 3.839}
+{'text': 'people can have', 'start': 1013.04, 'duration': 3.28}
+{'text': 'this information if they if they want', 'start': 1014.079, 'duration': 3.76}
+{'text': 'wrong information', 'start': 1016.32, 'duration': 2.879}
+{'text': "additionally i don't think they should", 'start': 1017.839, 'duration': 3.521}
+{'text': 'sell mine conf like just because they', 'start': 1019.199, 'duration': 4.08}
+{'text': "sell it doesn't mean i agree with it", 'start': 1021.36, 'duration': 4.479}
+{'text': 'i think that should also be removed and', 'start': 1023.279, 'duration': 4.241}
+{'text': 'perhaps someday they will remove it', 'start': 1025.839, 'duration': 2.96}
+{'text': 'considering all the', 'start': 1027.52, 'duration': 2.799}
+{'text': 'what what people calling canceled', 'start': 1028.799, 'duration': 3.04}
+{'text': 'cultures happening if canceled culture', 'start': 1030.319, 'duration': 3.441}
+{'text': 'means removing nazi propaganda', 'start': 1031.839, 'duration': 3.761}
+{'text': "then yeah i'm fine with cancelled", 'start': 1033.76, 'duration': 3.039}
+{'text': 'culture okay', 'start': 1035.6, 'duration': 3.359}
+{'text': 'uh and if you want more links to trans', 'start': 1036.799, 'duration': 3.681}
+{'text': 'issues this is my bread and [\xa0__\xa0]', 'start': 1038.959, 'duration': 2.88}
+{'text': "butter so i'm actually", 'start': 1040.48, 'duration': 3.52}
+{'text': 'posting if you look down great post them', 'start': 1041.839, 'duration': 3.521}
+{'text': 'in the hold on real quick the links that', 'start': 1044.0, 'duration': 2.16}
+{'text': 'you have tiffany', 'start': 1045.36, 'duration': 2.64}
+{'text': 'post them in the whereby chat and then', 'start': 1046.16, 'duration': 3.519}
+{'text': "i'll also post them in the chat", 'start': 1048.0, 'duration': 3.44}
+{'text': 'streaming i have whatever one you want', 'start': 1049.679, 'duration': 3.201}
+{'text': 'to share whatever we want to share', 'start': 1051.44, 'duration': 3.76}
+{'text': 'rob go ahead okay all right yeah so so', 'start': 1052.88, 'duration': 4.24}
+{'text': "uh so there's a lot to say here first", 'start': 1055.2, 'duration': 4.16}
+{'text': 'you misarticulate what an illness is an', 'start': 1057.12, 'duration': 3.439}
+{'text': "illness doesn't mean that you can't", 'start': 1059.36, 'duration': 2.8}
+{'text': 'survive or live or something like that', 'start': 1060.559, 'duration': 3.36}
+{'text': 'an illness is something that requires', 'start': 1062.16, 'duration': 3.519}
+{'text': 'medical information to try to get you', 'start': 1063.919, 'duration': 3.681}
+{'text': 'as close to homeostasis to treat that as', 'start': 1065.679, 'duration': 3.041}
+{'text': 'possible and', 'start': 1067.6, 'duration': 2.8}
+{'text': 'whether it be a mental or a physical', 'start': 1068.72, 'duration': 3.44}
+{'text': "definition hold on let rob finish he's", 'start': 1070.4, 'duration': 3.2}
+{'text': 'still talking i can read a dictionary', 'start': 1072.16, 'duration': 2.8}
+{'text': "definition if you want but that's what", 'start': 1073.6, 'duration': 1.92}
+{'text': "i'm saying", 'start': 1074.96, 'duration': 2.48}
+{'text': 'right now for you sure go ahead read the', 'start': 1075.52, 'duration': 3.92}
+{'text': 'dictionary definition disease or period', 'start': 1077.44, 'duration': 4.4}
+{'text': 'of sickness affecting the body or mind', 'start': 1079.44, 'duration': 4.8}
+{'text': "yes real quick we're not we don't go by", 'start': 1081.84, 'duration': 3.92}
+{'text': "dictionary here when we're talking about", 'start': 1084.24, 'duration': 2.16}
+{'text': 'sickness', 'start': 1085.76, 'duration': 3.2}
+{'text': "but it's not a sickness we don't don't", 'start': 1086.4, 'duration': 3.68}
+{'text': 'read dictionary definitions', 'start': 1088.96, 'duration': 2.56}
+{'text': "ever when we're talking about like apa", 'start': 1090.08, 'duration': 3.04}
+{'text': 'or who rulings also by the way because', 'start': 1091.52, 'duration': 3.36}
+{'text': 'that the apa or the wto does not read', 'start': 1093.12, 'duration': 2.88}
+{'text': "the dictionary to determine what's an", 'start': 1094.88, 'duration': 2.24}
+{'text': 'illness or i think you should focus on', 'start': 1096.0, 'duration': 1.84}
+{'text': 'the idea that like', 'start': 1097.12, 'duration': 2.48}
+{'text': "the wh on the apa don't say that being", 'start': 1097.84, 'duration': 4.079}
+{'text': 'transgender or being a trans person', 'start': 1099.6, 'duration': 3.68}
+{'text': "is an illness so i mean like i don't", 'start': 1101.919, 'duration': 3.441}
+{'text': 'know it it is an illness', 'start': 1103.28, 'duration': 6.56}
+{'text': "so it doesn't matter what it is", 'start': 1105.36, 'duration': 4.48}
+{'text': 'you can just keep interrupting because', 'start': 1110.32, 'duration': 2.719}
+{'text': 'you feel sanctimonious on the issue if', 'start': 1111.52, 'duration': 2.159}
+{'text': 'you want but no', 'start': 1113.039, 'duration': 2.561}
+{'text': 'it is an interesting and it is because', 'start': 1113.679, 'duration': 3.441}
+{'text': "uh and we'll go through it and we can", 'start': 1115.6, 'duration': 2.319}
+{'text': 'show why so', 'start': 1117.12, 'duration': 2.4}
+{'text': 'uh because it requires some sort of', 'start': 1117.919, 'duration': 3.441}
+{'text': 'medical informa an intervention to', 'start': 1119.52, 'duration': 2.96}
+{'text': 'achieve to uh', 'start': 1121.36, 'duration': 2.96}
+{'text': 'help people achieve a status that they', 'start': 1122.48, 'duration': 3.199}
+{'text': 'feel safe so for example d', 'start': 1124.32, 'duration': 2.56}
+{'text': "let's just go through a series of", 'start': 1125.679, 'duration': 2.481}
+{'text': 'questions real quick do you think', 'start': 1126.88, 'duration': 2.64}
+{'text': "there's a difference between transgender", 'start': 1128.16, 'duration': 4.24}
+{'text': 'and a cross-dresser', 'start': 1129.52, 'duration': 2.88}
+{'text': "i'm sorry i couldn't hear you he muted", 'start': 1132.72, 'duration': 3.6}
+{'text': 'uh yes', 'start': 1134.4, 'duration': 3.2}
+{'text': "and what's that difference can you", 'start': 1136.32, 'duration': 3.2}
+{'text': 'explain what being trans can you explain', 'start': 1137.6, 'duration': 5.04}
+{'text': 'to me define what transgender is', 'start': 1139.52, 'duration': 4.48}
+{'text': 'i mean do you want to look up the actual', 'start': 1142.64, 'duration': 3.279}
+{'text': 'definition like this is no no you tell', 'start': 1144.0, 'duration': 2.96}
+{'text': 'me in your own words', 'start': 1145.919, 'duration': 3.041}
+{'text': "it's something you're an expert on women", 'start': 1146.96, 'duration': 3.28}
+{'text': 'or transgender', 'start': 1148.96, 'duration': 4.079}
+{'text': 'in general in general what does', 'start': 1150.24, 'duration': 4.24}
+{'text': 'transgender mean define you', 'start': 1153.039, 'duration': 3.201}
+{'text': 'you like like yourself i mean should i', 'start': 1154.48, 'duration': 3.76}
+{'text': 'mean denoting relating to a person whose', 'start': 1156.24, 'duration': 3.439}
+{'text': 'sense or personality', 'start': 1158.24, 'duration': 3.36}
+{'text': "uh yeah but what's your perspective", 'start': 1159.679, 'duration': 5.041}
+{'text': "you're reading your definition", 'start': 1161.6, 'duration': 3.12}
+{'text': 'you asked for the definition i was', 'start': 1167.28, 'duration': 3.68}
+{'text': 'giving it to you', 'start': 1169.039, 'duration': 4.721}
+{'text': "okay sure let's hear your definition", 'start': 1170.96, 'duration': 3.599}
+{'text': 'what do you mean', 'start': 1173.76, 'duration': 3.52}
+{'text': 'my definition is the actual definition', 'start': 1174.559, 'duration': 4.561}
+{'text': "let's hear it then", 'start': 1177.28, 'duration': 3.6}
+{'text': 'i i was just reading it to you and you', 'start': 1179.12, 'duration': 3.12}
+{'text': 'gave me [\xa0__\xa0] for it', 'start': 1180.88, 'duration': 2.88}
+{'text': "i didn't intervene when i read your", 'start': 1182.24, 'duration': 5.04}
+{'text': 'definition there too that was me sorry', 'start': 1183.76, 'duration': 3.52}
+{'text': "okay sorry i didn't realize that was you", 'start': 1188.16, 'duration': 3.84}
+{'text': 'okay', 'start': 1191.039, 'duration': 3.441}
+{'text': "it's uh denoting or relating to a person", 'start': 1192.0, 'duration': 3.28}
+{'text': 'whose sense', 'start': 1194.48, 'duration': 3.28}
+{'text': 'or personal identity in gender does not', 'start': 1195.28, 'duration': 4.639}
+{'text': 'correspond with their birth sex', 'start': 1197.76, 'duration': 3.6}
+{'text': "that's right and so what it means is", 'start': 1199.919, 'duration': 3.041}
+{'text': "that there's something biologically or", 'start': 1201.36, 'duration': 3.92}
+{'text': 'mentally wrong with your mind', 'start': 1202.96, 'duration': 3.839}
+{'text': "that's right i agree i agree and that", 'start': 1205.28, 'duration': 2.72}
+{'text': 'this is why i bring it up so if you give', 'start': 1206.799, 'duration': 1.76}
+{'text': 'me a chance', 'start': 1208.0, 'duration': 2.24}
+{'text': "cross-dressing is not an illness that's", 'start': 1208.559, 'duration': 3.201}
+{'text': "someone who's preferring to wear the", 'start': 1210.24, 'duration': 4.799}
+{'text': 'clothing and present themselves', 'start': 1211.76, 'duration': 3.279}
+{'text': "please right so that that's what", 'start': 1219.12, 'duration': 3.439}
+{'text': 'cross-dressing is presenting in', 'start': 1220.88, 'duration': 3.52}
+{'text': 'what we consider the traditional gender', 'start': 1222.559, 'duration': 3.841}
+{'text': 'garb of someone of the opposite sex', 'start': 1224.4, 'duration': 3.12}
+{'text': "that's what cross-dressing is", 'start': 1226.4, 'duration': 3.04}
+{'text': 'transgender is more than that it means', 'start': 1227.52, 'duration': 3.279}
+{'text': "that there's some something", 'start': 1229.44, 'duration': 3.119}
+{'text': "there's a disconnect between the mind", 'start': 1230.799, 'duration': 3.281}
+{'text': 'and what a person feels', 'start': 1232.559, 'duration': 3.36}
+{'text': "the sex they are it's actually the word", 'start': 1234.08, 'duration': 3.76}
+{'text': 'should be transsexual because gender is', 'start': 1235.919, 'duration': 3.281}
+{'text': 'a word that implies', 'start': 1237.84, 'duration': 4.0}
+{'text': 'what you identify as sort of socially', 'start': 1239.2, 'duration': 4.88}
+{'text': 'sex is different so when trans women say', 'start': 1241.84, 'duration': 3.68}
+{'text': "trans women or women they're implying", 'start': 1244.08, 'duration': 3.28}
+{'text': 'that their sex is actually different', 'start': 1245.52, 'duration': 3.76}
+{'text': 'and if you have something wrong with', 'start': 1247.36, 'duration': 3.52}
+{'text': 'your bother whether body whether it be', 'start': 1249.28, 'duration': 3.279}
+{'text': 'physiologically or mentally', 'start': 1250.88, 'duration': 3.2}
+{'text': 'that you think you were born in the', 'start': 1252.559, 'duration': 3.761}
+{'text': 'wrong body thus you require some sort of', 'start': 1254.08, 'duration': 3.44}
+{'text': 'medical intervention', 'start': 1256.32, 'duration': 3.76}
+{'text': 'whether it be hormone therapy surgeries', 'start': 1257.52, 'duration': 4.399}
+{'text': 'and things like that that is an illness', 'start': 1260.08, 'duration': 2.8}
+{'text': 'why do you wait', 'start': 1261.919, 'duration': 2.081}
+{'text': 'why do you think you have the authority', 'start': 1262.88, 'duration': 3.52}
+{'text': 'to to stand against the apa or the wbho', 'start': 1264.0, 'duration': 2.799}
+{'text': 'on this', 'start': 1266.4, 'duration': 1.519}
+{'text': 'if you say that you have the science on', 'start': 1266.799, 'duration': 2.641}
+{'text': 'your side right most of them recognize', 'start': 1267.919, 'duration': 2.721}
+{'text': "like everything that you're talking", 'start': 1269.44, 'duration': 2.8}
+{'text': 'about the thing that requires medical', 'start': 1270.64, 'duration': 2.159}
+{'text': 'treatment', 'start': 1272.24, 'duration': 2.08}
+{'text': "isn't being a trans person it's", 'start': 1272.799, 'duration': 3.041}
+{'text': "alleviating gender dysphoria like that's", 'start': 1274.32, 'duration': 3.12}
+{'text': "what's considered the underlying mental", 'start': 1275.84, 'duration': 2.0}
+{'text': 'illness', 'start': 1277.44, 'duration': 2.32}
+{'text': "is if you have so okay so that's the", 'start': 1277.84, 'duration': 3.199}
+{'text': 'next argument so', 'start': 1279.76, 'duration': 2.08}
+{'text': 'hold on wait wait wait wait wait wait', 'start': 1281.039, 'duration': 2.561}
+{'text': "wait wait wait hold on wait wait i'm i'm", 'start': 1281.84, 'duration': 3.28}
+{'text': 'not going to let you reframe things so', 'start': 1283.6, 'duration': 2.559}
+{'text': "dishonestly that's not", 'start': 1285.12, 'duration': 2.799}
+{'text': 'the next argument that is the argument', 'start': 1286.159, 'duration': 4.721}
+{'text': 'that is the official stance', 'start': 1287.919, 'duration': 2.961}
+{'text': 'hold on hold on hold on real quick calm', 'start': 1293.679, 'duration': 3.521}
+{'text': 'down calm down destiny', 'start': 1295.12, 'duration': 4.48}
+{'text': 'frame your question to rob rob respond', 'start': 1297.2, 'duration': 4.08}
+{'text': 'please yeah the though so the actual', 'start': 1299.6, 'duration': 3.04}
+{'text': 'position', 'start': 1301.28, 'duration': 3.44}
+{'text': 'hold on let destiny talk rob let destiny', 'start': 1302.64, 'duration': 3.36}
+{'text': 'talk destiny frame your question to rob', 'start': 1304.72, 'duration': 2.72}
+{'text': "please i'm just receiving the wh on the", 'start': 1306.0, 'duration': 3.039}
+{'text': 'apa state that gender dysphoria is the', 'start': 1307.44, 'duration': 2.239}
+{'text': 'underlying', 'start': 1309.039, 'duration': 1.841}
+{'text': "illness and that's generally what is", 'start': 1309.679, 'duration': 4.081}
+{'text': 'treated not being trans', 'start': 1310.88, 'duration': 4.56}
+{'text': 'can you be trans without having gender', 'start': 1313.76, 'duration': 3.84}
+{'text': 'dysphoria yes', 'start': 1315.44, 'duration': 4.239}
+{'text': 'yeah okay can you so what does that look', 'start': 1317.6, 'duration': 3.12}
+{'text': "like i'm i'm", 'start': 1319.679, 'duration': 2.161}
+{'text': "and this is the first time i've heard", 'start': 1320.72, 'duration': 3.76}
+{'text': "the answer yes i'm sure so i'll compare", 'start': 1321.84, 'duration': 4.719}
+{'text': 'it to body dysmorphy i believe right', 'start': 1324.48, 'duration': 3.92}
+{'text': 'so some people so you might take two', 'start': 1326.559, 'duration': 3.6}
+{'text': 'people the exact same way one person', 'start': 1328.4, 'duration': 3.12}
+{'text': 'might be over or both people might be', 'start': 1330.159, 'duration': 2.0}
+{'text': 'overweight', 'start': 1331.52, 'duration': 2.56}
+{'text': 'one person feels an extreme mental', 'start': 1332.159, 'duration': 3.601}
+{'text': 'distress as a result of being overweight', 'start': 1334.08, 'duration': 2.8}
+{'text': 'and it might drive them', 'start': 1335.76, 'duration': 2.64}
+{'text': 'into other mental issues they might feel', 'start': 1336.88, 'duration': 3.039}
+{'text': 'depressed anxious they might commit', 'start': 1338.4, 'duration': 3.04}
+{'text': 'suicide as a result but etc another', 'start': 1339.919, 'duration': 2.721}
+{'text': "person might be overweight but they're", 'start': 1341.44, 'duration': 2.64}
+{'text': "just like ah you know [\xa0__\xa0] it it's okay", 'start': 1342.64, 'duration': 2.24}
+{'text': 'like it is what it is', 'start': 1344.08, 'duration': 2.479}
+{'text': 'um and you can make comparable arguments', 'start': 1344.88, 'duration': 3.12}
+{'text': "to uh trans people it's possible that", 'start': 1346.559, 'duration': 2.721}
+{'text': 'you are a trans person', 'start': 1348.0, 'duration': 3.36}
+{'text': 'and you identify more closely with a sex', 'start': 1349.28, 'duration': 3.44}
+{'text': "that wasn't assigned with you at birth", 'start': 1351.36, 'duration': 2.559}
+{'text': "but it doesn't cause you a great amount", 'start': 1352.72, 'duration': 2.4}
+{'text': "of mental distress that's the difference", 'start': 1353.919, 'duration': 1.601}
+{'text': 'between', 'start': 1355.12, 'duration': 2.08}
+{'text': 'being a trans person versus the', 'start': 1355.52, 'duration': 4.159}
+{'text': 'experience of gender dysphoria', 'start': 1357.2, 'duration': 4.88}
+{'text': "okay but that's clearly not all that's", 'start': 1359.679, 'duration': 3.681}
+{'text': 'being treated because if that was all', 'start': 1362.08, 'duration': 2.479}
+{'text': 'that was being treated then we would be', 'start': 1363.36, 'duration': 2.559}
+{'text': 'treating the mental issue with things', 'start': 1364.559, 'duration': 2.161}
+{'text': 'like depression', 'start': 1365.919, 'duration': 2.721}
+{'text': "we wouldn't have for example surgeries", 'start': 1366.72, 'duration': 4.0}
+{'text': 'to change the genitalia of people', 'start': 1368.64, 'duration': 4.2}
+{'text': 'because that has nothing to do with the', 'start': 1370.72, 'duration': 3.6}
+{'text': 'depression but it does though', 'start': 1372.84, 'duration': 2.839}
+{'text': "hold on hold on hold on we're going to", 'start': 1374.32, 'duration': 3.839}
+{'text': 'rob then over to tiffany over to tiffany', 'start': 1375.679, 'duration': 3.841}
+{'text': "and then i'll leave you responsivity", 'start': 1378.159, 'duration': 3.201}
+{'text': "yeah yeah no problem uh so it's clear", 'start': 1379.52, 'duration': 3.519}
+{'text': "like this is a fun game that's played so", 'start': 1381.36, 'duration': 3.52}
+{'text': 'for example we hear often times that the', 'start': 1383.039, 'duration': 3.921}
+{'text': 'government should in places where people', 'start': 1384.88, 'duration': 3.36}
+{'text': 'are registered in government entities', 'start': 1386.96, 'duration': 2.8}
+{'text': 'whether it be in the military in prison', 'start': 1388.24, 'duration': 2.24}
+{'text': 'things like that', 'start': 1389.76, 'duration': 2.08}
+{'text': 'we say that the government should be', 'start': 1390.48, 'duration': 3.28}
+{'text': 'responsible for paying for surgeries', 'start': 1391.84, 'duration': 3.839}
+{'text': 'gender hormone therapy etc things like', 'start': 1393.76, 'duration': 2.32}
+{'text': 'that', 'start': 1395.679, 'duration': 2.161}
+{'text': "because it's a medical condition but", 'start': 1396.08, 'duration': 3.36}
+{'text': 'then on the other hand we say how dare', 'start': 1397.84, 'duration': 3.04}
+{'text': 'you call it a medical condition', 'start': 1399.44, 'duration': 3.359}
+{'text': "so if we're i'm more than happy to", 'start': 1400.88, 'duration': 3.52}
+{'text': "accept no no this isn't a medical", 'start': 1402.799, 'duration': 3.12}
+{'text': 'condition if we say therefore', 'start': 1404.4, 'duration': 3.04}
+{'text': 'no insurance should have to cover any', 'start': 1405.919, 'duration': 3.361}
+{'text': 'therapies for it no government should', 'start': 1407.44, 'duration': 3.44}
+{'text': 'have to cover any transition therapies', 'start': 1409.28, 'duration': 2.56}
+{'text': 'or hormone therapies', 'start': 1410.88, 'duration': 2.56}
+{'text': "because it's not in a medical condition", 'start': 1411.84, 'duration': 3.28}
+{'text': "it's an elective surgery it's an", 'start': 1413.44, 'duration': 3.76}
+{'text': 'elective treatment', 'start': 1415.12, 'duration': 5.439}
+{'text': 'orbit tiffany over to tiffany', 'start': 1417.2, 'duration': 6.0}
+{'text': 'uh we already have a remedy to help', 'start': 1420.559, 'duration': 4.641}
+{'text': "people with gender dysphoria and that's", 'start': 1423.2, 'duration': 4.8}
+{'text': 'remedy involves uh matching their body', 'start': 1425.2, 'duration': 3.2}
+{'text': 'to', 'start': 1428.0, 'duration': 2.72}
+{'text': 'to match the mind and this has been done', 'start': 1428.4, 'duration': 4.24}
+{'text': 'by studies which i will link to you if', 'start': 1430.72, 'duration': 2.959}
+{'text': 'you need it', 'start': 1432.64, 'duration': 4.32}
+{'text': "so it's it's not like uh we don't have a", 'start': 1433.679, 'duration': 5.12}
+{'text': "remedy for this we do it's just not a", 'start': 1436.96, 'duration': 2.719}
+{'text': 'remedy you', 'start': 1438.799, 'duration': 4.0}
+{'text': 'like uh also i want to roll it back like', 'start': 1439.679, 'duration': 4.88}
+{'text': 'walmart rob uh', 'start': 1442.799, 'duration': 3.681}
+{'text': 'that you said some people you know like', 'start': 1444.559, 'duration': 3.041}
+{'text': "what's the difference between cross", 'start': 1446.48, 'duration': 3.04}
+{'text': 'dresses and trans people you do realize', 'start': 1447.6, 'duration': 4.16}
+{'text': 'some people do consider crossdressers', 'start': 1449.52, 'duration': 5.279}
+{'text': 'as mentally uh disabled or inept i do', 'start': 1451.76, 'duration': 5.68}
+{'text': "additionally we don't think we know we", 'start': 1454.799, 'duration': 3.281}
+{'text': 'are women', 'start': 1457.44, 'duration': 3.599}
+{'text': "trans people know we are that's why we", 'start': 1458.08, 'duration': 5.12}
+{'text': 'transition no one actively wants to make', 'start': 1461.039, 'duration': 3.361}
+{'text': 'their life harder', 'start': 1463.2, 'duration': 3.599}
+{'text': 'being trans involves a lot of time money', 'start': 1464.4, 'duration': 3.279}
+{'text': 'and grief', 'start': 1466.799, 'duration': 3.281}
+{'text': "you can't take out my brain and put it", 'start': 1467.679, 'duration': 4.321}
+{'text': "in a cis woman's body and just [\xa0__\xa0]", 'start': 1470.08, 'duration': 4.079}
+{'text': "fix it it's impossible so we have no", 'start': 1472.0, 'duration': 3.84}
+{'text': 'choice but match our bodies to match our', 'start': 1474.159, 'duration': 2.161}
+{'text': 'mind', 'start': 1475.84, 'duration': 2.16}
+{'text': "during development the mind doesn't", 'start': 1476.32, 'duration': 3.359}
+{'text': 'always', 'start': 1478.0, 'duration': 4.32}
+{'text': 'develop same time as genitalia and one', 'start': 1479.679, 'duration': 4.401}
+{'text': 'can lag behind the other', 'start': 1482.32, 'duration': 3.68}
+{'text': 'this is like definitive proof that trans', 'start': 1484.08, 'duration': 3.199}
+{'text': 'people exist and', 'start': 1486.0, 'duration': 4.48}
+{'text': 'are valid and if really you thought we', 'start': 1487.279, 'duration': 6.161}
+{'text': 'were mentally disabled or like messed up', 'start': 1490.48, 'duration': 5.199}
+{'text': 'then why are you pitying people with', 'start': 1493.44, 'duration': 3.839}
+{'text': 'actual mental disabilities', 'start': 1495.679, 'duration': 3.441}
+{'text': 'but [\xa0__\xa0] on trans people it just', 'start': 1497.279, 'duration': 3.28}
+{'text': 'makes you look really', 'start': 1499.12, 'duration': 4.24}
+{'text': 'not just stupid really bad hold on hold', 'start': 1500.559, 'duration': 4.321}
+{'text': 'on hold on hold on', 'start': 1503.36, 'duration': 2.96}
+{'text': 'hold on i got i got a pause here i got', 'start': 1504.88, 'duration': 3.36}
+{'text': 'applause hold on hold on hold on', 'start': 1506.32, 'duration': 5.04}
+{'text': "hold on hold calm down let's not phrase", 'start': 1508.24, 'duration': 4.08}
+{'text': 'this', 'start': 1511.36, 'duration': 4.24}
+{'text': '[\xa0__\xa0] hold on stop', 'start': 1512.32, 'duration': 5.599}
+{'text': "let's stop framing framing any kind of", 'start': 1515.6, 'duration': 3.679}
+{'text': "statement saying you're [\xa0__\xa0] on", 'start': 1517.919, 'duration': 1.921}
+{'text': 'someone', 'start': 1519.279, 'duration': 2.161}
+{'text': "a disagreement does not mean you're", 'start': 1519.84, 'duration': 3.439}
+{'text': "[\xa0__\xa0] on someone it's a disagreement", 'start': 1521.44, 'duration': 3.599}
+{'text': 'if rob starts name calling i would', 'start': 1523.279, 'duration': 3.441}
+{'text': 'correct him tiffany please take that', 'start': 1525.039, 'duration': 2.961}
+{'text': 'into account', 'start': 1526.72, 'duration': 4.559}
+{'text': 'sorry if you have a nice beard', 'start': 1528.0, 'duration': 4.799}
+{'text': "i don't mean like i think you're just", 'start': 1531.279, 'duration': 2.961}
+{'text': "look you're you're it's an issue that's", 'start': 1532.799, 'duration': 2.721}
+{'text': 'close to your heart i get it let me', 'start': 1534.24, 'duration': 3.28}
+{'text': 'just say some caveats here to begin with', 'start': 1535.52, 'duration': 3.6}
+{'text': "every single trans person that i've", 'start': 1537.52, 'duration': 2.8}
+{'text': 'talked to on my channel', 'start': 1539.12, 'duration': 2.559}
+{'text': "i've called them the pronouns they've", 'start': 1540.32, 'duration': 3.76}
+{'text': 'asked i admonish people that think that', 'start': 1541.679, 'duration': 3.681}
+{'text': 'they should make fun of people for being', 'start': 1544.08, 'duration': 2.959}
+{'text': 'trans or fear people for being trans', 'start': 1545.36, 'duration': 3.439}
+{'text': "that's [\xa0__\xa0] i say that it's an", 'start': 1547.039, 'duration': 3.52}
+{'text': 'illness i have deep loved ones that are', 'start': 1548.799, 'duration': 2.48}
+{'text': 'bipolar', 'start': 1550.559, 'duration': 2.561}
+{'text': 'that are schizophrenic that hear voices', 'start': 1551.279, 'duration': 3.52}
+{'text': 'i love them more than anything', 'start': 1553.12, 'duration': 3.439}
+{'text': "that doesn't mean i believe the voices", 'start': 1554.799, 'duration': 3.681}
+{'text': 'are real so just because', 'start': 1556.559, 'duration': 3.441}
+{'text': "we're talking about this in a clinical", 'start': 1558.48, 'duration': 3.12}
+{'text': "sense doesn't mean that i'm suggesting", 'start': 1560.0, 'duration': 2.799}
+{'text': 'treating people like [\xa0__\xa0]', 'start': 1561.6, 'duration': 2.72}
+{'text': 'that i think have this illness now', 'start': 1562.799, 'duration': 3.041}
+{'text': 'everything you just said', 'start': 1564.32, 'duration': 3.44}
+{'text': 'when you talked about well my brain', 'start': 1565.84, 'duration': 3.68}
+{'text': 'development blah blah blah yes when we', 'start': 1567.76, 'duration': 2.24}
+{'text': 'have other', 'start': 1569.52, 'duration': 2.32}
+{'text': 'things where you have brain development', 'start': 1570.0, 'duration': 3.039}
+{'text': "hormones aren't catching up those", 'start': 1571.84, 'duration': 2.8}
+{'text': 'require medical interventions those are', 'start': 1573.039, 'duration': 2.081}
+{'text': 'basically', 'start': 1574.64, 'duration': 2.159}
+{'text': 'illnesses those are things that are', 'start': 1575.12, 'duration': 3.12}
+{'text': 'medical conditions that require', 'start': 1576.799, 'duration': 3.441}
+{'text': "interventions that's what transgenderism", 'start': 1578.24, 'duration': 2.24}
+{'text': 'is', 'start': 1580.24, 'duration': 3.28}
+{'text': 'as you said so it is a form of illness', 'start': 1580.48, 'duration': 5.12}
+{'text': "that's what it is whether it be physical", 'start': 1583.52, 'duration': 3.84}
+{'text': 'illness that requires physical because', 'start': 1585.6, 'duration': 3.12}
+{'text': "the hormones aren't correct or things", 'start': 1587.36, 'duration': 2.88}
+{'text': 'like that or whether it be a mental', 'start': 1588.72, 'duration': 2.4}
+{'text': 'illness because', 'start': 1590.24, 'duration': 2.64}
+{'text': 'the brain is not in line with what the', 'start': 1591.12, 'duration': 3.6}
+{'text': 'body is regardless it is an', 'start': 1592.88, 'duration': 4.399}
+{'text': 'illness your own statements prove it the', 'start': 1594.72, 'duration': 3.28}
+{'text': 'idea that people', 'start': 1597.279, 'duration': 2.0}
+{'text': 'want to have their cake and eat it too', 'start': 1598.0, 'duration': 2.799}
+{'text': "they want to say well it's not an", 'start': 1599.279, 'duration': 2.0}
+{'text': 'illness', 'start': 1600.799, 'duration': 2.0}
+{'text': 'but at the same time it is an illness', 'start': 1601.279, 'duration': 2.801}
+{'text': 'that means that insurance should have to', 'start': 1602.799, 'duration': 2.561}
+{'text': 'cover therapies for it', 'start': 1604.08, 'duration': 2.56}
+{'text': 'the government should have to require', 'start': 1605.36, 'duration': 2.799}
+{'text': 'therapies for exploring government', 'start': 1606.64, 'duration': 3.6}
+{'text': 'institutions is nonsense', 'start': 1608.159, 'duration': 4.321}
+{'text': 'my statement is not law but you have to', 'start': 1610.24, 'duration': 3.039}
+{'text': 'remember that', 'start': 1612.48, 'duration': 2.64}
+{'text': 'the uh world horse uh health', 'start': 1613.279, 'duration': 3.52}
+{'text': 'organization agrees with me so who are', 'start': 1615.12, 'duration': 3.6}
+{'text': 'you to like go against those people', 'start': 1616.799, 'duration': 4.961}
+{'text': "i don't give a [\xa0__\xa0] hold on hold on all", 'start': 1618.72, 'duration': 4.079}
+{'text': 'right', 'start': 1621.76, 'duration': 4.56}
+{'text': 'hold on we got we got six flags', 'start': 1622.799, 'duration': 3.521}
+{'text': 'i got that as a moderator i got that six', 'start': 1626.799, 'duration': 2.641}
+{'text': "like i had to hand up first i'll go to", 'start': 1628.32, 'duration': 2.56}
+{'text': "destiny six flat go ahead there's six", 'start': 1629.44, 'duration': 4.08}
+{'text': 'films excuse me', 'start': 1630.88, 'duration': 2.64}
+{'text': "um so my thing is it's like tiffany this", 'start': 1633.679, 'duration': 3.681}
+{'text': 'is really d', 'start': 1636.64, 'duration': 2.399}
+{'text': "and dear to your heart we get that we're", 'start': 1637.36, 'duration': 4.559}
+{'text': 'not trying to be mean to you or anything', 'start': 1639.039, 'duration': 6.64}
+{'text': 'i mean okay so the fact that transgender', 'start': 1641.919, 'duration': 6.401}
+{'text': 'is in fact a mental illness it is you', 'start': 1645.679, 'duration': 3.521}
+{'text': "can say it's not", 'start': 1648.32, 'duration': 3.599}
+{'text': "it's not it's just another term not let", 'start': 1649.2, 'duration': 6.64}
+{'text': "me it's actually not", 'start': 1651.919, 'duration': 3.921}
+{'text': 'so according to the according to the apa', 'start': 1657.6, 'duration': 5.679}
+{'text': "the transgender refers to a person who's", 'start': 1661.36, 'duration': 4.0}
+{'text': 'a whose sex assigned at birth does not', 'start': 1663.279, 'duration': 3.601}
+{'text': 'match their generated', 'start': 1665.36, 'duration': 4.48}
+{'text': 'but they experience gender dysphoria no', 'start': 1666.88, 'duration': 4.64}
+{'text': "that's not true not every trans person", 'start': 1669.84, 'duration': 4.24}
+{'text': 'expends gender dysphoria', 'start': 1671.52, 'duration': 4.96}
+{'text': 'i can i can send this article was this', 'start': 1674.08, 'duration': 4.56}
+{'text': 'written back in like 1982', 'start': 1676.48, 'duration': 3.52}
+{'text': 'do you want to like link that can you', 'start': 1678.64, 'duration': 2.88}
+{'text': 'link the article in chat please six', 'start': 1680.0, 'duration': 2.0}
+{'text': 'films', 'start': 1681.52, 'duration': 2.96}
+{'text': 'destiny in the meantime over to you sir', 'start': 1682.0, 'duration': 3.84}
+{'text': "i'll share the article to the chat", 'start': 1684.48, 'duration': 3.439}
+{'text': 'oh yeah so okay yeah so to be clear', 'start': 1685.84, 'duration': 3.28}
+{'text': 'unless something has changed very', 'start': 1687.919, 'duration': 1.841}
+{'text': 'recently', 'start': 1689.12, 'duration': 3.12}
+{'text': 'um the the apa does not say that every', 'start': 1689.76, 'duration': 4.32}
+{'text': 'single trans person experiences gender', 'start': 1692.24, 'duration': 2.72}
+{'text': 'dysphoria', 'start': 1694.08, 'duration': 3.28}
+{'text': 'and if you personally i misspoke some', 'start': 1694.96, 'duration': 3.36}
+{'text': 'people okay', 'start': 1697.36, 'duration': 3.039}
+{'text': "that's really important okay so if you", 'start': 1698.32, 'duration': 3.2}
+{'text': 'want to hold the position', 'start': 1700.399, 'duration': 3.441}
+{'text': 'that being transgender or being a trans', 'start': 1701.52, 'duration': 3.92}
+{'text': 'person is a mental disorder', 'start': 1703.84, 'duration': 3.28}
+{'text': "um you can hold that position that's", 'start': 1705.44, 'duration': 4.16}
+{'text': 'fine but you stand in opposition to', 'start': 1707.12, 'duration': 3.76}
+{'text': 'like the scientific community when you', 'start': 1709.6, 'duration': 3.36}
+{'text': 'say this so like if you want to hold', 'start': 1710.88, 'duration': 3.36}
+{'text': 'that opinion you can do that', 'start': 1712.96, 'duration': 2.719}
+{'text': "but you can't simultaneously hold that", 'start': 1714.24, 'duration': 2.64}
+{'text': 'opinion and be like oh well i just', 'start': 1715.679, 'duration': 2.561}
+{'text': 'follow the science oh well i just want', 'start': 1716.88, 'duration': 1.679}
+{'text': 'to be', 'start': 1718.24, 'duration': 1.76}
+{'text': "fact over feeling about that's fine", 'start': 1718.559, 'duration': 2.641}
+{'text': "you're but that's like your emotional", 'start': 1720.0, 'duration': 2.399}
+{'text': "viewpoint on it it's like emotionally", 'start': 1721.2, 'duration': 2.24}
+{'text': 'you feel like it must be a mental', 'start': 1722.399, 'duration': 1.601}
+{'text': 'illness for whatever', 'start': 1723.44, 'duration': 2.959}
+{'text': 'reason but you stand contrary to like', 'start': 1724.0, 'duration': 3.6}
+{'text': 'the psychologists that are the ones that', 'start': 1726.399, 'duration': 2.721}
+{'text': 'are responsible for publishing what is a', 'start': 1727.6, 'duration': 4.079}
+{'text': 'mental disorder yes let me hold on hold', 'start': 1729.12, 'duration': 4.0}
+{'text': 'on i gotta interject here destiny do you', 'start': 1731.679, 'duration': 2.961}
+{'text': 'feel like the who has ever been wrong on', 'start': 1733.12, 'duration': 2.799}
+{'text': 'certain situations because at one point', 'start': 1734.64, 'duration': 2.96}
+{'text': 'we actually classified homosexuals as', 'start': 1735.919, 'duration': 2.321}
+{'text': 'being', 'start': 1737.6, 'duration': 2.16}
+{'text': 'mentally unstable as well and that was', 'start': 1738.24, 'duration': 3.76}
+{'text': 'actually approved by sure um scientists', 'start': 1739.76, 'duration': 2.96}
+{'text': 'everywhere yeah', 'start': 1742.0, 'duration': 2.159}
+{'text': 'is it possible that the scientists could', 'start': 1742.72, 'duration': 3.12}
+{'text': 'have it wrong and be flawed and let me', 'start': 1744.159, 'duration': 3.361}
+{'text': 'let me two part question here', 'start': 1745.84, 'duration': 2.959}
+{'text': 'is it possible for them to be wrong and', 'start': 1747.52, 'duration': 3.2}
+{'text': 'two do you think that political', 'start': 1748.799, 'duration': 3.921}
+{'text': 'uh alignment can also influence the', 'start': 1750.72, 'duration': 3.6}
+{'text': 'outcome of certain say for example', 'start': 1752.72, 'duration': 2.48}
+{'text': 'studies', 'start': 1754.32, 'duration': 2.64}
+{'text': 'um so for the first thing yeah of course', 'start': 1755.2, 'duration': 3.04}
+{'text': 'scientists could be wrong but you update', 'start': 1756.96, 'duration': 2.88}
+{'text': 'your information as time goes on like', 'start': 1758.24, 'duration': 3.12}
+{'text': 'like they could be wrong about a ton of', 'start': 1759.84, 'duration': 3.04}
+{'text': 'things right now but i mean i i', 'start': 1761.36, 'duration': 3.6}
+{'text': "but i'm not gonna say that like you know", 'start': 1762.88, 'duration': 3.279}
+{'text': "i'm being scientific when i stand in", 'start': 1764.96, 'duration': 2.4}
+{'text': 'opposition to the scientific community', 'start': 1766.159, 'duration': 2.481}
+{'text': 'you can say you believe the science is', 'start': 1767.36, 'duration': 2.88}
+{'text': 'wrong and then give you a reason why but', 'start': 1768.64, 'duration': 2.24}
+{'text': "you can't say", 'start': 1770.24, 'duration': 2.24}
+{'text': 'i think the science is correct and then', 'start': 1770.88, 'duration': 3.84}
+{'text': 'like say that this is', 'start': 1772.48, 'duration': 3.439}
+{'text': "uh something that i'm going to say", 'start': 1774.72, 'duration': 2.24}
+{'text': "that's an opposition to the science like", 'start': 1775.919, 'duration': 2.0}
+{'text': "that doesn't make any sense", 'start': 1776.96, 'duration': 2.0}
+{'text': "okay um so for the first part there's no", 'start': 1777.919, 'duration': 3.201}
+{'text': 'part um could scientific people like', 'start': 1778.96, 'duration': 3.839}
+{'text': 'buckle to political pressure or whatever', 'start': 1781.12, 'duration': 3.279}
+{'text': 'um it is possible in some cases that', 'start': 1782.799, 'duration': 2.721}
+{'text': 'maybe that could happen that just needs', 'start': 1784.399, 'duration': 2.64}
+{'text': "to be demonstrated we can't just pull", 'start': 1785.52, 'duration': 3.039}
+{'text': 'that out as a convenient card every time', 'start': 1787.039, 'duration': 2.64}
+{'text': "you're like oh look like they were just", 'start': 1788.559, 'duration': 2.48}
+{'text': 'being it was just political pressure', 'start': 1789.679, 'duration': 2.561}
+{'text': "when i wanted to be and not when i don't", 'start': 1791.039, 'duration': 2.161}
+{'text': "want to be like that doesn't really make", 'start': 1792.24, 'duration': 2.72}
+{'text': 'any sense like lefties commies try to do', 'start': 1793.2, 'duration': 3.28}
+{'text': 'that when they argue about econ like', 'start': 1794.96, 'duration': 1.839}
+{'text': 'every', 'start': 1796.48, 'duration': 2.319}
+{'text': 'economic study is flawed and biased', 'start': 1796.799, 'duration': 3.76}
+{'text': 'because the neoliberal blah blah blah', 'start': 1798.799, 'duration': 2.801}
+{'text': "it's like okay and then conservatives", 'start': 1800.559, 'duration': 2.081}
+{'text': 'seem to do that when it comes to any', 'start': 1801.6, 'duration': 2.4}
+{'text': 'social signs like oh no like all of', 'start': 1802.64, 'duration': 1.68}
+{'text': 'these', 'start': 1804.0, 'duration': 1.84}
+{'text': 'the sociologists are all like lying', 'start': 1804.32, 'duration': 2.88}
+{'text': "about like you can't if you want to", 'start': 1805.84, 'duration': 2.719}
+{'text': 'demonstrate that you can and there have', 'start': 1807.2, 'duration': 2.479}
+{'text': "been times where it's happened", 'start': 1808.559, 'duration': 3.681}
+{'text': "and to i'm sure some of the great uh", 'start': 1809.679, 'duration': 3.761}
+{'text': 'enjoyment to uh some of the', 'start': 1812.24, 'duration': 2.159}
+{'text': 'conservatives on this panel', 'start': 1813.44, 'duration': 2.4}
+{'text': 'for instance when the lancet published', 'start': 1814.399, 'duration': 3.76}
+{'text': 'that huge study that was pulling all of', 'start': 1815.84, 'duration': 4.24}
+{'text': 'that private data showing that um', 'start': 1818.159, 'duration': 3.441}
+{'text': "uh i don't remember this is related to", 'start': 1820.08, 'duration': 3.04}
+{'text': 'hydroxychloroquine or something else', 'start': 1821.6, 'duration': 3.199}
+{'text': 'um related to the treatment of all those', 'start': 1823.12, 'duration': 3.439}
+{'text': 'people like that study got thrown out', 'start': 1824.799, 'duration': 2.161}
+{'text': 'later', 'start': 1826.559, 'duration': 2.0}
+{'text': 'after it was published that study got', 'start': 1826.96, 'duration': 3.12}
+{'text': 'thrown out yeah um so i mean yeah', 'start': 1828.559, 'duration': 2.641}
+{'text': 'science is definitely wrong science of', 'start': 1830.08, 'duration': 2.319}
+{'text': 'course', 'start': 1831.2, 'duration': 3.12}
+{'text': 'yeah i uh just want to agree with', 'start': 1832.399, 'duration': 3.201}
+{'text': 'destiny and', 'start': 1834.32, 'duration': 4.4}
+{'text': 'uh just to bring it back it the initial', 'start': 1835.6, 'duration': 4.72}
+{'text': 'topic was whether these people should', 'start': 1838.72, 'duration': 3.6}
+{'text': 'remove the books from', 'start': 1840.32, 'duration': 5.68}
+{'text': 'amazon to purchase and considering', 'start': 1842.32, 'duration': 5.76}
+{'text': 'as of now the scientific consensus', 'start': 1846.0, 'duration': 3.76}
+{'text': 'disagrees with', 'start': 1848.08, 'duration': 4.8}
+{'text': 'rob six and other people who are', 'start': 1849.76, 'duration': 6.08}
+{'text': 'have that mindset uh they probably', 'start': 1852.88, 'duration': 4.32}
+{'text': "shouldn't sell them and they", 'start': 1855.84, 'duration': 3.6}
+{'text': "they can i just don't think they should", 'start': 1857.2, 'duration': 3.52}
+{'text': "it's in their", 'start': 1859.44, 'duration': 4.4}
+{'text': "not in their best interest and that's", 'start': 1860.72, 'duration': 4.319}
+{'text': 'what i think', 'start': 1863.84, 'duration': 3.679}
+{'text': 'the whole point of this initial topic', 'start': 1865.039, 'duration': 3.52}
+{'text': 'was', 'start': 1867.519, 'duration': 3.04}
+{'text': 'yeah well i mean the topics to be in all', 'start': 1868.559, 'duration': 3.6}
+{'text': 'fairness the topics tend to and this is', 'start': 1870.559, 'duration': 2.641}
+{'text': 'your first time on the panel', 'start': 1872.159, 'duration': 2.64}
+{'text': 'so i introduced topic and sometimes if', 'start': 1873.2, 'duration': 3.52}
+{'text': "the topic goes off topic i'm okay with", 'start': 1874.799, 'duration': 3.201}
+{'text': "that because it's it's ultimately", 'start': 1876.72, 'duration': 2.64}
+{'text': "it's conversation that needs to be had", 'start': 1878.0, 'duration': 3.039}
+{'text': 'but tiffany i do want to realize', 'start': 1879.36, 'duration': 3.439}
+{'text': "we're trying to like branch i'm used to", 'start': 1881.039, 'duration': 3.12}
+{'text': 'being on panels where we have to kind of', 'start': 1882.799, 'duration': 3.12}
+{'text': "like stay on topic but you're like yeah", 'start': 1884.159, 'duration': 2.321}
+{'text': 'just', 'start': 1885.919, 'duration': 2.561}
+{'text': 'float no i i love seeing where', 'start': 1886.48, 'duration': 3.76}
+{'text': "conversation goes i don't like i don't", 'start': 1888.48, 'duration': 3.679}
+{'text': 'like conservatives here are wrong who', 'start': 1890.24, 'duration': 4.08}
+{'text': 'disagree that you know trans people', 'start': 1892.159, 'duration': 3.601}
+{'text': "don't have mental great artists but", 'start': 1894.32, 'duration': 3.359}
+{'text': 'i mean to be fair conservatives are', 'start': 1895.76, 'duration': 3.2}
+{'text': 'wrong on like [\xa0__\xa0]', 'start': 1897.679, 'duration': 3.84}
+{'text': 'everything so like this is well tiffany', 'start': 1898.96, 'duration': 3.76}
+{'text': "i want to counter hold on and then we'll", 'start': 1901.519, 'duration': 2.721}
+{'text': 'get to rob tiffany i want to counter you', 'start': 1902.72, 'duration': 2.88}
+{'text': 'not on the trans issue i want to go back', 'start': 1904.24, 'duration': 2.72}
+{'text': 'to the amazon issue saying they', 'start': 1905.6, 'duration': 2.16}
+{'text': "shouldn't be allowed", 'start': 1906.96, 'duration': 2.8}
+{'text': "i'm correct me if i just shouldn't be", 'start': 1907.76, 'duration': 4.08}
+{'text': "right no i'm just okay", 'start': 1909.76, 'duration': 3.919}
+{'text': "oh they shouldn't okay so i wanted to", 'start': 1911.84, 'duration': 3.36}
+{'text': 'clarify that be allowed', 'start': 1913.679, 'duration': 4.081}
+{'text': "i think it's against their best interest", 'start': 1915.2, 'duration': 4.16}
+{'text': "but i don't think they should do it", 'start': 1917.76, 'duration': 2.24}
+{'text': 'because', 'start': 1919.36, 'duration': 3.36}
+{'text': 'i think it will not benefit them for', 'start': 1920.0, 'duration': 3.84}
+{'text': 'selling', 'start': 1922.72, 'duration': 4.959}
+{'text': 'out-of-date you know information', 'start': 1923.84, 'duration': 6.0}
+{'text': 'i mean okay maybe i missed you there or', 'start': 1927.679, 'duration': 3.521}
+{'text': 'that or i misunderstood you because i', 'start': 1929.84, 'duration': 4.16}
+{'text': 'thought you were of the position', 'start': 1931.2, 'duration': 4.16}
+{'text': 'be able to sell the books i just think', 'start': 1934.0, 'duration': 3.2}
+{'text': "that they shouldn't because it's", 'start': 1935.36, 'duration': 3.76}
+{'text': "against their bottom dollar and it's", 'start': 1937.2, 'duration': 3.199}
+{'text': 'going to make them look bad', 'start': 1939.12, 'duration': 3.12}
+{'text': 'that was my okay and you know', 'start': 1940.399, 'duration': 3.041}
+{'text': 'corporations it', 'start': 1942.24, 'duration': 2.96}
+{'text': 'like optics are everything and that was', 'start': 1943.44, 'duration': 3.599}
+{'text': 'kind of what i was getting at', 'start': 1945.2, 'duration': 5.04}
+{'text': 'gotcha okay over to you rob okay so let', 'start': 1947.039, 'duration': 4.801}
+{'text': 'me ask destiny and tiffany since they', 'start': 1950.24, 'duration': 3.12}
+{'text': 'seem to be ones disagreeing with me', 'start': 1951.84, 'duration': 2.959}
+{'text': "so now we're saying that gender", 'start': 1953.36, 'duration': 3.679}
+{'text': "dysphoria that the only way that it's an", 'start': 1954.799, 'duration': 3.841}
+{'text': 'illness transgenderism is if you have', 'start': 1957.039, 'duration': 2.88}
+{'text': 'gender is for you which means that you', 'start': 1958.64, 'duration': 3.36}
+{'text': 'have some sort of mental unwellness', 'start': 1959.919, 'duration': 3.681}
+{'text': 'because of a result of your', 'start': 1962.0, 'duration': 3.2}
+{'text': "transgenderism that's then gender", 'start': 1963.6, 'duration': 2.72}
+{'text': 'dysphoria but not', 'start': 1965.2, 'duration': 2.88}
+{'text': "transgenderism that's the illness so let", 'start': 1966.32, 'duration': 3.04}
+{'text': 'me ask you this', 'start': 1968.08, 'duration': 2.959}
+{'text': 'can you do you think that one of the', 'start': 1969.36, 'duration': 3.28}
+{'text': 'defining characteristics of', 'start': 1971.039, 'duration': 4.64}
+{'text': 'transgenderism is that there is a lack', 'start': 1972.64, 'duration': 4.399}
+{'text': 'of well-being of the body', 'start': 1975.679, 'duration': 3.84}
+{'text': 'so in other words are any transgender', 'start': 1977.039, 'duration': 4.161}
+{'text': 'person do you think it would benefit', 'start': 1979.519, 'duration': 2.88}
+{'text': 'their body', 'start': 1981.2, 'duration': 3.359}
+{'text': 'to be able to transition to make their', 'start': 1982.399, 'duration': 3.041}
+{'text': 'physical body', 'start': 1984.559, 'duration': 2.801}
+{'text': 'what matches up with their mental image', 'start': 1985.44, 'duration': 4.959}
+{'text': 'is that wait can you repeat', 'start': 1987.36, 'duration': 3.039}
+{'text': 'do you think that it would benefit the', 'start': 1997.279, 'duration': 3.361}
+{'text': "body's well-being for", 'start': 1999.12, 'duration': 5.12}
+{'text': 'all transgenders if their physical body', 'start': 2000.64, 'duration': 5.519}
+{'text': 'and their hormones matched more up with', 'start': 2004.24, 'duration': 3.36}
+{'text': 'their mental image of what they think', 'start': 2006.159, 'duration': 2.4}
+{'text': 'their body should be', 'start': 2007.6, 'duration': 2.559}
+{'text': 'yeah it would probably benefit everybody', 'start': 2008.559, 'duration': 2.801}
+{'text': 'in society if they could like', 'start': 2010.159, 'duration': 3.041}
+{'text': 'idealistically match their mind to their', 'start': 2011.36, 'duration': 3.12}
+{'text': 'body yeah of course', 'start': 2013.2, 'duration': 3.04}
+{'text': 'okay so it would benefit the well-being', 'start': 2014.48, 'duration': 3.12}
+{'text': 'of their body it would benefit the', 'start': 2016.24, 'duration': 2.72}
+{'text': 'well-being of everybody in society this', 'start': 2017.6, 'duration': 2.72}
+{'text': "isn't unique to trans people sure", 'start': 2018.96, 'duration': 3.92}
+{'text': 'apa dictionary dictionary of psychology', 'start': 2020.32, 'duration': 3.76}
+{'text': 'defines illness as', 'start': 2022.88, 'duration': 3.2}
+{'text': 'the experience of sickness or lack of', 'start': 2024.08, 'duration': 4.479}
+{'text': 'well-being of the body or the mind', 'start': 2026.08, 'duration': 4.719}
+{'text': "that's how they develop i don't know", 'start': 2028.559, 'duration': 3.681}
+{'text': 'listen listen what you just did okay', 'start': 2030.799, 'duration': 3.76}
+{'text': 'so you just said could somebody improve', 'start': 2032.24, 'duration': 3.76}
+{'text': 'something related to the body and mind', 'start': 2034.559, 'duration': 2.48}
+{'text': "and then if you can't", 'start': 2036.0, 'duration': 2.24}
+{'text': 'and then like the fact that you can', 'start': 2037.039, 'duration': 2.561}
+{'text': "improve something doesn't make it a", 'start': 2038.24, 'duration': 2.559}
+{'text': 'sickness prior to that', 'start': 2039.6, 'duration': 2.4}
+{'text': "you can't you're trying to play like a", 'start': 2040.799, 'duration': 3.12}
+{'text': 'word game here to trick us into thinking', 'start': 2042.0, 'duration': 3.279}
+{'text': "the ap has a position that it doesn't", 'start': 2043.919, 'duration': 2.961}
+{'text': "yeah or i'm curious why do you think", 'start': 2045.279, 'duration': 2.88}
+{'text': 'that with the little word trick that', 'start': 2046.88, 'duration': 3.039}
+{'text': "you're trying to to do here right like", 'start': 2048.159, 'duration': 3.2}
+{'text': "what you've essentially asked me is like", 'start': 2049.919, 'duration': 2.881}
+{'text': 'do you think that if you had a healthier', 'start': 2051.359, 'duration': 2.641}
+{'text': 'diet do you think it would make your', 'start': 2052.8, 'duration': 2.879}
+{'text': "body better and i go yeah of course he's", 'start': 2054.0, 'duration': 1.919}
+{'text': 'like', 'start': 2055.679, 'duration': 1.68}
+{'text': "ah so you're sick right now aren't you", 'start': 2055.919, 'duration': 2.48}
+{'text': "well no that's not how it works just", 'start': 2057.359, 'duration': 2.401}
+{'text': 'because i can improve my mental or', 'start': 2058.399, 'duration': 2.561}
+{'text': "physical well-being doesn't mean that i", 'start': 2059.76, 'duration': 2.56}
+{'text': 'was sick prior to that improvement of', 'start': 2060.96, 'duration': 2.399}
+{'text': 'course not', 'start': 2062.32, 'duration': 2.72}
+{'text': 'now your analogy is actually pretty', 'start': 2063.359, 'duration': 3.121}
+{'text': "reasonable i'll give you that but the", 'start': 2065.04, 'duration': 2.4}
+{'text': 'point is this', 'start': 2066.48, 'duration': 3.28}
+{'text': "that we know and that you're just either", 'start': 2067.44, 'duration': 3.6}
+{'text': 'being honest with', 'start': 2069.76, 'duration': 3.52}
+{'text': 'uh right i feel like rob and destiny', 'start': 2071.04, 'duration': 3.359}
+{'text': 'just agree i feel like i just witnessed', 'start': 2073.28, 'duration': 2.079}
+{'text': 'a miracle', 'start': 2074.399, 'duration': 2.801}
+{'text': "well trust me we're not gonna very much", 'start': 2075.359, 'duration': 3.04}
+{'text': "i feel like that you're just being", 'start': 2077.2, 'duration': 3.12}
+{'text': 'disingenuous when you say we all know', 'start': 2078.399, 'duration': 2.96}
+{'text': 'that the reason i brought up the', 'start': 2080.32, 'duration': 2.319}
+{'text': 'difference between cross-dressing and', 'start': 2081.359, 'duration': 2.56}
+{'text': 'transgender is because we know that', 'start': 2082.639, 'duration': 3.04}
+{'text': "there's physiologically or mentally", 'start': 2083.919, 'duration': 2.881}
+{'text': 'something that requires an', 'start': 2085.679, 'duration': 3.68}
+{'text': 'intervention to make people more at', 'start': 2086.8, 'duration': 3.119}
+{'text': 'peace', 'start': 2089.359, 'duration': 2.24}
+{'text': 'or better well-being with their body', 'start': 2089.919, 'duration': 3.121}
+{'text': 'that is the definition of an', 'start': 2091.599, 'duration': 4.0}
+{'text': "illness it's but it's that's exactly", 'start': 2093.04, 'duration': 4.879}
+{'text': 'what it is', 'start': 2095.599, 'duration': 2.32}
+{'text': 'i promise tiffany tiffany then uh', 'start': 2098.4, 'duration': 4.4}
+{'text': 'tiffany then american nacho then uh', 'start': 2100.88, 'duration': 4.32}
+{'text': 'chris tiffany go ahead', 'start': 2102.8, 'duration': 4.16}
+{'text': "oh well i wasn't done do you want me to", 'start': 2105.2, 'duration': 3.68}
+{'text': 'knock her first sorry', 'start': 2106.96, 'duration': 4.32}
+{'text': "no no no it's over to you go ahead i was", 'start': 2108.88, 'duration': 3.84}
+{'text': 'i was doing something can you do nacho', 'start': 2111.28, 'duration': 1.76}
+{'text': 'first', 'start': 2112.72, 'duration': 4.399}
+{'text': "oh yeah she's gonna google this", 'start': 2113.04, 'duration': 4.079}
+{'text': "anyway so um hold on let's let's hold", 'start': 2127.839, 'duration': 4.641}
+{'text': "that question please because she's doing", 'start': 2131.119, 'duration': 2.801}
+{'text': 'this research to find a thing hold on if', 'start': 2132.48, 'duration': 2.48}
+{'text': 'we can do it yeah yeah yeah', 'start': 2133.92, 'duration': 2.159}
+{'text': "the question i'll go back to the", 'start': 2134.96, 'duration': 3.36}
+{'text': 'research okay well', 'start': 2136.079, 'duration': 3.921}
+{'text': 'maybe it ties in maybe does it but but', 'start': 2138.32, 'duration': 3.519}
+{'text': 'you said something', 'start': 2140.0, 'duration': 3.599}
+{'text': 'i mean you said it way earlier i wrote', 'start': 2141.839, 'duration': 3.121}
+{'text': 'it down and so', 'start': 2143.599, 'duration': 4.561}
+{'text': "but you basically were like you're", 'start': 2144.96, 'duration': 4.159}
+{'text': "saying that it's not an", 'start': 2148.16, 'duration': 2.4}
+{'text': 'illness but but then when you were', 'start': 2149.119, 'duration': 3.041}
+{'text': 'talking about it you said that it has a', 'start': 2150.56, 'duration': 2.64}
+{'text': 'treatment', 'start': 2152.16, 'duration': 4.4}
+{'text': "so i was curious i don't i don't really", 'start': 2153.2, 'duration': 5.76}
+{'text': 'understand what it is trans people', 'start': 2156.56, 'duration': 4.16}
+{'text': 'requires a treatment', 'start': 2158.96, 'duration': 4.24}
+{'text': 'because well because he asked you like', 'start': 2160.72, 'duration': 3.119}
+{'text': 'do you think', 'start': 2163.2, 'duration': 2.32}
+{'text': 'that everything that requires a', 'start': 2163.839, 'duration': 5.52}
+{'text': 'treatment is classified as an illness', 'start': 2165.52, 'duration': 7.52}
+{'text': 'i think if you have a cold is the cold', 'start': 2169.359, 'duration': 3.681}
+{'text': "i'm genuinely curious so i just don't", 'start': 2181.68, 'duration': 3.439}
+{'text': 'understand', 'start': 2184.16, 'duration': 3.28}
+{'text': "i'm curious as to to know how you see", 'start': 2185.119, 'duration': 3.681}
+{'text': 'this because he', 'start': 2187.44, 'duration': 3.28}
+{'text': 'i think the question that he asked you', 'start': 2188.8, 'duration': 3.52}
+{'text': 'that you responded that was basically', 'start': 2190.72, 'duration': 2.32}
+{'text': 'like', 'start': 2192.32, 'duration': 3.84}
+{'text': 'um do you think that you know it should', 'start': 2193.04, 'duration': 5.28}
+{'text': 'be kind of like a boob job like like it', 'start': 2196.16, 'duration': 4.32}
+{'text': "it's not something that you need", 'start': 2198.32, 'duration': 3.6}
+{'text': 'necessarily or that you', 'start': 2200.48, 'duration': 3.76}
+{'text': 'you have to have trans people might need', 'start': 2201.92, 'duration': 3.679}
+{'text': 'breast jobs to uh', 'start': 2204.24, 'duration': 4.16}
+{'text': 'help their uh mental stability because', 'start': 2205.599, 'duration': 4.401}
+{'text': "they're trans they have to match a body", 'start': 2208.4, 'duration': 2.719}
+{'text': 'to match their minds', 'start': 2210.0, 'duration': 4.8}
+{'text': 'you know so getting our', 'start': 2211.119, 'duration': 3.681}
+{'text': 'is against your argument so you can', 'start': 2221.599, 'duration': 3.76}
+{'text': 'laugh all you want', 'start': 2224.079, 'duration': 2.401}
+{'text': "i'm not trying to argue anything i'm", 'start': 2225.359, 'duration': 2.72}
+{'text': "just asking no no no you're a man i", 'start': 2226.48, 'duration': 2.0}
+{'text': 'cannot', 'start': 2228.079, 'duration': 1.921}
+{'text': "i'm talking to rob rob rob's like all", 'start': 2228.48, 'duration': 3.2}
+{'text': "right let's go upstairs", 'start': 2230.0, 'duration': 3.599}
+{'text': "let's go ahead and push it laughing is", 'start': 2231.68, 'duration': 3.28}
+{'text': 'the opposite of upset', 'start': 2233.599, 'duration': 3.921}
+{'text': 'just you know', 'start': 2234.96, 'duration': 2.56}
+{'text': 'wait stop rob debt tiffany time out', 'start': 2238.56, 'duration': 3.6}
+{'text': 'chris deck go ahead', 'start': 2241.119, 'duration': 3.201}
+{'text': 'so what it really you know what at the', 'start': 2242.16, 'duration': 4.16}
+{'text': 'end of the day whether', 'start': 2244.32, 'duration': 4.0}
+{'text': "you think it's a mental illness or", 'start': 2246.32, 'duration': 4.56}
+{'text': "whether it's not at the end of the day", 'start': 2248.32, 'duration': 5.84}
+{'text': 'it is down to that person', 'start': 2250.88, 'duration': 3.28}
+{'text': "really it's not sourced to anyone yet", 'start': 2254.839, 'duration': 3.961}
+{'text': 'you can you know', 'start': 2257.68, 'duration': 2.56}
+{'text': 'prove them all this and all that well', 'start': 2258.8, 'duration': 3.2}
+{'text': "but i don't know", 'start': 2260.24, 'duration': 5.599}
+{'text': 'the question well the question that that', 'start': 2262.0, 'duration': 4.16}
+{'text': 'rob', 'start': 2265.839, 'duration': 2.881}
+{'text': 'asked i thought was sort of valid like', 'start': 2266.16, 'duration': 3.199}
+{'text': 'do', 'start': 2268.72, 'duration': 3.76}
+{'text': 'should we basically require', 'start': 2269.359, 'duration': 4.881}
+{'text': 'you know uh health insurances to cover', 'start': 2272.48, 'duration': 3.84}
+{'text': 'this or or our government uh subsidized', 'start': 2274.24, 'duration': 3.2}
+{'text': 'health insurance to cover this like', 'start': 2276.32, 'duration': 2.64}
+{'text': 'medicaid and stuff like that should that', 'start': 2277.44, 'duration': 2.32}
+{'text': 'should they be', 'start': 2278.96, 'duration': 3.52}
+{'text': 'covering these operations or treatment', 'start': 2279.76, 'duration': 3.92}
+{'text': 'hold on hold on hold on', 'start': 2282.48, 'duration': 2.879}
+{'text': "hold on hold on that's a very good", 'start': 2283.68, 'duration': 3.6}
+{'text': 'question i want to push over to destiny', 'start': 2285.359, 'duration': 3.121}
+{'text': 'at his hands up', 'start': 2287.28, 'duration': 2.72}
+{'text': 'pin that question american nacho because', 'start': 2288.48, 'duration': 3.04}
+{'text': "it's a very good question i'm destiny", 'start': 2290.0, 'duration': 3.2}
+{'text': 'over to you sir okay just i guess for', 'start': 2291.52, 'duration': 3.28}
+{'text': 'rob what what is like what is a mental', 'start': 2293.2, 'duration': 2.639}
+{'text': 'illness here what definition are we', 'start': 2294.8, 'duration': 2.24}
+{'text': 'working off of right now', 'start': 2295.839, 'duration': 3.041}
+{'text': "well so so let me be clear i'm not", 'start': 2297.04, 'duration': 3.2}
+{'text': "saying it's definitely a mental illness", 'start': 2298.88, 'duration': 2.479}
+{'text': "i'm saying it's an illness", 'start': 2300.24, 'duration': 2.4}
+{'text': "and i'm just defining it as something", 'start': 2301.359, 'duration': 3.201}
+{'text': 'that requires medical information or', 'start': 2302.64, 'duration': 3.36}
+{'text': 'intervention', 'start': 2304.56, 'duration': 3.68}
+{'text': 'okay does the apa concern itself with', 'start': 2306.0, 'duration': 4.24}
+{'text': 'these types of definitions', 'start': 2308.24, 'duration': 4.16}
+{'text': "i don't give a [\xa0__\xa0] what the apa does", 'start': 2310.24, 'duration': 3.599}
+{'text': 'and the idea that them in the world', 'start': 2312.4, 'duration': 3.199}
+{'text': 'health organization have bowed like', 'start': 2313.839, 'duration': 4.881}
+{'text': 'many scientific experiences', 'start': 2315.599, 'duration': 4.321}
+{'text': "okay that's fine i don't give a [\xa0__\xa0] do", 'start': 2318.72, 'duration': 2.48}
+{'text': "you agree then that you don't stand with", 'start': 2319.92, 'duration': 3.199}
+{'text': 'the science on this', 'start': 2321.2, 'duration': 3.76}
+{'text': "i agree i don't stand with people that", 'start': 2323.119, 'duration': 3.281}
+{'text': 'are the most vocal', 'start': 2324.96, 'duration': 3.92}
+{'text': "that's all i need to hear so then don't", 'start': 2326.4, 'duration': 3.52}
+{'text': 'say that you stand with the science you', 'start': 2328.88, 'duration': 1.92}
+{'text': "don't say you're making a scientific", 'start': 2329.92, 'duration': 2.8}
+{'text': "article no no i'm with the science no", 'start': 2330.8, 'duration': 3.84}
+{'text': 'your chromosomes are real biology is', 'start': 2332.72, 'duration': 2.399}
+{'text': 'real', 'start': 2334.64, 'duration': 3.52}
+{'text': "no biology women aren't women", 'start': 2335.119, 'duration': 5.761}
+{'text': 'okay wait then why do you take a', 'start': 2338.16, 'duration': 3.28}
+{'text': 'position', 'start': 2340.88, 'duration': 3.04}
+{'text': 'contrary to the scientific organizations', 'start': 2341.44, 'duration': 3.6}
+{'text': 'that are responsible for making these', 'start': 2343.92, 'duration': 2.96}
+{'text': "types of declarations no no no no i'm", 'start': 2345.04, 'duration': 3.68}
+{'text': 'taking a position contrary to specific', 'start': 2346.88, 'duration': 3.36}
+{'text': 'scientific organizations that are bowed', 'start': 2348.72, 'duration': 2.8}
+{'text': 'to political pressure', 'start': 2350.24, 'duration': 2.96}
+{'text': 'in order to put it can you give me an', 'start': 2351.52, 'duration': 3.28}
+{'text': 'example of a can you give me an example', 'start': 2353.2, 'duration': 3.36}
+{'text': 'of a scientific organization that agrees', 'start': 2354.8, 'duration': 2.64}
+{'text': 'with your take on this', 'start': 2356.56, 'duration': 3.36}
+{'text': "is there any yeah there's not a single", 'start': 2357.44, 'duration': 3.2}
+{'text': 'one', 'start': 2359.92, 'duration': 2.0}
+{'text': "there's another one okay hold on hold on", 'start': 2360.64, 'duration': 3.439}
+{'text': 'okay', 'start': 2361.92, 'duration': 2.159}
+{'text': 'rob hold on rob go ahead and take a', 'start': 2364.88, 'duration': 4.08}
+{'text': 'break do the research on that one please', 'start': 2366.72, 'duration': 4.0}
+{'text': "it's hard to argue with exact sciences", 'start': 2368.96, 'duration': 3.119}
+{'text': "when you're talking about transgenderism", 'start': 2370.72, 'duration': 2.56}
+{'text': "because you're talking about something", 'start': 2372.079, 'duration': 2.721}
+{'text': "that's psychological", 'start': 2373.28, 'duration': 5.44}
+{'text': "and psycho psychiatry isn't the science", 'start': 2374.8, 'duration': 8.16}
+{'text': 'psychology this is', 'start': 2378.72, 'duration': 4.24}
+{'text': 'psychological explanations are reduced', 'start': 2385.92, 'duration': 3.76}
+{'text': 'to specific times and place', 'start': 2388.32, 'duration': 3.2}
+{'text': "you can't do that with people wait what", 'start': 2389.68, 'duration': 3.12}
+{'text': 'do you mean well how can we so let me', 'start': 2391.52, 'duration': 2.48}
+{'text': 'let me let me ask you then', 'start': 2392.8, 'duration': 3.12}
+{'text': "i i get where you're coming from are you", 'start': 2394.0, 'duration': 3.359}
+{'text': "saying that it's not a definitive", 'start': 2395.92, 'duration': 3.04}
+{'text': 'science more as into practice', 'start': 2397.359, 'duration': 2.961}
+{'text': 'say for example like the practice of', 'start': 2398.96, 'duration': 3.44}
+{'text': 'medicine to practice psychology', 'start': 2400.32, 'duration': 3.759}
+{'text': "like it's open to interpretation is that", 'start': 2402.4, 'duration': 3.199}
+{'text': 'what you mean yeah because', 'start': 2404.079, 'duration': 3.28}
+{'text': 'you mean that if you go in for a', 'start': 2405.599, 'duration': 3.76}
+{'text': "workshop test everyone's different right", 'start': 2407.359, 'duration': 2.321}
+{'text': "you're", 'start': 2409.359, 'duration': 2.0}
+{'text': "everyone's mind works differently you", 'start': 2409.68, 'duration': 3.04}
+{'text': "can't the way you phrased that", 'start': 2411.359, 'duration': 3.441}
+{'text': "i was like oh i don't know about that", 'start': 2412.72, 'duration': 3.92}
+{'text': "it's not like a pure science a pure", 'start': 2414.8, 'duration': 3.519}
+{'text': 'science has a definitive ending', 'start': 2416.64, 'duration': 3.36}
+{'text': 'okay wait do you agree that medicine', 'start': 2418.319, 'duration': 2.961}
+{'text': "isn't a science then right wait do you", 'start': 2420.0, 'duration': 2.839}
+{'text': 'agree with that that medicine is not a', 'start': 2421.28, 'duration': 2.88}
+{'text': 'science', 'start': 2422.839, 'duration': 3.0}
+{'text': 'no i mean why would that be a science', 'start': 2424.16, 'duration': 2.8}
+{'text': 'magazine has nothing to do with', 'start': 2425.839, 'duration': 2.161}
+{'text': 'psychology', 'start': 2426.96, 'duration': 2.56}
+{'text': 'because the way that we test medicine is', 'start': 2428.0, 'duration': 2.64}
+{'text': 'literally because the way that we test', 'start': 2429.52, 'duration': 2.64}
+{'text': 'medicine is what like when it comes to', 'start': 2430.64, 'duration': 4.08}
+{'text': 'creating a new drug for instance', 'start': 2432.16, 'duration': 3.84}
+{'text': "no not on animals sometimes we don't", 'start': 2434.72, 'duration': 2.72}
+{'text': 'know what the underlying mechanisms are', 'start': 2436.0, 'duration': 2.88}
+{'text': "we don't we can't really explain exactly", 'start': 2437.44, 'duration': 2.159}
+{'text': 'what they do', 'start': 2438.88, 'duration': 2.239}
+{'text': 'we just make trials of people where we', 'start': 2439.599, 'duration': 2.561}
+{'text': 'give them a whole bunch of medicine and', 'start': 2441.119, 'duration': 2.321}
+{'text': 'we see what the end results are and', 'start': 2442.16, 'duration': 2.08}
+{'text': "we're not 100", 'start': 2443.44, 'duration': 4.0}
+{'text': 'yeah so', 'start': 2444.24, 'duration': 3.2}
+{'text': "oh wait it's a scientific process", 'start': 2447.52, 'duration': 3.28}
+{'text': 'tylenol advil do you understand that', 'start': 2449.2, 'duration': 2.879}
+{'text': "there's a medicine do you understand", 'start': 2450.8, 'duration': 2.559}
+{'text': "that there's a scientific process by", 'start': 2452.079, 'duration': 2.721}
+{'text': 'which we do psychology experiments as', 'start': 2453.359, 'duration': 1.921}
+{'text': 'well', 'start': 2454.8, 'duration': 3.519}
+{'text': 'like yeah they guessed wait what they', 'start': 2455.28, 'duration': 3.52}
+{'text': 'guess', 'start': 2458.319, 'duration': 2.641}
+{'text': "what do you mean by that's what they do", 'start': 2458.8, 'duration': 3.279}
+{'text': 'if you go in there and you talk to', 'start': 2460.96, 'duration': 2.32}
+{'text': "somebody that's in the", 'start': 2462.079, 'duration': 4.721}
+{'text': "in psychiatry right i'll use", 'start': 2463.28, 'duration': 5.76}
+{'text': 'she has a mental she has a mental', 'start': 2466.8, 'duration': 3.519}
+{'text': 'illness right but they never knew what', 'start': 2469.04, 'duration': 2.72}
+{'text': 'was wrong they just kept guessing until', 'start': 2470.319, 'duration': 2.161}
+{'text': 'the very end', 'start': 2471.76, 'duration': 2.319}
+{'text': "that's a joke no because everyone here", 'start': 2472.48, 'duration': 3.599}
+{'text': "that's like i i didn't say that", 'start': 2474.079, 'duration': 3.201}
+{'text': "there's anything wrong with being trans", 'start': 2476.079, 'duration': 2.721}
+{'text': "i never started my statement like that's", 'start': 2477.28, 'duration': 3.76}
+{'text': 'a good', 'start': 2478.8, 'duration': 2.24}
+{'text': "there's a process by which psychologists", 'start': 2485.839, 'duration': 4.161}
+{'text': "do research there's a process by which", 'start': 2488.16, 'duration': 3.6}
+{'text': "they test their ideas there's a process", 'start': 2490.0, 'duration': 3.359}
+{'text': 'by which they follow like scientific', 'start': 2491.76, 'duration': 3.12}
+{'text': 'method to come to conclusions about', 'start': 2493.359, 'duration': 2.72}
+{'text': 'things why do you deny that', 'start': 2494.88, 'duration': 3.36}
+{'text': "you're safe all right let's go over real", 'start': 2496.079, 'duration': 4.321}
+{'text': 'quick having a definitive answer to', 'start': 2498.24, 'duration': 3.28}
+{'text': "anything you can't have a definitive", 'start': 2500.4, 'duration': 2.48}
+{'text': "answer to anything that's due macro", 'start': 2501.52, 'duration': 2.799}
+{'text': 'level biology is the same way', 'start': 2502.88, 'duration': 2.64}
+{'text': 'there are no definitive answers in', 'start': 2504.319, 'duration': 3.121}
+{'text': 'medicine or biology', 'start': 2505.52, 'duration': 3.44}
+{'text': 'are you telling me in biology that they', 'start': 2507.44, 'duration': 3.12}
+{'text': "can't definitively tell you that two", 'start': 2508.96, 'duration': 3.359}
+{'text': "that cells split from each other i'm", 'start': 2510.56, 'duration': 3.68}
+{'text': 'just we can maybe say that but', 'start': 2512.319, 'duration': 3.681}
+{'text': 'in terms of in terms of in terms of', 'start': 2514.24, 'duration': 3.839}
+{'text': "saying why that's a really hard question", 'start': 2516.0, 'duration': 3.52}
+{'text': 'biology is much softer than something', 'start': 2518.079, 'duration': 3.601}
+{'text': 'like chemistry or physics yeah', 'start': 2519.52, 'duration': 4.88}
+{'text': 'so i just wanted to just quickly get a', 'start': 2521.68, 'duration': 4.56}
+{'text': 'definition for mental illness or mental', 'start': 2524.4, 'duration': 3.679}
+{'text': 'disorder real fast just so that we all', 'start': 2526.24, 'duration': 3.119}
+{'text': 'are on the same page', 'start': 2528.079, 'duration': 4.401}
+{'text': 'this is from the apa a mental disorder', 'start': 2529.359, 'duration': 4.561}
+{'text': 'is any condition characterized by', 'start': 2532.48, 'duration': 3.28}
+{'text': 'cognitive and emotional disturbances', 'start': 2533.92, 'duration': 3.84}
+{'text': 'abnormal behaviors impaired', 'start': 2535.76, 'duration': 7.12}
+{'text': 'functioning or any combination yep', 'start': 2537.76, 'duration': 5.12}
+{'text': "so when it comes to mental illness it's", 'start': 2543.68, 'duration': 6.399}
+{'text': 'definitely down to you know when it when', 'start': 2547.359, 'duration': 4.321}
+{'text': "they're trying to like confirm something", 'start': 2550.079, 'duration': 2.801}
+{'text': "that's certain illness", 'start': 2551.68, 'duration': 3.439}
+{'text': 'disorder there are usually common', 'start': 2552.88, 'duration': 4.08}
+{'text': 'symptoms which they use', 'start': 2555.119, 'duration': 3.761}
+{'text': 'to help their guessing to help give the', 'start': 2556.96, 'duration': 4.399}
+{'text': 'best answer and this has come from', 'start': 2558.88, 'duration': 5.52}
+{'text': 'you know decades of research so that', 'start': 2561.359, 'duration': 4.321}
+{'text': 'really should be took into', 'start': 2564.4, 'duration': 6.4}
+{'text': 'consideration over to tiffany', 'start': 2565.68, 'duration': 6.96}
+{'text': "there's actually numerous research that", 'start': 2570.8, 'duration': 3.2}
+{'text': 'may imply to', 'start': 2572.64, 'duration': 3.52}
+{'text': 'why some of the reasoning that they uh', 'start': 2574.0, 'duration': 4.319}
+{'text': 'took us out not just because of', 'start': 2576.16, 'duration': 5.919}
+{'text': 'uh uh more advanced science in regard to', 'start': 2578.319, 'duration': 6.881}
+{'text': 'uh gender and sex uh specifically but', 'start': 2582.079, 'duration': 4.081}
+{'text': 'also', 'start': 2585.2, 'duration': 3.44}
+{'text': 'uh a lot of people will argue that xx', 'start': 2586.16, 'duration': 4.48}
+{'text': "and xy determines if you're male or", 'start': 2588.64, 'duration': 2.959}
+{'text': 'female', 'start': 2590.64, 'duration': 3.439}
+{'text': 'but failed to take into account that', 'start': 2591.599, 'duration': 4.0}
+{'text': "trans women's brains", 'start': 2594.079, 'duration': 3.76}
+{'text': 'and vice versa male the female brains', 'start': 2595.599, 'duration': 3.841}
+{'text': 'resemble that of their', 'start': 2597.839, 'duration': 5.041}
+{'text': 'cisgendered uh counterparts but heavily', 'start': 2599.44, 'duration': 5.6}
+{'text': 'like resembles not just like a little', 'start': 2602.88, 'duration': 5.6}
+{'text': 'bit and that is a biological component', 'start': 2605.04, 'duration': 6.079}
+{'text': "so when people say xx and xy doesn't", 'start': 2608.48, 'duration': 3.68}
+{'text': 'matter but', 'start': 2611.119, 'duration': 4.0}
+{'text': 'our brain structure which matches that', 'start': 2612.16, 'duration': 4.64}
+{'text': 'of the', 'start': 2615.119, 'duration': 5.041}
+{'text': "sex that you identify as heavily doesn't", 'start': 2616.8, 'duration': 5.6}
+{'text': "it's kind of suspicious and that could", 'start': 2620.16, 'duration': 3.439}
+{'text': 'also be a component', 'start': 2622.4, 'duration': 2.56}
+{'text': "at least according to the article i'm", 'start': 2623.599, 'duration': 3.041}
+{'text': 'reading', 'start': 2624.96, 'duration': 3.359}
+{'text': "i do so i'm going to interject my own", 'start': 2626.64, 'duration': 2.88}
+{'text': "thing then we'll go to rob back", 'start': 2628.319, 'duration': 2.321}
+{'text': "destiny's thing in regards to the", 'start': 2629.52, 'duration': 2.799}
+{'text': 'comparison of psychology to biology i', 'start': 2630.64, 'duration': 2.88}
+{'text': "think there's a there's a stark", 'start': 2632.319, 'duration': 2.481}
+{'text': 'difference there in regards to', 'start': 2633.52, 'duration': 3.44}
+{'text': 'outcome um i i think in regards to', 'start': 2634.8, 'duration': 3.76}
+{'text': 'psychology yeah i think a lot of it is', 'start': 2636.96, 'duration': 3.04}
+{'text': 'based upon', 'start': 2638.56, 'duration': 3.759}
+{'text': "there's no like definitive right versus", 'start': 2640.0, 'duration': 4.079}
+{'text': 'wrong in my in my perspective saying', 'start': 2642.319, 'duration': 4.161}
+{'text': 'like you know', 'start': 2644.079, 'duration': 2.401}
+{'text': 'how do i say this in biology i feel like', 'start': 2646.88, 'duration': 3.68}
+{'text': 'biology is kind of like', 'start': 2649.44, 'duration': 2.879}
+{'text': 'empirical evidence backed like we know', 'start': 2650.56, 'duration': 3.279}
+{'text': 'about chromosomes we know about all of', 'start': 2652.319, 'duration': 2.561}
+{'text': 'these things so the', 'start': 2653.839, 'duration': 4.081}
+{'text': 'and this hold on hold on hold on', 'start': 2654.88, 'duration': 4.479}
+{'text': 'let me just explain myself because i', 'start': 2657.92, 'duration': 2.96}
+{'text': "feel like maybe i'm i'm going off topic", 'start': 2659.359, 'duration': 2.641}
+{'text': "or maybe i'm not explaining myself", 'start': 2660.88, 'duration': 3.36}
+{'text': 'clearly enough i feel like in psychology', 'start': 2662.0, 'duration': 3.599}
+{'text': "it's just a matter of", 'start': 2664.24, 'duration': 3.119}
+{'text': "there's a lot of the possibilities of", 'start': 2665.599, 'duration': 3.361}
+{'text': 'what what it could be', 'start': 2667.359, 'duration': 3.76}
+{'text': 'versus in biology it seems like if we', 'start': 2668.96, 'duration': 3.68}
+{'text': 'have like', 'start': 2671.119, 'duration': 4.561}
+{'text': "how do i say this um it's more", 'start': 2672.64, 'duration': 3.76}
+{'text': 'definitive', 'start': 2675.68, 'duration': 2.48}
+{'text': "it's it's more empirically backed", 'start': 2676.4, 'duration': 3.28}
+{'text': 'through through the actual science', 'start': 2678.16, 'duration': 2.88}
+{'text': 'versus psychology', 'start': 2679.68, 'duration': 4.399}
+{'text': 'i mean if we look at like let me let me', 'start': 2681.04, 'duration': 4.319}
+{'text': "come back to it i don't know if i'm", 'start': 2684.079, 'duration': 2.481}
+{'text': 'actually saying it the right way that', 'start': 2685.359, 'duration': 2.401}
+{'text': "i'm thinking but it just feels like in", 'start': 2686.56, 'duration': 3.12}
+{'text': 'regards to biology versus psychology', 'start': 2687.76, 'duration': 4.559}
+{'text': 'biology is more concrete backed shown', 'start': 2689.68, 'duration': 3.12}
+{'text': 'proof', 'start': 2692.319, 'duration': 2.0}
+{'text': "versus psychology it's almost kind of", 'start': 2692.8, 'duration': 3.36}
+{'text': 'like the practice of', 'start': 2694.319, 'duration': 3.361}
+{'text': 'people if that makes any sense people', 'start': 2696.16, 'duration': 3.28}
+{'text': 'people think or i write out his hand', 'start': 2697.68, 'duration': 3.2}
+{'text': 'first', 'start': 2699.44, 'duration': 4.24}
+{'text': "no no that's fair go ahead keep", 'start': 2700.88, 'duration': 3.68}
+{'text': 'investing in this right', 'start': 2703.68, 'duration': 2.32}
+{'text': 'comparison between like biology and', 'start': 2704.56, 'duration': 3.039}
+{'text': 'psychology because people will look at', 'start': 2706.0, 'duration': 3.76}
+{'text': 'microscopic claims made biology and', 'start': 2707.599, 'duration': 3.681}
+{'text': "pretend that that's where all of the big", 'start': 2709.76, 'duration': 2.4}
+{'text': 'claims are made', 'start': 2711.28, 'duration': 2.72}
+{'text': "so for instance like so rob's earlier", 'start': 2712.16, 'duration': 3.76}
+{'text': 'question of like do we know that mitosis', 'start': 2714.0, 'duration': 3.599}
+{'text': 'happens that cells divide well yeah of', 'start': 2715.92, 'duration': 2.56}
+{'text': "course but that's not", 'start': 2717.599, 'duration': 2.641}
+{'text': 'interesting and oh whoever asked that', 'start': 2718.48, 'duration': 3.44}
+{'text': "earlier oh tear into action right that's", 'start': 2720.24, 'duration': 2.879}
+{'text': 'not interesting we know that right', 'start': 2721.92, 'duration': 1.84}
+{'text': "that's fine", 'start': 2723.119, 'duration': 2.48}
+{'text': 'like this would be comparable to a claim', 'start': 2723.76, 'duration': 3.44}
+{'text': 'or a system in psychology say like', 'start': 2725.599, 'duration': 3.441}
+{'text': 'related to operant conditioning right', 'start': 2727.2, 'duration': 3.2}
+{'text': 'do we know that there are some ways to', 'start': 2729.04, 'duration': 3.36}
+{'text': 'condition a behavior based on a reward', 'start': 2730.4, 'duration': 3.04}
+{'text': 'that will make that behavior more', 'start': 2732.4, 'duration': 2.719}
+{'text': "repeatable that's like really basic easy", 'start': 2733.44, 'duration': 2.32}
+{'text': 'psychology', 'start': 2735.119, 'duration': 2.321}
+{'text': 'the problem is that with psychology', 'start': 2735.76, 'duration': 3.76}
+{'text': "we're really trying to answer really big", 'start': 2737.44, 'duration': 4.0}
+{'text': 'really complicated questions these are', 'start': 2739.52, 'duration': 3.44}
+{'text': 'really hard to answer for every', 'start': 2741.44, 'duration': 3.28}
+{'text': 'scientific discipline so to compare like', 'start': 2742.96, 'duration': 3.28}
+{'text': 'a very precise claim like', 'start': 2744.72, 'duration': 3.68}
+{'text': 'do we know how you know like rna reads', 'start': 2746.24, 'duration': 3.92}
+{'text': 'dna and you know makes proteins like', 'start': 2748.4, 'duration': 2.959}
+{'text': 'sure like we might have like a', 'start': 2750.16, 'duration': 2.56}
+{'text': 'microscopic thing like that but on a', 'start': 2751.359, 'duration': 2.321}
+{'text': 'more macro level', 'start': 2752.72, 'duration': 3.2}
+{'text': 'for instance like how do we cure cancer', 'start': 2753.68, 'duration': 3.919}
+{'text': "um what do we do with alzheimer's", 'start': 2755.92, 'duration': 3.12}
+{'text': 'disease like we know the little plaques', 'start': 2757.599, 'duration': 2.48}
+{'text': 'that are involved you know the little', 'start': 2759.04, 'duration': 2.319}
+{'text': "primes about why can't we do anything", 'start': 2760.079, 'duration': 2.481}
+{'text': 'about that you know like how do we get', 'start': 2761.359, 'duration': 2.641}
+{'text': 'people together', 'start': 2762.56, 'duration': 3.2}
+{'text': "i see where you're going yeah that makes", 'start': 2764.0, 'duration': 3.68}
+{'text': "sense even for something that we've been", 'start': 2765.76, 'duration': 2.96}
+{'text': 'doing for thousands of years like how do', 'start': 2767.68, 'duration': 2.56}
+{'text': 'you build muscle the most effective way', 'start': 2768.72, 'duration': 2.56}
+{'text': "even this is something that's like", 'start': 2770.24, 'duration': 2.4}
+{'text': 'argued about you know and these are the', 'start': 2771.28, 'duration': 2.72}
+{'text': 'more macro claims that are really', 'start': 2772.64, 'duration': 2.8}
+{'text': 'in the domain of biology that are really', 'start': 2774.0, 'duration': 2.96}
+{'text': 'hard to answer so when people take', 'start': 2775.44, 'duration': 3.2}
+{'text': 'something like well in biology we know', 'start': 2776.96, 'duration': 2.399}
+{'text': 'that like uh', 'start': 2778.64, 'duration': 2.32}
+{'text': 'we can make a vaccine right well what do', 'start': 2779.359, 'duration': 2.881}
+{'text': 'we do in psychology well we implement a', 'start': 2780.96, 'duration': 2.399}
+{'text': 'ton of psychology in terms of how we', 'start': 2782.24, 'duration': 2.24}
+{'text': 'discipline our children in terms of how', 'start': 2783.359, 'duration': 2.321}
+{'text': 'we teach things to people like we just', 'start': 2784.48, 'duration': 2.16}
+{'text': "don't have broader", 'start': 2785.68, 'duration': 2.48}
+{'text': 'like answers like why are some people', 'start': 2786.64, 'duration': 3.12}
+{'text': "evil right that's a way harder question", 'start': 2788.16, 'duration': 2.159}
+{'text': 'to answer', 'start': 2789.76, 'duration': 2.96}
+{'text': 'sorry everything tiffany says is', 'start': 2790.319, 'duration': 4.081}
+{'text': 'actually buttressing my argument that', 'start': 2792.72, 'duration': 2.879}
+{'text': 'this is actually an illness', 'start': 2794.4, 'duration': 2.88}
+{'text': 'so let me be specific here the term', 'start': 2795.599, 'duration': 3.441}
+{'text': 'illness is actually a semantic argument', 'start': 2797.28, 'duration': 2.799}
+{'text': "that's irrelevant", 'start': 2799.04, 'duration': 2.88}
+{'text': "the reality is it's something that's", 'start': 2800.079, 'duration': 3.52}
+{'text': 'abnormal that requires medical', 'start': 2801.92, 'duration': 2.399}
+{'text': 'intervention', 'start': 2803.599, 'duration': 2.401}
+{'text': 'i understand the political need to say', 'start': 2804.319, 'duration': 3.441}
+{'text': "oh no no that's not an illness but again", 'start': 2806.0, 'duration': 3.04}
+{'text': "then we haven't got to the fundamental", 'start': 2807.76, 'duration': 2.64}
+{'text': 'question of should the government and', 'start': 2809.04, 'duration': 2.4}
+{'text': 'insurance agencies', 'start': 2810.4, 'duration': 3.36}
+{'text': 'be required to pay for treatment for', 'start': 2811.44, 'duration': 3.84}
+{'text': "people that are transgender if it's not", 'start': 2813.76, 'duration': 2.24}
+{'text': 'actually an illness', 'start': 2815.28, 'duration': 2.24}
+{'text': "because then if it's not an illness it's", 'start': 2816.0, 'duration': 3.76}
+{'text': "elective so if you're transgender and", 'start': 2817.52, 'duration': 3.839}
+{'text': "say you don't have tremendous gender", 'start': 2819.76, 'duration': 3.44}
+{'text': 'dysphoria then none of your insurance', 'start': 2821.359, 'duration': 3.441}
+{'text': 'nor the government should recover', 'start': 2823.2, 'duration': 3.76}
+{'text': 'should requi cover any of the treatments', 'start': 2824.8, 'duration': 3.519}
+{'text': "that you're receiving secondly i was", 'start': 2826.96, 'duration': 2.72}
+{'text': 'asked to provide for a scientific', 'start': 2828.319, 'duration': 2.161}
+{'text': 'journal', 'start': 2829.68, 'duration': 2.56}
+{'text': 'real quick i i know people are going to', 'start': 2830.48, 'duration': 2.96}
+{'text': "want to interrupt and then you'll say", 'start': 2832.24, 'duration': 3.52}
+{'text': 'move on to someone else', 'start': 2833.44, 'duration': 4.8}
+{'text': 'and here we go here we go uh let me just', 'start': 2835.76, 'duration': 4.24}
+{'text': 'gender dysphoria is gender dysphoria and', 'start': 2838.24, 'duration': 2.56}
+{'text': 'illness', 'start': 2840.0, 'duration': 3.92}
+{'text': 'yes yes or no no okay yeah so here the', 'start': 2840.8, 'duration': 5.039}
+{'text': 'link i posted in the chat is from', 'start': 2843.92, 'duration': 3.52}
+{'text': 'the healthcare association of virginia', 'start': 2845.839, 'duration': 3.52}
+{'text': 'it says and i quote gender identity', 'start': 2847.44, 'duration': 3.84}
+{'text': 'conflict is called gender dysphoria a', 'start': 2849.359, 'duration': 3.281}
+{'text': 'term that means dissatisfaction it', 'start': 2851.28, 'duration': 2.799}
+{'text': "involves a conflict between a person's", 'start': 2852.64, 'duration': 2.959}
+{'text': 'physical or sign gender and the gender', 'start': 2854.079, 'duration': 2.561}
+{'text': 'they identify with', 'start': 2855.599, 'duration': 2.24}
+{'text': 'people with gender dysphoria feel', 'start': 2856.64, 'duration': 2.719}
+{'text': 'distress over this conflict often in', 'start': 2857.839, 'duration': 2.72}
+{'text': 'early age but sometimes not until', 'start': 2859.359, 'duration': 2.96}
+{'text': 'puberty or later the distress stems from', 'start': 2860.559, 'duration': 2.641}
+{'text': 'the way they feel and think of', 'start': 2862.319, 'duration': 2.401}
+{'text': 'themselves being in contrast to physical', 'start': 2863.2, 'duration': 2.159}
+{'text': 'gender', 'start': 2864.72, 'duration': 2.399}
+{'text': 'another term for gender dysphoria is', 'start': 2865.359, 'duration': 3.441}
+{'text': 'being transgender so there you have it', 'start': 2867.119, 'duration': 3.2}
+{'text': "there's a scientific group a healthcare", 'start': 2868.8, 'duration': 3.2}
+{'text': 'association in virginia wait link this', 'start': 2870.319, 'duration': 3.04}
+{'text': 'this is whatever they just cited this is', 'start': 2872.0, 'duration': 3.04}
+{'text': 'not in the chat yeah', 'start': 2873.359, 'duration': 5.361}
+{'text': 'show me your in the chat calm down', 'start': 2875.04, 'duration': 7.039}
+{'text': 'rob can you uh do me okay', 'start': 2878.72, 'duration': 5.92}
+{'text': "literally hold on i'll calm down hold on", 'start': 2882.079, 'duration': 4.161}
+{'text': 'hold on calm down real quick', 'start': 2884.64, 'duration': 4.08}
+{'text': "i'm going to share uh rob's link thing", 'start': 2886.24, 'duration': 4.0}
+{'text': 'to the actual chat itself', 'start': 2888.72, 'duration': 3.44}
+{'text': "uh it's actually in the uh whereby chat", 'start': 2890.24, 'duration': 3.119}
+{'text': 'for those that are interested and then', 'start': 2892.16, 'duration': 1.6}
+{'text': 'also', 'start': 2893.359, 'duration': 2.641}
+{'text': "tiffany's hold on can i finish please", 'start': 2893.76, 'duration': 3.68}
+{'text': 'can i finish hold on', 'start': 2896.0, 'duration': 2.72}
+{'text': "i'm trying to make it fair across the", 'start': 2897.44, 'duration': 3.44}
+{'text': 'board rob has shared his links in the', 'start': 2898.72, 'duration': 2.72}
+{'text': 'whereby', 'start': 2900.88, 'duration': 2.56}
+{'text': "chat i will share rob and tiffany's", 'start': 2901.44, 'duration': 3.84}
+{'text': 'links all links provided', 'start': 2903.44, 'duration': 4.24}
+{'text': 'to the entire audience on the debate', 'start': 2905.28, 'duration': 3.839}
+{'text': 'panel on drunken debates', 'start': 2907.68, 'duration': 2.399}
+{'text': "rob finished and we're going with", 'start': 2909.119, 'duration': 3.121}
+{'text': 'tiffany', 'start': 2910.079, 'duration': 3.76}
+{'text': "the last thing i'll say about this is", 'start': 2912.24, 'duration': 3.28}
+{'text': "there's also such a thing as body", 'start': 2913.839, 'duration': 3.361}
+{'text': 'body dysmorphia and people that believe', 'start': 2915.52, 'duration': 3.76}
+{'text': 'that their brain actually shows that', 'start': 2917.2, 'duration': 2.8}
+{'text': 'they', 'start': 2919.28, 'duration': 2.559}
+{'text': 'are actually identified as not having a', 'start': 2920.0, 'duration': 3.76}
+{'text': 'limb a finger or something like that', 'start': 2921.839, 'duration': 3.601}
+{'text': 'so my question to tiffany and destiny', 'start': 2923.76, 'duration': 3.359}
+{'text': 'based on your definition that', 'start': 2925.44, 'duration': 4.0}
+{'text': 'it only is an illness if it causes you', 'start': 2927.119, 'duration': 3.361}
+{'text': 'mental distress', 'start': 2929.44, 'duration': 3.52}
+{'text': 'if someone literally believes i identify', 'start': 2930.48, 'duration': 3.28}
+{'text': 'as someone who', 'start': 2932.96, 'duration': 3.119}
+{'text': "does only has one arm but it's not", 'start': 2933.76, 'duration': 4.16}
+{'text': 'causing the mental distress to have two', 'start': 2936.079, 'duration': 2.321}
+{'text': 'arms', 'start': 2937.92, 'duration': 2.399}
+{'text': "does that mean that's not an illness", 'start': 2938.4, 'duration': 3.84}
+{'text': "that's a false equivalency", 'start': 2940.319, 'duration': 5.601}
+{'text': 'why why is it a false you just got', 'start': 2942.24, 'duration': 5.839}
+{'text': 'telling us you just got done telling us', 'start': 2945.92, 'duration': 3.84}
+{'text': 'that one of the defining characteristics', 'start': 2948.079, 'duration': 2.881}
+{'text': 'of transgenderism', 'start': 2949.76, 'duration': 3.92}
+{'text': 'is that your brain literally does not', 'start': 2950.96, 'duration': 4.48}
+{'text': 'match with the physical characteristic', 'start': 2953.68, 'duration': 2.56}
+{'text': 'of your body', 'start': 2955.44, 'duration': 3.04}
+{'text': "that's exactly what body dis is real", 'start': 2956.24, 'duration': 3.28}
+{'text': 'quick just as a quick', 'start': 2958.48, 'duration': 3.599}
+{'text': 'brains this is just a blog post from a', 'start': 2959.52, 'duration': 4.319}
+{'text': "for-profit hospital this isn't like a", 'start': 2962.079, 'duration': 2.961}
+{'text': "medical authority or anything i don't", 'start': 2963.839, 'duration': 2.48}
+{'text': "know why you linked this it's like an", 'start': 2965.04, 'duration': 2.799}
+{'text': 'opinion piece rob you want', 'start': 2966.319, 'duration': 2.961}
+{'text': "you want to throw some more it's from", 'start': 2967.839, 'duration': 4.801}
+{'text': 'the healthcare association of virginia', 'start': 2969.28, 'duration': 5.12}
+{'text': "why isn't this a dot gov why is it why", 'start': 2972.64, 'duration': 4.32}
+{'text': 'is it a dot-com address', 'start': 2974.4, 'duration': 4.4}
+{'text': "so if it's a government organization", 'start': 2976.96, 'duration': 3.2}
+{'text': "that then it's more legitimate as", 'start': 2978.8, 'duration': 2.64}
+{'text': 'opposed to people that are caring for', 'start': 2980.16, 'duration': 2.399}
+{'text': "people in a healthcare system no i'm", 'start': 2981.44, 'duration': 2.639}
+{'text': "just saying like i don't like well no", 'start': 2982.559, 'duration': 2.881}
+{'text': "this is like a state i don't", 'start': 2984.079, 'duration': 2.721}
+{'text': 'this is just like a really weird thing', 'start': 2985.44, 'duration': 2.639}
+{'text': "because like it's just some shirt", 'start': 2986.8, 'duration': 3.68}
+{'text': 'appeals to authorities', 'start': 2988.079, 'duration': 4.161}
+{'text': "it's just certain appeals to authorities", 'start': 2990.48, 'duration': 4.0}
+{'text': 'like i just asked you a logical question', 'start': 2992.24, 'duration': 5.28}
+{'text': 'right again', 'start': 2994.48, 'duration': 3.04}
+{'text': 'a hospital system rob this is not like a', 'start': 2997.599, 'duration': 3.361}
+{'text': 'state like medical body or anything this', 'start': 2999.119, 'duration': 2.72}
+{'text': 'is just i mean', 'start': 3000.96, 'duration': 3.119}
+{'text': "again you so you're saying that hospital", 'start': 3001.839, 'duration': 4.321}
+{'text': "systems aren't critical medical experts", 'start': 3004.079, 'duration': 3.361}
+{'text': "no they they're not interested they're", 'start': 3006.16, 'duration': 2.959}
+{'text': 'not in charge of the research or the', 'start': 3007.44, 'duration': 2.72}
+{'text': 'diagnosis okay', 'start': 3009.119, 'duration': 3.681}
+{'text': 'i was not asked to provide a dot gov', 'start': 3010.16, 'duration': 4.399}
+{'text': 'source i was asked to provide', 'start': 3012.8, 'duration': 3.36}
+{'text': "medical experts saying that it's an", 'start': 3014.559, 'duration': 3.361}
+{'text': "illness that's what i did this is", 'start': 3016.16, 'duration': 3.199}
+{'text': 'okay all right so real quick hold on', 'start': 3017.92, 'duration': 3.04}
+{'text': 'hold on hold on i gotta step in real', 'start': 3019.359, 'duration': 3.281}
+{'text': 'quick we gotta go down to tiffany and', 'start': 3020.96, 'duration': 2.96}
+{'text': "then we'll go into destiny and we'll go", 'start': 3022.64, 'duration': 2.719}
+{'text': 'into closing discussions please tiffany', 'start': 3023.92, 'duration': 3.919}
+{'text': 'go ahead', 'start': 3025.359, 'duration': 2.48}
+{'text': "i was just gonna say maybe rob hasn't", 'start': 3028.16, 'duration': 3.12}
+{'text': 'been listening', 'start': 3030.319, 'duration': 2.961}
+{'text': 'uh and i get it conservatives you all', 'start': 3031.28, 'duration': 3.279}
+{'text': 'have trouble listening i', 'start': 3033.28, 'duration': 4.16}
+{'text': 'i understand uh and reading by the way', 'start': 3034.559, 'duration': 4.641}
+{'text': "uh but well-being doesn't mean", 'start': 3037.44, 'duration': 4.8}
+{'text': 'our bodies and uh like', 'start': 3039.2, 'duration': 6.639}
+{'text': 'uh like uh our bodies are like', 'start': 3042.24, 'duration': 6.64}
+{'text': 'uh like we are not fit like like', 'start': 3045.839, 'duration': 6.081}
+{'text': 'a physique per se it means that', 'start': 3048.88, 'duration': 5.28}
+{'text': 'happiness is a whole', 'start': 3051.92, 'duration': 4.48}
+{'text': 'so you can you can literally be healthy', 'start': 3054.16, 'duration': 4.72}
+{'text': 'and still not be happy with your body', 'start': 3056.4, 'duration': 4.64}
+{'text': 'uh and when people are feeling referred', 'start': 3058.88, 'duration': 3.199}
+{'text': 'to in mental illness', 'start': 3061.04, 'duration': 2.48}
+{'text': 'and when i say people i mean like', 'start': 3062.079, 'duration': 3.361}
+{'text': 'conservatives like you rob uh they', 'start': 3063.52, 'duration': 3.28}
+{'text': 'usually refer to people', 'start': 3065.44, 'duration': 4.639}
+{'text': 'uh nowadays who have uh who people who', 'start': 3066.8, 'duration': 5.6}
+{'text': 'can no longer function in society or', 'start': 3070.079, 'duration': 3.04}
+{'text': 'have trouble', 'start': 3072.4, 'duration': 2.32}
+{'text': 'assimilating in society and having', 'start': 3073.119, 'duration': 3.841}
+{'text': "issues trans people don't inherently", 'start': 3074.72, 'duration': 4.72}
+{'text': 'inherently have that issue trans people', 'start': 3076.96, 'duration': 4.879}
+{'text': 'can join the military trans people can', 'start': 3079.44, 'duration': 3.2}
+{'text': 'get jobs', 'start': 3081.839, 'duration': 3.921}
+{'text': 'trans people can do fine in every aspect', 'start': 3082.64, 'duration': 3.76}
+{'text': 'except', 'start': 3085.76, 'duration': 3.359}
+{'text': "their gender identity is different it's", 'start': 3086.4, 'duration': 3.679}
+{'text': 'not like', 'start': 3089.119, 'duration': 4.0}
+{'text': "we we're uh uh crippled", 'start': 3090.079, 'duration': 6.881}
+{'text': 'can i just real quick no no', 'start': 3093.119, 'duration': 3.841}
+{'text': 'hey this is this is the final uh thing', 'start': 3097.44, 'duration': 4.159}
+{'text': 'before we go to the next topic remember', 'start': 3099.92, 'duration': 2.96}
+{'text': "i know you don't want to talk about it", 'start': 3101.599, 'duration': 3.281}
+{'text': 'anymore uh hold on', 'start': 3102.88, 'duration': 4.08}
+{'text': 'calm down calm down calm down hold on', 'start': 3104.88, 'duration': 3.76}
+{'text': 'hold on we are not in hold on hold on', 'start': 3106.96, 'duration': 3.359}
+{'text': 'tiffany hold on we', 'start': 3108.64, 'duration': 3.28}
+{'text': 'just to clarify this is not closing', 'start': 3110.319, 'duration': 3.52}
+{'text': 'statements just say oh no', 'start': 3111.92, 'duration': 4.96}
+{'text': 'okay so we will get to that but tiffany', 'start': 3113.839, 'duration': 3.52}
+{'text': 'go ahead', 'start': 3116.88, 'duration': 2.479}
+{'text': 'i thought it was last before closing no', 'start': 3117.359, 'duration': 3.841}
+{'text': 'no no no go ahead no no this is it', 'start': 3119.359, 'duration': 4.0}
+{'text': "i'll tell you what i'm doing i was just", 'start': 3121.2, 'duration': 3.76}
+{'text': 'going off what you said okay', 'start': 3123.359, 'duration': 4.24}
+{'text': "um yeah uh trans people don't inherently", 'start': 3124.96, 'duration': 4.0}
+{'text': 'have those issues they can', 'start': 3127.599, 'duration': 3.361}
+{'text': 'function fine in society as long as', 'start': 3128.96, 'duration': 3.28}
+{'text': "they're not like [\xa0__\xa0] on", 'start': 3130.96, 'duration': 4.72}
+{'text': 'by people like you or six', 'start': 3132.24, 'duration': 6.879}
+{'text': "or turned so it's not like", 'start': 3135.68, 'duration': 5.52}
+{'text': 'uh what when you consider like people', 'start': 3139.119, 'duration': 3.2}
+{'text': 'who are like', 'start': 3141.2, 'duration': 3.76}
+{'text': "have a mental illness we're not like uh", 'start': 3142.319, 'duration': 3.361}
+{'text': 'at a', 'start': 3144.96, 'duration': 2.48}
+{'text': 'a gas station at like three in the', 'start': 3145.68, 'duration': 3.36}
+{'text': 'morning like [\xa0__\xa0] muttering to', 'start': 3147.44, 'duration': 3.44}
+{'text': 'ourselves looking for like', 'start': 3149.04, 'duration': 4.96}
+{'text': 'money or to like like yell at a car or', 'start': 3150.88, 'duration': 4.239}
+{'text': 'something like that', 'start': 3154.0, 'duration': 3.359}
+{'text': "it's not the same thing and that's one", 'start': 3155.119, 'duration': 4.561}
+{'text': "of the reasons we're not listed", 'start': 3157.359, 'duration': 5.601}
+{'text': 'under the [\xa0__\xa0] uh uh can i ask you a', 'start': 3159.68, 'duration': 5.679}
+{'text': 'quick question', 'start': 3162.96, 'duration': 2.399}
+{'text': 'hold on tiffany stop tiffany rob stop', 'start': 3174.88, 'duration': 4.64}
+{'text': 'destiny has your hand up over to destiny', 'start': 3177.68, 'duration': 2.24}
+{'text': 'okay', 'start': 3179.52, 'duration': 2.4}
+{'text': 'tiffany was getting to to the correct', 'start': 3179.92, 'duration': 3.84}
+{'text': "point so we've talked about this a time", 'start': 3181.92, 'duration': 3.6}
+{'text': 'so what a mental illness is', 'start': 3183.76, 'duration': 3.12}
+{'text': 'generally the apa the way that we define', 'start': 3185.52, 'duration': 2.88}
+{'text': 'mental illnesses are people whose', 'start': 3186.88, 'duration': 3.199}
+{'text': 'ability to assimilate into society are', 'start': 3188.4, 'duration': 3.28}
+{'text': 'severely inhibited this is what a mental', 'start': 3190.079, 'duration': 2.401}
+{'text': 'illness is this', 'start': 3191.68, 'duration': 3.12}
+{'text': 'these weird definitions of like mentally', 'start': 3192.48, 'duration': 3.599}
+{'text': 'unwell or body', 'start': 3194.8, 'duration': 2.559}
+{'text': "doesn't fit blah blah blah whatever i", 'start': 3196.079, 'duration': 2.641}
+{'text': "don't know i don't know what that is", 'start': 3197.359, 'duration': 2.72}
+{'text': "i've never heard of that before", 'start': 3198.72, 'duration': 3.44}
+{'text': 'um my understanding is that when the apa', 'start': 3200.079, 'duration': 3.201}
+{'text': 'seeks to classify something as mental', 'start': 3202.16, 'duration': 2.0}
+{'text': 'illness is something that severely', 'start': 3203.28, 'duration': 2.88}
+{'text': 'inhibits like your ability to hold a job', 'start': 3204.16, 'duration': 3.76}
+{'text': 'your ability to take care of yourself', 'start': 3206.16, 'duration': 3.199}
+{'text': 'your ability to maintain healthy', 'start': 3207.92, 'duration': 2.32}
+{'text': 'relationships', 'start': 3209.359, 'duration': 2.24}
+{'text': 'and other ways in which we integrate in', 'start': 3210.24, 'duration': 3.44}
+{'text': 'society every trans person', 'start': 3211.599, 'duration': 4.641}
+{'text': 'does not experience uh dysphoria or at', 'start': 3213.68, 'duration': 4.24}
+{'text': 'least not to the degree that they', 'start': 3216.24, 'duration': 3.359}
+{'text': 'are unable to do any of those things so', 'start': 3217.92, 'duration': 3.12}
+{'text': 'if you are a trans person', 'start': 3219.599, 'duration': 3.441}
+{'text': "you're a trans woman if you have a male", 'start': 3221.04, 'duration': 3.12}
+{'text': 'body but you feel like you', 'start': 3223.04, 'duration': 3.2}
+{'text': 'identify internally your gender identity', 'start': 3224.16, 'duration': 3.6}
+{'text': 'is that of a female', 'start': 3226.24, 'duration': 3.839}
+{'text': 'if you are able to go to school hold on', 'start': 3227.76, 'duration': 3.68}
+{'text': 'a job have friends and stuff and it', 'start': 3230.079, 'duration': 1.921}
+{'text': "doesn't", 'start': 3231.44, 'duration': 1.919}
+{'text': 'cause such a severe distress that it', 'start': 3232.0, 'duration': 2.72}
+{'text': 'inhibits your ability to do that you', 'start': 3233.359, 'duration': 2.401}
+{'text': "wouldn't say that this person is", 'start': 3234.72, 'duration': 1.839}
+{'text': 'mentally ill', 'start': 3235.76, 'duration': 2.88}
+{'text': "that is the apa's position on this my", 'start': 3236.559, 'duration': 3.121}
+{'text': "understanding is that's how most", 'start': 3238.64, 'duration': 2.88}
+{'text': 'psychologists view this issue right now', 'start': 3239.68, 'duration': 3.52}
+{'text': "that's how this is treated like full", 'start': 3241.52, 'duration': 2.96}
+{'text': "stop if you want to say that it's an", 'start': 3243.2, 'duration': 2.639}
+{'text': 'illness for whatever reason and you want', 'start': 3244.48, 'duration': 2.639}
+{'text': 'to make up some weird [\xa0__\xa0] to do it', 'start': 3245.839, 'duration': 2.961}
+{'text': "that's fine but you're just you it just", 'start': 3247.119, 'duration': 3.2}
+{'text': 'flies in the face of how we understand', 'start': 3248.8, 'duration': 2.64}
+{'text': 'what mental disorders are', 'start': 3250.319, 'duration': 2.961}
+{'text': 'how we treat them how we diagnose them', 'start': 3251.44, 'duration': 3.919}
+{'text': 'and how we understand them', 'start': 3253.28, 'duration': 3.279}
+{'text': 'all right so real quick i gotta hold on', 'start': 3255.359, 'duration': 2.801}
+{'text': "hold on no no we're gonna interject here", 'start': 3256.559, 'duration': 2.881}
+{'text': "real quick we're going to closing", 'start': 3258.16, 'duration': 2.8}
+{'text': "statements here otherwise we're going to", 'start': 3259.44, 'duration': 3.6}
+{'text': 'continue going over time', 'start': 3260.96, 'duration': 3.359}
+{'text': "tiffany what she wanted she couldn't", 'start': 3263.04, 'duration': 3.12}
+{'text': "answer the question so she's happy now", 'start': 3264.319, 'duration': 2.961}
+{'text': "you didn't give me the question but", 'start': 3266.16, 'duration': 2.24}
+{'text': 'whatever it was it was going to be', 'start': 3267.28, 'duration': 2.64}
+{'text': 'really dumb [\xa0__\xa0] you can dm', 'start': 3268.4, 'duration': 4.719}
+{'text': "right you're right calm down really stop", 'start': 3269.92, 'duration': 7.04}
+{'text': 'stop calm down stop stop tiffany rob', 'start': 3273.119, 'duration': 6.96}
+{'text': 'stop the ad hominem is going to stop', 'start': 3276.96, 'duration': 5.839}
+{'text': 'knock it off okay if we cannot adhere to', 'start': 3280.079, 'duration': 4.161}
+{'text': "the debate panel thing of let's keep it", 'start': 3282.799, 'duration': 2.481}
+{'text': 'respectful', 'start': 3284.24, 'duration': 2.879}
+{'text': "then i'm gonna start muting people all", 'start': 3285.28, 'duration': 3.2}
+{'text': "right we're going to go into closing", 'start': 3287.119, 'duration': 2.321}
+{'text': 'statements', 'start': 3288.48, 'duration': 1.92}
+{'text': "and then we're going to move on to the", 'start': 3289.44, 'duration': 3.28}
+{'text': 'next topic ad hominem', 'start': 3290.4, 'duration': 5.199}
+{'text': 'will stop from all sides anybody does', 'start': 3292.72, 'duration': 5.119}
+{'text': 'that make sense', 'start': 3295.599, 'duration': 4.321}
+{'text': 'okay with that sorry tiffany rob we good', 'start': 3297.839, 'duration': 3.201}
+{'text': 'with that', 'start': 3299.92, 'duration': 4.72}
+{'text': "sure yes in fact i love rob he's bae", 'start': 3301.04, 'duration': 5.759}
+{'text': 'thank you okay thank you i want to be', 'start': 3304.64, 'duration': 3.36}
+{'text': 'surprised calm down', 'start': 3306.799, 'duration': 4.161}
+{'text': "calm down calm down chat all right let's", 'start': 3308.0, 'duration': 4.319}
+{'text': "go into it we're going to closing", 'start': 3310.96, 'duration': 2.08}
+{'text': 'statements', 'start': 3312.319, 'duration': 2.161}
+{'text': "uh chris tech you've been pretty quiet", 'start': 3313.04, 'duration': 2.559}
+{'text': "we're going to start with you go ahead", 'start': 3314.48, 'duration': 2.4}
+{'text': 'you got one minute', 'start': 3315.599, 'duration': 4.881}
+{'text': 'oh where do i stop', 'start': 3316.88, 'duration': 6.08}
+{'text': "i'm gonna stick with what we were", 'start': 3320.48, 'duration': 3.44}
+{'text': 'originally', 'start': 3322.96, 'duration': 4.72}
+{'text': 'talking about where this derived from um', 'start': 3323.92, 'duration': 5.6}
+{'text': "uh these books definitely shouldn't be", 'start': 3327.68, 'duration': 4.0}
+{'text': "banned it's a censorship", 'start': 3329.52, 'duration': 6.96}
+{'text': "oh yeah i forgot about that i'm sorry", 'start': 3331.68, 'duration': 7.76}
+{'text': 'um when it comes to the issue of', 'start': 3336.48, 'duration': 5.2}
+{'text': 'transgender', 'start': 3339.44, 'duration': 4.8}
+{'text': 'they can be who they want to be cheat on', 'start': 3341.68, 'duration': 4.399}
+{'text': 'them all you want', 'start': 3344.24, 'duration': 3.839}
+{'text': "there's uh let's basically win it and", 'start': 3346.079, 'duration': 3.921}
+{'text': 'when it comes to', 'start': 3348.079, 'duration': 4.401}
+{'text': 'uh mental illness i have no comment on', 'start': 3350.0, 'duration': 4.319}
+{'text': 'that', 'start': 3352.48, 'duration': 3.44}
+{'text': 'okay tiffany down to you we got one', 'start': 3354.319, 'duration': 4.081}
+{'text': 'minute go ahead', 'start': 3355.92, 'duration': 5.04}
+{'text': "oh wow i wasn't even done okay all right", 'start': 3358.4, 'duration': 4.56}
+{'text': 'rob i know things sound heated but i', 'start': 3360.96, 'duration': 2.32}
+{'text': 'have', 'start': 3362.96, 'duration': 2.72}
+{'text': "no hold on he's going right now hold on", 'start': 3363.28, 'duration': 5.279}
+{'text': "he's gone right now he's stepped away", 'start': 3365.68, 'duration': 4.0}
+{'text': "we'll come back i'll come back but i'll", 'start': 3368.559, 'duration': 2.961}
+{'text': 'get also final funnel on final', 'start': 3369.68, 'duration': 2.48}
+{'text': 'discussion', 'start': 3371.52, 'duration': 2.88}
+{'text': 'no aims and anybody you have to stand up', 'start': 3372.16, 'duration': 4.48}
+{'text': 'this was going to be like a compliment', 'start': 3374.4, 'duration': 3.76}
+{'text': 'okay let me come back to you then uh', 'start': 3376.64, 'duration': 4.8}
+{'text': "i'll go do six films go ahead", 'start': 3378.16, 'duration': 3.28}
+{'text': "so to our original discussion that we're", 'start': 3382.079, 'duration': 3.841}
+{'text': 'trying to talk about with them', 'start': 3384.72, 'duration': 3.44}
+{'text': "straight off books shouldn't be censored", 'start': 3385.92, 'duration': 3.76}
+{'text': "it's stupid", 'start': 3388.16, 'duration': 3.439}
+{'text': 'and states that you can look at all the', 'start': 3389.68, 'duration': 3.76}
+{'text': 'history if we start censoring stuff', 'start': 3391.599, 'duration': 5.361}
+{'text': '[\xa0__\xa0] goes bad that simple when it comes', 'start': 3393.44, 'duration': 3.919}
+{'text': 'to', 'start': 3396.96, 'duration': 2.639}
+{'text': "mental illnesses let's talk about that", 'start': 3397.359, 'duration': 3.76}
+{'text': 'the fact that', 'start': 3399.599, 'duration': 4.48}
+{'text': 'the apa is still teaching people that', 'start': 3401.119, 'duration': 4.561}
+{'text': 'are going in psychology degrees', 'start': 3404.079, 'duration': 2.881}
+{'text': 'and i can personally attest to this', 'start': 3405.68, 'duration': 3.119}
+{'text': 'because this is one of my majors we', 'start': 3406.96, 'duration': 2.24}
+{'text': 'still', 'start': 3408.799, 'duration': 2.961}
+{'text': 'learn that transgender people are still', 'start': 3409.2, 'duration': 3.919}
+{'text': 'classified as a mental', 'start': 3411.76, 'duration': 4.72}
+{'text': "it's it's that simple um when it comes", 'start': 3413.119, 'duration': 4.96}
+{'text': 'to mental illness and functioning in', 'start': 3416.48, 'duration': 4.56}
+{'text': "society doesn't that if that stuff is", 'start': 3418.079, 'duration': 3.601}
+{'text': 'true', 'start': 3421.04, 'duration': 2.96}
+{'text': 'that would classify as depression and', 'start': 3421.68, 'duration': 3.36}
+{'text': 'stuff like that is classified as a', 'start': 3424.0, 'duration': 1.92}
+{'text': 'mental illness', 'start': 3425.04, 'duration': 3.44}
+{'text': 'but people can still function in society', 'start': 3425.92, 'duration': 3.52}
+{'text': 'with depression', 'start': 3428.48, 'duration': 3.599}
+{'text': "anxiety ptsd all that stuff so it's that", 'start': 3429.44, 'duration': 4.159}
+{'text': "simple it's just it's not a mental", 'start': 3432.079, 'duration': 2.081}
+{'text': 'illness', 'start': 3433.599, 'duration': 2.401}
+{'text': "it's a mental disorder there's a big", 'start': 3434.16, 'duration': 3.199}
+{'text': 'difference', 'start': 3436.0, 'duration': 3.28}
+{'text': 'this has been wiped pretty much from', 'start': 3437.359, 'duration': 4.48}
+{'text': 'being used', 'start': 3439.28, 'duration': 6.799}
+{'text': 'okay over to uh back to tiffany go ahead', 'start': 3441.839, 'duration': 6.641}
+{'text': "all right now that rob's back uh rob i", 'start': 3446.079, 'duration': 4.48}
+{'text': 'know things sounded heated earlier', 'start': 3448.48, 'duration': 4.96}
+{'text': "but i'm having a lot of fun and don't", 'start': 3450.559, 'duration': 3.681}
+{'text': 'leave mad', 'start': 3453.44, 'duration': 3.359}
+{'text': "i'm having like i'm not no no but if i'm", 'start': 3454.24, 'duration': 4.0}
+{'text': "like if i'm like giving you like", 'start': 3456.799, 'duration': 3.361}
+{'text': "[\xa0__\xa0] and you're like oh [\xa0__\xa0] tiffany you", 'start': 3458.24, 'duration': 3.599}
+{'text': "know just just keep in mind i don't hate", 'start': 3460.16, 'duration': 2.72}
+{'text': "you rob i think i'm", 'start': 3461.839, 'duration': 2.881}
+{'text': "i'm having a lot of fun playing off you", 'start': 3462.88, 'duration': 5.12}
+{'text': "so don't like be like don't be a hater", 'start': 3464.72, 'duration': 6.079}
+{'text': 'anyways uh that said keep in mind uh not', 'start': 3468.0, 'duration': 4.079}
+{'text': 'just rob but anyone', 'start': 3470.799, 'duration': 4.881}
+{'text': "listening that uh by rob's definition", 'start': 3472.079, 'duration': 5.361}
+{'text': 'uh believing in a religion including', 'start': 3475.68, 'duration': 4.08}
+{'text': 'christianity', 'start': 3477.44, 'duration': 3.84}
+{'text': "hold on tiffany i said he's supposed to", 'start': 3479.76, 'duration': 4.72}
+{'text': "play no no no this is insulting it's not", 'start': 3481.28, 'duration': 5.039}
+{'text': "it's not countering somebody in your", 'start': 3484.48, 'duration': 3.599}
+{'text': 'closing statement simply talk about the', 'start': 3486.319, 'duration': 3.52}
+{'text': 'statement or the topic itself', 'start': 3488.079, 'duration': 3.52}
+{'text': 'without referencing somebody else no', 'start': 3489.839, 'duration': 3.121}
+{'text': "rob's not allowed to do it either", 'start': 3491.599, 'duration': 3.52}
+{'text': "tiffany please rephrase you've got 20", 'start': 3492.96, 'duration': 3.28}
+{'text': 'seconds left', 'start': 3495.119, 'duration': 4.401}
+{'text': "by no one's definition but", 'start': 3496.24, 'duration': 5.839}
+{'text': 'what can also be misconstrued as a', 'start': 3499.52, 'duration': 3.599}
+{'text': 'mental', 'start': 3502.079, 'duration': 3.921}
+{'text': 'illness could be people who are', 'start': 3503.119, 'duration': 3.68}
+{'text': 'christian', 'start': 3506.0, 'duration': 4.079}
+{'text': 'or any other kind of religion', 'start': 3506.799, 'duration': 5.201}
+{'text': "and if you don't think they should be", 'start': 3510.079, 'duration': 4.401}
+{'text': 'classified as such then maybe', 'start': 3512.0, 'duration': 5.68}
+{'text': "you understand what i'm talking about", 'start': 3514.48, 'duration': 5.92}
+{'text': "is that is that pg that's fair that's", 'start': 3517.68, 'duration': 3.119}
+{'text': 'fair', 'start': 3520.4, 'duration': 2.48}
+{'text': 'yeah okay i know the only reason i say i', 'start': 3520.799, 'duration': 3.441}
+{'text': "don't want people taking subtle jabs", 'start': 3522.88, 'duration': 2.719}
+{'text': 'anybody else in the panel is exactly', 'start': 3524.24, 'duration': 2.96}
+{'text': "what's going to happen isn't it", 'start': 3525.599, 'duration': 3.441}
+{'text': 'jab it was just building off what he was', 'start': 3527.2, 'duration': 3.68}
+{'text': 'saying but i i understand', 'start': 3529.04, 'duration': 3.6}
+{'text': 'but the problem is it leads into a whole', 'start': 3530.88, 'duration': 2.719}
+{'text': 'different thing that people want to', 'start': 3532.64, 'duration': 2.32}
+{'text': 'continue to debate it needs to be on', 'start': 3533.599, 'duration': 1.841}
+{'text': 'topic', 'start': 3534.96, 'duration': 2.399}
+{'text': 'by itself american nacho over to you you', 'start': 3535.44, 'duration': 3.44}
+{'text': 'got one minute go ahead', 'start': 3537.359, 'duration': 4.801}
+{'text': "okay so i'll credit man that i want to", 'start': 3538.88, 'duration': 5.28}
+{'text': 'say so much to that but uh obviously', 'start': 3542.16, 'duration': 3.04}
+{'text': "that's not the topic", 'start': 3544.16, 'duration': 3.36}
+{'text': 'uh censorship is mainly the topic right', 'start': 3545.2, 'duration': 3.28}
+{'text': 'so', 'start': 3547.52, 'duration': 3.44}
+{'text': 'my opinion is the same kind of deal as', 'start': 3548.48, 'duration': 3.76}
+{'text': 'as with twitter and all these other', 'start': 3550.96, 'duration': 2.96}
+{'text': "places i don't think", 'start': 3552.24, 'duration': 3.76}
+{'text': "it's a good thing to ban these", 'start': 3553.92, 'duration': 3.439}
+{'text': "individuals i think it's better", 'start': 3556.0, 'duration': 3.52}
+{'text': 'if you really think that people are', 'start': 3557.359, 'duration': 3.841}
+{'text': 'releasing this kind of information or', 'start': 3559.52, 'duration': 3.039}
+{'text': 'posting these things or', 'start': 3561.2, 'duration': 2.879}
+{'text': 'writing books like this that are that', 'start': 3562.559, 'duration': 3.681}
+{'text': 'are really terrible and and bad faith', 'start': 3564.079, 'duration': 2.641}
+{'text': "and they're", 'start': 3566.24, 'duration': 2.0}
+{'text': 'completely false and they have no', 'start': 3566.72, 'duration': 3.2}
+{'text': "factual basis to them i think it's", 'start': 3568.24, 'duration': 2.64}
+{'text': 'better for them', 'start': 3569.92, 'duration': 3.04}
+{'text': 'to stick their necks out and be out', 'start': 3570.88, 'duration': 4.4}
+{'text': 'there in the public eye where people can', 'start': 3572.96, 'duration': 4.399}
+{'text': 'can cr be critical of these things', 'start': 3575.28, 'duration': 3.839}
+{'text': 'instead of having these people banned', 'start': 3577.359, 'duration': 3.44}
+{'text': "off every platform and then now that's", 'start': 3579.119, 'duration': 2.161}
+{'text': 'kind of', 'start': 3580.799, 'duration': 3.361}
+{'text': 'circulating underground i think um you', 'start': 3581.28, 'duration': 4.72}
+{'text': "know you just shouldn't buy the book you", 'start': 3584.16, 'duration': 3.12}
+{'text': 'know just the same way you should just', 'start': 3586.0, 'duration': 2.4}
+{'text': 'hit the block button', 'start': 3587.28, 'duration': 2.48}
+{'text': "if you don't agree with what somebody's", 'start': 3588.4, 'duration': 3.12}
+{'text': "saying block them if you don't want to", 'start': 3589.76, 'duration': 3.599}
+{'text': "read the book don't read the book", 'start': 3591.52, 'duration': 4.72}
+{'text': 'so and and i understand that i still', 'start': 3593.359, 'duration': 4.0}
+{'text': 'kind of come from that', 'start': 3596.24, 'duration': 3.359}
+{'text': 'that uh like constitutional uh', 'start': 3597.359, 'duration': 3.041}
+{'text': 'perspective', 'start': 3599.599, 'duration': 3.52}
+{'text': "of like it's their right to to decline", 'start': 3600.4, 'duration': 5.04}
+{'text': 'to sell it but at the same time', 'start': 3603.119, 'duration': 3.761}
+{'text': "i think it's better if we we have all", 'start': 3605.44, 'duration': 3.76}
+{'text': 'this information out there', 'start': 3606.88, 'duration': 3.76}
+{'text': 'all right going up to rob for one minute', 'start': 3609.2, 'duration': 3.84}
+{'text': "go ahead okay so there's negative things", 'start': 3610.64, 'duration': 3.84}
+{'text': 'i could say about tiffany but let me say', 'start': 3613.04, 'duration': 3.039}
+{'text': 'a lot of positive things first off', 'start': 3614.48, 'duration': 3.52}
+{'text': "it's hard to have a conversation about", 'start': 3616.079, 'duration': 3.76}
+{'text': 'something so near and dear to your heart', 'start': 3618.0, 'duration': 3.52}
+{'text': "and i don't mind anything you said to me", 'start': 3619.839, 'duration': 3.121}
+{'text': 'i take everything with the laugh on my', 'start': 3621.52, 'duration': 2.24}
+{'text': 'face really', 'start': 3622.96, 'duration': 2.32}
+{'text': 'and all of these panels including this', 'start': 3623.76, 'duration': 3.2}
+{'text': "one so please don't feel that", 'start': 3625.28, 'duration': 3.68}
+{'text': "you coming at me i'm taking it bad at", 'start': 3626.96, 'duration': 3.359}
+{'text': "all i'm actually having a lot of fun", 'start': 3628.96, 'duration': 2.0}
+{'text': 'with it', 'start': 3630.319, 'duration': 2.721}
+{'text': "more so than most times so i'm having a", 'start': 3630.96, 'duration': 3.04}
+{'text': 'good time with it um', 'start': 3633.04, 'duration': 3.44}
+{'text': 'you know i agree i i think that actually', 'start': 3634.0, 'duration': 3.599}
+{'text': 'uh six film made', 'start': 3636.48, 'duration': 2.96}
+{'text': 'the excellent point there that based on', 'start': 3637.599, 'duration': 3.76}
+{'text': 'the definition that uh we hear being', 'start': 3639.44, 'duration': 3.359}
+{'text': 'alleviated here that would mean that', 'start': 3641.359, 'duration': 3.121}
+{'text': 'anyone that has schizophrenia depression', 'start': 3642.799, 'duration': 2.32}
+{'text': 'bipolar', 'start': 3644.48, 'duration': 2.16}
+{'text': "as long as they're still functioning in", 'start': 3645.119, 'duration': 3.2}
+{'text': "society that that wouldn't be an illness", 'start': 3646.64, 'duration': 2.4}
+{'text': "that's just", 'start': 3648.319, 'duration': 2.561}
+{'text': "absurd it's semantical in its appeal to", 'start': 3649.04, 'duration': 3.759}
+{'text': "authority to say well actually it's a", 'start': 3650.88, 'duration': 3.6}
+{'text': 'disorder and not an illness or something', 'start': 3652.799, 'duration': 2.481}
+{'text': 'like that or', 'start': 3654.48, 'duration': 2.639}
+{'text': "because the apa says it's clearly true", 'start': 3655.28, 'duration': 3.36}
+{'text': 'we should interrogate whether or not', 'start': 3657.119, 'duration': 2.801}
+{'text': 'even if experts are saying it that it', 'start': 3658.64, 'duration': 2.479}
+{'text': 'makes logical sense', 'start': 3659.92, 'duration': 2.72}
+{'text': 'the truth is tiffany made the best', 'start': 3661.119, 'duration': 3.361}
+{'text': 'arguments in this round about how your', 'start': 3662.64, 'duration': 3.6}
+{'text': "brain doesn't match up with your body", 'start': 3664.48, 'duration': 3.76}
+{'text': 'uh that proves that by any colloquial', 'start': 3666.24, 'duration': 3.76}
+{'text': "definition that it's an illness or", 'start': 3668.24, 'duration': 2.96}
+{'text': "it's a disorder or something that", 'start': 3670.0, 'duration': 3.119}
+{'text': 'requires intervention and', 'start': 3671.2, 'duration': 3.52}
+{'text': 'the question that no one was able to', 'start': 3673.119, 'duration': 3.601}
+{'text': "answer and isn't able to be answered", 'start': 3674.72, 'duration': 4.24}
+{'text': 'in the realm of actual politics about', 'start': 3676.72, 'duration': 4.079}
+{'text': "this is does this mean if it's not an", 'start': 3678.96, 'duration': 3.2}
+{'text': 'illness that we should stop requiring', 'start': 3680.799, 'duration': 2.56}
+{'text': 'insurance companies to pay for', 'start': 3682.16, 'duration': 2.72}
+{'text': 'treatments should the federal government', 'start': 3683.359, 'duration': 3.281}
+{'text': 'no longer have to require treatments', 'start': 3684.88, 'duration': 4.16}
+{'text': 'for people that are in the military or', 'start': 3686.64, 'duration': 4.719}
+{'text': 'agencies', 'start': 3689.04, 'duration': 4.0}
+{'text': 'all right destiny down to you sir one', 'start': 3691.359, 'duration': 3.2}
+{'text': "minute go ahead yeah i don't think that", 'start': 3693.04, 'duration': 2.96}
+{'text': 'you should be not selling books on your', 'start': 3694.559, 'duration': 2.481}
+{'text': 'platform because you might disagree with', 'start': 3696.0, 'duration': 2.0}
+{'text': "some of the ideas on them that's really", 'start': 3697.04, 'duration': 1.92}
+{'text': 'weird as a bookseller', 'start': 3698.0, 'duration': 2.96}
+{'text': 'um anybody that is doing a formal', 'start': 3698.96, 'duration': 3.599}
+{'text': 'education related to psychology should', 'start': 3700.96, 'duration': 3.76}
+{'text': 'know what the dsm says and the dsm very', 'start': 3702.559, 'duration': 2.721}
+{'text': 'clearly', 'start': 3704.72, 'duration': 3.04}
+{'text': 'between four and five um changed the', 'start': 3705.28, 'duration': 4.0}
+{'text': 'gender identity disorder to', 'start': 3707.76, 'duration': 3.039}
+{'text': 'being replaced with gender dysphoria', 'start': 3709.28, 'duration': 3.44}
+{'text': 'gender dysphoria does require according', 'start': 3710.799, 'duration': 2.8}
+{'text': 'to the dsm', 'start': 3712.72, 'duration': 2.639}
+{'text': 'some severe mental distress that', 'start': 3713.599, 'duration': 3.121}
+{'text': 'persists for at least six months that', 'start': 3715.359, 'duration': 2.641}
+{'text': 'affects you either socially', 'start': 3716.72, 'duration': 2.56}
+{'text': 'occupationally or', 'start': 3718.0, 'duration': 4.0}
+{'text': "your relationships um yeah that's all i", 'start': 3719.28, 'duration': 4.72}
+{'text': 'got', 'start': 3722.0, 'duration': 3.119}
+{'text': "all right so i'm gonna go ahead and end", 'start': 3724.0, 'duration': 3.44}
+{'text': "this one with my own i didn't do it last", 'start': 3725.119, 'duration': 3.601}
+{'text': "i'm gonna put it this way uh", 'start': 3727.44, 'duration': 2.48}
+{'text': 'i have to agree with a lot of panelists', 'start': 3728.72, 'duration': 2.8}
+{'text': 'on this one saying that as a private', 'start': 3729.92, 'duration': 3.119}
+{'text': 'company they reserve the right what they', 'start': 3731.52, 'duration': 2.319}
+{'text': 'choose to', 'start': 3733.039, 'duration': 2.881}
+{'text': "or to not sell i don't think the", 'start': 3733.839, 'duration': 3.041}
+{'text': 'government should come in and say that', 'start': 3735.92, 'duration': 2.24}
+{'text': 'you should be required to do this', 'start': 3736.88, 'duration': 2.56}
+{'text': "ultimately it's up to amazon", 'start': 3738.16, 'duration': 3.199}
+{'text': 'in regards to transgender issues in', 'start': 3739.44, 'duration': 3.28}
+{'text': 'regards to trans rights', 'start': 3741.359, 'duration': 3.601}
+{'text': "look i think you're right to go beyond", 'start': 3742.72, 'duration': 3.599}
+{'text': 'that into human rights', 'start': 3744.96, 'duration': 3.2}
+{'text': "uh the way i see it is don't care who", 'start': 3746.319, 'duration': 3.04}
+{'text': "you love don't care what you do to your", 'start': 3748.16, 'duration': 2.72}
+{'text': "own body it's your body it's your choice", 'start': 3749.359, 'duration': 2.641}
+{'text': 'i completely 100', 'start': 3750.88, 'duration': 2.88}
+{'text': "support that i just don't want to pay", 'start': 3752.0, 'duration': 3.599}
+{'text': "for it i think it's a live and let live", 'start': 3753.76, 'duration': 3.52}
+{'text': "that's the libertarian policy of uh", 'start': 3755.599, 'duration': 2.321}
+{'text': 'essentially', 'start': 3757.28, 'duration': 2.16}
+{'text': 'you do what you want i do what i want', 'start': 3757.92, 'duration': 2.56}
+{'text': 'you should have access to the same', 'start': 3759.44, 'duration': 2.0}
+{'text': 'things that i do', 'start': 3760.48, 'duration': 2.079}
+{'text': 'there should be no discrimination', 'start': 3761.44, 'duration': 3.599}
+{'text': 'regarding your sex love of another human', 'start': 3762.559, 'duration': 2.881}
+{'text': 'being', 'start': 3765.039, 'duration': 1.921}
+{'text': "race religion doesn't matter you are", 'start': 3765.44, 'duration': 3.119}
+{'text': 'free to do as you wish in your country', 'start': 3766.96, 'duration': 2.72}
+{'text': "as long as you don't infringe on the", 'start': 3768.559, 'duration': 2.081}
+{'text': 'rights of other people', 'start': 3769.68, 'duration': 2.48}
+{'text': "and like i said i just don't want to pay", 'start': 3770.64, 'duration': 3.04}
+{'text': "for it that's all i have to say about", 'start': 3772.16, 'duration': 2.639}
+{'text': "that panelists we're going to go ahead", 'start': 3773.68, 'duration': 2.24}
+{'text': "and take a five minute break it's", 'start': 3774.799, 'duration': 3.28}
+{'text': 'currently 9 10 please be back at 9 15', 'start': 3775.92, 'duration': 3.36}
+{'text': 'refill use restroom', 'start': 3778.079, 'duration': 3.76}
+{'text': "i'm going to address the chat real quick", 'start': 3779.28, 'duration': 4.64}
+{'text': 'yes sir', 'start': 3781.839, 'duration': 4.641}
+{'text': 'hey um turn to ash got disconnected', 'start': 3783.92, 'duration': 3.199}
+{'text': 'again', 'start': 3786.48, 'duration': 2.319}
+{'text': "oh hold on i'll bring it back in thank", 'start': 3787.119, 'duration': 3.2}
+{'text': 'you see', 'start': 3788.799, 'duration': 2.961}
+{'text': "six films is i'll be right back one", 'start': 3790.319, 'duration': 3.52}
+{'text': "essential panelist that's uh", 'start': 3791.76, 'duration': 4.24}
+{'text': "isn't the second time turned to ash at", 'start': 3793.839, 'duration': 4.321}
+{'text': 'this issue are you okay turn', 'start': 3796.0, 'duration': 4.72}
+{'text': 'like is it your internet connection or', 'start': 3798.16, 'duration': 3.76}
+{'text': 'he has an illness listen', 'start': 3800.72, 'duration': 4.24}
+{'text': "i'm gonna i'm gonna use the restroom uh", 'start': 3801.92, 'duration': 5.199}
+{'text': "i disagree with john but the topic's", 'start': 3804.96, 'duration': 4.0}
+{'text': "over and i'll talk to him another time", 'start': 3807.119, 'duration': 3.281}
+{'text': "i'm having fun", 'start': 3808.96, 'duration': 4.48}
+{'text': "i'm gonna go urinate and then uh", 'start': 3810.4, 'duration': 5.679}
+{'text': 'i get another drink and i assume you', 'start': 3813.44, 'duration': 4.32}
+{'text': 'should all do the same', 'start': 3816.079, 'duration': 3.28}
+{'text': "and if you don't urinate then you're a", 'start': 3817.76, 'duration': 4.0}
+{'text': '[\xa0__\xa0] camel and i', 'start': 3819.359, 'duration': 4.641}
+{'text': "have alcohol all right we're on break", 'start': 3821.76, 'duration': 3.52}
+{'text': "rob what's the question you said people", 'start': 3824.0, 'duration': 2.0}
+{'text': "won't answer", 'start': 3825.28, 'duration': 2.4}
+{'text': 'right what do you keep saying people', 'start': 3826.0, 'duration': 3.92}
+{'text': "yeah yeah it's the question", 'start': 3827.68, 'duration': 3.76}
+{'text': "does that mean if it's not an illness", 'start': 3829.92, 'duration': 3.199}
+{'text': 'that we should not require insurance', 'start': 3831.44, 'duration': 3.119}
+{'text': 'companies and government agents to pay', 'start': 3833.119, 'duration': 2.641}
+{'text': 'price treatments correct', 'start': 3834.559, 'duration': 3.52}
+{'text': 'you should only require insurance should', 'start': 3835.76, 'duration': 3.599}
+{'text': "all that doesn't require wait", 'start': 3838.079, 'duration': 3.04}
+{'text': 'careful hold on insurance should only be', 'start': 3839.359, 'duration': 2.96}
+{'text': 'required to cover the treatment of', 'start': 3841.119, 'duration': 2.24}
+{'text': 'gender dysphoria', 'start': 3842.319, 'duration': 2.8}
+{'text': 'not of just being addressed yeah he just', 'start': 3843.359, 'duration': 4.401}
+{'text': 'he did say dysphoria was on the list not', 'start': 3845.119, 'duration': 3.601}
+{'text': 'just', 'start': 3847.76, 'duration': 2.48}
+{'text': 'okay so do you think that that could be', 'start': 3848.72, 'duration': 3.04}
+{'text': 'easily exploited than a trans person', 'start': 3850.24, 'duration': 2.72}
+{'text': "that wasn't experiencing gender", 'start': 3851.76, 'duration': 1.52}
+{'text': 'negativity', 'start': 3852.96, 'duration': 1.44}
+{'text': 'no if you think that that could be', 'start': 3853.28, 'duration': 2.48}
+{'text': 'easily exploited then literally wait', 'start': 3854.4, 'duration': 2.959}
+{'text': 'then literally every single', 'start': 3855.76, 'duration': 2.96}
+{'text': 'psychiatric illness could quote unquote', 'start': 3857.359, 'duration': 3.921}
+{'text': "be meant to dis uh that's not true", 'start': 3858.72, 'duration': 3.119}
+{'text': "because there's", 'start': 3861.28, 'duration': 2.96}
+{'text': "no no no no no no real quick it's hard", 'start': 3861.839, 'duration': 3.28}
+{'text': 'to respond', 'start': 3864.24, 'duration': 2.799}
+{'text': "i'm the only trans person here let me", 'start': 3865.119, 'duration': 3.841}
+{'text': 'defend it', 'start': 3867.039, 'duration': 3.921}
+{'text': "there's a lot of people yeah i know you", 'start': 3868.96, 'duration': 3.28}
+{'text': "don't care because you're [\xa0__\xa0] dumb", 'start': 3870.96, 'duration': 2.96}
+{'text': "but no no because i don't believe in", 'start': 3872.24, 'duration': 3.28}
+{'text': 'this victimhood mindset that your', 'start': 3873.92, 'duration': 3.84}
+{'text': 'identity means what you can talk about', 'start': 3875.52, 'duration': 3.76}
+{'text': 'trans people have a lot of hoops to', 'start': 3877.76, 'duration': 2.799}
+{'text': "[\xa0__\xa0] hop through you can't just be", 'start': 3879.28, 'duration': 1.839}
+{'text': 'like okay', 'start': 3880.559, 'duration': 2.961}
+{'text': 'oh let me hop on hormones oh let me uh', 'start': 3881.119, 'duration': 4.24}
+{'text': "get the sex change it's it doesn't work", 'start': 3883.52, 'duration': 2.319}
+{'text': 'like that', 'start': 3885.359, 'duration': 1.921}
+{'text': 'yeah excuse me when i said a lot of', 'start': 3885.839, 'duration': 3.76}
+{'text': 'times and you totally ignored it', 'start': 3887.28, 'duration': 3.44}
+{'text': "because you don't give a [\xa0__\xa0] about", 'start': 3889.599, 'duration': 3.281}
+{'text': "trans people and i don't know why maybe", 'start': 3890.72, 'duration': 4.96}
+{'text': "you've had like two section hypotenuse", 'start': 3892.88, 'duration': 4.159}
+{'text': "since you're responding did you have", 'start': 3895.68, 'duration': 3.52}
+{'text': 'gender dysphoria', 'start': 3897.039, 'duration': 5.601}
+{'text': "uh i mean i'm like specifically like did", 'start': 3899.2, 'duration': 4.0}
+{'text': 'i feel like', 'start': 3902.64, 'duration': 3.439}
+{'text': "it wasn't i mean did you think it was an", 'start': 3903.2, 'duration': 4.56}
+{'text': 'illness what you experience with an', 'start': 3906.079, 'duration': 3.201}
+{'text': 'immune system agenda dysphoria', 'start': 3907.76, 'duration': 3.839}
+{'text': 'no no no no dysphoria is an illness', 'start': 3909.28, 'duration': 3.759}
+{'text': 'whether it be gender or body', 'start': 3911.599, 'duration': 3.681}
+{'text': 'correct destiny body is body dysmorphia', 'start': 3913.039, 'duration': 3.681}
+{'text': "technically not dysphoria i don't know", 'start': 3915.28, 'duration': 8.559}
+{'text': 'if body dysmorphia is', 'start': 3916.72, 'duration': 7.119}
+{'text': 'wait listen i only have a finite time to', 'start': 3924.24, 'duration': 4.0}
+{'text': 'pee and i really have to pee', 'start': 3926.64, 'duration': 4.64}
+{'text': "so that's very goopy that's fair", 'start': 3928.24, 'duration': 5.359}
+{'text': "i i think you're uh you're fine if you", 'start': 3931.28, 'duration': 3.68}
+{'text': 'want to like dm me', 'start': 3933.599, 'duration': 3.041}
+{'text': 'or follow me on i would love to talk to', 'start': 3934.96, 'duration': 4.0}
+{'text': "people i would love to i mean i'm i'm i", 'start': 3936.64, 'duration': 4.32}
+{'text': "talk to redneck so i'll talk to you too", 'start': 3938.96, 'duration': 3.359}
+{'text': 'so let me let me be clear', 'start': 3940.96, 'duration': 3.28}
+{'text': 'go ahead go pee yeah i have to yeah i', 'start': 3942.319, 'duration': 3.681}
+{'text': "really have to pee like rob i'm not even", 'start': 3944.24, 'duration': 2.319}
+{'text': 'joking', 'start': 3946.0, 'duration': 2.48}
+{'text': "uh and i don't want to tell everyone", 'start': 3946.559, 'duration': 3.441}
+{'text': "that i totally there's gonna be a urine", 'start': 3948.48, 'duration': 2.24}
+{'text': 'coming out of my', 'start': 3950.0, 'duration': 3.599}
+{'text': 'like generals okay wait so okay so rob', 'start': 3950.72, 'duration': 3.44}
+{'text': 'so rob', 'start': 3953.599, 'duration': 2.081}
+{'text': 'so rob you should be able to treat it', 'start': 3954.16, 'duration': 2.879}
+{'text': 'your insurance should cover you if you', 'start': 3955.68, 'duration': 2.48}
+{'text': 'have gender dysphoria', 'start': 3957.039, 'duration': 3.28}
+{'text': "but if you're just a trans person then", 'start': 3958.16, 'duration': 3.439}
+{'text': "no you're insured unless you've got like", 'start': 3960.319, 'duration': 2.561}
+{'text': 'elective insurance okay', 'start': 3961.599, 'duration': 2.96}
+{'text': 'when you say that other illnesses could', 'start': 3962.88, 'duration': 3.6}
+{'text': "be exploited there's not an expectation", 'start': 3964.559, 'duration': 2.961}
+{'text': 'the difference is this', 'start': 3966.48, 'duration': 2.319}
+{'text': "that even if you don't have gender", 'start': 3967.52, 'duration': 3.039}
+{'text': "dysphoria if you're trans you still say", 'start': 3968.799, 'duration': 3.361}
+{'text': "it's beneficial of you to receive these", 'start': 3970.559, 'duration': 2.56}
+{'text': 'treatments correct', 'start': 3972.16, 'duration': 2.32}
+{'text': "sure but that's true of a whole bunch of", 'start': 3973.119, 'duration': 2.321}
+{'text': 'different things where you might not', 'start': 3974.48, 'duration': 2.359}
+{'text': 'have a particular illness maybe blood', 'start': 3975.44, 'duration': 2.72}
+{'text': 'thinners', 'start': 3976.839, 'duration': 3.321}
+{'text': 'depend on the person i had someone so', 'start': 3978.16, 'duration': 3.439}
+{'text': 'someone in chat asked me they were like', 'start': 3980.16, 'duration': 2.56}
+{'text': 'so should my', 'start': 3981.599, 'duration': 2.641}
+{'text': 'should i be able to get botox too', 'start': 3982.72, 'duration': 3.68}
+{'text': "because there's there's studies that", 'start': 3984.24, 'duration': 4.48}
+{'text': 'prove that your your physical looks can', 'start': 3986.4, 'duration': 3.919}
+{'text': 'improve depression etc', 'start': 3988.72, 'duration': 4.319}
+{'text': "wait well let's yeah", 'start': 3990.319, 'duration': 2.72}
+{'text': 'this is par for the course okay so for', 'start': 3994.96, 'duration': 4.159}
+{'text': 'instance if a woman has uh breast cancer', 'start': 3996.559, 'duration': 3.76}
+{'text': "she's sometimes after getting a", 'start': 3999.119, 'duration': 2.561}
+{'text': 'mastectomy will get like breast', 'start': 4000.319, 'duration': 2.321}
+{'text': 'reconstruction surgery which is', 'start': 4001.68, 'duration': 2.24}
+{'text': 'essentially a boob job', 'start': 4002.64, 'duration': 2.88}
+{'text': 'right a woman can get that as well sure', 'start': 4003.92, 'duration': 3.04}
+{'text': 'what people have facial reconstruction', 'start': 4005.52, 'duration': 2.799}
+{'text': 'surgery for whatever yeah of course it', 'start': 4006.96, 'duration': 2.399}
+{'text': 'just depends', 'start': 4008.319, 'duration': 3.361}
+{'text': "um but that's different that's elected", 'start': 4009.359, 'duration': 4.0}
+{'text': 'no no no no no what i just said i do', 'start': 4011.68, 'duration': 3.04}
+{'text': "i don't the reconstruction of your", 'start': 4013.359, 'duration': 2.881}
+{'text': 'breast or whatever or reconstruction of', 'start': 4014.72, 'duration': 2.56}
+{'text': "your face or whatever i don't think it's", 'start': 4016.24, 'duration': 3.28}
+{'text': 'considered elective surgeries', 'start': 4017.28, 'duration': 5.12}
+{'text': "i mean i don't i will admit that i don't", 'start': 4019.52, 'duration': 3.36}
+{'text': "i don't know", 'start': 4022.4, 'duration': 2.399}
+{'text': "how that's called i can tell you this is", 'start': 4022.88, 'duration': 3.28}
+{'text': 'someone who works people', 'start': 4024.799, 'duration': 3.28}
+{'text': 'with developmental disabilities these', 'start': 4026.16, 'duration': 4.0}
+{'text': "pricks won't even pay for crowns on", 'start': 4028.079, 'duration': 3.601}
+{'text': 'their teeth because they consider that', 'start': 4030.16, 'duration': 2.159}
+{'text': 'elective', 'start': 4031.68, 'duration': 2.0}
+{'text': 'instead they say you have to remove the', 'start': 4032.319, 'duration': 3.441}
+{'text': 'teeth because', 'start': 4033.68, 'duration': 3.2}
+{'text': "i don't know how that plays into", 'start': 4035.76, 'duration': 2.24}
+{'text': "anything we're talking about at all but", 'start': 4036.88, 'duration': 3.6}
+{'text': "okay it wouldn't surprise me", 'start': 4038.0, 'duration': 4.4}
+{'text': 'medically my question for you guys', 'start': 4040.48, 'duration': 3.44}
+{'text': 'though is should we be treating the', 'start': 4042.4, 'duration': 3.439}
+{'text': 'disorder specifically or are we just', 'start': 4043.92, 'duration': 2.96}
+{'text': 'letting them have it', 'start': 4045.839, 'duration': 2.321}
+{'text': "trans people aren't considering it's not", 'start': 4046.88, 'duration': 2.88}
+{'text': 'considered a disorder wait you said you', 'start': 4048.16, 'duration': 3.12}
+{'text': 'go to school and they teach that being', 'start': 4049.76, 'duration': 3.279}
+{'text': 'trans is a disorder or illness', 'start': 4051.28, 'duration': 3.92}
+{'text': 'again in a minute yeah we we still get', 'start': 4053.039, 'duration': 3.841}
+{'text': 'we still get taught in psychology though', 'start': 4055.2, 'duration': 3.04}
+{'text': 'is this like a private christian', 'start': 4056.88, 'duration': 3.12}
+{'text': 'university or what do you why are they', 'start': 4058.24, 'duration': 2.96}
+{'text': 'teaching you things that are explicitly', 'start': 4060.0, 'duration': 3.2}
+{'text': 'like not stated', 'start': 4061.2, 'duration': 4.24}
+{'text': 'come on man no most most universities', 'start': 4063.2, 'duration': 3.52}
+{'text': "probably aren't on the new way", 'start': 4065.44, 'duration': 4.0}
+{'text': 'you know double w h university whatever', 'start': 4066.72, 'duration': 3.92}
+{'text': 'if you look at books', 'start': 4069.44, 'duration': 4.879}
+{'text': 'no no no no hold on okay together', 'start': 4070.64, 'duration': 5.52}
+{'text': 'okay wait real quick okay [\xa0__\xa0] the wh i', 'start': 4074.319, 'duration': 3.121}
+{'text': "don't care about the damage okay the apa", 'start': 4076.16, 'duration': 3.12}
+{'text': 'the dsm-5 was published in 2013 and', 'start': 4077.44, 'duration': 3.04}
+{'text': 'changes were made to that before the new', 'start': 4079.28, 'duration': 2.559}
+{'text': "edition was published so i'm really", 'start': 4080.48, 'duration': 2.72}
+{'text': "curious what type of school you're going", 'start': 4081.839, 'duration': 1.681}
+{'text': 'to', 'start': 4083.2, 'duration': 1.44}
+{'text': "where they're teaching things that are", 'start': 4083.52, 'duration': 2.96}
+{'text': 'explicitly not in the dsm or that are', 'start': 4084.64, 'duration': 3.199}
+{'text': 'contraindicated in the dsm', 'start': 4086.48, 'duration': 4.079}
+{'text': "that's incredibly weird me it's more", 'start': 4087.839, 'duration': 5.52}
+{'text': 'than politics', 'start': 4090.559, 'duration': 4.56}
+{'text': 'no no rob you already abdicated your', 'start': 4093.359, 'duration': 2.88}
+{'text': 'position of science you already said you', 'start': 4095.119, 'duration': 2.321}
+{'text': "don't agree with the sign so stop saying", 'start': 4096.239, 'duration': 2.881}
+{'text': 'that okay oh i agree', 'start': 4097.44, 'duration': 2.879}
+{'text': "i didn't agree with political", 'start': 4099.12, 'duration': 3.199}
+{'text': 'organizations that are making political', 'start': 4100.319, 'duration': 2.4}
+{'text': 'points', 'start': 4102.319, 'duration': 2.4}
+{'text': "in rejection of science you don't have", 'start': 4102.719, 'duration': 3.44}
+{'text': 'any scientific body that you can point', 'start': 4104.719, 'duration': 2.56}
+{'text': 'to that agrees with the only one you', 'start': 4106.159, 'duration': 2.481}
+{'text': 'point into a private hospital company', 'start': 4107.279, 'duration': 2.721}
+{'text': 'that just has a blog page that like', 'start': 4108.64, 'duration': 2.48}
+{'text': 'poorly uses some techniques', 'start': 4110.0, 'duration': 3.199}
+{'text': 'i have every single medical organization', 'start': 4111.12, 'duration': 3.679}
+{'text': 'prior to 2013.', 'start': 4113.199, 'duration': 2.96}
+{'text': "okay and i've got medical organizations", 'start': 4114.799, 'duration': 3.201}
+{'text': "prior to 1900 this isn't black people", 'start': 4116.159, 'duration': 3.441}
+{'text': 'big craniums and make them stupid what', 'start': 4118.0, 'duration': 2.88}
+{'text': 'kind of what kind of argument is that', 'start': 4119.6, 'duration': 2.639}
+{'text': 'like', 'start': 4120.88, 'duration': 3.439}
+{'text': 'in 2012 all of these organizations were', 'start': 4122.239, 'duration': 3.681}
+{'text': 'insane bigots no', 'start': 4124.319, 'duration': 2.88}
+{'text': "no it's not about being bigoted my", 'start': 4125.92, 'duration': 2.56}
+{'text': 'argument is scientific hold on wait', 'start': 4127.199, 'duration': 2.08}
+{'text': "we're still paying", 'start': 4128.48, 'duration': 3.279}
+{'text': 'john john john listen to me john', 'start': 4129.279, 'duration': 3.761}
+{'text': "tiffany's in the bathroom if you start", 'start': 4131.759, 'duration': 2.321}
+{'text': 'the show right now you are being', 'start': 4133.04, 'duration': 2.319}
+{'text': 'transphobic you gotta take five more', 'start': 4134.08, 'duration': 2.079}
+{'text': 'minutes okay', 'start': 4135.359, 'duration': 4.0}
+{'text': 'oh god oh my god all right so real quick', 'start': 4136.159, 'duration': 4.321}
+{'text': "no we're not gonna i am gonna wait for", 'start': 4139.359, 'duration': 2.161}
+{'text': "tiffany i'm gonna wait for tiffany i", 'start': 4140.48, 'duration': 1.759}
+{'text': 'wanna know panda', 'start': 4141.52, 'duration': 2.239}
+{'text': "so let's just calm it down hold on no no", 'start': 4142.239, 'duration': 3.6}
+{'text': 'no no no no no hold on destiny youtube', 'start': 4143.759, 'duration': 3.92}
+{'text': 'part i love having you two on the panel', 'start': 4145.839, 'duration': 3.36}
+{'text': 'you have a great discussion', 'start': 4147.679, 'duration': 2.801}
+{'text': "let's calm it down a little bit let's", 'start': 4149.199, 'duration': 3.361}
+{'text': "calm it down okay let's let's calm it", 'start': 4150.48, 'duration': 2.56}
+{'text': 'down', 'start': 4152.56, 'duration': 1.679}
+{'text': 'remember to hit that like and subscribe', 'start': 4153.04, 'duration': 2.719}
+{'text': "and don't forget the notification bell", 'start': 4154.239, 'duration': 2.48}
+{'text': 'so that my videos', 'start': 4155.759, 'duration': 3.681}
+{'text': 'show up right in your feed all i want to', 'start': 4156.719, 'duration': 4.56}
+{'text': 'do is just', 'start': 4159.44, 'duration': 3.6}
+{'text': 'watch my favorite stream of destiny and', 'start': 4161.279, 'duration': 3.04}
+{'text': 'post um', 'start': 4163.04, 'duration': 4.08}
+{'text': 'in chat and you know talk about dj memes', 'start': 4164.319, 'duration': 3.281}
+{'text': 'and say', 'start': 4167.12, 'duration': 4.4}
+{'text': 'team tv okay stop', 'start': 4167.6, 'duration': 3.92}

@@ -1,0 +1,2172 @@
+{'text': "there are rules of conversation if i'm", 'start': 0.16, 'duration': 5.04}
+{'text': 'asking you a question about a particular', 'start': 3.12, 'duration': 2.8}
+{'text': 'person', 'start': 5.2, 'duration': 2.8}
+{'text': 'and you are answering in certain ways', 'start': 5.92, 'duration': 3.84}
+{'text': 'this is a senior detective and she looks', 'start': 8.0, 'duration': 3.12}
+{'text': "like she's standing in front of a moving", 'start': 9.76, 'duration': 3.6}
+{'text': 'train like look at how afraid she is', 'start': 11.12, 'duration': 6.8}
+{'text': 'what is happening', 'start': 13.36, 'duration': 4.56}
+{'text': 'i disagree i think that a lot of the', 'start': 18.56, 'duration': 2.96}
+{'text': "times when you're trying to evaluate if", 'start': 20.32, 'duration': 2.719}
+{'text': "somebody doesn't know something or is", 'start': 21.52, 'duration': 1.919}
+{'text': 'being', 'start': 23.039, 'duration': 1.921}
+{'text': 'not truthful the most immediate thing', 'start': 23.439, 'duration': 2.401}
+{'text': 'you look at is well what do they say', 'start': 24.96, 'duration': 1.68}
+{'text': 'what do they lie about', 'start': 25.84, 'duration': 2.96}
+{'text': 'oftentimes if you take like one step', 'start': 26.64, 'duration': 3.84}
+{'text': 'back and you instead try to think of', 'start': 28.8, 'duration': 2.96}
+{'text': "what didn't they say", 'start': 30.48, 'duration': 4.96}
+{'text': 'or 29 year old nurse', 'start': 31.76, 'duration': 5.84}
+{'text': 'sherry rasmussen was found by her', 'start': 35.44, 'duration': 3.92}
+{'text': 'husband lying dead on the living room', 'start': 37.6, 'duration': 2.24}
+{'text': 'floor', 'start': 39.36, 'duration': 2.08}
+{'text': 'her face was severely beaten and', 'start': 39.84, 'duration': 3.039}
+{'text': 'disfigured to the point that she was', 'start': 41.44, 'duration': 2.56}
+{'text': 'unrecognizable', 'start': 42.879, 'duration': 3.2}
+{'text': "most of sherry's injuries were inflicted", 'start': 44.0, 'duration': 4.239}
+{'text': 'upon her after she was killed which was', 'start': 46.079, 'duration': 3.601}
+{'text': 'concluded due to the lack of', 'start': 48.239, 'duration': 3.041}
+{'text': 'hemorrhaging and inflammation of the', 'start': 49.68, 'duration': 2.24}
+{'text': 'injuries', 'start': 51.28, 'duration': 2.4}
+{'text': "this included most of the victim's", 'start': 51.92, 'duration': 4.0}
+{'text': 'facial injuries and even a bite mark on', 'start': 53.68, 'duration': 4.719}
+{'text': 'her left forearm the homicide detectives', 'start': 55.92, 'duration': 3.68}
+{'text': 'assigned to the case', 'start': 58.399, 'duration': 3.201}
+{'text': "immediately associated sherry's murder", 'start': 59.6, 'duration': 3.52}
+{'text': 'with multiple break-ins that had', 'start': 61.6, 'duration': 3.519}
+{'text': 'occurred that same night on the same', 'start': 63.12, 'duration': 2.48}
+{'text': 'street', 'start': 65.119, 'duration': 2.401}
+{'text': 'another woman had even been assaulted', 'start': 65.6, 'duration': 3.6}
+{'text': 'and was able to give a description of', 'start': 67.52, 'duration': 2.639}
+{'text': 'two assailants', 'start': 69.2, 'duration': 2.88}
+{'text': 'and this description became the sole', 'start': 70.159, 'duration': 3.921}
+{'text': "focus of the investigation into sherry's", 'start': 72.08, 'duration': 3.92}
+{'text': 'murder the prime suspects were now', 'start': 74.08, 'duration': 4.16}
+{'text': 'two middle-aged latino males of medium', 'start': 76.0, 'duration': 3.28}
+{'text': 'height and build', 'start': 78.24, 'duration': 3.28}
+{'text': 'they were never found and the case went', 'start': 79.28, 'duration': 4.4}
+{'text': 'unsolved for 23 years', 'start': 81.52, 'duration': 4.88}
+{'text': 'by 2009 crime in los angeles had', 'start': 83.68, 'duration': 4.72}
+{'text': 'declined enough from its earlier levels', 'start': 86.4, 'duration': 4.0}
+{'text': 'that detectives began looking into cold', 'start': 88.4, 'duration': 4.0}
+{'text': 'cases to increase their clearance rates', 'start': 90.4, 'duration': 3.679}
+{'text': 'which is when the erasmus and files', 'start': 92.4, 'duration': 2.399}
+{'text': 'resurfaced', 'start': 94.079, 'duration': 2.481}
+{'text': 'new methods of genetic analysis', 'start': 94.799, 'duration': 3.521}
+{'text': 'discovered that the dna found at the', 'start': 96.56, 'duration': 3.44}
+{'text': 'crime scene pointed to a single', 'start': 98.32, 'duration': 3.68}
+{'text': 'female suspect it was soon discovered', 'start': 100.0, 'duration': 3.759}
+{'text': "that a statement given by sherry's", 'start': 102.0, 'duration': 3.36}
+{'text': 'father of whom he thought to be the', 'start': 103.759, 'duration': 3.761}
+{'text': 'prime suspect was quickly brushed to one', 'start': 105.36, 'duration': 2.56}
+{'text': 'side', 'start': 107.52, 'duration': 2.4}
+{'text': 'as the person in question was a serving', 'start': 107.92, 'duration': 4.479}
+{'text': 'lapd cop from the exact department who', 'start': 109.92, 'duration': 4.559}
+{'text': 'were investigating the case the person', 'start': 112.399, 'duration': 3.921}
+{'text': 'in question was a woman by the name of', 'start': 114.479, 'duration': 3.121}
+{'text': 'stephanie lazarus', 'start': 116.32, 'duration': 3.6}
+{'text': 'she was a 25 year old police officer at', 'start': 117.6, 'duration': 4.24}
+{'text': 'the time who had been with the force for', 'start': 119.92, 'duration': 2.72}
+{'text': 'two years', 'start': 121.84, 'duration': 3.04}
+{'text': "she had dated sherry's husband john", 'start': 122.64, 'duration': 4.4}
+{'text': 'rutten in an on and off relationship', 'start': 124.88, 'duration': 3.999}
+{'text': 'throughout college and for a short time', 'start': 127.04, 'duration': 3.68}
+{'text': 'after it was even discovered that jon', 'start': 128.879, 'duration': 4.0}
+{'text': 'had slept with lazarus after he became', 'start': 130.72, 'duration': 4.239}
+{'text': 'engaged and the two even dated for a', 'start': 132.879, 'duration': 4.161}
+{'text': "while after sherry's murder she was now", 'start': 134.959, 'duration': 4.721}
+{'text': 'a 25-year veteran of the police force', 'start': 137.04, 'duration': 4.24}
+{'text': 'and had worked her way up to a senior', 'start': 139.68, 'duration': 3.279}
+{'text': 'detective of the commercial crimes', 'start': 141.28, 'duration': 4.0}
+{'text': 'division within 24 hours of becoming the', 'start': 142.959, 'duration': 3.28}
+{'text': 'prime suspect', 'start': 145.28, 'duration': 2.88}
+{'text': 'a coffee cup she discarded while off', 'start': 146.239, 'duration': 3.761}
+{'text': 'duty was received by police', 'start': 148.16, 'duration': 4.4}
+{'text': 'a dna sample was then taken and it came', 'start': 150.0, 'duration': 4.959}
+{'text': 'up as an exact match to the dna found on', 'start': 152.56, 'duration': 3.44}
+{'text': "sherry rasmussen's", 'start': 154.959, 'duration': 3.441}
+{'text': 'bite mark wait can somebody walk me', 'start': 156.0, 'duration': 3.04}
+{'text': 'through that', 'start': 158.4, 'duration': 3.199}
+{'text': "how can you you can't actually just get", 'start': 159.04, 'duration': 4.0}
+{'text': "random people's dna", 'start': 161.599, 'duration': 4.161}
+{'text': 'without like some kind of cause can you', 'start': 163.04, 'duration': 4.8}
+{'text': 'is this legal', 'start': 165.76, 'duration': 3.68}
+{'text': 'the following interrogation is a', 'start': 167.84, 'duration': 3.44}
+{'text': 'legitimate testimony into how', 'start': 169.44, 'duration': 3.76}
+{'text': 'watching an interrogation is a world', 'start': 171.28, 'duration': 3.84}
+{'text': 'apart from being subjected to one', 'start': 173.2, 'duration': 3.759}
+{'text': 'you can know every technique in the book', 'start': 175.12, 'duration': 3.92}
+{'text': 'and each specific strategy and subtle', 'start': 176.959, 'duration': 3.92}
+{'text': 'scenario that goes along with it but', 'start': 179.04, 'duration': 2.559}
+{'text': 'ultimately', 'start': 180.879, 'duration': 2.321}
+{'text': "you have no idea how you're going to", 'start': 181.599, 'duration': 3.761}
+{'text': 'react to a specific situation until', 'start': 183.2, 'duration': 3.44}
+{'text': "you're actually in it", 'start': 185.36, 'duration': 4.0}
+{'text': 'this is very very very very very true of', 'start': 186.64, 'duration': 3.2}
+{'text': 'almost', 'start': 189.36, 'duration': 2.799}
+{'text': 'every or in my opinion at least of', 'start': 189.84, 'duration': 4.319}
+{'text': 'almost every psychological phenomenon', 'start': 192.159, 'duration': 3.36}
+{'text': 'just because you understand how', 'start': 194.159, 'duration': 1.761}
+{'text': 'something', 'start': 195.519, 'duration': 2.401}
+{'text': "impacts somebody doesn't mean that you", 'start': 195.92, 'duration': 3.2}
+{'text': 'are resistant to it', 'start': 197.92, 'duration': 4.16}
+{'text': "you something that people aren't aware", 'start': 199.12, 'duration': 3.44}
+{'text': 'of', 'start': 202.08, 'duration': 3.2}
+{'text': "is there's a difference between like", 'start': 202.56, 'duration': 4.959}
+{'text': 'having an idea about something and', 'start': 205.28, 'duration': 4.239}
+{'text': 'being deliberate about an idea about', 'start': 207.519, 'duration': 4.321}
+{'text': 'something here is an example so here is', 'start': 209.519, 'duration': 3.601}
+{'text': "like a common trick we've talked about", 'start': 211.84, 'duration': 2.319}
+{'text': "this a million times i've said this", 'start': 213.12, 'duration': 1.679}
+{'text': 'before', 'start': 214.159, 'duration': 2.401}
+{'text': 'um if you ask somebody questions about', 'start': 214.799, 'duration': 3.44}
+{'text': 'themselves it makes that person feel', 'start': 216.56, 'duration': 2.319}
+{'text': 'really good', 'start': 218.239, 'duration': 2.321}
+{'text': 'and it gives that person like a good', 'start': 218.879, 'duration': 2.881}
+{'text': "impression of a conversation they're", 'start': 220.56, 'duration': 1.92}
+{'text': 'having with you', 'start': 221.76, 'duration': 3.28}
+{'text': 'i am very aware of this i know this um', 'start': 222.48, 'duration': 3.44}
+{'text': "you guys should know this because i've", 'start': 225.04, 'duration': 2.08}
+{'text': 'repeated it like 50 million times on the', 'start': 225.92, 'duration': 1.76}
+{'text': 'stream', 'start': 227.12, 'duration': 2.64}
+{'text': 'but when people still do it to me it', 'start': 227.68, 'duration': 3.52}
+{'text': 'still feels good i still like it when', 'start': 229.76, 'duration': 2.72}
+{'text': 'people ask me questions about myself it', 'start': 231.2, 'duration': 2.08}
+{'text': "still makes me feel like i'm having a", 'start': 232.48, 'duration': 1.679}
+{'text': 'good conversation', 'start': 233.28, 'duration': 2.319}
+{'text': "just because i'm aware of this knowledge", 'start': 234.159, 'duration': 3.121}
+{'text': "doesn't somehow make me like impervious", 'start': 235.599, 'duration': 2.801}
+{'text': 'or resistance like oh', 'start': 237.28, 'duration': 2.4}
+{'text': 'well i know what the goal of this is', 'start': 238.4, 'duration': 3.119}
+{'text': "right unless i'm being deliberate about", 'start': 239.68, 'duration': 2.16}
+{'text': 'that', 'start': 241.519, 'duration': 1.601}
+{'text': "unless i'm in a conversation with", 'start': 241.84, 'duration': 2.399}
+{'text': 'somebody that i know is trying to', 'start': 243.12, 'duration': 2.72}
+{'text': 'manipulate me or is trying to leave an', 'start': 244.239, 'duration': 2.241}
+{'text': 'impression', 'start': 245.84, 'duration': 2.08}
+{'text': 'then in a more deliberate manner it', 'start': 246.48, 'duration': 3.039}
+{'text': "might be like okay well i see what's", 'start': 247.92, 'duration': 2.72}
+{'text': "going on here i don't know what you're", 'start': 249.519, 'duration': 1.761}
+{'text': 'trying to do', 'start': 250.64, 'duration': 2.4}
+{'text': 'okay [\xa0__\xa0] you [\xa0__\xa0] i know blah', 'start': 251.28, 'duration': 3.519}
+{'text': "blah blah right um there's", 'start': 253.04, 'duration': 3.84}
+{'text': 'there needs to be a deliberance like you', 'start': 254.799, 'duration': 3.041}
+{'text': 'are actually', 'start': 256.88, 'duration': 3.28}
+{'text': 'trying to achieve or affect a certain', 'start': 257.84, 'duration': 3.919}
+{'text': 'end um in order to', 'start': 260.16, 'duration': 4.0}
+{'text': 'either be resistant towards something or', 'start': 261.759, 'duration': 4.16}
+{'text': 'um to be aware of something and not let', 'start': 264.16, 'duration': 2.479}
+{'text': 'it affect you', 'start': 265.919, 'duration': 3.921}
+{'text': "just knowing about it isn't enough", 'start': 266.639, 'duration': 3.201}
+{'text': 'with that being said knowing these', 'start': 270.16, 'duration': 3.68}
+{'text': 'tactics can still give an individual', 'start': 271.919, 'duration': 5.041}
+{'text': "um hold on it's like how military are", 'start': 273.84, 'duration': 4.56}
+{'text': "prepared for torture right they don't", 'start': 276.96, 'duration': 2.799}
+{'text': 'teach you how to be immune they just', 'start': 278.4, 'duration': 2.48}
+{'text': 'teach you to resist for as long as', 'start': 279.759, 'duration': 1.841}
+{'text': 'possible', 'start': 280.88, 'duration': 2.96}
+{'text': "my understanding i don't know how many", 'start': 281.6, 'duration': 4.24}
+{'text': 'special forces people we have in chat', 'start': 283.84, 'duration': 4.0}
+{'text': 'my understanding is that all of the', 'start': 285.84, 'duration': 3.2}
+{'text': 'ideas behind like well', 'start': 287.84, 'duration': 2.96}
+{'text': 'how you do resist torture like the', 'start': 289.04, 'duration': 3.12}
+{'text': 'information you give and blah blah blah', 'start': 290.8, 'duration': 4.16}
+{'text': 'that all of that is not true i think my', 'start': 292.16, 'duration': 4.24}
+{'text': 'understanding is that in the military if', 'start': 294.96, 'duration': 2.959}
+{'text': "you're captured they just consider all", 'start': 296.4, 'duration': 3.12}
+{'text': 'the information compromised', 'start': 297.919, 'duration': 3.12}
+{'text': "that's that's my understanding they", 'start': 299.52, 'duration': 2.64}
+{'text': "don't expect that like you're going to", 'start': 301.039, 'duration': 2.241}
+{'text': 'be some [\xa0__\xa0]', 'start': 302.16, 'duration': 3.28}
+{'text': 'secret agent like that can resist blah', 'start': 303.28, 'duration': 3.44}
+{'text': 'blah or whatever that like basically', 'start': 305.44, 'duration': 2.24}
+{'text': "once you're captured whatever", 'start': 306.72, 'duration': 2.319}
+{'text': 'information you have is just considered', 'start': 307.68, 'duration': 4.48}
+{'text': 'like compromised and then they', 'start': 309.039, 'duration': 3.121}
+{'text': 'vigil some form of advantage with', 'start': 312.639, 'duration': 4.0}
+{'text': 'regards to awareness the investigators', 'start': 314.4, 'duration': 4.0}
+{'text': 'knew that their initial confrontation', 'start': 316.639, 'duration': 3.84}
+{'text': 'with lazarus could in no way resemble a', 'start': 318.4, 'duration': 3.519}
+{'text': 'traditional interrogation', 'start': 320.479, 'duration': 3.601}
+{'text': 'nor be officially classified as one and', 'start': 321.919, 'duration': 3.761}
+{'text': 'there were two reasons for this', 'start': 324.08, 'duration': 3.36}
+{'text': 'the first was that stephanie would be', 'start': 325.68, 'duration': 3.28}
+{'text': 'wise to the fact that her best', 'start': 327.44, 'duration': 3.52}
+{'text': 'option would be to request legal counsel', 'start': 328.96, 'duration': 3.84}
+{'text': 'right away and end the procedure', 'start': 330.96, 'duration': 3.36}
+{'text': 'immediately the second was that', 'start': 332.8, 'duration': 3.28}
+{'text': 'stephanie was not about to be read her', 'start': 334.32, 'duration': 3.599}
+{'text': 'miranda rights before being asked', 'start': 336.08, 'duration': 3.76}
+{'text': 'questions related to the investigation', 'start': 337.919, 'duration': 3.681}
+{'text': 'a defense team could easily make', 'start': 339.84, 'duration': 4.0}
+{'text': 'anything she divulges inadmissible in', 'start': 341.6, 'duration': 2.64}
+{'text': 'court', 'start': 343.84, 'duration': 2.0}
+{'text': 'yet this was classed as a simple', 'start': 344.24, 'duration': 3.6}
+{'text': 'discussion between two parties and the', 'start': 345.84, 'duration': 3.68}
+{'text': 'footage that was captured on a hidden', 'start': 347.84, 'duration': 3.359}
+{'text': 'camera was able to be submitted as', 'start': 349.52, 'duration': 2.56}
+{'text': 'evidence under', 'start': 351.199, 'duration': 2.72}
+{'text': 'surveillance footage rather than', 'start': 352.08, 'duration': 3.44}
+{'text': 'interrogation footage', 'start': 353.919, 'duration': 3.12}
+{'text': 'um wicked supreme says leadership might', 'start': 355.52, 'duration': 2.799}
+{'text': 'consider the info compromise but they', 'start': 357.039, 'duration': 2.521}
+{'text': 'also trained hold out in', 'start': 358.319, 'duration': 3.841}
+{'text': 'c-e-r-e training destiny my adrenaline', 'start': 359.56, 'duration': 3.72}
+{'text': "is this doesn't correct in fact they", 'start': 362.16, 'duration': 2.24}
+{'text': 'offer waterboarding and training to', 'start': 363.28, 'duration': 2.8}
+{'text': 'prove you will only resist for so long', 'start': 364.4, 'duration': 5.359}
+{'text': 'okay detectives created a ruse', 'start': 366.08, 'duration': 5.76}
+{'text': 'inviting stephanie to come in and advise', 'start': 369.759, 'duration': 4.241}
+{'text': 'them on a case involving stolen art', 'start': 371.84, 'duration': 3.52}
+{'text': 'knowing they were dealing with one of', 'start': 374.0, 'duration': 3.039}
+{'text': 'their own they rehearsed and prepared', 'start': 375.36, 'duration': 3.2}
+{'text': 'for the interview more than anything', 'start': 377.039, 'duration': 3.201}
+{'text': 'they had done before their plan of', 'start': 378.56, 'duration': 3.68}
+{'text': 'attack was to keep the conversation as', 'start': 380.24, 'duration': 4.079}
+{'text': 'casual as possible for as long as', 'start': 382.24, 'duration': 2.64}
+{'text': 'possible', 'start': 384.319, 'duration': 2.401}
+{'text': 'and carefully waited for the key moments', 'start': 384.88, 'duration': 3.759}
+{'text': 'to initiate the confrontation', 'start': 386.72, 'duration': 3.199}
+{'text': "i don't want to talk about this in the", 'start': 388.639, 'duration': 2.721}
+{'text': "squadron because i don't know who people", 'start': 389.919, 'duration': 2.241}
+{'text': 'are listening', 'start': 391.36, 'duration': 2.88}
+{'text': "and if we go to my side everybody's", 'start': 392.16, 'duration': 3.12}
+{'text': 'always wondering what everybody else is', 'start': 394.24, 'duration': 2.239}
+{'text': 'here', 'start': 395.28, 'duration': 3.12}
+{'text': 'the first thing the detectives do is set', 'start': 396.479, 'duration': 3.84}
+{'text': 'up a compatible tone with a suspect', 'start': 398.4, 'duration': 3.44}
+{'text': 'she has just stepped foot inside an', 'start': 400.319, 'duration': 3.44}
+{'text': 'interrogation room and the detectives', 'start': 401.84, 'duration': 3.919}
+{'text': 'negate the negative implications of such', 'start': 403.759, 'duration': 3.361}
+{'text': 'an environment through a friendly', 'start': 405.759, 'duration': 2.241}
+{'text': 'disposition', 'start': 407.12, 'duration': 3.12}
+{'text': 'consultative meetings such as seeking', 'start': 408.0, 'duration': 4.4}
+{'text': 'advice over an art theft can take place', 'start': 410.24, 'duration': 4.079}
+{'text': 'anywhere and the last place detectives', 'start': 412.4, 'duration': 3.519}
+{'text': 'would choose to spend more time', 'start': 414.319, 'duration': 3.521}
+{'text': 'in would be an interrogation room the', 'start': 415.919, 'duration': 3.84}
+{'text': 'reason they give the suspect for meeting', 'start': 417.84, 'duration': 3.6}
+{'text': 'in such an unusual location', 'start': 419.759, 'duration': 4.16}
+{'text': 'is to not spread rumors or innuendo yet', 'start': 421.44, 'duration': 4.0}
+{'text': 'the real reason is that all', 'start': 423.919, 'duration': 3.521}
+{'text': 'firearms have to be checked in before', 'start': 425.44, 'duration': 3.68}
+{'text': 'entering the area and they needed the', 'start': 427.44, 'duration': 3.52}
+{'text': 'suspect to give up her gun without', 'start': 429.12, 'duration': 3.28}
+{'text': 'alerting suspicion', 'start': 430.96, 'duration': 3.519}
+{'text': "but uh like we're talking about being", 'start': 432.4, 'duration': 3.84}
+{'text': "business that we've been assigned a case", 'start': 434.479, 'duration': 2.801}
+{'text': "that we've been looking at", 'start': 436.24, 'duration': 3.04}
+{'text': "okay it's a new case and reviewing the", 'start': 437.28, 'duration': 4.08}
+{'text': "case there's some notes", 'start': 439.28, 'duration': 4.319}
+{'text': 'to see as far as your name being', 'start': 441.36, 'duration': 4.72}
+{'text': 'mentioned oh okay do you know john rutin', 'start': 443.599, 'duration': 4.641}
+{'text': 'try and imagine for one moment that you', 'start': 446.08, 'duration': 4.0}
+{'text': 'savagely murdered a love rival in a', 'start': 448.24, 'duration': 2.88}
+{'text': 'jealous rage', 'start': 450.08, 'duration': 2.88}
+{'text': 'over two decades had passed since the', 'start': 451.12, 'duration': 3.68}
+{'text': "act then all of a sudden you're brought", 'start': 452.96, 'duration': 3.76}
+{'text': 'to an interrogation room and sat', 'start': 454.8, 'duration': 3.6}
+{'text': 'directly opposite two senior', 'start': 456.72, 'duration': 3.44}
+{'text': 'investigators who bring up the name of', 'start': 458.4, 'duration': 3.28}
+{'text': 'the man you committed first-degree', 'start': 460.16, 'duration': 5.599}
+{'text': 'homicide for john', 'start': 461.68, 'duration': 7.359}
+{'text': 'john rutten the investigators already', 'start': 465.759, 'duration': 4.16}
+{'text': 'knew how to say', 'start': 469.039, 'duration': 2.56}
+{'text': "john rutten's name correctly the", 'start': 469.919, 'duration': 3.84}
+{'text': 'mispronunciation was a simple strategy', 'start': 471.599, 'duration': 3.921}
+{'text': 'to see how the suspect would react', 'start': 473.759, 'duration': 3.84}
+{'text': 'setting aside the element of the murder', 'start': 475.52, 'duration': 4.0}
+{'text': 'john rutten was the second longest', 'start': 477.599, 'duration': 2.641}
+{'text': 'relationship', 'start': 479.52, 'duration': 2.799}
+{'text': "in stephanie's life and a psychiatrist", 'start': 480.24, 'duration': 4.16}
+{'text': 'later stated that this pause was four', 'start': 482.319, 'duration': 3.761}
+{'text': 'times as long as it should have been she', 'start': 484.4, 'duration': 3.76}
+{'text': 'was already being deceptive by acting as', 'start': 486.08, 'duration': 3.6}
+{'text': "if she hadn't thought about that name", 'start': 488.16, 'duration': 2.879}
+{'text': 'for so long', 'start': 489.68, 'duration': 3.84}
+{'text': "something this is we're gonna everybody", 'start': 491.039, 'duration': 4.16}
+{'text': "fedora's out", 'start': 493.52, 'duration': 3.6}
+{'text': 'tip tip tippity tip tip everybody get', 'start': 495.199, 'duration': 3.761}
+{'text': 'your fedoras out okay', 'start': 497.12, 'duration': 4.24}
+{'text': 'something that they do really well in', 'start': 498.96, 'duration': 3.12}
+{'text': 'death note', 'start': 501.36, 'duration': 3.04}
+{'text': 'in my opinion the writing in that show', 'start': 502.08, 'duration': 3.04}
+{'text': 'between l', 'start': 504.4, 'duration': 3.199}
+{'text': 'and light shows how two intelligent', 'start': 505.12, 'duration': 3.68}
+{'text': 'people would lie', 'start': 507.599, 'duration': 4.0}
+{'text': 'and not lie to each other and i like the', 'start': 508.8, 'duration': 4.96}
+{'text': 'deliberation that goes on in', 'start': 511.599, 'duration': 4.56}
+{'text': "light's head when he realizes that l is", 'start': 513.76, 'duration': 3.519}
+{'text': 'trying to trap him', 'start': 516.159, 'duration': 2.721}
+{'text': 'but he has to give a certain answer a', 'start': 517.279, 'duration': 3.921}
+{'text': 'certain way because to not do so', 'start': 518.88, 'duration': 5.2}
+{'text': 'would just be so unbelievably stupid', 'start': 521.2, 'duration': 3.68}
+{'text': 'where', 'start': 524.08, 'duration': 2.48}
+{'text': 'um i think there are multiple times in', 'start': 524.88, 'duration': 3.04}
+{'text': 'that show where', 'start': 526.56, 'duration': 3.68}
+{'text': 'l asks him like what do you think about', 'start': 527.92, 'duration': 3.039}
+{'text': 'this here', 'start': 530.24, 'duration': 3.92}
+{'text': 'from um what do you think about um kira', 'start': 530.959, 'duration': 4.241}
+{'text': 'doing this', 'start': 534.16, 'duration': 3.84}
+{'text': "and it's tempting for light to just be a", 'start': 535.2, 'duration': 4.56}
+{'text': '[\xa0__\xa0] and be like uh uh', 'start': 538.0, 'duration': 3.76}
+{'text': "i don't know would you mind submitting", 'start': 539.76, 'duration': 3.519}
+{'text': 'yourself to a test of your deductive', 'start': 541.76, 'duration': 2.56}
+{'text': 'reasoning skills', 'start': 543.279, 'duration': 4.081}
+{'text': 'sure why not sounds like fun', 'start': 544.32, 'duration': 5.44}
+{'text': 'all right then we can begin by taking a', 'start': 547.36, 'duration': 4.96}
+{'text': 'look at these', 'start': 549.76, 'duration': 2.56}
+{'text': 'photographs of three notes written by', 'start': 552.48, 'duration': 3.68}
+{'text': "prison inmates while under kira's", 'start': 554.48, 'duration': 3.52}
+{'text': 'control just prior to their deaths', 'start': 556.16, 'duration': 3.28}
+{'text': 'none of this information has been made', 'start': 558.0, 'duration': 4.24}
+{'text': 'public you can take as long as you want', 'start': 559.44, 'duration': 4.32}
+{'text': 'to look them over please let me know', 'start': 562.24, 'duration': 2.28}
+{'text': 'what you think', 'start': 563.76, 'duration': 2.88}
+{'text': '[Music]', 'start': 564.52, 'duration': 5.48}
+{'text': "very interesting come on this is child's", 'start': 566.64, 'duration': 3.84}
+{'text': 'play', 'start': 570.0, 'duration': 1.92}
+{'text': "there's a print number on the back of", 'start': 570.48, 'duration': 4.16}
+{'text': 'each of these photographs', 'start': 571.92, 'duration': 4.56}
+{'text': 'if i ignored this fact and was still', 'start': 574.64, 'duration': 3.199}
+{'text': 'able to come up with the phrase', 'start': 576.48, 'duration': 4.16}
+{'text': 'l do you know gods of death love apples', 'start': 577.839, 'duration': 4.321}
+{'text': 'what would that mean', 'start': 580.64, 'duration': 3.199}
+{'text': 'clearly if i read it the way kira', 'start': 582.16, 'duration': 3.28}
+{'text': 'intended on my first attempt', 'start': 583.839, 'duration': 3.761}
+{'text': "i'd only look more suspicious but the", 'start': 585.44, 'duration': 3.76}
+{'text': "fact that i'm able to solve this silly", 'start': 587.6, 'duration': 2.4}
+{'text': "code isn't enough", 'start': 589.2, 'duration': 4.24}
+{'text': "on its own to prove that i'm kira", 'start': 590.0, 'duration': 5.12}
+{'text': 'it would be quite amazing to learn that', 'start': 593.44, 'duration': 3.44}
+{'text': 'not only could kira kill others but', 'start': 595.12, 'duration': 4.32}
+{'text': "could also control his victim's actions", 'start': 596.88, 'duration': 4.16}
+{'text': 'i think kiara wrote these and it seems', 'start': 599.44, 'duration': 3.44}
+{'text': "he's encoded a message for you as well", 'start': 601.04, 'duration': 4.56}
+{'text': "almost as if he's mocking you if you", 'start': 602.88, 'duration': 4.48}
+{'text': 'line these notes up side by side and', 'start': 605.6, 'duration': 3.359}
+{'text': 'take a look at the first letter of every', 'start': 607.36, 'duration': 3.28}
+{'text': 'line it reveals a message', 'start': 608.959, 'duration': 6.081}
+{'text': 'rearranging it like this gives you', 'start': 610.64, 'duration': 9.52}
+{'text': 'el do you know gods of death love apples', 'start': 615.04, 'duration': 6.72}
+{'text': 'but there are obvious print numbers on', 'start': 620.16, 'duration': 3.6}
+{'text': 'the back of all these photographs', 'start': 621.76, 'duration': 5.44}
+{'text': 'arrange it in that order we get l', 'start': 623.76, 'duration': 8.24}
+{'text': 'do you know love apples gods of death', 'start': 627.2, 'duration': 6.879}
+{'text': "doesn't sound right and based on that", 'start': 632.0, 'duration': 3.279}
+{'text': "it's hard to believe that kiddo would", 'start': 634.079, 'duration': 3.281}
+{'text': 'have wanted you to read it this way', 'start': 635.279, 'duration': 6.081}
+{'text': "that's incorrect the thing is there were", 'start': 637.36, 'duration': 5.919}
+{'text': 'actually four photographs', 'start': 641.36, 'duration': 5.2}
+{'text': 'when we add this one it reads', 'start': 643.279, 'duration': 6.081}
+{'text': 'el do you know gods of death who love', 'start': 646.56, 'duration': 5.44}
+{'text': 'apples have red hands', 'start': 649.36, 'duration': 5.12}
+{'text': "it's a fake i never made any criminal", 'start': 652.0, 'duration': 4.48}
+{'text': 'write the letter in this fourth picture', 'start': 654.48, 'duration': 5.359}
+{'text': 'is he stupid but seeing as i only had', 'start': 656.48, 'duration': 4.72}
+{'text': 'three photographs to work with my', 'start': 659.839, 'duration': 2.801}
+{'text': 'deduction was perfect', 'start': 661.2, 'duration': 4.24}
+{'text': "no it wasn't the truth is there were", 'start': 662.64, 'duration': 3.6}
+{'text': 'four of them', 'start': 665.44, 'duration': 2.48}
+{'text': "if you'd figured that out it would have", 'start': 666.24, 'duration': 3.36}
+{'text': 'been perfect', 'start': 667.92, 'duration': 3.359}
+{'text': 'even though you knew the message was', 'start': 669.6, 'duration': 3.52}
+{'text': 'incomplete you decided that there were', 'start': 671.279, 'duration': 3.521}
+{'text': 'only three notes', 'start': 673.12, 'duration': 3.12}
+{'text': 'you never even considered that there', 'start': 674.8, 'duration': 3.36}
+{'text': 'might be a fourth what do you make of', 'start': 676.24, 'duration': 3.039}
+{'text': 'that', 'start': 678.16, 'duration': 3.84}
+{'text': 'but he is also intelligent and deductive', 'start': 679.279, 'duration': 3.281}
+{'text': "and he's", 'start': 682.0, 'duration': 2.959}
+{'text': 'going to have to like deduce the correct', 'start': 682.56, 'duration': 3.04}
+{'text': 'answer', 'start': 684.959, 'duration': 2.161}
+{'text': 'and that kind of makes him look guilty', 'start': 685.6, 'duration': 3.12}
+{'text': "but it also doesn't it would make him", 'start': 687.12, 'duration': 2.959}
+{'text': 'look more guilty to get right right', 'start': 688.72, 'duration': 3.28}
+{'text': "so when somebody's like here like do you", 'start': 690.079, 'duration': 3.44}
+{'text': 'remember this guy', 'start': 692.0, 'duration': 3.519}
+{'text': 'that you um what dated or had a', 'start': 693.519, 'duration': 3.041}
+{'text': 'relationship with for like', 'start': 695.519, 'duration': 4.641}
+{'text': 'like um do i remember that guy uh um', 'start': 696.56, 'duration': 6.719}
+{'text': 'oh that oh oh yeah like yeah no [\xa0__\xa0]', 'start': 700.16, 'duration': 3.679}
+{'text': '[\xa0__\xa0]', 'start': 703.279, 'duration': 3.521}
+{'text': "right come on don't be so stupid right", 'start': 703.839, 'duration': 4.481}
+{'text': 'having reason for her prolonged', 'start': 706.8, 'duration': 3.599}
+{'text': 'reflection when in reality the name', 'start': 708.32, 'duration': 4.16}
+{'text': 'john rutten was engraved in her memory', 'start': 710.399, 'duration': 4.0}
+{'text': 'and even when slightly mispronounced it', 'start': 712.48, 'duration': 3.2}
+{'text': 'would have most likely taken', 'start': 714.399, 'duration': 3.201}
+{'text': 'milliseconds for her to realize exactly', 'start': 715.68, 'duration': 4.08}
+{'text': 'who the detectives were referring to', 'start': 717.6, 'duration': 3.44}
+{'text': 'oh yeah i went to school with him you', 'start': 719.76, 'duration': 3.44}
+{'text': 'did yeah how long did you know him', 'start': 721.04, 'duration': 5.28}
+{'text': "gosh i went to school and um let's see", 'start': 723.2, 'duration': 8.4}
+{'text': 'went to ucla 1978 i started and', 'start': 726.32, 'duration': 10.48}
+{'text': 'you know met him at school at the dorms', 'start': 731.6, 'duration': 5.2}
+{'text': 'she says she met him in the dorms yet', 'start': 736.88, 'duration': 4.16}
+{'text': 'left out the fact that they had dated', 'start': 739.44, 'duration': 2.72}
+{'text': 'for four years', 'start': 741.04, 'duration': 3.12}
+{'text': 'and went on numerous holidays together', 'start': 742.16, 'duration': 3.76}
+{'text': "even though she wasn't asked directly", 'start': 744.16, 'duration': 3.6}
+{'text': 'a truthful subject would most often', 'start': 745.92, 'duration': 3.52}
+{'text': 'volunteer this information without', 'start': 747.76, 'duration': 3.36}
+{'text': 'having to be pressed for it', 'start': 749.44, 'duration': 3.92}
+{'text': 'were you guys friends this is okay this', 'start': 751.12, 'duration': 4.159}
+{'text': 'is going to sound real tip tippy okay', 'start': 753.36, 'duration': 5.2}
+{'text': "if i'm talking to somebody and i", 'start': 755.279, 'duration': 5.56}
+{'text': 'there are there are rules of', 'start': 758.56, 'duration': 4.079}
+{'text': 'conversation', 'start': 760.839, 'duration': 3.481}
+{'text': "where uh how do i i don't know how to", 'start': 762.639, 'duration': 3.44}
+{'text': 'phrase this', 'start': 764.32, 'duration': 3.759}
+{'text': "if i'm asking you a question about a", 'start': 766.079, 'duration': 3.2}
+{'text': 'particular person', 'start': 768.079, 'duration': 3.361}
+{'text': 'and you are answering in certain ways', 'start': 769.279, 'duration': 3.521}
+{'text': "it's very obvious that you're trying to", 'start': 771.44, 'duration': 2.24}
+{'text': 'hide something', 'start': 772.8, 'duration': 2.159}
+{'text': "let me i can i don't know how to i don't", 'start': 773.68, 'duration': 3.279}
+{'text': 'know how i could give voice to a rule', 'start': 774.959, 'duration': 2.56}
+{'text': 'about this', 'start': 776.959, 'duration': 1.68}
+{'text': "it's just a thing that you can feel so", 'start': 777.519, 'duration': 2.401}
+{'text': "let's say that i talk to somebody i'll", 'start': 778.639, 'duration': 2.481}
+{'text': "give a similar example so let's say i'm", 'start': 779.92, 'duration': 1.76}
+{'text': 'talking to', 'start': 781.12, 'duration': 3.92}
+{'text': 'um jessica and i say jessica', 'start': 781.68, 'duration': 6.719}
+{'text': 'um you know james right have you guys', 'start': 785.04, 'duration': 5.039}
+{'text': 'ever like talked before or like do you', 'start': 788.399, 'duration': 3.12}
+{'text': 'like were you friends or whatever', 'start': 790.079, 'duration': 5.041}
+{'text': "and jessica's like james um", 'start': 791.519, 'duration': 6.0}
+{'text': 'yeah we used to talk on discord before', 'start': 795.12, 'duration': 4.0}
+{'text': 'but i know that these two people were', 'start': 797.519, 'duration': 2.161}
+{'text': 'like', 'start': 799.12, 'duration': 4.399}
+{'text': "married for five years i'm like", 'start': 799.68, 'duration': 5.36}
+{'text': 'later on you know you can be like why', 'start': 803.519, 'duration': 2.721}
+{'text': "didn't you tell you were married and", 'start': 805.04, 'duration': 2.4}
+{'text': 'they might say something like oh well', 'start': 806.24, 'duration': 2.32}
+{'text': "you didn't ask", 'start': 807.44, 'duration': 3.92}
+{'text': 'but the real truth is is if you if you', 'start': 808.56, 'duration': 4.32}
+{'text': 'were married for five years and somebody', 'start': 811.36, 'duration': 2.479}
+{'text': 'asked about that person you would', 'start': 812.88, 'duration': 2.56}
+{'text': 'immediately volunteer that information', 'start': 813.839, 'duration': 2.721}
+{'text': 'you would just say oh yeah i was married', 'start': 815.44, 'duration': 2.079}
+{'text': 'to that five years', 'start': 816.56, 'duration': 3.04}
+{'text': 'the fact that you are not volunteering', 'start': 817.519, 'duration': 3.361}
+{'text': 'that information', 'start': 819.6, 'duration': 3.2}
+{'text': 'means that there is a deliberate and', 'start': 820.88, 'duration': 3.68}
+{'text': 'specific reason', 'start': 822.8, 'duration': 4.159}
+{'text': "why you're not doing it so are you lying", 'start': 824.56, 'duration': 3.6}
+{'text': "because you're trying to misrepresent", 'start': 826.959, 'duration': 2.641}
+{'text': 'your relationship status with him your', 'start': 828.16, 'duration': 2.56}
+{'text': 'availability to me', 'start': 829.6, 'duration': 3.28}
+{'text': "you're um are you embarrassed are you", 'start': 830.72, 'duration': 3.679}
+{'text': "ashamed right there's a reason", 'start': 832.88, 'duration': 3.28}
+{'text': "why they're not volunteering that type", 'start': 834.399, 'duration': 3.601}
+{'text': 'of information i think this is probably', 'start': 836.16, 'duration': 3.76}
+{'text': 'one of the most common ways', 'start': 838.0, 'duration': 4.0}
+{'text': 'that i find out somebody is lying about', 'start': 839.92, 'duration': 3.76}
+{'text': "something i usually don't ask directly", 'start': 842.0, 'duration': 2.079}
+{'text': 'like', 'start': 843.68, 'duration': 1.68}
+{'text': 'did you lie about this or blah blah blah', 'start': 844.079, 'duration': 2.88}
+{'text': 'usually be like oh like what did you', 'start': 845.36, 'duration': 2.719}
+{'text': 'think about this thing or what did you', 'start': 846.959, 'duration': 2.56}
+{'text': 'do with this person or whatever and', 'start': 848.079, 'duration': 3.12}
+{'text': 'usually if people give really evasive', 'start': 849.519, 'duration': 3.68}
+{'text': 'answers but you know more information', 'start': 851.199, 'duration': 3.281}
+{'text': 'and you know they should volunteer it', 'start': 853.199, 'duration': 2.241}
+{'text': "then it's like", 'start': 854.48, 'duration': 3.44}
+{'text': "okay you're you're why i'm so curious", 'start': 855.44, 'duration': 3.6}
+{'text': "why you're lying about it right but you", 'start': 857.92, 'duration': 2.4}
+{'text': "never you shouldn't confront people in", 'start': 859.04, 'duration': 2.159}
+{'text': 'lies you just', 'start': 860.32, 'duration': 2.48}
+{'text': 'keep it in your pocket but yeah this is', 'start': 861.199, 'duration': 3.2}
+{'text': 'like a really really really stupid thing', 'start': 862.8, 'duration': 3.12}
+{'text': 'that a lot of people do', 'start': 864.399, 'duration': 7.201}
+{'text': 'um and it [\xa0__\xa0] you hard', 'start': 865.92, 'duration': 7.52}
+{'text': "i mean what's this all about well it's", 'start': 871.6, 'duration': 3.919}
+{'text': "regarding it's a case we're working on", 'start': 873.44, 'duration': 3.12}
+{'text': 'it involves john', 'start': 875.519, 'duration': 3.44}
+{'text': 'and in there some of the statements we', 'start': 876.56, 'duration': 3.2}
+{'text': 'reviewed', 'start': 878.959, 'duration': 2.801}
+{'text': "uh you know there's notes and stuff that", 'start': 879.76, 'duration': 4.24}
+{'text': 'he knew you and stuff oh yeah i mean we', 'start': 881.76, 'duration': 5.68}
+{'text': 'good friends um lived in the dorms for', 'start': 884.0, 'duration': 6.0}
+{'text': 'i lived in the dorms for two years um', 'start': 887.44, 'duration': 4.32}
+{'text': 'you guys lived in the same dorm', 'start': 890.0, 'duration': 4.639}
+{'text': 'yeah okay yeah okay were you guys just', 'start': 891.76, 'duration': 4.48}
+{'text': 'friends or anything else or', 'start': 894.639, 'duration': 4.88}
+{'text': 'yeah we were good friends yeah', 'start': 896.24, 'duration': 4.959}
+{'text': 'was there any relationship or anything', 'start': 899.519, 'duration': 3.521}
+{'text': 'to develop between you guys', 'start': 901.199, 'duration': 4.88}
+{'text': 'yeah i mean we dated uh you know', 'start': 903.04, 'duration': 6.239}
+{'text': "um i mean is it what's this all about", 'start': 906.079, 'duration': 6.88}
+{'text': "well it's relating to his wife", 'start': 909.279, 'duration': 7.12}
+{'text': "it's unfortunate i feel like i feel like", 'start': 912.959, 'duration': 5.361}
+{'text': 'and it maybe this might just mean me', 'start': 916.399, 'duration': 3.841}
+{'text': "because i've got 20 20 hindsight now and", 'start': 918.32, 'duration': 2.319}
+{'text': 'i know', 'start': 920.24, 'duration': 1.76}
+{'text': "well i don't i guess but i'm assuming", 'start': 920.639, 'duration': 3.2}
+{'text': 'because of the name of the video', 'start': 922.0, 'duration': 4.8}
+{'text': "damn does she sound guilty what's this", 'start': 923.839, 'duration': 3.841}
+{'text': 'all about like', 'start': 926.8, 'duration': 2.8}
+{'text': 'what the [\xa0__\xa0] you sound a little jumpy', 'start': 927.68, 'duration': 3.2}
+{'text': 'my dude damn', 'start': 929.6, 'duration': 3.52}
+{'text': "she's already like god [\xa0__\xa0] i want to", 'start': 930.88, 'duration': 3.84}
+{'text': 'see some hard interrogations', 'start': 933.12, 'duration': 3.2}
+{'text': 'with some rough [\xa0__\xa0] that know', 'start': 934.72, 'duration': 3.44}
+{'text': 'how to lie well okay because jesus', 'start': 936.32, 'duration': 3.28}
+{'text': 'christ i feel like this [\xa0__\xa0] is already', 'start': 938.16, 'duration': 2.0}
+{'text': 'over', 'start': 939.6, 'duration': 1.919}
+{'text': "now it's like okay well what do we have", 'start': 940.16, 'duration': 3.119}
+{'text': 'to do to like finish this out because', 'start': 941.519, 'duration': 3.521}
+{'text': 'this [\xa0__\xa0] has already like just', 'start': 943.279, 'duration': 2.48}
+{'text': '[\xa0__\xa0] up', 'start': 945.04, 'duration': 3.84}
+{'text': 'hard oh my god this [\xa0__\xa0] is over already', 'start': 945.759, 'duration': 6.721}
+{'text': "well it's relating to his wife", 'start': 948.88, 'duration': 5.519}
+{'text': "it's unfortunate that stephanie's face", 'start': 952.48, 'duration': 3.68}
+{'text': "wasn't captured at this moment because", 'start': 954.399, 'duration': 3.521}
+{'text': 'she would have no doubt been immediately', 'start': 956.16, 'duration': 3.76}
+{'text': 'struck by the psychological reaction', 'start': 957.92, 'duration': 4.08}
+{'text': 'known as fight or flight her brain would', 'start': 959.92, 'duration': 3.599}
+{'text': 'have just triggered the influx of a', 'start': 962.0, 'duration': 3.519}
+{'text': 'specific cocktail of hormones in order', 'start': 963.519, 'duration': 3.281}
+{'text': 'to prepare her to either', 'start': 965.519, 'duration': 3.281}
+{'text': 'stay and deal with a threat or try and', 'start': 966.8, 'duration': 3.12}
+{'text': 'run away to safety', 'start': 968.8, 'duration': 4.479}
+{'text': 'stephanie chooses to fight okay', 'start': 969.92, 'duration': 6.64}
+{'text': 'okay did you know her not really i mean', 'start': 973.279, 'duration': 5.521}
+{'text': 'i knew that he got married years ago', 'start': 976.56, 'duration': 5.04}
+{'text': 'did you ever meet her okay this is a', 'start': 978.8, 'duration': 4.0}
+{'text': 'very nitpicky thing', 'start': 981.6, 'duration': 3.44}
+{'text': 'okay fight or flight does not prepare', 'start': 982.8, 'duration': 3.44}
+{'text': 'you to have an argument', 'start': 985.04, 'duration': 3.359}
+{'text': 'okay fight or flight prepares you to', 'start': 986.24, 'duration': 4.56}
+{'text': 'take some form of big physical action', 'start': 988.399, 'duration': 3.921}
+{'text': 'so when you say like your fight and', 'start': 990.8, 'duration': 2.88}
+{'text': 'flight thing was activated and you', 'start': 992.32, 'duration': 2.8}
+{'text': "choose to fight that doesn't mean having", 'start': 993.68, 'duration': 2.8}
+{'text': 'an argument that means that your', 'start': 995.12, 'duration': 3.04}
+{'text': 'adrenaline is pumping your blood vessels', 'start': 996.48, 'duration': 2.719}
+{'text': "are constricted you're", 'start': 998.16, 'duration': 2.799}
+{'text': "every like you're you've got hormones", 'start': 999.199, 'duration': 3.041}
+{'text': 'pumping that are enabling you to do some', 'start': 1000.959, 'duration': 2.32}
+{'text': 'like physical thing your', 'start': 1002.24, 'duration': 2.8}
+{'text': "lungs are opening up right that doesn't", 'start': 1003.279, 'duration': 2.56}
+{'text': "mean that you're ready to have an", 'start': 1005.04, 'duration': 2.159}
+{'text': "argument now this is a super minor it's", 'start': 1005.839, 'duration': 2.0}
+{'text': 'not a big mean', 'start': 1007.199, 'duration': 1.841}
+{'text': "it's probably just part of the style of", 'start': 1007.839, 'duration': 3.521}
+{'text': "the video but um i've personally to me", 'start': 1009.04, 'duration': 3.68}
+{'text': "i've had people use fight or flight in", 'start': 1011.36, 'duration': 2.88}
+{'text': 'very incorrect ways before', 'start': 1012.72, 'duration': 3.44}
+{'text': 'fight-or-flight refers to you are dead', 'start': 1014.24, 'duration': 3.36}
+{'text': 'wrong about that', 'start': 1016.16, 'duration': 3.84}
+{'text': 'uh what do you mean no i am absolutely', 'start': 1017.6, 'duration': 3.919}
+{'text': 'correct about this', 'start': 1020.0, 'duration': 3.6}
+{'text': 'fight or flight refers to that like', 'start': 1021.519, 'duration': 3.361}
+{'text': 'adrenaline', 'start': 1023.6, 'duration': 2.719}
+{'text': 'is it sympathetic or parasympathetic', 'start': 1024.88, 'duration': 3.039}
+{'text': 'nervous system response or whatever', 'start': 1026.319, 'duration': 3.441}
+{'text': "that's fight or flight you getting like", 'start': 1027.919, 'duration': 3.361}
+{'text': 'nervous and having a conversation or', 'start': 1029.76, 'duration': 2.159}
+{'text': 'whatever like', 'start': 1031.28, 'duration': 2.559}
+{'text': "that's not like uh like i think like you", 'start': 1031.919, 'duration': 3.04}
+{'text': 'can have like a flight or flight like', 'start': 1033.839, 'duration': 2.96}
+{'text': 'physiological response but when you say', 'start': 1034.959, 'duration': 3.36}
+{'text': 'like oh they chose to fight', 'start': 1036.799, 'duration': 4.081}
+{'text': 'or or flight like that is usually some', 'start': 1038.319, 'duration': 3.921}
+{'text': 'physical exertion', 'start': 1040.88, 'duration': 3.52}
+{'text': "it's not like just sitting there and be", 'start': 1042.24, 'duration': 3.439}
+{'text': "like oh i'm really nervous i guess you", 'start': 1044.4, 'duration': 2.639}
+{'text': "can argue that's the response but you're", 'start': 1045.679, 'duration': 2.4}
+{'text': 'not fighting', 'start': 1047.039, 'duration': 2.561}
+{'text': 'your body is not when you have a', 'start': 1048.079, 'duration': 2.801}
+{'text': "fight-or-flight response your body's not", 'start': 1049.6, 'duration': 2.56}
+{'text': 'preparing you to have an argument', 'start': 1050.88, 'duration': 3.039}
+{'text': "it's preparing for you to do some great", 'start': 1052.16, 'duration': 4.56}
+{'text': 'physical exertion', 'start': 1053.919, 'duration': 6.081}
+{'text': "hey dude what's your favorite mcu film", 'start': 1056.72, 'duration': 5.44}
+{'text': 'that you have seen', 'start': 1060.0, 'duration': 6.559}
+{'text': 'man what a great what a great question', 'start': 1062.16, 'duration': 8.0}
+{'text': 'um what are you gonna talk about iron', 'start': 1066.559, 'duration': 4.161}
+{'text': 'man', 'start': 1070.16, 'duration': 3.6}
+{'text': 'or the avengers infinity war i just', 'start': 1070.72, 'duration': 6.4}
+{'text': 'wanna have a whole conversation about', 'start': 1073.76, 'duration': 3.36}
+{'text': 'superhero', 'start': 1078.84, 'duration': 3.4}
+{'text': "women don't always have the option to", 'start': 1080.88, 'duration': 2.799}
+{'text': 'fight physically though right what', 'start': 1082.24, 'duration': 2.0}
+{'text': 'anybody', 'start': 1083.679, 'duration': 2.88}
+{'text': "when you're do we really want to", 'start': 1084.24, 'duration': 5.12}
+{'text': 'wikipedia this', 'start': 1086.559, 'duration': 4.321}
+{'text': 'when when you have a fight-or-flight', 'start': 1089.36, 'duration': 3.36}
+{'text': 'response right', 'start': 1090.88, 'duration': 3.679}
+{'text': 'there is there is a whole thing that', 'start': 1092.72, 'duration': 3.36}
+{'text': 'your nervous system goes through', 'start': 1094.559, 'duration': 4.641}
+{'text': 'to prep your body to', 'start': 1096.08, 'duration': 4.959}
+{'text': "enact physically that's what fight or", 'start': 1099.2, 'duration': 3.12}
+{'text': 'flight is', 'start': 1101.039, 'duration': 4.161}
+{'text': 'like your muscles will tense you start', 'start': 1102.32, 'duration': 4.56}
+{'text': 'sweating more so that you can cool your', 'start': 1105.2, 'duration': 2.479}
+{'text': 'body', 'start': 1106.88, 'duration': 2.48}
+{'text': 'your lungs will open up you begin', 'start': 1107.679, 'duration': 3.281}
+{'text': 'breathing more i think your stomach', 'start': 1109.36, 'duration': 3.6}
+{'text': 'starts to feel weird as blood is drawn', 'start': 1110.96, 'duration': 4.079}
+{'text': 'away from your digestive tract', 'start': 1112.96, 'duration': 4.4}
+{'text': 'um like all of this stuff i think your', 'start': 1115.039, 'duration': 4.161}
+{'text': 'pupils dilate so you can see better', 'start': 1117.36, 'duration': 3.76}
+{'text': "it's like a battle mode your body is", 'start': 1119.2, 'duration': 3.599}
+{'text': 'transforming into a fight gundam', 'start': 1121.12, 'duration': 3.679}
+{'text': 'like that is a fight or flight not like', 'start': 1122.799, 'duration': 3.041}
+{'text': "you're gonna have an argument", 'start': 1124.799, 'duration': 3.681}
+{'text': 'okay sorry', 'start': 1125.84, 'duration': 2.64}
+{'text': "if you activate that response you can't", 'start': 1134.64, 'duration': 2.48}
+{'text': 'physically fight why is it going to say', 'start': 1136.0, 'duration': 1.919}
+{'text': 'that would manifest', 'start': 1137.12, 'duration': 2.08}
+{'text': "okay never mind i'm done with this i", 'start': 1137.919, 'duration': 3.361}
+{'text': 'love you all i mean i knew that he got', 'start': 1139.2, 'duration': 3.359}
+{'text': 'married years ago', 'start': 1141.28, 'duration': 4.399}
+{'text': "uh-huh did you ever meet her god i don't", 'start': 1142.559, 'duration': 3.681}
+{'text': 'know', 'start': 1145.679, 'duration': 4.961}
+{'text': 'um do you know who she was or anything', 'start': 1146.24, 'duration': 4.4}
+{'text': 'um', 'start': 1153.2, 'duration': 2.32}
+{'text': 'i may have met her um jeez', 'start': 1156.64, 'duration': 7.44}
+{'text': 'the words gosh god g are exclamatory', 'start': 1160.4, 'duration': 5.76}
+{'text': 'remarks used to express surprise or', 'start': 1164.08, 'duration': 4.0}
+{'text': 'strong emotion you will see them used', 'start': 1166.16, 'duration': 3.28}
+{'text': 'continuously throughout this', 'start': 1168.08, 'duration': 3.36}
+{'text': 'interrogation which is the suspect', 'start': 1169.44, 'duration': 4.239}
+{'text': 'trying to insinuate a vague memory due', 'start': 1171.44, 'duration': 3.92}
+{'text': 'to a lack of contemplation on the', 'start': 1173.679, 'duration': 2.481}
+{'text': 'subject matter', 'start': 1175.36, 'duration': 2.559}
+{'text': "she's trying to emit the impression that", 'start': 1176.16, 'duration': 3.519}
+{'text': 'she would have had no reason to give any', 'start': 1177.919, 'duration': 3.521}
+{'text': 'further thought to john or anything', 'start': 1179.679, 'duration': 2.721}
+{'text': 'related to jon', 'start': 1181.44, 'duration': 2.479}
+{'text': 'since they stopped seeing each other', 'start': 1182.4, 'duration': 3.36}
+{'text': 'over two decades ago', 'start': 1183.919, 'duration': 5.12}
+{'text': 'you know yeah uh well let me see', 'start': 1185.76, 'duration': 4.72}
+{'text': 'let me ask you you said you you dated', 'start': 1189.039, 'duration': 4.801}
+{'text': 'john how long did you guys date', 'start': 1190.48, 'duration': 3.36}
+{'text': 'i mean why are you guys is this', 'start': 1194.16, 'duration': 3.2}
+{'text': 'something', 'start': 1196.48, 'duration': 3.36}
+{'text': 'as we know stephanie is a cop and has', 'start': 1197.36, 'duration': 3.92}
+{'text': 'been for 25 years', 'start': 1199.84, 'duration': 4.719}
+{'text': "she will be also i'm sorry", 'start': 1201.28, 'duration': 6.8}
+{'text': 'i love you okay', 'start': 1204.559, 'duration': 5.521}
+{'text': 'and i love cops on this stream more than', 'start': 1208.08, 'duration': 3.68}
+{'text': 'anybody else okay', 'start': 1210.08, 'duration': 4.88}
+{'text': "however if there's an honest cop out", 'start': 1211.76, 'duration': 4.56}
+{'text': 'there okay a lot of cops are dumb', 'start': 1214.96, 'duration': 2.56}
+{'text': '[\xa0__\xa0] okay', 'start': 1216.32, 'duration': 3.44}
+{'text': 'this is not the brightest of the bunch', 'start': 1217.52, 'duration': 3.92}
+{'text': 'okay these are not our these are not our', 'start': 1219.76, 'duration': 3.76}
+{'text': 'highest performing members of society', 'start': 1221.44, 'duration': 4.479}
+{'text': "okay just because you're a cop does not", 'start': 1223.52, 'duration': 3.519}
+{'text': 'mean that you are like some', 'start': 1225.919, 'duration': 3.441}
+{'text': 'mentally impervious machine that like', 'start': 1227.039, 'duration': 4.081}
+{'text': "won't get [\xa0__\xa0] triggered out your ass", 'start': 1229.36, 'duration': 2.559}
+{'text': 'okay 20', 'start': 1231.12, 'duration': 2.16}
+{'text': 'cops get [\xa0__\xa0] triggered at traffic', 'start': 1231.919, 'duration': 3.441}
+{'text': 'stops okay that that does not guarantee', 'start': 1233.28, 'duration': 3.04}
+{'text': "that you're gonna have some mental", 'start': 1235.36, 'duration': 2.16}
+{'text': 'shielding against these techniques or', 'start': 1236.32, 'duration': 1.76}
+{'text': 'whatever', 'start': 1237.52, 'duration': 2.96}
+{'text': "especially i'm also curious they might", 'start': 1238.08, 'duration': 3.2}
+{'text': 'have said they probably said this', 'start': 1240.48, 'duration': 1.52}
+{'text': 'hundreds in here', 'start': 1241.28, 'duration': 2.16}
+{'text': 'i wonder what is what is she in terms of', 'start': 1242.0, 'duration': 3.6}
+{'text': 'a cop was she actually like a detective', 'start': 1243.44, 'duration': 4.479}
+{'text': 'oh she was a detective she was a senior', 'start': 1245.6, 'duration': 3.199}
+{'text': 'detective', 'start': 1247.919, 'duration': 2.721}
+{'text': "and she's already lost she's already", 'start': 1248.799, 'duration': 3.201}
+{'text': 'this [\xa0__\xa0] lost', 'start': 1250.64, 'duration': 2.96}
+{'text': "we're what what are we two and a half", 'start': 1252.0, 'duration': 3.6}
+{'text': "minutes we're two and a half minutes", 'start': 1253.6, 'duration': 3.68}
+{'text': "into the interrogation and it's already", 'start': 1255.6, 'duration': 2.24}
+{'text': 'over', 'start': 1257.28, 'duration': 2.24}
+{'text': "now it's just formalities like this", 'start': 1257.84, 'duration': 4.4}
+{'text': '[\xa0__\xa0] is a murderer holy [\xa0__\xa0]', 'start': 1259.52, 'duration': 5.92}
+{'text': 'like oh a top detective of art thievery', 'start': 1262.24, 'duration': 4.64}
+{'text': "okay so maybe she's not used to dealing", 'start': 1265.44, 'duration': 3.76}
+{'text': 'with like as we know', 'start': 1266.88, 'duration': 4.88}
+{'text': 'stephanie is a cop and has been for 25', 'start': 1269.2, 'duration': 3.04}
+{'text': 'years', 'start': 1271.76, 'duration': 2.399}
+{'text': 'she will be wise to the fact that acting', 'start': 1272.24, 'duration': 3.76}
+{'text': 'oblivious to the unusual development of', 'start': 1274.159, 'duration': 4.0}
+{'text': 'the situation will be a glaring red flag', 'start': 1276.0, 'duration': 3.76}
+{'text': 'in the eyes of the investigators', 'start': 1278.159, 'duration': 3.361}
+{'text': "it's been shown time and again on this", 'start': 1279.76, 'duration': 4.0}
+{'text': 'channel guilty suspects will often try', 'start': 1281.52, 'duration': 4.72}
+{'text': 'and act naive to a blatant confrontation', 'start': 1283.76, 'duration': 4.399}
+{'text': 'as a means to avoiding it altogether', 'start': 1286.24, 'duration': 3.919}
+{'text': 'whereas truthful subjects will address', 'start': 1288.159, 'duration': 4.081}
+{'text': 'the confrontation and either refute it', 'start': 1290.159, 'duration': 3.841}
+{'text': "or if it's subtle want immediate", 'start': 1292.24, 'duration': 3.919}
+{'text': 'clarification and transparency as to', 'start': 1294.0, 'duration': 3.84}
+{'text': 'what was being insinuated', 'start': 1296.159, 'duration': 3.441}
+{'text': 'i mean you said i was going to interview', 'start': 1297.84, 'duration': 3.6}
+{'text': 'somebody about art and how you guys are', 'start': 1299.6, 'duration': 5.12}
+{'text': "here's i mean stephanie the crazy thing", 'start': 1301.44, 'duration': 5.359}
+{'text': "too is that she's a detective so she", 'start': 1304.72, 'duration': 3.04}
+{'text': 'must know', 'start': 1306.799, 'duration': 2.961}
+{'text': 'the answers that would unlock further', 'start': 1307.76, 'duration': 3.6}
+{'text': 'parts of an interrogation that would', 'start': 1309.76, 'duration': 2.96}
+{'text': 'enable them to either have probable', 'start': 1311.36, 'duration': 3.28}
+{'text': 'cause to do further investigations', 'start': 1312.72, 'duration': 4.72}
+{'text': 'so beginning to play dude this case is', 'start': 1314.64, 'duration': 3.2}
+{'text': 'so', 'start': 1317.44, 'duration': 3.52}
+{'text': "cold you're on a 23 year", 'start': 1317.84, 'duration': 6.319}
+{'text': "closed case homicide you're out", 'start': 1320.96, 'duration': 6.64}
+{'text': "you've done it you're gone you must have", 'start': 1324.159, 'duration': 4.88}
+{'text': 'thought in your head', 'start': 1327.6, 'duration': 3.36}
+{'text': 'what is some combination of stupid', 'start': 1329.039, 'duration': 4.241}
+{'text': '[\xa0__\xa0] things that i could say', 'start': 1330.96, 'duration': 4.16}
+{'text': 'that would enable somebody to open this', 'start': 1333.28, 'duration': 3.759}
+{'text': 'case', 'start': 1335.12, 'duration': 5.679}
+{'text': 'this is the coldest closest', 'start': 1337.039, 'duration': 7.041}
+{'text': "20-plus year homicide this isn't an", 'start': 1340.799, 'duration': 4.641}
+{'text': "official interrogation she doesn't know", 'start': 1344.08, 'duration': 2.959}
+{'text': "she's being recorded", 'start': 1345.44, 'duration': 4.56}
+{'text': "bro come on we're going to take you in a", 'start': 1347.039, 'duration': 4.161}
+{'text': "room and ask you some questions we're", 'start': 1350.0, 'duration': 2.96}
+{'text': '[\xa0__\xa0] cops like no come on dude you', 'start': 1351.2, 'duration': 3.52}
+{'text': 'must have thought about this like', 'start': 1352.96, 'duration': 4.079}
+{'text': "[\xa0__\xa0] like i don't know i feel like i", 'start': 1354.72, 'duration': 4.0}
+{'text': 'feel like the micro second if i would', 'start': 1357.039, 'duration': 3.041}
+{'text': "have murdered someone in my past and i'm", 'start': 1358.72, 'duration': 2.8}
+{'text': 'in a room casually and somebody brings', 'start': 1360.08, 'duration': 3.04}
+{'text': 'up this person that was [\xa0__\xa0] murdered', 'start': 1361.52, 'duration': 3.039}
+{'text': 'or that i paid somebody to murder', 'start': 1363.12, 'duration': 3.2}
+{'text': 'or whatever like and somebody starts', 'start': 1364.559, 'duration': 3.12}
+{'text': 'asking me questions about that', 'start': 1366.32, 'duration': 2.8}
+{'text': "you better believe that like i'm about", 'start': 1367.679, 'duration': 2.721}
+{'text': "to slip into some [\xa0__\xa0] that i've", 'start': 1369.12, 'duration': 2.0}
+{'text': 'rehearsed', 'start': 1370.4, 'duration': 2.72}
+{'text': 'every [\xa0__\xa0] year of my life up to this', 'start': 1371.12, 'duration': 3.52}
+{'text': "point because there's no way", 'start': 1373.12, 'duration': 3.12}
+{'text': 'that i would let somebody crack it and', 'start': 1374.64, 'duration': 3.68}
+{'text': 'open a case that [\xa0__\xa0] old and catch', 'start': 1376.24, 'duration': 3.36}
+{'text': 'me no way', 'start': 1378.32, 'duration': 2.479}
+{'text': "and that's not even i don't even think", 'start': 1379.6, 'duration': 2.64}
+{'text': 'that would be exceptional to expect a', 'start': 1380.799, 'duration': 2.721}
+{'text': 'senior detective', 'start': 1382.24, 'duration': 4.16}
+{'text': 'to have rehearsed', 'start': 1383.52, 'duration': 2.88}
+{'text': 'situations basically we you know', 'start': 1386.88, 'duration': 5.279}
+{'text': 'we knew that this when we saw this in', 'start': 1390.32, 'duration': 3.839}
+{'text': 'the in in this chrono that maybe you', 'start': 1392.159, 'duration': 3.201}
+{'text': 'know there was some relationship there', 'start': 1394.159, 'duration': 2.561}
+{'text': "that's what the chronos seem to indicate", 'start': 1395.36, 'duration': 3.28}
+{'text': 'the detective now subtly avoids the', 'start': 1396.72, 'duration': 4.0}
+{'text': 'question altogether but instead offers a', 'start': 1398.64, 'duration': 3.36}
+{'text': 'deceptively reassuring', 'start': 1400.72, 'duration': 3.439}
+{'text': 'response to the suspect he makes a very', 'start': 1402.0, 'duration': 3.76}
+{'text': 'sharp switch from the investigative', 'start': 1404.159, 'duration': 3.52}
+{'text': 'subject matter to the previous topic of', 'start': 1405.76, 'duration': 3.039}
+{'text': 'workplace rumors', 'start': 1407.679, 'duration': 2.961}
+{'text': 'he brings her focus back to the false', 'start': 1408.799, 'duration': 3.76}
+{'text': 'perception of them being on her side', 'start': 1410.64, 'duration': 4.0}
+{'text': 'stephanie had just asked what was going', 'start': 1412.559, 'duration': 4.48}
+{'text': 'on and now he essentially replies with', 'start': 1414.64, 'duration': 4.32}
+{'text': "we are your friends we're doing you a", 'start': 1417.039, 'duration': 3.76}
+{'text': "favor and we didn't want", 'start': 1418.96, 'duration': 3.92}
+{'text': 'to come up to you at your desk and ask', 'start': 1420.799, 'duration': 4.0}
+{'text': 'those kinds of questions or do anything', 'start': 1422.88, 'duration': 3.44}
+{'text': 'you know how up there people can see', 'start': 1424.799, 'duration': 2.641}
+{'text': "what's going on if you go into an", 'start': 1426.32, 'duration': 1.839}
+{'text': 'interview room', 'start': 1427.44, 'duration': 2.32}
+{'text': 'this is a senior detective and she looks', 'start': 1428.159, 'duration': 2.961}
+{'text': "like she's standing in front of a moving", 'start': 1429.76, 'duration': 3.76}
+{'text': 'train like look at how afraid she is', 'start': 1431.12, 'duration': 6.08}
+{'text': 'what is happening i mean so we wanted to', 'start': 1433.52, 'duration': 4.72}
+{'text': "afford you that's okay", 'start': 1437.2, 'duration': 2.8}
+{'text': 'some privacy some confidentiality to', 'start': 1438.24, 'duration': 2.799}
+{'text': 'talk about this because we thought it', 'start': 1440.0, 'duration': 1.919}
+{'text': 'might be you know', 'start': 1441.039, 'duration': 2.0}
+{'text': "something you know you're married to", 'start': 1441.919, 'duration': 3.201}
+{'text': 'someone else obviously and so forth and', 'start': 1443.039, 'duration': 3.601}
+{'text': 'that you may not want to you know talk', 'start': 1445.12, 'duration': 2.88}
+{'text': 'about these things in that setting where', 'start': 1446.64, 'duration': 1.76}
+{'text': 'someone', 'start': 1448.0, 'duration': 1.52}
+{'text': "you know we don't want the rumor mill or", 'start': 1448.4, 'duration': 2.48}
+{'text': 'gossip or anything that kind of stuff', 'start': 1449.52, 'duration': 2.159}
+{'text': "that's fine i mean", 'start': 1450.88, 'duration': 3.12}
+{'text': 'so we we did this just as as a means to', 'start': 1451.679, 'duration': 3.521}
+{'text': 'try and speak to you in', 'start': 1454.0, 'duration': 2.96}
+{'text': 'a confidential place where you you know', 'start': 1455.2, 'duration': 3.28}
+{'text': "where where your business isn't out", 'start': 1456.96, 'duration': 3.12}
+{'text': 'there for other people in', 'start': 1458.48, 'duration': 4.16}
+{'text': 'your division whether it be shock or the', 'start': 1460.08, 'duration': 4.719}
+{'text': 'total reluctance to accept the situation', 'start': 1462.64, 'duration': 2.72}
+{'text': 'at hand', 'start': 1464.799, 'duration': 2.801}
+{'text': 'stephanie warily accepts the reassuring', 'start': 1465.36, 'duration': 4.4}
+{'text': 'response without further inquiry into', 'start': 1467.6, 'duration': 3.36}
+{'text': 'her initial challenge', 'start': 1469.76, 'duration': 3.279}
+{'text': 'she instead falls back into her agenda', 'start': 1470.96, 'duration': 4.16}
+{'text': 'of having a foggy memory with regard to', 'start': 1473.039, 'duration': 3.601}
+{'text': 'the incriminating contents', 'start': 1475.12, 'duration': 3.039}
+{'text': "you know god that's been a million years", 'start': 1476.64, 'duration': 3.68}
+{'text': 'ago i mean you know', 'start': 1478.159, 'duration': 5.441}
+{'text': 'um what year is it now', 'start': 1480.32, 'duration': 6.88}
+{'text': '2009 i mean i graduated in 82 82', 'start': 1483.6, 'duration': 7.84}
+{'text': 'yeah um you know we dated', 'start': 1487.2, 'duration': 6.56}
+{'text': "um i dated other guys i'll never forget", 'start': 1491.44, 'duration': 4.4}
+{'text': 'when i graduated high school', 'start': 1493.76, 'duration': 4.72}
+{'text': 'because i graduated in 2007. you know', 'start': 1495.84, 'duration': 4.16}
+{'text': 'what that means that means that', 'start': 1498.48, 'duration': 4.319}
+{'text': 'all of our graduation [\xa0__\xa0] was [\xa0__\xa0]', 'start': 1500.0, 'duration': 4.24}
+{'text': 'double-oh-seven themed', 'start': 1502.799, 'duration': 5.041}
+{'text': 'god it was so garbage oh', 'start': 1504.24, 'duration': 7.12}
+{'text': "i'm sure he dated other girls um", 'start': 1507.84, 'duration': 5.839}
+{'text': 'well let me ask you roughly how long', 'start': 1511.36, 'duration': 4.08}
+{'text': 'would you would you say you guys did', 'start': 1513.679, 'duration': 5.041}
+{'text': 'oh geez um', 'start': 1515.44, 'duration': 6.32}
+{'text': "i couldn't even say i mean notice how", 'start': 1518.72, 'duration': 5.199}
+{'text': 'she now goes on to over explain things', 'start': 1521.76, 'duration': 3.919}
+{'text': "that don't require an explanation", 'start': 1523.919, 'duration': 3.601}
+{'text': "and weren't even inquired about it's a", 'start': 1525.679, 'duration': 4.161}
+{'text': 'clear-cut indication of hyper-arousal', 'start': 1527.52, 'duration': 4.08}
+{'text': 'and a derivative of tmt', 'start': 1529.84, 'duration': 4.0}
+{'text': 'also known as terror management theory', 'start': 1531.6, 'duration': 3.76}
+{'text': 'the suspect will go off on', 'start': 1533.84, 'duration': 3.76}
+{'text': 'unrelated tangents as means for gaining', 'start': 1535.36, 'duration': 3.439}
+{'text': 'momentary relief', 'start': 1537.6, 'duration': 3.439}
+{'text': 'going into detail about trivial things', 'start': 1538.799, 'duration': 4.0}
+{'text': 'affords her a brief escape from the', 'start': 1541.039, 'duration': 3.921}
+{'text': 'terrifying reality eventuating before', 'start': 1542.799, 'duration': 2.48}
+{'text': 'her', 'start': 1544.96, 'duration': 2.0}
+{'text': 'this is a very common occurrence in', 'start': 1545.279, 'duration': 3.441}
+{'text': 'interrogations where the suspect is', 'start': 1546.96, 'duration': 4.4}
+{'text': 'facing serious charges and psychiatrists', 'start': 1548.72, 'duration': 4.4}
+{'text': 'believe it to be a subconscious coping', 'start': 1551.36, 'duration': 2.4}
+{'text': 'mechanism', 'start': 1553.12, 'duration': 4.32}
+{'text': 'i started school there in 78.', 'start': 1553.76, 'duration': 6.159}
+{'text': "if you want a more realistic i don't", 'start': 1557.44, 'duration': 3.44}
+{'text': "know if anybody's done this but if", 'start': 1559.919, 'duration': 1.921}
+{'text': "you've ever lied", 'start': 1560.88, 'duration': 3.6}
+{'text': "like you've ever lied to your parents", 'start': 1561.84, 'duration': 4.16}
+{'text': 'about like where were you last night or', 'start': 1564.48, 'duration': 2.559}
+{'text': "did you go out when you weren't supposed", 'start': 1566.0, 'duration': 1.76}
+{'text': 'to whatever', 'start': 1567.039, 'duration': 1.681}
+{'text': "and you're like and they're like what", 'start': 1567.76, 'duration': 1.919}
+{'text': "did you do yesterday and you're like", 'start': 1568.72, 'duration': 2.319}
+{'text': 'well', 'start': 1569.679, 'duration': 3.681}
+{'text': 'um after school um i was hanging out', 'start': 1571.039, 'duration': 3.921}
+{'text': "with fred for a while we're working on a", 'start': 1573.36, 'duration': 3.199}
+{'text': 'biology science project', 'start': 1574.96, 'duration': 3.44}
+{'text': 'um we have to do like the entire inner', 'start': 1576.559, 'duration': 3.281}
+{'text': 'workings of the cells and label', 'start': 1578.4, 'duration': 2.8}
+{'text': 'all of the different organelles and', 'start': 1579.84, 'duration': 2.959}
+{'text': 'everything and his mom usually brings us', 'start': 1581.2, 'duration': 2.88}
+{'text': 'you know like stuff', 'start': 1582.799, 'duration': 2.88}
+{'text': 'um to drink while we work on our project', 'start': 1584.08, 'duration': 2.88}
+{'text': "and we've been working on it for like", 'start': 1585.679, 'duration': 1.761}
+{'text': 'two weeks', 'start': 1586.96, 'duration': 1.839}
+{'text': 'like you just start you try to explain', 'start': 1587.44, 'duration': 3.119}
+{'text': "like every [\xa0__\xa0] thing it's", 'start': 1588.799, 'duration': 3.681}
+{'text': "it's funny i wonder if this is related", 'start': 1590.559, 'duration': 3.041}
+{'text': 'at all to um', 'start': 1592.48, 'duration': 2.64}
+{'text': "when you're taking a test and you have", 'start': 1593.6, 'duration': 3.6}
+{'text': "an essay question and you don't know the", 'start': 1595.12, 'duration': 2.559}
+{'text': 'answer', 'start': 1597.2, 'duration': 3.28}
+{'text': 'and you just start [\xa0__\xa0] writing and', 'start': 1597.679, 'duration': 3.921}
+{'text': "you've written like", 'start': 1600.48, 'duration': 2.96}
+{'text': 'a [\xa0__\xa0] three paragraph answer and', 'start': 1601.6, 'duration': 3.84}
+{'text': "you've like incorporated as much of", 'start': 1603.44, 'duration': 4.239}
+{'text': "the rest of the test as possible it's", 'start': 1605.44, 'duration': 4.239}
+{'text': 'your answer for the essay question', 'start': 1607.679, 'duration': 3.201}
+{'text': "and you don't know what the [\xa0__\xa0] the", 'start': 1609.679, 'duration': 3.841}
+{'text': 'actual answer is oh my god dude i feel', 'start': 1610.88, 'duration': 3.44}
+{'text': 'like teachers', 'start': 1613.52, 'duration': 1.92}
+{'text': 'i feel like teachers would always give', 'start': 1614.32, 'duration': 3.599}
+{'text': 'you credit for that oh my god', 'start': 1615.44, 'duration': 3.92}
+{'text': 'i was either a really good bullshitter i', 'start': 1617.919, 'duration': 3.041}
+{'text': 'had a lot of easy teachers because god', 'start': 1619.36, 'duration': 2.4}
+{'text': 'damn dude', 'start': 1620.96, 'duration': 2.56}
+{'text': 'when those essay questions came up at', 'start': 1621.76, 'duration': 3.68}
+{'text': 'the end of the test it was time to go', 'start': 1623.52, 'duration': 2.48}
+{'text': 'back', 'start': 1625.44, 'duration': 2.479}
+{'text': 'and use your house your light deductive', 'start': 1626.0, 'duration': 3.76}
+{'text': 'logic to try to figure out how the [\xa0__\xa0]', 'start': 1627.919, 'duration': 3.12}
+{'text': 'you can answer the question', 'start': 1629.76, 'duration': 3.039}
+{'text': 'incorporating all the multiple choice', 'start': 1631.039, 'duration': 3.921}
+{'text': 'questions into it anything possible', 'start': 1632.799, 'duration': 3.36}
+{'text': 'and then and then anytime a teacher', 'start': 1634.96, 'duration': 3.12}
+{'text': 'would be like oh like why did you go off', 'start': 1636.159, 'duration': 3.12}
+{'text': 'explaining you know like', 'start': 1638.08, 'duration': 3.52}
+{'text': 'the way the mayflower was built when the', 'start': 1639.279, 'duration': 3.841}
+{'text': 'question had to do with like you know', 'start': 1641.6, 'duration': 3.28}
+{'text': 'who was funding the first execution', 'start': 1643.12, 'duration': 2.96}
+{'text': 'into america like oh well i thought', 'start': 1644.88, 'duration': 2.56}
+{'text': "that's what the question was asking and", 'start': 1646.08, 'duration': 2.64}
+{'text': 'that she was like', 'start': 1647.44, 'duration': 3.359}
+{'text': 'i can only give you 75 credit for this', 'start': 1648.72, 'duration': 3.76}
+{'text': "answer and you're like", 'start': 1650.799, 'duration': 3.281}
+{'text': 'well thank you because i knew zero', 'start': 1652.48, 'duration': 3.36}
+{'text': 'percent of the answer so i really', 'start': 1654.08, 'duration': 3.199}
+{'text': 'appreciate that teach', 'start': 1655.84, 'duration': 4.0}
+{'text': 'oh man', 'start': 1657.279, 'duration': 2.561}
+{'text': 'okay sorry back to this i started ucla', 'start': 1660.72, 'duration': 4.64}
+{'text': 'set 1978', 'start': 1663.6, 'duration': 5.28}
+{'text': "i graduated in 82 um i don't", 'start': 1665.36, 'duration': 5.6}
+{'text': 'even remember what year he graduated if', 'start': 1668.88, 'duration': 4.399}
+{'text': 'it was a year or two before me', 'start': 1670.96, 'duration': 4.079}
+{'text': 'okay i think he was a little bit older', 'start': 1673.279, 'duration': 3.841}
+{'text': "than i was i mean you know i can't", 'start': 1675.039, 'duration': 3.201}
+{'text': 'remember if he was born', 'start': 1677.12, 'duration': 4.24}
+{'text': "let's say i'm born in 60 1960 i don't", 'start': 1678.24, 'duration': 5.28}
+{'text': 'know if he was born in 58 or 59 i mean', 'start': 1681.36, 'duration': 3.199}
+{'text': 'not you know', 'start': 1683.52, 'duration': 2.32}
+{'text': 'i mean i knew his parents i knew his', 'start': 1684.559, 'duration': 3.681}
+{'text': 'sister his brother went to northridge', 'start': 1685.84, 'duration': 4.079}
+{'text': 'what is every piece of information that', 'start': 1688.24, 'duration': 3.039}
+{'text': 'i could give you right now because i am', 'start': 1689.919, 'duration': 3.041}
+{'text': 'panicking so [\xa0__\xa0] hard in this', 'start': 1691.279, 'duration': 3.601}
+{'text': 'conversation', 'start': 1692.96, 'duration': 4.88}
+{'text': 'jesus', 'start': 1694.88, 'duration': 2.96}
+{'text': 'um um you know sister', 'start': 1698.0, 'duration': 5.84}
+{'text': 'spent the night at my house before', 'start': 1701.84, 'duration': 3.76}
+{'text': 'obviously i spent the night at his house', 'start': 1703.84, 'duration': 3.04}
+{'text': 'before he probably spent the night at my', 'start': 1705.6, 'duration': 2.319}
+{'text': 'house before', 'start': 1706.88, 'duration': 2.159}
+{'text': "it doesn't really prove that you don't", 'start': 1707.919, 'duration': 2.561}
+{'text': 'know the answer it only indicates you', 'start': 1709.039, 'duration': 2.481}
+{'text': 'have high anxiety', 'start': 1710.48, 'duration': 4.079}
+{'text': 'um i disagree i think that a lot of the', 'start': 1711.52, 'duration': 4.24}
+{'text': "times when you're trying to evaluate if", 'start': 1714.559, 'duration': 2.641}
+{'text': "somebody doesn't know something or is", 'start': 1715.76, 'duration': 1.919}
+{'text': 'being', 'start': 1717.2, 'duration': 2.56}
+{'text': 'not truthful usually what everybody', 'start': 1717.679, 'duration': 3.36}
+{'text': 'looks at the most immediate thing you', 'start': 1719.76, 'duration': 2.32}
+{'text': 'look at is well what do they say what do', 'start': 1721.039, 'duration': 2.161}
+{'text': 'they say what do they lie about what do', 'start': 1722.08, 'duration': 3.04}
+{'text': 'they lie about', 'start': 1723.2, 'duration': 4.16}
+{'text': 'oftentimes if you take like one step', 'start': 1725.12, 'duration': 4.159}
+{'text': 'back and you instead try to think of', 'start': 1727.36, 'duration': 3.439}
+{'text': "what didn't they say", 'start': 1729.279, 'duration': 4.161}
+{'text': 'or if a scenario had been different what', 'start': 1730.799, 'duration': 4.0}
+{'text': 'would they have said', 'start': 1733.44, 'duration': 3.52}
+{'text': 'that can give you really good insight', 'start': 1734.799, 'duration': 5.201}
+{'text': "into what is the other person's position", 'start': 1736.96, 'duration': 4.4}
+{'text': 'i can give you a really good political', 'start': 1740.0, 'duration': 3.6}
+{'text': 'example of this if somebody comes up and', 'start': 1741.36, 'duration': 2.88}
+{'text': 'they say', 'start': 1743.6, 'duration': 3.52}
+{'text': 'i know for a fact that xyz conspiracy', 'start': 1744.24, 'duration': 3.919}
+{'text': 'theory is true', 'start': 1747.12, 'duration': 2.24}
+{'text': "and i'm going to debate you on it you're", 'start': 1748.159, 'duration': 3.601}
+{'text': 'like okay and they open the debate', 'start': 1749.36, 'duration': 3.919}
+{'text': 'and their piece of evidence is', 'start': 1751.76, 'duration': 3.12}
+{'text': 'incredibly shoddy', 'start': 1753.279, 'duration': 3.441}
+{'text': 'you know that their thing is [\xa0__\xa0]', 'start': 1754.88, 'duration': 3.679}
+{'text': 'because if that real good evidence', 'start': 1756.72, 'duration': 2.4}
+{'text': 'existed', 'start': 1758.559, 'duration': 2.0}
+{'text': "they'd be bringing it up if they", 'start': 1759.12, 'duration': 3.2}
+{'text': 'actually had like some huge', 'start': 1760.559, 'duration': 3.521}
+{'text': 'like damning fact you would be hearing', 'start': 1762.32, 'duration': 3.28}
+{'text': 'about it a million times', 'start': 1764.08, 'duration': 3.36}
+{'text': 'this is how this little like mental', 'start': 1765.6, 'duration': 3.04}
+{'text': 'thing is usually how i evaluate', 'start': 1767.44, 'duration': 3.04}
+{'text': 'sometimes how well i did in a debate', 'start': 1768.64, 'duration': 3.44}
+{'text': 'um when i go into forms afterwards and', 'start': 1770.48, 'duration': 2.64}
+{'text': "there's just a bunch of people calling", 'start': 1772.08, 'duration': 1.599}
+{'text': 'me if', 'start': 1773.12, 'duration': 2.559}
+{'text': 'the efsler or whatever other [\xa0__\xa0] or', 'start': 1773.679, 'duration': 3.6}
+{'text': 'whatever i know that i did well', 'start': 1775.679, 'duration': 3.441}
+{'text': 'the reason why is because if i would', 'start': 1777.279, 'duration': 3.041}
+{'text': 'have done poorly', 'start': 1779.12, 'duration': 2.24}
+{'text': 'everybody would be bringing that up', 'start': 1780.32, 'duration': 3.04}
+{'text': 'instead so after my richard wolff debate', 'start': 1781.36, 'duration': 3.52}
+{'text': 'if i would have been factually incorrect', 'start': 1783.36, 'duration': 2.48}
+{'text': 'about a ton of things', 'start': 1784.88, 'duration': 2.64}
+{'text': 'or anything people would have been', 'start': 1785.84, 'duration': 3.6}
+{'text': 'slamming me for it destiny thinks of', 'start': 1787.52, 'duration': 3.2}
+{'text': "this or doesn't he doesn't know about", 'start': 1789.44, 'duration': 2.88}
+{'text': "that about but that's not what people", 'start': 1790.72, 'duration': 2.0}
+{'text': 'said', 'start': 1792.32, 'duration': 2.32}
+{'text': 'instead it was this was irresponsible', 'start': 1792.72, 'duration': 3.36}
+{'text': "destiny's just a dumb [\xa0__\xa0]", 'start': 1794.64, 'duration': 2.72}
+{'text': "he shouldn't have had this debate with", 'start': 1796.08, 'duration': 2.719}
+{'text': "wolf that wasn't worth them but because", 'start': 1797.36, 'duration': 2.64}
+{'text': "people go to that it's time's like oh", 'start': 1798.799, 'duration': 2.48}
+{'text': 'okay well if it would have been a little', 'start': 1800.0, 'duration': 2.559}
+{'text': 'different i think you would have said', 'start': 1801.279, 'duration': 1.76}
+{'text': 'this', 'start': 1802.559, 'duration': 1.521}
+{'text': 'if it actually would have been how', 'start': 1803.039, 'duration': 2.081}
+{'text': "you're saying you would have said this", 'start': 1804.08, 'duration': 2.0}
+{'text': 'or that instead', 'start': 1805.12, 'duration': 2.72}
+{'text': 'some yeah the fouchy emails is another', 'start': 1806.08, 'duration': 3.68}
+{'text': 'really good example as soon as that kid', 'start': 1807.84, 'duration': 3.439}
+{'text': 'brought up like well look at this email', 'start': 1809.76, 'duration': 3.039}
+{'text': "that this guy sent that felt you didn't", 'start': 1811.279, 'duration': 2.241}
+{'text': 'respond to', 'start': 1812.799, 'duration': 2.561}
+{'text': "like if that's all you got you're i'm", 'start': 1813.52, 'duration': 3.2}
+{'text': 'sorry this is already over', 'start': 1815.36, 'duration': 4.96}
+{'text': 'right um oh yeah', 'start': 1816.72, 'duration': 5.439}
+{'text': "[\xa0__\xa0] what is it if you don't have the", 'start': 1820.32, 'duration': 3.44}
+{'text': "facts you pound the process if you don't", 'start': 1822.159, 'duration': 2.88}
+{'text': 'have the process you pound the facts or', 'start': 1823.76, 'duration': 2.24}
+{'text': "you don't have either you pound the", 'start': 1825.039, 'duration': 1.52}
+{'text': 'table or', 'start': 1826.0, 'duration': 4.72}
+{'text': "it's something like that yeah but", 'start': 1826.559, 'duration': 4.161}
+{'text': "um you know i i yeah i don't", 'start': 1831.039, 'duration': 6.0}
+{'text': "correct me if i'm wrong because from", 'start': 1835.52, 'duration': 3.44}
+{'text': "what you're telling me you guys dated", 'start': 1837.039, 'duration': 3.52}
+{'text': 'while you were in college together right', 'start': 1838.96, 'duration': 3.36}
+{'text': 'yeah and probably after college', 'start': 1840.559, 'duration': 5.041}
+{'text': "um i'm i i can't", 'start': 1842.32, 'duration': 5.359}
+{'text': "jeez i'm trying to think when i met my", 'start': 1845.6, 'duration': 4.079}
+{'text': 'husband i met my husband', 'start': 1847.679, 'duration': 5.681}
+{'text': 'in scott um', 'start': 1849.679, 'duration': 6.321}
+{'text': "let's see i was teaching dare because i", 'start': 1853.36, 'duration': 4.159}
+{'text': 'met scott when i was teaching deer up in', 'start': 1856.0, 'duration': 2.24}
+{'text': 'oregon', 'start': 1857.519, 'duration': 4.321}
+{'text': 'but we had long stopped you know', 'start': 1858.24, 'duration': 5.76}
+{'text': "dating before that so you haven't talked", 'start': 1861.84, 'duration': 3.52}
+{'text': 'to him for a long time', 'start': 1864.0, 'duration': 3.279}
+{'text': "oh i i think i haven't talked to him in", 'start': 1865.36, 'duration': 3.6}
+{'text': "a long time um i couldn't even tell you", 'start': 1867.279, 'duration': 3.361}
+{'text': 'when the last time i talked to him', 'start': 1868.96, 'duration': 5.52}
+{'text': "um i met scott i'm thinking in", 'start': 1870.64, 'duration': 7.6}
+{'text': '92 maybe april of 92', 'start': 1874.48, 'duration': 5.6}
+{'text': "it was scott being your husband yeah i'm", 'start': 1878.24, 'duration': 4.799}
+{'text': 'trying to think i was teaching dare', 'start': 1880.08, 'duration': 5.439}
+{'text': "let's see what year is this we'll be", 'start': 1883.039, 'duration': 3.441}
+{'text': 'married', 'start': 1885.519, 'duration': 3.361}
+{'text': 'i got married in 1996. i think i met', 'start': 1886.48, 'duration': 3.919}
+{'text': 'scott in 92', 'start': 1888.88, 'duration': 3.039}
+{'text': "prior to that i couldn't tell you how", 'start': 1890.399, 'duration': 3.841}
+{'text': 'long i had talked you know talked to', 'start': 1891.919, 'duration': 5.201}
+{'text': 'john prior to that but since you since', 'start': 1894.24, 'duration': 4.48}
+{'text': "you met your husband scott you haven't", 'start': 1897.12, 'duration': 3.2}
+{'text': 'talked to him', 'start': 1898.72, 'duration': 4.48}
+{'text': 'is john the uh told me uh the murderer', 'start': 1900.32, 'duration': 4.4}
+{'text': "that's your twitter", 'start': 1903.2, 'duration': 4.959}
+{'text': 'we got um you know', 'start': 1904.72, 'duration': 6.4}
+{'text': 'geez i i lived in i moved to see me in', 'start': 1908.159, 'duration': 4.4}
+{'text': '1994', 'start': 1911.12, 'duration': 2.559}
+{'text': 'because i lost my house in the', 'start': 1912.559, 'duration': 3.921}
+{'text': 'earthquake oh um no she oh she actually', 'start': 1913.679, 'duration': 3.441}
+{'text': 'did it', 'start': 1916.48, 'duration': 3.76}
+{'text': 'i probably keep in contact with a few', 'start': 1917.12, 'duration': 4.88}
+{'text': "people from the dorms we we all we've", 'start': 1920.24, 'duration': 3.52}
+{'text': 'all lived on the 10th floor', 'start': 1922.0, 'duration': 5.919}
+{'text': 'um and um', 'start': 1923.76, 'duration': 7.279}
+{'text': 'there is oh john was the husband of the', 'start': 1927.919, 'duration': 3.921}
+{'text': 'woman she killed', 'start': 1931.039, 'duration': 2.48}
+{'text': 'gotcha three or four people i keep in', 'start': 1931.84, 'duration': 3.36}
+{'text': "contact with there's probably like six", 'start': 1933.519, 'duration': 3.04}
+{'text': 'or eight of us that were all really', 'start': 1935.2, 'duration': 2.24}
+{'text': 'close', 'start': 1936.559, 'duration': 4.48}
+{'text': 'and who are those people oh geez um', 'start': 1937.44, 'duration': 7.119}
+{'text': 'diana basta um', 'start': 1941.039, 'duration': 5.441}
+{'text': "people i still keep i haven't been in", 'start': 1944.559, 'duration': 4.081}
+{'text': 'contact with her in a long time', 'start': 1946.48, 'duration': 5.76}
+{'text': "um i mean what's", 'start': 1948.64, 'duration': 5.6}
+{'text': "i mean what's this all about i mean let", 'start': 1952.24, 'duration': 3.12}
+{'text': 'me ask you that', 'start': 1954.24, 'duration': 3.2}
+{'text': 'the suspect challenges the detectives', 'start': 1955.36, 'duration': 3.199}
+{'text': 'for the second time', 'start': 1957.44, 'duration': 3.28}
+{'text': 'and once again the question is avoided', 'start': 1958.559, 'duration': 3.441}
+{'text': 'but this time in a more', 'start': 1960.72, 'duration': 3.28}
+{'text': 'confrontational manner as the topic is', 'start': 1962.0, 'duration': 4.159}
+{'text': 'maintained with no reassurance afforded', 'start': 1964.0, 'duration': 3.519}
+{'text': 'the detectives are ramping up the', 'start': 1966.159, 'duration': 2.88}
+{'text': 'pressure in a very subtle', 'start': 1967.519, 'duration': 3.601}
+{'text': 'yet highly effective manner when did the', 'start': 1969.039, 'duration': 3.12}
+{'text': 'relationship between', 'start': 1971.12, 'duration': 4.48}
+{'text': "you and john you know i don't", 'start': 1972.159, 'duration': 5.52}
+{'text': "it was kind of she's giving the uh she's", 'start': 1975.6, 'duration': 4.48}
+{'text': 'giving the demon mama', 'start': 1977.679, 'duration': 5.681}
+{'text': 'exaggerated facebook like why would that', 'start': 1980.08, 'duration': 4.479}
+{'text': 'matter why', 'start': 1983.36, 'duration': 3.199}
+{'text': 'why would you just ask that what do you', 'start': 1984.559, 'duration': 3.761}
+{'text': 'mean how did the relationship end like', 'start': 1986.559, 'duration': 3.36}
+{'text': "is that relevant to anything like it's", 'start': 1988.32, 'duration': 2.8}
+{'text': 'like this so', 'start': 1989.919, 'duration': 2.961}
+{'text': 'or it might be that actually i guess', 'start': 1991.12, 'duration': 3.2}
+{'text': "because i don't have a record of ever", 'start': 1992.88, 'duration': 2.56}
+{'text': "talking to this lady or i don't have", 'start': 1994.32, 'duration': 2.0}
+{'text': 'like a history', 'start': 1995.44, 'duration': 2.719}
+{'text': 'of maybe she always is like hyper', 'start': 1996.32, 'duration': 4.16}
+{'text': 'exaggerated that might be the case too', 'start': 1998.159, 'duration': 5.36}
+{'text': "maybe i don't know maybe but it doesn't", 'start': 2000.48, 'duration': 3.76}
+{'text': 'look good', 'start': 2003.519, 'duration': 2.4}
+{'text': "um when i say it doesn't look good i", 'start': 2004.24, 'duration': 3.039}
+{'text': "don't mean like it looks bad", 'start': 2005.919, 'duration': 2.961}
+{'text': 'like physically i just mean it makes her', 'start': 2007.279, 'duration': 4.481}
+{'text': 'look really guilty like', 'start': 2008.88, 'duration': 6.0}
+{'text': 'i have a weird relationship i mean we', 'start': 2011.76, 'duration': 5.759}
+{'text': "we dated um i can't say that he was my", 'start': 2014.88, 'duration': 3.12}
+{'text': 'boyfriend', 'start': 2017.519, 'duration': 1.52}
+{'text': "i don't know that he would have", 'start': 2018.0, 'duration': 3.039}
+{'text': 'considered me his girlfriend', 'start': 2019.039, 'duration': 4.401}
+{'text': 'um we just we dated we did things i', 'start': 2021.039, 'duration': 3.841}
+{'text': 'played sports in college he played', 'start': 2023.44, 'duration': 2.8}
+{'text': 'basketball', 'start': 2024.88, 'duration': 4.799}
+{'text': 'his brother played basketball um', 'start': 2026.24, 'duration': 7.039}
+{'text': 'we just you know it just', 'start': 2029.679, 'duration': 5.36}
+{'text': "didn't work out i mean i don't know what", 'start': 2033.279, 'duration': 3.52}
+{'text': 'to tell you it was like i went out with', 'start': 2035.039, 'duration': 2.64}
+{'text': 'other guys', 'start': 2036.799, 'duration': 3.201}
+{'text': 'um saw the guys they went on lots of', 'start': 2037.679, 'duration': 3.761}
+{'text': 'vacations', 'start': 2040.0, 'duration': 4.559}
+{'text': 'um you know and once you guys', 'start': 2041.44, 'duration': 4.959}
+{'text': 'split were you guys still friends or', 'start': 2044.559, 'duration': 3.201}
+{'text': 'kind of', 'start': 2046.399, 'duration': 5.121}
+{'text': 'you know i mean friendly not friendly', 'start': 2047.76, 'duration': 5.52}
+{'text': "no i don't think it was not friendly i", 'start': 2051.52, 'duration': 3.839}
+{'text': 'mean we were friendly', 'start': 2053.28, 'duration': 6.399}
+{'text': 'i know that we went to hawaii', 'start': 2055.359, 'duration': 8.641}
+{'text': 'at one point yeah i mean i you know', 'start': 2059.679, 'duration': 7.281}
+{'text': "and you were saying that um it's 2009", 'start': 2064.0, 'duration': 5.76}
+{'text': 'now had you ever met his wife', 'start': 2066.96, 'duration': 4.879}
+{'text': 'i may have do you know do you remember', 'start': 2069.76, 'duration': 4.48}
+{'text': 'her name or anything or', 'start': 2071.839, 'duration': 4.721}
+{'text': 'um', 'start': 2074.24, 'duration': 2.32}
+{'text': 'for what she did for a living or where', 'start': 2079.599, 'duration': 3.201}
+{'text': 'she worked or', 'start': 2081.679, 'duration': 3.92}
+{'text': 'anything about her the suspect was just', 'start': 2082.8, 'duration': 4.559}
+{'text': 'asked three consecutive questions', 'start': 2085.599, 'duration': 2.8}
+{'text': 'relating to the victim', 'start': 2087.359, 'duration': 3.201}
+{'text': 'she was supposedly in a reflective state', 'start': 2088.399, 'duration': 3.68}
+{'text': 'during all three of the questions', 'start': 2090.56, 'duration': 3.359}
+{'text': 'yet her facial expression completely', 'start': 2092.079, 'duration': 3.121}
+{'text': 'changed for the third one', 'start': 2093.919, 'duration': 3.2}
+{'text': 'this is because she was pretending to be', 'start': 2095.2, 'duration': 3.52}
+{'text': 'in a state of reflection for the first', 'start': 2097.119, 'duration': 3.361}
+{'text': 'two questions as she already knew the', 'start': 2098.72, 'duration': 3.359}
+{'text': 'answers whereas for the third', 'start': 2100.48, 'duration': 3.68}
+{'text': 'question she actually was in a state of', 'start': 2102.079, 'duration': 3.921}
+{'text': 'reflection and was genuinely searching', 'start': 2104.16, 'duration': 4.16}
+{'text': 'her memory for the correct response', 'start': 2106.0, 'duration': 6.079}
+{'text': 'had you ever met his wife i may have', 'start': 2108.32, 'duration': 5.279}
+{'text': 'do you know do you remember her name or', 'start': 2112.079, 'duration': 3.361}
+{'text': 'anything or', 'start': 2113.599, 'duration': 4.24}
+{'text': 'um', 'start': 2115.44, 'duration': 2.399}
+{'text': 'the third question is about to be posed', 'start': 2120.96, 'duration': 3.68}
+{'text': 'and her focus is about to switch from', 'start': 2122.96, 'duration': 3.76}
+{'text': 'pretending to be thinking to actually', 'start': 2124.64, 'duration': 2.56}
+{'text': 'thinking', 'start': 2126.72, 'duration': 2.48}
+{'text': 'for what she did for a living or where', 'start': 2127.2, 'duration': 3.04}
+{'text': 'she worked or', 'start': 2129.2, 'duration': 3.52}
+{'text': "anything about her well i think she i'm", 'start': 2130.24, 'duration': 4.879}
+{'text': 'gonna say that i think she was a nurse', 'start': 2132.72, 'duration': 5.2}
+{'text': 'um one thing that people are really bad', 'start': 2135.119, 'duration': 4.401}
+{'text': 'about when it comes to these kind of', 'start': 2137.92, 'duration': 3.919}
+{'text': 'like non-voluntary responses to things', 'start': 2139.52, 'duration': 3.52}
+{'text': "is people don't know", 'start': 2141.839, 'duration': 4.0}
+{'text': 'what they actually look like um they', 'start': 2143.04, 'duration': 4.72}
+{'text': 'only know like the exaggerated forms', 'start': 2145.839, 'duration': 2.801}
+{'text': 'that you see like', 'start': 2147.76, 'duration': 3.04}
+{'text': 'maybe in a in a movie or something so', 'start': 2148.64, 'duration': 3.76}
+{'text': 'for instance what does it look like when', 'start': 2150.8, 'duration': 3.039}
+{'text': "somebody's thinking about something most", 'start': 2152.4, 'duration': 3.04}
+{'text': "people would think that it's like", 'start': 2153.839, 'duration': 4.481}
+{'text': 'hmm like some like hyper exaggerated', 'start': 2155.44, 'duration': 4.0}
+{'text': "thing but that's not always what it", 'start': 2158.32, 'duration': 1.84}
+{'text': 'looks like', 'start': 2159.44, 'duration': 4.0}
+{'text': "and oftentimes if you're trying to fake", 'start': 2160.16, 'duration': 5.04}
+{'text': 'like you look like a particular thing or', 'start': 2163.44, 'duration': 2.72}
+{'text': "that you look like you're considering", 'start': 2165.2, 'duration': 1.6}
+{'text': 'something', 'start': 2166.16, 'duration': 2.84}
+{'text': 'um then like your your the', 'start': 2166.8, 'duration': 4.72}
+{'text': 'exaggeratedness of that particular thing', 'start': 2169.0, 'duration': 5.96}
+{'text': 'is going to give you away like hardcore', 'start': 2171.52, 'duration': 8.319}
+{'text': 'um i think like a really good example of', 'start': 2174.96, 'duration': 5.36}
+{'text': 'this', 'start': 2179.839, 'duration': 1.821}
+{'text': 'is', 'start': 2180.32, 'duration': 4.46}
+{'text': '[Laughter]', 'start': 2181.66, 'duration': 3.12}
+{'text': 'so one of the so one of the biggest', 'start': 2185.04, 'duration': 4.16}
+{'text': 'quote-unquote lies', 'start': 2187.52, 'duration': 4.72}
+{'text': 'that i will tell frequently is i i used', 'start': 2189.2, 'duration': 4.159}
+{'text': 'to do this not as much now because i try', 'start': 2192.24, 'duration': 2.24}
+{'text': 'to wake up back when my semester was', 'start': 2193.359, 'duration': 1.681}
+{'text': 'horrible', 'start': 2194.48, 'duration': 2.56}
+{'text': 'i would pretend to be sleeping always i', 'start': 2195.04, 'duration': 3.28}
+{'text': "don't want somebody to wake me up", 'start': 2197.04, 'duration': 2.799}
+{'text': "and i don't ever want to be [\xa0__\xa0]", 'start': 2198.32, 'duration': 3.68}
+{'text': "woken up okay just let me sleep that's", 'start': 2199.839, 'duration': 3.041}
+{'text': 'what i want to do', 'start': 2202.0, 'duration': 2.72}
+{'text': 'so i will say whatever do whatever', 'start': 2202.88, 'duration': 3.76}
+{'text': 'whatever i need to do to remain sleeping', 'start': 2204.72, 'duration': 3.359}
+{'text': 'okay because i just want to sleep all', 'start': 2206.64, 'duration': 2.24}
+{'text': 'right', 'start': 2208.079, 'duration': 4.481}
+{'text': 'um a lot of people will think that like', 'start': 2208.88, 'duration': 5.12}
+{'text': "if you look at somebody who's fake", 'start': 2212.56, 'duration': 4.4}
+{'text': 'sleeping oftentimes what will happen is', 'start': 2214.0, 'duration': 5.359}
+{'text': 'is their body will be completely stiff', 'start': 2216.96, 'duration': 3.6}
+{'text': "and if they're really bad", 'start': 2219.359, 'duration': 3.921}
+{'text': 'they might even like you can tell that', 'start': 2220.56, 'duration': 4.08}
+{'text': "there's like pressure around like their", 'start': 2223.28, 'duration': 2.88}
+{'text': 'eyes being closed', 'start': 2224.64, 'duration': 3.12}
+{'text': "but that's not what a normal sleeping", 'start': 2226.16, 'duration': 3.6}
+{'text': 'person is like sleeping people will like', 'start': 2227.76, 'duration': 3.68}
+{'text': "they'll move around a little bit if you", 'start': 2229.76, 'duration': 3.44}
+{'text': "like touch them they'll like", 'start': 2231.44, 'duration': 3.12}
+{'text': 'you know do this they might right', 'start': 2233.2, 'duration': 3.12}
+{'text': 'sleeping people are a lot more quote', 'start': 2234.56, 'duration': 3.12}
+{'text': 'unquote awake looking', 'start': 2236.32, 'duration': 3.6}
+{'text': "than like somebody that's fake sleeping", 'start': 2237.68, 'duration': 3.2}
+{'text': 'you can it is', 'start': 2239.92, 'duration': 4.159}
+{'text': 'very very very easy in my opinion to to', 'start': 2240.88, 'duration': 5.44}
+{'text': 'figure out if somebody is fake sleeping', 'start': 2244.079, 'duration': 3.921}
+{'text': 'you can usually tell immediately', 'start': 2246.32, 'duration': 2.96}
+{'text': 'like if you start touching someone', 'start': 2248.0, 'duration': 2.079}
+{'text': "you're like hey are you awake and", 'start': 2249.28, 'duration': 2.4}
+{'text': "they're just like", 'start': 2250.079, 'duration': 3.28}
+{'text': "they're they're like lucy [\xa0__\xa0] i", 'start': 2251.68, 'duration': 3.2}
+{'text': "know you're awake okay i'm not seven", 'start': 2253.359, 'duration': 3.281}
+{'text': 'years old the [\xa0__\xa0] is wrong with you', 'start': 2254.88, 'duration': 4.4}
+{'text': 'um so yeah people people i think that', 'start': 2256.64, 'duration': 4.479}
+{'text': 'when people are trying to fake a certain', 'start': 2259.28, 'duration': 2.4}
+{'text': 'emotion', 'start': 2261.119, 'duration': 2.48}
+{'text': "or whatever um like whether it's", 'start': 2261.68, 'duration': 3.04}
+{'text': 'contemplation', 'start': 2263.599, 'duration': 4.48}
+{'text': 'or um you know being sad or happy or', 'start': 2264.72, 'duration': 5.44}
+{'text': 'confused whatever people will', 'start': 2268.079, 'duration': 4.401}
+{'text': 'hardcore exaggerate that emotion because', 'start': 2270.16, 'duration': 3.28}
+{'text': "they think that's what it looks like", 'start': 2272.48, 'duration': 3.44}
+{'text': 'normally', 'start': 2273.44, 'duration': 2.48}
+{'text': 'oh people never breathe right when', 'start': 2279.359, 'duration': 3.441}
+{'text': "trying to sleep if you that's another", 'start': 2281.28, 'duration': 3.28}
+{'text': 'thing that super sells it as well', 'start': 2282.8, 'duration': 4.64}
+{'text': "um if you're trying to fake being asleep", 'start': 2284.56, 'duration': 4.48}
+{'text': "there's a sound that you make when you", 'start': 2287.44, 'duration': 2.24}
+{'text': 'breathe', 'start': 2289.04, 'duration': 2.0}
+{'text': "i don't know how to explain it but if", 'start': 2289.68, 'duration': 3.36}
+{'text': 'you let your tongue in the back of your', 'start': 2291.04, 'duration': 3.44}
+{'text': 'mouth relax relax', 'start': 2293.04, 'duration': 4.64}
+{'text': "a lot more there's like a there's a", 'start': 2294.48, 'duration': 3.599}
+{'text': 'sound', 'start': 2297.68, 'duration': 2.159}
+{'text': "for when you're breathing more when you", 'start': 2298.079, 'duration': 3.04}
+{'text': "sound like you're asleep versus when", 'start': 2299.839, 'duration': 1.921}
+{'text': "you're awake", 'start': 2301.119, 'duration': 2.081}
+{'text': "i don't know how to explain it but", 'start': 2301.76, 'duration': 3.04}
+{'text': "that's also like a very real thing where", 'start': 2303.2, 'duration': 2.48}
+{'text': 'you can tell', 'start': 2304.8, 'duration': 2.24}
+{'text': 'that somebody is like asleep or not', 'start': 2305.68, 'duration': 2.56}
+{'text': "asleep you'll hear the change in their", 'start': 2307.04, 'duration': 3.039}
+{'text': 'breathing from', 'start': 2308.24, 'duration': 4.879}
+{'text': "to like a more like it's not throaty the", 'start': 2310.079, 'duration': 4.481}
+{'text': 'the shape inside your mouth when your', 'start': 2313.119, 'duration': 3.121}
+{'text': 'tongue relaxes that will change for sure', 'start': 2314.56, 'duration': 2.64}
+{'text': '100', 'start': 2316.24, 'duration': 3.92}
+{'text': 'yeah true it can be like close to', 'start': 2317.2, 'duration': 8.8}
+{'text': 'snoring almost yeah', 'start': 2320.16, 'duration': 8.32}
+{'text': "i can't remember how he said he met her", 'start': 2326.0, 'duration': 3.839}
+{'text': 'uh yeah i mean i i', 'start': 2328.48, 'duration': 3.44}
+{'text': "yeah i mean it's been so long ago well", 'start': 2329.839, 'duration': 3.121}
+{'text': 'let me ask you did you go to their', 'start': 2331.92, 'duration': 1.919}
+{'text': 'wedding', 'start': 2332.96, 'duration': 3.52}
+{'text': "you know no i didn't go to their wedding", 'start': 2333.839, 'duration': 3.201}
+{'text': 'um', 'start': 2336.48, 'duration': 3.2}
+{'text': "no i don't did not go to their wedding", 'start': 2337.04, 'duration': 4.079}
+{'text': 'um', 'start': 2339.68, 'duration': 2.48}
+{'text': "i couldn't even tell you what year he", 'start': 2341.119, 'duration': 3.201}
+{'text': "got married i mean you know it's been a", 'start': 2342.16, 'duration': 3.28}
+{'text': 'million years ago', 'start': 2344.32, 'duration': 4.48}
+{'text': 'you know again i mean what you know', 'start': 2345.44, 'duration': 4.88}
+{'text': "i don't understand why you're talking", 'start': 2348.8, 'duration': 3.2}
+{'text': 'about some guy dated a million years ago', 'start': 2350.32, 'duration': 2.96}
+{'text': 'well do you know what happened to his', 'start': 2352.0, 'duration': 2.0}
+{'text': 'wife', 'start': 2353.28, 'duration': 2.64}
+{'text': "yeah i know she got killed you wouldn't", 'start': 2354.0, 'duration': 4.0}
+{'text': 'need to be an expert in body language to', 'start': 2355.92, 'duration': 4.08}
+{'text': 'recognize the unmitigated terror', 'start': 2358.0, 'duration': 3.839}
+{'text': "emanating from the suspect's face at", 'start': 2360.0, 'duration': 3.68}
+{'text': 'this moment she had just verbalized the', 'start': 2361.839, 'duration': 3.76}
+{'text': "victim's tragic demise for the first", 'start': 2363.68, 'duration': 2.24}
+{'text': 'time', 'start': 2365.599, 'duration': 3.52}
+{'text': 'in most likely over two decades', 'start': 2365.92, 'duration': 5.6}
+{'text': 'what did you hear about that i guess i', 'start': 2369.119, 'duration': 3.681}
+{'text': 'saw a poster at work', 'start': 2371.52, 'duration': 4.559}
+{'text': "um i'm sure i spoke to him about it", 'start': 2372.8, 'duration': 6.64}
+{'text': 'um i think i spoke to another friend of', 'start': 2376.079, 'duration': 4.881}
+{'text': 'his about it', 'start': 2379.44, 'duration': 3.76}
+{'text': 'um and how did you first learn about', 'start': 2380.96, 'duration': 3.84}
+{'text': 'that', 'start': 2383.2, 'duration': 5.2}
+{'text': 'jeez someone could have called me i', 'start': 2384.8, 'duration': 5.36}
+{'text': 'could heard it at work', 'start': 2388.4, 'duration': 4.719}
+{'text': "um i'm trying to think i don't have the", 'start': 2390.16, 'duration': 4.4}
+{'text': 'lived experience', 'start': 2393.119, 'duration': 3.601}
+{'text': "of being that old i'm trying to imagine", 'start': 2394.56, 'duration': 4.88}
+{'text': 'if somebody told me 20 years ago', 'start': 2396.72, 'duration': 4.639}
+{'text': 'that somebody died that was like the', 'start': 2399.44, 'duration': 3.84}
+{'text': 'wife of somebody that i dated for four', 'start': 2401.359, 'duration': 2.801}
+{'text': 'years', 'start': 2403.28, 'duration': 2.559}
+{'text': 'would i immediately remember that or', 'start': 2404.16, 'duration': 2.8}
+{'text': "would that be something you'd have to", 'start': 2405.839, 'duration': 2.401}
+{'text': "like i don't remember how i heard about", 'start': 2406.96, 'duration': 1.68}
+{'text': 'it', 'start': 2408.24, 'duration': 2.4}
+{'text': "i remember if you like wouldn't if you'd", 'start': 2408.64, 'duration': 3.199}
+{'text': 'really like not know', 'start': 2410.64, 'duration': 2.56}
+{'text': "like how did i hear about that i'm not", 'start': 2411.839, 'duration': 3.121}
+{'text': 'sure', 'start': 2413.2, 'duration': 3.2}
+{'text': 'i think at one point there may have been', 'start': 2414.96, 'duration': 3.359}
+{'text': 'a flyer or something possible i know a', 'start': 2416.4, 'duration': 3.52}
+{'text': 'good friend of his um are you on the job', 'start': 2418.319, 'duration': 2.241}
+{'text': 'back then', 'start': 2419.92, 'duration': 3.12}
+{'text': 'when that happened yeah i think so yeah', 'start': 2420.56, 'duration': 3.84}
+{'text': "i'm sure i was on the job that's why i", 'start': 2423.04, 'duration': 2.48}
+{'text': 'would have heard about it', 'start': 2424.4, 'duration': 3.84}
+{'text': 'with the flyer um he had a good time', 'start': 2425.52, 'duration': 3.68}
+{'text': 'mike', 'start': 2428.24, 'duration': 3.04}
+{'text': "mike this is like when i'm debating", 'start': 2429.2, 'duration': 3.6}
+{'text': 'somebody and i hear them like i can', 'start': 2431.28, 'duration': 2.799}
+{'text': 'especially with vosh when i can feel', 'start': 2432.8, 'duration': 2.72}
+{'text': "like they're making up their position in", 'start': 2434.079, 'duration': 2.081}
+{'text': 'real time', 'start': 2435.52, 'duration': 2.72}
+{'text': "and it's like well yeah yeah yeah i mean", 'start': 2436.16, 'duration': 3.12}
+{'text': 'of course i would have been working uh', 'start': 2438.24, 'duration': 2.64}
+{'text': "yeah that's why yeah the flyer when i", 'start': 2439.28, 'duration': 2.96}
+{'text': 'was working yeah you know like you can', 'start': 2440.88, 'duration': 2.719}
+{'text': "tell that they're like in real time", 'start': 2442.24, 'duration': 2.879}
+{'text': "trying to discover the lie that they're", 'start': 2443.599, 'duration': 2.801}
+{'text': 'telling', 'start': 2445.119, 'duration': 7.841}
+{'text': 'baldrick mike um', 'start': 2446.4, 'duration': 9.28}
+{'text': "you know being that you're kind of used", 'start': 2452.96, 'duration': 3.2}
+{'text': 'to see', 'start': 2455.68, 'duration': 3.28}
+{'text': 'uh john you know how did you hear about', 'start': 2456.16, 'duration': 4.4}
+{'text': 'the towers falling i think i was', 'start': 2458.96, 'duration': 3.52}
+{'text': 'i think it was in homeroom meaning that', 'start': 2460.56, 'duration': 3.44}
+{'text': "class wouldn't have started yet was it", 'start': 2462.48, 'duration': 4.48}
+{'text': 'really that early', 'start': 2464.0, 'duration': 4.8}
+{'text': 'what time did the first tower get hit i', 'start': 2466.96, 'duration': 3.04}
+{'text': 'felt like i was in homeroom and we', 'start': 2468.8, 'duration': 3.279}
+{'text': "hadn't actually started classes yet", 'start': 2470.0, 'duration': 5.76}
+{'text': 'but that might have been it was 9 a.m', 'start': 2472.079, 'duration': 6.161}
+{'text': 'eastern', 'start': 2475.76, 'duration': 2.48}
+{'text': 'i i think i think that what happened so', 'start': 2478.56, 'duration': 5.759}
+{'text': 'then it would have been 7 30 a.m for me', 'start': 2482.079, 'duration': 4.081}
+{'text': 'i think that what happened was i think', 'start': 2484.319, 'duration': 3.76}
+{'text': 'that there was stuff on the radio', 'start': 2486.16, 'duration': 4.72}
+{'text': 'playing but nobody really knew what the', 'start': 2488.079, 'duration': 3.841}
+{'text': '[\xa0__\xa0] was happening', 'start': 2490.88, 'duration': 3.84}
+{'text': 'until the hours rolled in especially', 'start': 2491.92, 'duration': 4.399}
+{'text': 'once the second plane hit', 'start': 2494.72, 'duration': 3.44}
+{'text': 'because i think i think there was a lot', 'start': 2496.319, 'duration': 3.28}
+{'text': 'of jabber on the radio about like', 'start': 2498.16, 'duration': 2.8}
+{'text': 'maybe the plane hit a tower people', 'start': 2499.599, 'duration': 2.72}
+{'text': "didn't know if it was an accident there", 'start': 2500.96, 'duration': 3.04}
+{'text': 'was like it was a lot of talk about it', 'start': 2502.319, 'duration': 3.52}
+{'text': "but it wasn't like a huge thing when the", 'start': 2504.0, 'duration': 3.28}
+{'text': 'second plane hit', 'start': 2505.839, 'duration': 3.041}
+{'text': 'then it was a huge thing and then when', 'start': 2507.28, 'duration': 3.6}
+{'text': 'three and four rolled in man my teachers', 'start': 2508.88, 'duration': 3.12}
+{'text': 'were so upset that', 'start': 2510.88, 'duration': 2.8}
+{'text': 'everybody was really angsty i remember', 'start': 2512.0, 'duration': 3.2}
+{'text': 'that day we were going from class to', 'start': 2513.68, 'duration': 2.88}
+{'text': 'class and none of the students really', 'start': 2515.2, 'duration': 2.159}
+{'text': 'knew much', 'start': 2516.56, 'duration': 2.16}
+{'text': 'some students would say like a lot of', 'start': 2517.359, 'duration': 3.681}
+{'text': '[\xa0__\xa0] to like rile up the other kids', 'start': 2518.72, 'duration': 5.599}
+{'text': 'so i remember that i think my mom told', 'start': 2521.04, 'duration': 4.72}
+{'text': 'me that if [\xa0__\xa0] gets [\xa0__\xa0] the', 'start': 2524.319, 'duration': 2.721}
+{'text': 'president will fly to', 'start': 2525.76, 'duration': 2.8}
+{'text': "offutt air force base because it's like", 'start': 2527.04, 'duration': 3.039}
+{'text': 'a centralized base', 'start': 2528.56, 'duration': 3.759}
+{'text': 'in the united states which is in omaha', 'start': 2530.079, 'duration': 4.24}
+{'text': 'kind of and i remember that some kid at', 'start': 2532.319, 'duration': 3.361}
+{'text': 'school was saying that the president was', 'start': 2534.319, 'duration': 2.721}
+{'text': 'coming to omaha because there were nukes', 'start': 2535.68, 'duration': 2.639}
+{'text': 'there and we were gonna start nuking', 'start': 2537.04, 'duration': 2.16}
+{'text': 'everybody', 'start': 2538.319, 'duration': 2.321}
+{'text': 'and that we needed to be worried because', 'start': 2539.2, 'duration': 2.8}
+{'text': 'we were gonna get attacked and everybody', 'start': 2540.64, 'duration': 2.719}
+{'text': "got really mad that kid's name i", 'start': 2542.0, 'duration': 3.04}
+{'text': "remember that kid's name dan", 'start': 2543.359, 'duration': 4.641}
+{'text': 'um not that dan but um i remember that', 'start': 2545.04, 'duration': 4.24}
+{'text': 'people were like getting scared and like', 'start': 2548.0, 'duration': 2.0}
+{'text': 'crying and [\xa0__\xa0]', 'start': 2549.28, 'duration': 4.0}
+{'text': 'but what grade were you in when it', 'start': 2550.0, 'duration': 4.0}
+{'text': 'happened', 'start': 2553.28, 'duration': 3.76}
+{'text': "i don't remember actually", 'start': 2554.0, 'duration': 3.04}
+{'text': "seventh grade it couldn't be that that'd", 'start': 2558.96, 'duration': 5.2}
+{'text': 'be way too late right it was in 2001', 'start': 2561.92, 'duration': 5.04}
+{'text': 'i graduated high school in 2007 so it', 'start': 2564.16, 'duration': 5.04}
+{'text': 'would have been six years before', 'start': 2566.96, 'duration': 4.879}
+{'text': 'year 12 yeah maybe it would have been', 'start': 2569.2, 'duration': 4.72}
+{'text': 'like seventh grade yeah', 'start': 2571.839, 'duration': 3.361}
+{'text': "it wasn't fifth grade so it must have", 'start': 2573.92, 'duration': 2.88}
+{'text': 'been seventh grade i homeschooled one', 'start': 2575.2, 'duration': 3.52}
+{'text': 'year in sixth grade', 'start': 2576.8, 'duration': 4.96}
+{'text': 'so it was seventh grade', 'start': 2578.72, 'duration': 3.04}
+{'text': 'i remember coming home from school and', 'start': 2588.0, 'duration': 2.48}
+{'text': 'having a flip channel like 12 times', 'start': 2589.359, 'duration': 2.401}
+{'text': 'where i found cartoons because all the', 'start': 2590.48, 'duration': 3.119}
+{'text': 'channels had a big smoking tower on it', 'start': 2591.76, 'duration': 4.16}
+{'text': 'damn', 'start': 2593.599, 'duration': 3.76}
+{'text': 'now it was eighth grade for you it might', 'start': 2595.92, 'duration': 3.679}
+{'text': 'have been eighth why did you graduate in', 'start': 2597.359, 'duration': 2.96}
+{'text': '70', 'start': 2599.599, 'duration': 3.681}
+{'text': "or 107 if you were born in 88 i don't", 'start': 2600.319, 'duration': 3.921}
+{'text': '[\xa0__\xa0] know it was just', 'start': 2603.28, 'duration': 4.079}
+{'text': "when i went to school i don't know what", 'start': 2604.24, 'duration': 3.839}
+{'text': 'was i', 'start': 2607.359, 'duration': 2.561}
+{'text': 'i think i was probably a little older in', 'start': 2608.079, 'duration': 4.24}
+{'text': 'class because i think the cut-off', 'start': 2609.92, 'duration': 4.159}
+{'text': 'for when you would go to school was in', 'start': 2612.319, 'duration': 4.481}
+{'text': 'october so i think if you were born', 'start': 2614.079, 'duration': 4.881}
+{'text': 'in november or december you would have', 'start': 2616.8, 'duration': 4.08}
+{'text': 'been in the older part of your class', 'start': 2618.96, 'duration': 5.44}
+{'text': 'but if you were born in um', 'start': 2620.88, 'duration': 3.52}
+{'text': 'whatever the um', 'start': 2624.48, 'duration': 2.879}
+{'text': 'august september october if you were', 'start': 2628.0, 'duration': 3.68}
+{'text': 'like born in september or october i', 'start': 2629.92, 'duration': 3.28}
+{'text': 'think you would be like in the younger', 'start': 2631.68, 'duration': 4.0}
+{'text': 'part of your class', 'start': 2633.2, 'duration': 4.24}
+{'text': 'what did i homeschool for a year um', 'start': 2635.68, 'duration': 3.12}
+{'text': 'honest to god because my sister was', 'start': 2637.44, 'duration': 2.48}
+{'text': 'homeschooled completely', 'start': 2638.8, 'duration': 2.16}
+{'text': 'and i thought it was going to be an', 'start': 2639.92, 'duration': 2.159}
+{'text': 'opportunity for me to play a lot of', 'start': 2640.96, 'duration': 2.399}
+{'text': 'video games', 'start': 2642.079, 'duration': 3.76}
+{'text': 'and i played a lot of video games i', 'start': 2643.359, 'duration': 3.921}
+{'text': "don't think i did anything that year", 'start': 2645.839, 'duration': 2.801}
+{'text': "when i was homeschooled i don't know how", 'start': 2647.28, 'duration': 3.12}
+{'text': 'the [\xa0__\xa0] i got back into seventh grade', 'start': 2648.64, 'duration': 3.199}
+{'text': 'and then did honors classes and', 'start': 2650.4, 'duration': 2.719}
+{'text': 'everything because', 'start': 2651.839, 'duration': 3.52}
+{'text': "i didn't do [\xa0__\xa0] all for my entire sixth", 'start': 2653.119, 'duration': 3.921}
+{'text': "grade year i don't know how we did it", 'start': 2655.359, 'duration': 2.72}
+{'text': 'boys but', 'start': 2657.04, 'duration': 3.44}
+{'text': 'man i played a lot of runescape played a', 'start': 2658.079, 'duration': 4.0}
+{'text': 'lot of video games i played a lot of', 'start': 2660.48, 'duration': 2.45}
+{'text': 'muds', 'start': 2662.079, 'duration': 2.721}
+{'text': '[Music]', 'start': 2662.93, 'duration': 3.95}
+{'text': 'i played a lot of video games that year', 'start': 2664.8, 'duration': 3.12}
+{'text': 'holy [\xa0__\xa0]', 'start': 2666.88, 'duration': 2.479}
+{'text': "so i don't know what normal people do in", 'start': 2667.92, 'duration': 2.64}
+{'text': "sixth grade but it seems like it wasn't", 'start': 2669.359, 'duration': 2.561}
+{'text': 'a very important year of', 'start': 2670.56, 'duration': 6.0}
+{'text': 'school i guess holy [\xa0__\xa0]', 'start': 2671.92, 'duration': 6.56}
+{'text': "why did i go back i don't remember i", 'start': 2676.56, 'duration': 3.279}
+{'text': 'just wanted to i think i wanted to like', 'start': 2678.48, 'duration': 2.639}
+{'text': 'socialize and [\xa0__\xa0] again i miss like', 'start': 2679.839, 'duration': 3.841}
+{'text': 'being around people and stuff', 'start': 2681.119, 'duration': 4.081}
+{'text': 'what gpa did i graduate from creighton', 'start': 2683.68, 'duration': 3.04}
+{'text': "prep my high school i'd have to find my", 'start': 2685.2, 'duration': 2.08}
+{'text': 'thing', 'start': 2686.72, 'duration': 3.84}
+{'text': "i i don't was it i", 'start': 2687.28, 'duration': 6.96}
+{'text': 'i want to say it was like a 3.1 or 3.2', 'start': 2690.56, 'duration': 5.84}
+{'text': 'which sounds impossibly high for me', 'start': 2694.24, 'duration': 3.839}
+{'text': 'because i slacked so much', 'start': 2696.4, 'duration': 4.24}
+{'text': 'but i was in almost all ap or dual', 'start': 2698.079, 'duration': 4.561}
+{'text': 'enrollment classes in my last year', 'start': 2700.64, 'duration': 4.959}
+{'text': 'so all of my gpas were like really', 'start': 2702.64, 'duration': 4.0}
+{'text': 'heavily weighted', 'start': 2705.599, 'duration': 2.48}
+{'text': 'and there was a lot of curving in some', 'start': 2706.64, 'duration': 3.439}
+{'text': 'of those classes', 'start': 2708.079, 'duration': 5.361}
+{'text': 'so i got really lucky um', 'start': 2710.079, 'duration': 6.321}
+{'text': 'yeah so somehow i i but i might have had', 'start': 2713.44, 'duration': 4.48}
+{'text': "like a 2.7 i don't remember i think it", 'start': 2716.4, 'duration': 3.12}
+{'text': 'was above a 3.0', 'start': 2717.92, 'duration': 3.04}
+{'text': 'because i think i got [\xa0__\xa0] because the', 'start': 2719.52, 'duration': 3.52}
+{'text': 'scholarship started at 3.5 and i know it', 'start': 2720.96, 'duration': 3.68}
+{'text': "wasn't a 3.5", 'start': 2723.04, 'duration': 5.12}
+{'text': 'it was below that so', 'start': 2724.64, 'duration': 3.52}
+{'text': "yeah that was my weighted jeep i don't", 'start': 2729.52, 'duration': 2.72}
+{'text': 'know my unweighted would have been my', 'start': 2730.96, 'duration': 3.28}
+{'text': 'unweighted was probably garbage', 'start': 2732.24, 'duration': 3.76}
+{'text': "but we're below 3.0 i shouldn't say", 'start': 2734.24, 'duration': 3.839}
+{'text': 'garbage man the worst high school kids', 'start': 2736.0, 'duration': 3.2}
+{'text': 'were the ones that would weight their', 'start': 2738.079, 'duration': 3.04}
+{'text': 'gpas but they would um but they would', 'start': 2739.2, 'duration': 2.8}
+{'text': 'use a different', 'start': 2741.119, 'duration': 2.881}
+{'text': "scale i don't know why people did this", 'start': 2742.0, 'duration': 3.44}
+{'text': 'but um', 'start': 2744.0, 'duration': 4.72}
+{'text': 'the the girls schools around us', 'start': 2745.44, 'duration': 6.08}
+{'text': 'stephen crowder was the voice of alan', 'start': 2748.72, 'duration': 3.52}
+{'text': 'powers', 'start': 2751.52, 'duration': 4.559}
+{'text': 'in arthur for', 'start': 2752.24, 'duration': 5.44}
+{'text': "a season or two is that true that's so", 'start': 2756.079, 'duration': 4.081}
+{'text': 'weird the girl schools would use a 4.6', 'start': 2757.68, 'duration': 4.08}
+{'text': "scale and they'd always brag about the", 'start': 2760.16, 'duration': 4.72}
+{'text': 'gb oh we have we i have a 4.2 gpa but i', 'start': 2761.76, 'duration': 4.559}
+{'text': 'was like dude no one [\xa0__\xa0] cares', 'start': 2764.88, 'duration': 2.56}
+{'text': 'congratulations you use a different', 'start': 2766.319, 'duration': 1.921}
+{'text': 'scale okay', 'start': 2767.44, 'duration': 4.159}
+{'text': '[\xa0__\xa0] you okay sorry anyway', 'start': 2768.24, 'duration': 6.16}
+{'text': '30 minutes left or anything between you', 'start': 2771.599, 'duration': 3.921}
+{'text': 'and her', 'start': 2774.4, 'duration': 4.56}
+{'text': 'um eight separate witnesses testified', 'start': 2775.52, 'duration': 5.36}
+{'text': 'that stephanie had confronted sherry at', 'start': 2778.96, 'duration': 3.76}
+{'text': 'the hospital she worked at while the two', 'start': 2780.88, 'duration': 3.6}
+{'text': 'of them were reportedly in an intimate', 'start': 2782.72, 'duration': 2.96}
+{'text': 'relationship with john', 'start': 2784.48, 'duration': 2.96}
+{'text': 'the confrontation was said to have been', 'start': 2785.68, 'duration': 3.76}
+{'text': 'highly aggressive and stephanie had to', 'start': 2787.44, 'duration': 4.24}
+{'text': 'be escorted off the premises by security', 'start': 2789.44, 'duration': 4.399}
+{'text': 'reports stated that stephanie was by far', 'start': 2791.68, 'duration': 4.159}
+{'text': 'the more combative and even made threats', 'start': 2793.839, 'duration': 4.0}
+{'text': "against sherry's life", 'start': 2795.839, 'duration': 3.841}
+{'text': "you know i don't know i mean it's god", 'start': 2797.839, 'duration': 5.041}
+{'text': "it's been so many years i mean", 'start': 2799.68, 'duration': 6.24}
+{'text': 'uncomfortable i mean', 'start': 2802.88, 'duration': 3.04}
+{'text': "i can't even i can't even remember if we", 'start': 2806.56, 'duration': 3.68}
+{'text': 'had a conversation i mean', 'start': 2808.64, 'duration': 3.76}
+{'text': 'we may have i may have i may have seen', 'start': 2810.24, 'duration': 3.44}
+{'text': 'her at his apart', 'start': 2812.4, 'duration': 4.719}
+{'text': 'you know geez how many years ago is that', 'start': 2813.68, 'duration': 4.8}
+{'text': "i don't even know what year she", 'start': 2817.119, 'duration': 2.96}
+{'text': 'you know got killed where was his', 'start': 2818.48, 'duration': 4.08}
+{'text': 'apartment notice her passive disposition', 'start': 2820.079, 'duration': 4.081}
+{'text': 'as she gives the following truthful', 'start': 2822.56, 'duration': 2.72}
+{'text': 'response', 'start': 2824.16, 'duration': 5.199}
+{'text': 'on roscoe okay yeah roscoe and um', 'start': 2825.28, 'duration': 7.44}
+{'text': 'um easter west', 'start': 2829.359, 'duration': 5.361}
+{'text': 'okay moon and dan are both bullying me a', 'start': 2832.72, 'duration': 3.2}
+{'text': "lot in dm's right now i just want you", 'start': 2834.72, 'duration': 3.52}
+{'text': 'guys to know that okay', 'start': 2835.92, 'duration': 5.679}
+{'text': 'so uh either easter western de soto', 'start': 2838.24, 'duration': 4.879}
+{'text': 'do you know where he moved after did he', 'start': 2841.599, 'duration': 3.121}
+{'text': 'move after he got married or do you know', 'start': 2843.119, 'duration': 1.921}
+{'text': 'or', 'start': 2844.72, 'duration': 2.32}
+{'text': 'now notice how her disposition switches', 'start': 2845.04, 'duration': 4.0}
+{'text': 'from passive to frantic as she once', 'start': 2847.04, 'duration': 5.76}
+{'text': 'again pretends to have a vague memory', 'start': 2849.04, 'duration': 3.76}
+{'text': "oh i'm sure he did did you know where he", 'start': 2854.079, 'duration': 4.0}
+{'text': 'was living', 'start': 2857.44, 'duration': 4.399}
+{'text': 'or somewhere in the valley', 'start': 2858.079, 'duration': 7.121}
+{'text': "after uh john's wife died and he said", 'start': 2861.839, 'duration': 3.681}
+{'text': 'you', 'start': 2865.2, 'duration': 2.48}
+{'text': 'may have been talking to him did your', 'start': 2865.52, 'duration': 3.44}
+{'text': 'relationship', 'start': 2867.68, 'duration': 4.8}
+{'text': 'start up again i would say no', 'start': 2868.96, 'duration': 6.8}
+{'text': 'um again can you give me a year', 'start': 2872.48, 'duration': 6.8}
+{'text': 'i mean this is like 2009. she died in', 'start': 2875.76, 'duration': 6.88}
+{'text': '1986 yeah i think it was 86 1986.', 'start': 2879.28, 'duration': 7.2}
+{'text': "okay um like i said i'm i'm faintly", 'start': 2882.64, 'duration': 4.959}
+{'text': 'remembering', 'start': 2886.48, 'duration': 5.52}
+{'text': 'that um i went to hawaii', 'start': 2887.599, 'duration': 6.081}
+{'text': 'with my friend gray greg and i got', 'start': 2892.0, 'duration': 4.4}
+{'text': 'certified scuba diving', 'start': 2893.68, 'duration': 5.76}
+{'text': "um and i'm thinking that john met us", 'start': 2896.4, 'duration': 6.159}
+{'text': 'there meaning gregan i think to become', 'start': 2899.44, 'duration': 5.28}
+{'text': "somebody grandma wrong there's something", 'start': 2902.559, 'duration': 3.04}
+{'text': "there's something you can become", 'start': 2904.72, 'duration': 2.96}
+{'text': 'certified in with very very very little', 'start': 2905.599, 'duration': 3.361}
+{'text': 'training', 'start': 2907.68, 'duration': 3.28}
+{'text': "no it's not scuba diving i think it's", 'start': 2908.96, 'duration': 3.92}
+{'text': "piloting i think you can get a pilot's", 'start': 2910.96, 'duration': 3.76}
+{'text': 'license if you have like 50 hours of', 'start': 2912.88, 'duration': 3.28}
+{'text': "flight time like that's it it's", 'start': 2914.72, 'duration': 2.32}
+{'text': 'something', 'start': 2916.16, 'duration': 2.64}
+{'text': "it's something really low like when i", 'start': 2917.04, 'duration': 3.519}
+{'text': 'read it i was like wait really', 'start': 2918.8, 'duration': 3.12}
+{'text': "but maybe it's just because only like", 'start': 2920.559, 'duration': 2.8}
+{'text': 'wealthy people have planes or something', 'start': 2921.92, 'duration': 3.199}
+{'text': "or that's not like a common thing", 'start': 2923.359, 'duration': 4.641}
+{'text': 'randy may have dated a gal that mike was', 'start': 2925.119, 'duration': 4.24}
+{'text': 'dating', 'start': 2928.0, 'duration': 4.0}
+{'text': 'and that and then mike randy broke up', 'start': 2929.359, 'duration': 4.081}
+{'text': 'with that gal', 'start': 2932.0, 'duration': 3.52}
+{'text': "i couldn't even tell you the gal's name", 'start': 2933.44, 'duration': 3.76}
+{'text': "if i'm even thinking of the story right", 'start': 2935.52, 'duration': 5.44}
+{'text': 'and then i started dating randy', 'start': 2937.2, 'duration': 6.879}
+{'text': 'i you know so again i mean', 'start': 2940.96, 'duration': 5.359}
+{'text': 'not like i was a huge floozy or anything', 'start': 2944.079, 'duration': 3.921}
+{'text': 'but no', 'start': 2946.319, 'duration': 5.76}
+{'text': "as far as i recall after john's wife i", 'start': 2948.0, 'duration': 4.079}
+{'text': 'did you start a relationship again with', 'start': 2952.72, 'duration': 3.44}
+{'text': 'with john or', 'start': 2954.64, 'duration': 5.12}
+{'text': 'dating casually or anything like that', 'start': 2956.16, 'duration': 9.28}
+{'text': 'like i said he met greg and i in hawaii', 'start': 2959.76, 'duration': 5.68}
+{'text': 'um you know uh what island did we go to', 'start': 2965.68, 'duration': 6.159}
+{'text': 'i think the big island in kauai', 'start': 2971.92, 'duration': 3.6}
+{'text': "when you heard about kawaii john's wife", 'start': 2976.16, 'duration': 4.64}
+{'text': 'being killed i mean what was your', 'start': 2979.04, 'duration': 3.76}
+{'text': 'what was your reaction i mean you', 'start': 2980.8, 'duration': 3.279}
+{'text': 'thought you heard about what through a', 'start': 2982.8, 'duration': 1.84}
+{'text': 'friend or', 'start': 2984.079, 'duration': 3.681}
+{'text': 'a bulletin or a friend or a bulletin um', 'start': 2984.64, 'duration': 4.8}
+{'text': 'i obviously i mean i called they called', 'start': 2987.76, 'duration': 2.88}
+{'text': 'the family', 'start': 2989.44, 'duration': 3.36}
+{'text': 'um i um i called maybe some of his', 'start': 2990.64, 'duration': 3.919}
+{'text': 'friends that that that i knew and i mean', 'start': 2992.8, 'duration': 3.12}
+{'text': "obviously it's shocked if you're", 'start': 2994.559, 'duration': 4.161}
+{'text': 'if i heard it at work you know um which', 'start': 2995.92, 'duration': 4.639}
+{'text': 'i may have i i faintly remember a', 'start': 2998.72, 'duration': 4.24}
+{'text': 'bulletin going around', 'start': 3000.559, 'duration': 5.681}
+{'text': 'you know um', 'start': 3002.96, 'duration': 5.2}
+{'text': 'do you know what the circumstances were', 'start': 3006.24, 'duration': 7.599}
+{'text': 'regarding her death um', 'start': 3008.16, 'duration': 5.679}
+{'text': "brutally murdered i don't know if it was", 'start': 3015.44, 'duration': 4.96}
+{'text': 'you know if it was a burglary or', 'start': 3018.8, 'duration': 3.2}
+{'text': 'something uh yeah', 'start': 3020.4, 'duration': 3.84}
+{'text': "it's i mean it's been so many years i i", 'start': 3022.0, 'duration': 4.559}
+{'text': 'mean i can faintly think that i may have', 'start': 3024.24, 'duration': 4.16}
+{'text': 'saw a flyer', 'start': 3026.559, 'duration': 4.401}
+{'text': 'may have had her picture on it you know', 'start': 3028.4, 'duration': 3.919}
+{'text': 'um i mean', 'start': 3030.96, 'duration': 3.44}
+{'text': "that's why i say if somebody had called", 'start': 3032.319, 'duration': 3.04}
+{'text': 'me', 'start': 3034.4, 'duration': 2.88}
+{'text': 'i may not have known what her last name', 'start': 3035.359, 'duration': 3.601}
+{'text': 'was i may have i mean', 'start': 3037.28, 'duration': 3.839}
+{'text': 'maybe if you told me i would remember it', 'start': 3038.96, 'duration': 4.399}
+{'text': 'um', 'start': 3041.119, 'duration': 2.24}
+{'text': 'shelly um sherry wait am i cuxing', 'start': 3044.319, 'duration': 7.52}
+{'text': "not anymore you're good now from all the", 'start': 3049.599, 'duration': 4.081}
+{'text': 'years as far as you can remember', 'start': 3051.839, 'duration': 4.0}
+{'text': "you don't you remember ever talking to", 'start': 3053.68, 'duration': 3.04}
+{'text': 'her just', 'start': 3055.839, 'duration': 3.28}
+{'text': "well she's i said earlier you know i'm i", 'start': 3056.72, 'duration': 4.0}
+{'text': 'mean', 'start': 3059.119, 'duration': 4.24}
+{'text': "i may have and i'm now i'm thinking i", 'start': 3060.72, 'duration': 3.04}
+{'text': 'put me', 'start': 3063.359, 'duration': 1.681}
+{'text': 'i may have gone through and say hey you', 'start': 3063.76, 'duration': 3.12}
+{'text': 'know what you know what', 'start': 3065.04, 'duration': 4.0}
+{'text': "is he dating you he's but he's bothering", 'start': 3066.88, 'duration': 3.28}
+{'text': 'me um', 'start': 3069.04, 'duration': 2.24}
+{'text': "and so i'm thinking that we had a", 'start': 3070.16, 'duration': 4.399}
+{'text': 'conversation about that um', 'start': 3071.28, 'duration': 6.48}
+{'text': 'one or two maybe i i you know it could', 'start': 3074.559, 'duration': 4.481}
+{'text': "have been three i don't want to say", 'start': 3077.76, 'duration': 4.44}
+{'text': 'i had three conversations with her like', 'start': 3079.04, 'duration': 6.32}
+{'text': '[Music]', 'start': 3082.2, 'duration': 3.16}
+{'text': 'you know he obviously must have told me', 'start': 3086.16, 'duration': 3.52}
+{'text': "where she worked i'm thinking it was a", 'start': 3087.52, 'duration': 4.079}
+{'text': 'hospital somewhere', 'start': 3089.68, 'duration': 4.32}
+{'text': 'in l.a and i just i mean i could have', 'start': 3091.599, 'duration': 3.681}
+{'text': 'been', 'start': 3094.0, 'duration': 2.8}
+{'text': 'again what year was that where was i', 'start': 3095.28, 'duration': 3.92}
+{'text': 'working um', 'start': 3096.8, 'duration': 3.92}
+{'text': "when you said like hey you know he's", 'start': 3099.2, 'duration': 2.879}
+{'text': 'calling me he needs to knock it off or', 'start': 3100.72, 'duration': 2.8}
+{'text': 'what have you i mean was that was that', 'start': 3102.079, 'duration': 2.24}
+{'text': 'civil was there', 'start': 3103.52, 'duration': 2.24}
+{'text': "i mean oh no there was not i don't think", 'start': 3104.319, 'duration': 2.721}
+{'text': 'there was anything it was if the', 'start': 3105.76, 'duration': 2.799}
+{'text': 'conversation lasted', 'start': 3107.04, 'duration': 3.6}
+{'text': "a a a few minutes i can't even remember", 'start': 3108.559, 'duration': 3.28}
+{'text': "and wasn't like you know we went out to", 'start': 3110.64, 'duration': 2.64}
+{'text': 'lunch or anything right but there was no', 'start': 3111.839, 'duration': 2.561}
+{'text': 'like arguments or', 'start': 3113.28, 'duration': 3.2}
+{'text': "fights or you didn't get heated or", 'start': 3114.4, 'duration': 3.6}
+{'text': 'anything like that not that i recall', 'start': 3116.48, 'duration': 4.0}
+{'text': 'no i mean i would think that would stand', 'start': 3118.0, 'duration': 3.359}
+{'text': 'out i would think', 'start': 3120.48, 'duration': 2.879}
+{'text': "now again that's not standing out in my", 'start': 3121.359, 'duration': 4.48}
+{'text': 'mind um', 'start': 3123.359, 'duration': 6.0}
+{'text': "you know so you didn't have any problems", 'start': 3125.839, 'duration': 4.561}
+{'text': 'with her then', 'start': 3129.359, 'duration': 2.641}
+{'text': "you didn't have any issues with her no i", 'start': 3130.4, 'duration': 4.0}
+{'text': 'mean let me ask you', 'start': 3132.0, 'duration': 4.24}
+{'text': "it seems like you didn't have any issue", 'start': 3134.4, 'duration': 3.6}
+{'text': 'now did she have an issue with', 'start': 3136.24, 'duration': 3.76}
+{'text': "you as far as because now you you're", 'start': 3138.0, 'duration': 3.2}
+{'text': 'telling her hey', 'start': 3140.0, 'duration': 2.8}
+{'text': 'you know how to stop calling you know', 'start': 3141.2, 'duration': 3.04}
+{'text': "she's like you know", 'start': 3142.8, 'duration': 3.759}
+{'text': "you figure she'd be threatened by you", 'start': 3144.24, 'duration': 3.68}
+{'text': "you know i've", 'start': 3146.559, 'duration': 3.441}
+{'text': "i don't know i mean from what you", 'start': 3147.92, 'duration': 3.439}
+{'text': 'remember as far as when you talk to her', 'start': 3150.0, 'duration': 2.0}
+{'text': 'maybe', 'start': 3151.359, 'duration': 2.96}
+{'text': "you didn't take it as serious but maybe", 'start': 3152.0, 'duration': 3.599}
+{'text': 'you know did she', 'start': 3154.319, 'duration': 2.401}
+{'text': 'if she was bothering me like was she', 'start': 3155.599, 'duration': 2.801}
+{'text': 'throwing things at me or something or', 'start': 3156.72, 'duration': 2.16}
+{'text': 'not just', 'start': 3158.4, 'duration': 2.24}
+{'text': "you know throwing cardboard boxes you're", 'start': 3158.88, 'duration': 2.959}
+{'text': 'trying to explain like hey have them', 'start': 3160.64, 'duration': 2.4}
+{'text': 'stop calling me you know', 'start': 3161.839, 'duration': 4.48}
+{'text': 'stop playing games you know i i tell you', 'start': 3163.04, 'duration': 4.799}
+{'text': "if the conversation i couldn't even tell", 'start': 3166.319, 'duration': 2.8}
+{'text': 'you how long the conversation if you', 'start': 3167.839, 'duration': 3.121}
+{'text': 'said did it last a half an hour did it', 'start': 3169.119, 'duration': 3.361}
+{'text': 'last three minutes to the last 20', 'start': 3170.96, 'duration': 2.159}
+{'text': 'minutes', 'start': 3172.48, 'duration': 2.56}
+{'text': "i can't even remember it's been so long", 'start': 3173.119, 'duration': 3.281}
+{'text': 'ago', 'start': 3175.04, 'duration': 3.92}
+{'text': 'so you would have gone it was enroute to', 'start': 3176.4, 'duration': 3.04}
+{'text': 'work you', 'start': 3178.96, 'duration': 2.399}
+{'text': 'more likely would have gone to her work', 'start': 3179.44, 'duration': 3.679}
+{'text': 'and had this discussion with her', 'start': 3181.359, 'duration': 3.921}
+{'text': "i mean that's sounding familiar i mean", 'start': 3183.119, 'duration': 3.44}
+{'text': "that's now that you guys are bringing", 'start': 3185.28, 'duration': 1.76}
+{'text': 'this stuff', 'start': 3186.559, 'duration': 3.841}
+{'text': 'up um that sounds familiar now that i', 'start': 3187.04, 'duration': 5.12}
+{'text': 'know that you know but again i mean', 'start': 3190.4, 'duration': 4.719}
+{'text': "you know what's i mean what's this got", 'start': 3192.16, 'duration': 4.56}
+{'text': 'to do with me dating him and', 'start': 3195.119, 'duration': 4.081}
+{'text': 'you know her getting killed i mean i i', 'start': 3196.72, 'duration': 3.44}
+{'text': "don't you know", 'start': 3199.2, 'duration': 3.119}
+{'text': "i don't have anything to do with it and", 'start': 3200.16, 'duration': 3.679}
+{'text': "you got something that's", 'start': 3202.319, 'duration': 3.841}
+{'text': 'somebody said you know whatever i mean', 'start': 3203.839, 'duration': 3.121}
+{'text': 'well like we said', 'start': 3206.16, 'duration': 2.88}
+{'text': 'we just literally got this the other day', 'start': 3206.96, 'duration': 3.44}
+{'text': "and and you're going through it", 'start': 3209.04, 'duration': 4.24}
+{'text': "yeah and you see nick's next door right", 'start': 3210.4, 'duration': 3.199}
+{'text': 'and', 'start': 3213.28, 'duration': 2.319}
+{'text': "so you know i mean obviously it's like", 'start': 3213.599, 'duration': 3.441}
+{'text': 'we recognize the name we know that you', 'start': 3215.599, 'duration': 3.441}
+{'text': 'know you work next door to us and so', 'start': 3217.04, 'duration': 3.12}
+{'text': "we're trying to get some background", 'start': 3219.04, 'duration': 2.16}
+{'text': "we're trying to figure this out i mean", 'start': 3220.16, 'duration': 2.72}
+{'text': 'this is from a long time ago oh i know', 'start': 3221.2, 'duration': 3.52}
+{'text': 'you know and things have been kind of', 'start': 3222.88, 'duration': 4.0}
+{'text': 'slow for us and so you know chief beck', 'start': 3224.72, 'duration': 3.44}
+{'text': 'has said hey you know i want you guys', 'start': 3226.88, 'duration': 2.4}
+{'text': "working i don't want you just sitting", 'start': 3228.16, 'duration': 2.48}
+{'text': 'around reading the paper yeah', 'start': 3229.28, 'duration': 3.2}
+{'text': "so he's kind of pushing some older cases", 'start': 3230.64, 'duration': 3.199}
+{'text': 'out even to the guys that work active', 'start': 3232.48, 'duration': 2.96}
+{'text': 'cases because you know and so we see', 'start': 3233.839, 'duration': 2.961}
+{'text': "this and we're just like oh", 'start': 3235.44, 'duration': 2.399}
+{'text': 'you know we want to talk to you about it', 'start': 3236.8, 'duration': 2.72}
+{'text': 'but of course the only reason we did it', 'start': 3237.839, 'duration': 2.0}
+{'text': 'here', 'start': 3239.52, 'duration': 1.2}
+{'text': "is because we're getting into some", 'start': 3239.839, 'duration': 2.0}
+{'text': 'pretty personal stuff in your', 'start': 3240.72, 'duration': 2.24}
+{'text': 'relationship you know', 'start': 3241.839, 'duration': 3.601}
+{'text': "my husband's on the job you know we", 'start': 3242.96, 'duration': 3.359}
+{'text': "don't want to take the risk", 'start': 3245.44, 'duration': 1.919}
+{'text': "we don't want to take the risk in one of", 'start': 3246.319, 'duration': 2.481}
+{'text': 'those interviews when the door closed', 'start': 3247.359, 'duration': 2.881}
+{'text': "someone's going to get supplies and see", 'start': 3248.8, 'duration': 2.88}
+{'text': 'us on a monitor hears or whatever', 'start': 3250.24, 'duration': 3.28}
+{'text': 'i appreciate it i mean i know [\xa0__\xa0] like', 'start': 3251.68, 'duration': 2.96}
+{'text': "i said that's where people go when", 'start': 3253.52, 'duration': 2.0}
+{'text': "there's orals you know when they're", 'start': 3254.64, 'duration': 1.84}
+{'text': 'doing worlds you guys will go in there', 'start': 3255.52, 'duration': 1.839}
+{'text': 'and try and watch like', 'start': 3256.48, 'duration': 2.16}
+{'text': 'what are the answers to the questions', 'start': 3257.359, 'duration': 3.041}
+{'text': 'you know you know that yeah so so we', 'start': 3258.64, 'duration': 3.28}
+{'text': 'just we just want to afford you the most', 'start': 3260.4, 'duration': 3.6}
+{'text': 'privacy and confidentiality we could', 'start': 3261.92, 'duration': 4.159}
+{'text': 'i appreciate like i said i mean this', 'start': 3264.0, 'duration': 3.28}
+{'text': 'goes way back and', 'start': 3266.079, 'duration': 3.04}
+{'text': 'i mean it was very sad you know', 'start': 3267.28, 'duration': 4.64}
+{'text': 'obviously um', 'start': 3269.119, 'duration': 4.401}
+{'text': 'because i know you you went to talk to', 'start': 3271.92, 'duration': 5.12}
+{'text': 'her at the hospital', 'start': 3273.52, 'duration': 6.24}
+{'text': 'regarding this issue with john to you', 'start': 3277.04, 'duration': 3.6}
+{'text': 'know kind of like', 'start': 3279.76, 'duration': 2.48}
+{'text': "hey you know what's going to happen here", 'start': 3280.64, 'duration': 3.76}
+{'text': 'with this thing but would this ever have', 'start': 3282.24, 'duration': 3.359}
+{'text': 'followed up to her house', 'start': 3284.4, 'duration': 2.88}
+{'text': 'when you went to talk to her to say hey', 'start': 3285.599, 'duration': 4.0}
+{'text': "you know what i i don't even know that i", 'start': 3287.28, 'duration': 3.839}
+{'text': 'knew where they lived', 'start': 3289.599, 'duration': 2.881}
+{'text': "i you know that's what i'm saying i", 'start': 3291.119, 'duration': 3.601}
+{'text': "don't if i knew where they lived and i'd", 'start': 3292.48, 'duration': 2.72}
+{'text': 'been there', 'start': 3294.72, 'duration': 3.2}
+{'text': "if it was for something social i'd i", 'start': 3295.2, 'duration': 3.04}
+{'text': 'would', 'start': 3297.92, 'duration': 2.8}
+{'text': "i'm i'm and i can't see how many times i", 'start': 3298.24, 'duration': 4.079}
+{'text': 'i saw her face to face', 'start': 3300.72, 'duration': 3.2}
+{'text': 'you know he lived on roscoe did i ever', 'start': 3302.319, 'duration': 4.081}
+{'text': "see her there i don't know", 'start': 3303.92, 'duration': 4.24}
+{'text': 'i mean i may have seen her at his', 'start': 3306.4, 'duration': 4.08}
+{'text': 'apartment on roscoe', 'start': 3308.16, 'duration': 3.439}
+{'text': 'you guys are right this is just like', 'start': 3310.48, 'duration': 4.0}
+{'text': 'among us i mean would you remember if', 'start': 3311.599, 'duration': 3.76}
+{'text': 'she', 'start': 3314.48, 'duration': 2.56}
+{'text': 'snapped on you and just like hey man', 'start': 3315.359, 'duration': 3.121}
+{'text': "it's my man you know you", 'start': 3317.04, 'duration': 3.2}
+{'text': 'leave him alone you know blah blah blah', 'start': 3318.48, 'duration': 3.04}
+{'text': 'that kind of stuff', 'start': 3320.24, 'duration': 4.079}
+{'text': 'you know and would you remember an', 'start': 3321.52, 'duration': 4.0}
+{'text': 'incident like that i mean because that', 'start': 3324.319, 'duration': 2.321}
+{'text': 'would be like what', 'start': 3325.52, 'duration': 3.279}
+{'text': 'well you know and maybe that happened i', 'start': 3326.64, 'duration': 4.4}
+{'text': 'mean', 'start': 3328.799, 'duration': 2.241}
+{'text': "gosh you know it's been so long ago i", 'start': 3331.28, 'duration': 6.24}
+{'text': "you know i just i mean that's not", 'start': 3334.88, 'duration': 4.16}
+{'text': 'ringing a bell', 'start': 3337.52, 'duration': 3.279}
+{'text': "um because the times i've seen you", 'start': 3339.04, 'duration': 3.039}
+{'text': 'around at our office', 'start': 3340.799, 'duration': 3.681}
+{'text': "i'm crazy but you're always kind of like", 'start': 3342.079, 'duration': 3.921}
+{'text': 'real', 'start': 3344.48, 'duration': 3.52}
+{'text': "i mean you seem kind of bubbly oh i'm pr", 'start': 3346.0, 'duration': 3.28}
+{'text': "i know people think i'm", 'start': 3348.0, 'duration': 4.0}
+{'text': 'really hyper um but i can i mean i can', 'start': 3349.28, 'duration': 3.839}
+{'text': 'get', 'start': 3352.0, 'duration': 3.28}
+{'text': 'i can get upset you know and and then i', 'start': 3353.119, 'duration': 3.921}
+{'text': 'forget five seconds later you know', 'start': 3355.28, 'duration': 4.64}
+{'text': 'you know how guys rash you and you go ah', 'start': 3357.04, 'duration': 3.799}
+{'text': 'you know', 'start': 3359.92, 'duration': 3.28}
+{'text': "um i mean i've done that in the office", 'start': 3360.839, 'duration': 2.921}
+{'text': 'you know but', 'start': 3363.2, 'duration': 2.96}
+{'text': "it's like and then i'm you know and then", 'start': 3363.76, 'duration': 3.44}
+{'text': "i'm", 'start': 3366.16, 'duration': 3.679}
+{'text': 'you know you know i mean water under the', 'start': 3367.2, 'duration': 3.2}
+{'text': 'bridge', 'start': 3369.839, 'duration': 1.921}
+{'text': "yeah i mean it's like people think i'm", 'start': 3370.4, 'duration': 3.36}
+{'text': "crazy and then they think i'm crazy at", 'start': 3371.76, 'duration': 2.72}
+{'text': "home and i'm", 'start': 3373.76, 'duration': 3.2}
+{'text': "you know more i'm i'm a hyper person at", 'start': 3374.48, 'duration': 3.28}
+{'text': "work i'm", 'start': 3376.96, 'duration': 3.2}
+{'text': 'you know i i enjoy my job i get excited', 'start': 3377.76, 'duration': 3.44}
+{'text': 'i you know', 'start': 3380.16, 'duration': 4.56}
+{'text': "um i enjoy the job i've always enjoyed", 'start': 3381.2, 'duration': 4.56}
+{'text': 'the job', 'start': 3384.72, 'duration': 2.879}
+{'text': 'well one of the concerns i have looking', 'start': 3385.76, 'duration': 4.4}
+{'text': 'at some of the notes is uh some of', 'start': 3387.599, 'duration': 3.841}
+{'text': "sherry's friends said", 'start': 3390.16, 'duration': 5.04}
+{'text': 'that you and her were having a problem', 'start': 3391.44, 'duration': 7.679}
+{'text': 'because of the john situation', 'start': 3395.2, 'duration': 3.919}
+{'text': "hold on well number one i don't know who", 'start': 3401.04, 'duration': 3.92}
+{'text': 'her friends are', 'start': 3403.44, 'duration': 4.879}
+{'text': "um because again i don't i don't recall", 'start': 3404.96, 'duration': 5.04}
+{'text': 'if he did tell me where he met her', 'start': 3408.319, 'duration': 2.961}
+{'text': 'i mean it seemed like yeah you would', 'start': 3410.0, 'duration': 3.28}
+{'text': "recall something if somebody's going off", 'start': 3411.28, 'duration': 3.6}
+{'text': 'on you right i would think', 'start': 3413.28, 'duration': 3.839}
+{'text': "i mean i would think from what you're", 'start': 3414.88, 'duration': 3.6}
+{'text': 'telling me is when you guys met at the', 'start': 3417.119, 'duration': 3.2}
+{'text': 'hospital', 'start': 3418.48, 'duration': 4.8}
+{'text': "uh i mean you guys talked but it wasn't", 'start': 3420.319, 'duration': 5.121}
+{'text': 'from what you recall a confrontational', 'start': 3423.28, 'duration': 5.68}
+{'text': 'from either side i i mean', 'start': 3425.44, 'duration': 5.44}
+{'text': "i'm trying to you know turn my memory", 'start': 3428.96, 'duration': 3.599}
+{'text': 'back you know', 'start': 3430.88, 'duration': 3.439}
+{'text': "and i'm trying i can't even i can't even", 'start': 3432.559, 'duration': 3.681}
+{'text': 'picture the you know', 'start': 3434.319, 'duration': 3.921}
+{'text': 'picture the the conversation i mean i', 'start': 3436.24, 'duration': 3.44}
+{'text': "can't even picture the conversation well", 'start': 3438.24, 'duration': 2.879}
+{'text': 'let me ask you i mean at the hospital it', 'start': 3439.68, 'duration': 2.639}
+{'text': 'never got to the point where people are', 'start': 3441.119, 'duration': 2.881}
+{'text': 'going hey hey you know', 'start': 3442.319, 'duration': 3.28}
+{'text': 'go to everybody go to your own culinary', 'start': 3444.0, 'duration': 3.359}
+{'text': "type of thing i don't think so", 'start': 3445.599, 'duration': 3.76}
+{'text': "nothing like that i don't think so i", 'start': 3447.359, 'duration': 3.76}
+{'text': "mean i really don't i mean if you", 'start': 3449.359, 'duration': 3.841}
+{'text': 'you know if you say people said that', 'start': 3451.119, 'duration': 3.68}
+{'text': "that's not ringing a bell to me at all i", 'start': 3453.2, 'duration': 3.44}
+{'text': "mean it's not i mean that that's not", 'start': 3454.799, 'duration': 3.201}
+{'text': 'ringing a bell', 'start': 3456.64, 'duration': 2.719}
+{'text': 'at all was there a time when you and', 'start': 3458.0, 'duration': 3.44}
+{'text': 'sherry were talking and john had to', 'start': 3459.359, 'duration': 2.641}
+{'text': 'maybe go like', 'start': 3461.44, 'duration': 3.119}
+{'text': 'you guys relax you know or anything like', 'start': 3462.0, 'duration': 3.839}
+{'text': 'that', 'start': 3464.559, 'duration': 4.961}
+{'text': 'i think so about you know ever going to', 'start': 3465.839, 'duration': 7.28}
+{'text': 'her house and having a dispute like that', 'start': 3469.52, 'duration': 6.64}
+{'text': "you know i'm just", 'start': 3473.119, 'duration': 6.081}
+{'text': 'if i met her ever at his apartment maybe', 'start': 3476.16, 'duration': 4.399}
+{'text': 'i mean maybe we could have met i could', 'start': 3479.2, 'duration': 3.359}
+{'text': 'have met her apartment', 'start': 3480.559, 'duration': 5.201}
+{'text': "i'm thinking that the hospital thing", 'start': 3482.559, 'duration': 5.441}
+{'text': "that sounds familiar that i'm i met her", 'start': 3485.76, 'duration': 4.48}
+{'text': 'there', 'start': 3488.0, 'duration': 2.24}
+{'text': "i just can't say that i've ever again", 'start': 3490.88, 'duration': 4.64}
+{'text': 'was i there with other people', 'start': 3493.28, 'duration': 5.76}
+{'text': "i don't i i i don't know um i don't", 'start': 3495.52, 'duration': 3.92}
+{'text': 'think i', 'start': 3499.04, 'duration': 4.48}
+{'text': 'ever met her there or him there um', 'start': 3499.44, 'duration': 6.639}
+{'text': "meaning one or the other i don't think", 'start': 3503.52, 'duration': 3.36}
+{'text': 'so', 'start': 3506.079, 'duration': 2.401}
+{'text': "i guess basically what i'm asking is you", 'start': 3506.88, 'duration': 2.88}
+{'text': 'know were you ever welcome to the house', 'start': 3508.48, 'duration': 2.16}
+{'text': 'like you know hey', 'start': 3509.76, 'duration': 2.64}
+{'text': 'oh come over yeah come on over having a', 'start': 3510.64, 'duration': 4.719}
+{'text': 'barbecue you know', 'start': 3512.4, 'duration': 2.959}
+{'text': 'a dinner party the demon mama faces', 'start': 3515.76, 'duration': 7.2}
+{'text': "i don't know i'm just trying to think", 'start': 3518.799, 'duration': 4.161}
+{'text': 'you know like i said because there were', 'start': 3523.92, 'duration': 3.439}
+{'text': 'so many of us that', 'start': 3525.44, 'duration': 4.159}
+{'text': "i have 10 000 pictures okay i'm a", 'start': 3527.359, 'duration': 3.121}
+{'text': 'picture nut', 'start': 3529.599, 'duration': 2.081}
+{'text': '[Music]', 'start': 3530.48, 'duration': 3.92}
+{'text': 'ten thousand yeah i mean do you remember', 'start': 3531.68, 'duration': 5.36}
+{'text': 'what you drove', 'start': 3534.4, 'duration': 2.64}
+{'text': 'well i know at one time he drove either', 'start': 3537.839, 'duration': 5.361}
+{'text': 'a 240 or 260z', 'start': 3539.68, 'duration': 5.04}
+{'text': 'any other cars that stand out in your', 'start': 3543.2, 'duration': 3.76}
+{'text': 'mind', 'start': 3544.72, 'duration': 2.24}
+{'text': '[Music]', 'start': 3554.75, 'duration': 4.049}
+{'text': "i don't know how long you drove that 240", 'start': 3557.119, 'duration': 3.521}
+{'text': 'or 260z for', 'start': 3558.799, 'duration': 3.52}
+{'text': 'um and the only reason i say that is', 'start': 3560.64, 'duration': 3.6}
+{'text': 'because i think', 'start': 3562.319, 'duration': 4.8}
+{'text': 'i may have a picture of it um with him', 'start': 3564.24, 'duration': 3.76}
+{'text': 'in it', 'start': 3567.119, 'duration': 4.24}
+{'text': "um sherry's friend saying", 'start': 3568.0, 'duration': 6.0}
+{'text': 'you guys had problems or words and they', 'start': 3571.359, 'duration': 4.48}
+{'text': 'got heated', 'start': 3574.0, 'duration': 3.92}
+{'text': "you know the reason we're asking is they", 'start': 3575.839, 'duration': 3.841}
+{'text': 'had mentioned that an incident at her', 'start': 3577.92, 'duration': 3.28}
+{'text': 'work had occurred', 'start': 3579.68, 'duration': 3.2}
+{'text': "and they've also told us that an", 'start': 3581.2, 'duration': 6.24}
+{'text': 'incident at her house occurred', 'start': 3582.88, 'duration': 6.56}
+{'text': 'you know what and this is at her house', 'start': 3587.44, 'duration': 3.359}
+{'text': "during the period of time that they're", 'start': 3589.44, 'duration': 3.679}
+{'text': 'married', 'start': 3590.799, 'duration': 2.32}
+{'text': "that's just not sounding familiar at all", 'start': 3594.16, 'duration': 3.52}
+{'text': 'i mean i you know what', 'start': 3596.0, 'duration': 4.96}
+{'text': "i that's just not", 'start': 3597.68, 'duration': 5.28}
+{'text': 'again if someone says that i was at her', 'start': 3600.96, 'duration': 5.28}
+{'text': 'house and i had an incident with her', 'start': 3602.96, 'duration': 6.639}
+{'text': "i you know i that just doesn't sound i i", 'start': 3606.24, 'duration': 5.119}
+{'text': 'you know was john there did john say', 'start': 3609.599, 'duration': 3.041}
+{'text': 'this happen because', 'start': 3611.359, 'duration': 3.841}
+{'text': 'and other people were there i just i', 'start': 3612.64, 'duration': 3.76}
+{'text': "don't recall", 'start': 3615.2, 'duration': 3.44}
+{'text': "i mean it just doesn't sound you know", 'start': 3616.4, 'duration': 4.719}
+{'text': 'familiar and this is an incident where', 'start': 3618.64, 'duration': 4.8}
+{'text': "you showed up you weren't supposed to", 'start': 3621.119, 'duration': 3.601}
+{'text': 'show up', 'start': 3623.44, 'duration': 5.28}
+{'text': 'and things got heated at his house', 'start': 3624.72, 'duration': 7.599}
+{'text': 'what that i', 'start': 3628.72, 'duration': 5.599}
+{'text': "you know i that just doesn't sound", 'start': 3632.319, 'duration': 4.24}
+{'text': 'familiar i mean', 'start': 3634.319, 'duration': 5.28}
+{'text': "i you know it's not sounding familiar", 'start': 3636.559, 'duration': 4.8}
+{'text': "not at all no you think i'm not familiar", 'start': 3639.599, 'duration': 3.921}
+{'text': "because it's just don't you remember or", 'start': 3641.359, 'duration': 4.0}
+{'text': "just you know what i would have then i'd", 'start': 3643.52, 'duration': 3.12}
+{'text': "have to say i don't remember", 'start': 3645.359, 'duration': 2.96}
+{'text': "because i don't remember i knew that", 'start': 3646.64, 'duration': 4.159}
+{'text': "doesn't sound familiar i", 'start': 3648.319, 'duration': 3.76}
+{'text': 'i mean would you remember something like', 'start': 3650.799, 'duration': 3.361}
+{'text': 'that in your life well i would think', 'start': 3652.079, 'duration': 4.72}
+{'text': 'what a drama involving', 'start': 3654.16, 'duration': 4.8}
+{'text': 'the other woman type of thing did you', 'start': 3656.799, 'duration': 3.201}
+{'text': 'fight with her', 'start': 3658.96, 'duration': 2.639}
+{'text': 'you mean like we fought yeah did you', 'start': 3660.0, 'duration': 3.599}
+{'text': 'ever duke it out with her', 'start': 3661.599, 'duration': 4.081}
+{'text': "no i don't think so i mean you'd", 'start': 3663.599, 'duration': 4.401}
+{'text': 'remember that right that would be pretty', 'start': 3665.68, 'duration': 4.0}
+{'text': "yeah i would think so i'm pretty", 'start': 3668.0, 'duration': 3.68}
+{'text': 'specific yeah like i said i mean', 'start': 3669.68, 'duration': 4.48}
+{'text': 'obviously', 'start': 3671.68, 'duration': 2.48}
+{'text': "i you know i mean it just doesn't sound", 'start': 3674.24, 'duration': 4.48}
+{'text': 'familiar', 'start': 3677.119, 'duration': 3.761}
+{'text': 'i mean i mean what are they saying so i', 'start': 3678.72, 'duration': 4.48}
+{'text': 'i fought with her so so now i', 'start': 3680.88, 'duration': 6.32}
+{'text': 'get getting the jump of the leap', 'start': 3683.2, 'duration': 6.24}
+{'text': "excuse me i haven't eaten um they're", 'start': 3687.2, 'duration': 3.919}
+{'text': 'saying okay i fought with her so i must', 'start': 3689.44, 'duration': 2.56}
+{'text': 'have killed her', 'start': 3691.119, 'duration': 3.361}
+{'text': 'this is known in psychology as reductio', 'start': 3692.0, 'duration': 5.119}
+{'text': 'ad absurdum or appeal to extremes', 'start': 3694.48, 'duration': 4.4}
+{'text': "it's a form of argument that attempts to", 'start': 3697.119, 'duration': 3.68}
+{'text': 'disprove a statement by showing that it', 'start': 3698.88, 'duration': 3.76}
+{'text': 'leads to an absurd or impractical', 'start': 3700.799, 'duration': 2.8}
+{'text': 'conclusion', 'start': 3702.64, 'duration': 4.08}
+{'text': "i mean come on i mean that's you know", 'start': 3703.599, 'duration': 5.681}
+{'text': "i i i don't even know who these people", 'start': 3706.72, 'duration': 3.44}
+{'text': 'are i', 'start': 3709.28, 'duration': 2.319}
+{'text': "can't even say i met any of these people", 'start': 3710.16, 'duration': 3.36}
+{'text': "i mean that's it's insane would it be", 'start': 3711.599, 'duration': 3.2}
+{'text': 'something you would remember i mean', 'start': 3713.52, 'duration': 1.92}
+{'text': "because it's", 'start': 3714.799, 'duration': 3.201}
+{'text': "i don't know if any other intense", 'start': 3715.44, 'duration': 3.679}
+{'text': 'incidents in your life', 'start': 3718.0, 'duration': 2.48}
+{'text': "that have occurred i mean you'd recall", 'start': 3719.119, 'duration': 3.68}
+{'text': 'those right i mean well', 'start': 3720.48, 'duration': 4.72}
+{'text': 'like a useful force at work or a car', 'start': 3722.799, 'duration': 3.681}
+{'text': "crash something you're involved in you'd", 'start': 3725.2, 'duration': 1.919}
+{'text': 'be like yeah', 'start': 3726.48, 'duration': 2.4}
+{'text': 'you would think i would remember i mean', 'start': 3727.119, 'duration': 3.521}
+{'text': 'i would think if it was something that', 'start': 3728.88, 'duration': 2.4}
+{'text': 'crazy', 'start': 3730.64, 'duration': 2.88}
+{'text': "i mean i i can't say you say how many", 'start': 3731.28, 'duration': 4.24}
+{'text': 'fights have you gotten into you know', 'start': 3733.52, 'duration': 5.76}
+{'text': 'in your life you know i mean a few at', 'start': 3735.52, 'duration': 5.44}
+{'text': 'work well fights at work are kind of', 'start': 3739.28, 'duration': 3.039}
+{'text': "different because we've all had uses of", 'start': 3740.96, 'duration': 2.32}
+{'text': 'force or whatever but', 'start': 3742.319, 'duration': 2.641}
+{'text': "i didn't even have even a lot of those", 'start': 3743.28, 'duration': 3.36}
+{'text': "right but you know if you're if you're", 'start': 3744.96, 'duration': 2.639}
+{'text': 'actually you know', 'start': 3746.64, 'duration': 2.719}
+{'text': 'i mean i played like if dan and i got', 'start': 3747.599, 'duration': 3.281}
+{'text': 'mad at each other and we threw blows in', 'start': 3749.359, 'duration': 3.44}
+{'text': 'the squad room i mean 20 years later', 'start': 3750.88, 'duration': 3.76}
+{'text': 'i would remember it i mean i would think', 'start': 3752.799, 'duration': 3.361}
+{'text': "i would remember it but that's that's", 'start': 3754.64, 'duration': 2.8}
+{'text': "what i'm saying that's not sounding", 'start': 3756.16, 'duration': 2.639}
+{'text': 'familiar to me', 'start': 3757.44, 'duration': 3.76}
+{'text': "at all i'm looking at the notes and", 'start': 3758.799, 'duration': 4.56}
+{'text': 'these people are kind of', 'start': 3761.2, 'duration': 3.28}
+{'text': "i mean they're pointing the finger at", 'start': 3763.359, 'duration': 3.521}
+{'text': 'you well and', 'start': 3764.48, 'duration': 5.76}
+{'text': "i mean that's not ringing a bell to me", 'start': 3766.88, 'duration': 6.88}
+{'text': "so you know i don't know you know", 'start': 3770.24, 'duration': 6.64}
+{'text': "that's i i i don't know what to tell you", 'start': 3773.76, 'duration': 4.88}
+{'text': 'i mean that just sounds crazy to me', 'start': 3776.88, 'duration': 3.679}
+{'text': "yeah so you off hand you don't recall", 'start': 3778.64, 'duration': 3.76}
+{'text': 'ever going into her house and', 'start': 3780.559, 'duration': 5.28}
+{'text': 'having words and physically you know', 'start': 3782.4, 'duration': 6.639}
+{'text': 'no attacking her her attacking you no', 'start': 3785.839, 'duration': 6.48}
+{'text': "nothing like that no i mean that's no", 'start': 3789.039, 'duration': 5.121}
+{'text': "nothing no you're right i mean if you", 'start': 3792.319, 'duration': 3.28}
+{'text': "guys are claiming that i'm a suspect", 'start': 3794.16, 'duration': 2.159}
+{'text': 'then', 'start': 3795.599, 'duration': 2.641}
+{'text': 'you know i i got a problem with you know', 'start': 3796.319, 'duration': 3.28}
+{'text': 'with that okay', 'start': 3798.24, 'duration': 4.559}
+{'text': "okay so you know if you're", 'start': 3799.599, 'duration': 4.96}
+{'text': "if you're doing this as an interrogation", 'start': 3802.799, 'duration': 3.841}
+{'text': "you're saying hey i'm a suspect well", 'start': 3804.559, 'duration': 4.0}
+{'text': 'now i got a problem with you know now', 'start': 3806.64, 'duration': 3.6}
+{'text': "you're accusing me of this", 'start': 3808.559, 'duration': 2.961}
+{'text': "is that what you're is that what you're", 'start': 3810.24, 'duration': 3.28}
+{'text': "saying uh we're trying to figure out", 'start': 3811.52, 'duration': 2.72}
+{'text': 'what happened', 'start': 3813.52, 'duration': 3.839}
+{'text': "stephanie uh well i'm i was you know", 'start': 3814.24, 'duration': 6.4}
+{'text': "i'm just saying you know do", 'start': 3817.359, 'duration': 4.401}
+{'text': "i need to get a lawyer if you're", 'start': 3820.64, 'duration': 3.04}
+{'text': 'accusing me you know', 'start': 3821.76, 'duration': 3.68}
+{'text': "you don't have to i mean you know you're", 'start': 3823.68, 'duration': 3.52}
+{'text': 'here of your own free will i mean', 'start': 3825.44, 'duration': 3.44}
+{'text': "i know but you know you're not under", 'start': 3827.2, 'duration': 2.96}
+{'text': 'arrest you can walk out you can leave', 'start': 3828.88, 'duration': 2.159}
+{'text': 'whenever you like', 'start': 3830.16, 'duration': 3.36}
+{'text': "well you know i'm trying to give you", 'start': 3831.039, 'duration': 3.28}
+{'text': 'some back', 'start': 3833.52, 'duration': 3.36}
+{'text': 'background of you know how i knew him', 'start': 3834.319, 'duration': 3.76}
+{'text': "and now you're telling me", 'start': 3836.88, 'duration': 3.52}
+{'text': "that some somebody's saying that we had", 'start': 3838.079, 'duration': 3.841}
+{'text': "this big old fight and i don't even know", 'start': 3840.4, 'duration': 2.959}
+{'text': "what you're talking about", 'start': 3841.92, 'duration': 3.679}
+{'text': "um you know and i don't want to you know", 'start': 3843.359, 'duration': 3.601}
+{'text': 'get in trouble for something that i', 'start': 3845.599, 'duration': 2.161}
+{'text': "didn't even do", 'start': 3846.96, 'duration': 4.0}
+{'text': "or you're saying i did something okay", 'start': 3847.76, 'duration': 5.359}
+{'text': 'we understand i mean how would you guys', 'start': 3850.96, 'duration': 4.159}
+{'text': 'like it if the tables were turned on you', 'start': 3853.119, 'duration': 4.161}
+{'text': "i understand no um oh that's what we're", 'start': 3855.119, 'duration': 3.2}
+{'text': "telling you i mean you're free to go", 'start': 3857.28, 'duration': 2.48}
+{'text': 'whenever you want if this makes you', 'start': 3858.319, 'duration': 2.881}
+{'text': 'uncomfortable and you want to get it', 'start': 3859.76, 'duration': 2.48}
+{'text': "now you're starting to make me", 'start': 3861.2, 'duration': 3.599}
+{'text': 'uncomfortable the thing is i mean', 'start': 3862.24, 'duration': 4.0}
+{'text': 'detectives did what they could at that', 'start': 3864.799, 'duration': 3.04}
+{'text': 'time on the crime scene okay', 'start': 3866.24, 'duration': 2.879}
+{'text': "and the burglary thing you're talking", 'start': 3867.839, 'duration': 2.72}
+{'text': 'about that is an angle that they looked', 'start': 3869.119, 'duration': 2.24}
+{'text': 'at', 'start': 3870.559, 'duration': 2.56}
+{'text': "i go but now we're looking at everything", 'start': 3871.359, 'duration': 3.521}
+{'text': 'else on the case because nobody was ever', 'start': 3873.119, 'duration': 3.121}
+{'text': 'arrested on the case', 'start': 3874.88, 'duration': 5.52}
+{'text': "i i don't know that or not okay", 'start': 3876.24, 'duration': 7.119}
+{'text': "now what we'd like to do is obviously", 'start': 3880.4, 'duration': 4.48}
+{'text': 'you know about all the dna stuff and', 'start': 3883.359, 'duration': 3.281}
+{'text': 'things of the nature that you know', 'start': 3884.88, 'duration': 4.08}
+{'text': 'gets done on cases nowadays you know if', 'start': 3886.64, 'duration': 4.399}
+{'text': 'we asked you for a dna swab would you be', 'start': 3888.96, 'duration': 3.879}
+{'text': 'willing to give us one', 'start': 3891.039, 'duration': 5.04}
+{'text': 'maybe because now now', 'start': 3892.839, 'duration': 5.24}
+{'text': "now just because now i'm thinking i", 'start': 3896.079, 'duration': 4.24}
+{'text': 'probably need to talk to a lawyer', 'start': 3898.079, 'duration': 5.52}
+{'text': 'okay i mean well i because i know how', 'start': 3900.319, 'duration': 4.72}
+{'text': "this stuff works okay don't get me wrong", 'start': 3903.599, 'duration': 2.561}
+{'text': "you're right i have been doing this a", 'start': 3905.039, 'duration': 1.921}
+{'text': 'long time', 'start': 3906.16, 'duration': 2.639}
+{'text': 'and i wish i had been recording this', 'start': 3906.96, 'duration': 4.0}
+{'text': 'because because now it sounds like', 'start': 3908.799, 'duration': 4.721}
+{'text': "you know there's you know you're selling", 'start': 3910.96, 'duration': 3.44}
+{'text': "these people saying i'm", 'start': 3913.52, 'duration': 3.12}
+{'text': 'fighting with her and now it sounds like', 'start': 3914.4, 'duration': 3.84}
+{'text': "you're trying to you know", 'start': 3916.64, 'duration': 4.88}
+{'text': "i've been doing this a long time and now", 'start': 3918.24, 'duration': 3.52}
+{'text': 'it yeah', 'start': 3921.52, 'duration': 1.2}
+{'text': "sounds like you're trying to pin", 'start': 3921.76, 'duration': 3.2}
+{'text': 'something on me now i got that sense', 'start': 3922.72, 'duration': 3.92}
+{'text': 'well what it gets to on these on these', 'start': 3924.96, 'duration': 3.44}
+{'text': 'cases and you know it as well as i do', 'start': 3926.64, 'duration': 3.36}
+{'text': 'our job is to identify and eliminate', 'start': 3928.4, 'duration': 3.04}
+{'text': "something i can't believe this", 'start': 3930.0, 'duration': 3.839}
+{'text': 'so if we ask you to appoint to give us a', 'start': 3931.44, 'duration': 3.84}
+{'text': 'dna sample', 'start': 3933.839, 'duration': 4.48}
+{'text': 'a buckle swab so we can identify or', 'start': 3935.28, 'duration': 4.4}
+{'text': 'eliminate you', 'start': 3938.319, 'duration': 4.24}
+{'text': 'should be willing to do that maybe', 'start': 3939.68, 'duration': 4.8}
+{'text': 'because i know this i i i', 'start': 3942.559, 'duration': 4.961}
+{'text': "that's what we're at too i mean because", 'start': 3944.48, 'duration': 5.28}
+{'text': 'right now from looking at the evidence', 'start': 3947.52, 'duration': 3.039}
+{'text': "it's you know", 'start': 3949.76, 'duration': 2.319}
+{'text': "it's possible we may have some dna at", 'start': 3950.559, 'duration': 3.76}
+{'text': "the location that's great", 'start': 3952.079, 'duration': 5.28}
+{'text': "and we're going to do what we can to try", 'start': 3954.319, 'duration': 5.121}
+{'text': 'to put this thing together', 'start': 3957.359, 'duration': 4.401}
+{'text': "and your name's in the book these people", 'start': 3959.44, 'duration': 3.44}
+{'text': 'are pointing at you', 'start': 3961.76, 'duration': 3.359}
+{'text': "for whatever reason i don't know why", 'start': 3962.88, 'duration': 3.76}
+{'text': "that's just crazy i mean that's just", 'start': 3965.119, 'duration': 2.48}
+{'text': "that's absolutely", 'start': 3966.64, 'duration': 4.0}
+{'text': 'crazy and it would be irresponsible on', 'start': 3967.599, 'duration': 4.801}
+{'text': 'our part not to look at it i know', 'start': 3970.64, 'duration': 3.76}
+{'text': 'you guys have to do your job and i guess', 'start': 3972.4, 'duration': 3.76}
+{'text': "i'm gonna have to contact somebody", 'start': 3974.4, 'duration': 4.719}
+{'text': "so that's fair i mean because i know how", 'start': 3976.16, 'duration': 4.32}
+{'text': 'this stuff works i mean', 'start': 3979.119, 'duration': 4.801}
+{'text': "i i i i i just can't believe it", 'start': 3980.48, 'duration': 5.2}
+{'text': "that's i mean we understand that i mean", 'start': 3983.92, 'duration': 3.199}
+{'text': 'if we were in your position i mean we', 'start': 3985.68, 'duration': 2.96}
+{'text': 'would feel the same way', 'start': 3987.119, 'duration': 4.48}
+{'text': "i just can't even believe it i mean it's", 'start': 3988.64, 'duration': 3.6}
+{'text': 'just', 'start': 3991.599, 'duration': 3.44}
+{'text': "i i mean i'm shocked i'm really shocked", 'start': 3992.24, 'duration': 4.4}
+{'text': 'that somebody would be blame saying that', 'start': 3995.039, 'duration': 2.56}
+{'text': 'i did this i mean', 'start': 3996.64, 'duration': 2.719}
+{'text': 'we had a fight so i went and killed her', 'start': 3997.599, 'duration': 4.48}
+{'text': 'i mean come on', 'start': 3999.359, 'duration': 2.72}
+{'text': 'okay all right well thanks for giving me', 'start': 4002.799, 'duration': 4.641}
+{'text': 'the courage', 'start': 4005.44, 'duration': 4.159}
+{'text': 'thanks for your time yeah thank you all', 'start': 4007.44, 'duration': 3.2}
+{'text': 'right stephanie', 'start': 4009.599, 'duration': 4.161}
+{'text': 'all right come on guys what are the', 'start': 4010.64, 'duration': 4.719}
+{'text': 'chances of that', 'start': 4013.76, 'duration': 8.079}
+{'text': 'this is absolutely crazy', 'start': 4015.359, 'duration': 6.48}
+{'text': 'why is she going back okay', 'start': 4031.599, 'duration': 5.601}
+{'text': 'stephanie you know you have the right to', 'start': 4035.92, 'duration': 3.679}
+{'text': 'remain silent do you understand yes', 'start': 4037.2, 'duration': 4.08}
+{'text': 'anything you say may be used against you', 'start': 4039.599, 'duration': 3.44}
+{'text': 'in court oh she got arrested', 'start': 4041.28, 'duration': 3.039}
+{'text': 'you have the right to the presence of an', 'start': 4043.039, 'duration': 2.881}
+{'text': 'attorney before and during any question', 'start': 4044.319, 'duration': 2.401}
+{'text': 'do you understand', 'start': 4045.92, 'duration': 2.399}
+{'text': 'how is she arrested me you cannot afford', 'start': 4046.72, 'duration': 2.96}
+{'text': 'an attorney who want to be appointed for', 'start': 4048.319, 'duration': 2.72}
+{'text': 'you free of charge before any', 'start': 4049.68, 'duration': 2.48}
+{'text': 'questioning if you want', 'start': 4051.039, 'duration': 3.121}
+{'text': 'do you understand yes do you want to', 'start': 4052.16, 'duration': 4.8}
+{'text': 'talk to us right now no', 'start': 4054.16, 'duration': 6.24}
+{'text': 'all right okay this is crazy this is', 'start': 4056.96, 'duration': 5.76}
+{'text': "i'm like i'm like in shock i'm totally", 'start': 4060.4, 'duration': 4.88}
+{'text': 'in shock', 'start': 4062.72, 'duration': 2.56}
+{'text': 'oh because she said she got in a fight', 'start': 4065.599, 'duration': 4.401}
+{'text': 'we the jury and above entitled action', 'start': 4067.599, 'duration': 4.48}
+{'text': 'find the defendant stephanie eileen', 'start': 4070.0, 'duration': 3.119}
+{'text': 'lazarus', 'start': 4072.079, 'duration': 3.04}
+{'text': 'guilty of the crime of murder of sherry', 'start': 4073.119, 'duration': 3.281}
+{'text': 'rasmussen', 'start': 4075.119, 'duration': 2.48}
+{'text': "do you think there's any way she would", 'start': 4076.4, 'duration': 2.399}
+{'text': 'not get caught here even without this', 'start': 4077.599, 'duration': 2.48}
+{'text': 'interview if they had all the evidence', 'start': 4078.799, 'duration': 2.641}
+{'text': 'and witness accounts beforehand they', 'start': 4080.079, 'duration': 2.96}
+{'text': 'would probably ask for a dna sample', 'start': 4081.44, 'duration': 2.32}
+{'text': 'anyway', 'start': 4083.039, 'duration': 2.401}
+{'text': "i don't think they had any wait what did", 'start': 4083.76, 'duration': 3.12}
+{'text': 'they present for evidence they have', 'start': 4085.44, 'duration': 3.119}
+{'text': 'circumstantial evidence of her dna on', 'start': 4086.88, 'duration': 3.28}
+{'text': "the scene that's it", 'start': 4088.559, 'duration': 2.48}
+{'text': "i mean i guess that they've got", 'start': 4090.16, 'duration': 2.48}
+{'text': 'eyewitness of them being in a fight but', 'start': 4091.039, 'duration': 2.8}
+{'text': "they don't have anything like of her", 'start': 4092.64, 'duration': 2.399}
+{'text': 'actually murdering', 'start': 4093.839, 'duration': 5.201}
+{'text': 'the person right the dna was in the bite', 'start': 4095.039, 'duration': 5.601}
+{'text': "mark maybe it's enough", 'start': 4099.04, 'duration': 2.799}
+{'text': 'maybe that would have been enough it', 'start': 4100.64, 'duration': 2.88}
+{'text': "feels like it couldn't it feels like it", 'start': 4101.839, 'duration': 2.561}
+{'text': "wouldn't have been enough otherwise they", 'start': 4103.52, 'duration': 1.679}
+{'text': "wouldn't have gone through the trouble", 'start': 4104.4, 'duration': 3.279}
+{'text': 'of talking to her now', 'start': 4105.199, 'duration': 4.0}
+{'text': 'again words are feeble tools for', 'start': 4107.679, 'duration': 3.52}
+{'text': 'describing these impacts', 'start': 4109.199, 'duration': 3.761}
+{'text': 'but there are so many moments and so', 'start': 4111.199, 'duration': 3.361}
+{'text': 'very many tears', 'start': 4112.96, 'duration': 3.04}
+{'text': "and the fact that sherry's death", 'start': 4114.56, 'duration': 4.0}
+{'text': 'occurred because she met and married me', 'start': 4116.0, 'duration': 5.12}
+{'text': 'brings me to my knees stephanie lazarus', 'start': 4118.56, 'duration': 5.04}
+{'text': 'was sentenced to 27 years to life for', 'start': 4121.12, 'duration': 4.239}
+{'text': 'the murder of sherry rasmussen', 'start': 4123.6, 'duration': 3.52}
+{'text': 'she is currently being held inside the', 'start': 4125.359, 'duration': 3.681}
+{'text': 'maximum security unit of the central', 'start': 4127.12, 'duration': 4.719}
+{'text': "california women's", 'start': 4129.04, 'duration': 4.0}
+{'text': "to hit that like and subscribe and don't", 'start': 4131.839, 'duration': 2.88}
+{'text': 'forget the notification bell so that my', 'start': 4133.04, 'duration': 2.159}
+{'text': 'videos', 'start': 4134.719, 'duration': 4.96}
+{'text': 'show up right in your feed out of your', 'start': 4135.199, 'duration': 4.48}
+{'text': 'mind', 'start': 4144.839, 'duration': 5.671}
+{'text': '[Music]', 'start': 4147.71, 'duration': 2.8}

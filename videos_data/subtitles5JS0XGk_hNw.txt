@@ -1,0 +1,822 @@
+{'text': 'it seemed like the conversation we had', 'start': 0.24, 'duration': 3.6}
+{'text': "was people value autonomy people don't", 'start': 1.68, 'duration': 4.4}
+{'text': 'value autonomy the way they say they do', 'start': 3.84, 'duration': 4.48}
+{'text': 'uh i think you probably agree that', 'start': 6.08, 'duration': 4.8}
+{'text': 'people value some level of autonomy', 'start': 8.32, 'duration': 4.16}
+{'text': "i figured it'd probably be useful for us", 'start': 10.88, 'duration': 3.6}
+{'text': 'to like arrive at a definition of that', 'start': 12.48, 'duration': 3.359}
+{'text': "and then from there it's just a matter", 'start': 14.48, 'duration': 4.24}
+{'text': 'of like figuring out what level', 'start': 15.839, 'duration': 3.921}
+{'text': "i mean we're not really working with", 'start': 18.72, 'duration': 2.719}
+{'text': "data like we're both kind of just", 'start': 19.76, 'duration': 3.439}
+{'text': 'working on our feelings of how much we', 'start': 21.439, 'duration': 4.561}
+{'text': 'think the average person values autonomy', 'start': 23.199, 'duration': 4.481}
+{'text': 'yeah but it seems like oh go ahead', 'start': 26.0, 'duration': 3.84}
+{'text': 'please yeah i mean like it feels like', 'start': 27.68, 'duration': 4.399}
+{'text': 'the probably some level of autonomy', 'start': 29.84, 'duration': 4.64}
+{'text': 'um makes us feel good in society i', 'start': 32.079, 'duration': 3.601}
+{'text': "imagine we wouldn't want to live like on", 'start': 34.48, 'duration': 3.04}
+{'text': 'a robot schedule or something', 'start': 35.68, 'duration': 4.64}
+{'text': 'um but i think that people in general', 'start': 37.52, 'duration': 4.879}
+{'text': 'vastly overvalue autonomy', 'start': 40.32, 'duration': 3.6}
+{'text': 'and they use autonomy as a substitute', 'start': 42.399, 'duration': 3.121}
+{'text': "for what they're actually looking for so", 'start': 43.92, 'duration': 3.119}
+{'text': 'like the ability to live like a happy', 'start': 45.52, 'duration': 2.559}
+{'text': 'healthy life', 'start': 47.039, 'duration': 2.721}
+{'text': "when you're working a nice job and you", 'start': 48.079, 'duration': 3.361}
+{'text': 'have like a nice family you do fun', 'start': 49.76, 'duration': 2.56}
+{'text': 'things', 'start': 51.44, 'duration': 2.48}
+{'text': 'i think that people substitute in', 'start': 52.32, 'duration': 2.719}
+{'text': 'autonomy for this so they think that', 'start': 53.92, 'duration': 2.319}
+{'text': 'autonomy will lead them there so they', 'start': 55.039, 'duration': 2.321}
+{'text': 'think that they value the autonomy but', 'start': 56.239, 'duration': 2.241}
+{'text': 'what i think what they really value is', 'start': 57.36, 'duration': 2.32}
+{'text': 'what they think they can use autonomy to', 'start': 58.48, 'duration': 4.239}
+{'text': 'get is generally what i think', 'start': 59.68, 'duration': 5.119}
+{'text': 'okay so i think this may be this may be', 'start': 62.719, 'duration': 3.201}
+{'text': 'where we disagree because i do think', 'start': 64.799, 'duration': 2.161}
+{'text': 'that people', 'start': 65.92, 'duration': 2.879}
+{'text': 'like value autonomy and make decisions', 'start': 66.96, 'duration': 3.76}
+{'text': 'just to preserve the idea of being able', 'start': 68.799, 'duration': 3.121}
+{'text': "to make choices that they don't feel", 'start': 70.72, 'duration': 2.56}
+{'text': "that they're able to make now", 'start': 71.92, 'duration': 2.64}
+{'text': 'and that they will trade off like', 'start': 73.28, 'duration': 3.04}
+{'text': 'material benefit or even', 'start': 74.56, 'duration': 3.68}
+{'text': 'i think a lot of people would claim we', 'start': 76.32, 'duration': 3.119}
+{'text': 'got to this a little bit on that panel', 'start': 78.24, 'duration': 2.8}
+{'text': 'but i think people would claim', 'start': 79.439, 'duration': 4.401}
+{'text': 'uh to forego like a perfect or what', 'start': 81.04, 'duration': 3.759}
+{'text': 'would be considered like more', 'start': 83.84, 'duration': 2.639}
+{'text': 'comfortable outcomes or even what they', 'start': 84.799, 'duration': 3.041}
+{'text': 'would prefer as better outcomes if it', 'start': 86.479, 'duration': 3.28}
+{'text': 'meant that they had to forego or give up', 'start': 87.84, 'duration': 3.44}
+{'text': 'like the ability to change their mind in', 'start': 89.759, 'duration': 4.72}
+{'text': 'the future or something like that', 'start': 91.28, 'duration': 5.28}
+{'text': 'um i wish there was like a way to test', 'start': 94.479, 'duration': 3.761}
+{'text': 'this', 'start': 96.56, 'duration': 3.599}
+{'text': 'so you used a video game analogy the', 'start': 98.24, 'duration': 3.36}
+{'text': 'last time we talked where if you drop', 'start': 100.159, 'duration': 3.441}
+{'text': 'somebody into like this giant sandbox', 'start': 101.6, 'duration': 3.28}
+{'text': "experience and don't give them any", 'start': 103.6, 'duration': 2.24}
+{'text': 'tutorials', 'start': 104.88, 'duration': 2.4}
+{'text': "uh they'll get discouraged and they end", 'start': 105.84, 'duration': 2.8}
+{'text': 'up you know hating it which is something', 'start': 107.28, 'duration': 2.879}
+{'text': 'i can certainly understand', 'start': 108.64, 'duration': 4.08}
+{'text': 'but i think the inverse is true where if', 'start': 110.159, 'duration': 3.361}
+{'text': 'you had like', 'start': 112.72, 'duration': 2.079}
+{'text': 'one of the reasons i think people like', 'start': 113.52, 'duration': 2.959}
+{'text': 'dark souls games or like souls likes or', 'start': 114.799, 'duration': 2.64}
+{'text': 'roguelikes', 'start': 116.479, 'duration': 4.32}
+{'text': 'is because um the', 'start': 117.439, 'duration': 6.32}
+{'text': 'probability to fail is so high and those', 'start': 120.799, 'duration': 4.481}
+{'text': "games are so expandable and there's so", 'start': 123.759, 'duration': 2.96}
+{'text': 'many different ways to interact with', 'start': 125.28, 'duration': 1.839}
+{'text': 'them', 'start': 126.719, 'duration': 2.24}
+{'text': 'it may be the case that a lot of people', 'start': 127.119, 'duration': 3.441}
+{'text': 'who interact with those games', 'start': 128.959, 'duration': 3.201}
+{'text': "uh don't really know how best to", 'start': 130.56, 'duration': 2.8}
+{'text': 'interact with them whereas if you had a', 'start': 132.16, 'duration': 2.48}
+{'text': "system if we're gonna use like the", 'start': 133.36, 'duration': 2.879}
+{'text': 'explosion principle or something', 'start': 134.64, 'duration': 4.08}
+{'text': 'uh where like the game physically stops', 'start': 136.239, 'duration': 3.281}
+{'text': 'it pauses', 'start': 138.72, 'duration': 2.48}
+{'text': 'and tells you exactly which button like', 'start': 139.52, 'duration': 3.84}
+{'text': "it's a like a stop and go sort of quick", 'start': 141.2, 'duration': 2.88}
+{'text': 'time event', 'start': 143.36, 'duration': 2.32}
+{'text': 'and the result is that you get a perfect', 'start': 144.08, 'duration': 3.2}
+{'text': 'outcome you get like a perfect speed run', 'start': 145.68, 'duration': 2.4}
+{'text': 'no hick', 'start': 147.28, 'duration': 2.16}
+{'text': 'no hit game in dark souls or something', 'start': 148.08, 'duration': 2.96}
+{'text': 'like that every time but you have to', 'start': 149.44, 'duration': 2.879}
+{'text': 'follow the prompts on screen', 'start': 151.04, 'duration': 2.4}
+{'text': "and the game won't let you fail", 'start': 152.319, 'duration': 2.56}
+{'text': "otherwise obviously that's not a game", 'start': 153.44, 'duration': 2.56}
+{'text': 'that people would be interested in', 'start': 154.879, 'duration': 1.681}
+{'text': 'playing', 'start': 156.0, 'duration': 3.04}
+{'text': 'i think ultimately yeah so i understand', 'start': 156.56, 'duration': 3.6}
+{'text': 'the analogy so', 'start': 159.04, 'duration': 2.64}
+{'text': "i'm gonna fight back and i'm gonna call", 'start': 160.16, 'duration': 3.68}
+{'text': 'this just analogous because i think that', 'start': 161.68, 'duration': 5.44}
+{'text': 'in this particular thing failing', 'start': 163.84, 'duration': 5.759}
+{'text': 'or losing is like part of the process of', 'start': 167.12, 'duration': 3.28}
+{'text': 'winning', 'start': 169.599, 'duration': 2.881}
+{'text': 'and like you need to have some of that', 'start': 170.4, 'duration': 4.0}
+{'text': 'failure for the win to feel good', 'start': 172.48, 'duration': 3.839}
+{'text': "but i don't think that that's the same", 'start': 174.4, 'duration': 4.08}
+{'text': 'in real life so like in a video game if', 'start': 176.319, 'duration': 3.92}
+{'text': 'i lose well for me personally if i lose', 'start': 178.48, 'duration': 3.039}
+{'text': 'a hundred times', 'start': 180.239, 'duration': 3.041}
+{'text': 'on a section and then i win at the end', 'start': 181.519, 'duration': 3.201}
+{'text': 'that feels really good', 'start': 183.28, 'duration': 3.28}
+{'text': "but in real life i don't want to be", 'start': 184.72, 'duration': 3.36}
+{'text': 'hungry for a week and then get a good', 'start': 186.56, 'duration': 3.2}
+{'text': "meal on sunday or i don't want to fail", 'start': 188.08, 'duration': 3.68}
+{'text': 'like 20 classes and then finally pass', 'start': 189.76, 'duration': 3.199}
+{'text': 'the last class', 'start': 191.76, 'duration': 3.36}
+{'text': 'i just want that stuff to go like really', 'start': 192.959, 'duration': 3.36}
+{'text': 'well the first time', 'start': 195.12, 'duration': 3.68}
+{'text': 'so i feel like the desire i feel like in', 'start': 196.319, 'duration': 3.121}
+{'text': 'a way', 'start': 198.8, 'duration': 1.68}
+{'text': "i'm trying to think i don't know if it's", 'start': 199.44, 'duration': 2.719}
+{'text': '100 but i almost feel like it that', 'start': 200.48, 'duration': 3.44}
+{'text': 'analogy actually works exactly against', 'start': 202.159, 'duration': 2.401}
+{'text': 'you there', 'start': 203.92, 'duration': 1.92}
+{'text': 'because i would argue that people are', 'start': 204.56, 'duration': 3.36}
+{'text': 'introducing autonomy in those games', 'start': 205.84, 'duration': 3.84}
+{'text': 'simply because they need to introduce', 'start': 207.92, 'duration': 3.12}
+{'text': "the challenge because that's part of the", 'start': 209.68, 'duration': 1.919}
+{'text': 'game', 'start': 211.04, 'duration': 2.64}
+{'text': 'but in real life they would want exactly', 'start': 211.599, 'duration': 3.28}
+{'text': "the opposite of that they wouldn't want", 'start': 213.68, 'duration': 2.479}
+{'text': 'those challenges to pop up', 'start': 214.879, 'duration': 2.481}
+{'text': 'like we had to choose in real life would', 'start': 216.159, 'duration': 3.44}
+{'text': 'you rather like real life be more like', 'start': 217.36, 'duration': 4.799}
+{'text': "um [\xa0__\xa0] i can't think of an easy [\xa0__\xa0]", 'start': 219.599, 'duration': 3.761}
+{'text': 'game would you rather real life be like', 'start': 222.159, 'duration': 2.16}
+{'text': 'stardew valley', 'start': 223.36, 'duration': 2.239}
+{'text': 'or would you rather real life be like', 'start': 224.319, 'duration': 3.601}
+{'text': 'dark souls i think 99 of people would be', 'start': 225.599, 'duration': 3.681}
+{'text': "like i'd rather real life would be like", 'start': 227.92, 'duration': 2.959}
+{'text': 'stardew valley then i die', 'start': 229.28, 'duration': 4.64}
+{'text': "right that's i would rather stream of", 'start': 230.879, 'duration': 4.401}
+{'text': 'course but this is now a conversation', 'start': 233.92, 'duration': 2.879}
+{'text': 'about like challenge and stakes', 'start': 235.28, 'duration': 3.599}
+{'text': 'and not about like autonomy and and', 'start': 236.799, 'duration': 3.601}
+{'text': 'being able to choose the way that you', 'start': 238.879, 'duration': 2.481}
+{'text': 'interact with', 'start': 240.4, 'duration': 2.72}
+{'text': 'you know the game or like reality in', 'start': 241.36, 'duration': 3.2}
+{'text': 'this case like', 'start': 243.12, 'duration': 3.44}
+{'text': 'i feel like when people desire autonomy', 'start': 244.56, 'duration': 3.52}
+{'text': "it's almost a concession that", 'start': 246.56, 'duration': 3.2}
+{'text': "maybe as individuals we don't even know", 'start': 248.08, 'duration': 3.68}
+{'text': 'exactly what we want or how to get there', 'start': 249.76, 'duration': 3.679}
+{'text': "and that like when we're talking about", 'start': 251.76, 'duration': 3.119}
+{'text': "systems anyway we're talking about not", 'start': 253.439, 'duration': 3.2}
+{'text': 'creating systems that confine us like', 'start': 254.879, 'duration': 3.521}
+{'text': 'like stalin socialism or marxist', 'start': 256.639, 'duration': 3.12}
+{'text': 'leninism or something where', 'start': 258.4, 'duration': 3.28}
+{'text': 'our lives are are mostly dictated for us', 'start': 259.759, 'duration': 3.44}
+{'text': "but we're promised like good outcomes", 'start': 261.68, 'duration': 2.239}
+{'text': 'for it', 'start': 263.199, 'duration': 2.56}
+{'text': 'and that people kind of want an ability', 'start': 263.919, 'duration': 3.84}
+{'text': 'to not know exactly what they want out', 'start': 265.759, 'duration': 3.201}
+{'text': 'of life and just sort of like figure', 'start': 267.759, 'duration': 2.641}
+{'text': 'that out and maybe even', 'start': 268.96, 'duration': 2.72}
+{'text': 'backtrack a little bit and work a', 'start': 270.4, 'duration': 3.519}
+{'text': 'different way here is like so this is', 'start': 271.68, 'duration': 4.16}
+{'text': "okay um i'm about to gish get out the", 'start': 273.919, 'duration': 3.521}
+{'text': '[\xa0__\xa0] at you then tell me if you like', 'start': 275.84, 'duration': 3.2}
+{'text': 'hate this or i', 'start': 277.44, 'duration': 3.12}
+{'text': "i'm i don't feel like super strongly but", 'start': 279.04, 'duration': 2.64}
+{'text': "i'm open having my mind change and i", 'start': 280.56, 'duration': 2.72}
+{'text': 'wish people would be different but like', 'start': 281.68, 'duration': 3.2}
+{'text': 'when i look at the freedom of choice', 'start': 283.28, 'duration': 3.6}
+{'text': "that we have in today's society", 'start': 284.88, 'duration': 4.56}
+{'text': 'is [\xa0__\xa0] massive but then when i look', 'start': 286.88, 'duration': 4.319}
+{'text': 'at how people participate in society it', 'start': 289.44, 'duration': 3.28}
+{'text': 'seems like they like the idea of', 'start': 291.199, 'duration': 2.56}
+{'text': 'autonomy', 'start': 292.72, 'duration': 3.12}
+{'text': 'rather than like actually exercising it', 'start': 293.759, 'duration': 3.44}
+{'text': 'so for example', 'start': 295.84, 'duration': 3.68}
+{'text': 'when people go to restaurants they tend', 'start': 297.199, 'duration': 3.681}
+{'text': "even if there's hundreds of restaurants", 'start': 299.52, 'duration': 2.8}
+{'text': 'they tend to visit the same restaurants', 'start': 300.88, 'duration': 2.64}
+{'text': 'and when they go to a restaurant they', 'start': 302.32, 'duration': 2.719}
+{'text': 'like they tend to order the same thing', 'start': 303.52, 'duration': 2.959}
+{'text': "every time they'll ignore 100 items on", 'start': 305.039, 'duration': 2.72}
+{'text': 'the menu to always order the same thing', 'start': 306.479, 'duration': 2.16}
+{'text': 'they like over and over again', 'start': 307.759, 'duration': 2.241}
+{'text': 'when somebody goes to a grocery store', 'start': 308.639, 'duration': 2.801}
+{'text': "there's 200 different types of cereal to", 'start': 310.0, 'duration': 2.88}
+{'text': "choose from they'll always get the same", 'start': 311.44, 'duration': 3.039}
+{'text': 'exact boxes here or maybe a second one', 'start': 312.88, 'duration': 2.4}
+{'text': 'sometimes', 'start': 314.479, 'duration': 2.16}
+{'text': 'when people go to the club like the', 'start': 315.28, 'duration': 3.12}
+{'text': "store to buy clothes they're always", 'start': 316.639, 'duration': 3.041}
+{'text': 'buying whatever the most popular', 'start': 318.4, 'duration': 2.239}
+{'text': 'fashions are you could wear a', 'start': 319.68, 'duration': 2.079}
+{'text': 'theoretically an infinite number of', 'start': 320.639, 'duration': 2.481}
+{'text': "combination of garments but it's always", 'start': 321.759, 'duration': 2.641}
+{'text': 'going to be like what is like the trendy', 'start': 323.12, 'duration': 2.32}
+{'text': 'thing right now', 'start': 324.4, 'duration': 2.96}
+{'text': "when people go to buy like whether it's", 'start': 325.44, 'duration': 4.0}
+{'text': 'cars um and the types of coffee shops or', 'start': 327.36, 'duration': 3.04}
+{'text': 'cars', 'start': 329.44, 'duration': 2.72}
+{'text': 'but like it feels like in almost every', 'start': 330.4, 'duration': 3.44}
+{'text': 'single area of our life', 'start': 332.16, 'duration': 3.28}
+{'text': "we love the idea of saying there's like", 'start': 333.84, 'duration': 3.44}
+{'text': 'a million things to choose but people', 'start': 335.44, 'duration': 2.64}
+{'text': 'tend to stay', 'start': 337.28, 'duration': 3.759}
+{'text': 'within a very very very narrow subset of', 'start': 338.08, 'duration': 4.32}
+{'text': 'choices', 'start': 341.039, 'duration': 3.041}
+{'text': "and it that's what so it feels like the", 'start': 342.4, 'duration': 3.76}
+{'text': 'the concept of the autonomy is like', 'start': 344.08, 'duration': 3.839}
+{'text': 'comforting and it feels good', 'start': 346.16, 'duration': 3.68}
+{'text': 'but the exercising of that autonomy is', 'start': 347.919, 'duration': 3.601}
+{'text': 'like just never done', 'start': 349.84, 'duration': 4.4}
+{'text': "that's what it feels like to me okay", 'start': 351.52, 'duration': 3.119}
+{'text': 'well', 'start': 354.24, 'duration': 2.48}
+{'text': "so i i don't know i guess i i've", 'start': 354.639, 'duration': 4.321}
+{'text': 'perceived that to be true in some cases', 'start': 356.72, 'duration': 4.24}
+{'text': 'i like i guess i kind of consider that a', 'start': 358.96, 'duration': 3.76}
+{'text': 'matter of interest and some of that may', 'start': 360.96, 'duration': 3.519}
+{'text': 'be the confines of the systems that we', 'start': 362.72, 'duration': 2.88}
+{'text': 'live in or like', 'start': 364.479, 'duration': 2.641}
+{'text': 'the result of the confines that exists', 'start': 365.6, 'duration': 3.599}
+{'text': 'within the system like', 'start': 367.12, 'duration': 4.16}
+{'text': 'the idea of moving out of your comfort', 'start': 369.199, 'duration': 3.921}
+{'text': 'zone or like living in different places', 'start': 371.28, 'duration': 2.88}
+{'text': "like it's hard for me to understand", 'start': 373.12, 'duration': 2.88}
+{'text': "because like personally i don't know if", 'start': 374.16, 'duration': 3.36}
+{'text': "i'm billed differently or whatever but", 'start': 376.0, 'duration': 4.8}
+{'text': "like it's i've very much been against", 'start': 377.52, 'duration': 5.28}
+{'text': "that i've cut like a weird path in life", 'start': 380.8, 'duration': 3.92}
+{'text': 'and uh like for example when i go to', 'start': 382.8, 'duration': 3.28}
+{'text': "restaurants it's very important to me to", 'start': 384.72, 'duration': 2.8}
+{'text': 'always order something or nearly always', 'start': 386.08, 'duration': 2.64}
+{'text': "order something that i've never tried", 'start': 387.52, 'duration': 2.08}
+{'text': 'before', 'start': 388.72, 'duration': 3.28}
+{'text': 'um and that like my reasoning for doing', 'start': 389.6, 'duration': 3.84}
+{'text': "this is because it's led me to", 'start': 392.0, 'duration': 3.759}
+{'text': 'discover things that i enjoy on levels', 'start': 393.44, 'duration': 3.759}
+{'text': 'that i i may not have been able to', 'start': 395.759, 'duration': 3.28}
+{'text': 'predict or that i enjoy on levels more', 'start': 397.199, 'duration': 3.761}
+{'text': "than things that i'm used to or whatever", 'start': 399.039, 'duration': 4.401}
+{'text': 'uh but like whether or not this is most', 'start': 400.96, 'duration': 3.76}
+{'text': 'people it may just be a matter of', 'start': 403.44, 'duration': 2.879}
+{'text': 'interest i feel that way about food', 'start': 404.72, 'duration': 3.84}
+{'text': "but i don't feel that way about well", 'start': 406.319, 'duration': 3.521}
+{'text': "there are things i don't feel that way", 'start': 408.56, 'duration': 1.68}
+{'text': 'about i', 'start': 409.84, 'duration': 1.68}
+{'text': "maybe don't feel that way about music", 'start': 410.24, 'duration': 3.2}
+{'text': "i'm not particularly passionate about", 'start': 411.52, 'duration': 3.28}
+{'text': 'discovering new music', 'start': 413.44, 'duration': 2.8}
+{'text': 'maybe some people feel that way about', 'start': 414.8, 'duration': 3.6}
+{'text': 'netflix but you know like when it comes', 'start': 416.24, 'duration': 2.48}
+{'text': 'to', 'start': 418.4, 'duration': 2.56}
+{'text': 'maybe food tourism or or like real life', 'start': 418.72, 'duration': 3.44}
+{'text': 'tourism', 'start': 420.96, 'duration': 3.12}
+{'text': 'like or or careers or something like', 'start': 422.16, 'duration': 3.84}
+{'text': 'that careers is an easy one to draw a', 'start': 424.08, 'duration': 3.36}
+{'text': 'parallel to because', 'start': 426.0, 'duration': 5.199}
+{'text': 'um you know like the way that the way', 'start': 427.44, 'duration': 4.319}
+{'text': 'that', 'start': 431.199, 'duration': 2.4}
+{'text': 'life works in this country is that you', 'start': 431.759, 'duration': 3.201}
+{'text': 'have to establish yourself at a young', 'start': 433.599, 'duration': 1.761}
+{'text': 'age', 'start': 434.96, 'duration': 2.48}
+{'text': 'train for a specific type of job if you', 'start': 435.36, 'duration': 3.52}
+{'text': 'want to be able to have the resources to', 'start': 437.44, 'duration': 3.039}
+{'text': 'raise a family and whatnot', 'start': 438.88, 'duration': 4.319}
+{'text': 'and uh like any time spent deviating', 'start': 440.479, 'duration': 4.081}
+{'text': "from a certain path or you're led to", 'start': 443.199, 'duration': 2.881}
+{'text': 'believe that time spent deviating from a', 'start': 444.56, 'duration': 2.4}
+{'text': 'certain path', 'start': 446.08, 'duration': 2.72}
+{'text': 'may cause you to lose out or not be able', 'start': 446.96, 'duration': 3.04}
+{'text': 'to achieve like the basic', 'start': 448.8, 'duration': 2.32}
+{'text': 'things that you want to achieve or', 'start': 450.0, 'duration': 2.88}
+{'text': 'something but in reality i think it may', 'start': 451.12, 'duration': 2.88}
+{'text': 'be the case', 'start': 452.88, 'duration': 2.719}
+{'text': 'that you know like if people had more', 'start': 454.0, 'duration': 3.44}
+{'text': "resources you know i don't think it's a", 'start': 455.599, 'duration': 2.801}
+{'text': 'coincidence that people who have more', 'start': 457.44, 'duration': 3.599}
+{'text': 'resources tend to be more adventurous', 'start': 458.4, 'duration': 4.239}
+{'text': "i don't know if that's even necessarily", 'start': 461.039, 'duration': 3.121}
+{'text': 'true i guess maybe sometimes they will', 'start': 462.639, 'duration': 3.361}
+{'text': 'be but it feels like most people fall', 'start': 464.16, 'duration': 5.439}
+{'text': 'into like very rigid patterns like', 'start': 466.0, 'duration': 5.28}
+{'text': 'man i might be just poisoned with', 'start': 469.599, 'duration': 3.361}
+{'text': 'anecdote here like like a funny example', 'start': 471.28, 'duration': 2.88}
+{'text': 'that i can think how old are you', 'start': 472.96, 'duration': 4.0}
+{'text': 'or what about age 35 35 did you go to', 'start': 474.16, 'duration': 3.92}
+{'text': 'college', 'start': 476.96, 'duration': 4.32}
+{'text': 'i went to a couple times okay sure i', 'start': 478.08, 'duration': 4.72}
+{'text': 'flunked out when i was in third year so', 'start': 481.28, 'duration': 3.28}
+{'text': "far i don't feel bad um", 'start': 482.8, 'duration': 2.88}
+{'text': 'so like one of the things that i', 'start': 484.56, 'duration': 3.919}
+{'text': 'remember was like this is so funny to me', 'start': 485.68, 'duration': 3.76}
+{'text': 'this is the funny thing in the world', 'start': 488.479, 'duration': 2.641}
+{'text': 'when i noticed this is that when we go', 'start': 489.44, 'duration': 2.8}
+{'text': 'for me in high school i went to a', 'start': 491.12, 'duration': 2.24}
+{'text': 'private high school so i had a signed', 'start': 492.24, 'duration': 2.0}
+{'text': 'seating so', 'start': 493.36, 'duration': 2.239}
+{'text': 'everybody had to sit in the exact same', 'start': 494.24, 'duration': 3.04}
+{'text': 'seat every time when you go to college', 'start': 495.599, 'duration': 3.521}
+{'text': 'one of the coolest things you see', 'start': 497.28, 'duration': 3.199}
+{'text': "is you don't have a signed seating", 'start': 499.12, 'duration': 2.799}
+{'text': 'anymore anybody can sit anywhere they', 'start': 500.479, 'duration': 2.16}
+{'text': 'want', 'start': 501.919, 'duration': 2.321}
+{'text': 'for the entirety of whatever you want to', 'start': 502.639, 'duration': 2.641}
+{'text': "sit that's like and it was like the", 'start': 504.24, 'duration': 2.72}
+{'text': 'coolest thing in the world', 'start': 505.28, 'duration': 3.28}
+{'text': 'but then what you realize is that like', 'start': 506.96, 'duration': 3.519}
+{'text': 'on day two you sit in the same seat and', 'start': 508.56, 'duration': 3.199}
+{'text': 'then on day three and it actually gets', 'start': 510.479, 'duration': 1.841}
+{'text': 'to where', 'start': 511.759, 'duration': 2.16}
+{'text': 'every single person in class more or', 'start': 512.32, 'duration': 3.44}
+{'text': 'less sits in the exact same spot', 'start': 513.919, 'duration': 3.12}
+{'text': "and it's even at such a point that if", 'start': 515.76, 'duration': 2.8}
+{'text': "you were to go and take somebody else's", 'start': 517.039, 'duration': 2.161}
+{'text': 'seat', 'start': 518.56, 'duration': 1.839}
+{'text': 'people would like look at you like what', 'start': 519.2, 'duration': 2.24}
+{'text': 'the [\xa0__\xa0] are you doing even though', 'start': 520.399, 'duration': 2.721}
+{'text': "there's no assigned seating", 'start': 521.44, 'duration': 3.28}
+{'text': 'um and i know these are all like these', 'start': 523.12, 'duration': 3.04}
+{'text': 'small like one-off examples but like i', 'start': 524.72, 'duration': 2.88}
+{'text': 'see so many times', 'start': 526.16, 'duration': 3.52}
+{'text': 'where people can like exercise a lot of', 'start': 527.6, 'duration': 3.2}
+{'text': 'freedom or autonomy', 'start': 529.68, 'duration': 3.2}
+{'text': 'but you are so socially pressured into', 'start': 530.8, 'duration': 3.2}
+{'text': 'picking like a very', 'start': 532.88, 'duration': 3.44}
+{'text': "narrow band of choices it just i don't", 'start': 534.0, 'duration': 3.44}
+{'text': 'know i always viewed it as like', 'start': 536.32, 'duration': 2.4}
+{'text': "i don't know if this is like an american", 'start': 537.44, 'duration': 3.36}
+{'text': 'contradiction or a western contradiction', 'start': 538.72, 'duration': 3.76}
+{'text': 'or a capitalist contradiction that', 'start': 540.8, 'duration': 3.2}
+{'text': 'people always say that they want freedom', 'start': 542.48, 'duration': 2.96}
+{'text': 'and freedom and freedom and freedom but', 'start': 544.0, 'duration': 2.959}
+{'text': "they're still very much like a highly", 'start': 545.44, 'duration': 3.519}
+{'text': 'commodified highly commercialized', 'start': 546.959, 'duration': 3.841}
+{'text': 'very narrow band of choices that you can', 'start': 548.959, 'duration': 3.681}
+{'text': 'make that all have to fall into whatever', 'start': 550.8, 'duration': 3.12}
+{'text': 'like pop culture is currently telling', 'start': 552.64, 'duration': 2.639}
+{'text': 'you to do or whatever other environment', 'start': 553.92, 'duration': 3.44}
+{'text': "you exist that's what it feels like", 'start': 555.279, 'duration': 4.321}
+{'text': 'maybe i understand that feeling but i', 'start': 557.36, 'duration': 3.12}
+{'text': 'also think', 'start': 559.6, 'duration': 2.56}
+{'text': 'i think i tried to highlight this the', 'start': 560.48, 'duration': 3.039}
+{'text': 'other night as well where', 'start': 562.16, 'duration': 3.6}
+{'text': 'a person choosing to eat pop-tarts for', 'start': 563.519, 'duration': 4.0}
+{'text': 'breakfast every morning may also be an', 'start': 565.76, 'duration': 3.519}
+{'text': 'exercise of their autonomy they may feel', 'start': 567.519, 'duration': 3.361}
+{'text': 'social pressures to try different things', 'start': 569.279, 'duration': 2.961}
+{'text': 'their significant other might say you', 'start': 570.88, 'duration': 2.8}
+{'text': 'always eat pop-tarts for breakfast have', 'start': 572.24, 'duration': 2.96}
+{'text': 'a waffle or some [\xa0__\xa0] like that', 'start': 573.68, 'duration': 2.88}
+{'text': 'and you know when people when you', 'start': 575.2, 'duration': 3.04}
+{'text': 'confront people with their habits', 'start': 576.56, 'duration': 2.719}
+{'text': 'and like try to make it out like their', 'start': 578.24, 'duration': 2.32}
+{'text': 'habits are lame you often hear that', 'start': 579.279, 'duration': 2.961}
+{'text': 'defense like no i like this i know that', 'start': 580.56, 'duration': 2.64}
+{'text': 'i like this', 'start': 582.24, 'duration': 2.48}
+{'text': "at what point can we consider that it's", 'start': 583.2, 'duration': 4.24}
+{'text': 'them like exercising autonomy to like', 'start': 584.72, 'duration': 4.32}
+{'text': 'make the same choice you know yeah i', 'start': 587.44, 'duration': 3.839}
+{'text': "guess it's possible maybe we just have", 'start': 589.04, 'duration': 3.76}
+{'text': 'different views of it or maybe i would', 'start': 591.279, 'duration': 3.441}
+{'text': 'push somebody it just i guess like that', 'start': 592.8, 'duration': 4.159}
+{'text': "it's a little bit ironic to me", 'start': 594.72, 'duration': 7.04}
+{'text': 'because like i could um like', 'start': 596.959, 'duration': 6.081}
+{'text': "basically so like let's say that i", 'start': 601.76, 'duration': 3.199}
+{'text': "approached somebody and i'm like dude", 'start': 603.04, 'duration': 3.84}
+{'text': 'you live the most rigid life in the', 'start': 604.959, 'duration': 4.241}
+{'text': 'world so you wake up in the morning on', 'start': 606.88, 'duration': 3.76}
+{'text': 'the sleep number mattress that you got', 'start': 609.2, 'duration': 2.8}
+{'text': "because you've seen it advertised to you", 'start': 610.64, 'duration': 2.879}
+{'text': '50 million times', 'start': 612.0, 'duration': 2.56}
+{'text': 'and then you get in your car and you', 'start': 613.519, 'duration': 2.721}
+{'text': "turn on the radio and you're listening", 'start': 614.56, 'duration': 3.2}
+{'text': 'to whatever the number one chart was on', 'start': 616.24, 'duration': 2.8}
+{'text': 'youtube that day', 'start': 617.76, 'duration': 3.36}
+{'text': 'um and then you drive the car you drive', 'start': 619.04, 'duration': 3.919}
+{'text': 'the uh honda civic the most popular', 'start': 621.12, 'duration': 3.44}
+{'text': "ford f-150 because that's what they're", 'start': 622.959, 'duration': 3.521}
+{'text': 'forward f-150 or chevy silverado yeah', 'start': 624.56, 'duration': 2.8}
+{'text': 'you drive that to work', 'start': 626.48, 'duration': 1.84}
+{'text': 'and then at the end of the day like and', 'start': 627.36, 'duration': 2.0}
+{'text': 'i can go through like a million of these', 'start': 628.32, 'duration': 2.0}
+{'text': 'examples at the end of the day you get', 'start': 629.36, 'duration': 2.0}
+{'text': "home and it's like", 'start': 630.32, 'duration': 2.8}
+{'text': "wow dude like where's your autonomy and", 'start': 631.36, 'duration': 3.52}
+{'text': "it's like whoa i just chose to do the", 'start': 633.12, 'duration': 3.36}
+{'text': 'most popular thing in every single', 'start': 634.88, 'duration': 2.88}
+{'text': 'category of my life but i', 'start': 636.48, 'duration': 3.28}
+{'text': 'at least i got to choose it and i mean', 'start': 637.76, 'duration': 3.199}
+{'text': 'technically', 'start': 639.76, 'duration': 2.88}
+{'text': "you're right and you could argue that", 'start': 640.959, 'duration': 3.681}
+{'text': "i'm being reductionist well okay destiny", 'start': 642.64, 'duration': 2.56}
+{'text': 'like', 'start': 644.64, 'duration': 2.0}
+{'text': 'okay you can still choose things that', 'start': 645.2, 'duration': 2.96}
+{'text': 'are popular maybe most people just', 'start': 646.64, 'duration': 2.56}
+{'text': "choose the things and what's probably", 'start': 648.16, 'duration': 2.0}
+{'text': 'like i guess kind of', 'start': 649.2, 'duration': 2.56}
+{'text': 'but at that point like what is the', 'start': 650.16, 'duration': 3.04}
+{'text': 'autonomy actually like if i were to', 'start': 651.76, 'duration': 2.4}
+{'text': 'eliminate', 'start': 653.2, 'duration': 4.079}
+{'text': "95 of choices from people's lives they", 'start': 654.16, 'duration': 4.239}
+{'text': "wouldn't even notice it", 'start': 657.279, 'duration': 2.56}
+{'text': 'now you mentioned that you might be an', 'start': 658.399, 'duration': 3.041}
+{'text': "outlier i think i'm an outlier for a lot", 'start': 659.839, 'duration': 2.721}
+{'text': "of things but i mean like we're streamer", 'start': 661.44, 'duration': 2.079}
+{'text': "people so of course we're gonna be", 'start': 662.56, 'duration': 1.839}
+{'text': 'somewhat outliers', 'start': 663.519, 'duration': 2.241}
+{'text': 'um so like the thing that you said about', 'start': 664.399, 'duration': 2.56}
+{'text': 'food is cool that you challenge yourself', 'start': 665.76, 'duration': 2.639}
+{'text': "i try to do that when i like i'm on", 'start': 666.959, 'duration': 2.641}
+{'text': "doordash like okay what's the restaurant", 'start': 668.399, 'duration': 2.401}
+{'text': "i've ordered from before like i try to", 'start': 669.6, 'duration': 2.239}
+{'text': 'keep this kind of stuff in mind to', 'start': 670.8, 'duration': 1.84}
+{'text': 'challenge yourself i try to do it', 'start': 671.839, 'duration': 1.841}
+{'text': 'sometimes with music too because i can', 'start': 672.64, 'duration': 1.6}
+{'text': 'get into', 'start': 673.68, 'duration': 1.92}
+{'text': 'a habit of listening to the same songs', 'start': 674.24, 'duration': 2.08}
+{'text': "over and over and over again it's like", 'start': 675.6, 'duration': 1.84}
+{'text': "okay well let's can i add something new", 'start': 676.32, 'duration': 2.16}
+{'text': 'can i listen something new', 'start': 677.44, 'duration': 2.16}
+{'text': 'but for a lot of people if you', 'start': 678.48, 'duration': 3.359}
+{'text': 'eliminated 98 of the choices in their', 'start': 679.6, 'duration': 3.44}
+{'text': "lives they actually wouldn't notice", 'start': 681.839, 'duration': 2.0}
+{'text': 'their life is so', 'start': 683.04, 'duration': 2.239}
+{'text': "[\xa0__\xa0] rigid that they wouldn't notice", 'start': 683.839, 'duration': 2.481}
+{'text': "anyway but they'd still feel like they", 'start': 685.279, 'duration': 3.041}
+{'text': 'have full autonomy', 'start': 686.32, 'duration': 3.519}
+{'text': 'i understand this i understand this', 'start': 688.32, 'duration': 3.36}
+{'text': 'argument perfectly but i guess where i', 'start': 689.839, 'duration': 3.361}
+{'text': 'get caught up in is that i i personally', 'start': 691.68, 'duration': 3.04}
+{'text': 'kind of concede that', 'start': 693.2, 'duration': 3.84}
+{'text': 'maybe maybe like their choice to not', 'start': 694.72, 'duration': 3.119}
+{'text': 'deviate', 'start': 697.04, 'duration': 3.6}
+{'text': 'like the you know the idea that they', 'start': 697.839, 'duration': 4.321}
+{'text': 'ought to deviate is like an', 'start': 700.64, 'duration': 3.199}
+{'text': 'art that we are that that you may be', 'start': 702.16, 'duration': 3.119}
+{'text': 'extrapolating onto', 'start': 703.839, 'duration': 3.521}
+{'text': 'onto those individuals and like their', 'start': 705.279, 'duration': 3.361}
+{'text': 'refusal to', 'start': 707.36, 'duration': 3.12}
+{'text': 'to succumb to that may be an exercise', 'start': 708.64, 'duration': 3.199}
+{'text': 'their autonomy or something but like', 'start': 710.48, 'duration': 2.08}
+{'text': "that's what i", 'start': 711.839, 'duration': 2.161}
+{'text': "i guess that that's like central to our", 'start': 712.56, 'duration': 3.44}
+{'text': 'disagreement i guess or and maybe this', 'start': 714.0, 'duration': 3.839}
+{'text': 'might actually just purely be semantic', 'start': 716.0, 'duration': 4.16}
+{'text': "when i think of autonomy that's kind of", 'start': 717.839, 'duration': 4.481}
+{'text': 'what i would imagine is autonomy is', 'start': 720.16, 'duration': 4.56}
+{'text': 'the ability to deviate like that like', 'start': 722.32, 'duration': 4.16}
+{'text': 'autonomy means that i could choose to do', 'start': 724.72, 'duration': 2.64}
+{'text': "something different that's what it", 'start': 726.48, 'duration': 2.64}
+{'text': "really is i'm not being given some rigid", 'start': 727.36, 'duration': 3.279}
+{'text': "guideline that's commanding me to do", 'start': 729.12, 'duration': 3.04}
+{'text': 'something like i have the ability to do', 'start': 730.639, 'duration': 2.401}
+{'text': 'something different', 'start': 732.16, 'duration': 2.479}
+{'text': 'but if everything you choose in life is', 'start': 733.04, 'duration': 2.64}
+{'text': "like what's being fed to you is the most", 'start': 734.639, 'duration': 1.841}
+{'text': 'popular thing like', 'start': 735.68, 'duration': 3.04}
+{'text': 'the lack of deviation in every arena of', 'start': 736.48, 'duration': 3.359}
+{'text': "your life's like well damn where's the", 'start': 738.72, 'duration': 2.88}
+{'text': "autonomy there that's i guess how i view", 'start': 739.839, 'duration': 2.56}
+{'text': 'it', 'start': 741.6, 'duration': 3.84}
+{'text': 'okay so i guess you know i think i would', 'start': 742.399, 'duration': 4.641}
+{'text': 'have defined it in a similar way but i', 'start': 745.44, 'duration': 2.88}
+{'text': "think that's an important distinction to", 'start': 747.04, 'duration': 2.32}
+{'text': 'make because', 'start': 748.32, 'duration': 3.04}
+{'text': 'like in these cases i would i would i', 'start': 749.36, 'duration': 3.68}
+{'text': 'guess point to a definition of an auto', 'start': 751.36, 'duration': 4.08}
+{'text': 'of autonomy that says that autonomy', 'start': 753.04, 'duration': 4.56}
+{'text': 'means that a person has the capability', 'start': 755.44, 'duration': 2.959}
+{'text': 'to', 'start': 757.6, 'duration': 3.6}
+{'text': 'interact exactly on their own terms or', 'start': 758.399, 'duration': 4.641}
+{'text': 'whatever those terms may be', 'start': 761.2, 'duration': 3.52}
+{'text': 'you know give or take different levels', 'start': 763.04, 'duration': 3.12}
+{'text': 'of restriction or something like that so', 'start': 764.72, 'duration': 2.96}
+{'text': 'even a person choosing to eat', 'start': 766.16, 'duration': 3.28}
+{'text': 'chicken noodle soup 100 times in a row', 'start': 767.68, 'duration': 3.12}
+{'text': "or something like that like they're", 'start': 769.44, 'duration': 2.959}
+{'text': 'doing so on their own terms like they', 'start': 770.8, 'duration': 2.56}
+{'text': 'are doing that', 'start': 772.399, 'duration': 2.88}
+{'text': 'because they have the autonomy to do so', 'start': 773.36, 'duration': 3.279}
+{'text': 'because you know you could imagine a', 'start': 775.279, 'duration': 3.201}
+{'text': 'system where they have to rotate meals', 'start': 776.639, 'duration': 3.041}
+{'text': 'and they may hate that', 'start': 778.48, 'duration': 4.479}
+{'text': 'you know yeah for sure i guess', 'start': 779.68, 'duration': 4.8}
+{'text': 'what so but like what if you had like a', 'start': 782.959, 'duration': 3.521}
+{'text': 'group of 100 people and you got like', 'start': 784.48, 'duration': 3.52}
+{'text': 'their aggregate set of', 'start': 786.48, 'duration': 3.28}
+{'text': 'like preferences like you figured out', 'start': 788.0, 'duration': 3.04}
+{'text': 'like what they like for meals and what', 'start': 789.76, 'duration': 2.319}
+{'text': 'they like to drive for cars blah blah', 'start': 791.04, 'duration': 1.76}
+{'text': 'blah blah', 'start': 792.079, 'duration': 2.0}
+{'text': 'like if you removed all of their', 'start': 792.8, 'duration': 3.52}
+{'text': 'autonomy or or rather you removed all', 'start': 794.079, 'duration': 3.281}
+{'text': 'the other choices and you just gave them', 'start': 796.32, 'duration': 2.319}
+{'text': 'the option to buy those things and they', 'start': 797.36, 'duration': 2.56}
+{'text': "weren't aware of it they'd probably just", 'start': 798.639, 'duration': 3.44}
+{'text': 'do it and feel good though no', 'start': 799.92, 'duration': 3.44}
+{'text': "like they'd be like oh yeah this is cool", 'start': 802.079, 'duration': 2.56}
+{'text': "like i feel like i'm making choices blah", 'start': 803.36, 'duration': 3.12}
+{'text': "blah blah like even if there wasn't like", 'start': 804.639, 'duration': 3.601}
+{'text': 'a universe that existed in any part', 'start': 806.48, 'duration': 3.039}
+{'text': 'outside of like their narrow', 'start': 808.24, 'duration': 2.56}
+{'text': "like band of experience they'd still", 'start': 809.519, 'duration': 2.32}
+{'text': 'feel like they have like absolute', 'start': 810.8, 'duration': 2.08}
+{'text': 'control', 'start': 811.839, 'duration': 2.401}
+{'text': "sorry [\xa0__\xa0] i'm getting this is i'm", 'start': 812.88, 'duration': 3.84}
+{'text': 'phrasing this really poorly', 'start': 814.24, 'duration': 4.0}
+{'text': 'to to center back on what i said', 'start': 816.72, 'duration': 3.52}
+{'text': 'initially it feels like we', 'start': 818.24, 'duration': 3.68}
+{'text': 'say that we value autonomy but i think', 'start': 820.24, 'duration': 3.2}
+{'text': 'what we really value is the illusion of', 'start': 821.92, 'duration': 2.4}
+{'text': 'autonomy like', 'start': 823.44, 'duration': 2.24}
+{'text': "we like to feel like we're making", 'start': 824.32, 'duration': 2.639}
+{'text': "choices we like to feel like we're in", 'start': 825.68, 'duration': 2.8}
+{'text': 'control of our lives but at the end of', 'start': 826.959, 'duration': 2.081}
+{'text': 'the day', 'start': 828.48, 'duration': 2.08}
+{'text': 'people are just quote unquote choosing', 'start': 829.04, 'duration': 3.039}
+{'text': 'the things that are being fed to them', 'start': 830.56, 'duration': 3.04}
+{'text': 'such that like if every other choice was', 'start': 832.079, 'duration': 2.961}
+{'text': "eliminated they wouldn't even know it", 'start': 833.6, 'duration': 2.479}
+{'text': 'because they never would choose', 'start': 835.04, 'duration': 2.4}
+{'text': 'something different anyway so like', 'start': 836.079, 'duration': 2.88}
+{'text': 'what is the value of autonomy at that', 'start': 837.44, 'duration': 2.8}
+{'text': "point i don't know it's just like that's", 'start': 838.959, 'duration': 1.921}
+{'text': 'how i do it', 'start': 840.24, 'duration': 2.56}
+{'text': 'i think that can be true independently', 'start': 840.88, 'duration': 3.759}
+{'text': 'of like valuing autonomy i think it can', 'start': 842.8, 'duration': 2.96}
+{'text': 'be true that like people', 'start': 844.639, 'duration': 4.88}
+{'text': 'often i think um falsely attribute', 'start': 845.76, 'duration': 6.4}
+{'text': 'their success or their place in life to', 'start': 849.519, 'duration': 4.481}
+{'text': 'decisions that they feel that they made', 'start': 852.16, 'duration': 3.52}
+{'text': 'like on their own gumption and when in', 'start': 854.0, 'duration': 3.44}
+{'text': 'reality they were kind of just like', 'start': 855.68, 'duration': 3.44}
+{'text': 'you know barely deviating their path', 'start': 857.44, 'duration': 3.199}
+{'text': 'down this system of shoots and ladders', 'start': 859.12, 'duration': 2.959}
+{'text': 'or something like that', 'start': 860.639, 'duration': 3.281}
+{'text': 'but but i think they can also value', 'start': 862.079, 'duration': 3.601}
+{'text': 'autonomy for the things that they just', 'start': 863.92, 'duration': 3.599}
+{'text': 'find important and their ability to', 'start': 865.68, 'duration': 3.76}
+{'text': 'interact with those things', 'start': 867.519, 'duration': 3.201}
+{'text': 'on their own terms or something like', 'start': 869.44, 'duration': 3.12}
+{'text': 'that like', 'start': 870.72, 'duration': 3.44}
+{'text': 'how many times have you heard uh the', 'start': 872.56, 'duration': 3.2}
+{'text': 'anecdotes of people who come', 'start': 874.16, 'duration': 3.679}
+{'text': 'to the united states from like south', 'start': 875.76, 'duration': 3.519}
+{'text': 'america or like', 'start': 877.839, 'duration': 3.44}
+{'text': 'the balkan states or soviet states or', 'start': 879.279, 'duration': 3.201}
+{'text': 'you know prior soviet states', 'start': 881.279, 'duration': 3.36}
+{'text': 'and they talk about like oh man we you', 'start': 882.48, 'duration': 3.599}
+{'text': 'know we would hate socialism here', 'start': 884.639, 'duration': 2.64}
+{'text': 'in this country because my parents', 'start': 886.079, 'duration': 2.961}
+{'text': 'escaped that [\xa0__\xa0] it was terrible like', 'start': 887.279, 'duration': 3.041}
+{'text': 'having the choice to go to whatever', 'start': 889.04, 'duration': 1.919}
+{'text': 'doctors', 'start': 890.32, 'duration': 2.319}
+{'text': 'like people that may ignore the actual', 'start': 890.959, 'duration': 3.361}
+{'text': 'state of how easy it is to get medical', 'start': 892.639, 'duration': 2.0}
+{'text': 'care', 'start': 894.32, 'duration': 1.759}
+{'text': 'medical care like the quality of their', 'start': 894.639, 'duration': 2.961}
+{'text': 'own medical care how their own insurance', 'start': 896.079, 'duration': 1.921}
+{'text': 'may', 'start': 897.6, 'duration': 1.919}
+{'text': 'you know limit them their access to', 'start': 898.0, 'duration': 4.079}
+{'text': 'those things or whatever but like', 'start': 899.519, 'duration': 3.921}
+{'text': 'you know maybe truly in their heart they', 'start': 902.079, 'duration': 3.841}
+{'text': 'may even recognize those things but like', 'start': 903.44, 'duration': 4.88}
+{'text': "you know i'm sorry i don't know where i", 'start': 905.92, 'duration': 3.279}
+{'text': 'was going that one', 'start': 908.32, 'duration': 4.0}
+{'text': 'yeah i know what you mean i like i enter', 'start': 909.199, 'duration': 5.2}
+{'text': "yeah i don't know i i think that people", 'start': 912.32, 'duration': 3.44}
+{'text': "i think it's like a very western idea", 'start': 914.399, 'duration': 2.641}
+{'text': 'that people are like hyper obsessed with', 'start': 915.76, 'duration': 2.56}
+{'text': 'autonomy but i think there are more', 'start': 917.04, 'duration': 2.72}
+{'text': "important things i to some level i'm", 'start': 918.32, 'duration': 3.12}
+{'text': 'sure that like autonomy is important', 'start': 919.76, 'duration': 3.439}
+{'text': "or people seem to like value it there's", 'start': 921.44, 'duration': 3.12}
+{'text': 'probably some true value there but i', 'start': 923.199, 'duration': 2.64}
+{'text': 'think that we hyper fixate on it', 'start': 924.56, 'duration': 2.0}
+{'text': 'sometimes', 'start': 925.839, 'duration': 1.841}
+{'text': 'and i feel like there are so many more', 'start': 926.56, 'duration': 2.16}
+{'text': 'important things that are worth', 'start': 927.68, 'duration': 2.32}
+{'text': 'providing for in our life than', 'start': 928.72, 'duration': 3.52}
+{'text': 'autonomy is just how i feel i guess but', 'start': 930.0, 'duration': 3.199}
+{'text': "this isn't like", 'start': 932.24, 'duration': 2.48}
+{'text': "i don't have like a huge i'm not like", 'start': 933.199, 'duration': 2.961}
+{'text': 'hugely married to this idea it just came', 'start': 934.72, 'duration': 2.559}
+{'text': 'up as part of the conversation we were', 'start': 936.16, 'duration': 2.32}
+{'text': 'having', 'start': 937.279, 'duration': 2.56}
+{'text': "yeah that's kind of why i wanted to", 'start': 938.48, 'duration': 2.24}
+{'text': 'reach out and talk to you about it', 'start': 939.839, 'duration': 2.24}
+{'text': 'because it seemed like we were kind of', 'start': 940.72, 'duration': 2.96}
+{'text': 'poking and prodding around and', 'start': 942.079, 'duration': 3.601}
+{'text': "you know i'm happy to hear that you", 'start': 943.68, 'duration': 3.44}
+{'text': "weren't like wed to any positions i", 'start': 945.68, 'duration': 2.56}
+{'text': "wasn't sure i was either", 'start': 947.12, 'duration': 3.36}
+{'text': "i think it's a as americans it's", 'start': 948.24, 'duration': 3.76}
+{'text': 'probably an important conversation to', 'start': 950.48, 'duration': 2.96}
+{'text': 'have because it is so central to the', 'start': 952.0, 'duration': 2.88}
+{'text': 'discourse and like trying to figure this', 'start': 953.44, 'duration': 2.8}
+{'text': "out it's probably important us like", 'start': 954.88, 'duration': 2.72}
+{'text': 'having conversations with anybody', 'start': 956.24, 'duration': 2.159}
+{'text': 'politically', 'start': 957.6, 'duration': 2.56}
+{'text': 'sure have you ever heard of a game', 'start': 958.399, 'duration': 3.44}
+{'text': 'called eve online', 'start': 960.16, 'duration': 5.119}
+{'text': 'i have you ever played at all oh my lord', 'start': 961.839, 'duration': 5.281}
+{'text': "it's it's i almost don't want to talk", 'start': 965.279, 'duration': 3.041}
+{'text': "about it because it's", 'start': 967.12, 'duration': 3.68}
+{'text': 'such a like silver bullet to me and my', 'start': 968.32, 'duration': 3.68}
+{'text': 'argument because it', 'start': 970.8, 'duration': 2.56}
+{'text': "aligns perfectly with what you're", 'start': 972.0, 'duration': 2.639}
+{'text': 'talking about dropping you in this', 'start': 973.36, 'duration': 3.039}
+{'text': "universe that's loaded with choices", 'start': 974.639, 'duration': 3.361}
+{'text': 'and i played it for like two minutes and', 'start': 976.399, 'duration': 3.041}
+{'text': 'i was like this is just too much and i', 'start': 978.0, 'duration': 1.68}
+{'text': 'know', 'start': 979.44, 'duration': 2.399}
+{'text': 'sure well if you play well so i would', 'start': 979.68, 'duration': 3.76}
+{'text': 'argue of course if you continue to play', 'start': 981.839, 'duration': 1.841}
+{'text': 'it', 'start': 983.44, 'duration': 1.68}
+{'text': 'also would even further my choice to', 'start': 983.68, 'duration': 3.12}
+{'text': 'where what happens is you get dropped', 'start': 985.12, 'duration': 2.88}
+{'text': "into eve there's a million things you", 'start': 986.8, 'duration': 2.159}
+{'text': 'could potentially do', 'start': 988.0, 'duration': 2.8}
+{'text': "you don't who the [\xa0__\xa0] knows and then", 'start': 988.959, 'duration': 3.041}
+{'text': 'what everybody ends up doing is they end', 'start': 990.8, 'duration': 2.399}
+{'text': 'up reading a guide and then they end up', 'start': 992.0, 'duration': 1.839}
+{'text': 'doing like', 'start': 993.199, 'duration': 2.241}
+{'text': 'exactly as a guide writes for them too', 'start': 993.839, 'duration': 3.36}
+{'text': "dude and that's uh yeah and i understand", 'start': 995.44, 'duration': 2.319}
+{'text': 'you might', 'start': 997.199, 'duration': 3.44}
+{'text': "rule yeah i i won't read faqs sure but", 'start': 997.759, 'duration': 4.08}
+{'text': "like for a lot of people like that's", 'start': 1000.639, 'duration': 2.081}
+{'text': 'like just the simplest way of', 'start': 1001.839, 'duration': 2.24}
+{'text': 'understanding things but they like the', 'start': 1002.72, 'duration': 2.479}
+{'text': 'idea of being dropped', 'start': 1004.079, 'duration': 3.281}
+{'text': 'and eve players will even brag about', 'start': 1005.199, 'duration': 3.361}
+{'text': 'that because if you go and talk to', 'start': 1007.36, 'duration': 2.32}
+{'text': "anybody that's played e for a lot", 'start': 1008.56, 'duration': 2.399}
+{'text': "they'll even say like oh no", 'start': 1009.68, 'duration': 2.8}
+{'text': 'eve is so cool because you can do', 'start': 1010.959, 'duration': 4.0}
+{'text': "[\xa0__\xa0] anything you want it's so cool", 'start': 1012.48, 'duration': 3.76}
+{'text': 'but then when you actually like get into', 'start': 1014.959, 'duration': 3.201}
+{'text': "the game it's like well there's like two", 'start': 1016.24, 'duration': 3.519}
+{'text': 'things you can go into the meta yeah you', 'start': 1018.16, 'duration': 3.119}
+{'text': 'can join a carbon be an f1 warrior if', 'start': 1019.759, 'duration': 2.401}
+{'text': 'you want', 'start': 1021.279, 'duration': 3.201}
+{'text': 'um you can try to scam people and jeeta', 'start': 1022.16, 'duration': 3.279}
+{'text': "i don't know if you're allowed to do", 'start': 1024.48, 'duration': 2.0}
+{'text': 'that anyway that might be that it goes', 'start': 1025.439, 'duration': 2.64}
+{'text': 'against the rules you can be like a', 'start': 1026.48, 'duration': 2.479}
+{'text': 'trader if you want to run your', 'start': 1028.079, 'duration': 2.081}
+{'text': "spreadsheets all day there's not like", 'start': 1028.959, 'duration': 2.401}
+{'text': "there's not a billion things for you to", 'start': 1030.16, 'duration': 2.399}
+{'text': "do because everybody's too scared to", 'start': 1031.36, 'duration': 2.479}
+{'text': 'like go outside of the norm like', 'start': 1032.559, 'duration': 3.441}
+{'text': 'or at least it was like four four years', 'start': 1033.839, 'duration': 3.36}
+{'text': "ago i think they've", 'start': 1036.0, 'duration': 2.4}
+{'text': "apparently they've changed up a lot of", 'start': 1037.199, 'duration': 2.24}
+{'text': 'how it works so maybe the sub and', 'start': 1038.4, 'duration': 2.0}
+{'text': 'everything changed but like yeah i', 'start': 1039.439, 'duration': 2.321}
+{'text': 'remember that at the', 'start': 1040.4, 'duration': 3.12}
+{'text': 'um i remember i remember like that', 'start': 1041.76, 'duration': 3.6}
+{'text': "that's like i feel like a strong example", 'start': 1043.52, 'duration': 3.2}
+{'text': 'in my arena not to say that that like', 'start': 1045.36, 'duration': 2.64}
+{'text': 'proves up or anything but yeah a lot of', 'start': 1046.72, 'duration': 2.4}
+{'text': 'this is like anecdotal or like', 'start': 1048.0, 'duration': 2.4}
+{'text': "qualitative so it's hard for me to like", 'start': 1049.12, 'duration': 1.84}
+{'text': 'say', 'start': 1050.4, 'duration': 2.72}
+{'text': 'like definitively have you ever heard of', 'start': 1050.96, 'duration': 4.48}
+{'text': 'the x series of games xx', 'start': 1053.12, 'duration': 4.32}
+{'text': 'xb on the frontier x2 the threat x3', 'start': 1055.44, 'duration': 3.84}
+{'text': 'reunion no', 'start': 1057.44, 'duration': 3.52}
+{'text': 'okay so those are these are basically', 'start': 1059.28, 'duration': 2.88}
+{'text': 'what i would call like single player', 'start': 1060.96, 'duration': 1.92}
+{'text': 'versions of', 'start': 1062.16, 'duration': 2.8}
+{'text': 'of eve and i when i i guess when i try', 'start': 1062.88, 'duration': 3.52}
+{'text': 'to recall my experience with eve i was', 'start': 1064.96, 'duration': 3.36}
+{'text': 'kind of just like annoyed with', 'start': 1066.4, 'duration': 3.6}
+{'text': 'uh like the point-and-click style of', 'start': 1068.32, 'duration': 3.2}
+{'text': 'combat and just sort of like hit numbers', 'start': 1070.0, 'duration': 2.4}
+{'text': 'and wait like that', 'start': 1071.52, 'duration': 3.279}
+{'text': "typical mmo dry style of combat it's not", 'start': 1072.4, 'duration': 4.0}
+{'text': 'terribly satisfying for me i grew up on', 'start': 1074.799, 'duration': 3.12}
+{'text': "fighting games so it's like", 'start': 1076.4, 'duration': 3.6}
+{'text': 'not enough sensory overload did you just', 'start': 1077.919, 'duration': 3.281}
+{'text': 'say oof', 'start': 1080.0, 'duration': 2.88}
+{'text': 'um well i can imagine you going from', 'start': 1081.2, 'duration': 3.04}
+{'text': 'fighting games which are arguably the', 'start': 1082.88, 'duration': 1.76}
+{'text': 'most', 'start': 1084.24, 'duration': 2.559}
+{'text': 'like mechanics involved games to mmos', 'start': 1084.64, 'duration': 3.6}
+{'text': 'which are arguably the least mechanics', 'start': 1086.799, 'duration': 2.321}
+{'text': 'involved games', 'start': 1088.24, 'duration': 4.08}
+{'text': 'so yeah i can imagine the pain okay i', 'start': 1089.12, 'duration': 5.04}
+{'text': 'agree i came from an rts background so i', 'start': 1092.32, 'duration': 3.44}
+{'text': "also share i don't know", 'start': 1094.16, 'duration': 2.48}
+{'text': "you'd argue which one is more", 'start': 1095.76, 'duration': 2.08}
+{'text': 'mechanically intense but both are very', 'start': 1096.64, 'duration': 2.64}
+{'text': 'mechanically intense games so going from', 'start': 1097.84, 'duration': 3.44}
+{'text': 'rts to like mmos is like a [\xa0__\xa0] snore', 'start': 1099.28, 'duration': 3.04}
+{'text': "fest where it's like oh", 'start': 1101.28, 'duration': 2.399}
+{'text': 'i hope i have a strong enough chess', 'start': 1102.32, 'duration': 3.12}
+{'text': 'piece to win the game instead of like me', 'start': 1103.679, 'duration': 3.041}
+{'text': 'actually pushing buttons making that big', 'start': 1105.44, 'duration': 2.56}
+{'text': 'of a difference yeah', 'start': 1106.72, 'duration': 2.72}
+{'text': 'let me walk over to that board and press', 'start': 1108.0, 'duration': 2.96}
+{'text': 'one two three four and watch myself', 'start': 1109.44, 'duration': 3.44}
+{'text': 'slash the air and a number pop up three', 'start': 1110.96, 'duration': 3.2}
+{'text': 'seconds later', 'start': 1112.88, 'duration': 3.919}
+{'text': 'different experience yeah so x the x', 'start': 1114.16, 'duration': 4.16}
+{'text': "series is kind of like eve but it's a", 'start': 1116.799, 'duration': 2.801}
+{'text': "more contained universe and it's", 'start': 1118.32, 'duration': 2.88}
+{'text': "entirely single player but it's like an", 'start': 1119.6, 'duration': 3.04}
+{'text': 'empire builder that you can sort of', 'start': 1121.2, 'duration': 2.16}
+{'text': 'interact with', 'start': 1122.64, 'duration': 2.48}
+{'text': "it's all entirely in first person so you", 'start': 1123.36, 'duration': 3.28}
+{'text': 'can like walk onto your ship fly and', 'start': 1125.12, 'duration': 2.32}
+{'text': 'pilot your ship', 'start': 1126.64, 'duration': 2.159}
+{'text': 'and eventually like get to the point', 'start': 1127.44, 'duration': 2.96}
+{'text': "where you've got like an empire of uh", 'start': 1128.799, 'duration': 3.12}
+{'text': 'trade ships that you can sort of dock', 'start': 1130.4, 'duration': 2.639}
+{'text': 'with walk around at', 'start': 1131.919, 'duration': 2.801}
+{'text': 'any given time capital ships that have', 'start': 1133.039, 'duration': 3.281}
+{'text': 'drones that you can dispatch and', 'start': 1134.72, 'duration': 3.44}
+{'text': "you can sort of play it like it's an fps", 'start': 1136.32, 'duration': 4.08}
+{'text': 'or like a like a space shooter or like a', 'start': 1138.16, 'duration': 4.32}
+{'text': 'space trader game or an rts and end up', 'start': 1140.4, 'duration': 3.84}
+{'text': 'like taking over systems and stuff and', 'start': 1142.48, 'duration': 4.559}
+{'text': "i don't know i guess to sort of um you", 'start': 1144.24, 'duration': 4.48}
+{'text': 'know counter my experience with eve', 'start': 1147.039, 'duration': 3.121}
+{'text': 'i do think that was more a matter of the', 'start': 1148.72, 'duration': 3.04}
+{'text': 'combat not being terribly', 'start': 1150.16, 'duration': 3.68}
+{'text': 'you know x4 is definitely a game x4 is', 'start': 1151.76, 'duration': 3.36}
+{'text': "the most recent one that's a game that's", 'start': 1153.84, 'duration': 2.24}
+{'text': 'like', 'start': 1155.12, 'duration': 3.12}
+{'text': "uh if you don't know what's going on", 'start': 1156.08, 'duration': 3.599}
+{'text': "it's very it's not very user friendly", 'start': 1158.24, 'duration': 2.559}
+{'text': 'the quality of life is', 'start': 1159.679, 'duration': 2.961}
+{'text': 'is like kind of difficult to contend', 'start': 1160.799, 'duration': 3.681}
+{'text': "with but yeah i don't know maybe", 'start': 1162.64, 'duration': 4.0}
+{'text': "again i guess i'm just that may be a", 'start': 1164.48, 'duration': 3.76}
+{'text': "thing that i'm just interested in", 'start': 1166.64, 'duration': 3.2}
+{'text': 'but the hypothetical you drew up the', 'start': 1168.24, 'duration': 4.16}
+{'text': 'other day about uh the 10 different', 'start': 1169.84, 'duration': 3.6}
+{'text': 'realities', 'start': 1172.4, 'duration': 2.56}
+{'text': 'and the one where you have the least', 'start': 1173.44, 'duration': 3.359}
+{'text': 'autonomy like ending up with the best', 'start': 1174.96, 'duration': 4.0}
+{'text': 'possible outcomes and the other nine', 'start': 1176.799, 'duration': 4.321}
+{'text': "uh you have you're free to make choices", 'start': 1178.96, 'duration': 3.44}
+{'text': "but you'll never reach", 'start': 1181.12, 'duration': 2.72}
+{'text': 'as high a quality of life as you would', 'start': 1182.4, 'duration': 3.6}
+{'text': 'in 10. it reminded me', 'start': 1183.84, 'duration': 4.719}
+{'text': 'of have you ever seen uh what was it', 'start': 1186.0, 'duration': 4.559}
+{'text': 'rollerball from the 70s or 80s', 'start': 1188.559, 'duration': 4.961}
+{'text': "i think 70s nope oh okay it's long and", 'start': 1190.559, 'duration': 4.081}
+{'text': 'as boring as most', 'start': 1193.52, 'duration': 3.6}
+{'text': "sci-fi from that era is but it's it's", 'start': 1194.64, 'duration': 4.64}
+{'text': "kind of interesting and it's basically", 'start': 1197.12, 'duration': 3.919}
+{'text': "that's kind of the theme of that movie", 'start': 1199.28, 'duration': 4.24}
+{'text': "is that it's about this sports star", 'start': 1201.039, 'duration': 4.401}
+{'text': 'uh who plays us like really terribly', 'start': 1203.52, 'duration': 3.039}
+{'text': 'graphic and', 'start': 1205.44, 'duration': 2.8}
+{'text': 'uh violent you know sport called', 'start': 1206.559, 'duration': 3.521}
+{'text': "rollerball and it's kind of like the", 'start': 1208.24, 'duration': 3.679}
+{'text': 'whole world exists in like a sock them', 'start': 1210.08, 'duration': 4.4}
+{'text': 'paradise state where like megacorps own', 'start': 1211.919, 'duration': 4.0}
+{'text': "everybody and everybody's", 'start': 1214.48, 'duration': 3.12}
+{'text': 'like really comfortable the megacorps', 'start': 1215.919, 'duration': 2.88}
+{'text': 'sort of like provide for everybody', 'start': 1217.6, 'duration': 2.8}
+{'text': "everybody's really comfortable", 'start': 1218.799, 'duration': 3.76}
+{'text': 'and this pro athlete has like everything', 'start': 1220.4, 'duration': 3.92}
+{'text': 'made for him like they swap out a new', 'start': 1222.559, 'duration': 3.36}
+{'text': 'wife for him every couple years he lives', 'start': 1224.32, 'duration': 3.2}
+{'text': 'in this super mansion like he never has', 'start': 1225.919, 'duration': 3.281}
+{'text': "to pay for anything he's pampered", 'start': 1227.52, 'duration': 3.44}
+{'text': 'but it kind of like gnaws at him and', 'start': 1229.2, 'duration': 3.52}
+{'text': "that's basically", 'start': 1230.96, 'duration': 3.199}
+{'text': "that's basically the theme of the movie", 'start': 1232.72, 'duration': 2.56}
+{'text': 'is that like over the course of the', 'start': 1234.159, 'duration': 3.121}
+{'text': 'movie it just gnaws at him more and more', 'start': 1235.28, 'duration': 4.32}
+{'text': 'and he like tries to to like make these', 'start': 1237.28, 'duration': 3.6}
+{'text': 'small requests to his', 'start': 1239.6, 'duration': 3.04}
+{'text': 'his [\xa0__\xa0] sock dumb overlords or', 'start': 1240.88, 'duration': 3.76}
+{'text': 'whatever the mega corp overlords', 'start': 1242.64, 'duration': 3.36}
+{'text': 'and they kind of deny him here or there', 'start': 1244.64, 'duration': 2.8}
+{'text': 'but they say but we provided you so much', 'start': 1246.0, 'duration': 2.88}
+{'text': 'here there and there', 'start': 1247.44, 'duration': 2.8}
+{'text': 'and it gnaws at him to the extent that', 'start': 1248.88, 'duration': 3.2}
+{'text': 'he eventually kind of like', 'start': 1250.24, 'duration': 3.76}
+{'text': "you know the movie well i won't ruin it", 'start': 1252.08, 'duration': 3.28}
+{'text': 'for you but it might be worth a watch i', 'start': 1254.0, 'duration': 2.4}
+{'text': "don't know if you're into like old", 'start': 1255.36, 'duration': 2.33}
+{'text': 'sci-fi movies but', 'start': 1256.4, 'duration': 2.48}
+{'text': '[Music]', 'start': 1257.69, 'duration': 3.989}
+{'text': 'this is fiction but i thought this was', 'start': 1258.88, 'duration': 3.12}
+{'text': 'kind', 'start': 1261.679, 'duration': 2.721}
+{'text': 'of uh well more racist have you ever', 'start': 1262.0, 'duration': 4.159}
+{'text': 'seen like the matrix movies', 'start': 1264.4, 'duration': 3.36}
+{'text': 'yeah of course yeah it sounds similar to', 'start': 1266.159, 'duration': 3.041}
+{'text': "this isn't doesn't the architect", 'start': 1267.76, 'duration': 2.72}
+{'text': 'describe that like', 'start': 1269.2, 'duration': 3.04}
+{'text': 'the reason why the first few iterations', 'start': 1270.48, 'duration': 3.12}
+{'text': 'of the matrix fail is because humans', 'start': 1272.24, 'duration': 1.919}
+{'text': 'need to', 'start': 1273.6, 'duration': 1.92}
+{'text': 'be able to choose to be miserable or', 'start': 1274.159, 'duration': 3.441}
+{'text': 'something right', 'start': 1275.52, 'duration': 4.0}
+{'text': "i don't i don't remember that part i was", 'start': 1277.6, 'duration': 3.28}
+{'text': 'probably too young like', 'start': 1279.52, 'duration': 3.279}
+{'text': "when i was a kid i haven't seen those", 'start': 1280.88, 'duration': 3.279}
+{'text': 'movies since they came out and like when', 'start': 1282.799, 'duration': 2.961}
+{'text': "you're young your comprehension is [\xa0__\xa0]", 'start': 1284.159, 'duration': 2.721}
+{'text': "yeah you're watching them for way", 'start': 1285.76, 'duration': 2.88}
+{'text': 'different reasons yeah okay have a good', 'start': 1286.88, 'duration': 3.2}
+{'text': 'day yeah i love you be careful', 'start': 1288.64, 'duration': 2.64}
+{'text': 'remember to hit that like and subscribe', 'start': 1290.08, 'duration': 2.719}
+{'text': "and don't forget the notification bell", 'start': 1291.28, 'duration': 3.12}
+{'text': 'so that my videos show up', 'start': 1292.799, 'duration': 3.921}
+{'text': 'right in your feed okay if mr mitten', 'start': 1294.4, 'duration': 3.279}
+{'text': "leaves i'm going to", 'start': 1296.72, 'duration': 4.72}
+{'text': 'just so you know okay bye felicia', 'start': 1297.679, 'duration': 3.761}
+{'text': "i thought you're you're not gonna fight", 'start': 1301.679, 'duration': 4.0}
+{'text': 'for me', 'start': 1303.12, 'duration': 2.559}

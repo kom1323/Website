@@ -1,0 +1,357 @@
+{'text': "what's your favorite type of fruit", 'start': 3.919, 'duration': 4.881}
+{'text': "um i don't know like i like i don't know", 'start': 6.319, 'duration': 3.921}
+{'text': 'pineapple apples grapes', 'start': 8.8, 'duration': 3.759}
+{'text': "something like that that's three", 'start': 10.24, 'duration': 3.279}
+{'text': 'different fruits', 'start': 12.559, 'duration': 2.24}
+{'text': "i don't know what my absolute favorite", 'start': 13.519, 'duration': 2.401}
+{'text': 'would be probably pineapple okay', 'start': 14.799, 'duration': 2.721}
+{'text': 'everybody loves pineapple', 'start': 15.92, 'duration': 2.8}
+{'text': 'did you know that pineapple has a', 'start': 17.52, 'duration': 2.88}
+{'text': 'chemical in it that actually erodes the', 'start': 18.72, 'duration': 3.12}
+{'text': 'inside of your mouth and if you eat too', 'start': 20.4, 'duration': 3.039}
+{'text': 'much of it it can like make your skin', 'start': 21.84, 'duration': 2.08}
+{'text': 'raw', 'start': 23.439, 'duration': 1.76}
+{'text': "that wouldn't surprise me if literally", 'start': 23.92, 'duration': 2.8}
+{'text': 'every single food had a chemical that', 'start': 25.199, 'duration': 2.881}
+{'text': 'can erode things if you eat too much of', 'start': 26.72, 'duration': 2.959}
+{'text': 'it right', 'start': 28.08, 'duration': 5.6}
+{'text': 'no but pineapple is especially acidic', 'start': 29.679, 'duration': 5.121}
+{'text': 'i mean the inside of your mouth is', 'start': 33.68, 'duration': 2.8}
+{'text': "acidic there's no way that you would", 'start': 34.8, 'duration': 2.96}
+{'text': 'have to probably eat an ungodly amount', 'start': 36.48, 'duration': 3.28}
+{'text': 'of pineapple to actually erode', 'start': 37.76, 'duration': 7.36}
+{'text': 'what your saliva is basic', 'start': 39.76, 'duration': 8.88}
+{'text': "it has amylase in it doesn't it", 'start': 45.12, 'duration': 6.8}
+{'text': 'what is the ph of your mouth okay hold', 'start': 48.64, 'duration': 3.68}
+{'text': 'on', 'start': 51.92, 'duration': 3.52}
+{'text': "here there's proteins in it for breaking", 'start': 52.32, 'duration': 4.48}
+{'text': "you down but i don't know okay yep", 'start': 55.44, 'duration': 3.919}
+{'text': "you're correct phd amounts 6.2 to 7.6", 'start': 56.8, 'duration': 4.72}
+{'text': "it's an average ph okay good job it's", 'start': 59.359, 'duration': 3.121}
+{'text': 'not acidic', 'start': 61.52, 'duration': 2.8}
+{'text': "however i seriously you'd have to", 'start': 62.48, 'duration': 2.88}
+{'text': 'probably eat an ungodly amount of', 'start': 64.32, 'duration': 2.24}
+{'text': 'pineapple to actually do damage to the', 'start': 65.36, 'duration': 2.56}
+{'text': 'inside of your mouth no look it up', 'start': 66.56, 'duration': 3.599}
+{'text': "steven i'm serious", 'start': 67.92, 'duration': 5.28}
+{'text': 'how much pineapple to damage your', 'start': 70.159, 'duration': 5.361}
+{'text': 'mouth', 'start': 73.2, 'duration': 2.32}
+{'text': 'look a trick that keeps pineapple from', 'start': 82.24, 'duration': 3.28}
+{'text': 'burning your tongue because it burns', 'start': 84.159, 'duration': 2.96}
+{'text': 'your tongue', 'start': 85.52, 'duration': 3.76}
+{'text': 'okay but spicy food burns your tongue', 'start': 87.119, 'duration': 3.841}
+{'text': "okay why would that exist if it didn't", 'start': 89.28, 'duration': 2.72}
+{'text': 'burn your tongue', 'start': 90.96, 'duration': 3.199}
+{'text': 'just something spicy food more than more', 'start': 92.0, 'duration': 3.52}
+{'text': 'than other fruits you know like why', 'start': 94.159, 'duration': 2.561}
+{'text': "wouldn't it just be fruits that burn", 'start': 95.52, 'duration': 2.32}
+{'text': 'your tongue why does it just say', 'start': 96.72, 'duration': 2.079}
+{'text': 'pineapple huh', 'start': 97.84, 'duration': 2.56}
+{'text': 'because pineapple probably does but i', 'start': 98.799, 'duration': 3.121}
+{'text': 'doubt it can cause like serious', 'start': 100.4, 'duration': 3.039}
+{'text': "damage it's not gonna it's like when", 'start': 101.92, 'duration': 2.8}
+{'text': 'somebody says did you know that if you', 'start': 103.439, 'duration': 2.801}
+{'text': 'lay on your back it can kill you and', 'start': 104.72, 'duration': 2.719}
+{'text': "it's like okay like if you've got like", 'start': 106.24, 'duration': 2.72}
+{'text': "three comorbidities and there's like a", 'start': 107.439, 'duration': 3.201}
+{'text': 'one percent elevated chance that like in', 'start': 108.96, 'duration': 2.72}
+{'text': "certain temperatures again there's like", 'start': 110.64, 'duration': 1.519}
+{'text': 'a difference', 'start': 111.68, 'duration': 4.16}
+{'text': 'dobby rip', 'start': 112.159, 'duration': 3.681}
+{'text': "you're a trigger i'm gonna make you cry", 'start': 117.52, 'duration': 12.32}
+{'text': 'this game okay good luck', 'start': 118.719, 'duration': 11.121}
+{'text': "and you know spicy food doesn't actually", 'start': 131.039, 'duration': 4.081}
+{'text': 'burn your mouth like you know like', 'start': 132.8, 'duration': 4.48}
+{'text': 'where like the chemical and pineapple', 'start': 135.12, 'duration': 4.16}
+{'text': 'actually like erodes it', 'start': 137.28, 'duration': 3.44}
+{'text': 'whereas like spicy food just kind of', 'start': 139.28, 'duration': 4.959}
+{'text': 'like hurts yeah', 'start': 140.72, 'duration': 3.519}
+{'text': "okay i'll stop what", 'start': 147.76, 'duration': 10.08}
+{'text': "i don't know you know i feel like when i", 'start': 159.84, 'duration': 3.44}
+{'text': 'know things like i know things', 'start': 161.12, 'duration': 5.199}
+{'text': "good go hard yeah be combative it's a", 'start': 163.28, 'duration': 8.56}
+{'text': 'good trait', 'start': 166.319, 'duration': 5.521}
+{'text': "i'm gonna hit fat dab don't hail yeah", 'start': 173.44, 'duration': 4.0}
+{'text': "you're gonna lose your debates if you", 'start': 176.239, 'duration': 2.401}
+{'text': 'start hitting since you told me', 'start': 177.44, 'duration': 3.76}
+{'text': 'since you told me to be combative and', 'start': 178.64, 'duration': 4.08}
+{'text': "say no i'm gonna say", 'start': 181.2, 'duration': 4.64}
+{'text': 'wow okay', 'start': 182.72, 'duration': 3.12}
+{'text': 'why have i never hurt my mouth eating', 'start': 196.0, 'duration': 5.44}
+{'text': 'pineapple', 'start': 198.879, 'duration': 2.561}
+{'text': 'is this just for certain types of mouths', 'start': 201.92, 'duration': 5.28}
+{'text': 'you probably eat it in moderation', 'start': 204.799, 'duration': 3.52}
+{'text': "isn't that the whole point of what i", 'start': 207.2, 'duration': 2.9}
+{'text': 'just said', 'start': 208.319, 'duration': 3.041}
+{'text': '[Music]', 'start': 210.1, 'duration': 2.46}
+{'text': 'well like have you ever eaten a whole', 'start': 211.36, 'duration': 2.879}
+{'text': 'pineapple before no why the [\xa0__\xa0] would i', 'start': 212.56, 'duration': 3.599}
+{'text': 'eat a whole [\xa0__\xa0] pineapple', 'start': 214.239, 'duration': 3.601}
+{'text': "because some people who aren't", 'start': 216.159, 'duration': 3.36}
+{'text': 'privileged actually have to buy like a', 'start': 217.84, 'duration': 3.36}
+{'text': 'full pineapple and like cut it into', 'start': 219.519, 'duration': 2.321}
+{'text': 'pieces', 'start': 221.2, 'duration': 2.0}
+{'text': 'to eat it and then they have and then', 'start': 221.84, 'duration': 3.28}
+{'text': 'they have to eat the entire pineapple', 'start': 223.2, 'duration': 2.8}
+{'text': "yeah so it doesn't go", 'start': 225.12, 'duration': 4.64}
+{'text': 'bad okay okay well i am from the upper', 'start': 226.0, 'duration': 5.28}
+{'text': 'america and we have these brilliant', 'start': 229.76, 'duration': 2.88}
+{'text': 'things called tupperware where we can', 'start': 231.28, 'duration': 2.8}
+{'text': 'put cut fruit into it', 'start': 232.64, 'duration': 4.799}
+{'text': 'and then eat it at a later setting', 'start': 234.08, 'duration': 3.359}
+{'text': 'you can do that but still it takes like', 'start': 237.519, 'duration': 3.681}
+{'text': 'you know what like i would say maximum', 'start': 239.04, 'duration': 4.08}
+{'text': "four days before the fruit's inedible", 'start': 241.2, 'duration': 3.36}
+{'text': 'sure you could probably eat an entire', 'start': 243.12, 'duration': 3.039}
+{'text': 'pineapple over the course of four days', 'start': 244.56, 'duration': 3.12}
+{'text': 'and be okay', 'start': 246.159, 'duration': 3.041}
+{'text': 'but yeah usually people will just eat', 'start': 247.68, 'duration': 2.96}
+{'text': "the whole pineapple you know that's", 'start': 249.2, 'duration': 2.16}
+{'text': 'cringe', 'start': 250.64, 'duration': 3.76}
+{'text': 'bro do you do that dude uh yeah i', 'start': 251.36, 'duration': 4.4}
+{'text': 'actually do fruit muck things on my', 'start': 254.4, 'duration': 2.64}
+{'text': 'channel', 'start': 255.76, 'duration': 5.36}
+{'text': 'you do what fruit mukbangs oh', 'start': 257.04, 'duration': 11.59}
+{'text': 'where i cut it up and eat it', 'start': 261.12, 'duration': 10.949}
+{'text': '[Music]', 'start': 268.63, 'duration': 3.439}
+{'text': '[Music]', 'start': 279.15, 'duration': 3.2}
+{'text': "it's better than like me sitting around", 'start': 287.759, 'duration': 3.201}
+{'text': 'eating a bunch of junk food you know', 'start': 289.28, 'duration': 4.08}
+{'text': 'healthy like fruit is like good for you', 'start': 290.96, 'duration': 3.28}
+{'text': 'so', 'start': 293.36, 'duration': 3.44}
+{'text': "well i mean it's high in sugar right", 'start': 294.24, 'duration': 4.56}
+{'text': "yeah but you know it's like", 'start': 296.8, 'duration': 3.839}
+{'text': "if there's any food that food that you", 'start': 298.8, 'duration': 3.119}
+{'text': 'would eat in excess', 'start': 300.639, 'duration': 2.961}
+{'text': "like if you had to wouldn't you choose", 'start': 301.919, 'duration': 3.12}
+{'text': 'like fruit probably chose like', 'start': 303.6, 'duration': 2.96}
+{'text': 'vegetables no', 'start': 305.039, 'duration': 3.201}
+{'text': 'vegetables are good too i should do a', 'start': 306.56, 'duration': 3.84}
+{'text': 'vegetable thing next yeah do it dude', 'start': 308.24, 'duration': 5.36}
+{'text': "what's your favorite type of food i love", 'start': 310.4, 'duration': 5.76}
+{'text': 'pad thai', 'start': 313.6, 'duration': 2.56}
+{'text': '[Music]', 'start': 317.43, 'duration': 3.609}
+{'text': 'and i like put a [\xa0__\xa0] ton of lime juice', 'start': 319.36, 'duration': 3.839}
+{'text': 'on it like i like drown it in lime juice', 'start': 321.039, 'duration': 17.891}
+{'text': 'yeah [\xa0__\xa0] delicious', 'start': 323.199, 'duration': 17.84}
+{'text': '[Music]', 'start': 338.93, 'duration': 4.989}
+{'text': 'did somebody just gift me subs oh felon', 'start': 341.039, 'duration': 3.361}
+{'text': 'wharf', 'start': 343.919, 'duration': 3.28}
+{'text': 'skipped 20 subs thank you my dude i', 'start': 344.4, 'duration': 9.28}
+{'text': 'appreciate you', 'start': 347.199, 'duration': 9.521}
+{'text': 'you know i uh i also do art are you do', 'start': 353.68, 'duration': 5.12}
+{'text': 'you need anybody to do any art stuff', 'start': 356.72, 'duration': 4.56}
+{'text': 'kind of hard to do i make really cute', 'start': 358.8, 'duration': 3.36}
+{'text': 'like art', 'start': 361.28, 'duration': 3.28}
+{'text': "if you've seen my emotes or i don't know", 'start': 362.16, 'duration': 3.36}
+{'text': 'like i just like', 'start': 364.56, 'duration': 2.72}
+{'text': 'uh or if you go to my twitter twitter i', 'start': 365.52, 'duration': 3.519}
+{'text': 'made a birthday post for psych', 'start': 367.28, 'duration': 4.08}
+{'text': 'you know i know how you feel about him', 'start': 369.039, 'duration': 4.321}
+{'text': 'oh no', 'start': 371.36, 'duration': 3.44}
+{'text': "oh wait i'll try to play this game uh", 'start': 373.36, 'duration': 4.16}
+{'text': 'better for you okay', 'start': 374.8, 'duration': 2.72}
+{'text': 'would you like me to gank your lane', 'start': 378.08, 'duration': 3.76}
+{'text': "you know i've never actually played a", 'start': 382.96, 'duration': 3.679}
+{'text': 'game with him before so', 'start': 384.16, 'duration': 6.08}
+{'text': 'oh well i mean um you know if you really', 'start': 386.639, 'duration': 4.881}
+{'text': 'want', 'start': 390.24, 'duration': 3.36}
+{'text': 'i could also you know try to act like a', 'start': 391.52, 'duration': 4.32}
+{'text': 'really shy loser [\xa0__\xa0] anime piece of', 'start': 393.6, 'duration': 4.08}
+{'text': "[\xa0__\xa0] i can't [\xa0__\xa0] believe", 'start': 395.84, 'duration': 2.96}
+{'text': 'there are people on twitch that are', 'start': 397.68, 'duration': 3.04}
+{'text': "entertained by that oh my god it's so", 'start': 398.8, 'duration': 3.119}
+{'text': '[\xa0__\xa0] cringe', 'start': 400.72, 'duration': 4.64}
+{'text': 'stop you are contributing', 'start': 401.919, 'duration': 6.161}
+{'text': 'to bad societies why why why do you wait', 'start': 405.36, 'duration': 4.48}
+{'text': 'why do you call it bad though', 'start': 408.08, 'duration': 4.559}
+{'text': "jesus i'm just gonna it's not can you", 'start': 409.84, 'duration': 4.639}
+{'text': 'just give me an explanation like why do', 'start': 412.639, 'duration': 3.361}
+{'text': "you think it's bad", 'start': 414.479, 'duration': 2.881}
+{'text': "like i understand like why you wouldn't", 'start': 416.0, 'duration': 3.28}
+{'text': "like it or why you wouldn't enjoy it or", 'start': 417.36, 'duration': 3.04}
+{'text': 'personally watch it', 'start': 419.28, 'duration': 2.8}
+{'text': "but i don't think you've ever changed a", 'start': 420.4, 'duration': 3.44}
+{'text': 'single question because anime can', 'start': 422.08, 'duration': 4.0}
+{'text': 'corrupt western society like my', 'start': 423.84, 'duration': 5.68}
+{'text': "daughter's not hurting anybody", 'start': 426.08, 'duration': 3.44}
+{'text': "right and he's basically one of them", 'start': 430.16, 'duration': 3.36}
+{'text': 'even if like you know', 'start': 432.4, 'duration': 3.359}
+{'text': "it may not be actually him who's doing", 'start': 433.52, 'duration': 3.92}
+{'text': 'it you know what people say', 'start': 435.759, 'duration': 5.28}
+{'text': "but even even if saikuno isn't who he", 'start': 437.44, 'duration': 7.039}
+{'text': 'pretends to be like', 'start': 441.039, 'duration': 5.361}
+{'text': "what's the what's the harm there is no", 'start': 444.479, 'duration': 7.361}
+{'text': 'harm what you want exactly', 'start': 446.4, 'duration': 5.44}
+{'text': 'it keeps all of the cringy weebs out of', 'start': 459.28, 'duration': 3.12}
+{'text': 'our chats yeah', 'start': 461.12, 'duration': 2.479}
+{'text': 'and why do i still have so many in my', 'start': 462.4, 'duration': 2.799}
+{'text': '[\xa0__\xa0] chat and they have a nice little', 'start': 463.599, 'duration': 4.961}
+{'text': 'safe where they can all hang out', 'start': 465.199, 'duration': 3.361}
+{'text': "it's good i think it's good for the", 'start': 471.52, 'duration': 3.119}
+{'text': "community i think he's a", 'start': 472.96, 'duration': 4.959}
+{'text': "he's good for the community okay doing", 'start': 474.639, 'duration': 5.611}
+{'text': "god's work", 'start': 477.919, 'duration': 4.72}
+{'text': '[Music]', 'start': 480.25, 'duration': 5.349}
+{'text': "but yeah anyways uh i like to make it's", 'start': 482.639, 'duration': 4.641}
+{'text': 'kind of like uh you know how your icon', 'start': 485.599, 'duration': 3.121}
+{'text': "on discord looks that's kind of like", 'start': 487.28, 'duration': 3.199}
+{'text': "similar to my art actually i don't know", 'start': 488.72, 'duration': 3.599}
+{'text': 'who did it that for you but', 'start': 490.479, 'duration': 6.481}
+{'text': "oh it's like yeah kinda", 'start': 492.319, 'duration': 4.641}
+{'text': "it's more so like i wouldn't i wouldn't", 'start': 497.44, 'duration': 5.759}
+{'text': "call it anime style it's more so like uh", 'start': 499.36, 'duration': 6.32}
+{'text': 'western cartoons mixed with anime like i', 'start': 503.199, 'duration': 5.921}
+{'text': "would say that's what it looks like", 'start': 505.68, 'duration': 3.44}
+{'text': "i'm making my own body pillow too wow", 'start': 512.159, 'duration': 7.281}
+{'text': 'of what a me i like anime style', 'start': 515.44, 'duration': 7.279}
+{'text': "it's gonna be so sick dude", 'start': 519.44, 'duration': 3.279}
+{'text': 'teemo', 'start': 525.76, 'duration': 2.4}
+{'text': "i'm gonna die doing this and i'm gonna", 'start': 530.64, 'duration': 5.199}
+{'text': 'get triggered', 'start': 532.08, 'duration': 3.759}
+{'text': 'big money', 'start': 539.839, 'duration': 2.641}
+{'text': 'this game is [\xa0__\xa0] over', 'start': 543.36, 'duration': 3.28}
+{'text': "no it's okay oh this game is actually", 'start': 547.519, 'duration': 3.521}
+{'text': "[\xa0__\xa0] over it's okay", 'start': 549.68, 'duration': 5.12}
+{'text': "listen to me we're gonna be fine", 'start': 551.04, 'duration': 3.76}
+{'text': 'south america has more anime fans in', 'start': 555.2, 'duration': 4.56}
+{'text': 'north america which is the real reason', 'start': 557.76, 'duration': 3.759}
+{'text': 'trump wanted', 'start': 559.76, 'duration': 5.44}
+{'text': 'to build a wall like k-pop no', 'start': 561.519, 'duration': 5.601}
+{'text': "why not because i don't like the way it", 'start': 565.2, 'duration': 3.36}
+{'text': 'sounds', 'start': 567.12, 'duration': 4.719}
+{'text': 'have you watched the music videos yep', 'start': 568.56, 'duration': 4.8}
+{'text': "you don't like the music videos i hate", 'start': 571.839, 'duration': 3.361}
+{'text': 'those even more why do you hate the', 'start': 573.36, 'duration': 3.039}
+{'text': "music videos because it's some of the", 'start': 575.2, 'duration': 3.04}
+{'text': 'most commercialized overproduced stuff', 'start': 576.399, 'duration': 3.201}
+{'text': "i've ever seen in my entire life and it", 'start': 578.24, 'duration': 3.279}
+{'text': 'makes me uncomfortable', 'start': 579.6, 'duration': 3.28}
+{'text': 'why does it make you uncomfortable', 'start': 581.519, 'duration': 2.561}
+{'text': "because i don't like the idea that", 'start': 582.88, 'duration': 2.399}
+{'text': 'people can be marketed to', 'start': 584.08, 'duration': 4.8}
+{'text': 'in such a way their entire like', 'start': 585.279, 'duration': 5.521}
+{'text': 'personas that that exists these k-pop', 'start': 588.88, 'duration': 3.519}
+{'text': 'videos are like literally created from', 'start': 590.8, 'duration': 3.039}
+{'text': "the ground up to appeal to people's like", 'start': 592.399, 'duration': 2.56}
+{'text': 'consumer tastes', 'start': 593.839, 'duration': 4.081}
+{'text': "it's really weird i think", 'start': 594.959, 'duration': 2.961}
+{'text': 'i like them and they make me happy nice', 'start': 598.56, 'duration': 3.68}
+{'text': 'they should make you happy companies', 'start': 601.04, 'duration': 1.84}
+{'text': 'tell them', 'start': 602.24, 'duration': 1.839}
+{'text': 'tell you that it makes you happy so of', 'start': 602.88, 'duration': 3.44}
+{'text': "course it was right that's how it works", 'start': 604.079, 'duration': 4.241}
+{'text': "sometimes i cry when i'm watching bts", 'start': 606.32, 'duration': 3.44}
+{'text': "videos yeah i'm so happy", 'start': 608.32, 'duration': 3.519}
+{'text': 'nice girls generation and all those old', 'start': 609.76, 'duration': 10.079}
+{'text': '[\xa0__\xa0] man', 'start': 611.839, 'duration': 8.0}
+{'text': 'one of these days when i get a big', 'start': 626.48, 'duration': 3.599}
+{'text': "apartment i'm gonna do k-pop dance", 'start': 628.0, 'duration': 5.04}
+{'text': "streams yeah huh and i'm gonna be the", 'start': 630.079, 'duration': 4.161}
+{'text': 'best k-pop dancer', 'start': 633.04, 'duration': 3.44}
+{'text': 'ever', 'start': 634.24, 'duration': 2.24}
+{'text': 'so my uh my support afk on me again', 'start': 640.32, 'duration': 6.24}
+{'text': 'why i', 'start': 643.519, 'duration': 6.241}
+{'text': 'i have commitment issues', 'start': 646.56, 'duration': 3.2}
+{'text': 'so long story short i hate my life and', 'start': 652.48, 'duration': 4.479}
+{'text': 'this is why', 'start': 654.399, 'duration': 2.56}
+{'text': 'reports always leave me', 'start': 659.44, 'duration': 2.959}
+{'text': 'how do we get two afks in four [\xa0__\xa0]', 'start': 666.64, 'duration': 4.639}
+{'text': 'games', 'start': 668.8, 'duration': 2.479}
+{'text': "i have a curse on me steven i i can't", 'start': 673.12, 'duration': 6.8}
+{'text': "i can't play league anymore", 'start': 676.32, 'duration': 5.04}
+{'text': "you shouldn't this is a [\xa0__\xa0] game with a", 'start': 679.92, 'duration': 2.64}
+{'text': '[\xa0__\xa0] community we should developers', 'start': 681.36, 'duration': 2.159}
+{'text': 'anyway', 'start': 682.56, 'duration': 7.279}
+{'text': "we're being honest", 'start': 683.519, 'duration': 6.32}
+{'text': "and like we weren't even doing bad like", 'start': 690.079, 'duration': 5.281}
+{'text': "we hadn't i had an assist though", 'start': 692.24, 'duration': 5.599}
+{'text': 'it was doing good this game is not going', 'start': 695.36, 'duration': 4.32}
+{'text': 'good', 'start': 697.839, 'duration': 3.361}
+{'text': "um keep it frozen and you're in animal", 'start': 699.68, 'duration': 18.159}
+{'text': "and see if i can gank someday we'll see", 'start': 701.2, 'duration': 16.639}
+{'text': "you might be able to come it's a big", 'start': 726.639, 'duration': 4.081}
+{'text': "shutdown if you're gonna rock it oh my", 'start': 727.6, 'duration': 5.52}
+{'text': 'god the ori', 'start': 730.72, 'duration': 3.919}
+{'text': "i didn't have enough mana yeah that's", 'start': 733.12, 'duration': 3.92}
+{'text': 'not good', 'start': 734.639, 'duration': 2.401}
+{'text': "oh my god yeah i know that's why you", 'start': 740.72, 'duration': 5.52}
+{'text': 'have to report them', 'start': 743.68, 'duration': 7.279}
+{'text': 'how does that even [\xa0__\xa0] dude riot', 'start': 746.24, 'duration': 4.719}
+{'text': "are your hair a fun color um you're my", 'start': 752.8, 'duration': 5.039}
+{'text': 'cutoff did you say would i ever dye my', 'start': 756.32, 'duration': 2.88}
+{'text': 'hair a fun color', 'start': 757.839, 'duration': 5.601}
+{'text': "uh-huh um maybe something i don't know", 'start': 759.2, 'duration': 4.24}
+{'text': 'are you like willing to though i mean i', 'start': 767.36, 'duration': 3.52}
+{'text': "don't really care", 'start': 769.519, 'duration': 3.44}
+{'text': "i'm", 'start': 770.88, 'duration': 2.079}
+{'text': 'to make you do it yeah i was gonna say', 'start': 776.32, 'duration': 11.519}
+{'text': 'for like a donation or something maybe', 'start': 778.0, 'duration': 9.839}
+{'text': 'you got to make sure that you uh you', 'start': 795.279, 'duration': 6.56}
+{'text': "don't do it yourself", 'start': 797.36, 'duration': 4.479}
+{'text': "and that there's multiple mirrors", 'start': 802.639, 'duration': 4.481}
+{'text': "and wear gloves think i'd probably just", 'start': 810.16, 'duration': 7.76}
+{'text': 'get somebody else to go for me right', 'start': 814.72, 'duration': 3.2}
+{'text': 'um you know', 'start': 818.24, 'duration': 5.839}
+{'text': "because you just you don't wanna you", 'start': 821.279, 'duration': 6.24}
+{'text': "don't wanna end up like you know who", 'start': 824.079, 'duration': 3.44}
+{'text': "i don't know what that means what like", 'start': 827.68, 'duration': 2.959}
+{'text': 'you or what did you [\xa0__\xa0] your hair up', 'start': 829.279, 'duration': 3.281}
+{'text': 'when you died or something or what', 'start': 830.639, 'duration': 3.521}
+{'text': 'no order darius [\xa0__\xa0] his hair when he', 'start': 832.56, 'duration': 3.279}
+{'text': 'died yeah', 'start': 834.16, 'duration': 5.52}
+{'text': 'okay gotcha i was trying to help him', 'start': 835.839, 'duration': 5.44}
+{'text': 'through it and i was like okay', 'start': 839.68, 'duration': 4.48}
+{'text': 'buy gloves buy a mirror make sure you do', 'start': 841.279, 'duration': 3.761}
+{'text': 'this and this', 'start': 844.16, 'duration': 2.799}
+{'text': "and then the day comes and he doesn't", 'start': 845.04, 'duration': 4.72}
+{'text': 'have any of it', 'start': 846.959, 'duration': 2.801}
+{'text': 'and it was a disaster', 'start': 851.279, 'duration': 3.601}
+{'text': 'great content though oh [\xa0__\xa0]', 'start': 855.04, 'duration': 16.799}
+{'text': 'did darius ever show you his diaper', 'start': 876.959, 'duration': 3.361}
+{'text': 'collection', 'start': 878.32, 'duration': 4.48}
+{'text': "dude you know i that's just a myth", 'start': 880.32, 'duration': 4.879}
+{'text': "that's a photoshopped picture", 'start': 882.8, 'duration': 4.24}
+{'text': "wait you really think that wait i can't", 'start': 885.199, 'duration': 3.841}
+{'text': "tell if you're telling me now", 'start': 887.04, 'duration': 6.799}
+{'text': "no i that's photoshop you know", 'start': 889.04, 'duration': 4.799}
+{'text': "never mind you're trolling me", 'start': 893.92, 'duration': 2.96}
+{'text': "he's not a diaper boy yes he is that was", 'start': 897.279, 'duration': 3.441}
+{'text': 'how he got things', 'start': 899.519, 'duration': 13.041}
+{'text': 'not okay', 'start': 900.72, 'duration': 14.559}
+{'text': 'oh my god', 'start': 912.56, 'duration': 2.719}
+{'text': 'what get biggity-biggity-wrecked son', 'start': 916.24, 'duration': 11.599}
+{'text': "that's what", 'start': 919.92, 'duration': 7.919}
+{'text': 'oh on the reel though i love darius and', 'start': 942.16, 'duration': 3.2}
+{'text': "i think he's a really", 'start': 944.079, 'duration': 3.281}
+{'text': "cool person and like we're seriously", 'start': 945.36, 'duration': 3.36}
+{'text': "friends and i'm like not", 'start': 947.36, 'duration': 3.599}
+{'text': 'like trying to be mean or anything like', 'start': 948.72, 'duration': 4.799}
+{'text': 'why are you being so mean to me', 'start': 950.959, 'duration': 4.161}
+{'text': "i've been mean to you because i don't", 'start': 953.519, 'duration': 3.521}
+{'text': "know you oh so it's okay to just treat", 'start': 955.12, 'duration': 3.68}
+{'text': 'me like [\xa0__\xa0]', 'start': 957.04, 'duration': 4.64}
+{'text': "[\xa0__\xa0] yeah that's how i bet you right i", 'start': 958.8, 'duration': 4.56}
+{'text': 'gotta see how much uh how much you can', 'start': 961.68, 'duration': 2.8}
+{'text': 'take i i test', 'start': 963.36, 'duration': 4.96}
+{'text': 'i test first okay [\xa0__\xa0] testing', 'start': 964.48, 'duration': 5.279}
+{'text': 'i read this read about this on a red', 'start': 968.32, 'duration': 4.0}
+{'text': 'pill forms', 'start': 969.759, 'duration': 2.561}
+{'text': 'just oh my god', 'start': 974.639, 'duration': 3.44}
+{'text': 'what', 'start': 980.839, 'duration': 5.081}
+{'text': "nah it's just like", 'start': 982.24, 'duration': 3.68}
+{'text': 'why the [\xa0__\xa0] does everybody have to act', 'start': 986.24, 'duration': 3.44}
+{'text': 'like', 'start': 989.279, 'duration': 2.401}
+{'text': 'like uh you know when you call somebody', 'start': 989.68, 'duration': 3.519}
+{'text': 'your friend that it means like', 'start': 991.68, 'duration': 3.36}
+{'text': 'oh i would never have sex with this', 'start': 993.199, 'duration': 3.76}
+{'text': "person because that's a lie i would", 'start': 995.04, 'duration': 4.719}
+{'text': 'totally have sex with darius', 'start': 996.959, 'duration': 4.721}
+{'text': "but we're just friends right now you", 'start': 999.759, 'duration': 4.0}
+{'text': 'know okay so', 'start': 1001.68, 'duration': 4.8}
+{'text': '[\xa0__\xa0] off i think that trump is right i', 'start': 1003.759, 'duration': 4.08}
+{'text': 'think that all political discourse', 'start': 1006.48, 'duration': 2.719}
+{'text': 'should be banned on youtube and twitch', 'start': 1007.839, 'duration': 2.161}
+{'text': 'streams and twitter', 'start': 1009.199, 'duration': 2.241}
+{'text': "i think that these people aren't worthy", 'start': 1010.0, 'duration': 4.399}
+{'text': 'of having political discussions', 'start': 1011.44, 'duration': 2.959}

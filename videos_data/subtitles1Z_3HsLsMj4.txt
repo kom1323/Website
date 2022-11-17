@@ -1,0 +1,2380 @@
+{'text': 'actually let it match and i put it on my', 'start': 0.08, 'duration': 5.44}
+{'text': 'arm to see how much it hurts yeah and', 'start': 2.96, 'duration': 4.399}
+{'text': 'then i imagine that like all over my', 'start': 5.52, 'duration': 3.52}
+{'text': 'body for five minutes', 'start': 7.359, 'duration': 3.681}
+{'text': 'and i like this is unimaginable pain i', 'start': 9.04, 'duration': 3.519}
+{'text': 'can tolerate this for five minutes how', 'start': 11.04, 'duration': 3.12}
+{'text': 'could i tolerate this for thousands of', 'start': 12.559, 'duration': 2.801}
+{'text': 'years', 'start': 14.16, 'duration': 2.72}
+{'text': 'so i jumped out of the window in my', 'start': 15.36, 'duration': 3.839}
+{'text': 'school', 'start': 16.88, 'duration': 2.319}
+{'text': "all right how's it going how are you", 'start': 19.359, 'duration': 2.401}
+{'text': 'doing today', 'start': 20.48, 'duration': 3.92}
+{'text': 'good good how are you pretty good', 'start': 21.76, 'duration': 4.8}
+{'text': 'what did you um so you emailed me or i', 'start': 24.4, 'duration': 4.08}
+{'text': 'think about parties yeah about chatting', 'start': 26.56, 'duration': 4.32}
+{'text': 'about um i guess basically', 'start': 28.48, 'duration': 4.239}
+{'text': 'islam broadly kind of and then more', 'start': 30.88, 'duration': 4.0}
+{'text': 'specifically um the the threat you would', 'start': 32.719, 'duration': 5.921}
+{'text': 'say it poses to the the greater world', 'start': 34.88, 'duration': 7.04}
+{'text': 'yeah uh yeah my friend vikram emailed uh', 'start': 38.64, 'duration': 5.52}
+{'text': 'i think and suggested this to both of us', 'start': 41.92, 'duration': 4.159}
+{'text': 'yeah i mean i sent you a list of things', 'start': 44.16, 'duration': 3.36}
+{'text': 'that we could talk about the two that', 'start': 46.079, 'duration': 3.521}
+{'text': 'you i think you picked the two two one', 'start': 47.52, 'duration': 4.0}
+{'text': 'of them was why islam is worse than', 'start': 49.6, 'duration': 3.36}
+{'text': 'nazism', 'start': 51.52, 'duration': 4.08}
+{'text': 'and the other one was the', 'start': 52.96, 'duration': 5.68}
+{'text': 'um the case against islamic reform and', 'start': 55.6, 'duration': 5.04}
+{'text': 'you know that one really bothers me the', 'start': 58.64, 'duration': 3.84}
+{'text': 'more the people that are', 'start': 60.64, 'duration': 4.72}
+{'text': 'defending reforming islam you know i', 'start': 62.48, 'duration': 4.959}
+{'text': "don't think you can reform", 'start': 65.36, 'duration': 3.6}
+{'text': 'cancer', 'start': 67.439, 'duration': 3.761}
+{'text': 'um', 'start': 68.96, 'duration': 4.32}
+{'text': 'where do you want to start', 'start': 71.2, 'duration': 4.4}
+{'text': 'uh what i mean what do you prefer', 'start': 73.28, 'duration': 3.68}
+{'text': 'we could talk about', 'start': 75.6, 'duration': 3.28}
+{'text': 'islamic reform i mean do you have any', 'start': 76.96, 'duration': 4.56}
+{'text': 'views on yourself on this so i could um', 'start': 78.88, 'duration': 4.72}
+{'text': 'respond to it or like yeah i mean i', 'start': 81.52, 'duration': 3.04}
+{'text': 'would', 'start': 83.6, 'duration': 3.04}
+{'text': "um i mean i'm probably slightly in favor", 'start': 84.56, 'duration': 4.4}
+{'text': "of some sort of reformation um i don't", 'start': 86.64, 'duration': 3.28}
+{'text': 'know how much it would focus on', 'start': 88.96, 'duration': 2.72}
+{'text': 'religious aspects over other cultural', 'start': 89.92, 'duration': 4.239}
+{'text': 'aspects um', 'start': 91.68, 'duration': 4.64}
+{'text': 'but yeah um', 'start': 94.159, 'duration': 4.081}
+{'text': "so cultural aspect okay so there's", 'start': 96.32, 'duration': 3.839}
+{'text': "there's a there's a very big difference", 'start': 98.24, 'duration': 5.6}
+{'text': 'between supporting cultural muslims', 'start': 100.159, 'duration': 6.161}
+{'text': 'which is not really yet a thing', 'start': 103.84, 'duration': 3.599}
+{'text': 'um', 'start': 106.32, 'duration': 2.96}
+{'text': 'versus islamic reform there are', 'start': 107.439, 'duration': 3.68}
+{'text': 'completely different things', 'start': 109.28, 'duration': 3.76}
+{'text': "when you say cultural muslim i'm", 'start': 111.119, 'duration': 3.441}
+{'text': 'completely in support of that because', 'start': 113.04, 'duration': 3.119}
+{'text': 'when you say', 'start': 114.56, 'duration': 3.839}
+{'text': 'that the two that does exist', 'start': 116.159, 'duration': 4.801}
+{'text': 'is cultural christians and cultural jews', 'start': 118.399, 'duration': 5.04}
+{'text': 'right cultural muslims is still not a', 'start': 120.96, 'duration': 4.0}
+{'text': 'big thing', 'start': 123.439, 'duration': 3.761}
+{'text': 'when you say cultural christian or', 'start': 124.96, 'duration': 3.68}
+{'text': "cultural jews you're talking about", 'start': 127.2, 'duration': 4.16}
+{'text': "people who don't believe in judaism or", 'start': 128.64, 'duration': 5.28}
+{'text': 'believe in christianity but they enjoy', 'start': 131.36, 'duration': 5.04}
+{'text': 'the rituals the ceremonies the', 'start': 133.92, 'duration': 6.16}
+{'text': 'communities the gathering the food', 'start': 136.4, 'duration': 6.4}
+{'text': 'and to me the belief is the problem the', 'start': 140.08, 'duration': 5.12}
+{'text': 'rituals are not the problem', 'start': 142.8, 'duration': 5.76}
+{'text': 'so if you support cultural christianity', 'start': 145.2, 'duration': 6.0}
+{'text': 'and cultural judaism and makes it easier', 'start': 148.56, 'duration': 4.399}
+{'text': 'for people to understand that they could', 'start': 151.2, 'duration': 2.72}
+{'text': 'actually', 'start': 152.959, 'duration': 3.681}
+{'text': 'give up the nonsense give up believing', 'start': 153.92, 'duration': 5.36}
+{'text': 'and superstition and yet keep the things', 'start': 156.64, 'duration': 4.239}
+{'text': 'that makes them', 'start': 159.28, 'duration': 4.8}
+{'text': 'enjoy life more like all the', 'start': 160.879, 'duration': 5.681}
+{'text': 'um i mean you can enjoy harry potter for', 'start': 164.08, 'duration': 3.92}
+{'text': 'example without believing in harry', 'start': 166.56, 'duration': 3.92}
+{'text': "potter it doesn't you don't necessarily", 'start': 168.0, 'duration': 5.36}
+{'text': 'so that i am in full support of like i', 'start': 170.48, 'duration': 4.88}
+{'text': 'wish there was more of that in', 'start': 173.36, 'duration': 3.68}
+{'text': "cultural muslims who don't believe in", 'start': 175.36, 'duration': 3.04}
+{'text': "islam i mean islamic groups you've got", 'start': 177.04, 'duration': 2.8}
+{'text': 'like a decent amount of cultural muslims', 'start': 178.4, 'duration': 2.559}
+{'text': "in like other countries it's like", 'start': 179.84, 'duration': 3.44}
+{'text': 'western countries now i mean arguably', 'start': 180.959, 'duration': 4.0}
+{'text': 'even like in more extremist countries', 'start': 183.28, 'duration': 2.879}
+{'text': 'you can argue that there are types of', 'start': 184.959, 'duration': 3.041}
+{'text': 'cultural muslims right like for instance', 'start': 186.159, 'duration': 3.521}
+{'text': 'like saudi arabia is historically seen', 'start': 188.0, 'duration': 3.599}
+{'text': 'as a pretty extreme country when it', 'start': 189.68, 'duration': 3.52}
+{'text': 'comes to how they you know run their', 'start': 191.599, 'duration': 2.881}
+{'text': 'system but i mean like a lot of those', 'start': 193.2, 'duration': 3.119}
+{'text': 'guys fly to other countries to party and', 'start': 194.48, 'duration': 4.08}
+{'text': 'drink and whatnot i mean for various', 'start': 196.319, 'duration': 3.521}
+{'text': 'reasons right but', 'start': 198.56, 'duration': 4.08}
+{'text': 'um or like muslims in america', 'start': 199.84, 'duration': 3.84}
+{'text': 'god', 'start': 202.64, 'duration': 3.04}
+{'text': "i'm sorry muslims in america if you say", 'start': 203.68, 'duration': 4.0}
+{'text': 'you believe in muhammad as', 'start': 205.68, 'duration': 3.52}
+{'text': 'a prophet of god and the quran is a', 'start': 207.68, 'duration': 3.52}
+{'text': 'direct word of god and you believe in', 'start': 209.2, 'duration': 3.759}
+{'text': "allah you're not a cultural muslim you", 'start': 211.2, 'duration': 4.0}
+{'text': 'believe this like i have actually met', 'start': 212.959, 'duration': 4.481}
+{'text': 'like cultural jews that are even rabbis', 'start': 215.2, 'duration': 4.0}
+{'text': 'and like this is not very common but i', 'start': 217.44, 'duration': 3.76}
+{'text': "met like there's rabbis they said like", 'start': 219.2, 'duration': 4.0}
+{'text': 'oh of course this is all fairy tale', 'start': 221.2, 'duration': 4.56}
+{'text': 'uh and there is no god but we just we', 'start': 223.2, 'duration': 4.08}
+{'text': 'this is just a cultural thing for us', 'start': 225.76, 'duration': 4.08}
+{'text': "that's cultural jew cultural muslims i", 'start': 227.28, 'duration': 4.959}
+{'text': "haven't i mean there are examples", 'start': 229.84, 'duration': 4.24}
+{'text': "i haven't seen muslims that say like oh", 'start': 232.239, 'duration': 3.36}
+{'text': "i don't believe in god i don't believe", 'start': 234.08, 'duration': 4.32}
+{'text': 'in muhammad i just go to aid because of', 'start': 235.599, 'duration': 4.881}
+{'text': 'the aid ceremonies because of the food', 'start': 238.4, 'duration': 4.16}
+{'text': "that would be awesome right but there's", 'start': 240.48, 'duration': 3.839}
+{'text': 'gotta be there has to be like a middle', 'start': 242.56, 'duration': 3.599}
+{'text': "ground right where they're like yeah", 'start': 244.319, 'duration': 3.12}
+{'text': 'like i believe in allah i believe', 'start': 246.159, 'duration': 2.961}
+{'text': "muhammad was the prophet i maybe i don't", 'start': 247.439, 'duration': 4.16}
+{'text': '100 buy into every tenant of the koran', 'start': 249.12, 'duration': 4.08}
+{'text': 'um similar to how a catholic might say i', 'start': 251.599, 'duration': 3.121}
+{'text': 'believe that mary was a virgin mother i', 'start': 253.2, 'duration': 2.879}
+{'text': "believe in jesus but i don't know how i", 'start': 254.72, 'duration': 2.72}
+{'text': 'feel about like the organized the', 'start': 256.079, 'duration': 3.201}
+{'text': 'institution of the catholic church or', 'start': 257.44, 'duration': 3.199}
+{'text': 'some other christian you know', 'start': 259.28, 'duration': 2.72}
+{'text': "organization right like i'm sure there's", 'start': 260.639, 'duration': 3.12}
+{'text': 'like a middle ground there somewhere no', 'start': 262.0, 'duration': 4.24}
+{'text': "yeah okay so here's the thing what", 'start': 263.759, 'duration': 4.321}
+{'text': 'um', 'start': 266.24, 'duration': 4.399}
+{'text': 'first of all', 'start': 268.08, 'duration': 2.559}
+{'text': 'oh wait wait hold on one second your', 'start': 272.16, 'duration': 3.52}
+{'text': 'thing is', 'start': 273.36, 'duration': 2.32}
+{'text': 'most muslims do not follow', 'start': 276.16, 'duration': 6.599}
+{'text': "i'm sorry hello", 'start': 284.4, 'duration': 3.4}
+{'text': 'because i think there was too much stuff', 'start': 305.44, 'duration': 3.92}
+{'text': 'happening oh sure yeah okay um yeah yeah', 'start': 306.639, 'duration': 3.84}
+{'text': 'okay', 'start': 309.36, 'duration': 2.08}
+{'text': 'so', 'start': 310.479, 'duration': 2.881}
+{'text': 'is everything good now right i think so', 'start': 311.44, 'duration': 3.759}
+{'text': 'yeah it sounds good now okay sorry so', 'start': 313.36, 'duration': 4.24}
+{'text': 'repeat your last statement yeah', 'start': 315.199, 'duration': 4.161}
+{'text': "okay so i here's the thing there's a", 'start': 317.6, 'duration': 3.599}
+{'text': 'difference between abandoning parts of', 'start': 319.36, 'duration': 5.839}
+{'text': 'islam and reforming islam okay okay so', 'start': 321.199, 'duration': 7.121}
+{'text': 'most muslims do not follow islam most', 'start': 325.199, 'duration': 5.44}
+{'text': 'muslims i say are better than islam just', 'start': 328.32, 'duration': 3.92}
+{'text': 'the same way as most christians are', 'start': 330.639, 'duration': 3.681}
+{'text': 'better than christianity and most', 'start': 332.24, 'duration': 4.32}
+{'text': 'religious jews when i say religious jews', 'start': 334.32, 'duration': 3.92}
+{'text': "i'm trying to separate them for people", 'start': 336.56, 'duration': 3.28}
+{'text': 'who call themselves jews because of', 'start': 338.24, 'duration': 3.12}
+{'text': 'ethnicity', 'start': 339.84, 'duration': 3.12}
+{'text': 'most religious jews are better than', 'start': 341.36, 'duration': 3.6}
+{'text': 'judaism', 'start': 342.96, 'duration': 3.76}
+{'text': 'the fact that most muslims are better', 'start': 344.96, 'duration': 4.0}
+{'text': "than islam that's no credit to islam", 'start': 346.72, 'duration': 4.72}
+{'text': 'itself their humanity or their better', 'start': 348.96, 'duration': 5.04}
+{'text': 'values or their sense of sympathy or', 'start': 351.44, 'duration': 5.28}
+{'text': 'other sources of uh culture or influence', 'start': 354.0, 'duration': 4.88}
+{'text': 'or content has influenced them more than', 'start': 356.72, 'duration': 5.44}
+{'text': 'islam could have the the the influence', 'start': 358.88, 'duration': 5.439}
+{'text': 'of christianity judaism or islam itself', 'start': 362.16, 'duration': 4.72}
+{'text': 'is always a negative influence right so', 'start': 364.319, 'duration': 4.641}
+{'text': 'when we when we keep pointing to muslims', 'start': 366.88, 'duration': 3.68}
+{'text': 'and say like oh look at muslims look at', 'start': 368.96, 'duration': 3.04}
+{'text': 'all these muslims there are many muslims', 'start': 370.56, 'duration': 3.12}
+{'text': 'who support gay rights there are many', 'start': 372.0, 'duration': 3.68}
+{'text': 'muslims who support women rights', 'start': 373.68, 'duration': 5.44}
+{'text': "equality peace secularism there's tons", 'start': 375.68, 'duration': 5.68}
+{'text': 'of example for that but what what', 'start': 379.12, 'duration': 4.639}
+{'text': 'reformers try to do is that', 'start': 381.36, 'duration': 4.48}
+{'text': 'they try to use these examples of good', 'start': 383.759, 'duration': 3.841}
+{'text': 'muslims and be like look islam can be', 'start': 385.84, 'duration': 3.84}
+{'text': 'reformed and i always say like no islam', 'start': 387.6, 'duration': 4.08}
+{'text': 'cannot be reformed muslims can be', 'start': 389.68, 'duration': 4.88}
+{'text': 'reformed muslims get reformed by moving', 'start': 391.68, 'duration': 5.04}
+{'text': 'away from islamic values', 'start': 394.56, 'duration': 4.0}
+{'text': "when you talk about islamic reform it's", 'start': 396.72, 'duration': 3.44}
+{'text': 'about change looking at islam', 'start': 398.56, 'duration': 3.52}
+{'text': 'differently and changing and changing', 'start': 400.16, 'duration': 3.44}
+{'text': 'what islam stands for yeah so and as', 'start': 402.08, 'duration': 2.559}
+{'text': 'long as', 'start': 403.6, 'duration': 2.8}
+{'text': "i i don't necessarily i don't disagree", 'start': 404.639, 'duration': 3.28}
+{'text': 'with anything you said although at some', 'start': 406.4, 'duration': 3.199}
+{'text': 'point it kind of becomes like a matter', 'start': 407.919, 'duration': 4.241}
+{'text': 'of semantics right um so so like i i', 'start': 409.599, 'duration': 3.521}
+{'text': 'used to say this a lot when i was', 'start': 412.16, 'duration': 2.879}
+{'text': 'younger like um christians in the united', 'start': 413.12, 'duration': 3.12}
+{'text': "states haven't gotten haven't turned", 'start': 415.039, 'duration': 2.641}
+{'text': "into better people um they've just", 'start': 416.24, 'duration': 3.28}
+{'text': "become less christian right it's kind of", 'start': 417.68, 'duration': 2.639}
+{'text': 'yeah', 'start': 419.52, 'duration': 2.399}
+{'text': 'yeah of course but but i mean like from', 'start': 420.319, 'duration': 3.521}
+{'text': 'an institutional point of view um i mean', 'start': 421.919, 'duration': 3.28}
+{'text': 'these churches still want to hold on to', 'start': 423.84, 'duration': 2.4}
+{'text': 'their rituals they still want to hold on', 'start': 425.199, 'duration': 2.961}
+{'text': 'to their communities so and i mean there', 'start': 426.24, 'duration': 3.2}
+{'text': 'are people that still want to be a part', 'start': 428.16, 'duration': 2.56}
+{'text': 'of a community and still want to be a', 'start': 429.44, 'duration': 3.68}
+{'text': 'part of like some organization you know', 'start': 430.72, 'duration': 3.68}
+{'text': 'theology or not that has all of these', 'start': 433.12, 'duration': 2.88}
+{'text': 'rituals and everything so they have the', 'start': 434.4, 'duration': 3.519}
+{'text': 'religion um so i mean like it feels like', 'start': 436.0, 'duration': 3.68}
+{'text': "broadly speaking it's more beneficial to", 'start': 437.919, 'duration': 3.521}
+{'text': 'speak in terms of reforming the religion', 'start': 439.68, 'duration': 3.2}
+{'text': "even if what you're really doing is like", 'start': 441.44, 'duration': 3.039}
+{'text': 'fundamentally changing how people view', 'start': 442.88, 'duration': 2.8}
+{'text': 'it no', 'start': 444.479, 'duration': 3.361}
+{'text': 'well the problem with that is that as', 'start': 445.68, 'duration': 6.639}
+{'text': 'the religion itself is tied to a sort of', 'start': 447.84, 'duration': 8.56}
+{'text': 'scripture that is fundamentally against', 'start': 452.319, 'duration': 6.481}
+{'text': 'many progressive values right especially', 'start': 456.4, 'duration': 5.199}
+{'text': 'with islam right in christianity there', 'start': 458.8, 'duration': 4.32}
+{'text': 'is some wiggle room it could be like oh', 'start': 461.599, 'duration': 3.361}
+{'text': 'this is not from god this is inspired by', 'start': 463.12, 'duration': 3.68}
+{'text': 'god um', 'start': 464.96, 'duration': 2.639}
+{'text': 'you know', 'start': 466.8, 'duration': 1.519}
+{'text': 'the', 'start': 467.599, 'duration': 3.44}
+{'text': 'vast majority of muslims', 'start': 468.319, 'duration': 5.041}
+{'text': "i mean i ca you have to it's very hard", 'start': 471.039, 'duration': 4.241}
+{'text': 'to find an example of muslims who would', 'start': 473.36, 'duration': 4.16}
+{'text': 'disagree with me right now saying that', 'start': 475.28, 'duration': 3.84}
+{'text': "if you don't believe that the quran is a", 'start': 477.52, 'duration': 4.399}
+{'text': 'direct word of god verbum word of god', 'start': 479.12, 'duration': 4.96}
+{'text': "then you're not a muslim like i mean you", 'start': 481.919, 'duration': 3.68}
+{'text': 'could try to change the definition of', 'start': 484.08, 'duration': 3.839}
+{'text': "who's a muslim is sure but", 'start': 485.599, 'duration': 4.241}
+{'text': 'every muslim believes that even and i', 'start': 487.919, 'duration': 3.12}
+{'text': 'could tell you', 'start': 489.84, 'duration': 2.88}
+{'text': 'the vast majority of muslims have never', 'start': 491.039, 'duration': 4.481}
+{'text': 'read the quran', 'start': 492.72, 'duration': 4.8}
+{'text': 'yeah yeah but they do believe that the', 'start': 495.52, 'duration': 3.92}
+{'text': 'quran is the direct word of god same', 'start': 497.52, 'duration': 4.079}
+{'text': 'with christians', 'start': 499.44, 'duration': 2.96}
+{'text': 'yeah', 'start': 501.599, 'duration': 3.04}
+{'text': 'and and this is a very problematic book', 'start': 502.4, 'duration': 4.16}
+{'text': 'i mean this is a book that promotes', 'start': 504.639, 'duration': 5.041}
+{'text': "slavery it's anti-woman um it teaches", 'start': 506.56, 'duration': 4.8}
+{'text': 'you that you should you should not you', 'start': 509.68, 'duration': 3.2}
+{'text': 'could you should beat your wife in', 'start': 511.36, 'duration': 3.44}
+{'text': 'certain situations', 'start': 512.88, 'duration': 3.12}
+{'text': "even if we look at what you've like just", 'start': 514.8, 'duration': 2.239}
+{'text': 'said there right in terms of like the', 'start': 516.0, 'duration': 3.039}
+{'text': 'quran is anti-women right there are six', 'start': 517.039, 'duration': 3.36}
+{'text': 'muslim majority countries that have had', 'start': 519.039, 'duration': 3.281}
+{'text': 'a female like leader like prime minister', 'start': 520.399, 'duration': 3.361}
+{'text': 'or president of other countries', 'start': 522.32, 'duration': 2.24}
+{'text': 'yeah so', 'start': 523.76, 'duration': 2.0}
+{'text': "that's the difference between muslims", 'start': 524.56, 'duration': 3.04}
+{'text': 'and islam sure', 'start': 525.76, 'duration': 3.199}
+{'text': 'it just seems like that semantic', 'start': 527.6, 'duration': 2.48}
+{'text': 'distinction is going to make things like', 'start': 528.959, 'duration': 2.161}
+{'text': 'really confusing for a lot of people', 'start': 530.08, 'duration': 2.08}
+{'text': 'like these people would probably still', 'start': 531.12, 'duration': 2.56}
+{'text': 'consider themselves muslims not just', 'start': 532.16, 'duration': 3.2}
+{'text': "culturally but even religious didn't say", 'start': 533.68, 'duration': 3.76}
+{'text': "they're not muslim okay so", 'start': 535.36, 'duration': 4.96}
+{'text': "okay just because you don't follow islam", 'start': 537.44, 'duration': 4.48}
+{'text': "that doesn't make you not a muslim the", 'start': 540.32, 'duration': 3.36}
+{'text': 'requirement for being muslim is very', 'start': 541.92, 'duration': 3.76}
+{'text': 'small you just have to believe in god as', 'start': 543.68, 'duration': 4.32}
+{'text': 'allah as god and muhammad is his prophet', 'start': 545.68, 'duration': 4.08}
+{'text': 'and the quran has a direct word of god', 'start': 548.0, 'duration': 3.76}
+{'text': "even if you don't follow the quran i", 'start': 549.76, 'duration': 3.92}
+{'text': 'mean even in islam you learn that a lot', 'start': 551.76, 'duration': 3.68}
+{'text': 'of muslims are going to end up in hell', 'start': 553.68, 'duration': 3.2}
+{'text': 'the fact that muslims are going to end', 'start': 555.44, 'duration': 3.04}
+{'text': 'up in hell means that these are muslims', 'start': 556.88, 'duration': 3.92}
+{'text': "who do not haven't followed islam not", 'start': 558.48, 'duration': 4.4}
+{'text': "following islam doesn't make you not a", 'start': 560.8, 'duration': 5.599}
+{'text': 'muslim it makes you a bad muslim', 'start': 562.88, 'duration': 6.48}
+{'text': 'okay and a bad muslim is technically', 'start': 566.399, 'duration': 5.12}
+{'text': 'a good person', 'start': 569.36, 'duration': 3.919}
+{'text': 'sure i would say the same with a bad any', 'start': 571.519, 'duration': 3.281}
+{'text': 'any like um', 'start': 573.279, 'duration': 3.041}
+{'text': "any religion is what i would say that's", 'start': 574.8, 'duration': 2.8}
+{'text': "why that's why i say that about", 'start': 576.32, 'duration': 2.8}
+{'text': 'christianity as well like i said like oh', 'start': 577.6, 'duration': 3.359}
+{'text': 'look at christianity and then you have', 'start': 579.12, 'duration': 4.159}
+{'text': "miller christianity as milo dan it's", 'start': 580.959, 'duration': 4.401}
+{'text': 'much less problematic than it used to be', 'start': 583.279, 'duration': 4.321}
+{'text': 'i like no christianity will always be a', 'start': 585.36, 'duration': 4.08}
+{'text': 'barbaric violent', 'start': 587.6, 'duration': 4.239}
+{'text': 'backwards anti-science anti-human', 'start': 589.44, 'duration': 5.04}
+{'text': 'anti-jewish anti-woman anti-gay religion', 'start': 591.839, 'duration': 4.481}
+{'text': 'it will always be that as long as it has', 'start': 594.48, 'duration': 3.76}
+{'text': 'anything to do with the bible', 'start': 596.32, 'duration': 4.24}
+{'text': 'christians have reform by being more', 'start': 598.24, 'duration': 5.2}
+{'text': 'influenced by non-christian values', 'start': 600.56, 'duration': 4.719}
+{'text': 'are being influenced by other sources', 'start': 603.44, 'duration': 4.16}
+{'text': 'and by abandoning christianity but by', 'start': 605.279, 'duration': 4.721}
+{'text': 'making christianity and less influence', 'start': 607.6, 'duration': 3.44}
+{'text': 'in their', 'start': 610.0, 'duration': 3.68}
+{'text': 'uh judgment so christians have reformed', 'start': 611.04, 'duration': 5.039}
+{'text': 'christianity has not reformed right and', 'start': 613.68, 'duration': 4.96}
+{'text': 'it has and if you know a lot of muslim', 'start': 616.079, 'duration': 4.161}
+{'text': 'more reformers keep pointing to', 'start': 618.64, 'duration': 3.199}
+{'text': 'christianity like the reformation', 'start': 620.24, 'duration': 3.76}
+{'text': 'movement as an example of what we want', 'start': 621.839, 'duration': 4.641}
+{'text': "for islam and that's horseshit because", 'start': 624.0, 'duration': 4.8}
+{'text': 'the reformation movement actually uh', 'start': 626.48, 'duration': 4.039}
+{'text': "didn't achieve much when it comes to", 'start': 628.8, 'duration': 3.52}
+{'text': 'de-radicalization of christianity in', 'start': 630.519, 'duration': 3.241}
+{'text': 'fact if you look at a lot of protestants', 'start': 632.32, 'duration': 3.04}
+{'text': "they're more radical than the catholics", 'start': 633.76, 'duration': 3.519}
+{'text': 'yeah and also christian reformation was', 'start': 635.36, 'duration': 3.84}
+{'text': 'in the that was literally like the 1500s', 'start': 637.279, 'duration': 2.961}
+{'text': 'so i mean like when people talk about', 'start': 639.2, 'duration': 2.4}
+{'text': 'christian reform like a lot of the', 'start': 640.24, 'duration': 2.719}
+{'text': "positive progressive values we've seen", 'start': 641.6, 'duration': 2.64}
+{'text': 'have come in the last like 100 years', 'start': 642.959, 'duration': 3.201}
+{'text': 'from christianity not in the not from', 'start': 644.24, 'duration': 4.32}
+{'text': 'the 1500s right right and also the', 'start': 646.16, 'duration': 3.919}
+{'text': 'enlightenment movement which came a lot', 'start': 648.56, 'duration': 3.2}
+{'text': 'after right and the enlightenment', 'start': 650.079, 'duration': 3.841}
+{'text': 'movement was not a movement that had hey', 'start': 651.76, 'duration': 3.92}
+{'text': "let's look at bible and read it in a", 'start': 653.92, 'duration': 3.359}
+{'text': "different way and let's pretend like", 'start': 655.68, 'duration': 3.36}
+{'text': 'these verses that are so', 'start': 657.279, 'duration': 3.761}
+{'text': 'evil means something else that was not', 'start': 659.04, 'duration': 3.28}
+{'text': 'the enlightenment movement enlightenment', 'start': 661.04, 'duration': 2.96}
+{'text': 'movement it was to some extent was', 'start': 662.32, 'duration': 3.84}
+{'text': 'completely anti-religious and in other', 'start': 664.0, 'duration': 4.0}
+{'text': 'aspects of it it was it came up with', 'start': 666.16, 'duration': 4.32}
+{'text': 'better ideas to value superior to', 'start': 668.0, 'duration': 4.72}
+{'text': "christianity that we're competing", 'start': 670.48, 'duration': 4.32}
+{'text': "against those values it wasn't like hey", 'start': 672.72, 'duration': 4.799}
+{'text': "let's uh re lie to people and this is", 'start': 674.8, 'duration': 3.76}
+{'text': 'what i have a problem with the', 'start': 677.519, 'duration': 3.281}
+{'text': 'reformation movement as there is modern', 'start': 678.56, 'duration': 3.76}
+{'text': 'islamic reformation movement because we', 'start': 680.8, 'duration': 2.96}
+{'text': 'have other reformation movements before', 'start': 682.32, 'duration': 4.16}
+{'text': 'that as well is that it involves lying', 'start': 683.76, 'duration': 3.84}
+{'text': 'to people', 'start': 686.48, 'duration': 4.08}
+{'text': 'what what what reforming in islam', 'start': 687.6, 'duration': 5.919}
+{'text': 'requires is for you to tell muslims that', 'start': 690.56, 'duration': 7.36}
+{'text': 'hey look this verses that is clearly', 'start': 693.519, 'duration': 5.921}
+{'text': 'saying that like you should beat your', 'start': 697.92, 'duration': 3.52}
+{'text': "wife if she's disobedient", 'start': 699.44, 'duration': 3.92}
+{'text': 'it means something else', 'start': 701.44, 'duration': 3.2}
+{'text': 'okay it means actually something else', 'start': 703.36, 'duration': 2.719}
+{'text': "let's read it in a different way and it", 'start': 704.64, 'duration': 3.12}
+{'text': 'requires lying to people but when it', 'start': 706.079, 'duration': 3.76}
+{'text': 'comes to the methods that actually work', 'start': 707.76, 'duration': 4.639}
+{'text': 'which is intellectually honest is either', 'start': 709.839, 'duration': 4.721}
+{'text': "promoting skepticism or it's on", 'start': 712.399, 'duration': 5.281}
+{'text': 'promoting value superior to islamic', 'start': 714.56, 'duration': 4.8}
+{'text': 'values which has', 'start': 717.68, 'duration': 3.92}
+{'text': 'and will continue to influence muslims i', 'start': 719.36, 'duration': 3.039}
+{'text': 'mean', 'start': 721.6, 'duration': 2.32}
+{'text': "it's very interesting because even the", 'start': 722.399, 'duration': 3.12}
+{'text': 'leaders of the reform movement if you', 'start': 723.92, 'duration': 3.76}
+{'text': 'look at their their own history and the', 'start': 725.519, 'duration': 5.12}
+{'text': 'way that they became de-radicalized when', 'start': 727.68, 'duration': 4.64}
+{'text': 'they when you read their stories and', 'start': 730.639, 'duration': 2.801}
+{'text': 'their books', 'start': 732.32, 'duration': 2.959}
+{'text': "it wasn't because they read the quran", 'start': 733.44, 'duration': 3.44}
+{'text': 'one last time in a different way or like', 'start': 735.279, 'duration': 3.12}
+{'text': 'oh my god this book is completely', 'start': 736.88, 'duration': 3.68}
+{'text': 'actually pro-peace and anti-violence no', 'start': 738.399, 'duration': 4.401}
+{'text': 'it was other people other sources of', 'start': 740.56, 'duration': 4.16}
+{'text': 'influence and other non-islamic books', 'start': 742.8, 'duration': 3.76}
+{'text': 'that changed their mind and now even', 'start': 744.72, 'duration': 3.679}
+{'text': 'though they changed their mind based on', 'start': 746.56, 'duration': 3.6}
+{'text': "other sources they're prescribing to", 'start': 748.399, 'duration': 4.24}
+{'text': 'radical muslims as something completely', 'start': 750.16, 'duration': 3.679}
+{'text': 'different from how they became', 'start': 752.639, 'duration': 2.64}
+{'text': "de-radicalized like they're telling them", 'start': 753.839, 'duration': 3.12}
+{'text': "hey this actually let's read the quran", 'start': 755.279, 'duration': 4.24}
+{'text': "in a different way like that hasn't even", 'start': 756.959, 'duration': 4.481}
+{'text': 'worked on you why are you using this', 'start': 759.519, 'duration': 3.921}
+{'text': 'method well i mean like my guess is', 'start': 761.44, 'duration': 3.6}
+{'text': 'going to be that like there are going to', 'start': 763.44, 'duration': 3.36}
+{'text': 'be some exceptional people that might', 'start': 765.04, 'duration': 3.44}
+{'text': 'skepticism their way out of their', 'start': 766.8, 'duration': 3.36}
+{'text': "particular religion but it's probably", 'start': 768.48, 'duration': 3.68}
+{'text': 'not reasonable to expect that everybody', 'start': 770.16, 'duration': 3.119}
+{'text': 'would otherwise there would be no', 'start': 772.16, 'duration': 2.32}
+{'text': 'religious people left right we have', 'start': 773.279, 'duration': 3.041}
+{'text': 'unprecedented access to information in', 'start': 774.48, 'duration': 3.44}
+{'text': "this day and age there's no real good", 'start': 776.32, 'duration': 4.0}
+{'text': 'reason to be um you know like a super', 'start': 777.92, 'duration': 3.919}
+{'text': 'religious person unless you know you', 'start': 780.32, 'duration': 4.8}
+{'text': "just don't you you want to be right like", 'start': 781.839, 'duration': 4.961}
+{'text': "but i'm not saying out like i'm not", 'start': 785.12, 'duration': 3.76}
+{'text': 'advocating for like oh you either have', 'start': 786.8, 'duration': 4.0}
+{'text': "to become an atheist or it's not good", 'start': 788.88, 'duration': 5.12}
+{'text': "enough um i'm i'm saying that muslims", 'start': 790.8, 'duration': 5.76}
+{'text': 'and christians and jews just like every', 'start': 794.0, 'duration': 5.36}
+{'text': 'every one of us is influenced by many', 'start': 796.56, 'duration': 5.839}
+{'text': "sources of ideas right it's not muslims", 'start': 799.36, 'duration': 4.88}
+{'text': 'are not just like oh let me see what', 'start': 802.399, 'duration': 3.44}
+{'text': 'islam says what the hell this is what', 'start': 804.24, 'duration': 3.52}
+{'text': "the quran says i'm just going to do that", 'start': 805.839, 'duration': 3.44}
+{'text': "they're influenced by the podcasts they", 'start': 807.76, 'duration': 3.04}
+{'text': 'listen to by the youtube videos they', 'start': 809.279, 'duration': 3.12}
+{'text': 'watch by the', 'start': 810.8, 'duration': 3.12}
+{'text': 'books they read by their parents by', 'start': 812.399, 'duration': 3.761}
+{'text': 'their school um and', 'start': 813.92, 'duration': 5.039}
+{'text': "what i'm saying is that the the liberal", 'start': 816.16, 'duration': 4.96}
+{'text': 'muslims that are out there', 'start': 818.959, 'duration': 4.161}
+{'text': "it's not because of their", 'start': 821.12, 'duration': 4.48}
+{'text': 'any islamic reform or rereading of the', 'start': 823.12, 'duration': 4.48}
+{'text': "quran that they have become liberal it's", 'start': 825.6, 'duration': 3.52}
+{'text': 'because of these other sources of', 'start': 827.6, 'duration': 3.28}
+{'text': 'influence that they have become liberal', 'start': 829.12, 'duration': 3.92}
+{'text': 'and what the muslim reformers do is that', 'start': 830.88, 'duration': 4.16}
+{'text': 'they go to these progressive or liberal', 'start': 833.04, 'duration': 4.0}
+{'text': "muslims after you've already been", 'start': 835.04, 'duration': 4.479}
+{'text': 'convinced of superior values to islam', 'start': 837.04, 'duration': 4.56}
+{'text': "and they're like hey guess what the", 'start': 839.519, 'duration': 5.12}
+{'text': "values that you're now", 'start': 841.6, 'duration': 3.039}
+{'text': 'following these are actually according', 'start': 844.88, 'duration': 4.079}
+{'text': 'to islam they come and', 'start': 846.959, 'duration': 4.24}
+{'text': 'try to take credit for it after and the', 'start': 848.959, 'duration': 4.56}
+{'text': 'only thing that the only', 'start': 851.199, 'duration': 4.401}
+{'text': 'benefit that that might', 'start': 853.519, 'duration': 4.081}
+{'text': 'provide is the comfort to these muslims', 'start': 855.6, 'duration': 4.16}
+{'text': "that okay you're not being anti-islamic", 'start': 857.6, 'duration': 3.84}
+{'text': "but i tell you that you don't owe that", 'start': 859.76, 'duration': 3.439}
+{'text': 'comfort to these muslims', 'start': 861.44, 'duration': 3.68}
+{'text': 'none of these muslims are going to go', 'start': 863.199, 'duration': 3.841}
+{'text': 'like oh my god i guess i have to beat my', 'start': 865.12, 'duration': 4.56}
+{'text': 'wife if i if i if any of these muslims', 'start': 867.04, 'duration': 4.88}
+{'text': 'are confronted about what islam stands', 'start': 869.68, 'duration': 3.519}
+{'text': "for by the way we're confronted i mean", 'start': 871.92, 'duration': 2.88}
+{'text': "if they're if they welcome it like i'm i", 'start': 873.199, 'duration': 3.921}
+{'text': "don't go to muslims who do not want to", 'start': 874.8, 'duration': 4.0}
+{'text': 'be talked to or do not want to be', 'start': 877.12, 'duration': 3.36}
+{'text': 'challenged and i tell them like oh my', 'start': 878.8, 'duration': 4.159}
+{'text': 'god you believe in a lie if if i if a', 'start': 880.48, 'duration': 4.08}
+{'text': 'muslim gives me their green light and', 'start': 882.959, 'duration': 3.281}
+{'text': 'once i have a discussion', 'start': 884.56, 'duration': 3.519}
+{'text': 'and if i tell them actually islam stands', 'start': 886.24, 'duration': 3.68}
+{'text': 'for against all of these values that', 'start': 888.079, 'duration': 3.281}
+{'text': "you're promoting", 'start': 889.92, 'duration': 2.96}
+{'text': "uh they're not going to be like okay i", 'start': 891.36, 'duration': 3.039}
+{'text': "guess i'm going to join isis tomorrow", 'start': 892.88, 'duration': 3.36}
+{'text': "that's not like i have i give more", 'start': 894.399, 'duration': 3.761}
+{'text': 'credit to muslims than a lot of these', 'start': 896.24, 'duration': 4.56}
+{'text': 'muslim reformers do they have already', 'start': 898.16, 'duration': 4.32}
+{'text': 'been convinced that this is not the', 'start': 900.8, 'duration': 5.2}
+{'text': 'right way to live and the reaction to', 'start': 902.48, 'duration': 5.52}
+{'text': 'you challenging them on what islam', 'start': 906.0, 'duration': 3.279}
+{'text': 'actually stands for is either they', 'start': 908.0, 'duration': 2.88}
+{'text': 'ignore you', 'start': 909.279, 'duration': 3.36}
+{'text': 'or like they have destroyed or maybe', 'start': 910.88, 'duration': 3.12}
+{'text': "they're convinced and they have this", 'start': 912.639, 'duration': 3.041}
+{'text': 'struggle in their in their mind and', 'start': 914.0, 'duration': 3.839}
+{'text': "they're uncomfortable about it a lot of", 'start': 915.68, 'duration': 3.76}
+{'text': 'them end up leaving islam and we have', 'start': 917.839, 'duration': 5.521}
+{'text': 'been very successful with that um and um', 'start': 919.44, 'duration': 6.0}
+{'text': 'you know a lot of them you know some of', 'start': 923.36, 'duration': 3.68}
+{'text': 'them might try to go out and find these', 'start': 925.44, 'duration': 3.04}
+{'text': "reformers to tell them why they're", 'start': 927.04, 'duration': 2.88}
+{'text': 'actually good they are actually', 'start': 928.48, 'duration': 3.52}
+{'text': "following islam and that's just for the", 'start': 929.92, 'duration': 4.159}
+{'text': 'sake of comfort that they are still', 'start': 932.0, 'duration': 3.399}
+{'text': "muslim and i think like that's a", 'start': 934.079, 'duration': 3.68}
+{'text': 'misopportunity i mean that that', 'start': 935.399, 'duration': 5.24}
+{'text': 'discomfort that the muslims are feeling', 'start': 937.759, 'duration': 4.961}
+{'text': "is not it's not", 'start': 940.639, 'duration': 3.44}
+{'text': "you know it's not something that we need", 'start': 942.72, 'duration': 3.679}
+{'text': 'to get rid of the discomfort is a good', 'start': 944.079, 'duration': 6.0}
+{'text': 'thing um and by by trying by getting', 'start': 946.399, 'duration': 4.481}
+{'text': 'them', 'start': 950.079, 'duration': 3.041}
+{'text': 'to get the easy route out by feeling', 'start': 950.88, 'duration': 4.319}
+{'text': 'comfortable and making like okay this is', 'start': 953.12, 'duration': 3.6}
+{'text': "islamic you're not actually", 'start': 955.199, 'duration': 3.521}
+{'text': 'de-radicalizing people these people were', 'start': 956.72, 'duration': 4.08}
+{'text': 'already de-radicalized i or never were', 'start': 958.72, 'duration': 4.72}
+{'text': "radical to begin with um all you're", 'start': 960.8, 'duration': 5.2}
+{'text': "doing is you're making the challenge", 'start': 963.44, 'duration': 5.28}
+{'text': 'against islam harder because more good', 'start': 966.0, 'duration': 4.399}
+{'text': 'people are now calling themselves', 'start': 968.72, 'duration': 4.799}
+{'text': 'muslims and by not by inflating those', 'start': 970.399, 'duration': 5.12}
+{'text': 'numbers you are', 'start': 973.519, 'duration': 4.721}
+{'text': 'giving legitimacy to a barbaric backward', 'start': 975.519, 'duration': 4.801}
+{'text': 'ideology that needs to die', 'start': 978.24, 'duration': 5.2}
+{'text': 'needed to die yesterday um and you know', 'start': 980.32, 'duration': 4.959}
+{'text': 'this is the problem with islam um', 'start': 983.44, 'duration': 3.44}
+{'text': 'compared to like', 'start': 985.279, 'duration': 4.56}
+{'text': 'shady ideologies like nazism they enjoy', 'start': 986.88, 'duration': 5.04}
+{'text': 'these big numbers they enjoy a lot of', 'start': 989.839, 'duration': 4.881}
+{'text': 'good people endorsing it which gives it', 'start': 991.92, 'duration': 6.4}
+{'text': 'legitimacy and authority for if fringe', 'start': 994.72, 'duration': 4.479}
+{'text': 'bad', 'start': 998.32, 'duration': 3.199}
+{'text': 'actors to be able to do a lot even', 'start': 999.199, 'duration': 4.64}
+{'text': "though they're french use the legitimacy", 'start': 1001.519, 'duration': 4.88}
+{'text': 'and authority of it to go into power to', 'start': 1003.839, 'duration': 5.041}
+{'text': 'create theocracies and to do a lot of', 'start': 1006.399, 'duration': 5.281}
+{'text': 'damage using that authority that these', 'start': 1008.88, 'duration': 4.48}
+{'text': "good news yeah i understand what you're", 'start': 1011.68, 'duration': 3.279}
+{'text': 'saying but i i guess like the problem is', 'start': 1013.36, 'duration': 3.12}
+{'text': 'that like um i guess when i think of', 'start': 1014.959, 'duration': 2.961}
+{'text': "these types of ideologies what i'm more", 'start': 1016.48, 'duration': 3.12}
+{'text': 'concerned about is like what is it what', 'start': 1017.92, 'duration': 4.32}
+{'text': 'is a realistic path to success like how', 'start': 1019.6, 'duration': 4.32}
+{'text': 'can we act in such a way that we can', 'start': 1022.24, 'duration': 3.92}
+{'text': 'convert the maximum number of people and', 'start': 1023.92, 'duration': 4.32}
+{'text': "i don't think there's ever i could be", 'start': 1026.16, 'duration': 3.519}
+{'text': 'wrong my history is really bad but i', 'start': 1028.24, 'duration': 2.559}
+{'text': "don't think in the history of mankind", 'start': 1029.679, 'duration': 2.24}
+{'text': "there's ever been like a movement where", 'start': 1030.799, 'duration': 2.801}
+{'text': "everybody was like ah let's abandon our", 'start': 1031.919, 'duration': 3.92}
+{'text': "faith it seems like what what's", 'start': 1033.6, 'duration': 3.76}
+{'text': 'happening', 'start': 1035.839, 'duration': 2.641}
+{'text': "it seems like more what's happened is", 'start': 1037.36, 'duration': 3.199}
+{'text': 'that people have slowly over time while', 'start': 1038.48, 'duration': 3.76}
+{'text': 'maintaining their faith have kind of', 'start': 1040.559, 'duration': 3.841}
+{'text': 'modernized their views even if they', 'start': 1042.24, 'duration': 3.679}
+{'text': "couldn't really justify that with", 'start': 1044.4, 'duration': 3.12}
+{'text': 'whatever particular scripture they were', 'start': 1045.919, 'duration': 3.76}
+{'text': 'reading um so like christians are a good', 'start': 1047.52, 'duration': 3.92}
+{'text': 'example like even catholics for instance', 'start': 1049.679, 'duration': 3.201}
+{'text': 'you know like there are a lot of crazy', 'start': 1051.44, 'duration': 2.96}
+{'text': 'beliefs that even strict catholics', 'start': 1052.88, 'duration': 3.84}
+{'text': "probably don't believe in um catholicism", 'start': 1054.4, 'duration': 3.44}
+{'text': "is my background so for instance there's", 'start': 1056.72, 'duration': 3.199}
+{'text': 'something called transubstantiation the', 'start': 1057.84, 'duration': 4.079}
+{'text': 'idea that when when the when the um', 'start': 1059.919, 'duration': 5.201}
+{'text': 'priest blesses the uh the wine and the', 'start': 1061.919, 'duration': 5.201}
+{'text': "bread he's that's actually becoming", 'start': 1065.12, 'duration': 3.52}
+{'text': 'actually the the body and blood of', 'start': 1067.12, 'duration': 3.04}
+{'text': 'christ not a metaphor but really it', 'start': 1068.64, 'duration': 3.279}
+{'text': "actually is there's a lot of hardcore", 'start': 1070.16, 'duration': 3.04}
+{'text': 'catholics that are like would consider', 'start': 1071.919, 'duration': 2.561}
+{'text': "themselves very catholic that don't", 'start': 1073.2, 'duration': 2.56}
+{'text': "actually believe that's truly okay well", 'start': 1074.48, 'duration': 2.96}
+{'text': "maybe it's not actually you know so it", 'start': 1075.76, 'duration': 3.6}
+{'text': 'feels like what happens over time is', 'start': 1077.44, 'duration': 3.76}
+{'text': "that people's views kind of modernize", 'start': 1079.36, 'duration': 3.199}
+{'text': 'they kind of sort of pick and choose the', 'start': 1081.2, 'duration': 2.479}
+{'text': 'most convenient parts of the description', 'start': 1082.559, 'duration': 2.081}
+{'text': 'then they move on and that seems to be a', 'start': 1083.679, 'duration': 2.161}
+{'text': 'better path for than just expecting', 'start': 1084.64, 'duration': 2.32}
+{'text': "everybody to be like oh you're right my", 'start': 1085.84, 'duration': 3.28}
+{'text': 'religion is [\xa0__\xa0] no', 'start': 1086.96, 'duration': 3.839}
+{'text': "no i completely agree with you but i'm", 'start': 1089.12, 'duration': 3.28}
+{'text': 'saying the source of that gradual', 'start': 1090.799, 'duration': 4.401}
+{'text': 'movement is not trying to', 'start': 1092.4, 'duration': 4.32}
+{'text': 'reinterpret', 'start': 1095.2, 'duration': 3.76}
+{'text': "the quran or the bible there's", 'start': 1096.72, 'duration': 5.52}
+{'text': 'those though that reform movement those', 'start': 1098.96, 'duration': 5.76}
+{'text': 'kind of reform people after people have', 'start': 1102.24, 'duration': 4.64}
+{'text': 'already changed their mind or been', 'start': 1104.72, 'duration': 4.64}
+{'text': 'de-radicalized they come in after people', 'start': 1106.88, 'duration': 3.679}
+{'text': 'have become pro', 'start': 1109.36, 'duration': 3.04}
+{'text': 'progressively liberal and they try to', 'start': 1110.559, 'duration': 4.081}
+{'text': 'take credit for these people right the', 'start': 1112.4, 'duration': 4.48}
+{'text': 'same way like people uh a lot of people', 'start': 1114.64, 'duration': 3.52}
+{'text': 'on the right say oh look at these', 'start': 1116.88, 'duration': 2.88}
+{'text': "western countries the reason why they're", 'start': 1118.16, 'duration': 3.2}
+{'text': 'advanced is because of judo christian', 'start': 1119.76, 'duration': 3.36}
+{'text': 'values whereas had nothing to do with', 'start': 1121.36, 'duration': 2.88}
+{'text': 'that was because of the enlightenment', 'start': 1123.12, 'duration': 2.72}
+{'text': 'value', 'start': 1124.24, 'duration': 2.88}
+{'text': "i'm sure that what happens is probably", 'start': 1125.84, 'duration': 3.04}
+{'text': 'like these things probably go hand in', 'start': 1127.12, 'duration': 4.32}
+{'text': "hand with each other no no they don't", 'start': 1128.88, 'duration': 4.159}
+{'text': "i'm like here", 'start': 1131.44, 'duration': 3.68}
+{'text': "here's the thing when it comes to the", 'start': 1133.039, 'duration': 3.921}
+{'text': 'gradual movement people are like oh like', 'start': 1135.12, 'duration': 4.16}
+{'text': 'some people call me like an atheist', 'start': 1136.96, 'duration': 4.079}
+{'text': "radical because i it seems like i'm", 'start': 1139.28, 'duration': 3.84}
+{'text': 'saying like i i want atheism and nothing', 'start': 1141.039, 'duration': 4.561}
+{'text': 'else nothing else short of abandoning', 'start': 1143.12, 'duration': 5.28}
+{'text': "islam is good enough no i'm all for baby", 'start': 1145.6, 'duration': 5.68}
+{'text': "steps i'm just for intellectually honest", 'start': 1148.4, 'duration': 5.84}
+{'text': 'baby steps skepticism does work and it', 'start': 1151.28, 'duration': 5.36}
+{'text': 'actually is more practical they reform', 'start': 1154.24, 'duration': 4.08}
+{'text': 'their reform islam movement what they', 'start': 1156.64, 'duration': 3.68}
+{'text': 'have to do is they have to go pick up', 'start': 1158.32, 'duration': 4.239}
+{'text': 'the quran and they have to go over every', 'start': 1160.32, 'duration': 4.8}
+{'text': 'single verse that has is problematic and', 'start': 1162.559, 'duration': 4.081}
+{'text': 'be like okay this verse actually means', 'start': 1165.12, 'duration': 3.2}
+{'text': 'something else and this verse actually', 'start': 1166.64, 'duration': 3.2}
+{'text': 'means something else and then go through', 'start': 1168.32, 'duration': 3.44}
+{'text': 'the hadith which is a thousand times', 'start': 1169.84, 'duration': 4.0}
+{'text': 'more content than the quran and do that', 'start': 1171.76, 'duration': 3.44}
+{'text': 'with every single hadith that is', 'start': 1173.84, 'duration': 3.36}
+{'text': 'problematic as well and they have to', 'start': 1175.2, 'duration': 3.92}
+{'text': 'come up with gymnastic arguments that is', 'start': 1177.2, 'duration': 3.599}
+{'text': 'not even going to sell because muslims', 'start': 1179.12, 'duration': 4.32}
+{'text': 'guess what most muslims can read but', 'start': 1180.799, 'duration': 5.201}
+{'text': 'um but when it comes to', 'start': 1183.44, 'duration': 5.04}
+{'text': 'skepticism which is another gradual', 'start': 1186.0, 'duration': 4.24}
+{'text': "movement it's babysit you want baby", 'start': 1188.48, 'duration': 3.439}
+{'text': 'steps i have baby steps all you have to', 'start': 1190.24, 'duration': 4.72}
+{'text': 'do is like hey okay you believe in god', 'start': 1191.919, 'duration': 3.921}
+{'text': 'why', 'start': 1194.96, 'duration': 2.56}
+{'text': 'are like and oh you believe muhammad was', 'start': 1195.84, 'duration': 3.12}
+{'text': 'the prophet you believe that quran is', 'start': 1197.52, 'duration': 3.2}
+{'text': 'the other word of god how do you know', 'start': 1198.96, 'duration': 3.92}
+{'text': 'that like are you sure could you be', 'start': 1200.72, 'duration': 5.04}
+{'text': 'wrong that is so much more practical and', 'start': 1202.88, 'duration': 4.4}
+{'text': "you say like in terms of what you're", 'start': 1205.76, 'duration': 3.039}
+{'text': 'talking about in terms like taking', 'start': 1207.28, 'duration': 2.96}
+{'text': 'verses and like reinterpreting them for', 'start': 1208.799, 'duration': 3.201}
+{'text': "like modern day life isn't this exactly", 'start': 1210.24, 'duration': 3.439}
+{'text': 'what you would find happening like in', 'start': 1212.0, 'duration': 3.44}
+{'text': "any religious building ever like isn't", 'start': 1213.679, 'duration': 4.081}
+{'text': 'that why we go to temple or to church or', 'start': 1215.44, 'duration': 4.719}
+{'text': 'to mosque is to have a priest or a', 'start': 1217.76, 'duration': 4.64}
+{'text': 'preacher or um', 'start': 1220.159, 'duration': 3.441}
+{'text': "i don't remember they called it islam", 'start': 1222.4, 'duration': 3.04}
+{'text': 'but like basically tell you like oh well', 'start': 1223.6, 'duration': 3.04}
+{'text': 'this is the text and this is how it', 'start': 1225.44, 'duration': 2.479}
+{'text': 'relates to our lives and this is how we', 'start': 1226.64, 'duration': 2.8}
+{'text': "ought to live like isn't that kind of", 'start': 1227.919, 'duration': 2.64}
+{'text': 'the point', 'start': 1229.44, 'duration': 3.359}
+{'text': "what i'm saying is that the muslim that", 'start': 1230.559, 'duration': 4.881}
+{'text': 'is looking for somebody to tell them', 'start': 1232.799, 'duration': 5.201}
+{'text': 'that the quran is not', 'start': 1235.44, 'duration': 5.28}
+{'text': "in favor of wife-beating that's a person", 'start': 1238.0, 'duration': 3.76}
+{'text': 'that', 'start': 1240.72, 'duration': 3.04}
+{'text': "doesn't want to beat their wife and if", 'start': 1241.76, 'duration': 4.72}
+{'text': 'another muslim comes to them or even and', 'start': 1243.76, 'duration': 4.32}
+{'text': 'especially an atheist comes to them and', 'start': 1246.48, 'duration': 3.76}
+{'text': 'tells them actually no this does mean', 'start': 1248.08, 'duration': 3.599}
+{'text': "you should beat your wife they're not", 'start': 1250.24, 'duration': 3.04}
+{'text': 'going to go tomorrow and start beating', 'start': 1251.679, 'duration': 3.761}
+{'text': 'their wife just because', 'start': 1253.28, 'duration': 4.24}
+{'text': 'most muslims never read the quran most', 'start': 1255.44, 'duration': 4.16}
+{'text': "muslims don't let alone hadees the", 'start': 1257.52, 'duration': 3.44}
+{'text': 'hadith is', 'start': 1259.6, 'duration': 2.959}
+{'text': 'most islamic teachings actually come', 'start': 1260.96, 'duration': 3.36}
+{'text': 'from the hadith not even the quran sure', 'start': 1262.559, 'duration': 3.201}
+{'text': 'but', 'start': 1264.32, 'duration': 3.359}
+{'text': "yeah yeah what i'm saying is that like", 'start': 1265.76, 'duration': 3.36}
+{'text': 'so earlier i said these things probably', 'start': 1267.679, 'duration': 3.601}
+{'text': 'go hand in hand when i said that what i', 'start': 1269.12, 'duration': 5.2}
+{'text': 'meant is that like religious leaders as', 'start': 1271.28, 'duration': 5.92}
+{'text': 'culture shifts probably instruct the the', 'start': 1274.32, 'duration': 4.96}
+{'text': 'members of their um', 'start': 1277.2, 'duration': 3.92}
+{'text': 'um congressional conception what am i', 'start': 1279.28, 'duration': 4.16}
+{'text': 'looking for the the um the immigration', 'start': 1281.12, 'duration': 4.0}
+{'text': "congregation yeah we'll probably start", 'start': 1283.44, 'duration': 2.8}
+{'text': 'to address them in more progressive', 'start': 1285.12, 'duration': 2.88}
+{'text': 'manners as well so for instance when', 'start': 1286.24, 'duration': 3.679}
+{'text': 'catholics started to notice how big like', 'start': 1288.0, 'duration': 3.12}
+{'text': 'gay movements were getting the united', 'start': 1289.919, 'duration': 3.281}
+{'text': 'states you know all of a sudden we', 'start': 1291.12, 'duration': 3.919}
+{'text': 'started to get hate the sin not the', 'start': 1293.2, 'duration': 3.68}
+{'text': "sinner right we're now gay people were", 'start': 1295.039, 'duration': 3.76}
+{'text': 'kind of sort of like you know', 'start': 1296.88, 'duration': 5.039}
+{'text': 'welcomed into these larger um clergy i', 'start': 1298.799, 'duration': 4.161}
+{'text': 'guess you would say that they were', 'start': 1301.919, 'duration': 2.161}
+{'text': 'welcomed into the church with the', 'start': 1302.96, 'duration': 2.24}
+{'text': "understanding like okay well we're not", 'start': 1304.08, 'duration': 2.56}
+{'text': 'necessarily pro-gay rights but like', 'start': 1305.2, 'duration': 2.479}
+{'text': "we're not going to hate you just because", 'start': 1306.64, 'duration': 2.48}
+{'text': "you're gay and i'm sure that like the", 'start': 1307.679, 'duration': 3.36}
+{'text': 'preachers preaching that also probably', 'start': 1309.12, 'duration': 3.36}
+{'text': 'went along with you know the culture', 'start': 1311.039, 'duration': 2.64}
+{'text': 'moving as well and it helps everybody', 'start': 1312.48, 'duration': 3.28}
+{'text': 'kind of like move along together now', 'start': 1313.679, 'duration': 4.24}
+{'text': "right so what i'm saying is that that", 'start': 1315.76, 'duration': 4.56}
+{'text': 'itself is not an attempt to change', 'start': 1317.919, 'duration': 4.88}
+{'text': "people's values that's a defense", 'start': 1320.32, 'duration': 5.2}
+{'text': 'mechanism again', 'start': 1322.799, 'duration': 5.601}
+{'text': 'for keeping the religion relevant in', 'start': 1325.52, 'duration': 4.72}
+{'text': 'response to people already changing', 'start': 1328.4, 'duration': 4.56}
+{'text': "their values right so that that that's a", 'start': 1330.24, 'duration': 4.4}
+{'text': 'defense mechanism and i think that the', 'start': 1332.96, 'duration': 3.599}
+{'text': 'reason why these reform movements are a', 'start': 1334.64, 'duration': 3.76}
+{'text': "problem is because we don't want to give", 'start': 1336.559, 'duration': 3.921}
+{'text': 'religion a defense mechanism yeah but', 'start': 1338.4, 'duration': 3.279}
+{'text': "that sounds like you're talking about", 'start': 1340.48, 'duration': 3.12}
+{'text': 'making people into atheists then', 'start': 1341.679, 'duration': 5.48}
+{'text': 'what then is', 'start': 1343.6, 'duration': 3.559}
+{'text': "no because what i'm saying is that", 'start': 1347.52, 'duration': 5.6}
+{'text': 'you are defeating islam in one muslim', 'start': 1349.679, 'duration': 6.081}
+{'text': 'if the if islam goes from 10 percent', 'start': 1353.12, 'duration': 6.16}
+{'text': 'influence to 5 influence in one muslim', 'start': 1355.76, 'duration': 5.6}
+{'text': "even if they're still muslim even if", 'start': 1359.28, 'duration': 4.32}
+{'text': 'they still consider themselves muslim if', 'start': 1361.36, 'duration': 4.48}
+{'text': 'you reduce the influence of islam in one', 'start': 1363.6, 'duration': 4.4}
+{'text': "person you are still winning i'm not", 'start': 1365.84, 'duration': 3.92}
+{'text': 'saying they should be an atheist let me', 'start': 1368.0, 'duration': 3.28}
+{'text': 'let me give you an example of how', 'start': 1369.76, 'duration': 3.6}
+{'text': 'sometimes they might feel like you know', 'start': 1371.28, 'duration': 3.759}
+{'text': "let's just lie to people about different", 'start': 1373.36, 'duration': 3.439}
+{'text': 'this is basically', 'start': 1375.039, 'duration': 4.321}
+{'text': 'replacing some fairy tales which we see', 'start': 1376.799, 'duration': 4.721}
+{'text': 'as problematic or dangerous and', 'start': 1379.36, 'duration': 3.6}
+{'text': 'replacing them with different fairy', 'start': 1381.52, 'duration': 3.12}
+{'text': "tales as atheists we're supposed to like", 'start': 1382.96, 'duration': 3.44}
+{'text': "oh let's just tell them a different lie", 'start': 1384.64, 'duration': 4.8}
+{'text': "which might be less harmful and i'm like", 'start': 1386.4, 'duration': 5.519}
+{'text': 'why would we need to lie to people we', 'start': 1389.44, 'duration': 3.92}
+{'text': "don't need to lie to people because some", 'start': 1391.919, 'duration': 3.12}
+{'text': 'people need to be religious right i mean', 'start': 1393.36, 'duration': 3.28}
+{'text': "i'm okay with that replacing a less", 'start': 1395.039, 'duration': 3.841}
+{'text': 'harmful fairy tale so for instance', 'start': 1396.64, 'duration': 4.159}
+{'text': 'like the story of adam and eve right is', 'start': 1398.88, 'duration': 3.279}
+{'text': 'ridiculous in my opinion a ridiculous', 'start': 1400.799, 'duration': 2.561}
+{'text': 'fairy tale if somebody wants to say well', 'start': 1402.159, 'duration': 2.321}
+{'text': "that didn't really happen that's like a", 'start': 1403.36, 'duration': 2.96}
+{'text': 'metaphor for how god created the planet', 'start': 1404.48, 'duration': 3.199}
+{'text': "well fine [\xa0__\xa0] it that's fine i think", 'start': 1406.32, 'duration': 2.8}
+{'text': "it's just as stupid but sure i mean", 'start': 1407.679, 'duration': 2.48}
+{'text': "that's fine at least it doesn't give you", 'start': 1409.12, 'duration': 2.559}
+{'text': 'harmful views on like science or the', 'start': 1410.159, 'duration': 3.52}
+{'text': 'creation of the world or something', 'start': 1411.679, 'duration': 4.24}
+{'text': 'right well the thing is that even if you', 'start': 1413.679, 'duration': 4.721}
+{'text': 'want more of those interpretations that', 'start': 1415.919, 'duration': 4.88}
+{'text': 'comes as a result of people challenging', 'start': 1418.4, 'duration': 5.279}
+{'text': 'religion not because of people', 'start': 1420.799, 'duration': 5.441}
+{'text': 'they the re-reading of the scripture is', 'start': 1423.679, 'duration': 4.24}
+{'text': 'a defense against people who are', 'start': 1426.24, 'duration': 4.559}
+{'text': 'challenging religion outright so even if', 'start': 1427.919, 'duration': 4.801}
+{'text': 'you want more of those interpretation', 'start': 1430.799, 'duration': 4.961}
+{'text': 'the the best way to get those is not to', 'start': 1432.72, 'duration': 4.88}
+{'text': 'just go out and encourage rereading is', 'start': 1435.76, 'duration': 3.76}
+{'text': 'to just tell them why christianity is', 'start': 1437.6, 'duration': 4.16}
+{'text': "[\xa0__\xa0] that's you will get more of", 'start': 1439.52, 'duration': 5.36}
+{'text': "those in response right so here's", 'start': 1441.76, 'duration': 5.44}
+{'text': 'one one example that i often give about', 'start': 1444.88, 'duration': 3.2}
+{'text': 'why', 'start': 1447.2, 'duration': 4.079}
+{'text': 'uh lying to people for the sake of as', 'start': 1448.08, 'duration': 4.8}
+{'text': 'greater good seems', 'start': 1451.279, 'duration': 3.28}
+{'text': 'um', 'start': 1452.88, 'duration': 4.0}
+{'text': 'so some people might get feel like oh', 'start': 1454.559, 'duration': 5.12}
+{'text': "you're gonna get better results", 'start': 1456.88, 'duration': 4.08}
+{'text': 'you know for some people because some', 'start': 1459.679, 'duration': 3.041}
+{'text': 'people are not just ready for the truth', 'start': 1460.96, 'duration': 3.599}
+{'text': 'the example i give like imagine if you', 'start': 1462.72, 'duration': 5.36}
+{'text': 'have a village which is uh', 'start': 1464.559, 'duration': 5.12}
+{'text': 'struck by a disease and this doctor', 'start': 1468.08, 'duration': 3.44}
+{'text': 'happened to just show up in this village', 'start': 1469.679, 'duration': 3.6}
+{'text': 'and she notices the disease and she', 'start': 1471.52, 'duration': 3.84}
+{'text': 'comes up with the medicine and actually', 'start': 1473.279, 'duration': 3.841}
+{'text': 'the medicine ends up working but to make', 'start': 1475.36, 'duration': 4.08}
+{'text': "more of it she's trying to sell it um to", 'start': 1477.12, 'duration': 3.6}
+{'text': 'make more money to make more of the', 'start': 1479.44, 'duration': 3.28}
+{'text': 'medicine and people are not buying it so', 'start': 1480.72, 'duration': 3.439}
+{'text': 'she comes up with a lie and she said', 'start': 1482.72, 'duration': 2.24}
+{'text': 'like', 'start': 1484.159, 'duration': 3.201}
+{'text': 'hey people i on my way to the village', 'start': 1484.96, 'duration': 4.24}
+{'text': 'there was these fairies in the forest', 'start': 1487.36, 'duration': 3.199}
+{'text': 'and the fairies to the forest gave me', 'start': 1489.2, 'duration': 3.28}
+{'text': 'this potion and she told me that this', 'start': 1490.559, 'duration': 4.0}
+{'text': 'will help you eradicate the disease and', 'start': 1492.48, 'duration': 3.92}
+{'text': 'then after she comes up with the story', 'start': 1494.559, 'duration': 4.081}
+{'text': "let's say people line up and they buy a", 'start': 1496.4, 'duration': 4.56}
+{'text': 'divider medicine and she raises enough', 'start': 1498.64, 'duration': 4.399}
+{'text': 'money to make more and she eradicates', 'start': 1500.96, 'duration': 3.36}
+{'text': 'the disease from the village and people', 'start': 1503.039, 'duration': 3.12}
+{'text': 'like oh look this is a great example', 'start': 1504.32, 'duration': 3.599}
+{'text': 'sometimes maybe lying to people might', 'start': 1506.159, 'duration': 4.241}
+{'text': 'actually be beneficial for getting rid', 'start': 1507.919, 'duration': 5.12}
+{'text': "of um harm so but here's the thing", 'start': 1510.4, 'duration': 5.04}
+{'text': 'imagine after she left the village', 'start': 1513.039, 'duration': 4.321}
+{'text': 'then other people come around and say', 'start': 1515.44, 'duration': 5.04}
+{'text': 'like oh guess what i also talked to', 'start': 1517.36, 'duration': 4.4}
+{'text': 'the fairy', 'start': 1520.48, 'duration': 2.559}
+{'text': 'and now that she left and she', 'start': 1521.76, 'duration': 3.76}
+{'text': 'established that the fairy uh forest', 'start': 1523.039, 'duration': 4.961}
+{'text': 'fairies are a real thing and now she', 'start': 1525.52, 'duration': 4.159}
+{'text': 'created a platform where other people', 'start': 1528.0, 'duration': 3.84}
+{'text': 'could build on this mythology and other', 'start': 1529.679, 'duration': 3.36}
+{'text': 'people are now going to come and take', 'start': 1531.84, 'duration': 3.68}
+{'text': 'advantage of it like hey the fairy the', 'start': 1533.039, 'duration': 4.401}
+{'text': 'the forest fairies told me that these', 'start': 1535.52, 'duration': 4.72}
+{'text': 'also make you have better sex or perform', 'start': 1537.44, 'duration': 3.599}
+{'text': 'better', 'start': 1540.24, 'duration': 3.52}
+{'text': 'um you know at work or keep you awake or', 'start': 1541.039, 'duration': 4.161}
+{'text': 'whatever so and then all of a sudden', 'start': 1543.76, 'duration': 3.36}
+{'text': 'people are selling a whole bunch of fake', 'start': 1545.2, 'duration': 3.44}
+{'text': 'drugs and making a lot of money and some', 'start': 1547.12, 'duration': 2.559}
+{'text': 'people actually might start putting', 'start': 1548.64, 'duration': 3.039}
+{'text': 'drugs and making people addicted to it', 'start': 1549.679, 'duration': 4.88}
+{'text': 'like hey very foreign so you once you', 'start': 1551.679, 'duration': 5.6}
+{'text': 'establish a lie and people believe in it', 'start': 1554.559, 'duration': 5.201}
+{'text': 'you you have a gullible community of', 'start': 1557.279, 'duration': 5.76}
+{'text': 'people that are just really there for um', 'start': 1559.76, 'duration': 5.039}
+{'text': 'bad actors to take advantage of yeah i', 'start': 1563.039, 'duration': 3.441}
+{'text': "don't disagree but if we're talking", 'start': 1564.799, 'duration': 3.36}
+{'text': "about religious people they're already", 'start': 1566.48, 'duration': 3.36}
+{'text': 'gullible and ready for lies right i mean', 'start': 1568.159, 'duration': 4.081}
+{'text': "i i imagine if we're both if we're both", 'start': 1569.84, 'duration': 4.079}
+{'text': 'atheists i would imagine we would', 'start': 1572.24, 'duration': 3.28}
+{'text': 'probably both be in agreement that', 'start': 1573.919, 'duration': 3.36}
+{'text': 'religious people are already gullible or', 'start': 1575.52, 'duration': 3.68}
+{'text': 'susceptible to stories or fairy tales', 'start': 1577.279, 'duration': 3.361}
+{'text': 'that fit their existence right the', 'start': 1579.2, 'duration': 3.2}
+{'text': 'matter the fact of the matter is is that', 'start': 1580.64, 'duration': 3.68}
+{'text': 'there are some people that in a', 'start': 1582.4, 'duration': 4.24}
+{'text': 'desperate search for meaning or for some', 'start': 1584.32, 'duration': 4.239}
+{'text': 'greater purpose in life are always going', 'start': 1586.64, 'duration': 3.68}
+{'text': 'to to cling on to things that can give', 'start': 1588.559, 'duration': 3.12}
+{'text': 'them that atheism can never give you', 'start': 1590.32, 'duration': 2.479}
+{'text': 'that it will never be able to give you', 'start': 1591.679, 'duration': 2.081}
+{'text': "that you're not going to find objective", 'start': 1592.799, 'duration': 2.721}
+{'text': 'meaning in life outside of some god', 'start': 1593.76, 'duration': 4.08}
+{'text': 'figure and if you need that well [\xa0__\xa0] if', 'start': 1595.52, 'duration': 3.519}
+{'text': "you're going to listen to [\xa0__\xa0] fairy", 'start': 1597.84, 'duration': 2.64}
+{'text': 'tales at least you can listen to one', 'start': 1599.039, 'duration': 2.88}
+{'text': 'with some better outcomes so if it takes', 'start': 1600.48, 'duration': 2.799}
+{'text': 'forest fairies to convince you to give', 'start': 1601.919, 'duration': 2.961}
+{'text': "some medicine to your village yeah it's", 'start': 1603.279, 'duration': 3.041}
+{'text': "not a very good predictive thing you're", 'start': 1604.88, 'duration': 2.56}
+{'text': 'likely to believe dumb [\xa0__\xa0] in the', 'start': 1606.32, 'duration': 2.56}
+{'text': 'future but at the very least you can', 'start': 1607.44, 'duration': 3.28}
+{'text': 'believe on the penicillin forest fairies', 'start': 1608.88, 'duration': 3.2}
+{'text': 'and then you can try some homeopathic', 'start': 1610.72, 'duration': 2.72}
+{'text': "[\xa0__\xa0] later but i mean it's like one step", 'start': 1612.08, 'duration': 2.719}
+{'text': "at a time you slowly reform people's", 'start': 1613.44, 'duration': 2.56}
+{'text': "fairy tales until they're more in line", 'start': 1614.799, 'duration': 1.921}
+{'text': 'with what we believe to be', 'start': 1616.0, 'duration': 2.32}
+{'text': "scientifically true and that's just how", 'start': 1616.72, 'duration': 3.52}
+{'text': 'like religion makes progress over time', 'start': 1618.32, 'duration': 3.04}
+{'text': "you don't get these huge waves of", 'start': 1620.24, 'duration': 2.319}
+{'text': 'atheists you get people that slowly', 'start': 1621.36, 'duration': 2.559}
+{'text': 'reform their beliefs become less', 'start': 1622.559, 'duration': 2.881}
+{'text': 'religious and that seems i mean that', 'start': 1623.919, 'duration': 3.441}
+{'text': 'would seem to be the case how it goes', 'start': 1625.44, 'duration': 3.839}
+{'text': "but i i didn't say like a wave of", 'start': 1627.36, 'duration': 5.439}
+{'text': "atheists i'm already saying that no um", 'start': 1629.279, 'duration': 5.841}
+{'text': 'i believe in baby steps but skepticism', 'start': 1632.799, 'duration': 4.0}
+{'text': 'actually does work just asking people', 'start': 1635.12, 'duration': 3.679}
+{'text': 'how they know things even with the like', 'start': 1636.799, 'duration': 4.321}
+{'text': 'gullible people can be less gullible', 'start': 1638.799, 'duration': 4.0}
+{'text': 'become just a little bit less gullible', 'start': 1641.12, 'duration': 3.52}
+{'text': "that really does work i mean i've seen", 'start': 1642.799, 'duration': 4.161}
+{'text': 'it seen at work you only have to make a', 'start': 1644.64, 'duration': 4.639}
+{'text': 'person that believes 100 percent in', 'start': 1646.96, 'duration': 5.36}
+{'text': 'islam or another religion to go from 100', 'start': 1649.279, 'duration': 4.961}
+{'text': 'to 99', 'start': 1652.32, 'duration': 4.56}
+{'text': 'people are less likely to devote', 'start': 1654.24, 'duration': 5.039}
+{'text': 'make big sacrifices to their religion if', 'start': 1656.88, 'duration': 5.2}
+{'text': "they're only 99 sure about it like if", 'start': 1659.279, 'duration': 5.441}
+{'text': 'that if that doctor spent more time', 'start': 1662.08, 'duration': 4.479}
+{'text': 'trying to educate people for why this', 'start': 1664.72, 'duration': 3.52}
+{'text': 'works it might have seemed like the', 'start': 1666.559, 'duration': 3.921}
+{'text': 'return on investment is low', 'start': 1668.24, 'duration': 3.76}
+{'text': 'and small in the short term but in the', 'start': 1670.48, 'duration': 4.079}
+{'text': 'long on the long term i believe that', 'start': 1672.0, 'duration': 4.32}
+{'text': 'spreading truth and fighting against', 'start': 1674.559, 'duration': 2.72}
+{'text': 'lies', 'start': 1676.32, 'duration': 2.479}
+{'text': 'might not seem like a good idea in the', 'start': 1677.279, 'duration': 3.361}
+{'text': 'short term but on the long run it gives', 'start': 1678.799, 'duration': 3.281}
+{'text': 'you much higher return on your', 'start': 1680.64, 'duration': 3.759}
+{'text': 'investment right and you always people', 'start': 1682.08, 'duration': 5.68}
+{'text': 'not to lie to them i think you you know', 'start': 1684.399, 'duration': 5.28}
+{'text': "you don't like this is why i don't", 'start': 1687.76, 'duration': 3.84}
+{'text': 'understand atheists who are for islamic', 'start': 1689.679, 'duration': 2.961}
+{'text': 'reform', 'start': 1691.6, 'duration': 2.799}
+{'text': 'i mean for muslims who believe in', 'start': 1692.64, 'duration': 4.08}
+{'text': 'islamic reform i forgive them because to', 'start': 1694.399, 'duration': 3.28}
+{'text': 'me they', 'start': 1696.72, 'duration': 2.319}
+{'text': "they believe that they're spreading the", 'start': 1697.679, 'duration': 2.24}
+{'text': 'truth', 'start': 1699.039, 'duration': 2.961}
+{'text': 'but for atheists to be like okay this is', 'start': 1699.919, 'duration': 4.0}
+{'text': "a lie but it's fine let's lie to people", 'start': 1702.0, 'duration': 3.6}
+{'text': 'anyways because this might be beneficial', 'start': 1703.919, 'duration': 4.48}
+{'text': "to us i think that's that seems selfish", 'start': 1705.6, 'duration': 5.199}
+{'text': 'to me that feels like we i like let them', 'start': 1708.399, 'duration': 4.4}
+{'text': 'believe in their own [\xa0__\xa0] as long as', 'start': 1710.799, 'duration': 3.841}
+{'text': "they're not bombing us who cares what", 'start': 1712.799, 'duration': 3.041}
+{'text': 'who cares', 'start': 1714.64, 'duration': 2.639}
+{'text': "if they're like", 'start': 1715.84, 'duration': 3.36}
+{'text': 'you know other people might i mean for', 'start': 1717.279, 'duration': 4.64}
+{'text': 'their own sake i think we should uh', 'start': 1719.2, 'duration': 3.599}
+{'text': 'fight', 'start': 1721.919, 'duration': 2.721}
+{'text': 'make them less gullible i mean so for', 'start': 1722.799, 'duration': 3.521}
+{'text': 'example like palm reading right palm', 'start': 1724.64, 'duration': 3.759}
+{'text': 'reading seems like a superstition that', 'start': 1726.32, 'duration': 3.599}
+{'text': "doesn't cause any harm i don't see any", 'start': 1728.399, 'duration': 3.201}
+{'text': 'people waging war against each other', 'start': 1729.919, 'duration': 3.201}
+{'text': 'because of palm reading but if you', 'start': 1731.6, 'duration': 3.04}
+{'text': "believe in palm reading you're all", 'start': 1733.12, 'duration': 3.919}
+{'text': "you're a type of person that also is", 'start': 1734.64, 'duration': 4.08}
+{'text': 'going to believe in', 'start': 1737.039, 'duration': 3.52}
+{'text': 'you know vaccines cause autism and that', 'start': 1738.72, 'duration': 4.319}
+{'text': 'is a harmful idea like so if i could', 'start': 1740.559, 'duration': 3.921}
+{'text': 'convince you why you need to be more', 'start': 1743.039, 'duration': 3.681}
+{'text': 'skeptical for against palm reading that', 'start': 1744.48, 'duration': 4.16}
+{'text': 'you might just be encouraged to be more', 'start': 1746.72, 'duration': 4.12}
+{'text': 'skeptical in general if you allow', 'start': 1748.64, 'duration': 4.72}
+{'text': "harmless beliefs without evidence you're", 'start': 1750.84, 'duration': 4.36}
+{'text': 'also opening the door to harmful', 'start': 1753.36, 'duration': 3.199}
+{'text': "nonsense with that evidence yeah i don't", 'start': 1755.2, 'duration': 3.04}
+{'text': "i don't disagree with any of that of", 'start': 1756.559, 'duration': 3.281}
+{'text': "course like okay this is why i'm an", 'start': 1758.24, 'duration': 4.0}
+{'text': "atheist and it's why like predictiveness", 'start': 1759.84, 'duration': 3.839}
+{'text': "is the most important part of a person's", 'start': 1762.24, 'duration': 2.72}
+{'text': 'belief system right if you believe a', 'start': 1763.679, 'duration': 2.961}
+{'text': 'certain dumb thing can i predict that', 'start': 1764.96, 'duration': 2.8}
+{'text': "you'll believe other stupid things in", 'start': 1766.64, 'duration': 3.039}
+{'text': 'the future i i obviously i believe that', 'start': 1767.76, 'duration': 4.799}
+{'text': 'um being an atheist i i guess maybe um', 'start': 1769.679, 'duration': 4.24}
+{'text': "maybe you're just a little bit more", 'start': 1772.559, 'duration': 4.0}
+{'text': "hopeful um in terms of like people's", 'start': 1773.919, 'duration': 4.401}
+{'text': 'ability to just abandon parts of their', 'start': 1776.559, 'duration': 4.0}
+{'text': 'religion um but for me', 'start': 1778.32, 'duration': 3.839}
+{'text': 'so anecdotal i wish i had like better', 'start': 1780.559, 'duration': 2.881}
+{'text': 'examples well i mean we can look at', 'start': 1782.159, 'duration': 2.481}
+{'text': 'whole countries sometimes i guess but', 'start': 1783.44, 'duration': 2.959}
+{'text': "like um it just it feels like it's", 'start': 1784.64, 'duration': 3.84}
+{'text': 'easier to tell somebody like listen um', 'start': 1786.399, 'duration': 4.561}
+{'text': 'like god actually meant this instead of', 'start': 1788.48, 'duration': 4.24}
+{'text': 'saying like okay well this is [\xa0__\xa0]', 'start': 1790.96, 'duration': 3.04}
+{'text': 'like just get rid of this part of your', 'start': 1792.72, 'duration': 2.72}
+{'text': '[\xa0__\xa0] ass religion and you can keep', 'start': 1794.0, 'duration': 2.72}
+{'text': 'the rest of your [\xa0__\xa0] religion but', 'start': 1795.44, 'duration': 3.04}
+{'text': 'like at least no this is fake like it', 'start': 1796.72, 'duration': 3.12}
+{'text': "seems like it's so much easier to phrase", 'start': 1798.48, 'duration': 3.12}
+{'text': 'things in a way that um that somebody', 'start': 1799.84, 'duration': 3.36}
+{'text': 'else would understand within the context', 'start': 1801.6, 'duration': 2.799}
+{'text': 'of the religion than to do it outside', 'start': 1803.2, 'duration': 3.28}
+{'text': 'the context of the religion well we have', 'start': 1804.399, 'duration': 4.721}
+{'text': "the number we have and we're in asia's", 'start': 1806.48, 'duration': 5.52}
+{'text': 'republic but the asus republic is um the', 'start': 1809.12, 'duration': 4.64}
+{'text': "world's largest atheist community right", 'start': 1812.0, 'duration': 3.919}
+{'text': 'now right so we have two million', 'start': 1813.76, 'duration': 4.24}
+{'text': 'followers around the world and we deal', 'start': 1815.919, 'duration': 5.041}
+{'text': 'with talking to religious', 'start': 1818.0, 'duration': 4.559}
+{'text': 'of their religion all the people sure', 'start': 1820.96, 'duration': 4.4}
+{'text': 'and we uh by the way check us out on', 'start': 1822.559, 'duration': 4.561}
+{'text': 'youtube because our youtube is very tiny', 'start': 1825.36, 'duration': 3.6}
+{'text': 'our facebook page is 2 million followers', 'start': 1827.12, 'duration': 3.6}
+{'text': "but our youtube doesn't seem to grow for", 'start': 1828.96, 'duration': 6.079}
+{'text': 'some reason so help us out there but um', 'start': 1830.72, 'duration': 7.12}
+{'text': 'but yeah but we like', 'start': 1835.039, 'duration': 4.64}
+{'text': 'we have seen', 'start': 1837.84, 'duration': 3.68}
+{'text': 'you know we have actually experienced', 'start': 1839.679, 'duration': 3.36}
+{'text': 'thousands of people abandoning the', 'start': 1841.52, 'duration': 3.36}
+{'text': 'religion but even the numbers show that', 'start': 1843.039, 'duration': 4.161}
+{'text': 'like the numbers show that that people', 'start': 1844.88, 'duration': 3.519}
+{'text': 'are abandoning', 'start': 1847.2, 'duration': 3.199}
+{'text': "like you're talking about muslims in", 'start': 1848.399, 'duration': 3.921}
+{'text': 'united states actually muslims in the', 'start': 1850.399, 'duration': 4.801}
+{'text': 'united states shows you how powerful the', 'start': 1852.32, 'duration': 5.28}
+{'text': 'exposure to other competing ideas is', 'start': 1855.2, 'duration': 4.88}
+{'text': 'because muslims united states live less', 'start': 1857.6, 'duration': 4.24}
+{'text': 'in a bubble than muslims in like islamic', 'start': 1860.08, 'duration': 4.719}
+{'text': 'country and we have like a 25 percent', 'start': 1861.84, 'duration': 4.64}
+{'text': 'rate based on that was amazing i', 'start': 1864.799, 'duration': 3.12}
+{'text': "couldn't believe see i was shocked to", 'start': 1866.48, 'duration': 3.84}
+{'text': 'see that the new generation of muslim', 'start': 1867.919, 'duration': 4.401}
+{'text': 'second generation muslims in the united', 'start': 1870.32, 'duration': 6.479}
+{'text': 'states 25 are abandoning islam i i did', 'start': 1872.32, 'duration': 6.16}
+{'text': "not i didn't even like i'm very", 'start': 1876.799, 'duration': 3.681}
+{'text': 'optimistic and to me that number seemed', 'start': 1878.48, 'duration': 4.24}
+{'text': 'to to uh higher than i could have ever', 'start': 1880.48, 'duration': 5.039}
+{'text': 'imagined right but even even the muslims', 'start': 1882.72, 'duration': 6.24}
+{'text': 'who remain muslim but live liberal lives', 'start': 1885.519, 'duration': 5.921}
+{'text': 'or progressive lives if you go', 'start': 1888.96, 'duration': 5.04}
+{'text': 'challenge them about the meaning of the', 'start': 1891.44, 'duration': 4.719}
+{'text': "quran and the hadees they don't even", 'start': 1894.0, 'duration': 4.159}
+{'text': "know what's in the quran and the hadith", 'start': 1896.159, 'duration': 4.481}
+{'text': 'so how are they nobody came to them and', 'start': 1898.159, 'duration': 5.681}
+{'text': "be like hey don't beat your wife or be", 'start': 1900.64, 'duration': 5.279}
+{'text': 'for gay rights because the quran is', 'start': 1903.84, 'duration': 4.64}
+{'text': "florida you don't even know so why are", 'start': 1905.919, 'duration': 4.48}
+{'text': 'people saying like hey', 'start': 1908.48, 'duration': 4.559}
+{'text': 'this this might actually help um more', 'start': 1910.399, 'duration': 5.361}
+{'text': 'muslims be liberal when if you actually', 'start': 1913.039, 'duration': 4.561}
+{'text': 'talk about talk to them about the hadith', 'start': 1915.76, 'duration': 3.759}
+{'text': "and quran and they have no clue what's", 'start': 1917.6, 'duration': 4.16}
+{'text': "in it so it's that is not why they're", 'start': 1919.519, 'duration': 4.321}
+{'text': "liberal if they don't know what's in", 'start': 1921.76, 'duration': 4.56}
+{'text': 'there reinterpreting the quran or the', 'start': 1923.84, 'duration': 6.16}
+{'text': 'hadith cannot be the source of why', 'start': 1926.32, 'duration': 4.959}
+{'text': "they're liberal", 'start': 1930.0, 'duration': 2.72}
+{'text': "yeah of course i don't disagree that's", 'start': 1931.279, 'duration': 3.12}
+{'text': 'why i said it was kind of like i bring', 'start': 1932.72, 'duration': 3.12}
+{'text': 'back to that earlier phrase i made where', 'start': 1934.399, 'duration': 3.28}
+{'text': "i said hand in hand that like it's more", 'start': 1935.84, 'duration': 3.839}
+{'text': 'like exposure to culture exposure to', 'start': 1937.679, 'duration': 3.36}
+{'text': 'different values or whatever exposure', 'start': 1939.679, 'duration': 3.36}
+{'text': 'different people over time probably like', 'start': 1941.039, 'duration': 3.76}
+{'text': 'modernizing your views more', 'start': 1943.039, 'duration': 4.24}
+{'text': "that's why i think the best way to", 'start': 1944.799, 'duration': 4.961}
+{'text': 'fight against islam is to befriend', 'start': 1947.279, 'duration': 4.0}
+{'text': 'muslims this is why a lot of people', 'start': 1949.76, 'duration': 2.639}
+{'text': 'think like', 'start': 1951.279, 'duration': 2.961}
+{'text': "oh my god army wants islam to die he's", 'start': 1952.399, 'duration': 3.601}
+{'text': 'an anti-muslim bigot', 'start': 1954.24, 'duration': 4.319}
+{'text': 'do you know how i suggest like', 'start': 1956.0, 'duration': 4.64}
+{'text': 'fighting islam requires convincing', 'start': 1958.559, 'duration': 4.24}
+{'text': 'people out of their ideology', 'start': 1960.64, 'duration': 4.159}
+{'text': 'to convince people out of their ideology', 'start': 1962.799, 'duration': 3.281}
+{'text': 'you have to get their guards down to get', 'start': 1964.799, 'duration': 2.48}
+{'text': 'their guards down you have to actually', 'start': 1966.08, 'duration': 2.56}
+{'text': 'reach out to them and talk to them as', 'start': 1967.279, 'duration': 3.52}
+{'text': 'friends this is the complete like the', 'start': 1968.64, 'duration': 4.32}
+{'text': 'best strategy is actually the complete', 'start': 1970.799, 'duration': 4.88}
+{'text': 'opposite of bigotry like but yeah but', 'start': 1972.96, 'duration': 4.079}
+{'text': 'yeah but but you yourself are', 'start': 1975.679, 'duration': 3.281}
+{'text': 'acknowledging that they are changing', 'start': 1977.039, 'duration': 3.681}
+{'text': "your opinions because they're exposed to", 'start': 1978.96, 'duration': 4.24}
+{'text': 'better ideas not because somebody is', 'start': 1980.72, 'duration': 4.0}
+{'text': 're-reading the quran to them in a', 'start': 1983.2, 'duration': 2.959}
+{'text': 'different way yeah of course why would', 'start': 1984.72, 'duration': 3.679}
+{'text': 'we endorse okay so why would we endorse', 'start': 1986.159, 'duration': 3.841}
+{'text': "this book then we don't need to like", 'start': 1988.399, 'duration': 3.041}
+{'text': 'tell them like oh this is actually a', 'start': 1990.0, 'duration': 3.679}
+{'text': 'good book i mean and this is a godman', 'start': 1991.44, 'duration': 3.92}
+{'text': "but i'm going to do it anyways imagine", 'start': 1993.679, 'duration': 3.12}
+{'text': 'if people say like hey', 'start': 1995.36, 'duration': 3.6}
+{'text': 'what if we instead of telling people why', 'start': 1996.799, 'duration': 4.0}
+{'text': 'nazism is [\xa0__\xa0]', 'start': 1998.96, 'duration': 3.839}
+{'text': "why can't we just like read mineconf and", 'start': 2000.799, 'duration': 3.36}
+{'text': 'be like it this actually might mean', 'start': 2002.799, 'duration': 3.201}
+{'text': 'something else maybe', 'start': 2004.159, 'duration': 3.601}
+{'text': 'maybe when maybe when people were', 'start': 2006.0, 'duration': 3.76}
+{'text': 'talking about the aryan race you know', 'start': 2007.76, 'duration': 3.519}
+{'text': 'they were talking about our inner', 'start': 2009.76, 'duration': 4.0}
+{'text': 'humanity anybody everybody all black', 'start': 2011.279, 'duration': 4.161}
+{'text': 'people jews they all have their own', 'start': 2013.76, 'duration': 4.159}
+{'text': 'inner orient that they could tap into', 'start': 2015.44, 'duration': 4.56}
+{'text': "let's just read it that way let's revise", 'start': 2017.919, 'duration': 4.081}
+{'text': 'history and make hitler for example a', 'start': 2020.0, 'duration': 4.48}
+{'text': 'good person you know there might be some', 'start': 2022.0, 'duration': 4.72}
+{'text': 'nazis that could just remain nazis but', 'start': 2024.48, 'duration': 4.16}
+{'text': 'if we just read nazism to do you know', 'start': 2026.72, 'duration': 3.92}
+{'text': 'they could actually be not racist it', 'start': 2028.64, 'duration': 5.36}
+{'text': 'could be um progressive nazis but i', 'start': 2030.64, 'duration': 5.68}
+{'text': 'think i think you could do that like i', 'start': 2034.0, 'duration': 3.76}
+{'text': "think there's actually evidence that", 'start': 2036.32, 'duration': 3.44}
+{'text': 'that already happens look how many', 'start': 2037.76, 'duration': 4.08}
+{'text': 'people are like neo-nazis today that are', 'start': 2039.76, 'duration': 3.84}
+{'text': 'that are like slavic and have no [\xa0__\xa0]', 'start': 2041.84, 'duration': 3.12}
+{'text': 'idea that like hitler would have', 'start': 2043.6, 'duration': 2.959}
+{'text': 'executed or how many polish people or', 'start': 2044.96, 'duration': 3.52}
+{'text': 'whatever in the western world um can be', 'start': 2046.559, 'duration': 3.36}
+{'text': 'like with a polish descent or whatever', 'start': 2048.48, 'duration': 2.879}
+{'text': 'that are literal nazis because they', 'start': 2049.919, 'duration': 3.121}
+{'text': 'completely and totally reinterpret and', 'start': 2051.359, 'duration': 2.961}
+{'text': 'review all of that and just like', 'start': 2053.04, 'duration': 2.48}
+{'text': "religious people who've never read the", 'start': 2054.32, 'duration': 2.559}
+{'text': 'quran or never read the bible these guys', 'start': 2055.52, 'duration': 3.119}
+{'text': "haven't read mein kampf um in the", 'start': 2056.879, 'duration': 2.96}
+{'text': 'original german or let alone a', 'start': 2058.639, 'duration': 2.801}
+{'text': 'translation or even like an annotated', 'start': 2059.839, 'duration': 3.28}
+{'text': 'version of it um so yeah i mean i think', 'start': 2061.44, 'duration': 2.959}
+{'text': 'that even with nazism i think it would', 'start': 2063.119, 'duration': 2.56}
+{'text': 'be possible to get a totally different', 'start': 2064.399, 'duration': 3.041}
+{'text': 'set of beliefs out of it yeah', 'start': 2065.679, 'duration': 4.0}
+{'text': "there's a difference between just being", 'start': 2067.44, 'duration': 4.56}
+{'text': 'happy that somebody it has better values', 'start': 2069.679, 'duration': 4.16}
+{'text': 'than nazism and has never written my', 'start': 2072.0, 'duration': 4.56}
+{'text': 'conf than to actually chase nazis and', 'start': 2073.839, 'duration': 4.161}
+{'text': 'tell them hey actually go read the', 'start': 2076.56, 'duration': 3.2}
+{'text': "minecraft but let's let me let me tell", 'start': 2078.0, 'duration': 3.839}
+{'text': 'you and follow it but let me tell you', 'start': 2079.76, 'duration': 3.359}
+{'text': 'that actually means something else and', 'start': 2081.839, 'duration': 2.881}
+{'text': 'it actually means those are two', 'start': 2083.119, 'duration': 3.52}
+{'text': 'different things', 'start': 2084.72, 'duration': 3.76}
+{'text': "like that's not a good idea", 'start': 2086.639, 'duration': 4.081}
+{'text': 'hey actually yes minecraft is good', 'start': 2088.48, 'duration': 3.679}
+{'text': 'follow it but then', 'start': 2090.72, 'duration': 2.879}
+{'text': 'in a different way yeah so the problem', 'start': 2092.159, 'duration': 3.041}
+{'text': 'is that like this is like so recent that', 'start': 2093.599, 'duration': 2.8}
+{'text': "it's easier to argue against but like if", 'start': 2095.2, 'duration': 3.04}
+{'text': 'we were to envision a world where we', 'start': 2096.399, 'duration': 3.68}
+{'text': 'were a thousand years removed from', 'start': 2098.24, 'duration': 4.0}
+{'text': 'hitler like we are from muhammad or uh', 'start': 2100.079, 'duration': 3.921}
+{'text': 'jesus or any other figure like that', 'start': 2102.24, 'duration': 3.2}
+{'text': 'right if we were to envision that future', 'start': 2104.0, 'duration': 3.52}
+{'text': 'world um and instead we had hitler', 'start': 2105.44, 'duration': 4.24}
+{'text': "instead and like let's say there were", 'start': 2107.52, 'duration': 3.44}
+{'text': 'how many muslims are there is it like', 'start': 2109.68, 'duration': 3.04}
+{'text': '2.1 billion', 'start': 2110.96, 'duration': 4.08}
+{'text': '1.8 1.8 billion muslims in the world', 'start': 2112.72, 'duration': 4.399}
+{'text': 'right if we went to a to a world where', 'start': 2115.04, 'duration': 4.0}
+{'text': 'there were 1.8 billion nazis maybe', 'start': 2117.119, 'duration': 2.881}
+{'text': 'instead of being like hitler was', 'start': 2119.04, 'duration': 2.24}
+{'text': '[\xa0__\xa0] all this [\xa0__\xa0] as well maybe it', 'start': 2120.0, 'duration': 2.48}
+{'text': 'would be better be like hey look like we', 'start': 2121.28, 'duration': 2.559}
+{'text': 'can have black nazis and we can have', 'start': 2122.48, 'duration': 2.56}
+{'text': 'whatever night like it sounds silly', 'start': 2123.839, 'duration': 2.481}
+{'text': 'obviously because because we have a', 'start': 2125.04, 'duration': 2.799}
+{'text': 'different context for hitler but that', 'start': 2126.32, 'duration': 2.88}
+{'text': 'might actually be the way to go rather', 'start': 2127.839, 'duration': 2.881}
+{'text': 'than you just tell people like blanket', 'start': 2129.2, 'duration': 2.96}
+{'text': "like no this was wrong or this didn't", 'start': 2130.72, 'duration': 2.72}
+{'text': 'work or whatever', 'start': 2132.16, 'duration': 2.959}
+{'text': 'yeah but the problem it is when if you', 'start': 2133.44, 'duration': 3.679}
+{'text': 'have a billion nazis that are actually', 'start': 2135.119, 'duration': 3.921}
+{'text': "not racist i can't believe i'm saying", 'start': 2137.119, 'duration': 3.761}
+{'text': 'this but if you have a billion nazis', 'start': 2139.04, 'duration': 3.2}
+{'text': 'that are actually not racist what', 'start': 2140.88, 'duration': 3.44}
+{'text': "they're doing is that they are now", 'start': 2142.24, 'duration': 5.68}
+{'text': 'making it much easier you for', 'start': 2144.32, 'duration': 6.16}
+{'text': 'more races to use', 'start': 2147.92, 'duration': 4.96}
+{'text': 'the authority that these high numbers of', 'start': 2150.48, 'duration': 5.92}
+{'text': 'nuts is given to nazi ideology you have', 'start': 2152.88, 'duration': 6.16}
+{'text': 'just right now where we have more like', 'start': 2156.4, 'duration': 4.56}
+{'text': "we don't have any nazi regimes right now", 'start': 2159.04, 'duration': 4.0}
+{'text': 'that uh right but we do have islamic', 'start': 2160.96, 'duration': 3.36}
+{'text': 'theocracies', 'start': 2163.04, 'duration': 2.4}
+{'text': 'because', 'start': 2164.32, 'duration': 4.4}
+{'text': 'because of the legitimacy and um the', 'start': 2165.44, 'duration': 5.52}
+{'text': 'authority that the quranic scripture has', 'start': 2168.72, 'duration': 4.0}
+{'text': 'so even if we lived in a world where', 'start': 2170.96, 'duration': 3.2}
+{'text': 'there were a billion nazis and they', 'start': 2172.72, 'duration': 3.92}
+{'text': "didn't actually believe the nazi values", 'start': 2174.16, 'duration': 4.32}
+{'text': 'they just were nominal nazis just like', 'start': 2176.64, 'duration': 5.199}
+{'text': 'most muslims are just nominal muslims', 'start': 2178.48, 'duration': 6.879}
+{'text': 'in that world it would be easier to have', 'start': 2181.839, 'duration': 6.24}
+{'text': 'nazi regimes that actually will use the', 'start': 2185.359, 'duration': 4.881}
+{'text': 'real meaning of the texts to oppress', 'start': 2188.079, 'duration': 4.241}
+{'text': "people sure like so uh is it isn't", 'start': 2190.24, 'duration': 3.119}
+{'text': 'jordan', 'start': 2192.32, 'duration': 2.799}
+{'text': "the country or jordan um isn't that", 'start': 2193.359, 'duration': 3.601}
+{'text': 'country like still like theocratic or', 'start': 2195.119, 'duration': 3.201}
+{'text': "like monarchy or whatever and that's", 'start': 2196.96, 'duration': 3.6}
+{'text': 'like monarchy not democratic', 'start': 2198.32, 'duration': 4.4}
+{'text': 'okay but i mean they respect islam and', 'start': 2200.56, 'duration': 4.16}
+{'text': 'all that [\xa0__\xa0] but fear theocratic', 'start': 2202.72, 'duration': 4.879}
+{'text': 'probably say saudi arabia and iran are', 'start': 2204.72, 'duration': 4.96}
+{'text': 'good examples for sure sure okay because', 'start': 2207.599, 'duration': 3.201}
+{'text': 'it feels like there are there are still', 'start': 2209.68, 'duration': 2.159}
+{'text': 'even there are some muslim majority', 'start': 2210.8, 'duration': 2.08}
+{'text': 'countries that are relatively', 'start': 2211.839, 'duration': 2.081}
+{'text': 'progressive for their values i think', 'start': 2212.88, 'duration': 2.4}
+{'text': 'jordan was technically one of the first', 'start': 2213.92, 'duration': 2.72}
+{'text': 'countries in the world to legalize gay', 'start': 2215.28, 'duration': 3.28}
+{'text': 'marriage although whether or not it was', 'start': 2216.64, 'duration': 2.959}
+{'text': 'acceptable', 'start': 2218.56, 'duration': 3.12}
+{'text': 'was it because of islam', 'start': 2219.599, 'duration': 3.281}
+{'text': "well no but that's this is what i'm", 'start': 2221.68, 'duration': 3.52}
+{'text': 'saying no thanks to islam i mean you', 'start': 2222.88, 'duration': 3.84}
+{'text': "want examples like that let's go to the", 'start': 2225.2, 'duration': 3.44}
+{'text': 'best uh the', 'start': 2226.72, 'duration': 3.44}
+{'text': 'time where muslims had it the best they', 'start': 2228.64, 'duration': 3.439}
+{'text': 'called the so-called golden age of islam', 'start': 2230.16, 'duration': 3.76}
+{'text': "i don't call it the golden age of islam", 'start': 2232.079, 'duration': 3.52}
+{'text': 'i call it the golden age of arabs and', 'start': 2233.92, 'duration': 3.6}
+{'text': 'persians because it had nothing to do', 'start': 2235.599, 'duration': 4.401}
+{'text': 'with islam right there is nothing in', 'start': 2237.52, 'duration': 5.599}
+{'text': 'islam that made that empire great it was', 'start': 2240.0, 'duration': 5.92}
+{'text': 'the if you look at for example every i i', 'start': 2243.119, 'duration': 4.48}
+{'text': "agree 100 it's because they're they're", 'start': 2245.92, 'duration': 3.36}
+{'text': "betraying those core values i've said", 'start': 2247.599, 'duration': 2.881}
+{'text': 'the same thing about christians forever', 'start': 2249.28, 'duration': 2.559}
+{'text': 'of course', 'start': 2250.48, 'duration': 2.639}
+{'text': "i guess it just it doesn't feel", 'start': 2251.839, 'duration': 2.321}
+{'text': 'effective', 'start': 2253.119, 'duration': 2.561}
+{'text': 'from a rhetorical point of view to tell', 'start': 2254.16, 'duration': 3.04}
+{'text': 'somebody like like how do you begin to', 'start': 2255.68, 'duration': 3.679}
+{'text': 'have a conversation then with um with', 'start': 2257.2, 'duration': 3.76}
+{'text': 'somebody that wants to be a moderate', 'start': 2259.359, 'duration': 3.201}
+{'text': 'muslim how do you have a conversation', 'start': 2260.96, 'duration': 3.52}
+{'text': 'with them to say like hey like this is', 'start': 2262.56, 'duration': 3.2}
+{'text': 'why you should embrace your moderate', 'start': 2264.48, 'duration': 2.879}
+{'text': 'values without it just sounding like', 'start': 2265.76, 'duration': 2.56}
+{'text': "you're telling me to become an atheist", 'start': 2267.359, 'duration': 2.0}
+{'text': "because i know that you're saying that's", 'start': 2268.32, 'duration': 1.92}
+{'text': "not what you're saying but that's what i", 'start': 2269.359, 'duration': 3.361}
+{'text': 'keep hearing i guess well this is okay', 'start': 2270.24, 'duration': 4.32}
+{'text': 'this is what i would say to muslim', 'start': 2272.72, 'duration': 4.24}
+{'text': "before before i talk to him there's", 'start': 2274.56, 'duration': 3.6}
+{'text': 'different kinds of muslims so i have to', 'start': 2276.96, 'duration': 2.72}
+{'text': 'know what kind of muslim idea but', 'start': 2278.16, 'duration': 3.36}
+{'text': 'usually like a western world like a', 'start': 2279.68, 'duration': 3.6}
+{'text': 'first generation immigrant muslim in', 'start': 2281.52, 'duration': 3.599}
+{'text': 'like america or or maybe a second', 'start': 2283.28, 'duration': 3.2}
+{'text': 'generation like their parents are', 'start': 2285.119, 'duration': 3.041}
+{'text': 'muslims and they came from a', 'start': 2286.48, 'duration': 3.52}
+{'text': 'country like iraq or something', 'start': 2288.16, 'duration': 3.36}
+{'text': 'right the first thing i would do is try', 'start': 2290.0, 'duration': 3.2}
+{'text': 'to get their guard down and', 'start': 2291.52, 'duration': 3.36}
+{'text': 'try to convince them before i even', 'start': 2293.2, 'duration': 3.28}
+{'text': 'attack islam i would try to convince', 'start': 2294.88, 'duration': 3.28}
+{'text': 'them why my attack on islam is not', 'start': 2296.48, 'duration': 2.96}
+{'text': 'anything', 'start': 2298.16, 'duration': 3.52}
+{'text': 'against muslims right and the way', 'start': 2299.44, 'duration': 4.0}
+{'text': 'so that would be the first step and the', 'start': 2301.68, 'duration': 4.0}
+{'text': 'way i would do that is by showing them', 'start': 2303.44, 'duration': 4.639}
+{'text': "how it's possible to be against atheism", 'start': 2305.68, 'duration': 5.04}
+{'text': 'without being anti-atheist i like i tell', 'start': 2308.079, 'duration': 5.441}
+{'text': 'them to imagine a muslim who really', 'start': 2310.72, 'duration': 4.96}
+{'text': 'wants to eradicate atheism she hates', 'start': 2313.52, 'duration': 4.64}
+{'text': 'atheism and she has made her life', 'start': 2315.68, 'duration': 4.72}
+{'text': 'mission to end atheism and they usually', 'start': 2318.16, 'duration': 3.6}
+{'text': "start interrupting her like oh i don't", 'start': 2320.4, 'duration': 2.48}
+{'text': "want to end these they're like i'm not", 'start': 2321.76, 'duration': 2.56}
+{'text': "talking about you i'm talking imagine a", 'start': 2322.88, 'duration': 3.52}
+{'text': 'muslim that wants to do that and the', 'start': 2324.32, 'duration': 3.36}
+{'text': 'reason why she wants to do that is', 'start': 2326.4, 'duration': 3.439}
+{'text': 'because she really loves atheists and', 'start': 2327.68, 'duration': 3.84}
+{'text': "she's worried for them she doesn't want", 'start': 2329.839, 'duration': 3.841}
+{'text': "them to burn in hell and she's worried", 'start': 2331.52, 'duration': 4.079}
+{'text': "for their soul and the reason why she's", 'start': 2333.68, 'duration': 4.24}
+{'text': 'against atheism is because for their', 'start': 2335.599, 'duration': 4.641}
+{'text': 'sake right so do you see how somebody', 'start': 2337.92, 'duration': 4.96}
+{'text': 'could be very much against atheism but', 'start': 2340.24, 'duration': 5.2}
+{'text': 'not for not against atheists in fact', 'start': 2342.88, 'duration': 4.479}
+{'text': "she's doing she's anti-atheism because", 'start': 2345.44, 'duration': 3.919}
+{'text': 'she cares for atheists and usually that', 'start': 2347.359, 'duration': 3.441}
+{'text': 'gets their guard down to see like okay', 'start': 2349.359, 'duration': 3.281}
+{'text': "it's possible to be against an ideology", 'start': 2350.8, 'duration': 3.36}
+{'text': 'without being against the people so that', 'start': 2352.64, 'duration': 3.76}
+{'text': 'would be my first step right the second', 'start': 2354.16, 'duration': 4.0}
+{'text': 'step is like it would be to tell them', 'start': 2356.4, 'duration': 4.0}
+{'text': "like by the way i don't think i", 'start': 2358.16, 'duration': 4.72}
+{'text': "i'm i'm not 100 about", 'start': 2360.4, 'duration': 4.64}
+{'text': 'certain about my position i just think', 'start': 2362.88, 'duration': 4.32}
+{'text': 'islam is dangerous but i could be', 'start': 2365.04, 'duration': 3.44}
+{'text': 'completely wrong', 'start': 2367.2, 'duration': 2.8}
+{'text': "and if i'm wrong i hope you could", 'start': 2368.48, 'duration': 4.08}
+{'text': 'correct me i hope you could convince me', 'start': 2370.0, 'duration': 4.24}
+{'text': 'that i hope you could convince me', 'start': 2372.56, 'duration': 3.2}
+{'text': "because i don't want to burn in hell so", 'start': 2374.24, 'duration': 3.599}
+{'text': "i hope that if you are right and i'm", 'start': 2375.76, 'duration': 4.48}
+{'text': "wrong you managed to like uh i'm hoping", 'start': 2377.839, 'duration': 4.721}
+{'text': 'so and i also try to get them to admit', 'start': 2380.24, 'duration': 4.64}
+{'text': 'and this is usually when you hit a', 'start': 2382.56, 'duration': 3.68}
+{'text': 'higher failure rate usually you could', 'start': 2384.88, 'duration': 3.36}
+{'text': 'get them to this part that to convince', 'start': 2386.24, 'duration': 3.2}
+{'text': 'them that there is a chance that they', 'start': 2388.24, 'duration': 3.2}
+{'text': 'could be wrong right i always tell them', 'start': 2389.44, 'duration': 3.28}
+{'text': 'like okay so', 'start': 2391.44, 'duration': 3.2}
+{'text': 'do you believe that', 'start': 2392.72, 'duration': 3.76}
+{'text': 'are you like do you have god-like', 'start': 2394.64, 'duration': 3.28}
+{'text': "knowledge like you're not god so you", 'start': 2396.48, 'duration': 3.119}
+{'text': "can't know everything and given that you", 'start': 2397.92, 'duration': 3.679}
+{'text': 'agree that you have a faulty', 'start': 2399.599, 'duration': 4.321}
+{'text': 'logic like everybody other than the god', 'start': 2401.599, 'duration': 4.881}
+{'text': 'that you believe in could make mistakes', 'start': 2403.92, 'duration': 3.6}
+{'text': 'and', 'start': 2406.48, 'duration': 3.359}
+{'text': 'given that you are capable of making', 'start': 2407.52, 'duration': 4.72}
+{'text': 'mistakes are you able to say that you', 'start': 2409.839, 'duration': 4.161}
+{'text': 'hold any position one hundred percent', 'start': 2412.24, 'duration': 3.28}
+{'text': 'like this is how i try to get them to', 'start': 2414.0, 'duration': 3.359}
+{'text': "become a admit that there's a chance", 'start': 2415.52, 'duration': 3.52}
+{'text': 'that they could be wrong usually they', 'start': 2417.359, 'duration': 3.681}
+{'text': 'say like no i could be wrong about other', 'start': 2419.04, 'duration': 3.6}
+{'text': "things but with islam there's no way", 'start': 2421.04, 'duration': 3.52}
+{'text': "that i'm wrong but this is how i started", 'start': 2422.64, 'duration': 3.92}
+{'text': "conversation right here's another here's", 'start': 2424.56, 'duration': 4.799}
+{'text': "a nice baby step even if i can't", 'start': 2426.56, 'duration': 4.799}
+{'text': 'by the way i do get a lot of success on', 'start': 2429.359, 'duration': 3.361}
+{'text': 'this like a lot of people become more', 'start': 2431.359, 'duration': 3.121}
+{'text': 'skeptical about their positions using', 'start': 2432.72, 'duration': 4.8}
+{'text': 'this but even with people that go from', 'start': 2434.48, 'duration': 5.68}
+{'text': 'being 100 sure up that islam is true to', 'start': 2437.52, 'duration': 5.36}
+{'text': 'remaining 100 sure that islam is true', 'start': 2440.16, 'duration': 5.04}
+{'text': 'part of the purpose of this conversation', 'start': 2442.88, 'duration': 4.719}
+{'text': 'is to get them to okay yeah islam is', 'start': 2445.2, 'duration': 5.84}
+{'text': 'true and atheists are ridiculous and', 'start': 2447.599, 'duration': 7.041}
+{'text': "to okay no it's not a 100 true but i see", 'start': 2451.04, 'duration': 6.16}
+{'text': 'why somebody would be an atheist right', 'start': 2454.64, 'duration': 4.719}
+{'text': "that's that's a huge win in my book", 'start': 2457.2, 'duration': 4.08}
+{'text': 'because that will require that that', 'start': 2459.359, 'duration': 5.281}
+{'text': 'position will encourage more tolerance', 'start': 2461.28, 'duration': 4.88}
+{'text': 'so i could be wrong but like so earlier', 'start': 2464.64, 'duration': 3.28}
+{'text': 'you were mentioning how like the only', 'start': 2466.16, 'duration': 3.36}
+{'text': 'moderate muslims are the muslims that', 'start': 2467.92, 'duration': 2.96}
+{'text': 'would have been open to hearing like', 'start': 2469.52, 'duration': 4.4}
+{'text': 'moderate arguments anyways um no', 'start': 2470.88, 'duration': 4.88}
+{'text': 'did i say that yeah well you kind of', 'start': 2473.92, 'duration': 3.28}
+{'text': 'said that like if you find a muslim and', 'start': 2475.76, 'duration': 2.559}
+{'text': "you're able to convince them that like", 'start': 2477.2, 'duration': 2.72}
+{'text': 'well maybe beating your wife or whatever', 'start': 2478.319, 'duration': 3.28}
+{'text': "is wrong whatever um they're not", 'start': 2479.92, 'duration': 3.28}
+{'text': "believing that that's wrong because of", 'start': 2481.599, 'duration': 2.72}
+{'text': "islam they're doing it because they", 'start': 2483.2, 'duration': 2.56}
+{'text': 'already would have had like some kind of', 'start': 2484.319, 'duration': 3.52}
+{'text': 'moderate beliefs right', 'start': 2485.76, 'duration': 4.64}
+{'text': 'yeah yeah but what i did either because', 'start': 2487.839, 'duration': 3.921}
+{'text': 'of their own sense of kindness yeah', 'start': 2490.4, 'duration': 2.959}
+{'text': "exactly yeah for some reason that's not", 'start': 2491.76, 'duration': 3.12}
+{'text': 'necessarily yeah i mean like when you', 'start': 2493.359, 'duration': 3.281}
+{'text': 'talk if you can get a muslim to admit', 'start': 2494.88, 'duration': 3.68}
+{'text': 'that they might be wrong about the quran', 'start': 2496.64, 'duration': 3.76}
+{'text': "that's like 99 of the battle already", 'start': 2498.56, 'duration': 4.0}
+{'text': 'right the big deal about like', 'start': 2500.4, 'duration': 4.719}
+{'text': "yes and guess what it doesn't require me", 'start': 2502.56, 'duration': 4.32}
+{'text': 'lying about anything well yeah but i', 'start': 2505.119, 'duration': 4.161}
+{'text': "feel like most muslims if they're well", 'start': 2506.88, 'duration': 4.719}
+{'text': 'most like theocratic religious ones like', 'start': 2509.28, 'duration': 3.52}
+{'text': "what we're talking about are never going", 'start': 2511.599, 'duration': 3.601}
+{'text': 'to admit that the the quran is literally', 'start': 2512.8, 'duration': 4.559}
+{'text': 'like the text from god right more so', 'start': 2515.2, 'duration': 4.72}
+{'text': 'even than the christian scripture', 'start': 2517.359, 'duration': 4.72}
+{'text': 'right but we have had success with this', 'start': 2519.92, 'duration': 3.76}
+{'text': 'a lot of success with this yeah but you', 'start': 2522.079, 'duration': 2.881}
+{'text': "don't think maybe the success that you", 'start': 2523.68, 'duration': 2.639}
+{'text': 'have with that is literally just people', 'start': 2524.96, 'duration': 2.879}
+{'text': 'that were already basically on on the', 'start': 2526.319, 'duration': 3.76}
+{'text': 'road to being skeptical like because how', 'start': 2527.839, 'duration': 3.201}
+{'text': 'would you respond to somebody that says', 'start': 2530.079, 'duration': 2.561}
+{'text': 'like the quran is the holy word of god', 'start': 2531.04, 'duration': 3.279}
+{'text': 'not written like loser christians think', 'start': 2532.64, 'duration': 3.439}
+{'text': 'but actually like transcribed by god', 'start': 2534.319, 'duration': 3.601}
+{'text': 'himself how do you convince those people', 'start': 2536.079, 'duration': 3.52}
+{'text': 'that like', 'start': 2537.92, 'duration': 3.04}
+{'text': "that they could be wrong but here's", 'start': 2539.599, 'duration': 3.281}
+{'text': "that's why i also mentioned that even a", 'start': 2540.96, 'duration': 4.8}
+{'text': 'smaller baby step than skepticism is to', 'start': 2542.88, 'duration': 4.08}
+{'text': 'see why', 'start': 2545.76, 'duration': 3.2}
+{'text': 'somebody some deluded people might be', 'start': 2546.96, 'duration': 4.0}
+{'text': 'atheists just to tolerate our position', 'start': 2548.96, 'duration': 5.04}
+{'text': "that's also a win but but these i", 'start': 2550.96, 'duration': 4.8}
+{'text': "i can tell you like what i'm telling you", 'start': 2554.0, 'duration': 4.48}
+{'text': "is not just like if you're theoretic we", 'start': 2555.76, 'duration': 4.64}
+{'text': 'the number of people that are abandoning', 'start': 2558.48, 'duration': 4.639}
+{'text': 'islam or questioning islam is way way', 'start': 2560.4, 'duration': 4.719}
+{'text': 'way higher than what the reform movement', 'start': 2563.119, 'duration': 4.161}
+{'text': 'has anything to show for like the number', 'start': 2565.119, 'duration': 5.121}
+{'text': "of i haven't i i can't count enough", 'start': 2567.28, 'duration': 4.88}
+{'text': "the number of people on one hand i can't", 'start': 2570.24, 'duration': 3.76}
+{'text': 'count the number of people that say like', 'start': 2572.16, 'duration': 4.24}
+{'text': 'oh i was a radical and i was convinced', 'start': 2574.0, 'duration': 5.28}
+{'text': "by reform arguments that i shouldn't be", 'start': 2576.4, 'duration': 4.0}
+{'text': 'radical', 'start': 2579.28, 'duration': 3.039}
+{'text': 'i feel like in entire countries though', 'start': 2580.4, 'duration': 4.08}
+{'text': 'that are kind of sort of like moderating', 'start': 2582.319, 'duration': 4.321}
+{'text': 'over time like tunisia or turkey like', 'start': 2584.48, 'duration': 3.359}
+{'text': "aren't these countries still have a lot", 'start': 2586.64, 'duration': 2.64}
+{'text': "of muslims in there but they're like", 'start': 2587.839, 'duration': 3.28}
+{'text': 'their values over time have become a lot', 'start': 2589.28, 'duration': 4.24}
+{'text': 'more modernist but not because of islam', 'start': 2591.119, 'duration': 4.081}
+{'text': "that's what i'm saying", 'start': 2593.52, 'duration': 4.319}
+{'text': 'what the reform movement has to show', 'start': 2595.2, 'duration': 5.2}
+{'text': 'is not the radicals that have become', 'start': 2597.839, 'duration': 4.48}
+{'text': 'progressive because of competing or', 'start': 2600.4, 'duration': 4.24}
+{'text': 'better ideas what the reform movement', 'start': 2602.319, 'duration': 4.401}
+{'text': 'has to show is muslims who are lived', 'start': 2604.64, 'duration': 4.959}
+{'text': 'liberal because of reform arguments', 'start': 2606.72, 'duration': 4.8}
+{'text': 'reform arguments do not work and they', 'start': 2609.599, 'duration': 4.401}
+{'text': "don't make sense because they are they", 'start': 2611.52, 'duration': 5.52}
+{'text': 'involve lying to people and i mean', 'start': 2614.0, 'duration': 4.56}
+{'text': 'muslims are', 'start': 2617.04, 'duration': 4.559}
+{'text': 'are not idiots to be fair to muslim they', 'start': 2618.56, 'duration': 4.88}
+{'text': 'can tell like if they actually go open', 'start': 2621.599, 'duration': 4.161}
+{'text': 'their book and read it which i want them', 'start': 2623.44, 'duration': 4.08}
+{'text': "to do there's new studies that actually", 'start': 2625.76, 'duration': 3.12}
+{'text': 'shows that more people who read the', 'start': 2627.52, 'duration': 3.599}
+{'text': 'quran question their religion even more', 'start': 2628.88, 'duration': 4.4}
+{'text': 'right so', 'start': 2631.119, 'duration': 4.561}
+{'text': 'you know the idea that actually you know', 'start': 2633.28, 'duration': 3.839}
+{'text': "here's the thing the reform movement", 'start': 2635.68, 'duration': 3.76}
+{'text': 'actually helps people stop questioning', 'start': 2637.119, 'duration': 3.681}
+{'text': 'you just put them in a comfortable', 'start': 2639.44, 'duration': 3.44}
+{'text': 'position you had some discomfort and', 'start': 2640.8, 'duration': 4.0}
+{'text': 'that discomfort was so valuable because', 'start': 2642.88, 'duration': 3.36}
+{'text': 'now they might have gone done some', 'start': 2644.8, 'duration': 4.0}
+{'text': 'research and investigate investigations', 'start': 2646.24, 'duration': 4.079}
+{'text': 'that come up to come up with the truth', 'start': 2648.8, 'duration': 3.68}
+{'text': "but you're just like i know stop stop", 'start': 2650.319, 'duration': 3.841}
+{'text': 'let me just put you at ease be', 'start': 2652.48, 'duration': 3.92}
+{'text': 'comfortable islam is okay with all of', 'start': 2654.16, 'duration': 4.159}
+{'text': 'this and go live by your life and you', 'start': 2656.4, 'duration': 3.6}
+{'text': "don't need to think about it anymore i'm", 'start': 2658.319, 'duration': 3.201}
+{'text': "saying that's that was such a missed", 'start': 2660.0, 'duration': 2.56}
+{'text': 'opportunity', 'start': 2661.52, 'duration': 3.28}
+{'text': "right that's what the reform arguments", 'start': 2662.56, 'duration': 4.799}
+{'text': "don't actually work in making people", 'start': 2664.8, 'duration': 4.96}
+{'text': "think about anything it's actually a", 'start': 2667.359, 'duration': 4.561}
+{'text': 'movement that helps people stop thinking', 'start': 2669.76, 'duration': 5.079}
+{'text': 'rather than challenging hey am i', 'start': 2671.92, 'duration': 5.439}
+{'text': 'here gotcha okay i mean i i understand', 'start': 2674.839, 'duration': 4.921}
+{'text': "what you're saying sure oh did i get cut", 'start': 2677.359, 'duration': 4.081}
+{'text': 'off no i hear you i hear you right here', 'start': 2679.76, 'duration': 4.079}
+{'text': 'all right all right', 'start': 2681.44, 'duration': 4.159}
+{'text': 'i mean we have i mean you mentioned', 'start': 2683.839, 'duration': 4.0}
+{'text': 'tunisia tunisia is a great example', 'start': 2685.599, 'duration': 4.801}
+{'text': 'tunisia is a great example tunisia', 'start': 2687.839, 'duration': 4.801}
+{'text': 'look at all the secular activists and', 'start': 2690.4, 'duration': 4.959}
+{'text': 'atheist activists or', 'start': 2692.64, 'duration': 4.88}
+{'text': 'feminist activists and', 'start': 2695.359, 'duration': 4.401}
+{'text': 'um all the people that are working there', 'start': 2697.52, 'duration': 4.24}
+{'text': 'and challenging the theocrats there and', 'start': 2699.76, 'duration': 4.24}
+{'text': "the islamists there they're", 'start': 2701.76, 'duration': 3.839}
+{'text': "they these activists in tunisia they're", 'start': 2704.0, 'duration': 3.28}
+{'text': "not they're not", 'start': 2705.599, 'duration': 2.561}
+{'text': 'you know', 'start': 2707.28, 'duration': 3.12}
+{'text': 'using the quran right', 'start': 2708.16, 'duration': 4.0}
+{'text': 'look at why is tunisia different than', 'start': 2710.4, 'duration': 4.08}
+{'text': 'islam than ben sorry then iran and saudi', 'start': 2712.16, 'duration': 4.48}
+{'text': "arabia it's not because of their reform", 'start': 2714.48, 'duration': 5.119}
+{'text': 'movement they have been influenced by', 'start': 2716.64, 'duration': 5.04}
+{'text': 'by other sources of influence by better', 'start': 2719.599, 'duration': 3.76}
+{'text': 'literature by better', 'start': 2721.68, 'duration': 4.48}
+{'text': 'philosophy', 'start': 2723.359, 'duration': 2.801}
+{'text': "we're not connecting at this point we're", 'start': 2727.2, 'duration': 2.72}
+{'text': 'just missing it because like even so in', 'start': 2728.4, 'duration': 4.24}
+{'text': 'like tunisia like like 99 of the people', 'start': 2729.92, 'duration': 4.08}
+{'text': 'there are muslim and like the government', 'start': 2732.64, 'duration': 3.679}
+{'text': 'itself like serves as like the protector', 'start': 2734.0, 'duration': 3.76}
+{'text': 'of islam like you have to be muslim to', 'start': 2736.319, 'duration': 3.76}
+{'text': 'be like like a president in tunisia like', 'start': 2737.76, 'duration': 3.599}
+{'text': "it seems like that's the best secret", 'start': 2740.079, 'duration': 3.681}
+{'text': 'hope for i guess tunisia is like even in', 'start': 2741.359, 'duration': 5.121}
+{'text': 'ambassador this is how bad islam is that', 'start': 2743.76, 'duration': 4.4}
+{'text': 'even in the most', 'start': 2746.48, 'duration': 4.48}
+{'text': 'liberal islamic countries you still have', 'start': 2748.16, 'duration': 5.199}
+{'text': 'um such anti-secular governments like', 'start': 2750.96, 'duration': 3.76}
+{'text': 'that', 'start': 2753.359, 'duration': 3.681}
+{'text': "right i mean if you look at here's here", 'start': 2754.72, 'duration': 4.8}
+{'text': 'let me give you two examples right you', 'start': 2757.04, 'duration': 4.16}
+{'text': "you look you're talking about tunisia", 'start': 2759.52, 'duration': 2.96}
+{'text': 'but', 'start': 2761.2, 'duration': 4.08}
+{'text': 'think of uh iran and turkey in turkey', 'start': 2762.48, 'duration': 6.08}
+{'text': 'during ataturk and iran during raza shah', 'start': 2765.28, 'duration': 5.039}
+{'text': 'i mean iran during raza shah did you', 'start': 2768.56, 'duration': 4.559}
+{'text': 'know like iran during time before the', 'start': 2770.319, 'duration': 4.081}
+{'text': 'islamic revolution', 'start': 2773.119, 'duration': 3.841}
+{'text': 'it was illegal for people to wear the', 'start': 2774.4, 'duration': 4.0}
+{'text': 'hijab in public', 'start': 2776.96, 'duration': 3.84}
+{'text': 'so iran went for iran went from the only', 'start': 2778.4, 'duration': 4.32}
+{'text': "country and i i don't endorse this i'm", 'start': 2780.8, 'duration': 3.519}
+{'text': "against this by the way but i'm just", 'start': 2782.72, 'duration': 3.92}
+{'text': 'telling you how anti-islamic iran was', 'start': 2784.319, 'duration': 5.28}
+{'text': 'iran went from the only country in the', 'start': 2786.64, 'duration': 3.84}
+{'text': 'world', 'start': 2789.599, 'duration': 3.921}
+{'text': 'where hijab was illegal in public', 'start': 2790.48, 'duration': 5.599}
+{'text': 'to now the only country in the world', 'start': 2793.52, 'duration': 5.04}
+{'text': 'where hijab is mandatory for everyone in', 'start': 2796.079, 'duration': 5.361}
+{'text': 'public including non-muslims and fire', 'start': 2798.56, 'duration': 6.64}
+{'text': "that's a huge shift right but", 'start': 2801.44, 'duration': 6.0}
+{'text': 'and nobody during auto turks or israel', 'start': 2805.2, 'duration': 4.72}
+{'text': 'at times could predict that', 'start': 2807.44, 'duration': 4.399}
+{'text': 'this these countries will become so as', 'start': 2809.92, 'duration': 3.76}
+{'text': 'islamic as they are today especially', 'start': 2811.839, 'duration': 3.52}
+{'text': 'with iran', 'start': 2813.68, 'duration': 4.48}
+{'text': 'the thing is that when you have a shitty', 'start': 2815.359, 'duration': 5.121}
+{'text': "ideology that you're defeating it and", 'start': 2818.16, 'duration': 4.24}
+{'text': "it's take it's now", 'start': 2820.48, 'duration': 4.0}
+{'text': "in the corner and it's and it's on its", 'start': 2822.4, 'duration': 4.8}
+{'text': 'back and if it will put on a mask it', 'start': 2824.48, 'duration': 4.72}
+{'text': "will put on a mask to look like it's not", 'start': 2827.2, 'duration': 4.32}
+{'text': "harmful because it's about to be", 'start': 2829.2, 'duration': 5.6}
+{'text': 'defeated and when it puts on a mask and', 'start': 2831.52, 'duration': 4.72}
+{'text': 'you know and this is not because people', 'start': 2834.8, 'duration': 3.68}
+{'text': 'in a room are coming up because you know', 'start': 2836.24, 'duration': 4.879}
+{'text': 'uh conspiracies on how to survive this', 'start': 2838.48, 'duration': 5.04}
+{'text': 'is just how the memes survive it will', 'start': 2841.119, 'duration': 4.881}
+{'text': 'just changes the way it looks so that', 'start': 2843.52, 'duration': 4.799}
+{'text': 'you where you you have the beast you', 'start': 2846.0, 'duration': 4.64}
+{'text': 'have the sword and you have your foot on', 'start': 2848.319, 'duration': 4.24}
+{'text': 'his throat and all of a sudden it goes', 'start': 2850.64, 'duration': 3.679}
+{'text': 'from looking like a beast to like a', 'start': 2852.559, 'duration': 4.56}
+{'text': 'little cute puppy and you step away but', 'start': 2854.319, 'duration': 4.081}
+{'text': 'no witness', 'start': 2857.119, 'duration': 2.801}
+{'text': "when it's", 'start': 2858.4, 'duration': 3.28}
+{'text': "that's the point where you actually put", 'start': 2859.92, 'duration': 4.0}
+{'text': 'the sword in his head and ended in the', 'start': 2861.68, 'duration': 4.879}
+{'text': "job that's not when you go back because", 'start': 2863.92, 'duration': 5.04}
+{'text': 'guess what look at iran today look at', 'start': 2866.559, 'duration': 5.361}
+{'text': "turkey today you don't let shitty ideas", 'start': 2868.96, 'duration': 5.84}
+{'text': "survive when they're harmless shitty", 'start': 2871.92, 'duration': 5.919}
+{'text': 'ideas lies things that are not based on', 'start': 2874.8, 'duration': 5.039}
+{'text': 'evidence things that are based on faith', 'start': 2877.839, 'duration': 3.52}
+{'text': 'and revelation', 'start': 2879.839, 'duration': 4.0}
+{'text': 'you go after them you fight for the', 'start': 2881.359, 'duration': 3.48}
+{'text': 'truth', 'start': 2883.839, 'duration': 3.681}
+{'text': 'always not when it comes and bites in', 'start': 2884.839, 'duration': 5.321}
+{'text': 'the ass because if you just let them', 'start': 2887.52, 'duration': 6.079}
+{'text': 'fester they will eventually be harmful', 'start': 2890.16, 'duration': 5.199}
+{'text': "this is a very simple i'm not making an", 'start': 2893.599, 'duration': 4.161}
+{'text': "extraordinary claim i'm claiming that if", 'start': 2895.359, 'duration': 5.921}
+{'text': 'you fight for the truth always', 'start': 2897.76, 'duration': 5.52}
+{'text': 'in the long run', 'start': 2901.28, 'duration': 4.799}
+{'text': "you're gonna see benefits if you if you", 'start': 2903.28, 'duration': 5.52}
+{'text': 'just promote lies that may seem like a', 'start': 2906.079, 'duration': 5.121}
+{'text': 'good idea in the short time in the short', 'start': 2908.8, 'duration': 3.759}
+{'text': "time you're gonna see a good return on", 'start': 2911.2, 'duration': 3.68}
+{'text': 'your investment but in the long run', 'start': 2912.559, 'duration': 4.081}
+{'text': "that's a bad strategy", 'start': 2914.88, 'duration': 4.64}
+{'text': "it's always a good was often a better um", 'start': 2916.64, 'duration': 5.36}
+{'text': "i never i don't want to say always it's", 'start': 2919.52, 'duration': 4.4}
+{'text': "it's usually a better idea to be on the", 'start': 2922.0, 'duration': 4.16}
+{'text': 'side of the truth sure', 'start': 2923.92, 'duration': 4.72}
+{'text': 'yeah regardless of the', 'start': 2926.16, 'duration': 4.72}
+{'text': "how harmful it is that's why i would be", 'start': 2928.64, 'duration': 4.719}
+{'text': 'as aggressively against parmesan as i am', 'start': 2930.88, 'duration': 4.16}
+{'text': 'against islam', 'start': 2933.359, 'duration': 4.72}
+{'text': 'aggressive aggressively against what oh', 'start': 2935.04, 'duration': 5.6}
+{'text': 'zodiac signs like i will just i will be', 'start': 2938.079, 'duration': 4.721}
+{'text': "against those as well i don't wait i", 'start': 2940.64, 'duration': 4.08}
+{'text': "don't you know if if", 'start': 2942.8, 'duration': 4.08}
+{'text': 'you know you the filter that you have to', 'start': 2944.72, 'duration': 3.92}
+{'text': 'introduce to people is to the filter', 'start': 2946.88, 'duration': 3.439}
+{'text': 'that you have for them to recognize what', 'start': 2948.64, 'duration': 3.28}
+{'text': 'is [\xa0__\xa0] and what is not [\xa0__\xa0]', 'start': 2950.319, 'duration': 4.0}
+{'text': 'right if you remove that filter and', 'start': 2951.92, 'duration': 4.48}
+{'text': "we're like after they pass that gate", 'start': 2954.319, 'duration': 4.24}
+{'text': "once you open that gate you don't really", 'start': 2956.4, 'duration': 4.08}
+{'text': 'have that much control over where people', 'start': 2958.559, 'duration': 4.481}
+{'text': 'land if most people land on', 'start': 2960.48, 'duration': 4.079}
+{'text': 'you know', 'start': 2963.04, 'duration': 3.92}
+{'text': "progressive or good ideas it's because", 'start': 2964.559, 'duration': 4.081}
+{'text': 'of their own sense of sympathy or other', 'start': 2966.96, 'duration': 4.56}
+{'text': "sorts of you know ideas it's not because", 'start': 2968.64, 'duration': 4.56}
+{'text': "it's not because you actually managed to", 'start': 2971.52, 'duration': 4.0}
+{'text': "you know if you don't give people better", 'start': 2973.2, 'duration': 4.32}
+{'text': '[\xa0__\xa0] radars', 'start': 2975.52, 'duration': 4.48}
+{'text': 'you have lost them already you know you', 'start': 2977.52, 'duration': 3.76}
+{'text': 'you you know', 'start': 2980.0, 'duration': 4.96}
+{'text': 'if you let these bad ideas just', 'start': 2981.28, 'duration': 5.12}
+{'text': 'uh people you know when people are', 'start': 2984.96, 'duration': 3.28}
+{'text': "gullible and if you you're like oh my", 'start': 2986.4, 'duration': 2.959}
+{'text': "god these people are gullible they're", 'start': 2988.24, 'duration': 2.96}
+{'text': "beyond hope let's just give them some", 'start': 2989.359, 'duration': 4.081}
+{'text': 'shitty ideas that would be less harm', 'start': 2991.2, 'duration': 4.24}
+{'text': 'harmful to us these are people', 'start': 2993.44, 'duration': 3.919}
+{'text': 'gullibility can is not something that', 'start': 2995.44, 'duration': 3.04}
+{'text': 'people are', 'start': 2997.359, 'duration': 2.321}
+{'text': "it's not like something that they're", 'start': 2998.48, 'duration': 2.72}
+{'text': 'born with and it will always be like', 'start': 2999.68, 'duration': 2.8}
+{'text': 'that this is something that could be', 'start': 3001.2, 'duration': 2.399}
+{'text': 'challenged', 'start': 3002.48, 'duration': 2.079}
+{'text': 'you know', 'start': 3003.599, 'duration': 2.401}
+{'text': "and you don't have to completely make", 'start': 3004.559, 'duration': 2.481}
+{'text': 'people', 'start': 3006.0, 'duration': 2.48}
+{'text': 'not gullible you can make them less', 'start': 3007.04, 'duration': 4.079}
+{'text': 'gullible i mean for their sake even if', 'start': 3008.48, 'duration': 4.4}
+{'text': "it's not for your sake", 'start': 3011.119, 'duration': 2.561}
+{'text': 'you know', 'start': 3012.88, 'duration': 2.4}
+{'text': "somebody who's gullible is somebody that", 'start': 3013.68, 'duration': 3.04}
+{'text': 'could be taken advantage of somebody', 'start': 3015.28, 'duration': 2.88}
+{'text': 'that could be con somebody that could be', 'start': 3016.72, 'duration': 3.359}
+{'text': 'convinced that they need to give away 10', 'start': 3018.16, 'duration': 3.6}
+{'text': 'of their income somebody that could be', 'start': 3020.079, 'duration': 4.081}
+{'text': 'convinced to vote for somebody that is', 'start': 3021.76, 'duration': 3.76}
+{'text': 'that is not in their best interest', 'start': 3024.16, 'duration': 3.52}
+{'text': 'somebody that could be recruited to', 'start': 3025.52, 'duration': 5.12}
+{'text': "participate in someone's war um somebody", 'start': 3027.68, 'duration': 4.56}
+{'text': 'could they could might', 'start': 3030.64, 'duration': 3.76}
+{'text': 'elect a politician that bans vaccines', 'start': 3032.24, 'duration': 4.079}
+{'text': 'because they cause autism or whatever', 'start': 3034.4, 'duration': 3.36}
+{'text': 'right so', 'start': 3036.319, 'duration': 4.721}
+{'text': 'yeah i mean even people like islam even', 'start': 3037.76, 'duration': 5.2}
+{'text': "if they it's not just the suicide", 'start': 3041.04, 'duration': 4.48}
+{'text': "bombings or the wars it's like it's a", 'start': 3042.96, 'duration': 4.399}
+{'text': 'dad that is going to a mosque instead of', 'start': 3045.52, 'duration': 4.079}
+{'text': 'spending time with his daughter right', 'start': 3047.359, 'duration': 4.561}
+{'text': "it's the government that all of a sudden", 'start': 3049.599, 'duration': 4.321}
+{'text': 'decides to ban interest rate because', 'start': 3051.92, 'duration': 4.159}
+{'text': "they're on islamic did you know is", 'start': 3053.92, 'duration': 4.08}
+{'text': 'religion [\xa0__\xa0] with our lives in much', 'start': 3056.079, 'duration': 4.561}
+{'text': "more much much more ways than it's just", 'start': 3058.0, 'duration': 5.44}
+{'text': 'like a suicide bomber here or there it', 'start': 3060.64, 'duration': 5.679}
+{'text': "it's the more people have i i agree with", 'start': 3063.44, 'duration': 4.08}
+{'text': "all of this i'm an atheist right of", 'start': 3066.319, 'duration': 3.04}
+{'text': 'course i i think that yeah yeah as soon', 'start': 3067.52, 'duration': 3.2}
+{'text': "as you're successful i just thought you", 'start': 3069.359, 'duration': 2.48}
+{'text': "yeah i don't know i know you're an", 'start': 3070.72, 'duration': 2.8}
+{'text': "atheist i know you're an atheist but i'm", 'start': 3071.839, 'duration': 3.28}
+{'text': 'just saying like', 'start': 3073.52, 'duration': 3.92}
+{'text': "we shouldn't treat people like okay i'm", 'start': 3075.119, 'duration': 5.761}
+{'text': "an atheist i know what's right but you", 'start': 3077.44, 'duration': 7.76}
+{'text': 'idiots you cannot be convinced of this', 'start': 3080.88, 'duration': 7.439}
+{'text': 'so i might as well just give you some', 'start': 3085.2, 'duration': 4.8}
+{'text': 'you know fairy tale that makes you go', 'start': 3088.319, 'duration': 3.52}
+{'text': 'sit in the corner and leave me alone i', 'start': 3090.0, 'duration': 3.119}
+{'text': "just don't think that's the right", 'start': 3091.839, 'duration': 2.801}
+{'text': 'attitude', 'start': 3093.119, 'duration': 3.761}
+{'text': 'okay anyways', 'start': 3094.64, 'duration': 3.84}
+{'text': "sorry i went for too long no yeah that's", 'start': 3096.88, 'duration': 2.959}
+{'text': 'fine i mean i guess yeah i guess i kind', 'start': 3098.48, 'duration': 3.44}
+{'text': "of i broadly understand i guess i'd be", 'start': 3099.839, 'duration': 3.921}
+{'text': 'curious to see like what i guess what', 'start': 3101.92, 'duration': 3.52}
+{'text': 'ends up being more effective in the long', 'start': 3103.76, 'duration': 3.92}
+{'text': "term i guess we'll see um how things", 'start': 3105.44, 'duration': 3.919}
+{'text': 'play out around the world but we have', 'start': 3107.68, 'duration': 4.32}
+{'text': 'the historical numbers to back us up and', 'start': 3109.359, 'duration': 4.24}
+{'text': 'we also have the current numbers to show', 'start': 3112.0, 'duration': 3.44}
+{'text': "our method is working better like i'm", 'start': 3113.599, 'duration': 4.641}
+{'text': 'not just coming up with theories sure', 'start': 3115.44, 'duration': 5.2}
+{'text': 'i will put my numbers next to any muslim', 'start': 3118.24, 'duration': 4.64}
+{'text': 'reformers any day', 'start': 3120.64, 'duration': 3.199}
+{'text': 'yeah', 'start': 3122.88, 'duration': 2.719}
+{'text': 'all right um what was the other what was', 'start': 3123.839, 'duration': 2.641}
+{'text': 'the second topic you wanted to chat', 'start': 3125.599, 'duration': 1.76}
+{'text': 'about', 'start': 3126.48, 'duration': 2.24}
+{'text': 'or that all right you gave me a feeling', 'start': 3127.359, 'duration': 3.281}
+{'text': 'i picked two of them', 'start': 3128.72, 'duration': 4.399}
+{'text': 'oh yeah we i was mentioning why islam is', 'start': 3130.64, 'duration': 4.719}
+{'text': 'even worse than even nazism', 'start': 3133.119, 'duration': 4.161}
+{'text': 'oh yeah it seems like a hard one but go', 'start': 3135.359, 'duration': 5.841}
+{'text': 'for it i mean this is so obvious to me', 'start': 3137.28, 'duration': 7.039}
+{'text': 'um i mean to be fair i think if it is', 'start': 3141.2, 'duration': 5.52}
+{'text': 'nazism as an ideology was able to', 'start': 3144.319, 'duration': 5.601}
+{'text': 'survive as long as islam was it would be', 'start': 3146.72, 'duration': 5.119}
+{'text': 'way more destructive but i think like', 'start': 3149.92, 'duration': 3.52}
+{'text': 'ideologies', 'start': 3151.839, 'duration': 4.561}
+{'text': 'such as like nazism are', 'start': 3153.44, 'duration': 5.919}
+{'text': 'weaker memes than islam or christianity', 'start': 3156.4, 'duration': 3.76}
+{'text': 'so', 'start': 3159.359, 'duration': 2.801}
+{'text': "the fact that they're weaker and they", 'start': 3160.16, 'duration': 4.399}
+{'text': "don't manage to survive as long as part", 'start': 3162.16, 'duration': 4.959}
+{'text': 'of what makes them less dangerous oh', 'start': 3164.559, 'duration': 3.76}
+{'text': "well of course i mean that's kind of", 'start': 3167.119, 'duration': 2.561}
+{'text': 'like when people say like the united', 'start': 3168.319, 'duration': 2.641}
+{'text': 'states does more harm than any other', 'start': 3169.68, 'duration': 2.96}
+{'text': "country in the world well that's true", 'start': 3170.96, 'duration': 3.68}
+{'text': 'the united states also does more good or', 'start': 3172.64, 'duration': 3.199}
+{'text': 'charity than any other country in the', 'start': 3174.64, 'duration': 2.4}
+{'text': "world but that's just because of the", 'start': 3175.839, 'duration': 3.041}
+{'text': 'size of the country right', 'start': 3177.04, 'duration': 3.92}
+{'text': "yeah so it's kind of yeah i mean so is", 'start': 3178.88, 'duration': 4.8}
+{'text': 'this is it like a difference between', 'start': 3180.96, 'duration': 4.8}
+{'text': 'like islam versus nazism is kind of like', 'start': 3183.68, 'duration': 5.28}
+{'text': 'it the klashnikov versus an atomic bomb', 'start': 3185.76, 'duration': 5.2}
+{'text': 'sure if you were using atomic bombs as', 'start': 3188.96, 'duration': 3.92}
+{'text': "much as a kalashnikov i'm pretty sure", 'start': 3190.96, 'duration': 3.52}
+{'text': 'there would be a lot more devastating', 'start': 3192.88, 'duration': 4.56}
+{'text': 'yes sure but makashikas', 'start': 3194.48, 'duration': 5.28}
+{'text': 'are where uh have a lot more wicked', 'start': 3197.44, 'duration': 4.0}
+{'text': 'victims than atomic bombs because', 'start': 3199.76, 'duration': 2.88}
+{'text': "they're just", 'start': 3201.44, 'duration': 3.44}
+{'text': 'um yeah and part of the reason why islam', 'start': 3202.64, 'duration': 4.08}
+{'text': 'is a stronger meme is the fact that it', 'start': 3204.88, 'duration': 3.76}
+{'text': 'manages to use', 'start': 3206.72, 'duration': 3.52}
+{'text': 'you know this you know a lot of more a', 'start': 3208.64, 'duration': 3.199}
+{'text': 'lot more good people', 'start': 3210.24, 'duration': 5.44}
+{'text': "to convince people um that it's a legit", 'start': 3211.839, 'duration': 4.72}
+{'text': 'you know', 'start': 3215.68, 'duration': 3.6}
+{'text': "ideology like it's harder to convince", 'start': 3216.559, 'duration': 5.52}
+{'text': 'good people than nazism is a okay then', 'start': 3219.28, 'duration': 5.2}
+{'text': "islam and that's what makes islam a lot", 'start': 3222.079, 'duration': 4.401}
+{'text': 'more dangerous and this is why islam has', 'start': 3224.48, 'duration': 3.44}
+{'text': 'like a whole bunch of', 'start': 3226.48, 'duration': 3.44}
+{'text': 'sugarcoating and christianity also too', 'start': 3227.92, 'duration': 5.36}
+{'text': 'oh love thy neighbor um like islam has', 'start': 3229.92, 'duration': 4.8}
+{'text': 'oh take care of us', 'start': 3233.28, 'duration': 2.64}
+{'text': "we probably don't disagree at all it's", 'start': 3234.72, 'duration': 3.04}
+{'text': 'just a way of framing it so like for', 'start': 3235.92, 'duration': 4.72}
+{'text': 'instance like um like sugar is more', 'start': 3237.76, 'duration': 5.12}
+{'text': 'dangerous than arsenic', 'start': 3240.64, 'duration': 3.919}
+{'text': 'well like i mean if you eat arsenic', 'start': 3242.88, 'duration': 3.36}
+{'text': "you're probably gonna die but i mean", 'start': 3244.559, 'duration': 3.28}
+{'text': 'like sugar is more pervasive and more', 'start': 3246.24, 'duration': 3.839}
+{'text': 'likely to be consumed by a person right', 'start': 3247.839, 'duration': 3.76}
+{'text': 'oh so we agree that islam is more', 'start': 3250.079, 'duration': 3.921}
+{'text': 'dangerous than nazism well yeah i guess', 'start': 3251.599, 'duration': 3.921}
+{'text': "it's just kind of a it's a really really", 'start': 3254.0, 'duration': 3.52}
+{'text': 'really inflammatory listen i would say', 'start': 3255.52, 'duration': 3.52}
+{'text': "that's a dumb take but on twitter i", 'start': 3257.52, 'duration': 3.12}
+{'text': 'would probably tweet that so yeah there', 'start': 3259.04, 'duration': 2.88}
+{'text': 'you go well', 'start': 3260.64, 'duration': 3.199}
+{'text': "let me tell you why it's not a dumb it's", 'start': 3261.92, 'duration': 4.08}
+{'text': 'not that dumb to say because you know', 'start': 3263.839, 'duration': 4.081}
+{'text': 'one thing that i try to do is not just', 'start': 3266.0, 'duration': 2.8}
+{'text': 'to', 'start': 3267.92, 'duration': 2.96}
+{'text': 'convince muslims i also try to convince', 'start': 3268.8, 'duration': 5.36}
+{'text': 'a whole bunch of anti-muslim bigots', 'start': 3270.88, 'duration': 5.04}
+{'text': 'in different ways of looking at islam to', 'start': 3274.16, 'duration': 3.919}
+{'text': 'look at islam as a disease in muslims as', 'start': 3275.92, 'duration': 4.48}
+{'text': 'a patient rather than the', 'start': 3278.079, 'duration': 5.361}
+{'text': 'muslims as a disease themselves right um', 'start': 3280.4, 'duration': 5.36}
+{'text': 'you know and and i also tell them that', 'start': 3283.44, 'duration': 4.0}
+{'text': 'you know actually the main victims of', 'start': 3285.76, 'duration': 3.839}
+{'text': 'islam are muslims themselves so we fight', 'start': 3287.44, 'duration': 3.919}
+{'text': 'against islam not for the sake of', 'start': 3289.599, 'duration': 3.52}
+{'text': 'protecting the west we say we fight', 'start': 3291.359, 'duration': 3.361}
+{'text': 'against islam for the sake because we', 'start': 3293.119, 'duration': 4.401}
+{'text': 'care for muslims and they are you know', 'start': 3294.72, 'duration': 4.879}
+{'text': 'they are the main victims of islam and', 'start': 3297.52, 'duration': 3.36}
+{'text': 'you know and', 'start': 3299.599, 'duration': 3.281}
+{'text': 'with a title like that i usually do', 'start': 3300.88, 'duration': 3.919}
+{'text': 'attract a whole bunch of', 'start': 3302.88, 'duration': 4.56}
+{'text': 'anti-muslim bigots', 'start': 3304.799, 'duration': 4.641}
+{'text': 'and then when they read the my comments', 'start': 3307.44, 'duration': 3.359}
+{'text': 'or follow the', 'start': 3309.44, 'duration': 3.76}
+{'text': 'video they see actually i am very', 'start': 3310.799, 'duration': 5.441}
+{'text': 'sympathetic to muslims themselves which', 'start': 3313.2, 'duration': 5.119}
+{'text': 'does convince a couple of a few of them', 'start': 3316.24, 'duration': 3.76}
+{'text': 'i have seen a whole bunch of people', 'start': 3318.319, 'duration': 4.0}
+{'text': 'anti-muslim bigots who have followed me', 'start': 3320.0, 'duration': 3.52}
+{'text': 'for years', 'start': 3322.319, 'duration': 3.121}
+{'text': 'changed their tune or reviewed their', 'start': 3323.52, 'duration': 3.599}
+{'text': "views a little bit so i think that's", 'start': 3325.44, 'duration': 3.6}
+{'text': 'also another form of activism right i', 'start': 3327.119, 'duration': 3.68}
+{'text': 'mean a lot of people a lot of people', 'start': 3329.04, 'duration': 3.039}
+{'text': 'start following me because of my', 'start': 3330.799, 'duration': 3.361}
+{'text': 'anti-islam rhetoric and then they see', 'start': 3332.079, 'duration': 3.921}
+{'text': 'like my channel all of a sudden becomes', 'start': 3334.16, 'duration': 3.52}
+{'text': 'focused on', 'start': 3336.0, 'duration': 4.24}
+{'text': 'and we have like an atheist channel that', 'start': 3337.68, 'duration': 5.84}
+{'text': 'constantly sheds on china uh which is an', 'start': 3340.24, 'duration': 5.52}
+{'text': 'ancient regime for this for the way they', 'start': 3343.52, 'duration': 4.319}
+{'text': 'treat muslims right or we had a whole', 'start': 3345.76, 'duration': 3.76}
+{'text': 'bunch of hindus for people who really', 'start': 3347.839, 'duration': 4.0}
+{'text': 'hate muslims follow our channel because', 'start': 3349.52, 'duration': 4.72}
+{'text': "of our anti-islam content and now we're", 'start': 3351.839, 'duration': 5.041}
+{'text': 'like attacking you know the bgp party in', 'start': 3354.24, 'duration': 4.96}
+{'text': 'india for the way they treating muslims', 'start': 3356.88, 'duration': 4.479}
+{'text': 'and we lose a lot of them but some of', 'start': 3359.2, 'duration': 4.24}
+{'text': 'them stay around and change their mind', 'start': 3361.359, 'duration': 3.44}
+{'text': "so that's another", 'start': 3363.44, 'duration': 4.48}
+{'text': 'reason why i might frame it like that', 'start': 3364.799, 'duration': 5.361}
+{'text': "okay it's it's it's like a trap it's", 'start': 3367.92, 'duration': 3.84}
+{'text': 'like a trick yeah sure', 'start': 3370.16, 'duration': 3.28}
+{'text': 'inflammatory yeah', 'start': 3371.76, 'duration': 2.96}
+{'text': 'right', 'start': 3373.44, 'duration': 4.159}
+{'text': 'right so okay so that second part this', 'start': 3374.72, 'duration': 4.16}
+{'text': 'is i mean', 'start': 3377.599, 'duration': 2.801}
+{'text': "doesn't seem that", 'start': 3378.88, 'duration': 3.919}
+{'text': 'you know so you agree on that', 'start': 3380.4, 'duration': 4.0}
+{'text': 'okay good', 'start': 3382.799, 'duration': 4.161}
+{'text': 'i mean by the way this was a lot more', 'start': 3384.4, 'duration': 4.24}
+{'text': 'this was very productive i really', 'start': 3386.96, 'duration': 3.2}
+{'text': 'enjoyed it because', 'start': 3388.64, 'duration': 3.6}
+{'text': 'your comebacks and the way you challenge', 'start': 3390.16, 'duration': 4.88}
+{'text': 'my views is really nice i enjoy that', 'start': 3392.24, 'duration': 4.8}
+{'text': 'okay um yeah', 'start': 3395.04, 'duration': 3.039}
+{'text': 'did you', 'start': 3397.04, 'duration': 2.96}
+{'text': 'was this how long have we been going', 'start': 3398.079, 'duration': 3.681}
+{'text': "how's the live chat going um they're", 'start': 3400.0, 'duration': 3.599}
+{'text': "cool it's about an hour i don't i i", 'start': 3401.76, 'duration': 3.2}
+{'text': "don't think fundamentally we probably", 'start': 3403.599, 'duration': 3.921}
+{'text': "don't disagree on much um just though", 'start': 3404.96, 'duration': 3.92}
+{'text': 'you phrase things in very very very', 'start': 3407.52, 'duration': 3.76}
+{'text': 'aggressive ways which i guess i do i do', 'start': 3408.88, 'duration': 5.439}
+{'text': 'that online a lot too so um what', 'start': 3411.28, 'duration': 5.279}
+{'text': 'yeah i mean part of the reason you know', 'start': 3414.319, 'duration': 4.161}
+{'text': 'the way i talk to', 'start': 3416.559, 'duration': 4.0}
+{'text': 'muslims is completely different from', 'start': 3418.48, 'duration': 4.639}
+{'text': 'when i talk about islam to my', 'start': 3420.559, 'duration': 4.881}
+{'text': 'atheist community', 'start': 3423.119, 'duration': 4.24}
+{'text': 'you know when i talk to a muslim i', 'start': 3425.44, 'duration': 4.159}
+{'text': 'become a lot more', 'start': 3427.359, 'duration': 5.041}
+{'text': 'you know sympathetic and', 'start': 3429.599, 'duration': 4.561}
+{'text': "you know i don't talk to them as", 'start': 3432.4, 'duration': 4.32}
+{'text': 'aggressively as i am talking to our', 'start': 3434.16, 'duration': 4.56}
+{'text': "community against islam because there's", 'start': 3436.72, 'duration': 3.839}
+{'text': 'completely different reasons for example', 'start': 3438.72, 'duration': 4.399}
+{'text': 'i have videos on on youtube on burning', 'start': 3440.559, 'duration': 5.28}
+{'text': 'the quran right um', 'start': 3443.119, 'duration': 3.68}
+{'text': 'and', 'start': 3445.839, 'duration': 3.201}
+{'text': 'you know we had um i have a video that', 'start': 3446.799, 'duration': 4.641}
+{'text': 'went viral on facebook that i went to', 'start': 3449.04, 'duration': 3.519}
+{'text': 'vancouver', 'start': 3451.44, 'duration': 1.919}
+{'text': 'a', 'start': 3452.559, 'duration': 2.56}
+{'text': 'gay pride parade and i had like a sign', 'start': 3453.359, 'duration': 4.081}
+{'text': 'that saying allah is gay and the reason', 'start': 3455.119, 'duration': 4.081}
+{'text': 'why i do those things is because people', 'start': 3457.44, 'duration': 3.76}
+{'text': "tell me that you can't or you shouldn't", 'start': 3459.2, 'duration': 5.04}
+{'text': "and we're just trying to challenge", 'start': 3461.2, 'duration': 4.48}
+{'text': 'you know the red lines that people keep', 'start': 3464.24, 'duration': 2.72}
+{'text': 'drawing around thirds and things that', 'start': 3465.68, 'duration': 3.28}
+{'text': "we're not supposed to say or do those", 'start': 3466.96, 'duration': 3.76}
+{'text': 'are mostly for', 'start': 3468.96, 'duration': 4.399}
+{'text': 'that for the sake of making sure that we', 'start': 3470.72, 'duration': 5.119}
+{'text': 'nobody can tell us what to say and what', 'start': 3473.359, 'duration': 4.641}
+{'text': 'not to say um and also when we were', 'start': 3475.839, 'duration': 3.921}
+{'text': 'talking to our atheist community against', 'start': 3478.0, 'duration': 3.839}
+{'text': 'about islam and christianity that is not', 'start': 3479.76, 'duration': 3.599}
+{'text': 'necessarily to change christians or', 'start': 3481.839, 'duration': 3.201}
+{'text': "muslims mind that's just basically us", 'start': 3483.359, 'duration': 2.72}
+{'text': 'basing', 'start': 3485.04, 'duration': 2.72}
+{'text': 'building an asus community and talking', 'start': 3486.079, 'duration': 4.161}
+{'text': 'about the things that we agree i mean if', 'start': 3487.76, 'duration': 5.2}
+{'text': 'muslims are who are offended by that', 'start': 3490.24, 'duration': 4.079}
+{'text': "we're not going to them with this", 'start': 3492.96, 'duration': 2.56}
+{'text': 'content', 'start': 3494.319, 'duration': 2.881}
+{'text': "if they are seeing this content it's", 'start': 3495.52, 'duration': 3.279}
+{'text': 'because they chose to see them like they', 'start': 3497.2, 'duration': 2.72}
+{'text': "can't", 'start': 3498.799, 'duration': 2.961}
+{'text': 'yeah so but', 'start': 3499.92, 'duration': 4.32}
+{'text': 'but what if i if my strategy is to', 'start': 3501.76, 'duration': 3.76}
+{'text': "actually convince them what's the amount", 'start': 3504.24, 'duration': 3.04}
+{'text': "of their position i wouldn't use the", 'start': 3505.52, 'duration': 4.0}
+{'text': 'same aggressive tactics against you know', 'start': 3507.28, 'duration': 4.319}
+{'text': "yeah sure i wouldn't yeah i wouldn't say", 'start': 3509.52, 'duration': 3.76}
+{'text': 'like oh why', 'start': 3511.599, 'duration': 3.281}
+{'text': 'okay tell me what you think about it why', 'start': 3513.28, 'duration': 3.44}
+{'text': 'should i why should i question his love', 'start': 3514.88, 'duration': 3.679}
+{'text': 'oh because islam is worse than nazism', 'start': 3516.72, 'duration': 2.37}
+{'text': "that's why", 'start': 3518.559, 'duration': 6.081}
+{'text': '[Laughter]', 'start': 3519.09, 'duration': 7.709}
+{'text': 'right um what just curious so what is', 'start': 3524.64, 'duration': 3.6}
+{'text': "your particular background you're from", 'start': 3526.799, 'duration': 2.721}
+{'text': 'iran', 'start': 3528.24, 'duration': 2.48}
+{'text': 'yes i am', 'start': 3529.52, 'duration': 3.039}
+{'text': 'an ex-muslim', 'start': 3530.72, 'duration': 4.8}
+{'text': "i'm from iran i'm also iranian canadian", 'start': 3532.559, 'duration': 6.401}
+{'text': 'right now i live in the philippines', 'start': 3535.52, 'duration': 3.44}
+{'text': 'but yeah actually one reason', 'start': 3539.2, 'duration': 4.8}
+{'text': 'one of my personal experiences is the', 'start': 3542.4, 'duration': 2.88}
+{'text': 'reason why', 'start': 3544.0, 'duration': 3.119}
+{'text': 'i actually i use this story to make my', 'start': 3545.28, 'duration': 5.039}
+{'text': 'case as well because when i was a kid', 'start': 3547.119, 'duration': 4.24}
+{'text': 'um', 'start': 3550.319, 'duration': 2.881}
+{'text': 'i was very scared of', 'start': 3551.359, 'duration': 3.921}
+{'text': 'going to hell i was very', 'start': 3553.2, 'duration': 4.159}
+{'text': "and i couldn't understand why", 'start': 3555.28, 'duration': 4.079}
+{'text': 'other people were not terrified like it', 'start': 3557.359, 'duration': 4.24}
+{'text': 'seemed like everybody around me believed', 'start': 3559.359, 'duration': 4.48}
+{'text': 'in hell but nobody was that concerned', 'start': 3561.599, 'duration': 4.0}
+{'text': 'about going there even though it was a', 'start': 3563.839, 'duration': 4.161}
+{'text': 'real possibility like people were more', 'start': 3565.599, 'duration': 4.801}
+{'text': 'more worried about their grades careers', 'start': 3568.0, 'duration': 3.76}
+{'text': 'fashion', 'start': 3570.4, 'duration': 3.439}
+{'text': 'cars or anything other like the nick', 'start': 3571.76, 'duration': 4.559}
+{'text': 'party next week but you know it seems', 'start': 3573.839, 'duration': 4.24}
+{'text': "like people believe that there's this", 'start': 3576.319, 'duration': 3.201}
+{'text': "place that you're going to be screaming", 'start': 3578.079, 'duration': 4.561}
+{'text': 'for a very very long time and the angels', 'start': 3579.52, 'duration': 4.799}
+{'text': 'are going to be torturing you and', 'start': 3582.64, 'duration': 4.0}
+{'text': 'pouring molten lead down your throat but', 'start': 3584.319, 'duration': 3.921}
+{'text': "people didn't seem to be worried about", 'start': 3586.64, 'duration': 2.8}
+{'text': 'going yeah this is actually described in', 'start': 3588.24, 'duration': 3.04}
+{'text': 'the quran like like', 'start': 3589.44, 'duration': 3.119}
+{'text': 'yeah so', 'start': 3591.28, 'duration': 3.76}
+{'text': 'um i remember crying about it and i', 'start': 3592.559, 'duration': 4.481}
+{'text': 'remember my aunt actually finding out', 'start': 3595.04, 'duration': 4.079}
+{'text': 'that you know this was pre-elementary', 'start': 3597.04, 'duration': 4.559}
+{'text': "school she told me don't worry airmen", 'start': 3599.119, 'duration': 4.48}
+{'text': 'only like rapists and murderers go to', 'start': 3601.599, 'duration': 3.361}
+{'text': 'hell but then when i actually went to', 'start': 3603.599, 'duration': 2.801}
+{'text': 'school in school they told us actually', 'start': 3604.96, 'duration': 3.04}
+{'text': 'no most people including most muslims', 'start': 3606.4, 'duration': 3.439}
+{'text': 'are going to go to hell', 'start': 3608.0, 'duration': 3.359}
+{'text': 'so and and', 'start': 3609.839, 'duration': 2.72}
+{'text': 'my parents', 'start': 3611.359, 'duration': 3.841}
+{'text': 'were nominal muslims they drank alcohol', 'start': 3612.559, 'duration': 5.681}
+{'text': 'they they only went to a mosque only', 'start': 3615.2, 'duration': 4.72}
+{'text': 'when somebody died or when somebody was', 'start': 3618.24, 'duration': 3.44}
+{'text': 'getting married they never fasted they', 'start': 3619.92, 'duration': 4.08}
+{'text': 'never prayed and i asked my teachers are', 'start': 3621.68, 'duration': 3.52}
+{'text': "they going to go to hell and they're", 'start': 3624.0, 'duration': 2.24}
+{'text': "like yeah they're going to go to hell of", 'start': 3625.2, 'duration': 4.24}
+{'text': 'course um so i was very upset about that', 'start': 3626.24, 'duration': 6.16}
+{'text': 'as well and the thing that i learned in', 'start': 3629.44, 'duration': 4.56}
+{'text': 'school', 'start': 3632.4, 'duration': 2.8}
+{'text': 'was that', 'start': 3634.0, 'duration': 3.68}
+{'text': "you know for in islam there's no sin", 'start': 3635.2, 'duration': 3.599}
+{'text': 'before', 'start': 3637.68, 'duration': 3.76}
+{'text': 'age of maturity right the age of reason', 'start': 3638.799, 'duration': 5.441}
+{'text': 'right um again this is', 'start': 3641.44, 'duration': 4.32}
+{'text': 'many years later i learned that', 'start': 3644.24, 'duration': 3.68}
+{'text': "christianity is actually you're born", 'start': 3645.76, 'duration': 4.88}
+{'text': "with sin but this in islam that's not", 'start': 3647.92, 'duration': 4.8}
+{'text': "the case in islam if you're a child you", 'start': 3650.64, 'duration': 3.52}
+{'text': "cannot have sin because you're not", 'start': 3652.72, 'duration': 3.2}
+{'text': 'mature enough to be held responsible for', 'start': 3654.16, 'duration': 3.199}
+{'text': 'reactions right', 'start': 3655.92, 'duration': 3.12}
+{'text': 'so', 'start': 3657.359, 'duration': 3.841}
+{'text': 'um you have to hit the age of reason and', 'start': 3659.04, 'duration': 4.079}
+{'text': 'again the the specifics of this is', 'start': 3661.2, 'duration': 3.599}
+{'text': 'different for among muslims but the way', 'start': 3663.119, 'duration': 3.361}
+{'text': 'we learned it in school is that the age', 'start': 3664.799, 'duration': 4.081}
+{'text': 'of reason for boys is 15 and for girls', 'start': 3666.48, 'duration': 3.76}
+{'text': 'is nine', 'start': 3668.88, 'duration': 3.84}
+{'text': "um so that means that there's no way for", 'start': 3670.24, 'duration': 4.4}
+{'text': "for me there's no way for me to sin", 'start': 3672.72, 'duration': 4.879}
+{'text': 'before age fifteen right um', 'start': 3674.64, 'duration': 5.439}
+{'text': 'suicide is a sin in islam', 'start': 3677.599, 'duration': 4.321}
+{'text': 'but then i put two and two together like', 'start': 3680.079, 'duration': 4.081}
+{'text': "well suicide can't be a sin if i commit", 'start': 3681.92, 'duration': 4.399}
+{'text': 'suicide before age 15.', 'start': 3684.16, 'duration': 4.32}
+{'text': 'so i felt like i found a loophole in the', 'start': 3686.319, 'duration': 4.48}
+{'text': 'system i felt like okay if i kill myself', 'start': 3688.48, 'duration': 4.079}
+{'text': 'before age 15', 'start': 3690.799, 'duration': 3.921}
+{'text': 'i die without sin', 'start': 3692.559, 'duration': 4.081}
+{'text': "so i can't go to hell so i end up in", 'start': 3694.72, 'duration': 2.96}
+{'text': 'heaven', 'start': 3696.64, 'duration': 2.8}
+{'text': "so why wouldn't i just kill myself", 'start': 3697.68, 'duration': 3.36}
+{'text': "before age 15 and make sure i don't go", 'start': 3699.44, 'duration': 3.6}
+{'text': 'to hell yeah so to make sure that i got', 'start': 3701.04, 'duration': 3.519}
+{'text': 'this right i went to my religious', 'start': 3703.04, 'duration': 3.36}
+{'text': "teacher and i'd ask him", 'start': 3704.559, 'duration': 3.52}
+{'text': "why wouldn't i just kill myself to make", 'start': 3706.4, 'duration': 4.56}
+{'text': "sure that i don't go to hell and he said", 'start': 3708.079, 'duration': 5.441}
+{'text': 'well because if you go to heaven because', 'start': 3710.96, 'duration': 4.32}
+{'text': 'you died as a child you go to the lowest', 'start': 3713.52, 'duration': 3.36}
+{'text': 'part of event', 'start': 3715.28, 'duration': 3.44}
+{'text': "because you didn't earn heaven like", 'start': 3716.88, 'duration': 3.52}
+{'text': 'apparently heaven has different layers', 'start': 3718.72, 'duration': 3.2}
+{'text': 'and the best part is where the martyrs', 'start': 3720.4, 'duration': 3.919}
+{'text': "go and that's where muhammad is", 'start': 3721.92, 'duration': 4.56}
+{'text': 'and the lowest part is where people go', 'start': 3724.319, 'duration': 3.52}
+{'text': "who died before they're getting the", 'start': 3726.48, 'duration': 2.639}
+{'text': 'chance to sin', 'start': 3727.839, 'duration': 4.081}
+{'text': "um i thought to myself i don't give a", 'start': 3729.119, 'duration': 5.2}
+{'text': '[\xa0__\xa0] which part of heaven i go to', 'start': 3731.92, 'duration': 5.119}
+{'text': "i just don't want to burn i could take i", 'start': 3734.319, 'duration': 4.72}
+{'text': 'i could take a parking lot for eternity', 'start': 3737.039, 'duration': 3.76}
+{'text': 'if that guarantees me not burning i', 'start': 3739.039, 'duration': 4.721}
+{'text': 'actually let it match and i put it on my', 'start': 3740.799, 'duration': 5.52}
+{'text': 'arm to see how much it hurts yeah and', 'start': 3743.76, 'duration': 4.4}
+{'text': 'then i imagine that like all over my', 'start': 3746.319, 'duration': 4.321}
+{'text': 'body for five minutes and i like this is', 'start': 3748.16, 'duration': 4.399}
+{'text': 'unimaginable pain i can tolerate this', 'start': 3750.64, 'duration': 3.36}
+{'text': 'for five minutes how could i tolerate', 'start': 3752.559, 'duration': 3.52}
+{'text': 'this for thousands of years', 'start': 3754.0, 'duration': 3.76}
+{'text': 'so i jumped out of the window in my', 'start': 3756.079, 'duration': 3.04}
+{'text': 'school', 'start': 3757.76, 'duration': 3.599}
+{'text': 'uh i broke both my legs', 'start': 3759.119, 'duration': 5.44}
+{'text': 'i broke my left arm i fractured my back', 'start': 3761.359, 'duration': 5.2}
+{'text': 'i was in a wheelchair and', 'start': 3764.559, 'duration': 4.161}
+{'text': 'my bed for like seven months i missed', 'start': 3766.559, 'duration': 3.76}
+{'text': 'one year of school', 'start': 3768.72, 'duration': 2.8}
+{'text': 'um', 'start': 3770.319, 'duration': 2.401}
+{'text': "the only reason why i didn't try it", 'start': 3771.52, 'duration': 2.799}
+{'text': 'again is because i saw what it did to my', 'start': 3772.72, 'duration': 3.599}
+{'text': 'parents i saw my mom collapse in the', 'start': 3774.319, 'duration': 4.24}
+{'text': 'ground the hospital i saw my dad cry for', 'start': 3776.319, 'duration': 4.24}
+{'text': 'the first time they blamed themselves', 'start': 3778.559, 'duration': 3.361}
+{'text': "because i didn't tell them why i did", 'start': 3780.559, 'duration': 2.401}
+{'text': 'this', 'start': 3781.92, 'duration': 2.32}
+{'text': 'um', 'start': 3782.96, 'duration': 2.48}
+{'text': 'but', 'start': 3784.24, 'duration': 2.96}
+{'text': "yeah and that's why i didn't try it and", 'start': 3785.44, 'duration': 3.84}
+{'text': 'when i hit age 15 i was like [\xa0__\xa0] i have', 'start': 3787.2, 'duration': 3.44}
+{'text': 'to play this game now because the', 'start': 3789.28, 'duration': 4.4}
+{'text': 'consequences of losing is so high', 'start': 3790.64, 'duration': 5.04}
+{'text': 'you need to be a proper muslim now so i', 'start': 3793.68, 'duration': 4.0}
+{'text': 'became very religious i lost a lot of', 'start': 3795.68, 'duration': 3.52}
+{'text': 'friends because of that because i was in', 'start': 3797.68, 'duration': 4.96}
+{'text': 'a more liberal part of the city', 'start': 3799.2, 'duration': 5.28}
+{'text': 'plus i missed one year of school so all', 'start': 3802.64, 'duration': 2.8}
+{'text': 'my', 'start': 3804.48, 'duration': 2.96}
+{'text': 'friends were in next grade anyways and', 'start': 3805.44, 'duration': 3.84}
+{'text': 'that loneliness made me even closer to', 'start': 3807.44, 'duration': 4.08}
+{'text': 'god um', 'start': 3809.28, 'duration': 4.4}
+{'text': 'but yeah i mean but but even to this day', 'start': 3811.52, 'duration': 4.0}
+{'text': 'i think my logic was sound', 'start': 3813.68, 'duration': 3.6}
+{'text': 'given the premises if the premises were', 'start': 3815.52, 'duration': 3.76}
+{'text': 'true', 'start': 3817.28, 'duration': 3.839}
+{'text': "my conclusion is flawless and i couldn't", 'start': 3819.28, 'duration': 4.24}
+{'text': 'understand why most other people', 'start': 3821.119, 'duration': 4.0}
+{'text': "didn't come to the same conclusion as", 'start': 3823.52, 'duration': 2.96}
+{'text': "they have yeah there's a lot of weird", 'start': 3825.119, 'duration': 3.281}
+{'text': 'like religious loopholes like that um', 'start': 3826.48, 'duration': 3.68}
+{'text': 'for instance like i remember learning in', 'start': 3828.4, 'duration': 3.919}
+{'text': 'school that um it was impossible for you', 'start': 3830.16, 'duration': 4.08}
+{'text': 'to go to hell if you had never heard of', 'start': 3832.319, 'duration': 3.601}
+{'text': 'god because one question people always', 'start': 3834.24, 'duration': 2.96}
+{'text': 'ask is like well what about all of the', 'start': 3835.92, 'duration': 3.04}
+{'text': 'like native americans in the united', 'start': 3837.2, 'duration': 2.8}
+{'text': 'states that have never heard of god', 'start': 3838.96, 'duration': 1.839}
+{'text': "they're going to go to hell because they", 'start': 3840.0, 'duration': 2.079}
+{'text': "don't believe and then the teacher would", 'start': 3840.799, 'duration': 2.481}
+{'text': "always be like well if they haven't", 'start': 3842.079, 'duration': 3.201}
+{'text': "heard of god then they can't you know go", 'start': 3843.28, 'duration': 3.36}
+{'text': "to hell and it's like well doesn't that", 'start': 3845.28, 'duration': 3.519}
+{'text': 'make you like a huge [\xa0__\xa0] if you like', 'start': 3846.64, 'duration': 3.439}
+{'text': "tell people about god if they've never", 'start': 3848.799, 'duration': 2.401}
+{'text': "heard them because now you've like they", 'start': 3850.079, 'duration': 2.24}
+{'text': 'had a zero percent chance of going hell', 'start': 3851.2, 'duration': 2.32}
+{'text': "before and now they you know they're", 'start': 3852.319, 'duration': 3.921}
+{'text': '[\xa0__\xa0] um right yeah or in catholicism', 'start': 3853.52, 'duration': 4.559}
+{'text': "it's like can i do any crime if i go and", 'start': 3856.24, 'duration': 3.44}
+{'text': 'like do contrition afterwards if i you', 'start': 3858.079, 'duration': 3.441}
+{'text': "know go to reconciliation and i say i'm", 'start': 3859.68, 'duration': 3.2}
+{'text': 'sorry like can i go do whatever and then', 'start': 3861.52, 'duration': 2.24}
+{'text': 'yeah', 'start': 3862.88, 'duration': 4.479}
+{'text': 'actually the kindest thing to do', 'start': 3863.76, 'duration': 5.599}
+{'text': "is to go to all the people that haven't", 'start': 3867.359, 'duration': 4.72}
+{'text': 'heard about christ if if any of this is', 'start': 3869.359, 'duration': 3.601}
+{'text': 'true', 'start': 3872.079, 'duration': 3.28}
+{'text': 'is to go kill all of them before the', 'start': 3872.96, 'duration': 4.72}
+{'text': 'missionaries get to them', 'start': 3875.359, 'duration': 3.841}
+{'text': 'well yeah i', 'start': 3877.68, 'duration': 3.52}
+{'text': 'yeah i mean in some level even like the', 'start': 3879.2, 'duration': 3.28}
+{'text': 'suffering of those people was seen as', 'start': 3881.2, 'duration': 2.56}
+{'text': 'like righteous and [\xa0__\xa0] anyway right but', 'start': 3882.48, 'duration': 3.28}
+{'text': 'yeah i mean technically rules as written', 'start': 3883.76, 'duration': 3.2}
+{'text': 'it seems like that would be the case', 'start': 3885.76, 'duration': 3.599}
+{'text': "yeah right i mean you'll be like oh but", 'start': 3886.96, 'duration': 3.92}
+{'text': 'you go to hell because you cannot learn', 'start': 3889.359, 'duration': 5.521}
+{'text': "some people yes i'm sacrificing my", 'start': 3890.88, 'duration': 6.32}
+{'text': "um i'm sacrificing myself by going to", 'start': 3894.88, 'duration': 3.199}
+{'text': 'hell', 'start': 3897.2, 'duration': 2.24}
+{'text': 'but saving a whole bunch of people', 'start': 3898.079, 'duration': 3.201}
+{'text': "before i'm going to hell by killing them", 'start': 3899.44, 'duration': 3.599}
+{'text': 'so you just like every single country', 'start': 3901.28, 'duration': 3.839}
+{'text': "that hasn't heard of christ", 'start': 3903.039, 'duration': 4.56}
+{'text': 'just drop a nuke on them', 'start': 3905.119, 'duration': 4.081}
+{'text': 'and save them from going to hell before', 'start': 3907.599, 'duration': 4.0}
+{'text': 'the missionaries can go there and make', 'start': 3909.2, 'duration': 4.48}
+{'text': 'hell a potential', 'start': 3911.599, 'duration': 3.921}
+{'text': 'passover i mean this would be the car', 'start': 3913.68, 'duration': 4.0}
+{'text': 'this would be the most utilitarian', 'start': 3915.52, 'duration': 3.68}
+{'text': 'conclusion that you come up with if you', 'start': 3917.68, 'duration': 3.84}
+{'text': 'wanted to take all of these ideas this', 'start': 3919.2, 'duration': 4.639}
+{'text': 'is the problem with shitty ideas shitty', 'start': 3921.52, 'duration': 5.12}
+{'text': 'shitty premises if you apply good logic', 'start': 3923.839, 'duration': 5.681}
+{'text': 'to bad premises you have to come up to', 'start': 3926.64, 'duration': 4.88}
+{'text': 'really weird and bad conclusions the', 'start': 3929.52, 'duration': 4.48}
+{'text': 'only way you can start with bad premises', 'start': 3931.52, 'duration': 5.519}
+{'text': 'and get to good conclusions is is to', 'start': 3934.0, 'duration': 6.0}
+{'text': 'encourage bad logic', 'start': 3937.039, 'duration': 4.961}
+{'text': "right this is why i'm saying like", 'start': 3940.0, 'duration': 4.4}
+{'text': 'attack the premises itself', 'start': 3942.0, 'duration': 4.16}
+{'text': 'rather than trying to get to good', 'start': 3944.4, 'duration': 4.32}
+{'text': "conclusions by promoting bad logic it's", 'start': 3946.16, 'duration': 4.24}
+{'text': 'a methodology that matters not the', 'start': 3948.72, 'duration': 4.8}
+{'text': 'conclusion promote proper methodology', 'start': 3950.4, 'duration': 5.919}
+{'text': 'rather than good conclusions right and', 'start': 3953.52, 'duration': 4.88}
+{'text': 'religions sometimes randomly come to', 'start': 3956.319, 'duration': 4.48}
+{'text': 'good conclusions but if you use those', 'start': 3958.4, 'duration': 4.8}
+{'text': 'good conclusions as a way to promote a', 'start': 3960.799, 'duration': 4.641}
+{'text': 'bad methodology a methodology that more', 'start': 3963.2, 'duration': 5.359}
+{'text': 'often gives you bad answers so yeah', 'start': 3965.44, 'duration': 5.119}
+{'text': 'yeah those small good conclusions are', 'start': 3968.559, 'duration': 3.601}
+{'text': 'actually makes the religion more', 'start': 3970.559, 'duration': 3.76}
+{'text': 'dangerous because now they could be used', 'start': 3972.16, 'duration': 3.76}
+{'text': 'as a marketing tactic for a bad', 'start': 3974.319, 'duration': 4.321}
+{'text': 'methodology and like also the scientific', 'start': 3975.92, 'duration': 4.48}
+{'text': 'method or using logic and reason and', 'start': 3978.64, 'duration': 3.6}
+{'text': 'evidence-based outcomes research and', 'start': 3980.4, 'duration': 3.6}
+{'text': 'stuff those are good methodologies but', 'start': 3982.24, 'duration': 3.2}
+{'text': "they don't always give you good answers", 'start': 3984.0, 'duration': 3.039}
+{'text': 'sometimes they give you bad answers and', 'start': 3985.44, 'duration': 2.96}
+{'text': 'who are people who are against the', 'start': 3987.039, 'duration': 3.28}
+{'text': 'scientific method to use those bad', 'start': 3988.4, 'duration': 4.159}
+{'text': 'examples bad answers like oh look', 'start': 3990.319, 'duration': 4.48}
+{'text': 'science is responsible for this or that', 'start': 3992.559, 'duration': 5.681}
+{'text': 'as to to market against', 'start': 3994.799, 'duration': 6.161}
+{'text': 'a superior methodology so again this is', 'start': 3998.24, 'duration': 4.079}
+{'text': "why i'm saying like don't look at the", 'start': 4000.96, 'duration': 2.639}
+{'text': 'conclusions', 'start': 4002.319, 'duration': 3.28}
+{'text': 'one or two conclusions', 'start': 4003.599, 'duration': 3.44}
+{'text': 'the average conclusions of the', 'start': 4005.599, 'duration': 3.681}
+{'text': 'scientific method is superior to the', 'start': 4007.039, 'duration': 6.481}
+{'text': 'conclusions of religion and faith so', 'start': 4009.28, 'duration': 6.799}
+{'text': "you know don't be like oh let's promote", 'start': 4013.52, 'duration': 4.96}
+{'text': 'you know muslims who using islam to', 'start': 4016.079, 'duration': 3.841}
+{'text': 'support gay', 'start': 4018.48, 'duration': 3.599}
+{'text': 'marriage because', 'start': 4019.92, 'duration': 3.679}
+{'text': "by doing that you're using a good", 'start': 4022.079, 'duration': 3.76}
+{'text': 'conclusion to so to promote a bad', 'start': 4023.599, 'duration': 4.561}
+{'text': 'methodology the methodology matters more', 'start': 4025.839, 'duration': 3.681}
+{'text': 'than the conclusion always yeah of', 'start': 4028.16, 'duration': 2.56}
+{'text': 'course so that you can get good', 'start': 4029.52, 'duration': 2.88}
+{'text': 'conclusions in the future right more', 'start': 4030.72, 'duration': 4.16}
+{'text': 'often yes', 'start': 4032.4, 'duration': 4.959}
+{'text': 'yeah i mean i almost died because of', 'start': 4034.88, 'duration': 4.56}
+{'text': "these bad it's delicious what are you", 'start': 4037.359, 'duration': 3.76}
+{'text': "playing you can't see", 'start': 4039.44, 'duration': 3.599}
+{'text': "i can't open it because i have it i have", 'start': 4041.119, 'duration': 5.601}
+{'text': 'a crappy computer so if i open this and', 'start': 4043.039, 'duration': 5.04}
+{'text': 'oh no right now my stream is just all', 'start': 4046.72, 'duration': 2.319}
+{'text': 'they can say is my camera and your', 'start': 4048.079, 'duration': 3.441}
+{'text': 'camera basically oh really what is the', 'start': 4049.039, 'duration': 4.481}
+{'text': 'live chat saying i wish i could say i', 'start': 4051.52, 'duration': 4.16}
+{'text': 'wish i could see anybody if anybody has', 'start': 4053.52, 'duration': 3.519}
+{'text': "them agree with what you're saying i", 'start': 4055.68, 'duration': 2.96}
+{'text': "mean like i said we're basically on the", 'start': 4057.039, 'duration': 3.76}
+{'text': "same page with everything um you're", 'start': 4058.64, 'duration': 3.199}
+{'text': "saying a lot of the stuff that i'd", 'start': 4060.799, 'duration': 2.481}
+{'text': 'normally say where the idea is that', 'start': 4061.839, 'duration': 2.801}
+{'text': 'basically um', 'start': 4063.28, 'duration': 3.039}
+{'text': 'uh like thought processes are more', 'start': 4064.64, 'duration': 2.8}
+{'text': 'important than conclusions because', 'start': 4066.319, 'duration': 2.8}
+{'text': "you're trying to predict future thoughts", 'start': 4067.44, 'duration': 3.28}
+{'text': 'right so if somebody has a bad', 'start': 4069.119, 'duration': 3.2}
+{'text': 'methodology to get to some conclusion', 'start': 4070.72, 'duration': 2.8}
+{'text': "that doesn't matter because they might", 'start': 4072.319, 'duration': 2.641}
+{'text': 'make a bad conclusion in the future so', 'start': 4073.52, 'duration': 3.12}
+{'text': 'you ought to promote good methodologies', 'start': 4074.96, 'duration': 4.639}
+{'text': 'rather than just answers right', 'start': 4076.64, 'duration': 4.0}
+{'text': 'yeah', 'start': 4079.599, 'duration': 2.72}
+{'text': 'and this we had sam harris on our', 'start': 4080.64, 'duration': 4.8}
+{'text': "podcast secular georgia's podcast and he", 'start': 4082.319, 'duration': 4.321}
+{'text': 'told me', 'start': 4085.44, 'duration': 2.08}
+{'text': 'uh', 'start': 4086.64, 'duration': 3.76}
+{'text': "you know he's for islamic reform", 'start': 4087.52, 'duration': 5.44}
+{'text': 'so he said he said exactly this he said', 'start': 4090.4, 'duration': 5.04}
+{'text': 'if we could just invent a new religion', 'start': 4092.96, 'duration': 4.399}
+{'text': "that is almost as bad as islam but it's", 'start': 4095.44, 'duration': 3.6}
+{'text': "just ten percent less bad that's", 'start': 4097.359, 'duration': 3.041}
+{'text': 'progress', 'start': 4099.04, 'duration': 3.119}
+{'text': 'and', 'start': 4100.4, 'duration': 3.6}
+{'text': "that's not i don't agree with that", 'start': 4102.159, 'duration': 3.2}
+{'text': "because that again that's basically", 'start': 4104.0, 'duration': 3.04}
+{'text': 'promoting the right conclusions rather', 'start': 4105.359, 'duration': 4.4}
+{'text': 'than the methodology itself if you know', 'start': 4107.04, 'duration': 4.88}
+{'text': 'them you know if you have 10 percent', 'start': 4109.759, 'duration': 3.681}
+{'text': "less by the islam and be like oh that's", 'start': 4111.92, 'duration': 2.56}
+{'text': 'progress', 'start': 4113.44, 'duration': 3.12}
+{'text': 'you are actually using those 10', 'start': 4114.48, 'duration': 4.719}
+{'text': 'better ideas to promote islam', 'start': 4116.56, 'duration': 5.199}
+{'text': 'and islam is the wrong methodology', 'start': 4119.199, 'duration': 4.08}
+{'text': 'right yeah', 'start': 4121.759, 'duration': 2.321}
+{'text': 'yeah', 'start': 4123.279, 'duration': 2.801}
+{'text': "that's why i'm against islam no matter", 'start': 4124.08, 'duration': 4.96}
+{'text': 'how if you had if you came up with a', 'start': 4126.08, 'duration': 4.079}
+{'text': 'religion', 'start': 4129.04, 'duration': 3.119}
+{'text': 'that was based on faith and god and', 'start': 4130.159, 'duration': 3.761}
+{'text': 'revelation', 'start': 4132.159, 'duration': 4.56}
+{'text': 'that was 100 peaceful', 'start': 4133.92, 'duration': 5.439}
+{'text': "didn't have any violence in it", 'start': 4136.719, 'duration': 6.161}
+{'text': 'um in fact it was very pro-humanity', 'start': 4139.359, 'duration': 5.92}
+{'text': 'pro-like equal rights and all that good', 'start': 4142.88, 'duration': 4.16}
+{'text': 'stuff everything everything that we see', 'start': 4145.279, 'duration': 3.841}
+{'text': "as you know enlightenment say let's have", 'start': 4147.04, 'duration': 3.679}
+{'text': 'a religion that', 'start': 4149.12, 'duration': 3.76}
+{'text': 'all the values from the enlightenment', 'start': 4150.719, 'duration': 3.52}
+{'text': 'era', 'start': 4152.88, 'duration': 4.24}
+{'text': 'it promoted all of that but', 'start': 4154.239, 'duration': 4.56}
+{'text': 'the reason why i promoted all of that', 'start': 4157.12, 'duration': 3.92}
+{'text': 'was because it came from god it was a', 'start': 4158.799, 'duration': 3.52}
+{'text': 'revelation from god that these are', 'start': 4161.04, 'duration': 3.52}
+{'text': 'superior values that is dangerous', 'start': 4162.319, 'duration': 3.761}
+{'text': "because now you're promoting a", 'start': 4164.56, 'duration': 3.44}
+{'text': 'methodology that some other people like', 'start': 4166.08, 'duration': 4.159}
+{'text': 'imagine if you find a napkin in a bar', 'start': 4168.0, 'duration': 4.08}
+{'text': 'that said like', 'start': 4170.239, 'duration': 3.92}
+{'text': "um i don't know behead people who don't", 'start': 4172.08, 'duration': 4.0}
+{'text': 'believe in the napkin religion', 'start': 4174.159, 'duration': 5.761}
+{'text': 'and then you went to you went and said', 'start': 4176.08, 'duration': 5.199}
+{'text': "somebody like okay i'm going to follow", 'start': 4179.92, 'duration': 2.72}
+{'text': "this religion i'm going to go behead", 'start': 4181.279, 'duration': 2.96}
+{'text': "anybody that doesn't believe in it and", 'start': 4182.64, 'duration': 3.76}
+{'text': 'you went to them and like listen no no', 'start': 4184.239, 'duration': 4.08}
+{'text': "no no no let's", 'start': 4186.4, 'duration': 3.759}
+{'text': 're-read this maybe', 'start': 4188.319, 'duration': 4.241}
+{'text': 'by killing means i kill them with love', 'start': 4190.159, 'duration': 4.161}
+{'text': 'just love them to death', 'start': 4192.56, 'duration': 4.32}
+{'text': 'and bring them to the napkin religion by', 'start': 4194.32, 'duration': 4.08}
+{'text': "that like obviously it doesn't mean that", 'start': 4196.88, 'duration': 4.08}
+{'text': "but let's try let's try like what the", 'start': 4198.4, 'duration': 4.56}
+{'text': "[\xa0__\xa0] are you doing you're encouraging", 'start': 4200.96, 'duration': 4.32}
+{'text': 'people to just believe in random', 'start': 4202.96, 'duration': 4.56}
+{'text': 'napkins that they find in a bar', 'start': 4205.28, 'duration': 4.48}
+{'text': 'you know you should be tackling that you', 'start': 4207.52, 'duration': 4.0}
+{'text': 'should be like what why the [\xa0__\xa0] are you', 'start': 4209.76, 'duration': 3.76}
+{'text': 'just following this random napkin this', 'start': 4211.52, 'duration': 3.32}
+{'text': 'is not the right', 'start': 4213.52, 'duration': 3.44}
+{'text': "way that's right", 'start': 4214.84, 'duration': 4.76}
+{'text': "of course i understand you're saying", 'start': 4216.96, 'duration': 4.48}
+{'text': 'anyways i think we we', 'start': 4219.6, 'duration': 4.4}
+{'text': 'covered unless you have more questions', 'start': 4221.44, 'duration': 4.4}
+{'text': 'um no i mean i guess at the end of the', 'start': 4224.0, 'duration': 4.159}
+{'text': 'day it just comes off as like um or i', 'start': 4225.84, 'duration': 4.879}
+{'text': 'guess it just comes out to like', 'start': 4228.159, 'duration': 3.841}
+{'text': 'i guess whichever ends up being more', 'start': 4230.719, 'duration': 2.96}
+{'text': 'successful in converting people um i', 'start': 4232.0, 'duration': 3.44}
+{'text': "mean obviously i'm massively in favor if", 'start': 4233.679, 'duration': 2.961}
+{'text': 'you can get people to abandon like', 'start': 4235.44, 'duration': 2.56}
+{'text': "irrational thought processes i'm always", 'start': 4236.64, 'duration': 2.72}
+{'text': 'in favor of that it just seems like', 'start': 4238.0, 'duration': 2.56}
+{'text': 'really difficult to do with large groups', 'start': 4239.36, 'duration': 2.72}
+{'text': "of people but i mean if yeah that's the", 'start': 4240.56, 'duration': 3.44}
+{'text': "way forward then that'd be great", 'start': 4242.08, 'duration': 3.76}
+{'text': "i mean we we can't", 'start': 4244.0, 'duration': 3.6}
+{'text': 'expect', 'start': 4245.84, 'duration': 4.8}
+{'text': 'dramatic shifts', 'start': 4247.6, 'duration': 5.52}
+{'text': 'all of a sudden we make gradual changes', 'start': 4250.64, 'duration': 3.519}
+{'text': 'yeah right', 'start': 4253.12, 'duration': 1.92}
+{'text': 'so', 'start': 4254.159, 'duration': 2.641}
+{'text': 'when people say like oh your method is', 'start': 4255.04, 'duration': 3.199}
+{'text': "not going to give you like oh it's not", 'start': 4256.8, 'duration': 2.96}
+{'text': "going to make the whole world it's not", 'start': 4258.239, 'duration': 3.201}
+{'text': 'going to convince 2 billion muslims out', 'start': 4259.76, 'duration': 3.12}
+{'text': 'of islam', 'start': 4261.44, 'duration': 3.44}
+{'text': 'our men like', 'start': 4262.88, 'duration': 3.6}
+{'text': "i didn't never said it does i'm just", 'start': 4264.88, 'duration': 3.68}
+{'text': 'saying it works better is much superior', 'start': 4266.48, 'duration': 4.0}
+{'text': 'than the reform movement in fact the', 'start': 4268.56, 'duration': 4.8}
+{'text': "reform movement is not less helpful it's", 'start': 4270.48, 'duration': 4.4}
+{'text': 'unhelpful', 'start': 4273.36, 'duration': 3.52}
+{'text': 'right i mean you know say like okay give', 'start': 4274.88, 'duration': 4.08}
+{'text': 'me another give me a better alternative', 'start': 4276.88, 'duration': 4.799}
+{'text': "i'm saying yes it's good i'm not", 'start': 4278.96, 'duration': 5.52}
+{'text': "i'm not gonna convince", 'start': 4281.679, 'duration': 4.961}
+{'text': 'hundreds of thousands of people by next', 'start': 4284.48, 'duration': 3.04}
+{'text': 'week', 'start': 4286.64, 'duration': 2.64}
+{'text': 'we are going to make gradual changes but', 'start': 4287.52, 'duration': 4.639}
+{'text': 'our gradual change is the fastest one it', 'start': 4289.28, 'duration': 4.8}
+{'text': "is gradual but it's the best one", 'start': 4292.159, 'duration': 5.121}
+{'text': 'encouraging skepticism encouraging uh', 'start': 4294.08, 'duration': 4.76}
+{'text': 'critical thinking', 'start': 4297.28, 'duration': 4.8}
+{'text': 'encouraging people to even who are not', 'start': 4298.84, 'duration': 5.399}
+{'text': 'skeptical to accept people', 'start': 4302.08, 'duration': 4.159}
+{'text': 'with different views', 'start': 4304.239, 'duration': 4.081}
+{'text': 'those are', 'start': 4306.239, 'duration': 3.361}
+{'text': 'those work', 'start': 4308.32, 'duration': 2.96}
+{'text': "it's gradual it's not going to give you", 'start': 4309.6, 'duration': 3.92}
+{'text': 'atheists overnight', 'start': 4311.28, 'duration': 6.0}
+{'text': 'but all change is gradual', 'start': 4313.52, 'duration': 3.76}
+{'text': "and it's intellectually honest that's", 'start': 4317.52, 'duration': 3.199}
+{'text': 'the most important thing like', 'start': 4319.04, 'duration': 4.08}
+{'text': 'why would you lie to people this is', 'start': 4320.719, 'duration': 4.48}
+{'text': 'atheists i mean this is why i get pissed', 'start': 4323.12, 'duration': 4.4}
+{'text': 'of atheists who support islamic reform', 'start': 4325.199, 'duration': 4.0}
+{'text': "because they're actively", 'start': 4327.52, 'duration': 3.92}
+{'text': 'supporting lying to people muslims who', 'start': 4329.199, 'duration': 4.96}
+{'text': "are for islamic reform i don't get", 'start': 4331.44, 'duration': 5.12}
+{'text': 'that triggered by them because they at', 'start': 4334.159, 'duration': 4.961}
+{'text': 'least believe in their own nonsense sure', 'start': 4336.56, 'duration': 4.24}
+{'text': 'yeah yeah', 'start': 4339.12, 'duration': 4.64}
+{'text': 'by the way guys um if you can i play', 'start': 4340.8, 'duration': 3.6}
+{'text': 'yeah', 'start': 4343.76, 'duration': 2.08}
+{'text': 'yeah website or your facebook or', 'start': 4344.4, 'duration': 3.44}
+{'text': 'whatever yeah check out atheist republic', 'start': 4345.84, 'duration': 3.839}
+{'text': "we're a 501c", 'start': 4347.84, 'duration': 2.96}
+{'text': "uh we're", 'start': 4349.679, 'duration': 3.601}
+{'text': "world's largest atheist community", 'start': 4350.8, 'duration': 3.359}
+{'text': 'um', 'start': 4353.28, 'duration': 3.36}
+{'text': 'we really do need help on youtube', 'start': 4354.159, 'duration': 5.361}
+{'text': "we you know are it's funny because our", 'start': 4356.64, 'duration': 5.12}
+{'text': 'we have a persian channel which we make', 'start': 4359.52, 'duration': 4.0}
+{'text': 'english channel and persian channel i', 'start': 4361.76, 'duration': 3.2}
+{'text': 'make content for', 'start': 4363.52, 'duration': 4.32}
+{'text': 'um iranian atheists as well', 'start': 4364.96, 'duration': 5.04}
+{'text': 'um and our persian channel even though', 'start': 4367.84, 'duration': 4.48}
+{'text': "it's much more recent and much smaller", 'start': 4370.0, 'duration': 4.48}
+{'text': 'is getting a lot more views', 'start': 4372.32, 'duration': 4.0}
+{'text': 'uh than our english channel because i', 'start': 4374.48, 'duration': 4.8}
+{'text': 'think that all the things', 'start': 4376.32, 'duration': 5.68}
+{'text': 'that triggers youtube algorithm for why', 'start': 4379.28, 'duration': 4.56}
+{'text': "our content shouldn't be shared or", 'start': 4382.0, 'duration': 3.12}
+{'text': 'recommended', 'start': 4383.84, 'duration': 3.52}
+{'text': "and they don't have persian triggers for", 'start': 4385.12, 'duration': 4.88}
+{'text': 'that i think they only have like english', 'start': 4387.36, 'duration': 4.879}
+{'text': "and that's why our", 'start': 4390.0, 'duration': 4.239}
+{'text': 'our persian channel is not getting as', 'start': 4392.239, 'duration': 4.881}
+{'text': 'de-prioritized sure yeah', 'start': 4394.239, 'duration': 4.561}
+{'text': "what's the channel for your youtube", 'start': 4397.12, 'duration': 4.16}
+{'text': "what's it called oh atheist republic", 'start': 4398.8, 'duration': 3.76}
+{'text': 'okay', 'start': 4401.28, 'duration': 2.8}
+{'text': "okay gotcha we'll blink in a chat wait", 'start': 4402.56, 'duration': 3.2}
+{'text': "i'm just curious um there's a guy that i", 'start': 4404.08, 'duration': 4.159}
+{'text': 'tell online called ask yourself', 'start': 4405.76, 'duration': 3.36}
+{'text': 'um', 'start': 4408.239, 'duration': 3.361}
+{'text': "oh yeah he doesn't like me", 'start': 4409.12, 'duration': 3.44}
+{'text': 'hey you talked to this guy about', 'start': 4411.6, 'duration': 3.119}
+{'text': 'veganism how did that conversation go', 'start': 4412.56, 'duration': 5.52}
+{'text': 'i i mean i he really disliked what i', 'start': 4414.719, 'duration': 5.681}
+{'text': 'said because he was very offended and he', 'start': 4418.08, 'duration': 5.599}
+{'text': 'got so triggered he hung up on me i', 'start': 4420.4, 'duration': 4.72}
+{'text': "don't know what i did", 'start': 4423.679, 'duration': 5.441}
+{'text': 'but and we agreed before uh going before', 'start': 4425.12, 'duration': 5.44}
+{'text': 'going on live with', 'start': 4429.12, 'duration': 2.96}
+{'text': 'before starting a discussion with him', 'start': 4430.56, 'duration': 3.28}
+{'text': "before it wasn't live we were just he", 'start': 4432.08, 'duration': 3.04}
+{'text': 'was recording', 'start': 4433.84, 'duration': 4.16}
+{'text': "uh that he's gonna release the video", 'start': 4435.12, 'duration': 3.92}
+{'text': 'um', 'start': 4438.0, 'duration': 2.64}
+{'text': "okay so you're recording i don't have to", 'start': 4439.04, 'duration': 2.96}
+{'text': "record and he's like yeah don't worry", 'start': 4440.64, 'duration': 3.36}
+{'text': "about it i'll record it and then like", 'start': 4442.0, 'duration': 3.52}
+{'text': "are you sure and i made sure like he's", 'start': 4444.0, 'duration': 3.52}
+{'text': 'gonna do it and', 'start': 4445.52, 'duration': 4.719}
+{'text': 'he recorded it but he was so upset with', 'start': 4447.52, 'duration': 4.96}
+{'text': 'me at the end of the discussion', 'start': 4450.239, 'duration': 3.121}
+{'text': 'that', 'start': 4452.48, 'duration': 2.719}
+{'text': "he didn't release it and they're like", 'start': 4453.36, 'duration': 3.6}
+{'text': 'okay can you send me a copy i really', 'start': 4455.199, 'duration': 3.841}
+{'text': 'said hey like no go [\xa0__\xa0] yourself or', 'start': 4456.96, 'duration': 3.36}
+{'text': 'something like that', 'start': 4459.04, 'duration': 3.52}
+{'text': "and i honestly i didn't really try to i", 'start': 4460.32, 'duration': 4.0}
+{'text': 'kept on saying like even during the', 'start': 4462.56, 'duration': 3.28}
+{'text': 'discussion when i sing he was getting so', 'start': 4464.32, 'duration': 2.879}
+{'text': "worked up i'm like i'm sorry i don't", 'start': 4465.84, 'duration': 3.04}
+{'text': 'mean to make you upset', 'start': 4467.199, 'duration': 4.641}
+{'text': 'but he was so upset i mean even after uh', 'start': 4468.88, 'duration': 5.04}
+{'text': 'the discussion was up over i messaged', 'start': 4471.84, 'duration': 2.96}
+{'text': 'him', 'start': 4473.92, 'duration': 4.48}
+{'text': 'um i was like sorry that you on facebook', 'start': 4474.8, 'duration': 5.2}
+{'text': "i like i'm sorry that you make it upset", 'start': 4478.4, 'duration': 3.04}
+{'text': 'that was not my intention and i was like', 'start': 4480.0, 'duration': 3.36}
+{'text': 'oh he said go [\xa0__\xa0] yourself', 'start': 4481.44, 'duration': 2.64}
+{'text': 'so', 'start': 4483.36, 'duration': 3.52}
+{'text': "he's doing it like whatever", 'start': 4484.08, 'duration': 5.28}
+{'text': 'um i guess', 'start': 4486.88, 'duration': 4.799}
+{'text': "well i mean i don't want to", 'start': 4489.36, 'duration': 3.76}
+{'text': 'strawman him', 'start': 4491.679, 'duration': 3.841}
+{'text': 'you know so i i could tell you i mean', 'start': 4493.12, 'duration': 3.36}
+{'text': 'but i', 'start': 4495.52, 'duration': 2.96}
+{'text': 'maybe we was upset that', 'start': 4496.48, 'duration': 2.8}
+{'text': 'my', 'start': 4498.48, 'duration': 3.28}
+{'text': 'okay so the conclusions that i', 'start': 4499.28, 'duration': 3.84}
+{'text': 'come to', 'start': 4501.76, 'duration': 2.08}
+{'text': 'my', 'start': 4503.12, 'duration': 3.44}
+{'text': 'my values for animals and humans were', 'start': 4503.84, 'duration': 4.24}
+{'text': 'kind of consistent', 'start': 4506.56, 'duration': 3.76}
+{'text': 'so when when he came up with examples', 'start': 4508.08, 'duration': 4.159}
+{'text': 'that makes the humans', 'start': 4510.32, 'duration': 3.52}
+{'text': 'comparable to animals in those', 'start': 4512.239, 'duration': 3.841}
+{'text': 'conditions i kind of', 'start': 4513.84, 'duration': 4.16}
+{'text': 'accepted that in those situations it', 'start': 4516.08, 'duration': 3.92}
+{'text': 'would be okay to kill humans and eat', 'start': 4518.0, 'duration': 3.84}
+{'text': "them as well but we don't live in that", 'start': 4520.0, 'duration': 4.0}
+{'text': 'world that those conditions are met but', 'start': 4521.84, 'duration': 4.56}
+{'text': "then he came to the conclusion that i'm", 'start': 4524.0, 'duration': 4.0}
+{'text': "the way he framed it is like you're a", 'start': 4526.4, 'duration': 3.68}
+{'text': 'four holocaust of disabled people who', 'start': 4528.0, 'duration': 3.84}
+{'text': 'are not self-aware', 'start': 4530.08, 'duration': 3.44}
+{'text': "i would like and i told him well i don't", 'start': 4531.84, 'duration': 3.52}
+{'text': 'like that framing of it this is how i', 'start': 4533.52, 'duration': 4.88}
+{'text': "frame it and he's like well", 'start': 4535.36, 'duration': 5.28}
+{'text': "and he said well you're my framing of it", 'start': 4538.4, 'duration': 3.52}
+{'text': 'is accurate', 'start': 4540.64, 'duration': 2.88}
+{'text': "and i'm like well my framing of it is", 'start': 4541.92, 'duration': 2.96}
+{'text': "accurate as well he's like no you're", 'start': 4543.52, 'duration': 4.08}
+{'text': "sugarcoating your position i'm like well", 'start': 4544.88, 'duration': 4.72}
+{'text': 'you call it sugar crating but well the', 'start': 4547.6, 'duration': 4.0}
+{'text': "way i'm saying it is also completely", 'start': 4549.6, 'duration': 3.84}
+{'text': "accurate completely represents what i'm", 'start': 4551.6, 'duration': 2.88}
+{'text': 'saying', 'start': 4553.44, 'duration': 3.44}
+{'text': 'but but the world that', 'start': 4554.48, 'duration': 3.84}
+{'text': 'the world that i said that i would be', 'start': 4556.88, 'duration': 3.2}
+{'text': 'okay with', 'start': 4558.32, 'duration': 4.32}
+{'text': 'is not the world that we live in like we', 'start': 4560.08, 'duration': 5.44}
+{'text': 'have to change too many factors for us', 'start': 4562.64, 'duration': 5.2}
+{'text': 'to be able to be okay', 'start': 4565.52, 'duration': 5.04}
+{'text': 'with killing humans without', 'start': 4567.84, 'duration': 4.56}
+{'text': 'pairing', 'start': 4570.56, 'duration': 4.24}
+{'text': 'everything like yes so many things have', 'start': 4572.4, 'duration': 5.279}
+{'text': 'to change for that condition to be met', 'start': 4574.8, 'duration': 5.04}
+{'text': 'but yet he said like oh my framing of it', 'start': 4577.679, 'duration': 3.441}
+{'text': "is for you you're okay with the", 'start': 4579.84, 'duration': 3.2}
+{'text': 'holocaust of disabled people', 'start': 4581.12, 'duration': 3.28}
+{'text': 'and', 'start': 4583.04, 'duration': 3.199}
+{'text': 'i was challenging and he got so worked', 'start': 4584.4, 'duration': 3.6}
+{'text': "up and he hung up on me and like i'm not", 'start': 4586.239, 'duration': 4.641}
+{'text': 'gonna release the video', 'start': 4588.0, 'duration': 4.159}
+{'text': 'all right well', 'start': 4590.88, 'duration': 3.359}
+{'text': 'like and he said thank you for wasting', 'start': 4592.159, 'duration': 3.921}
+{'text': 'two hours of my time or something that', 'start': 4594.239, 'duration': 3.281}
+{'text': 'yeah', 'start': 4596.08, 'duration': 3.119}
+{'text': "i wasn't i really wasn't trying to make", 'start': 4597.52, 'duration': 4.96}
+{'text': "him upset i was really not i mean i'm", 'start': 4599.199, 'duration': 4.48}
+{'text': 'um', 'start': 4602.48, 'duration': 4.239}
+{'text': 'i i was i think i was very polite like i', 'start': 4603.679, 'duration': 4.641}
+{'text': "didn't but he just didn't like my", 'start': 4606.719, 'duration': 3.361}
+{'text': "position he's a pretty passionate like", 'start': 4608.32, 'duration': 3.6}
+{'text': 'vegan guy so it means a lot to him i', 'start': 4610.08, 'duration': 4.0}
+{'text': "think the argument's doing", 'start': 4611.92, 'duration': 3.92}
+{'text': 'i mean if i was so wrong he might as', 'start': 4614.08, 'duration': 3.44}
+{'text': 'well release the video to show to', 'start': 4615.84, 'duration': 5.76}
+{'text': 'embarrass me like if he thinks i am so', 'start': 4617.52, 'duration': 6.32}
+{'text': 'i mean if i was that bad', 'start': 4621.6, 'duration': 4.88}
+{'text': "it's good for him to show it to show how", 'start': 4623.84, 'duration': 4.08}
+{'text': 'non-vegans', 'start': 4626.48, 'duration': 3.12}
+{'text': 'how bad my arguments was against', 'start': 4627.92, 'duration': 3.52}
+{'text': 'veganism so', 'start': 4629.6, 'duration': 3.76}
+{'text': "i don't understand like", 'start': 4631.44, 'duration': 3.279}
+{'text': 'yeah anyways', 'start': 4633.36, 'duration': 3.6}
+{'text': "that's true", 'start': 4634.719, 'duration': 4.96}
+{'text': "um right we yeah he's like he's a pretty", 'start': 4636.96, 'duration': 4.56}
+{'text': "famous like internet debater guy so it's", 'start': 4639.679, 'duration': 3.201}
+{'text': 'kind of funny he gets like really mad', 'start': 4641.52, 'duration': 3.76}
+{'text': 'pretty often a lot of things', 'start': 4642.88, 'duration': 5.839}
+{'text': "yeah but i'm still i mean even i'm still", 'start': 4645.28, 'duration': 5.64}
+{'text': "i mean if he's listening to this i", 'start': 4648.719, 'duration': 4.48}
+{'text': 'apologize to him if i', 'start': 4650.92, 'duration': 4.44}
+{'text': 'made him upset i was not intending to do', 'start': 4653.199, 'duration': 5.361}
+{'text': 'that at all so okay', 'start': 4655.36, 'duration': 3.2}
+{'text': 'i mean', 'start': 4659.12, 'duration': 2.48}
+{'text': 'i am getting into debating against', 'start': 4660.0, 'duration': 3.679}
+{'text': 'vegans more', 'start': 4661.6, 'duration': 4.72}
+{'text': 'so if any any vegans wants to', 'start': 4663.679, 'duration': 5.681}
+{'text': 'any um invite me to their channel', 'start': 4666.32, 'duration': 4.56}
+{'text': 'um', 'start': 4669.36, 'duration': 3.2}
+{'text': 'i would be interested in that are you a', 'start': 4670.88, 'duration': 2.64}
+{'text': 'vegan', 'start': 4672.56, 'duration': 2.159}
+{'text': "no i'm not", 'start': 4673.52, 'duration': 3.04}
+{'text': 'no okay', 'start': 4674.719, 'duration': 3.681}
+{'text': 'okay yeah all right well hey listen', 'start': 4676.56, 'duration': 2.96}
+{'text': 'thanks i appreciate the conversation', 'start': 4678.4, 'duration': 3.12}
+{'text': "it's been fun yeah this was fun this is", 'start': 4679.52, 'duration': 4.159}
+{'text': 'very i really like your takes thanks a', 'start': 4681.52, 'duration': 3.679}
+{'text': 'lot', 'start': 4683.679, 'duration': 3.601}
+{'text': "um all right i think um we've got your", 'start': 4685.199, 'duration': 3.601}
+{'text': 'like your youtube stuff and everything', 'start': 4687.28, 'duration': 3.28}
+{'text': 'and your website uh is linked in the', 'start': 4688.8, 'duration': 2.96}
+{'text': "chat and then it'll probably be linked", 'start': 4690.56, 'duration': 2.48}
+{'text': 'in the youtube video i imagine as well', 'start': 4691.76, 'duration': 2.08}
+{'text': 'so', 'start': 4693.04, 'duration': 2.8}
+{'text': 'uh yeah yeah good luck with your mission', 'start': 4693.84, 'duration': 4.399}
+{'text': "um i mean if we disagree it's literally", 'start': 4695.84, 'duration': 4.0}
+{'text': 'only on what looks the best on the', 'start': 4698.239, 'duration': 2.881}
+{'text': "optics like i don't disagree with your", 'start': 4699.84, 'duration': 3.52}
+{'text': 'messaging your ideas at all so yeah', 'start': 4701.12, 'duration': 4.0}
+{'text': 'strategy strategy strategy yeah i would', 'start': 4703.36, 'duration': 3.28}
+{'text': 'be in okay cool', 'start': 4705.12, 'duration': 3.44}
+{'text': 'all right okay', 'start': 4706.64, 'duration': 3.84}
+{'text': 'let me maybe talk to you again yeah', 'start': 4708.56, 'duration': 4.96}
+{'text': "thanks i'll talk to you later", 'start': 4710.48, 'duration': 3.04}

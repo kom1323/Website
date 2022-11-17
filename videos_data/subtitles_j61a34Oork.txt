@@ -1,0 +1,375 @@
+{'text': 'foreign', 'start': 0.12, 'duration': 4.44}
+{'text': "hi what's up buddy", 'start': 2.82, 'duration': 3.3}
+{'text': "uh there's an excellent question you", 'start': 4.56, 'duration': 4.64}
+{'text': 'called me on what can I do for you', 'start': 6.12, 'duration': 3.08}
+{'text': 'um I thought we were chatting about', 'start': 9.84, 'duration': 3.0}
+{'text': 'something', 'start': 11.04, 'duration': 3.54}
+{'text': 'uh well I assume something about that', 'start': 12.84, 'duration': 4.92}
+{'text': 'tweet I posted um', 'start': 14.58, 'duration': 5.459}
+{'text': 'something particular objectional to you', 'start': 17.76, 'duration': 3.179}
+{'text': 'about it', 'start': 20.039, 'duration': 3.24}
+{'text': 'or that problem yeah what was the do you', 'start': 20.939, 'duration': 3.961}
+{'text': 'remember what the original tweet was', 'start': 23.279, 'duration': 3.42}
+{'text': 'uh not at the top of my head I can pull', 'start': 24.9, 'duration': 3.36}
+{'text': 'it up quickly', 'start': 26.699, 'duration': 3.681}
+{'text': 'okay', 'start': 28.26, 'duration': 2.12}
+{'text': 'nobody retweeted this morning so it', 'start': 32.279, 'duration': 5.041}
+{'text': 'should be looking to find', 'start': 34.68, 'duration': 5.48}
+{'text': 'there we go', 'start': 37.32, 'duration': 2.84}
+{'text': 'uh so on June 4th quote if we actually', 'start': 40.44, 'duration': 3.18}
+{'text': 'held political content creators to', 'start': 42.239, 'duration': 2.64}
+{'text': 'account for their little acts of', 'start': 43.62, 'duration': 2.7}
+{'text': 'Treasury to their about causes we', 'start': 44.879, 'duration': 3.121}
+{'text': "wouldn't have Destiny more or less", 'start': 46.32, 'duration': 3.3}
+{'text': 'openly betraying everything he ever', 'start': 48.0, 'duration': 3.42}
+{'text': 'claimed to stand for out of greed and', 'start': 49.62, 'duration': 3.599}
+{'text': 'hatred for other awful people doing his', 'start': 51.42, 'duration': 4.5}
+{'text': "same bit oh okay yeah that's a good", 'start': 53.219, 'duration': 4.801}
+{'text': 'place to start wait what am I betraying', 'start': 55.92, 'duration': 3.42}
+{'text': 'out of greed', 'start': 58.02, 'duration': 4.199}
+{'text': 'okay well we can be let me be as fair to', 'start': 59.34, 'duration': 4.98}
+{'text': "you as possible so if you'll allow me", 'start': 62.219, 'duration': 3.481}
+{'text': "I'll sort of recapitulate what I", 'start': 64.32, 'duration': 3.24}
+{'text': 'understand your situation to be and then', 'start': 65.7, 'duration': 2.88}
+{'text': "you can let me know if I'm being fair", 'start': 67.56, 'duration': 3.66}
+{'text': 'sure okay cool', 'start': 68.58, 'duration': 4.38}
+{'text': 'so what I was talking about here is', 'start': 71.22, 'duration': 3.24}
+{'text': 'concerned with how you deal with other', 'start': 72.96, 'duration': 2.88}
+{'text': 'content creators surprise surprise', 'start': 74.46, 'duration': 2.82}
+{'text': "there's going to be nothing new here so", 'start': 75.84, 'duration': 3.3}
+{'text': "let's take a demon Mama as an example of", 'start': 77.28, 'duration': 3.0}
+{'text': "what I'm talking about", 'start': 79.14, 'duration': 2.58}
+{'text': 'um I like this one because it highlights', 'start': 80.28, 'duration': 2.76}
+{'text': "the unfairness of the situation you're", 'start': 81.72, 'duration': 3.6}
+{'text': 'in so we know how demon mama got started', 'start': 83.04, 'duration': 4.02}
+{'text': 'as a very large online figure engagement', 'start': 85.32, 'duration': 3.42}
+{'text': 'with you of any kind is worth its weight', 'start': 87.06, 'duration': 4.199}
+{'text': 'in gold yes what this means is that if', 'start': 88.74, 'duration': 4.919}
+{'text': 'she can secure really any sort of', 'start': 91.259, 'duration': 3.481}
+{'text': 'Engagement with you whatsoever', 'start': 93.659, 'duration': 3.481}
+{'text': 'especially a hostile engagement even if', 'start': 94.74, 'duration': 3.6}
+{'text': 'you successfully make her look like a', 'start': 97.14, 'duration': 2.64}
+{'text': "fool and I think there's definitely an", 'start': 98.34, 'duration': 3.239}
+{'text': "audience that thinks that you I've been", 'start': 99.78, 'duration': 4.08}
+{'text': "I've had moments uh her visibility", 'start': 101.579, 'duration': 4.141}
+{'text': "skyrockets doesn't matter how well it", 'start': 103.86, 'duration': 4.079}
+{'text': 'goes for her in the moment just pure', 'start': 105.72, 'duration': 5.16}
+{'text': 'benefit sure and because she knows that', 'start': 107.939, 'duration': 5.401}
+{'text': 'just regularly being associated with you', 'start': 110.88, 'duration': 4.199}
+{'text': 'at all supplies her with visibility is', 'start': 113.34, 'duration': 4.26}
+{'text': 'well as therefore money people like that', 'start': 115.079, 'duration': 3.9}
+{'text': 'will do and say anything to get a', 'start': 117.6, 'duration': 3.36}
+{'text': 'response from you and no matter how', 'start': 118.979, 'duration': 3.841}
+{'text': 'abusive or dishonest she is because of', 'start': 120.96, 'duration': 3.24}
+{'text': 'your relative size people will blame you', 'start': 122.82, 'duration': 2.939}
+{'text': 'for diverting your audience to terrorize', 'start': 124.2, 'duration': 2.879}
+{'text': 'her if you respond', 'start': 125.759, 'duration': 3.901}
+{'text': 'almost regardless of what you say and it', 'start': 127.079, 'duration': 3.841}
+{'text': 'gets worse actually because almost any', 'start': 129.66, 'duration': 2.7}
+{'text': 'response you make has the perverse', 'start': 130.92, 'duration': 4.62}
+{'text': 'result of signal boosting her platform', 'start': 132.36, 'duration': 5.099}
+{'text': 'so defending yourself only encourages', 'start': 135.54, 'duration': 3.9}
+{'text': 'her to repeat the process', 'start': 137.459, 'duration': 3.301}
+{'text': "um again it's perverse but you in effect", 'start': 139.44, 'duration': 3.36}
+{'text': 'helped make her Channel viable just by', 'start': 140.76, 'duration': 3.78}
+{'text': 'defending herself just by being you and', 'start': 142.8, 'duration': 3.24}
+{'text': 'by being decent enough to give her the', 'start': 144.54, 'duration': 3.54}
+{'text': 'light of day for a moment you helped her', 'start': 146.04, 'duration': 3.6}
+{'text': 'find money and recognition just for', 'start': 148.08, 'duration': 3.6}
+{'text': "interacting with you and then there's", 'start': 149.64, 'duration': 3.36}
+{'text': 'the Snowball Effect where other people', 'start': 151.68, 'duration': 2.82}
+{'text': 'than seek out engagements with her to', 'start': 153.0, 'duration': 2.94}
+{'text': 'leech off of her increased visibility', 'start': 154.5, 'duration': 3.66}
+{'text': 'further contributing to her growth Etc', 'start': 155.94, 'duration': 4.32}
+{'text': 'other examples of bound couples made', 'start': 158.16, 'duration': 3.96}
+{'text': 'disgusting false claims about you and', 'start': 160.26, 'duration': 4.199}
+{'text': 'was likewise rewarded for it so it', 'start': 162.12, 'duration': 3.96}
+{'text': "doesn't matter how nice or mean you are", 'start': 164.459, 'duration': 3.181}
+{'text': 'just by engaging with these people you', 'start': 166.08, 'duration': 3.18}
+{'text': "help them grow so I think I'd get your", 'start': 167.64, 'duration': 3.06}
+{'text': 'frustration here am I being fair to you', 'start': 169.26, 'duration': 2.46}
+{'text': 'so far', 'start': 170.7, 'duration': 3.0}
+{'text': 'um yeah I mean it sounds like I say so', 'start': 171.72, 'duration': 3.9}
+{'text': 'yeah okay cool', 'start': 173.7, 'duration': 3.66}
+{'text': "so honestly Stephen I don't know how you", 'start': 175.62, 'duration': 4.22}
+{'text': 'explain this', 'start': 177.36, 'duration': 2.48}
+{'text': "um I don't know I don't know how you", 'start': 181.92, 'duration': 3.48}
+{'text': 'explain how you can help someone', 'start': 184.08, 'duration': 3.12}
+{'text': 'increase your funds and visibility who', 'start': 185.4, 'duration': 4.14}
+{'text': 'in your words literally flew to [\xa0__\xa0]', 'start': 187.2, 'duration': 3.899}
+{'text': 'France to get into a boat to help drown', 'start': 189.54, 'duration': 3.54}
+{'text': 'refugees as well as said to a trans', 'start': 191.099, 'duration': 4.021}
+{'text': 'person you will never be a woman or give', 'start': 193.08, 'duration': 3.54}
+{'text': 'a Lifeline to Nick Fuentes on YouTube', 'start': 195.12, 'duration': 3.24}
+{'text': "after he'd been excise from it entirely", 'start': 196.62, 'duration': 3.839}
+{'text': 'as well as an advert for his cozy', 'start': 198.36, 'duration': 3.06}
+{'text': "platform he probably couldn't have", 'start': 200.459, 'duration': 2.161}
+{'text': "dreamed of I don't know how you can", 'start': 201.42, 'duration': 3.239}
+{'text': 'explain to betting people like this and', 'start': 202.62, 'duration': 3.119}
+{'text': "then say that you haven't completely", 'start': 204.659, 'duration': 2.461}
+{'text': 'betrayed the communities they continue', 'start': 205.739, 'duration': 3.36}
+{'text': 'to predict upon this day but you built', 'start': 207.12, 'duration': 3.96}
+{'text': 'your platform advocating for', 'start': 209.099, 'duration': 4.261}
+{'text': 'yeah I mean I guess the issue is that if', 'start': 211.08, 'duration': 4.2}
+{'text': 'I were to take everything that you said', 'start': 213.36, 'duration': 5.34}
+{'text': 'thus far as being true which it is true', 'start': 215.28, 'duration': 4.62}
+{'text': "um and there's a discussion about my", 'start': 218.7, 'duration': 3.06}
+{'text': "community a lot we're I'm basically left", 'start': 219.9, 'duration': 4.38}
+{'text': 'in a world where I can never engage with', 'start': 221.76, 'duration': 4.259}
+{'text': 'anybody that I have a substantial', 'start': 224.28, 'duration': 4.26}
+{'text': 'disagreements with because I would', 'start': 226.019, 'duration': 4.14}
+{'text': 'signal boost them', 'start': 228.54, 'duration': 3.059}
+{'text': 'um I see that like', 'start': 230.159, 'duration': 3.0}
+{'text': "I'm not invoking watch this should talk", 'start': 231.599, 'duration': 3.0}
+{'text': 'about everyone but like vosh has like', 'start': 233.159, 'duration': 2.58}
+{'text': 'basically employed this strategy where', 'start': 234.599, 'duration': 2.28}
+{'text': "he said that like I'm not going to", 'start': 235.739, 'duration': 2.941}
+{'text': 'engage with anybody that I disagree with', 'start': 236.879, 'duration': 3.72}
+{'text': 'that has a smaller platform than me and', 'start': 238.68, 'duration': 5.16}
+{'text': 'I think that basically kills my entire', 'start': 240.599, 'duration': 5.761}
+{'text': 'business model and what I enjoy doing on', 'start': 243.84, 'duration': 3.66}
+{'text': 'stream like I want to be able to engage', 'start': 246.36, 'duration': 3.0}
+{'text': 'with people that are substantially', 'start': 247.5, 'duration': 3.06}
+{'text': 'smaller than me', 'start': 249.36, 'duration': 2.459}
+{'text': 'um or even people that I abhorly', 'start': 250.56, 'duration': 3.66}
+{'text': 'disagree with my goal my hope is that if', 'start': 251.819, 'duration': 4.26}
+{'text': "I engage with somebody it's not like I", 'start': 254.22, 'duration': 3.0}
+{'text': "would hope that I'm not going to lose a", 'start': 256.079, 'duration': 2.88}
+{'text': 'ton of fans to like a white nationalist', 'start': 257.22, 'duration': 3.419}
+{'text': 'or something because their arguments are', 'start': 258.959, 'duration': 2.821}
+{'text': 'so much better and my hope would be that', 'start': 260.639, 'duration': 2.34}
+{'text': 'I can make good enough Arguments for', 'start': 261.78, 'duration': 3.359}
+{'text': 'whatever it is I support that ideally', 'start': 262.979, 'duration': 3.601}
+{'text': "I'm pulling more people away from them", 'start': 265.139, 'duration': 3.84}
+{'text': 'than what I would lose but', 'start': 266.58, 'duration': 4.02}
+{'text': "yeah so that's the that's the great part", 'start': 268.979, 'duration': 4.861}
+{'text': "it's it's for money which I get but well", 'start': 270.6, 'duration': 6.24}
+{'text': 'I mean you say greed group', 'start': 273.84, 'duration': 5.04}
+{'text': "group if you're gonna if that's the if", 'start': 276.84, 'duration': 3.96}
+{'text': "that's the lens you're gonna put it in", 'start': 278.88, 'duration': 3.48}
+{'text': 'technically every single political', 'start': 280.8, 'duration': 4.26}
+{'text': 'person is just operating for greed is', 'start': 282.36, 'duration': 4.8}
+{'text': 'that my understanding or because I mean', 'start': 285.06, 'duration': 3.84}
+{'text': "I'm I'm not", 'start': 287.16, 'duration': 3.599}
+{'text': "I know a few people who aren't well", 'start': 288.9, 'duration': 4.26}
+{'text': 'anytime you put out an argument', 'start': 290.759, 'duration': 4.44}
+{'text': 'your goal is ultimately to convince or', 'start': 293.16, 'duration': 3.84}
+{'text': 'persuade right', 'start': 295.199, 'duration': 4.021}
+{'text': "uh not really I'm I'm doing this as a", 'start': 297.0, 'duration': 3.72}
+{'text': 'courtesy you you asked me to come on to', 'start': 299.22, 'duration': 3.24}
+{'text': 'make an account of this it impuned you', 'start': 300.72, 'duration': 4.02}
+{'text': "directly so I'm well but I mean like and", 'start': 302.46, 'duration': 3.78}
+{'text': "you're impuning of me your goal is", 'start': 304.74, 'duration': 3.12}
+{'text': 'probably to be convincing and set', 'start': 306.24, 'duration': 2.76}
+{'text': "impuning right you're not just like", 'start': 307.86, 'duration': 2.7}
+{'text': 'throwing this out into the ether for no', 'start': 309.0, 'duration': 3.419}
+{'text': 'reason right like you want to convince', 'start': 310.56, 'duration': 3.54}
+{'text': "people that you're correct on something", 'start': 312.419, 'duration': 3.421}
+{'text': 'not particularly I think most people', 'start': 314.1, 'duration': 3.12}
+{'text': 'already know this again none of this is', 'start': 315.84, 'duration': 2.34}
+{'text': 'new', 'start': 317.22, 'duration': 2.94}
+{'text': "okay hold on let's", 'start': 318.18, 'duration': 3.06}
+{'text': "okay let's get a little bit more", 'start': 320.16, 'duration': 3.36}
+{'text': 'fundamental when you make an argument', 'start': 321.24, 'duration': 5.34}
+{'text': 'you make an argument to argue something', 'start': 323.52, 'duration': 4.86}
+{'text': 'right total logically we can agree with', 'start': 326.58, 'duration': 3.42}
+{'text': 'that right when you make an argument', 'start': 328.38, 'duration': 3.659}
+{'text': "it's to argue something right well I", 'start': 330.0, 'duration': 3.36}
+{'text': "didn't really make an argument I made a", 'start': 332.039, 'duration': 2.641}
+{'text': 'statement', 'start': 333.36, 'duration': 3.0}
+{'text': "if you make a statement that's going to", 'start': 334.68, 'duration': 3.66}
+{'text': 'be disagreeable to another person and', 'start': 336.36, 'duration': 3.899}
+{'text': 'you provide justification for a said', 'start': 338.34, 'duration': 3.419}
+{'text': 'statement then that statement can be', 'start': 340.259, 'duration': 4.141}
+{'text': 'seen as an argument right so what I just', 'start': 341.759, 'duration': 4.201}
+{'text': 'what I just what I just gave you was an', 'start': 344.4, 'duration': 4.68}
+{'text': 'argument you agreed to it so yeah so', 'start': 345.96, 'duration': 4.32}
+{'text': 'what do we even have to talk about at', 'start': 349.08, 'duration': 2.399}
+{'text': 'this point', 'start': 350.28, 'duration': 4.08}
+{'text': 'well it just seems it seems a bit Hollow', 'start': 351.479, 'duration': 4.861}
+{'text': "or vacuous to say that anybody who's", 'start': 354.36, 'duration': 4.02}
+{'text': 'trying to convince people that their', 'start': 356.34, 'duration': 4.62}
+{'text': 'political ideology is correct is just', 'start': 358.38, 'duration': 4.14}
+{'text': 'greedy because in that case literally', 'start': 360.96, 'duration': 2.94}
+{'text': 'every single person that practices', 'start': 362.52, 'duration': 3.54}
+{'text': "politics I don't know the the degree it", 'start': 363.9, 'duration': 3.84}
+{'text': "is you're interacting with people and in", 'start': 366.06, 'duration': 3.06}
+{'text': 'effect supplying them with funds and', 'start': 367.74, 'duration': 3.06}
+{'text': 'resources to hurt other people so even', 'start': 369.12, 'duration': 4.32}
+{'text': "if well wait wait I don't know how you", 'start': 370.8, 'duration': 3.959}
+{'text': 'justify that well yeah just to be clear', 'start': 373.44, 'duration': 3.66}
+{'text': 'when you say providing them with funds', 'start': 374.759, 'duration': 4.741}
+{'text': "to hurt people that's a very like direct", 'start': 377.1, 'duration': 5.099}
+{'text': "like I'm literally like sending money to", 'start': 379.5, 'duration': 4.38}
+{'text': "Fuentes or I'm saying like guys go check", 'start': 382.199, 'duration': 3.84}
+{'text': 'out Nick Fuentes here whatever', 'start': 383.88, 'duration': 3.9}
+{'text': "um I think that that's significantly", 'start': 386.039, 'duration': 3.6}
+{'text': "different than you shouldn't be allowed", 'start': 387.78, 'duration': 3.72}
+{'text': "to engage with anybody because they're", 'start': 389.639, 'duration': 3.421}
+{'text': 'smaller than you and they might get more', 'start': 391.5, 'duration': 2.94}
+{'text': 'popular off of those engagements right', 'start': 393.06, 'duration': 3.66}
+{'text': "or interactions no I think that's that's", 'start': 394.44, 'duration': 3.9}
+{'text': 'a knock down argument against doing that', 'start': 396.72, 'duration': 3.3}
+{'text': "in this case you're talking about people", 'start': 398.34, 'duration': 3.66}
+{'text': 'whose careers are predating upon', 'start': 400.02, 'duration': 4.38}
+{'text': 'minority groups so then this is purely', 'start': 402.0, 'duration': 4.259}
+{'text': 'black and white well', 'start': 404.4, 'duration': 3.96}
+{'text': "clearly it's not black and white", 'start': 406.259, 'duration': 3.421}
+{'text': 'um but like with the southern is your', 'start': 408.36, 'duration': 2.52}
+{'text': "prescription then that if you're a large", 'start': 409.68, 'duration': 2.579}
+{'text': 'content creator you should just never', 'start': 410.88, 'duration': 3.659}
+{'text': 'interact with somebody that you perceive', 'start': 412.259, 'duration': 3.901}
+{'text': 'to be as like hateful towards minority', 'start': 414.539, 'duration': 4.081}
+{'text': 'groups yes', 'start': 416.16, 'duration': 4.259}
+{'text': "if you're doing so in a way that", 'start': 418.62, 'duration': 3.6}
+{'text': 'benefits them in their political', 'start': 420.419, 'duration': 4.56}
+{'text': 'activities yes absolutely as I the next', 'start': 422.22, 'duration': 4.8}
+{'text': "Point as example is illustrative he's", 'start': 424.979, 'duration': 3.601}
+{'text': "been excised off of YouTube You've", 'start': 427.02, 'duration': 3.899}
+{'text': 'functionally act as a lifeline okay well', 'start': 428.58, 'duration': 3.72}
+{'text': 'in that case', 'start': 430.919, 'duration': 3.0}
+{'text': "I guess I wouldn't have a problem", 'start': 432.3, 'duration': 3.78}
+{'text': 'necessary I mean I I would I would argue', 'start': 433.919, 'duration': 4.261}
+{'text': 'that this thought process is', 'start': 436.08, 'duration': 4.8}
+{'text': 'um bad but um I guess more to the point', 'start': 438.18, 'duration': 5.459}
+{'text': "I don't think I have ever advocated that", 'start': 440.88, 'duration': 4.98}
+{'text': 'we should never interact with people we', 'start': 443.639, 'duration': 3.301}
+{'text': "disagree with I've kind of built my", 'start': 445.86, 'duration': 2.64}
+{'text': 'whole platform off of interactive the', 'start': 446.94, 'duration': 3.42}
+{'text': 'issue is not disagreement well real', 'start': 448.5, 'duration': 3.24}
+{'text': "quick the reason why I'm saying this", 'start': 450.36, 'duration': 2.459}
+{'text': "just because like I don't think you can", 'start': 451.74, 'duration': 2.64}
+{'text': 'call me hypocritical for doing this', 'start': 452.819, 'duration': 2.94}
+{'text': 'because this has kind of been part and', 'start': 454.38, 'duration': 3.24}
+{'text': "parcel of what I've done for", 'start': 455.759, 'duration': 4.021}
+{'text': 'the really the past like five or six', 'start': 457.62, 'duration': 4.859}
+{'text': 'years right your justification for uh', 'start': 459.78, 'duration': 4.8}
+{'text': 'visiting if I remember the context', 'start': 462.479, 'duration': 3.9}
+{'text': 'correctly or justification for visiting', 'start': 464.58, 'duration': 3.299}
+{'text': 'the house of ice besiding was that he', 'start': 466.379, 'duration': 2.701}
+{'text': "wasn't someone like Lauren Southern who", 'start': 467.879, 'duration': 3.421}
+{'text': 'again in your words went to France to', 'start': 469.08, 'duration': 4.98}
+{'text': 'drown refugees yeah that was a that was', 'start': 471.3, 'duration': 4.38}
+{'text': "a while ago I've changed in my political", 'start': 474.06, 'duration': 3.12}
+{'text': "views in terms of like who I'm willing", 'start': 475.68, 'duration': 3.72}
+{'text': "to engage with or not I see so you're", 'start': 477.18, 'duration': 4.5}
+{'text': "you're now knowing well but also just", 'start': 479.4, 'duration': 3.54}
+{'text': 'just just just to be clear quickly just', 'start': 481.68, 'duration': 3.18}
+{'text': 'so I understand you', 'start': 482.94, 'duration': 3.36}
+{'text': "um the the shift you've made is you're", 'start': 484.86, 'duration': 3.36}
+{'text': "now you're now comfortable", 'start': 486.3, 'duration': 4.14}
+{'text': "materially helping because that's that's", 'start': 488.22, 'duration': 3.72}
+{'text': "what you're doing by regularly appearing", 'start': 490.44, 'duration': 3.599}
+{'text': 'this person a friendly I mean Rose risk', 'start': 491.94, 'duration': 3.599}
+{'text': 'made an excellent video on this this is', 'start': 494.039, 'duration': 3.241}
+{'text': 'largely where I got I understand what', 'start': 495.539, 'duration': 2.88}
+{'text': "you're saying I just you have to have a", 'start': 497.28, 'duration': 2.46}
+{'text': 'few more steps of Separation otherwise', 'start': 498.419, 'duration': 2.701}
+{'text': "you're materially helping these people", 'start': 499.74, 'duration': 2.34}
+{'text': 'as well', 'start': 501.12, 'duration': 3.419}
+{'text': 'is that a fact yes oh well then enjoy', 'start': 502.08, 'duration': 3.54}
+{'text': 'your video game Stephen have a good', 'start': 504.539, 'duration': 3.261}
+{'text': 'night', 'start': 505.62, 'duration': 2.18}
+{'text': "well I was gonna say because my if I'm", 'start': 511.319, 'duration': 5.16}
+{'text': 'having a conversation with you then I do', 'start': 513.599, 'duration': 4.62}
+{'text': "better in viewership than when I'm not", 'start': 516.479, 'duration': 3.06}
+{'text': 'having these types of conversations and', 'start': 518.219, 'duration': 2.82}
+{'text': "if you're helping to elevate my platform", 'start': 519.539, 'duration': 3.0}
+{'text': "you're inadvertently also elevating the", 'start': 521.039, 'duration': 2.94}
+{'text': "platform that's elevating other racist", 'start': 522.539, 'duration': 3.601}
+{'text': "people so but I guess we didn't get to", 'start': 523.979, 'duration': 4.441}
+{'text': 'go to that part well', 'start': 526.14, 'duration': 4.34}
+{'text': 'um', 'start': 528.42, 'duration': 2.06}
+{'text': 'okay', 'start': 530.76, 'duration': 5.54}
+{'text': 'uh that was a', 'start': 532.399, 'duration': 3.901}
+{'text': 'it was a conversation I guess', 'start': 537.24, 'duration': 3.8}
+{'text': 'yeah imagine needing to take three days', 'start': 544.86, 'duration': 6.24}
+{'text': 'to schedule this conversation geez', 'start': 547.32, 'duration': 5.04}
+{'text': 'he was just waiting for a chance to', 'start': 551.1, 'duration': 2.94}
+{'text': 'leave in your gave it to him he sounded', 'start': 552.36, 'duration': 3.3}
+{'text': 'like he would he would have been able to', 'start': 554.04, 'duration': 5.22}
+{'text': 'engage but um Maybe not maybe he just', 'start': 555.66, 'duration': 4.859}
+{'text': 'had like this part of the script written', 'start': 559.26, 'duration': 2.639}
+{'text': 'out and then he was like done after that', 'start': 560.519, 'duration': 2.88}
+{'text': 'maybe', 'start': 561.899, 'duration': 4.861}
+{'text': 'oh true maybe it can be a YouTube short', 'start': 563.399, 'duration': 5.161}
+{'text': "he's a legit schizo watch his wash", 'start': 566.76, 'duration': 3.18}
+{'text': "debate I don't watch a bunch of videos", 'start': 568.56, 'duration': 4.399}
+{'text': "on him now it's [\xa0__\xa0] weird", 'start': 569.94, 'duration': 3.019}
+{'text': 'they expect one of us on the wreckage', 'start': 573.42, 'duration': 4.099}
+{'text': 'brother true', 'start': 574.98, 'duration': 2.539}
+{'text': 'my now the real question is is he gonna', 'start': 579.24, 'duration': 4.08}
+{'text': 'make a video for his YouTube channel', 'start': 581.82, 'duration': 3.42}
+{'text': 'about this conversation that was longer', 'start': 583.32, 'duration': 4.98}
+{'text': 'than the actual conversation', 'start': 585.24, 'duration': 5.58}
+{'text': 'who was that um some insane dude on', 'start': 588.3, 'duration': 4.62}
+{'text': 'Twitter called president Sunday or like', 'start': 590.82, 'duration': 3.3}
+{'text': "he I maybe I shouldn't call him his", 'start': 592.92, 'duration': 2.72}
+{'text': 'sandwich like he engages in a lot of', 'start': 594.12, 'duration': 4.74}
+{'text': "Destiny hate we'll say", 'start': 595.64, 'duration': 5.259}
+{'text': 'you were monetarily helping people you', 'start': 598.86, 'duration': 3.659}
+{'text': 'disagree with by engaging with them at', 'start': 600.899, 'duration': 3.841}
+{'text': 'any level meanwhile I will engage with', 'start': 602.519, 'duration': 4.26}
+{'text': 'you at this level and I am totally not', 'start': 604.74, 'duration': 3.9}
+{'text': 'monetarily helping you and not be', 'start': 606.779, 'duration': 4.141}
+{'text': 'extension those people I disagree with', 'start': 608.64, 'duration': 4.939}
+{'text': 'hello', 'start': 610.92, 'duration': 2.659}
+{'text': '90 minute video with frame chimping 100', 'start': 615.6, 'duration': 3.84}
+{'text': 'coming with a title of Destiny admits he', 'start': 617.519, 'duration': 4.94}
+{'text': 'makes videos for money', 'start': 619.44, 'duration': 3.019}
+{'text': 'finally he crammed your argument by of', 'start': 622.62, 'duration': 3.42}
+{'text': 'aiding them by engaging with you by', 'start': 624.3, 'duration': 3.42}
+{'text': 'disengaging with you so he won that', 'start': 626.04, 'duration': 2.88}
+{'text': 'debate on my book well but I mean', 'start': 627.72, 'duration': 2.46}
+{'text': "technically he lost because now he's", 'start': 628.92, 'duration': 2.88}
+{'text': 'elevated my platform', 'start': 630.18, 'duration': 4.08}
+{'text': "arguably for greed one thing I don't", 'start': 631.8, 'duration': 4.44}
+{'text': "like is when people I don't like it when", 'start': 634.26, 'duration': 4.019}
+{'text': 'people try so hard to preempt your', 'start': 636.24, 'duration': 4.08}
+{'text': 'arguments that they will like that', 'start': 638.279, 'duration': 3.421}
+{'text': "they'll try really hard not to agree", 'start': 640.32, 'duration': 3.6}
+{'text': 'with pretty obvious stuff like when you', 'start': 641.7, 'duration': 4.319}
+{'text': 'say something like well when you make an', 'start': 643.92, 'duration': 3.24}
+{'text': "argument aren't you trying to convince", 'start': 646.019, 'duration': 2.161}
+{'text': "somebody of something and they're like", 'start': 647.16, 'duration': 2.7}
+{'text': 'no like', 'start': 648.18, 'duration': 4.74}
+{'text': "well wait hold on isn't that like isn't", 'start': 649.86, 'duration': 4.2}
+{'text': 'that kind of the entire purpose of', 'start': 652.92, 'duration': 3.599}
+{'text': 'making an argument is to convince me no', 'start': 654.06, 'duration': 3.719}
+{'text': 'well', 'start': 656.519, 'duration': 2.82}
+{'text': 'okay', 'start': 657.779, 'duration': 6.0}
+{'text': "sure I guess okay yeah yeah if that's I", 'start': 659.339, 'duration': 6.541}
+{'text': 'guess okay', 'start': 663.779, 'duration': 3.24}
+{'text': 'you think the primary Center beginning', 'start': 665.88, 'duration': 2.34}
+{'text': "is actually true it's kind of just", 'start': 667.019, 'duration': 2.281}
+{'text': 'accepted in this community but has', 'start': 668.22, 'duration': 2.58}
+{'text': 'anyone actually studied it well the', 'start': 669.3, 'duration': 3.0}
+{'text': "issue we've had this conversation a lot", 'start': 670.8, 'duration': 2.82}
+{'text': 'in my chat and now I just kind of like', 'start': 672.3, 'duration': 2.82}
+{'text': 'disregard it because like basically', 'start': 673.62, 'duration': 3.6}
+{'text': 'people will say um', 'start': 675.12, 'duration': 4.5}
+{'text': 'uh this is kind of where oh here it is', 'start': 677.22, 'duration': 4.14}
+{'text': 'this is kind of where vosh is at at the', 'start': 679.62, 'duration': 2.94}
+{'text': "moment where he's like I'm not going to", 'start': 681.36, 'duration': 4.32}
+{'text': 'engage with any smaller Creator because', 'start': 682.56, 'duration': 4.14}
+{'text': "um I don't want to elevate their", 'start': 685.68, 'duration': 3.48}
+{'text': 'platform but it essentially just turns', 'start': 686.7, 'duration': 4.379}
+{'text': "you into like um I don't want to say", 'start': 689.16, 'duration': 3.0}
+{'text': "cloud strike but you're basically like", 'start': 691.079, 'duration': 2.521}
+{'text': "only debate you if you're famous enough", 'start': 692.16, 'duration': 3.06}
+{'text': "is basically what you're saying which", 'start': 693.6, 'duration': 3.479}
+{'text': 'feels kind of weird especially if the', 'start': 695.22, 'duration': 3.0}
+{'text': 'only way that you climbed as a small', 'start': 697.079, 'duration': 2.94}
+{'text': 'content creator is by having larger', 'start': 698.22, 'duration': 3.42}
+{'text': 'people like me debate you so it seems a', 'start': 700.019, 'duration': 2.82}
+{'text': 'little bit weird to turn around and do', 'start': 701.64, 'duration': 2.22}
+{'text': 'that', 'start': 702.839, 'duration': 2.761}
+{'text': 'um but then it also precludes you from', 'start': 703.86, 'duration': 3.12}
+{'text': 'basically debating like anybody that', 'start': 705.6, 'duration': 2.58}
+{'text': 'disagrees with you unless you can gain', 'start': 706.98, 'duration': 3.12}
+{'text': 'off of them which I think is actually', 'start': 708.18, 'duration': 4.08}
+{'text': "that's actually the greedy position", 'start': 710.1, 'duration': 4.08}
+{'text': "right I'm not going to have a debate", 'start': 712.26, 'duration': 3.3}
+{'text': 'with you unless I stand to financially', 'start': 714.18, 'duration': 3.42}
+{'text': 'gain from it which is a little bit weird', 'start': 715.56, 'duration': 4.579}
+{'text': 'for me but', 'start': 717.6, 'duration': 2.539}

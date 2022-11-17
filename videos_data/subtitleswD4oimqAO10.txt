@@ -1,0 +1,1234 @@
+{'text': 'what are you guys talking about how many', 'start': 0.0, 'duration': 3.12}
+{'text': 'software devs do you know', 'start': 1.68, 'duration': 3.04}
+{'text': 'go to move to san francisco and then are', 'start': 3.12, 'duration': 3.199}
+{'text': 'out like [\xa0__\xa0] partying or surfing', 'start': 4.72, 'duration': 3.119}
+{'text': 'every other [\xa0__\xa0] day what do you mean', 'start': 6.319, 'duration': 3.36}
+{'text': 'most you people live miserable [\xa0__\xa0]', 'start': 7.839, 'duration': 3.121}
+{'text': 'lives [\xa0__\xa0] uh', 'start': 9.679, 'duration': 3.201}
+{'text': '25 of you millennial [\xa0__\xa0] are on', 'start': 10.96, 'duration': 4.08}
+{'text': 'antidepressants or ssris or some [\xa0__\xa0]', 'start': 12.88, 'duration': 3.52}
+{'text': 'like what are you guys out here acting', 'start': 15.04, 'duration': 3.04}
+{'text': "like you're living your best life like", 'start': 16.4, 'duration': 3.2}
+{'text': "you're happy and fulfilled and you're", 'start': 18.08, 'duration': 3.119}
+{'text': 'not all like on the verge of breaking', 'start': 19.6, 'duration': 3.2}
+{'text': 'down into mid-life crises because you', 'start': 21.199, 'duration': 2.801}
+{'text': 'realize that like the', 'start': 22.8, 'duration': 2.799}
+{'text': 'dream of like going to college and', 'start': 24.0, 'duration': 3.039}
+{'text': 'getting some soulless [\xa0__\xa0]', 'start': 25.599, 'duration': 2.961}
+{'text': 'corporate job and then moving to san', 'start': 27.039, 'duration': 2.961}
+{'text': 'francisco and living in some tiny', 'start': 28.56, 'duration': 2.639}
+{'text': '[\xa0__\xa0] corner of the world for your', 'start': 30.0, 'duration': 2.64}
+{'text': "entire life like isn't making you happy", 'start': 31.199, 'duration': 2.481}
+{'text': "like we're going to pretend that these", 'start': 32.64, 'duration': 2.32}
+{'text': 'people that all move to these massive', 'start': 33.68, 'duration': 2.16}
+{'text': 'cities are having like', 'start': 34.96, 'duration': 2.16}
+{'text': 'the most fun that they ever could have', 'start': 35.84, 'duration': 2.96}
+{'text': 'had any other place in their world like', 'start': 37.12, 'duration': 4.32}
+{'text': 'come on dude', 'start': 38.8, 'duration': 2.64}
+{'text': 'everything that i everything that i', 'start': 41.84, 'duration': 3.199}
+{'text': 'thought i do has been challenged so much', 'start': 43.52, 'duration': 3.12}
+{'text': 'over the past couple years', 'start': 45.039, 'duration': 4.401}
+{'text': "here is some random [\xa0__\xa0] i'm curious", 'start': 46.64, 'duration': 5.04}
+{'text': 'because molina pointed this out okay', 'start': 49.44, 'duration': 5.119}
+{'text': "i'm curious for my for my european bros", 'start': 51.68, 'duration': 4.719}
+{'text': 'so we hear a lot about unaffordability', 'start': 54.559, 'duration': 2.48}
+{'text': 'of', 'start': 56.399, 'duration': 2.16}
+{'text': 'education all that [\xa0__\xa0] which are', 'start': 57.039, 'duration': 3.04}
+{'text': 'definitely problems', 'start': 58.559, 'duration': 3.761}
+{'text': "here's something that i don't know if", 'start': 60.079, 'duration': 3.841}
+{'text': 'this is true', 'start': 62.32, 'duration': 4.64}
+{'text': 'in the united states our average like', 'start': 63.92, 'duration': 4.32}
+{'text': 'state schools', 'start': 66.96, 'duration': 4.4}
+{'text': 'are like massive', 'start': 68.24, 'duration': 5.28}
+{'text': "and apparently that's not very normal in", 'start': 71.36, 'duration': 3.84}
+{'text': 'europe like', 'start': 73.52, 'duration': 3.84}
+{'text': "i i now this is i'm going by literally", 'start': 75.2, 'duration': 3.599}
+{'text': 'molina and one other person has told me', 'start': 77.36, 'duration': 2.56}
+{'text': "this so maybe that's not true", 'start': 78.799, 'duration': 3.36}
+{'text': "but like here's an example okay let me", 'start': 79.92, 'duration': 3.519}
+{'text': "give you an example of what i'm talking", 'start': 82.159, 'duration': 3.121}
+{'text': "about here all right what's massive", 'start': 83.439, 'duration': 3.841}
+{'text': 'let me give you an example so i went to', 'start': 85.28, 'duration': 4.159}
+{'text': 'college at a place called the university', 'start': 87.28, 'duration': 3.68}
+{'text': 'of nebraska at omaha', 'start': 89.439, 'duration': 2.961}
+{'text': 'none of you have ever heard about this', 'start': 90.96, 'duration': 3.119}
+{'text': "school before it's in the state of", 'start': 92.4, 'duration': 2.719}
+{'text': 'nebraska', 'start': 94.079, 'duration': 3.36}
+{'text': "and it's not in the capital city okay", 'start': 95.119, 'duration': 3.36}
+{'text': "it's uno", 'start': 97.439, 'duration': 4.481}
+{'text': 'this is like the gym of like my', 'start': 98.479, 'duration': 6.64}
+{'text': "old college okay i think it's called the", 'start': 101.92, 'duration': 4.4}
+{'text': 'hyper building', 'start': 105.119, 'duration': 6.161}
+{'text': 'this is our gym um wait like', 'start': 106.32, 'duration': 4.96}
+{'text': 'this is like our this is like our pool', 'start': 112.24, 'duration': 5.519}
+{'text': 'for my this is for my state school for', 'start': 115.36, 'duration': 3.6}
+{'text': 'my the uno', 'start': 117.759, 'duration': 3.601}
+{'text': "the like and this isn't like super", 'start': 118.96, 'duration': 3.119}
+{'text': 'uncommon', 'start': 121.36, 'duration': 1.68}
+{'text': "it's called oh it's not called the", 'start': 122.079, 'duration': 3.04}
+{'text': "hybrid bill anymore yeah this isn't", 'start': 123.04, 'duration': 4.96}
+{'text': 'that uncommon in the united states state', 'start': 125.119, 'duration': 3.521}
+{'text': 'schools', 'start': 128.0, 'duration': 4.64}
+{'text': 'have like unbelievable infrastructure', 'start': 128.64, 'duration': 7.36}
+{'text': 'unbelievable infrastructure um here is', 'start': 132.64, 'duration': 3.76}
+{'text': 'like', 'start': 136.0, 'duration': 3.04}
+{'text': 'university of nebraska omaha library', 'start': 136.4, 'duration': 5.04}
+{'text': 'here is our library this is our library', 'start': 139.04, 'duration': 3.839}
+{'text': 'for my school', 'start': 141.44, 'duration': 3.12}
+{'text': 'for my state school that none of you', 'start': 142.879, 'duration': 3.201}
+{'text': 'have ever heard of before', 'start': 144.56, 'duration': 3.759}
+{'text': 'um', 'start': 146.08, 'duration': 2.239}
+{'text': 'so and melina pointed this out and she', 'start': 149.36, 'duration': 3.519}
+{'text': 'was like', 'start': 152.16, 'duration': 1.92}
+{'text': "because there's like an itty-bitty", 'start': 152.879, 'duration': 2.64}
+{'text': '[\xa0__\xa0] building over here in huntington', 'start': 154.08, 'duration': 2.72}
+{'text': "beach and she's like wait what the [\xa0__\xa0]", 'start': 155.519, 'duration': 2.481}
+{'text': "why is it so huge i'm like what do you", 'start': 156.8, 'duration': 2.48}
+{'text': 'mean this is like a small like random', 'start': 158.0, 'duration': 2.319}
+{'text': '[\xa0__\xa0] building', 'start': 159.28, 'duration': 3.039}
+{'text': 'um and melina was telling me like well', 'start': 160.319, 'duration': 3.041}
+{'text': 'in sweden', 'start': 162.319, 'duration': 2.721}
+{'text': 'at the very least like you know there', 'start': 163.36, 'duration': 3.28}
+{'text': 'are these massive things this is like', 'start': 165.04, 'duration': 2.72}
+{'text': 'this is the library the cro', 'start': 166.64, 'duration': 2.56}
+{'text': "the chris library whatever school she's", 'start': 167.76, 'duration': 2.72}
+{'text': 'like this you would never find this that', 'start': 169.2, 'duration': 2.88}
+{'text': 'sounds like a massive major institution', 'start': 170.48, 'duration': 2.8}
+{'text': "so i'm curious like in the rest of", 'start': 172.08, 'duration': 2.64}
+{'text': 'europe is it true that like most of your', 'start': 173.28, 'duration': 3.2}
+{'text': 'schools are like relatively small', 'start': 174.72, 'duration': 2.48}
+{'text': 'compared to', 'start': 176.48, 'duration': 3.759}
+{'text': 'stuff like this or for sure compared to', 'start': 177.2, 'duration': 4.48}
+{'text': 'that', 'start': 180.239, 'duration': 4.241}
+{'text': 'so when so when i see stuff like this', 'start': 181.68, 'duration': 4.639}
+{'text': 'well now it makes me wonder', 'start': 184.48, 'duration': 3.36}
+{'text': 'when europeans are like all of our', 'start': 186.319, 'duration': 3.441}
+{'text': 'schools are [\xa0__\xa0] affordable and [\xa0__\xa0]', 'start': 187.84, 'duration': 4.0}
+{'text': "and it's like yeah that's really good", 'start': 189.76, 'duration': 3.6}
+{'text': "but now i'm wondering well hold on mate", 'start': 191.84, 'duration': 3.36}
+{'text': 'are your schools like are elementary', 'start': 193.36, 'duration': 3.28}
+{'text': 'schools', 'start': 195.2, 'duration': 4.16}
+{'text': "i sincerely wonder i'm not sure show the", 'start': 196.64, 'duration': 4.56}
+{'text': 'elkhorn football arena', 'start': 199.36, 'duration': 3.599}
+{'text': 'does elkhorn even have a school over', 'start': 201.2, 'duration': 3.52}
+{'text': "there i don't even [\xa0__\xa0] know wait is", 'start': 202.959, 'duration': 4.56}
+{'text': 'that actually a thing', 'start': 204.72, 'duration': 2.799}
+{'text': 'elkhorn football field high school', 'start': 207.84, 'duration': 4.88}
+{'text': 'football field elkhorn i high school', 'start': 210.799, 'duration': 4.72}
+{'text': 'football field oh', 'start': 212.72, 'duration': 2.799}
+{'text': 'jesus and grand island this city is', 'start': 215.84, 'duration': 4.479}
+{'text': 'going to be like population [\xa0__\xa0]', 'start': 218.239, 'duration': 5.121}
+{'text': '50 000.', 'start': 220.319, 'duration': 3.041}
+{'text': 'um elkhorn no no wait grand island', 'start': 224.159, 'duration': 4.881}
+{'text': 'population but grand island is far from', 'start': 227.44, 'duration': 5.359}
+{'text': "elkhorn isn't it it's like 50 000.", 'start': 229.04, 'duration': 3.759}
+{'text': "that's state funded yeah this is a", 'start': 233.519, 'duration': 3.121}
+{'text': 'public school this is all like state', 'start': 235.28, 'duration': 2.8}
+{'text': 'funded', 'start': 236.64, 'duration': 2.799}
+{'text': 'every single high school in america has', 'start': 238.08, 'duration': 2.239}
+{'text': "to feel like that yeah i don't want to", 'start': 239.439, 'duration': 2.16}
+{'text': 'use my high schools until because it was', 'start': 240.319, 'duration': 2.56}
+{'text': 'a private school', 'start': 241.599, 'duration': 3.28}
+{'text': 'but wait what about like what westside', 'start': 242.879, 'duration': 4.08}
+{'text': 'high school football', 'start': 244.879, 'duration': 4.801}
+{'text': 'these are okay by the way these are um', 'start': 246.959, 'duration': 3.761}
+{'text': 'high schools', 'start': 249.68, 'duration': 2.559}
+{'text': 'or gymnasium i guess as you would call', 'start': 250.72, 'duration': 4.159}
+{'text': 'them in sweden but this is like', 'start': 252.239, 'duration': 4.321}
+{'text': 'this is our this is our high school', 'start': 254.879, 'duration': 3.281}
+{'text': 'football field this is publicly funded', 'start': 256.56, 'duration': 2.959}
+{'text': 'this is our public high school football', 'start': 258.16, 'duration': 2.079}
+{'text': 'field', 'start': 259.519, 'duration': 2.721}
+{'text': 'yeah see okay [\xa0__\xa0] so now you guys so', 'start': 260.239, 'duration': 4.641}
+{'text': "now i'm really now i really wonder", 'start': 262.24, 'duration': 4.239}
+{'text': 'now i really wonder like what the [\xa0__\xa0]', 'start': 264.88, 'duration': 3.92}
+{'text': 'wait what are your musicals look like', 'start': 266.479, 'duration': 4.481}
+{'text': 'um maybe that money should go into', 'start': 268.8, 'duration': 3.52}
+{'text': 'actual education', 'start': 270.96, 'duration': 4.239}
+{'text': 'well on our top tier public schools like', 'start': 272.32, 'duration': 4.56}
+{'text': 'the education is really really really', 'start': 275.199, 'duration': 2.56}
+{'text': 'good', 'start': 276.88, 'duration': 2.16}
+{'text': "somebody can correct me i don't know if", 'start': 277.759, 'duration': 3.281}
+{'text': 'there are any omaha bros in here so', 'start': 279.04, 'duration': 4.24}
+{'text': 'whenever i was in like a private school', 'start': 281.04, 'duration': 4.0}
+{'text': 'all of our all of our like standardized', 'start': 283.28, 'duration': 3.28}
+{'text': 'test scores what was it the itbs', 'start': 285.04, 'duration': 3.92}
+{'text': 'iowa testified skills and like our acts', 'start': 286.56, 'duration': 4.48}
+{'text': 'our sats um', 'start': 288.96, 'duration': 4.48}
+{'text': 'all of that on the were not a democracy', 'start': 291.04, 'duration': 5.599}
+{'text': 'where a republic take', 'start': 293.44, 'duration': 6.24}
+{'text': "um we're we're a democratic republic", 'start': 296.639, 'duration': 4.481}
+{'text': "i don't know what these words mean my", 'start': 299.68, 'duration': 2.56}
+{'text': 'understanding is democracy means that', 'start': 301.12, 'duration': 2.56}
+{'text': 'the people vote on [\xa0__\xa0] republic means', 'start': 302.24, 'duration': 2.799}
+{'text': 'you have representatives that vote', 'start': 303.68, 'duration': 2.799}
+{'text': 'in favor of you we vote on our', 'start': 305.039, 'duration': 2.481}
+{'text': "representatives doesn't that make us a", 'start': 306.479, 'duration': 2.481}
+{'text': "democratic republic isn't that what that", 'start': 307.52, 'duration': 4.32}
+{'text': 'means', 'start': 308.96, 'duration': 2.88}
+{'text': 'republicans form government which the um', 'start': 314.8, 'duration': 3.119}
+{'text': 'the country is considered a public', 'start': 316.56, 'duration': 2.24}
+{'text': 'matter not a private', 'start': 317.919, 'duration': 2.241}
+{'text': "primary okay maybe that's not even i", 'start': 318.8, 'duration': 7.04}
+{'text': "don't know republican means president", 'start': 320.16, 'duration': 5.68}
+{'text': 'my understanding is that the democratic', 'start': 326.88, 'duration': 2.64}
+{'text': 'republic means that we have elected', 'start': 328.24, 'duration': 2.72}
+{'text': 'officials that vote in place of us and', 'start': 329.52, 'duration': 2.56}
+{'text': 'then democrat whatever', 'start': 330.96, 'duration': 2.48}
+{'text': "i'm sorry okay what were you talking", 'start': 332.08, 'duration': 3.679}
+{'text': 'about [\xa0__\xa0] i totally comparing stadiums', 'start': 333.44, 'duration': 3.759}
+{'text': 'and gyms does that make sense university', 'start': 335.759, 'duration': 4.72}
+{'text': "sports isn't that much of a thing here", 'start': 337.199, 'duration': 6.161}
+{'text': 'well yeah so like even um destiny', 'start': 340.479, 'duration': 4.081}
+{'text': 'someone tell destiny that west side is', 'start': 343.36, 'duration': 2.64}
+{'text': 'like the richest school in omaha though', 'start': 344.56, 'duration': 2.72}
+{'text': 'he needs to pull up like benson and one', 'start': 346.0, 'duration': 1.759}
+{'text': 'of them', 'start': 347.28, 'duration': 3.28}
+{'text': "first of all hey okay calm down i'm from", 'start': 347.759, 'duration': 4.241}
+{'text': 'omaha i know that west side is one of', 'start': 350.56, 'duration': 2.639}
+{'text': "the richest schools that's the district", 'start': 352.0, 'duration': 2.88}
+{'text': 'that i moved nathan into', 'start': 353.199, 'duration': 4.081}
+{'text': "okay um but like i'm just i'm showing", 'start': 354.88, 'duration': 3.92}
+{'text': 'first of all this is the city of omaha', 'start': 357.28, 'duration': 2.88}
+{'text': "okay it's not like omaha is a city of", 'start': 358.8, 'duration': 2.8}
+{'text': '[\xa0__\xa0] millionaires', 'start': 360.16, 'duration': 2.72}
+{'text': 'well except warren buffett lives there', 'start': 361.6, 'duration': 2.719}
+{'text': 'for some [\xa0__\xa0] reason because he lives', 'start': 362.88, 'duration': 2.48}
+{'text': "in regency i don't know why", 'start': 364.319, 'duration': 2.481}
+{'text': 'but like generally omaha is not like the', 'start': 365.36, 'duration': 2.399}
+{'text': "richest city in the world but i'm just", 'start': 366.8, 'duration': 2.0}
+{'text': 'saying like this is like', 'start': 367.759, 'duration': 2.801}
+{'text': 'from a high tier like public school in', 'start': 368.8, 'duration': 3.119}
+{'text': 'omaha this is', 'start': 370.56, 'duration': 4.4}
+{'text': 'like what we have um', 'start': 371.919, 'duration': 5.12}
+{'text': 'here is the gymnasium i went to small', 'start': 374.96, 'duration': 3.92}
+{'text': 'city in sweden', 'start': 377.039, 'duration': 4.0}
+{'text': 'oh my god dude why is it that in sweden', 'start': 378.88, 'duration': 3.439}
+{'text': 'why do you guys have so many [\xa0__\xa0]', 'start': 381.039, 'duration': 3.681}
+{'text': 'chernobyl looking buildings', 'start': 382.319, 'duration': 4.641}
+{'text': 'in in downtown your area looks a lot', 'start': 384.72, 'duration': 3.039}
+{'text': 'more exciting', 'start': 386.96, 'duration': 2.16}
+{'text': 'but it feels like once you get away from', 'start': 387.759, 'duration': 3.041}
+{'text': 'the city center you guys have a lot of', 'start': 389.12, 'duration': 3.76}
+{'text': 'like copy pasted [\xa0__\xa0] ukrainian', 'start': 390.8, 'duration': 4.0}
+{'text': "apartment complexes and i don't know why", 'start': 392.88, 'duration': 4.159}
+{'text': 'it is depressing and brutalist as [\xa0__\xa0]', 'start': 394.8, 'duration': 5.36}
+{'text': "i don't understand", 'start': 397.039, 'duration': 3.121}
+{'text': '[Music]', 'start': 402.25, 'duration': 3.669}
+{'text': 'would it be vital to raise all of our', 'start': 404.8, 'duration': 2.56}
+{'text': 'schools to the high tier level i think', 'start': 405.919, 'duration': 2.72}
+{'text': 'that might be incredibly expensive yeah', 'start': 407.36, 'duration': 2.0}
+{'text': 'it might be', 'start': 408.639, 'duration': 1.151}
+{'text': 'um', 'start': 409.36, 'duration': 3.2}
+{'text': '[Music]', 'start': 409.79, 'duration': 5.89}
+{'text': 'i just i wonder sometimes um', 'start': 412.56, 'duration': 4.56}
+{'text': "i don't know dude i just don't know", 'start': 415.68, 'duration': 3.12}
+{'text': "anything about america it's just so", 'start': 417.12, 'duration': 2.96}
+{'text': "[\xa0__\xa0] mind-blowing to me i don't", 'start': 418.8, 'duration': 2.72}
+{'text': "understand i don't know anything about", 'start': 420.08, 'duration': 2.88}
+{'text': 'everything is just so confusing for', 'start': 421.52, 'duration': 3.76}
+{'text': 'everything', 'start': 422.96, 'duration': 2.32}
+{'text': "nice another thing that i've heard", 'start': 428.08, 'duration': 5.36}
+{'text': "um and i think we've read this too is", 'start': 431.44, 'duration': 3.199}
+{'text': 'that', 'start': 433.44, 'duration': 2.72}
+{'text': 'in order for the schooling systems in a', 'start': 434.639, 'duration': 2.96}
+{'text': 'lot of these european countries where', 'start': 436.16, 'duration': 2.879}
+{'text': 'education is guaranteed', 'start': 437.599, 'duration': 2.88}
+{'text': 'so in the united states we always want', 'start': 439.039, 'duration': 3.6}
+{'text': 'to emulate here is what sucks', 'start': 440.479, 'duration': 3.921}
+{'text': 'and dude and i all feel so like now i', 'start': 442.639, 'duration': 3.441}
+{'text': "feel like i'm not giving solutions to", 'start': 444.4, 'duration': 2.56}
+{'text': 'everything', 'start': 446.08, 'duration': 3.28}
+{'text': 'is it like it feels like we have this', 'start': 446.96, 'duration': 3.44}
+{'text': 'problem', 'start': 449.36, 'duration': 4.559}
+{'text': "where we're like hey the class structure", 'start': 450.4, 'duration': 4.799}
+{'text': 'in the us is [\xa0__\xa0]', 'start': 453.919, 'duration': 3.041}
+{'text': 'like well what can we do to fix this', 'start': 455.199, 'duration': 3.601}
+{'text': 'like okay well people', 'start': 456.96, 'duration': 3.679}
+{'text': "we don't this is a waste of time we", 'start': 458.8, 'duration': 3.04}
+{'text': "can't focus on like money", 'start': 460.639, 'duration': 3.041}
+{'text': 'okay we need to focus on like getting', 'start': 461.84, 'duration': 3.199}
+{'text': 'people good jobs because like', 'start': 463.68, 'duration': 3.44}
+{'text': 'getting good jobs is like a way to like', 'start': 465.039, 'duration': 3.84}
+{'text': 'improve your society structure insider', 'start': 467.12, 'duration': 2.16}
+{'text': 'like', 'start': 468.879, 'duration': 2.481}
+{'text': 'or your position decided okay well how', 'start': 469.28, 'duration': 3.919}
+{'text': 'are you gonna get good jobs okay hold on', 'start': 471.36, 'duration': 3.36}
+{'text': "it's not actually about the jobs at all", 'start': 473.199, 'duration': 3.201}
+{'text': "we actually need it's like", 'start': 474.72, 'duration': 4.56}
+{'text': "really good education and it's like this", 'start': 476.4, 'duration': 4.32}
+{'text': 'is actually what will like get us like', 'start': 479.28, 'duration': 2.72}
+{'text': 'better jobs and like elevate people', 'start': 480.72, 'duration': 2.08}
+{'text': "everything's like okay", 'start': 482.0, 'duration': 1.759}
+{'text': 'well if you throw people in like really', 'start': 482.8, 'duration': 2.16}
+{'text': 'good schools everywhere like fixing well', 'start': 483.759, 'duration': 2.961}
+{'text': "no [\xa0__\xa0] wait well that's not everything", 'start': 484.96, 'duration': 4.639}
+{'text': "that's gonna help like because like", 'start': 486.72, 'duration': 4.08}
+{'text': "being in a really good school isn't", 'start': 489.599, 'duration': 2.401}
+{'text': 'enough like you need like good', 'start': 490.8, 'duration': 2.88}
+{'text': 'not not housing actually i should say', 'start': 492.0, 'duration': 3.199}
+{'text': 'like household like you need like a', 'start': 493.68, 'duration': 2.959}
+{'text': "family that's educated and supports you", 'start': 495.199, 'duration': 2.4}
+{'text': 'and can like do all this [\xa0__\xa0] or', 'start': 496.639, 'duration': 1.521}
+{'text': 'whatever too', 'start': 497.599, 'duration': 2.801}
+{'text': "it's like not like i don't know like", 'start': 498.16, 'duration': 4.0}
+{'text': 'where the fixing any of these things', 'start': 500.4, 'duration': 2.96}
+{'text': 'like happens because it seems like', 'start': 502.16, 'duration': 2.24}
+{'text': 'everything gets more and more and more', 'start': 503.36, 'duration': 4.8}
+{'text': 'and more fundamental um', 'start': 504.4, 'duration': 3.76}
+{'text': "i i tell like i don't know what the", 'start': 508.319, 'duration': 3.921}
+{'text': '[\xa0__\xa0] root cause of like everything is', 'start': 509.84, 'duration': 4.8}
+{'text': 'um let me give a more concrete example', 'start': 512.24, 'duration': 3.2}
+{'text': 'of this', 'start': 514.64, 'duration': 2.48}
+{'text': 'in the united states people are like if', 'start': 515.44, 'duration': 3.039}
+{'text': 'we were to switch immediately to like a', 'start': 517.12, 'duration': 2.96}
+{'text': 'european style of funding education', 'start': 518.479, 'duration': 3.36}
+{'text': "things would get so much better i don't", 'start': 520.08, 'duration': 3.12}
+{'text': "think that's true because from", 'start': 521.839, 'duration': 2.801}
+{'text': "everything that i've heard", 'start': 523.2, 'duration': 3.84}
+{'text': 'testing all of those very free great', 'start': 524.64, 'duration': 4.0}
+{'text': 'european universities that everybody in', 'start': 527.04, 'duration': 2.72}
+{'text': 'europe gets to go to and are so awesome', 'start': 528.64, 'duration': 2.08}
+{'text': 'blah blah blah blah', 'start': 529.76, 'duration': 2.96}
+{'text': "those are [\xa0__\xa0] hard to get into it's", 'start': 530.72, 'duration': 3.92}
+{'text': "not like uh it's not like the dumbest", 'start': 532.72, 'duration': 3.679}
+{'text': '[\xa0__\xa0] kid in every class in germany', 'start': 534.64, 'duration': 2.96}
+{'text': 'gets to go to the best [\xa0__\xa0]', 'start': 536.399, 'duration': 1.921}
+{'text': 'university', 'start': 537.6, 'duration': 2.0}
+{'text': "a lot of these people just don't have", 'start': 538.32, 'duration': 2.88}
+{'text': 'the opportunity to do it like if you', 'start': 539.6, 'duration': 2.48}
+{'text': "don't test well", 'start': 541.2, 'duration': 2.16}
+{'text': "if you don't do good in high school", 'start': 542.08, 'duration': 3.6}
+{'text': "you're just [\xa0__\xa0] in terms of like", 'start': 543.36, 'duration': 3.36}
+{'text': 'gaining i guess you can go to like a', 'start': 545.68, 'duration': 3.2}
+{'text': '[\xa0__\xa0] school or whatever but like um', 'start': 546.72, 'duration': 3.36}
+{'text': "this is something that i've heard", 'start': 548.88, 'duration': 2.56}
+{'text': 'because because i always have a ton of', 'start': 550.08, 'duration': 2.48}
+{'text': 'anti-american takes when i talk to', 'start': 551.44, 'duration': 2.399}
+{'text': 'european friends but then when i talk to', 'start': 552.56, 'duration': 2.56}
+{'text': 'people that live in europe like i hear', 'start': 553.839, 'duration': 1.921}
+{'text': 'this a lot', 'start': 555.12, 'duration': 2.24}
+{'text': "where it's like oh yeah like high school", 'start': 555.76, 'duration': 3.04}
+{'text': 'and all of this [\xa0__\xa0] is incredibly', 'start': 557.36, 'duration': 2.56}
+{'text': '[\xa0__\xa0] stressful', 'start': 558.8, 'duration': 3.2}
+{'text': 'um i this was mainly from german friends', 'start': 559.92, 'duration': 3.68}
+{'text': 'and i think some swedish friends but i', 'start': 562.0, 'duration': 2.48}
+{'text': "haven't talked to other people around", 'start': 563.6, 'duration': 1.84}
+{'text': "europe so maybe it's different other", 'start': 564.48, 'duration': 2.16}
+{'text': 'countries but i feel like high school', 'start': 565.44, 'duration': 2.24}
+{'text': 'time and everything is like very very', 'start': 566.64, 'duration': 2.08}
+{'text': 'very [\xa0__\xa0] stressful because you have', 'start': 567.68, 'duration': 2.08}
+{'text': 'to test really really well', 'start': 568.72, 'duration': 1.92}
+{'text': "because if you don't you're not going to", 'start': 569.76, 'duration': 2.079}
+{'text': 'get into like a tier one school or', 'start': 570.64, 'duration': 2.4}
+{'text': 'whatever i guess in germany', 'start': 571.839, 'duration': 3.12}
+{'text': 'is it three tiers or whatever um but', 'start': 573.04, 'duration': 3.359}
+{'text': "there's like a one two and three", 'start': 574.959, 'duration': 3.601}
+{'text': 'um that things can become like very', 'start': 576.399, 'duration': 3.281}
+{'text': 'selective very quickly', 'start': 578.56, 'duration': 2.08}
+{'text': 'so if we were to just give free', 'start': 579.68, 'duration': 2.4}
+{'text': 'education everybody in the united states', 'start': 580.64, 'duration': 2.96}
+{'text': 'poor people that have [\xa0__\xa0] families that', 'start': 582.08, 'duration': 2.879}
+{'text': "aren't gonna like do very well in school", 'start': 583.6, 'duration': 2.96}
+{'text': 'are still not gonna test into these like', 'start': 584.959, 'duration': 3.041}
+{'text': "free universities they're not gonna make", 'start': 586.56, 'duration': 2.56}
+{'text': 'it any farther like it has to be', 'start': 588.0, 'duration': 2.8}
+{'text': 'something more than that', 'start': 589.12, 'duration': 4.24}
+{'text': 'how is this different from ivy leagues', 'start': 590.8, 'duration': 3.68}
+{'text': "um well it's not", 'start': 593.36, 'duration': 2.96}
+{'text': "that i just don't know to be a gross", 'start': 594.48, 'duration': 4.0}
+{'text': 'white name dgl', 'start': 596.32, 'duration': 3.6}
+{'text': "i guess i don't know like how [\xa0__\xa0] is", 'start': 598.48, 'duration': 2.64}
+{'text': 'it if you graduate from a tier three', 'start': 599.92, 'duration': 2.479}
+{'text': 'school in like germany or', 'start': 601.12, 'duration': 2.48}
+{'text': 'is it tier three is it tier one two', 'start': 602.399, 'duration': 4.721}
+{'text': 'three am i mixing this up um', 'start': 603.6, 'duration': 5.12}
+{'text': 'wait okay so hold on so somebody tell me', 'start': 607.12, 'duration': 2.56}
+{'text': "if you're if you're right i don't know", 'start': 608.72, 'duration': 1.92}
+{'text': 'how many', 'start': 609.68, 'duration': 3.2}
+{'text': 'in the netherlands everyone below 18 has', 'start': 610.64, 'duration': 3.6}
+{'text': 'free after everyone pays', 'start': 612.88, 'duration': 3.04}
+{'text': 'below 18 everyone is free after everyone', 'start': 614.24, 'duration': 3.599}
+{'text': 'pays can every single person in the', 'start': 615.92, 'duration': 3.599}
+{'text': 'netherlands just like go to the', 'start': 617.839, 'duration': 3.281}
+{'text': 'university uni if they want to is that', 'start': 619.519, 'duration': 3.281}
+{'text': 'like', 'start': 621.12, 'duration': 3.6}
+{'text': 'to any college they want i guess', 'start': 622.8, 'duration': 5.039}
+{'text': 'necessarily their holidays', 'start': 624.72, 'duration': 4.48}
+{'text': 'i have never heard of tiered schools in', 'start': 627.839, 'duration': 2.881}
+{'text': "germany [\xa0__\xa0] maybe i'm mixing it up or", 'start': 629.2, 'duration': 2.56}
+{'text': 'maybe they use a different terminology', 'start': 630.72, 'duration': 3.119}
+{'text': 'then', 'start': 631.76, 'duration': 2.079}
+{'text': 'getting into german gymnasium is not', 'start': 635.04, 'duration': 3.6}
+{'text': "that hard well that's like everybody", 'start': 636.64, 'duration': 3.6}
+{'text': 'gets into that even in the united states', 'start': 638.64, 'duration': 2.879}
+{'text': "that's the case", 'start': 640.24, 'duration': 2.8}
+{'text': "it like it's free publicly funded and", 'start': 641.519, 'duration': 3.681}
+{'text': 'everything', 'start': 643.04, 'duration': 5.68}
+{'text': "it's d c b a s s okay", 'start': 645.2, 'duration': 7.12}
+{'text': 'wait germany you have yeah you have sss', 'start': 648.72, 'duration': 5.52}
+{'text': "that's true and yeah that's true doesn't", 'start': 652.32, 'duration': 3.04}
+{'text': 'that seem a little true', 'start': 654.24, 'duration': 4.159}
+{'text': "sweaty that's true that's okay", 'start': 655.36, 'duration': 6.719}
+{'text': 'kindergarten elementary then you go', 'start': 658.399, 'duration': 3.68}
+{'text': 'to one of these three types of high', 'start': 662.16, 'duration': 3.919}
+{'text': 'schools and then one of these three', 'start': 663.839, 'duration': 3.841}
+{'text': 'types of universities', 'start': 666.079, 'duration': 3.121}
+{'text': "kindergarten at two years old no it's", 'start': 667.68, 'duration': 3.36}
+{'text': 'probably like year two of education', 'start': 669.2, 'duration': 4.16}
+{'text': 'maybe wait right is it oh no wait is it', 'start': 671.04, 'duration': 3.6}
+{'text': 'wait what', 'start': 673.36, 'duration': 3.039}
+{'text': 'is it age wait do you go to do you spend', 'start': 674.64, 'duration': 3.28}
+{'text': 'like two years or four years in', 'start': 676.399, 'duration': 2.56}
+{'text': 'kindergarten', 'start': 677.92, 'duration': 2.479}
+{'text': 'the problem is even when everyone has', 'start': 678.959, 'duration': 3.041}
+{'text': 'free at the point of use education those', 'start': 680.399, 'duration': 2.241}
+{'text': 'from', 'start': 682.0, 'duration': 2.079}
+{'text': 'disadvantaged backgrounds are found to', 'start': 682.64, 'duration': 2.72}
+{'text': 'achieve worse grades and have worse', 'start': 684.079, 'duration': 2.641}
+{'text': "occupational outcomes it isn't simply a", 'start': 685.36, 'duration': 2.32}
+{'text': 'matter of education', 'start': 686.72, 'duration': 3.28}
+{'text': "yeah oxco that's what i try to emphasize", 'start': 687.68, 'duration': 3.76}
+{'text': "for people because people just don't", 'start': 690.0, 'duration': 3.04}
+{'text': 'seem to understand', 'start': 691.44, 'duration': 4.079}
+{'text': "um people just and i don't blame them", 'start': 693.04, 'duration': 3.76}
+{'text': "but like suburban kids especially don't", 'start': 695.519, 'duration': 2.801}
+{'text': 'seem to understand that making something', 'start': 696.8, 'duration': 3.039}
+{'text': "free at the point of use doesn't really", 'start': 698.32, 'duration': 2.16}
+{'text': 'help', 'start': 699.839, 'duration': 4.401}
+{'text': 'some people like right now in the united', 'start': 700.48, 'duration': 4.4}
+{'text': 'states', 'start': 704.24, 'duration': 2.32}
+{'text': 'if they were to make a program where', 'start': 704.88, 'duration': 3.519}
+{'text': 'anybody that has like the brain power', 'start': 706.56, 'duration': 2.64}
+{'text': 'and desire', 'start': 708.399, 'duration': 3.44}
+{'text': 'can go and get like a free four years in', 'start': 709.2, 'duration': 4.639}
+{'text': 'school free phd if you go and you sign', 'start': 711.839, 'duration': 3.68}
+{'text': 'up for it and they made that free', 'start': 713.839, 'duration': 4.401}
+{'text': 'absolutely [\xa0__\xa0] free and they did it', 'start': 715.519, 'duration': 3.201}
+{'text': 'like', 'start': 718.24, 'duration': 2.399}
+{'text': 'the most beneficial like if if like', 'start': 718.72, 'duration': 3.04}
+{'text': 'somebody like me like oh i could go and', 'start': 720.639, 'duration': 2.481}
+{'text': "run and do that cool and then i'm done", 'start': 721.76, 'duration': 2.4}
+{'text': 'and i have my phd', 'start': 723.12, 'duration': 2.48}
+{'text': "but if you're like a poor person if", 'start': 724.16, 'duration': 3.04}
+{'text': "you've got a family to support if you've", 'start': 725.6, 'duration': 2.16}
+{'text': 'got like', 'start': 727.2, 'duration': 3.12}
+{'text': 'like kids or like family members that', 'start': 727.76, 'duration': 3.44}
+{'text': 'you need to support', 'start': 730.32, 'duration': 2.24}
+{'text': "uh like you don't always have the", 'start': 731.2, 'duration': 2.48}
+{'text': "opportunity to do that if you've got", 'start': 732.56, 'duration': 2.64}
+{'text': 'like pre-existing debt or loans or', 'start': 733.68, 'duration': 2.64}
+{'text': "whatever like if you're trying to pay", 'start': 735.2, 'duration': 2.319}
+{'text': 'bills on a house or something', 'start': 736.32, 'duration': 3.44}
+{'text': "like you don't have the opportunity to", 'start': 737.519, 'duration': 3.601}
+{'text': 'take advantage of free at the point of', 'start': 739.76, 'duration': 2.8}
+{'text': 'views because sometimes the cost of the', 'start': 741.12, 'duration': 3.04}
+{'text': "point of use isn't a prohibitive factor", 'start': 742.56, 'duration': 2.8}
+{'text': 'and a lot of people have a really hard', 'start': 744.16, 'duration': 2.4}
+{'text': 'time understanding that', 'start': 745.36, 'duration': 4.0}
+{'text': "which is really annoying it's insane", 'start': 746.56, 'duration': 4.079}
+{'text': 'because these conversations on free of', 'start': 749.36, 'duration': 2.56}
+{'text': 'point of view is education is actually', 'start': 750.639, 'duration': 3.041}
+{'text': 'stunting real conversations on how to', 'start': 751.92, 'duration': 2.4}
+{'text': 'solve', 'start': 753.68, 'duration': 2.159}
+{'text': 'these massive attainment gaps in', 'start': 754.32, 'duration': 3.68}
+{'text': 'education and social mobility yeah', 'start': 755.839, 'duration': 4.56}
+{'text': "yeah for sure and it's also annoying", 'start': 758.0, 'duration': 3.92}
+{'text': 'then because when you want to have real', 'start': 760.399, 'duration': 2.961}
+{'text': 'yeah and then yeah for instance like', 'start': 761.92, 'duration': 2.719}
+{'text': 'when people talk about like making like', 'start': 763.36, 'duration': 3.039}
+{'text': 'education free for everyone', 'start': 764.639, 'duration': 3.921}
+{'text': "and it's like dog the amount of extra", 'start': 766.399, 'duration': 3.921}
+{'text': 'money you need to come up with that', 'start': 768.56, 'duration': 3.76}
+{'text': 'versus if we were to just like make', 'start': 770.32, 'duration': 3.759}
+{'text': 'people that could afford to pay for it', 'start': 772.32, 'duration': 3.199}
+{'text': "oh my god there'd be more teachers", 'start': 774.079, 'duration': 2.801}
+{'text': 'available better infrastructure more', 'start': 775.519, 'duration': 1.841}
+{'text': 'school', 'start': 776.88, 'duration': 2.72}
+{'text': 'books like better like everything would', 'start': 777.36, 'duration': 3.76}
+{'text': 'be so much better but like people are so', 'start': 779.6, 'duration': 3.52}
+{'text': 'ideologically bought into', 'start': 781.12, 'duration': 4.719}
+{'text': 'one thing do you have like ready to work', 'start': 783.12, 'duration': 4.0}
+{'text': "high school in the u.s like you're 15", 'start': 785.839, 'duration': 2.881}
+{'text': 'and learning to be a plumber or agent', 'start': 787.12, 'duration': 3.04}
+{'text': "no we don't do any of that type of", 'start': 788.72, 'duration': 3.28}
+{'text': "training you don't have any sp", 'start': 790.16, 'duration': 4.239}
+{'text': 'you have very very little specialization', 'start': 792.0, 'duration': 3.839}
+{'text': 'exists in high school', 'start': 794.399, 'duration': 4.641}
+{'text': "um so that's like our final four years", 'start': 795.839, 'duration': 4.401}
+{'text': 'of elementary school', 'start': 799.04, 'duration': 3.599}
+{'text': 'i guess what we call it um and then you', 'start': 800.24, 'duration': 3.68}
+{'text': "don't really specialize until you get", 'start': 802.639, 'duration': 2.561}
+{'text': 'until you get to like year', 'start': 803.92, 'duration': 4.24}
+{'text': "two or three in college like that's when", 'start': 805.2, 'duration': 4.639}
+{'text': 'our specialization starts', 'start': 808.16, 'duration': 3.679}
+{'text': 'trade schools are the major thing the us', 'start': 809.839, 'duration': 4.24}
+{'text': 'is lacking it is and it is a huge', 'start': 811.839, 'duration': 4.24}
+{'text': 'problem there is way too huge a', 'start': 814.079, 'duration': 3.44}
+{'text': 'disparity between college', 'start': 816.079, 'duration': 3.521}
+{'text': 'between four-year college degrees and', 'start': 817.519, 'duration': 3.521}
+{'text': 'people that graduate high school', 'start': 819.6, 'duration': 3.76}
+{'text': 'this is another thing that is very very', 'start': 821.04, 'duration': 3.76}
+{'text': 'very [\xa0__\xa0] you guys have trade schools', 'start': 823.36, 'duration': 3.279}
+{'text': "i'm sure we do but it's", 'start': 824.8, 'duration': 2.8}
+{'text': "we don't really i don't know how", 'start': 826.639, 'duration': 2.161}
+{'text': "available they are we're not talk they", 'start': 827.6, 'duration': 2.72}
+{'text': "don't talk about that much", 'start': 828.8, 'duration': 3.44}
+{'text': 'um one of the biggest drivers of wealth', 'start': 830.32, 'duration': 3.759}
+{'text': 'inequality in the united states', 'start': 832.24, 'duration': 5.36}
+{'text': "are our college degrees um and it's very", 'start': 834.079, 'duration': 4.961}
+{'text': "it's very irritating especially because", 'start': 837.6, 'duration': 2.88}
+{'text': 'all of these like suburban lefty white', 'start': 839.04, 'duration': 1.84}
+{'text': 'people', 'start': 840.48, 'duration': 2.24}
+{'text': 'are preaching to their audiences on like', 'start': 840.88, 'duration': 3.6}
+{'text': "twitter they'll that you hear a lot of", 'start': 842.72, 'duration': 3.52}
+{'text': 'these very weird talking moments like oh', 'start': 844.48, 'duration': 3.599}
+{'text': 'like all this student debt is crushing', 'start': 846.24, 'duration': 3.36}
+{'text': 'america like student that is killing', 'start': 848.079, 'duration': 2.88}
+{'text': "students like college degrees aren't", 'start': 849.6, 'duration': 2.0}
+{'text': 'worth', 'start': 850.959, 'duration': 3.841}
+{'text': 'but they absolutely are like college', 'start': 851.6, 'duration': 5.039}
+{'text': 'degrees are so worth it that they are', 'start': 854.8, 'duration': 4.24}
+{'text': "like destroying everybody that doesn't", 'start': 856.639, 'duration': 3.721}
+{'text': "have one it's", 'start': 859.04, 'duration': 4.56}
+{'text': 'absolutely unreal what the median', 'start': 860.36, 'duration': 4.599}
+{'text': 'earning differences', 'start': 863.6, 'duration': 3.039}
+{'text': 'between having just a four-year', 'start': 864.959, 'duration': 3.281}
+{'text': "bachelor's and no", 'start': 866.639, 'duration': 4.481}
+{'text': "college it's insane like we're talking", 'start': 868.24, 'duration': 3.92}
+{'text': 'the difference between like', 'start': 871.12, 'duration': 4.64}
+{'text': '2 800 a month here versus like 4 500 a', 'start': 872.16, 'duration': 4.0}
+{'text': 'month', 'start': 875.76, 'duration': 3.92}
+{'text': '4 600 a month like it is unbelievable', 'start': 876.16, 'duration': 5.28}
+{'text': 'how valuable a college degree is in the', 'start': 879.68, 'duration': 3.36}
+{'text': "united states trying to make sure i'm", 'start': 881.44, 'duration': 2.959}
+{'text': 'getting it right', 'start': 883.04, 'duration': 3.359}
+{'text': 'when it comes to eu they are [\xa0__\xa0] if', 'start': 884.399, 'duration': 4.161}
+{'text': "they don't get insane grades whereas in", 'start': 886.399, 'duration': 3.201}
+{'text': 'america at least', 'start': 888.56, 'duration': 3.2}
+{'text': 'even with mid-tier grades you can still', 'start': 889.6, 'duration': 4.0}
+{'text': 'get into a well-equipped school through', 'start': 891.76, 'duration': 3.84}
+{'text': 'in-state tuition at the minimum maybe i', 'start': 893.6, 'duration': 3.2}
+{'text': "think i don't know what i don't know how", 'start': 895.6, 'duration': 2.56}
+{'text': 'many different funding mechanisms exist', 'start': 896.8, 'duration': 2.719}
+{'text': "for european schools in the u.s there's", 'start': 898.16, 'duration': 2.56}
+{'text': 'a ton of different like', 'start': 899.519, 'duration': 3.44}
+{'text': 'scholarships and financial aid and all', 'start': 900.72, 'duration': 3.6}
+{'text': 'sorts of like grants and', 'start': 902.959, 'duration': 3.68}
+{'text': '[\xa0__\xa0] like you know where are my pell', 'start': 904.32, 'duration': 4.16}
+{'text': 'grant boys at', 'start': 906.639, 'duration': 3.601}
+{'text': 'i think england made uni free and found', 'start': 908.48, 'duration': 3.44}
+{'text': 'little change in student income brackets', 'start': 910.24, 'duration': 3.76}
+{'text': "well yeah that was the one education i'm", 'start': 911.92, 'duration': 3.359}
+{'text': 'slightly more familiar with initially', 'start': 914.0, 'duration': 2.56}
+{'text': 'the uk they tried to make all school', 'start': 915.279, 'duration': 2.481}
+{'text': "free and it just didn't work", 'start': 916.56, 'duration': 2.399}
+{'text': 'there were like too many people swarming', 'start': 917.76, 'duration': 2.879}
+{'text': 'the system the quality of the education', 'start': 918.959, 'duration': 3.041}
+{'text': "went down it wasn't really helping poor", 'start': 920.639, 'duration': 2.32}
+{'text': 'people at all', 'start': 922.0, 'duration': 2.399}
+{'text': 'and eventually they started to tear it', 'start': 922.959, 'duration': 2.801}
+{'text': 'more where they started to charge people', 'start': 924.399, 'duration': 2.401}
+{'text': 'money to get in', 'start': 925.76, 'duration': 2.879}
+{'text': 'but then they made it free or subsidized', 'start': 926.8, 'duration': 3.12}
+{'text': 'for poor people', 'start': 928.639, 'duration': 2.56}
+{'text': 'um which seemed to be incredibly', 'start': 929.92, 'duration': 3.2}
+{'text': 'positive it like increased like ever by', 'start': 931.199, 'duration': 3.521}
+{'text': 'every metric it was more successful by', 'start': 933.12, 'duration': 2.8}
+{'text': 'doing that', 'start': 934.72, 'duration': 3.6}
+{'text': 'scotland has free university paid for by', 'start': 935.92, 'duration': 3.44}
+{'text': 'foreign students', 'start': 938.32, 'duration': 3.36}
+{'text': 'duckers this has benefited the middle', 'start': 939.36, 'duration': 4.32}
+{'text': 'class the most and has not helped less', 'start': 941.68, 'duration': 3.519}
+{'text': 'well-off families', 'start': 943.68, 'duration': 3.68}
+{'text': 'scotland has the lowest percentage of', 'start': 945.199, 'duration': 4.08}
+{'text': 'people from low-income families in', 'start': 947.36, 'duration': 4.64}
+{'text': 'university yeah yeah but this is like', 'start': 949.279, 'duration': 4.161}
+{'text': 'this is one of the most there are so', 'start': 952.0, 'duration': 3.44}
+{'text': 'many conversations that the online', 'start': 953.44, 'duration': 2.72}
+{'text': 'discussion', 'start': 955.44, 'duration': 2.959}
+{'text': 'just does not meet the reality and like', 'start': 956.16, 'duration': 4.08}
+{'text': 'one of these is over like student loans', 'start': 958.399, 'duration': 2.24}
+{'text': 'like', 'start': 960.24, 'duration': 2.0}
+{'text': "if you've got your degree man pay it", 'start': 960.639, 'duration': 3.12}
+{'text': 'back like student', 'start': 962.24, 'duration': 4.32}
+{'text': 'um we always see that like average cost', 'start': 963.759, 'duration': 4.481}
+{'text': 'of education has increased and increased', 'start': 966.56, 'duration': 2.399}
+{'text': 'and increased', 'start': 968.24, 'duration': 3.279}
+{'text': "but it's not outpacing the the value of", 'start': 968.959, 'duration': 3.761}
+{'text': 'those degrees', 'start': 971.519, 'duration': 3.921}
+{'text': 'like it is absol it is maybe more', 'start': 972.72, 'duration': 3.679}
+{'text': 'important now', 'start': 975.44, 'duration': 3.12}
+{'text': 'to get a degree in college than it ever', 'start': 976.399, 'duration': 3.12}
+{'text': 'has been', 'start': 978.56, 'duration': 3.199}
+{'text': 'and people keep talking about how like', 'start': 979.519, 'duration': 3.201}
+{'text': 'um', 'start': 981.759, 'duration': 3.121}
+{'text': "people keep talking about how like it's", 'start': 982.72, 'duration': 4.08}
+{'text': "not uh it's not worth it anymore the", 'start': 984.88, 'duration': 3.68}
+{'text': 'loans are too high like the job market', 'start': 986.8, 'duration': 2.959}
+{'text': 'sucks like no it does', 'start': 988.56, 'duration': 4.24}
+{'text': 'none of that is true unemployment', 'start': 989.759, 'duration': 6.08}
+{'text': 'is so unbelievably [\xa0__\xa0] unbelievably', 'start': 992.8, 'duration': 4.64}
+{'text': '[\xa0__\xa0] low what are you talking about', 'start': 995.839, 'duration': 3.12}
+{'text': 'like there are so many [\xa0__\xa0] jobs what', 'start': 997.44, 'duration': 2.48}
+{'text': 'the [\xa0__\xa0]', 'start': 998.959, 'duration': 5.12}
+{'text': "um oh net present value of a bachelor's", 'start': 999.92, 'duration': 4.56}
+{'text': 'degree', 'start': 1004.079, 'duration': 2.32}
+{'text': 'years to recoup the cost of a bachelor', 'start': 1004.48, 'duration': 3.279}
+{'text': 'degree', 'start': 1006.399, 'duration': 2.8}
+{'text': 'in terms of like how many years working', 'start': 1007.759, 'duration': 2.561}
+{'text': 'would it take for you to get back the', 'start': 1009.199, 'duration': 3.041}
+{'text': "cost of your bachelor's like it is so", 'start': 1010.32, 'duration': 4.8}
+{'text': 'important to get one', 'start': 1012.24, 'duration': 2.88}
+{'text': 'in america do you guys have to pay back', 'start': 1019.68, 'duration': 2.8}
+{'text': 'student loans immediately or only after', 'start': 1021.12, 'duration': 2.48}
+{'text': 'a certain income bracket', 'start': 1022.48, 'duration': 2.319}
+{'text': 'you can defer them but typically you', 'start': 1023.6, 'duration': 2.319}
+{'text': 'have to start paying them back right', 'start': 1024.799, 'duration': 1.921}
+{'text': 'away', 'start': 1025.919, 'duration': 3.28}
+{'text': 'one absolutely good thing that other', 'start': 1026.72, 'duration': 3.359}
+{'text': 'countries have done', 'start': 1029.199, 'duration': 2.161}
+{'text': "you don't even have to [\xa0__\xa0] think", 'start': 1030.079, 'duration': 2.561}
+{'text': 'about it we should just copy it without', 'start': 1031.36, 'duration': 2.24}
+{'text': 'a second thought', 'start': 1032.64, 'duration': 3.279}
+{'text': 'is um income based repayment for a lot', 'start': 1033.6, 'duration': 3.04}
+{'text': 'of countries', 'start': 1035.919, 'duration': 2.561}
+{'text': 'as soon as you start working um', 'start': 1036.64, 'duration': 3.199}
+{'text': 'depending on what your income', 'start': 1038.48, 'duration': 3.52}
+{'text': "is they'll scale your payments back of", 'start': 1039.839, 'duration': 3.761}
+{'text': 'your student loans based on your income', 'start': 1042.0, 'duration': 3.36}
+{'text': "that i've never heard an argument", 'start': 1043.6, 'duration': 2.88}
+{'text': 'against that it just seems like an', 'start': 1045.36, 'duration': 6.8}
+{'text': 'overwhelmingly positive thing to do we', 'start': 1046.48, 'duration': 6.64}
+{'text': 'do that', 'start': 1052.16, 'duration': 2.8}
+{'text': 'so i think in the united states there', 'start': 1053.12, 'duration': 3.919}
+{'text': 'are some like specialized loan programs', 'start': 1054.96, 'duration': 3.28}
+{'text': 'that you can qualify for', 'start': 1057.039, 'duration': 2.88}
+{'text': 'to opt in and do it blah blah blah but', 'start': 1058.24, 'duration': 2.799}
+{'text': 'in a lot of countries i think this is', 'start': 1059.919, 'duration': 2.801}
+{'text': 'just default like by default it just', 'start': 1061.039, 'duration': 3.281}
+{'text': "happens but in the united states it's", 'start': 1062.72, 'duration': 3.04}
+{'text': 'like you have to go through a process to', 'start': 1064.32, 'duration': 1.68}
+{'text': 'get', 'start': 1065.76, 'duration': 3.279}
+{'text': 'that destiny what effect um', 'start': 1066.0, 'duration': 4.4}
+{'text': "does what the degree i'm sure different", 'start': 1069.039, 'duration': 2.801}
+{'text': 'degrees pay different amounts of course', 'start': 1070.4, 'duration': 1.92}
+{'text': 'but like', 'start': 1071.84, 'duration': 1.76}
+{'text': 'i mean like these are this is just like', 'start': 1072.32, 'duration': 2.96}
+{'text': 'median urges meeting earnings between', 'start': 1073.6, 'duration': 2.56}
+{'text': "all degrees i'm sure there are some that", 'start': 1075.28, 'duration': 1.84}
+{'text': 'pay more in something to pay less of', 'start': 1076.16, 'duration': 2.96}
+{'text': 'course', 'start': 1077.12, 'duration': 3.6}
+{'text': 'wait are millennials just shittier with', 'start': 1079.12, 'duration': 3.28}
+{'text': 'paying back their student loans than gen', 'start': 1080.72, 'duration': 2.079}
+{'text': 'x', 'start': 1082.4, 'duration': 2.48}
+{'text': "i i bet it's a complicated answer i bet", 'start': 1082.799, 'duration': 3.841}
+{'text': "there's a lot of reasons why", 'start': 1084.88, 'duration': 3.36}
+{'text': 'people are having trouble paying back', 'start': 1086.64, 'duration': 3.52}
+{'text': 'loans versus other things um', 'start': 1088.24, 'duration': 3.439}
+{'text': "i i don't know i could think of a few of", 'start': 1090.16, 'duration': 3.04}
+{'text': "the time i don't know how much one is", 'start': 1091.679, 'duration': 2.961}
+{'text': 'just like one is the', 'start': 1093.2, 'duration': 2.719}
+{'text': "i don't know if it's always been this", 'start': 1094.64, 'duration': 3.2}
+{'text': 'way but the obsession', 'start': 1095.919, 'duration': 4.88}
+{'text': "with moving to the coasts like you're", 'start': 1097.84, 'duration': 4.56}
+{'text': 'not getting compensated for how much it', 'start': 1100.799, 'duration': 2.641}
+{'text': 'costs to live here', 'start': 1102.4, 'duration': 2.96}
+{'text': 'this is why i said it in the past people', 'start': 1103.44, 'duration': 3.92}
+{'text': "got mad at me and i'll say it again", 'start': 1105.36, 'duration': 3.76}
+{'text': "moved you get the [\xa0__\xa0] out i don't know", 'start': 1107.36, 'duration': 3.28}
+{'text': 'why the [\xa0__\xa0] anybody would come', 'start': 1109.12, 'duration': 4.4}
+{'text': 'to live in [\xa0__\xa0] la portland seattle', 'start': 1110.64, 'duration': 4.0}
+{'text': 'san francisco', 'start': 1113.52, 'duration': 3.92}
+{'text': "miami orlando [\xa0__\xa0] new york i don't", 'start': 1114.64, 'duration': 4.64}
+{'text': 'know why the [\xa0__\xa0] anybody would move to', 'start': 1117.44, 'duration': 2.88}
+{'text': 'these [\xa0__\xa0] cities', 'start': 1119.28, 'duration': 2.72}
+{'text': 'go somewhere else you are not going to', 'start': 1120.32, 'duration': 3.359}
+{'text': "get paid as much as it's going to cost", 'start': 1122.0, 'duration': 2.0}
+{'text': 'you', 'start': 1123.679, 'duration': 1.921}
+{'text': 'to live in one of these [\xa0__\xa0] places', 'start': 1124.0, 'duration': 3.36}
+{'text': 'like dude you can get a sick ass [\xa0__\xa0]', 'start': 1125.6, 'duration': 3.28}
+{'text': 'two-bedroom apartment in [\xa0__\xa0] omaha', 'start': 1127.36, 'duration': 3.12}
+{'text': 'nebraska for like probably like what 1', 'start': 1128.88, 'duration': 2.88}
+{'text': '300 bucks a month', 'start': 1130.48, 'duration': 3.199}
+{'text': "that's probably on the upper end 1300", 'start': 1131.76, 'duration': 3.6}
+{'text': '1400 1500 bucks a month', 'start': 1133.679, 'duration': 2.801}
+{'text': "it's gonna get you a nice two bedroom", 'start': 1135.36, 'duration': 3.12}
+{'text': "apartment you're not gonna make", 'start': 1136.48, 'duration': 4.16}
+{'text': 'two times as much money working as a', 'start': 1138.48, 'duration': 3.52}
+{'text': '[\xa0__\xa0] computer engineer', 'start': 1140.64, 'duration': 2.88}
+{'text': 'in [\xa0__\xa0] la as you would in [\xa0__\xa0]', 'start': 1142.0, 'duration': 3.36}
+{'text': "omaha nebraska it's not like one", 'start': 1143.52, 'duration': 4.8}
+{'text': 'pays 70k a year and the other pays 140k', 'start': 1145.36, 'duration': 4.559}
+{'text': "right it's not that different like", 'start': 1148.32, 'duration': 3.44}
+{'text': 'destiny no companies in nebraska for', 'start': 1149.919, 'duration': 3.12}
+{'text': "high school degrees that's not true", 'start': 1151.76, 'duration': 2.799}
+{'text': 'though you can find places to work and', 'start': 1153.039, 'duration': 2.961}
+{'text': 'the animations in the midwest is an', 'start': 1154.559, 'duration': 2.561}
+{'text': 'example you can find places to work in', 'start': 1156.0, 'duration': 1.84}
+{'text': 'the south', 'start': 1157.12, 'duration': 2.96}
+{'text': 'go go moving f to [\xa0__\xa0] austin or go', 'start': 1157.84, 'duration': 4.16}
+{'text': 'move to [\xa0__\xa0] like places like that go', 'start': 1160.08, 'duration': 3.12}
+{'text': "there's plenty of places in texas", 'start': 1162.0, 'duration': 2.48}
+{'text': "there's places in [\xa0__\xa0] missouri", 'start': 1163.2, 'duration': 4.24}
+{'text': "there's places in [\xa0__\xa0] illinois like", 'start': 1164.48, 'duration': 4.69}
+{'text': 'up in ohio like jesus', 'start': 1167.44, 'duration': 3.359}
+{'text': '[Music]', 'start': 1169.17, 'duration': 4.67}
+{'text': 'holy [\xa0__\xa0] just move bonus me map classes', 'start': 1170.799, 'duration': 3.921}
+{'text': 'are free low', 'start': 1173.84, 'duration': 1.92}
+{'text': "because they don't want to live in bum", 'start': 1174.72, 'duration': 2.64}
+{'text': "[\xa0__\xa0] middle of nowhere okay that's fine", 'start': 1175.76, 'duration': 2.88}
+{'text': 'though but guess what', 'start': 1177.36, 'duration': 3.439}
+{'text': 'like when people complain about like oh', 'start': 1178.64, 'duration': 3.36}
+{'text': 'boomers were able to do', 'start': 1180.799, 'duration': 2.481}
+{'text': 'all of this [\xa0__\xa0] where they could afford', 'start': 1182.0, 'duration': 2.559}
+{'text': 'this and that and that yeah well guess', 'start': 1183.28, 'duration': 2.88}
+{'text': 'where boomers [\xa0__\xa0] live dude', 'start': 1184.559, 'duration': 3.521}
+{'text': "boomers weren't [\xa0__\xa0] driving around", 'start': 1186.16, 'duration': 3.68}
+{'text': 'you know up and down the [\xa0__\xa0] five', 'start': 1188.08, 'duration': 3.92}
+{'text': 'with their [\xa0__\xa0] mustangs in la you', 'start': 1189.84, 'duration': 3.6}
+{'text': 'know living in [\xa0__\xa0] four thousand', 'start': 1192.0, 'duration': 2.799}
+{'text': 'dollars they were living in the [\xa0__\xa0]', 'start': 1193.44, 'duration': 2.0}
+{'text': 'farms of', 'start': 1194.799, 'duration': 3.041}
+{'text': 'kansas okay yeah no [\xa0__\xa0] boomers could', 'start': 1195.44, 'duration': 3.44}
+{'text': 'afford that [\xa0__\xa0] [\xa0__\xa0] you could', 'start': 1197.84, 'duration': 2.24}
+{'text': 'probably make that much [\xa0__\xa0] selling', 'start': 1198.88, 'duration': 1.6}
+{'text': 'weed', 'start': 1200.08, 'duration': 2.64}
+{'text': 'and pay for places to live in these', 'start': 1200.48, 'duration': 3.76}
+{'text': '[\xa0__\xa0] [\xa0__\xa0] states you know', 'start': 1202.72, 'duration': 3.12}
+{'text': 'not everybody in the [\xa0__\xa0] world in', 'start': 1204.24, 'duration': 2.96}
+{'text': "the boomer time we're all living in", 'start': 1205.84, 'duration': 2.719}
+{'text': 'three [\xa0__\xa0] cities in the entire', 'start': 1207.2, 'duration': 4.32}
+{'text': 'united states you know', 'start': 1208.559, 'duration': 2.961}
+{'text': 'cs majors do benefit living in big tech', 'start': 1212.24, 'duration': 3.36}
+{'text': 'cities much more than omaha they might', 'start': 1214.08, 'duration': 2.8}
+{'text': "do it much more than omaha but it's not", 'start': 1215.6, 'duration': 1.52}
+{'text': 'gonna', 'start': 1216.88, 'duration': 1.84}
+{'text': "it's not gonna be enough to make up for", 'start': 1217.12, 'duration': 3.6}
+{'text': 'the massive disparity in living costs', 'start': 1218.72, 'duration': 4.56}
+{'text': 'and everything', 'start': 1220.72, 'duration': 2.56}
+{'text': 'uh midwest master race i brought a house', 'start': 1224.96, 'duration': 3.04}
+{'text': 'of 23 entry-level i.t support weight', 'start': 1226.4, 'duration': 2.639}
+{'text': 'sure', 'start': 1228.0, 'duration': 2.88}
+{'text': 'why is he pretending the cost of college', 'start': 1229.039, 'duration': 3.76}
+{'text': "hasn't drastically increased over time", 'start': 1230.88, 'duration': 3.84}
+{'text': "i'm not pretending that what i'm telling", 'start': 1232.799, 'duration': 3.76}
+{'text': 'you is that the compensation for college', 'start': 1234.72, 'duration': 3.36}
+{'text': 'has massively increased over time as', 'start': 1236.559, 'duration': 2.321}
+{'text': 'well', 'start': 1238.08, 'duration': 2.959}
+{'text': 'anywhere besides the coasts are boring', 'start': 1238.88, 'duration': 5.039}
+{'text': 'as [\xa0__\xa0] [\xa0__\xa0] the boring states', 'start': 1241.039, 'duration': 4.64}
+{'text': 'destiny new grad software engineer at', 'start': 1243.919, 'duration': 3.841}
+{'text': 'facebook is 180 000 a year', 'start': 1245.679, 'duration': 4.401}
+{'text': "dog i'm sorry to inform you this i don't", 'start': 1247.76, 'duration': 3.44}
+{'text': 'mean to crush your dreams', 'start': 1250.08, 'duration': 2.959}
+{'text': 'but not every single software engineer', 'start': 1251.2, 'duration': 3.52}
+{'text': 'is graduating and getting an entry-level', 'start': 1253.039, 'duration': 3.12}
+{'text': 'job at facebook immediately', 'start': 1254.72, 'duration': 3.76}
+{'text': "that's that's just not going to happen", 'start': 1256.159, 'duration': 4.801}
+{'text': 'my dude', 'start': 1258.48, 'duration': 2.48}
+{'text': 'college costs have gone up over 200 in', 'start': 1261.6, 'duration': 3.439}
+{'text': 'the last 40 years yeah and what is the', 'start': 1263.36, 'duration': 3.28}
+{'text': 'wage compensation gone up over the last', 'start': 1265.039, 'duration': 2.241}
+{'text': '40 years', 'start': 1266.64, 'duration': 2.399}
+{'text': 'people only people will look at how this', 'start': 1267.28, 'duration': 3.2}
+{'text': 'is what you guys do you guys will look', 'start': 1269.039, 'duration': 2.561}
+{'text': 'at the cost of', 'start': 1270.48, 'duration': 2.319}
+{'text': 'you guys will look at the cost of', 'start': 1271.6, 'duration': 2.4}
+{'text': "college and you'll say oh it's gone up", 'start': 1272.799, 'duration': 2.401}
+{'text': "by this amount and they're like oh", 'start': 1274.0, 'duration': 2.72}
+{'text': 'really well how much of college wages', 'start': 1275.2, 'duration': 2.56}
+{'text': "increase and then you're like well", 'start': 1276.72, 'duration': 2.88}
+{'text': "here's total wage compensation for the", 'start': 1277.76, 'duration': 3.12}
+{'text': "entire economy let's look at how that's", 'start': 1279.6, 'duration': 1.6}
+{'text': 'gonna think', 'start': 1280.88, 'duration': 1.2}
+{'text': "hold on that's not really telling the", 'start': 1281.2, 'duration': 2.719}
+{'text': "whole story is it like i i don't think", 'start': 1282.08, 'duration': 3.28}
+{'text': 'construction workers are making more', 'start': 1283.919, 'duration': 2.801}
+{'text': 'that much more now than they did 40', 'start': 1285.36, 'duration': 2.64}
+{'text': "years ago but i'm willing to bet you", 'start': 1286.72, 'duration': 2.4}
+{'text': 'that people that graduated for four-year', 'start': 1288.0, 'duration': 2.32}
+{'text': 'degrees are probably earning quite a bit', 'start': 1289.12, 'duration': 2.0}
+{'text': 'more than they were', 'start': 1290.32, 'duration': 3.599}
+{'text': 'like 40 years ago did wages go well okay', 'start': 1291.12, 'duration': 3.679}
+{'text': "well let's look it up", 'start': 1293.919, 'duration': 5.441}
+{'text': 'um average compensation four-year degree', 'start': 1294.799, 'duration': 6.561}
+{'text': 'or wait hold on median earnings', 'start': 1299.36, 'duration': 3.679}
+{'text': "bachelor's degree", 'start': 1301.36, 'duration': 5.12}
+{'text': 'over time can i find', 'start': 1303.039, 'duration': 5.281}
+{'text': 'am i able to find these numbers the st', 'start': 1306.48, 'duration': 3.84}
+{'text': 'louis university thing or whatever', 'start': 1308.32, 'duration': 3.28}
+{'text': 'or st louis federal reserve', 'start': 1310.32, 'duration': 3.839}
+{'text': 'washingtonian here i live here because', 'start': 1311.6, 'duration': 3.68}
+{'text': "it's home", 'start': 1314.159, 'duration': 3.121}
+{'text': 'generational wealth for reference though', 'start': 1315.28, 'duration': 3.84}
+{'text': 'portland and seattle nearly had a', 'start': 1317.28, 'duration': 4.879}
+{'text': 'detroit-style collapse in the 70s', 'start': 1319.12, 'duration': 7.2}
+{'text': 'um what percentage did somebody say 40', 'start': 1322.159, 'duration': 4.161}
+{'text': "30 20 what were we talking about i don't", 'start': 1326.559, 'duration': 3.761}
+{'text': 'remember the percentage was but from', 'start': 1329.2, 'duration': 3.12}
+{'text': '2000 to 2020', 'start': 1330.32, 'duration': 4.4}
+{'text': 'it looks like compensation for a', 'start': 1332.32, 'duration': 3.52}
+{'text': "bachelor's degree", 'start': 1334.72, 'duration': 4.24}
+{'text': 'has gone up about 50 percent', 'start': 1335.84, 'duration': 4.24}
+{'text': 'what percentage were we looking at', 'start': 1338.96, 'duration': 4.48}
+{'text': 'before you compared to what', 'start': 1340.08, 'duration': 6.16}
+{'text': 'does everyone even needs a degree in the', 'start': 1343.44, 'duration': 5.16}
+{'text': 'past 10 years basic degrees', 'start': 1346.24, 'duration': 6.08}
+{'text': 'non-cs med science etc', 'start': 1348.6, 'duration': 5.88}
+{'text': 'are using pearson that cost dollar', 'start': 1352.32, 'duration': 4.88}
+{'text': '200-ish for the course and 1 000', 'start': 1354.48, 'duration': 5.52}
+{'text': 'in tution to the u as a student my', 'start': 1357.2, 'duration': 4.56}
+{'text': "interviewers haven't cared about my", 'start': 1360.0, 'duration': 4.799}
+{'text': 'degree as much ex', 'start': 1361.76, 'duration': 5.36}
+{'text': 'um yes degrees are still massively', 'start': 1364.799, 'duration': 5.12}
+{'text': 'beneficial and massively helpful', 'start': 1367.12, 'duration': 4.799}
+{'text': 'real wages fell for workers with lower', 'start': 1369.919, 'duration': 3.281}
+{'text': 'levels of educational attainment and', 'start': 1371.919, 'duration': 2.961}
+{'text': 'rows for highly educated workers i', 'start': 1373.2, 'duration': 3.04}
+{'text': 'wonder what highly educated means here', 'start': 1374.88, 'duration': 2.48}
+{'text': 'that probably do you think that just', 'start': 1376.24, 'duration': 2.4}
+{'text': 'means four years', 'start': 1377.36, 'duration': 2.559}
+{'text': 'the college wage premium is leveled', 'start': 1378.64, 'duration': 2.88}
+{'text': 'since that time but it remains high', 'start': 1379.919, 'duration': 3.12}
+{'text': 'high-wage workers as a group benefited', 'start': 1381.52, 'duration': 2.72}
+{'text': 'more from the increase payoff', 'start': 1383.039, 'duration': 2.64}
+{'text': 'to a college degree because they are the', 'start': 1384.24, 'duration': 2.799}
+{'text': 'best educated have the highest gains in', 'start': 1385.679, 'duration': 5.36}
+{'text': 'energy entertainment over 970 period', 'start': 1387.039, 'duration': 6.0}
+{'text': 'the wage value of a college degree', 'start': 1391.039, 'duration': 3.52}
+{'text': 'relative to a high school education', 'start': 1393.039, 'duration': 2.081}
+{'text': 'increased', 'start': 1394.559, 'duration': 4.721}
+{'text': 'markedly over 1979 to 2000.', 'start': 1395.12, 'duration': 6.64}
+{'text': 'bit late but great work in georgia', 'start': 1399.28, 'duration': 3.92}
+{'text': 'thanks education and occupation patterns', 'start': 1401.76, 'duration': 3.279}
+{'text': 'appear to be important in wage trends', 'start': 1403.2, 'duration': 3.28}
+{'text': 'worker groups studied in this report', 'start': 1405.039, 'duration': 2.481}
+{'text': 'were more likely to have earned a', 'start': 1406.48, 'duration': 2.72}
+{'text': "bachelor's or advanced during 2019 than", 'start': 1407.52, 'duration': 3.12}
+{'text': 'workers in 1979 with the gains in', 'start': 1409.2, 'duration': 2.4}
+{'text': 'college degree attainment being', 'start': 1410.64, 'duration': 2.399}
+{'text': 'particularly large for workers in the', 'start': 1411.6, 'duration': 4.72}
+{'text': 'highest wage groups', 'start': 1413.039, 'duration': 5.361}
+{'text': 'for some low and middle wage worker', 'start': 1416.32, 'duration': 3.359}
+{'text': 'groups however these educational grants', 'start': 1418.4, 'duration': 2.8}
+{'text': 'were not sufficient to raise wages', 'start': 1419.679, 'duration': 3.201}
+{'text': 'workers occupational categories appear', 'start': 1421.2, 'duration': 3.04}
+{'text': 'to matter as well and may help explain', 'start': 1422.88, 'duration': 2.96}
+{'text': 'the failure of education alone to', 'start': 1424.24, 'duration': 3.28}
+{'text': 'raise wages which we would expect you', 'start': 1425.84, 'duration': 3.12}
+{'text': 'probably have to get a somewhat relevant', 'start': 1427.52, 'duration': 1.84}
+{'text': 'degree', 'start': 1428.96, 'duration': 2.88}
+{'text': "you can't just get like a random one the", 'start': 1429.36, 'duration': 4.0}
+{'text': 'other thing that zoomers who want to', 'start': 1431.84, 'duration': 3.839}
+{'text': "live in silicon valley don't get", 'start': 1433.36, 'duration': 4.96}
+{'text': 'a union plumber making 50 an hour in', 'start': 1435.679, 'duration': 4.961}
+{'text': 'idaho will have more house and more toys', 'start': 1438.32, 'duration': 4.479}
+{'text': 'for the dollar than your opponent', 'start': 1440.64, 'duration': 4.48}
+{'text': 'your grandparents crossed an ocean in a', 'start': 1442.799, 'duration': 3.521}
+{'text': 'steamship', 'start': 1445.12, 'duration': 3.919}
+{'text': 'move you could know oh then we already', 'start': 1446.32, 'duration': 3.76}
+{'text': 'we already saw these', 'start': 1449.039, 'duration': 3.201}
+{'text': 'that is really scary when you first look', 'start': 1450.08, 'duration': 3.04}
+{'text': 'at the number', 'start': 1452.24, 'duration': 2.799}
+{'text': 'and if you came out of college into a', 'start': 1453.12, 'duration': 4.0}
+{'text': "depression and couldn't find a job that", 'start': 1455.039, 'duration': 3.041}
+{'text': 'probably scared', 'start': 1457.12, 'duration': 2.72}
+{'text': 'people into thinking it was a bigger', 'start': 1458.08, 'duration': 3.68}
+{'text': 'cost than it really is', 'start': 1459.84, 'duration': 3.199}
+{'text': 'school that is really scary when you', 'start': 1461.76, 'duration': 2.64}
+{'text': 'first look at the number yeah sure i', 'start': 1463.039, 'duration': 2.64}
+{'text': 'guess it can be i mean you get a lot of', 'start': 1464.4, 'duration': 2.72}
+{'text': 'time to pay it back but yeah', 'start': 1465.679, 'duration': 2.88}
+{'text': 'did you see the job loss reports like', 'start': 1467.12, 'duration': 3.6}
+{'text': '140 150 000 jobs show this', 'start': 1468.559, 'duration': 4.48}
+{'text': "past month we're all women ooh that's", 'start': 1470.72, 'duration': 3.12}
+{'text': 'interesting', 'start': 1473.039, 'duration': 2.081}
+{'text': "i wonder if that's because of the school", 'start': 1473.84, 'duration': 3.52}
+{'text': 'stuff kids kids having to stay home from', 'start': 1475.12, 'duration': 3.679}
+{'text': 'school means that parents have to stay', 'start': 1477.36, 'duration': 2.72}
+{'text': "home and watch them and it's usually", 'start': 1478.799, 'duration': 2.801}
+{'text': 'moms that do that maybe', 'start': 1480.08, 'duration': 2.8}
+{'text': 'feels like destiny is missing the', 'start': 1481.6, 'duration': 2.48}
+{'text': 'standard of living issue that', 'start': 1482.88, 'duration': 2.64}
+{'text': 'millennials have they grew up in a house', 'start': 1484.08, 'duration': 2.64}
+{'text': 'that was bought by their parents when', 'start': 1485.52, 'duration': 3.2}
+{'text': 'the income needed to purchase a property', 'start': 1486.72, 'duration': 3.839}
+{'text': 'was significantly less than it is now so', 'start': 1488.72, 'duration': 3.04}
+{'text': 'now they want to keep the same standard', 'start': 1490.559, 'duration': 2.401}
+{'text': 'for living but do not have the same', 'start': 1491.76, 'duration': 2.399}
+{'text': 'starting point their parents did so they', 'start': 1492.96, 'duration': 2.24}
+{'text': "shouldn't complain to delay", 'start': 1494.159, 'duration': 2.561}
+{'text': "dalton i don't actually know if that's", 'start': 1495.2, 'duration': 3.28}
+{'text': 'true i would be interested going back', 'start': 1496.72, 'duration': 2.72}
+{'text': 'and looking at that', 'start': 1498.48, 'duration': 3.439}
+{'text': 'the problem is that if you have to', 'start': 1499.44, 'duration': 4.239}
+{'text': "listen to your parents like here's what", 'start': 1501.919, 'duration': 2.321}
+{'text': 'happens', 'start': 1503.679, 'duration': 3.12}
+{'text': 'this is what sounds like the story like', 'start': 1504.24, 'duration': 3.039}
+{'text': 'this is', 'start': 1506.799, 'duration': 2.0}
+{'text': 'this is what sounds like the story and', 'start': 1507.279, 'duration': 2.4}
+{'text': "then i'm gonna give you the missing", 'start': 1508.799, 'duration': 2.641}
+{'text': 'piece at the end', 'start': 1509.679, 'duration': 4.161}
+{'text': 'when i grew up my dad worked a single', 'start': 1511.44, 'duration': 4.08}
+{'text': 'job and he took care of my mom and me', 'start': 1513.84, 'duration': 3.28}
+{'text': 'and my sister he paid for', 'start': 1515.52, 'duration': 3.68}
+{'text': 'a car he paid for education he sent us', 'start': 1517.12, 'duration': 3.679}
+{'text': 'to school he could do all these things', 'start': 1519.2, 'duration': 3.359}
+{'text': "now that i've grown up and i have my", 'start': 1520.799, 'duration': 3.201}
+{'text': "four-year degree i can't even", 'start': 1522.559, 'duration': 3.041}
+{'text': "i can't even pay for a house it's", 'start': 1524.0, 'duration': 3.279}
+{'text': "ridiculous that's [\xa0__\xa0]", 'start': 1525.6, 'duration': 4.0}
+{'text': "like that's what seems to be the case", 'start': 1527.279, 'duration': 4.481}
+{'text': 'the part missing from that though', 'start': 1529.6, 'duration': 4.319}
+{'text': 'is my parents grew up and bought a house', 'start': 1531.76, 'duration': 4.08}
+{'text': 'in rural ohio and i want a [\xa0__\xa0]', 'start': 1533.919, 'duration': 3.601}
+{'text': 'high-rise in manhattan', 'start': 1535.84, 'duration': 3.68}
+{'text': "that's what feels like the difference is", 'start': 1537.52, 'duration': 3.2}
+{'text': 'that all these people complaining about', 'start': 1539.52, 'duration': 2.72}
+{'text': 'the affordability of housing the cost of', 'start': 1540.72, 'duration': 2.0}
+{'text': 'living', 'start': 1542.24, 'duration': 2.16}
+{'text': 'want to buy a [\xa0__\xa0] single family home', 'start': 1542.72, 'duration': 3.439}
+{'text': 'in the [\xa0__\xa0] bay area', 'start': 1544.4, 'duration': 3.04}
+{'text': 'or they want a [\xa0__\xa0] two-bedroom', 'start': 1546.159, 'duration': 3.601}
+{'text': 'apartment in [\xa0__\xa0] downtown l.a', 'start': 1547.44, 'duration': 5.68}
+{'text': "like yeah you can't afford [\xa0__\xa0] [\xa0__\xa0]", 'start': 1549.76, 'duration': 4.08}
+{'text': 'sushi', 'start': 1553.12, 'duration': 2.559}
+{'text': 'was living up in nowhere [\xa0__\xa0] iowa', 'start': 1553.84, 'duration': 3.6}
+{'text': 'and she had like a decent like', 'start': 1555.679, 'duration': 3.841}
+{'text': 'holy [\xa0__\xa0] this was like a two-bedroom', 'start': 1557.44, 'duration': 3.359}
+{'text': 'this was like a big', 'start': 1559.52, 'duration': 3.12}
+{'text': 'she was in a two-big bedroom a', 'start': 1560.799, 'duration': 3.201}
+{'text': 'two-bedroom big apartment with a', 'start': 1562.64, 'duration': 1.919}
+{'text': 'roommate', 'start': 1564.0, 'duration': 2.159}
+{'text': 'and i think that their rent for that you', 'start': 1564.559, 'duration': 3.041}
+{'text': "i don't know you can ask her i think her", 'start': 1566.159, 'duration': 2.88}
+{'text': 'rent was like 500', 'start': 1567.6, 'duration': 5.52}
+{'text': 'a month so like yeah i mean like yeah', 'start': 1569.039, 'duration': 5.681}
+{'text': 'your parents could afford whatever', 'start': 1573.12, 'duration': 2.88}
+{'text': "but like they weren't living in the same", 'start': 1574.72, 'duration': 3.6}
+{'text': 'areas you want to live in now', 'start': 1576.0, 'duration': 3.52}
+{'text': "don't you think that there is a reason", 'start': 1578.32, 'duration': 3.12}
+{'text': 'people are moving to the coast besides', 'start': 1579.52, 'duration': 3.36}
+{'text': 'there is cooler and more popular living', 'start': 1581.44, 'duration': 1.839}
+{'text': 'there', 'start': 1582.88, 'duration': 1.44}
+{'text': 'i mean it makes more sense that these', 'start': 1583.279, 'duration': 2.241}
+{'text': "people just can't find you no you're", 'start': 1584.32, 'duration': 2.479}
+{'text': 'moving to the coast because our culture', 'start': 1585.52, 'duration': 2.32}
+{'text': 'is [\xa0__\xa0] cancer', 'start': 1586.799, 'duration': 2.641}
+{'text': 'because you guys obsess over these', 'start': 1587.84, 'duration': 3.76}
+{'text': 'stupid [\xa0__\xa0] [\xa0__\xa0] notions of the', 'start': 1589.44, 'duration': 3.119}
+{'text': 'american dream', 'start': 1591.6, 'duration': 2.48}
+{'text': 'of going to some massive [\xa0__\xa0] city', 'start': 1592.559, 'duration': 3.201}
+{'text': 'and becoming massively [\xa0__\xa0] loaded', 'start': 1594.08, 'duration': 3.04}
+{'text': 'and spending your entire [\xa0__\xa0] life', 'start': 1595.76, 'duration': 2.799}
+{'text': 'trying to accumulate enough money to buy', 'start': 1597.12, 'duration': 2.559}
+{'text': 'enough things to make you happy because', 'start': 1598.559, 'duration': 1.841}
+{'text': "you can't find it", 'start': 1599.679, 'duration': 2.0}
+{'text': 'in any of the other places besides like', 'start': 1600.4, 'duration': 2.639}
+{'text': 'what [\xa0__\xa0] corporations sell you to', 'start': 1601.679, 'duration': 2.721}
+{'text': 'make you feel good about yourself', 'start': 1603.039, 'duration': 3.601}
+{'text': "that's that's the reason why there is no", 'start': 1604.4, 'duration': 3.84}
+{'text': 'there is no perfect [\xa0__\xa0] reason', 'start': 1606.64, 'duration': 2.8}
+{'text': 'to leave your family and friends and', 'start': 1608.24, 'duration': 3.12}
+{'text': 'move to some soulless [\xa0__\xa0] american', 'start': 1609.44, 'duration': 3.28}
+{'text': 'city on the coast where you could be', 'start': 1611.36, 'duration': 2.799}
+{'text': '[\xa0__\xa0] miserable commuting to and from', 'start': 1612.72, 'duration': 2.88}
+{'text': 'work every single [\xa0__\xa0] day so you can', 'start': 1614.159, 'duration': 3.361}
+{'text': 'buy whatever joe rogan advertises to you', 'start': 1615.6, 'duration': 3.199}
+{'text': "while you're [\xa0__\xa0] popping ambience", 'start': 1617.52, 'duration': 2.639}
+{'text': 'and trying to fall asleep to his podcast', 'start': 1618.799, 'duration': 2.641}
+{'text': "at night i don't think there's a i don't", 'start': 1620.159, 'duration': 2.64}
+{'text': "think there's a monumentally good reason", 'start': 1621.44, 'duration': 2.8}
+{'text': 'for that people throughout all of human', 'start': 1622.799, 'duration': 2.48}
+{'text': 'history have existed', 'start': 1624.24, 'duration': 2.64}
+{'text': 'without living in megaopolis [\xa0__\xa0]', 'start': 1625.279, 'duration': 2.801}
+{'text': "cities where you're crammed in like", 'start': 1626.88, 'duration': 3.12}
+{'text': '[\xa0__\xa0] sardines from wall to wall to', 'start': 1628.08, 'duration': 3.28}
+{'text': 'wall to wall in these shitty apartments', 'start': 1630.0, 'duration': 2.32}
+{'text': 'that you pay thousands of dollars a', 'start': 1631.36, 'duration': 1.439}
+{'text': 'month for', 'start': 1632.32, 'duration': 1.76}
+{'text': 'i think we could probably still manage', 'start': 1632.799, 'duration': 3.041}
+{'text': 'to do it today i do not i totally', 'start': 1634.08, 'duration': 3.28}
+{'text': 'wholesale reject the reason', 'start': 1635.84, 'duration': 3.36}
+{'text': 'that we absolutely need to live and one', 'start': 1637.36, 'duration': 3.439}
+{'text': 'of the five largest [\xa0__\xa0] cities in', 'start': 1639.2, 'duration': 2.079}
+{'text': 'the world', 'start': 1640.799, 'duration': 1.76}
+{'text': 'in order to have meaning and happiness', 'start': 1641.279, 'duration': 4.801}
+{'text': "in our life i'm not buying that okay", 'start': 1642.559, 'duration': 3.521}
+{'text': 'is that so wrong though if i want to be', 'start': 1651.279, 'duration': 2.481}
+{'text': 'able to live in la i should be able to', 'start': 1652.48, 'duration': 2.48}
+{'text': "it's kind of sad that those areas in", 'start': 1653.76, 'duration': 2.639}
+{'text': 'this country are so inaccessible to us', 'start': 1654.96, 'duration': 2.959}
+{'text': "because of cost i think that's fair no", 'start': 1656.399, 'duration': 3.28}
+{'text': "no it's not fair no", 'start': 1657.919, 'duration': 4.0}
+{'text': "i'm sorry but not everybody in the world", 'start': 1659.679, 'duration': 3.36}
+{'text': 'should be able to live wherever they', 'start': 1661.919, 'duration': 1.76}
+{'text': 'want to', 'start': 1663.039, 'duration': 2.401}
+{'text': "because you know what it's called", 'start': 1663.679, 'duration': 3.681}
+{'text': 'physics we literally', 'start': 1665.44, 'duration': 4.16}
+{'text': "don't have the [\xa0__\xa0] space you can't", 'start': 1667.36, 'duration': 3.679}
+{'text': 'fit everybody if everybody in the world', 'start': 1669.6, 'duration': 3.199}
+{'text': "wanted to live in la it doesn't work", 'start': 1671.039, 'duration': 3.12}
+{'text': "that way you can't do it", 'start': 1672.799, 'duration': 4.401}
+{'text': 'not everybody fits in every area like', 'start': 1674.159, 'duration': 4.24}
+{'text': 'we have enough space in the united', 'start': 1677.2, 'duration': 2.719}
+{'text': 'states i think to fit i think we have', 'start': 1678.399, 'duration': 2.88}
+{'text': 'enough space in texas', 'start': 1679.919, 'duration': 3.041}
+{'text': 'to fit every single human being in the', 'start': 1681.279, 'duration': 4.241}
+{'text': 'world like decently spread out', 'start': 1682.96, 'duration': 5.52}
+{'text': 'i think i think that was true but like', 'start': 1685.52, 'duration': 4.32}
+{'text': 'for some reason every single person in', 'start': 1688.48, 'duration': 2.64}
+{'text': 'the world wants to go and live', 'start': 1689.84, 'duration': 4.319}
+{'text': 'in like one of four cities', 'start': 1691.12, 'duration': 4.32}
+{'text': 'it was like it was like a picture where', 'start': 1694.159, 'duration': 2.321}
+{'text': "it's like what people think san", 'start': 1695.44, 'duration': 2.32}
+{'text': "francisco looks like and it's like a", 'start': 1696.48, 'duration': 2.799}
+{'text': 'beautiful picture of the downtown and', 'start': 1697.76, 'duration': 3.2}
+{'text': 'all the big buildings and everything', 'start': 1699.279, 'duration': 3.361}
+{'text': 'and then it was and then it was a second', 'start': 1700.96, 'duration': 3.439}
+{'text': 'picture of like what san francisco', 'start': 1702.64, 'duration': 3.039}
+{'text': 'actually looks like', 'start': 1704.399, 'duration': 4.16}
+{'text': "and it's like it's this the single", 'start': 1705.679, 'duration': 5.441}
+{'text': 'family housing [\xa0__\xa0] dystopia', 'start': 1708.559, 'duration': 4.321}
+{'text': 'this part of the listen the american', 'start': 1711.12, 'duration': 3.679}
+{'text': "dream can work but it can't work in", 'start': 1712.88, 'duration': 3.519}
+{'text': 'conjunction with everybody living in two', 'start': 1714.799, 'duration': 2.961}
+{'text': 'areas the american dream for whatever', 'start': 1716.399, 'duration': 2.241}
+{'text': '[\xa0__\xa0] reason', 'start': 1717.76, 'duration': 2.88}
+{'text': "is to own a [\xa0__\xa0] house that's like", 'start': 1718.64, 'duration': 3.12}
+{'text': 'the american dream', 'start': 1720.64, 'duration': 2.159}
+{'text': "and that's fine if you want to own a", 'start': 1721.76, 'duration': 2.32}
+{'text': "house it works but everybody can't have", 'start': 1722.799, 'duration': 3.36}
+{'text': 'a house in the same [\xa0__\xa0] city', 'start': 1724.08, 'duration': 3.52}
+{'text': 'your job would allow you to live', 'start': 1726.159, 'duration': 3.12}
+{'text': 'anywhere in the world', 'start': 1727.6, 'duration': 4.88}
+{'text': 'why do you live in l.a', 'start': 1729.279, 'duration': 3.201}
+{'text': "i'll meet you i can live in l.a because", 'start': 1733.44, 'duration': 4.16}
+{'text': 'i can afford it being a non-sub viewer', 'start': 1735.279, 'duration': 2.721}
+{'text': 'slash', 'start': 1737.6, 'duration': 2.64}
+{'text': 'fan for a about a year figured i would', 'start': 1738.0, 'duration': 4.64}
+{'text': 'get a tier 4 sub to make up for that', 'start': 1740.24, 'duration': 4.159}
+{'text': 'thanks for all you did during the', 'start': 1742.64, 'duration': 3.039}
+{'text': 'georgia election', 'start': 1744.399, 'duration': 3.52}
+{'text': "keep up all the good work i didn't move", 'start': 1745.679, 'duration': 4.321}
+{'text': 'to la and demand that people restructure', 'start': 1747.919, 'duration': 4.081}
+{'text': 'their property taxes their income taxes', 'start': 1750.0, 'duration': 3.279}
+{'text': 'and their cost of living and their rent', 'start': 1752.0, 'duration': 1.84}
+{'text': 'control', 'start': 1753.279, 'duration': 2.721}
+{'text': 'to accommodate me wanting to move here i', 'start': 1753.84, 'duration': 4.319}
+{'text': 'have the money to afford to live here', 'start': 1756.0, 'duration': 4.72}
+{'text': "like that's why i live here but when i", 'start': 1758.159, 'duration': 3.52}
+{'text': 'was [\xa0__\xa0] poor', 'start': 1760.72, 'duration': 2.48}
+{'text': 'and cleaning carpets you better [\xa0__\xa0]', 'start': 1761.679, 'duration': 2.48}
+{'text': "believe i wouldn't try to move to a", 'start': 1763.2, 'duration': 2.16}
+{'text': 'place like la or even when i was gonna', 'start': 1764.159, 'duration': 2.24}
+{'text': 'graduate from college if i would have', 'start': 1765.36, 'duration': 2.08}
+{'text': 'retrieved i probably would have moved to', 'start': 1766.399, 'duration': 2.16}
+{'text': '[\xa0__\xa0] la', 'start': 1767.44, 'duration': 2.959}
+{'text': 'i think he meant why did i choose la oh', 'start': 1768.559, 'duration': 3.12}
+{'text': 'because it seems to be a place for like', 'start': 1770.399, 'duration': 3.041}
+{'text': 'content creators and [\xa0__\xa0] but after this', 'start': 1771.679, 'duration': 8.321}
+{'text': "it's either gonna be miami or austin", 'start': 1773.44, 'duration': 7.92}
+{'text': "i don't think people move to these", 'start': 1780.0, 'duration': 2.72}
+{'text': "cities for cultural reasons i think it's", 'start': 1781.36, 'duration': 2.559}
+{'text': 'completely the result of a snowball of', 'start': 1782.72, 'duration': 3.04}
+{'text': 'economic agglomeration creating huge', 'start': 1783.919, 'duration': 3.041}
+{'text': 'opportunities for high school people', 'start': 1785.76, 'duration': 2.72}
+{'text': "i don't i don't agree with that eric i", 'start': 1786.96, 'duration': 3.28}
+{'text': "don't think that's true i don't think", 'start': 1788.48, 'duration': 2.88}
+{'text': 'that', 'start': 1790.24, 'duration': 2.88}
+{'text': "i think that there's more compensation", 'start': 1791.36, 'duration': 3.36}
+{'text': 'in places like california', 'start': 1793.12, 'duration': 3.439}
+{'text': 'than like missouri for people with high', 'start': 1794.72, 'duration': 3.6}
+{'text': 'skill degrees carpet for sure learning', 'start': 1796.559, 'duration': 2.321}
+{'text': 'in la', 'start': 1798.32, 'duration': 2.56}
+{'text': "is called being a pawn star but i don't", 'start': 1798.88, 'duration': 4.159}
+{'text': 'think that that compensation is adequate', 'start': 1800.88, 'duration': 2.56}
+{'text': 'for', 'start': 1803.039, 'duration': 2.481}
+{'text': 'uprooting your entire life moving to a', 'start': 1803.44, 'duration': 3.359}
+{'text': 'whole other area', 'start': 1805.52, 'duration': 3.039}
+{'text': 'um and then having the increased cost of', 'start': 1806.799, 'duration': 2.641}
+{'text': "living as well i don't think the", 'start': 1808.559, 'duration': 2.48}
+{'text': 'compensation is that high', 'start': 1809.44, 'duration': 3.599}
+{'text': 'and then also this is just going by like', 'start': 1811.039, 'duration': 3.681}
+{'text': 'personal experience as well', 'start': 1813.039, 'duration': 4.64}
+{'text': "um i don't think i like the view of", 'start': 1814.72, 'duration': 4.319}
+{'text': 'living in like the midwest and', 'start': 1817.679, 'duration': 2.161}
+{'text': 'everything', 'start': 1819.039, 'duration': 3.041}
+{'text': 'is um like you just gotta get out you go', 'start': 1819.84, 'duration': 4.0}
+{'text': "to escape i don't know who else lived in", 'start': 1822.08, 'duration': 3.199}
+{'text': 'like small towns or small cities but', 'start': 1823.84, 'duration': 1.76}
+{'text': 'like', 'start': 1825.279, 'duration': 2.321}
+{'text': 'if you stayed in your state after', 'start': 1825.6, 'duration': 3.12}
+{'text': 'graduating college', 'start': 1827.6, 'duration': 3.52}
+{'text': "you're a [\xa0__\xa0] loser like literally", 'start': 1828.72, 'duration': 4.079}
+{'text': 'people will look down at you as being a', 'start': 1831.12, 'duration': 4.0}
+{'text': "[\xa0__\xa0] loser and i didn't live in and", 'start': 1832.799, 'duration': 4.161}
+{'text': "to be clear i didn't live in like a", 'start': 1835.12, 'duration': 3.6}
+{'text': '[\xa0__\xa0] small [\xa0__\xa0] village', 'start': 1836.96, 'duration': 3.52}
+{'text': "okay we didn't wake up every morning and", 'start': 1838.72, 'duration': 3.199}
+{'text': 'go suck the [\xa0__\xa0] cow off for our', 'start': 1840.48, 'duration': 2.96}
+{'text': 'breakfast okay i lived in a real', 'start': 1841.919, 'duration': 2.801}
+{'text': 'metropolitan area', 'start': 1843.44, 'duration': 4.56}
+{'text': 'population over a million okay the omaha', 'start': 1844.72, 'duration': 5.679}
+{'text': 'metro population is over a million', 'start': 1848.0, 'duration': 3.76}
+{'text': '[\xa0__\xa0] oh [\xa0__\xa0] with', 'start': 1850.399, 'duration': 3.201}
+{'text': 'the ship being super expensive there', 'start': 1851.76, 'duration': 3.76}
+{'text': 'should be some kind of person that can', 'start': 1853.6, 'duration': 3.84}
+{'text': 'lease somebody a place to live in these', 'start': 1855.52, 'duration': 3.2}
+{'text': 'busy areas that they', 'start': 1857.44, 'duration': 3.2}
+{'text': "otherwise wouldn't have the capital to", 'start': 1858.72, 'duration': 4.4}
+{'text': 'purchase for a consistent rate monthly', 'start': 1860.64, 'duration': 3.039}
+{'text': 'pepe', 'start': 1863.12, 'duration': 2.72}
+{'text': 'nice um this is like a big ass [\xa0__\xa0]', 'start': 1863.679, 'duration': 3.36}
+{'text': 'city um', 'start': 1865.84, 'duration': 3.28}
+{'text': 'i know that this is an edge case but for', 'start': 1867.039, 'duration': 4.24}
+{'text': 'example in the animation industry most', 'start': 1869.12, 'duration': 4.64}
+{'text': 'of the good paying jobs and good studios', 'start': 1871.279, 'duration': 3.76}
+{'text': 'are in the coast', 'start': 1873.76, 'duration': 3.68}
+{'text': "would you say it's still not worth it", 'start': 1875.039, 'duration': 3.681}
+{'text': 'sorry if the question', 'start': 1877.44, 'duration': 3.359}
+{'text': "is dumb i don't know i mean it depends i", 'start': 1878.72, 'duration': 4.64}
+{'text': 'it depends on it depends', 'start': 1880.799, 'duration': 4.0}
+{'text': "i don't think that if you're if every", 'start': 1883.36, 'duration': 3.12}
+{'text': 'single animator across the country feels', 'start': 1884.799, 'duration': 3.281}
+{'text': 'like they need to go to one area', 'start': 1886.48, 'duration': 2.72}
+{'text': "seems like it's probably not a good", 'start': 1888.08, 'duration': 3.28}
+{'text': "thing it's not gonna work um", 'start': 1889.2, 'duration': 3.52}
+{'text': 'but like yeah like even people like in', 'start': 1891.36, 'duration': 2.799}
+{'text': 'omaha felt like if you stayed in here', 'start': 1892.72, 'duration': 2.799}
+{'text': "you're like a little small town nobody", 'start': 1894.159, 'duration': 2.64}
+{'text': 'that just needs to [\xa0__\xa0] leave the', 'start': 1895.519, 'duration': 3.04}
+{'text': '[\xa0__\xa0] city and get the [\xa0__\xa0] out like', 'start': 1896.799, 'duration': 2.801}
+{'text': 'oh yeah and this was the tweet i was', 'start': 1898.559, 'duration': 2.081}
+{'text': "thinking of what nimby's want you to", 'start': 1899.6, 'duration': 2.24}
+{'text': "think san francisco's like versus what", 'start': 1900.64, 'duration': 2.639}
+{'text': 'san francisco is actually like', 'start': 1901.84, 'duration': 3.839}
+{'text': "true it's not just immediate", 'start': 1903.279, 'duration': 3.681}
+{'text': 'compensation', 'start': 1905.679, 'duration': 3.6}
+{'text': 'external economies allows a small area', 'start': 1906.96, 'duration': 4.4}
+{'text': 'like silicon valley to have hundreds of', 'start': 1909.279, 'duration': 4.24}
+{'text': 'companies allowing future advancement', 'start': 1911.36, 'duration': 4.96}
+{'text': 'options and a plethora of labor options', 'start': 1913.519, 'duration': 6.481}
+{'text': 'in missouri you have that', 'start': 1916.32, 'duration': 6.16}
+{'text': "i think you're just wrong you know what", 'start': 1920.0, 'duration': 3.679}
+{'text': "i'm gonna say that", 'start': 1922.48, 'duration': 4.319}
+{'text': "you're just wrong i guaran [\xa0__\xa0]", 'start': 1923.679, 'duration': 5.84}
+{'text': 'to you that there are a ton of [\xa0__\xa0]', 'start': 1926.799, 'duration': 5.281}
+{'text': 'software developers computer engineers', 'start': 1929.519, 'duration': 4.64}
+{'text': 'data analysts software devs blah blah', 'start': 1932.08, 'duration': 4.079}
+{'text': 'blah that all probably work in kansas', 'start': 1934.159, 'duration': 2.4}
+{'text': 'city', 'start': 1936.159, 'duration': 2.481}
+{'text': 'and they probably work just fine i bet', 'start': 1936.559, 'duration': 3.681}
+{'text': 'they have jobs and buildings i bet they', 'start': 1938.64, 'duration': 3.039}
+{'text': 'do a bunch of [\xa0__\xa0] work and i bet', 'start': 1940.24, 'duration': 2.88}
+{'text': 'that all of these people managed to pay', 'start': 1941.679, 'duration': 3.041}
+{'text': 'their bills and have excess money and do', 'start': 1943.12, 'duration': 2.32}
+{'text': 'just fine', 'start': 1944.72, 'duration': 2.24}
+{'text': "i don't think that the only [\xa0__\xa0] tech", 'start': 1945.44, 'duration': 3.04}
+{'text': 'jobs that exist in the entire [\xa0__\xa0]', 'start': 1946.96, 'duration': 2.559}
+{'text': 'country exist', 'start': 1948.48, 'duration': 4.799}
+{'text': "on the coast i don't think that's true", 'start': 1949.519, 'duration': 3.76}
+{'text': 'and live boring [\xa0__\xa0] lives what the', 'start': 1954.96, 'duration': 3.12}
+{'text': '[\xa0__\xa0] kind of life are you living in', 'start': 1956.799, 'duration': 1.841}
+{'text': '[\xa0__\xa0]', 'start': 1958.08, 'duration': 2.079}
+{'text': 'like what are you guys talking about how', 'start': 1958.64, 'duration': 3.44}
+{'text': 'many software devs do you know go to', 'start': 1960.159, 'duration': 3.441}
+{'text': 'move to san francisco and then are out', 'start': 1962.08, 'duration': 3.199}
+{'text': 'like [\xa0__\xa0] partying or surfing every', 'start': 1963.6, 'duration': 2.959}
+{'text': 'other [\xa0__\xa0] day what do you mean', 'start': 1965.279, 'duration': 3.12}
+{'text': 'most you people live miserable [\xa0__\xa0]', 'start': 1966.559, 'duration': 3.201}
+{'text': 'lives [\xa0__\xa0] uh', 'start': 1968.399, 'duration': 3.201}
+{'text': '25 of you millennial [\xa0__\xa0] are on', 'start': 1969.76, 'duration': 4.0}
+{'text': 'antidepressants or ssris or some [\xa0__\xa0]', 'start': 1971.6, 'duration': 3.6}
+{'text': 'like what are you guys out here acting', 'start': 1973.76, 'duration': 3.12}
+{'text': "like you're living your best life like", 'start': 1975.2, 'duration': 2.64}
+{'text': "you're happy and", 'start': 1976.88, 'duration': 2.48}
+{'text': "fulfilled and you're not all like on the", 'start': 1977.84, 'duration': 3.04}
+{'text': 'verge of breaking down into midlife', 'start': 1979.36, 'duration': 3.52}
+{'text': 'crises because you realize that like the', 'start': 1980.88, 'duration': 3.6}
+{'text': 'dream of like going to college and', 'start': 1982.88, 'duration': 3.36}
+{'text': 'getting some soulless [\xa0__\xa0] corporate', 'start': 1984.48, 'duration': 3.52}
+{'text': 'job and then moving to san francisco and', 'start': 1986.24, 'duration': 3.279}
+{'text': 'living in some tiny [\xa0__\xa0] corner of', 'start': 1988.0, 'duration': 2.72}
+{'text': 'the world for your entire life like', 'start': 1989.519, 'duration': 2.321}
+{'text': "isn't making you happy like we're going", 'start': 1990.72, 'duration': 2.319}
+{'text': 'to pretend that these people that all', 'start': 1991.84, 'duration': 2.559}
+{'text': 'move to these massive cities are having', 'start': 1993.039, 'duration': 2.88}
+{'text': 'like the most fun that they ever could', 'start': 1994.399, 'duration': 3.041}
+{'text': 'have had any other place in their world', 'start': 1995.919, 'duration': 3.12}
+{'text': "like come on dude whatever they're doing", 'start': 1997.44, 'duration': 2.64}
+{'text': "it's available in these big cities", 'start': 1999.039, 'duration': 2.321}
+{'text': 'unlike in the midwest where half of', 'start': 2000.08, 'duration': 2.88}
+{'text': 'every idea you could ever', 'start': 2001.36, 'duration': 2.96}
+{'text': 'have about what to do in life is', 'start': 2002.96, 'duration': 3.12}
+{'text': 'unachievable there well like what do you', 'start': 2004.32, 'duration': 4.8}
+{'text': 'what do you mean by that', 'start': 2006.08, 'duration': 3.04}
+{'text': "i don't know if that's true i feel like", 'start': 2010.88, 'duration': 3.519}
+{'text': 'i could find probably most', 'start': 2012.88, 'duration': 4.399}
+{'text': 'jobs outside of the coast like what', 'start': 2014.399, 'duration': 4.16}
+{'text': 'would be your advice then out of', 'start': 2017.279, 'duration': 2.081}
+{'text': 'interest', 'start': 2018.559, 'duration': 3.36}
+{'text': 'yeah you sometime in [\xa0__\xa0] high school', 'start': 2019.36, 'duration': 5.12}
+{'text': "when you're 14 15 16 17 18 or at least", 'start': 2021.919, 'duration': 4.081}
+{'text': 'when you move out again on your own', 'start': 2024.48, 'duration': 2.799}
+{'text': 'at some point you have to figure out', 'start': 2026.0, 'duration': 4.0}
+{'text': 'like what in life makes you happy', 'start': 2027.279, 'duration': 4.481}
+{'text': "because if you don't figure that out", 'start': 2030.0, 'duration': 3.84}
+{'text': 'then the world is going to fast-track', 'start': 2031.76, 'duration': 3.36}
+{'text': 'you onto whatever is the most', 'start': 2033.84, 'duration': 2.8}
+{'text': 'economically viable path', 'start': 2035.12, 'duration': 3.52}
+{'text': 'and that does not necessarily line up', 'start': 2036.64, 'duration': 3.6}
+{'text': 'with what', 'start': 2038.64, 'duration': 4.24}
+{'text': 'suits you best as a human and nobody', 'start': 2040.24, 'duration': 3.2}
+{'text': 'seems to', 'start': 2042.88, 'duration': 2.08}
+{'text': 'give a [\xa0__\xa0] about that at all nobody', 'start': 2043.44, 'duration': 3.599}
+{'text': 'seems to think about that at all', 'start': 2044.96, 'duration': 4.159}
+{'text': 'people want to maximize economic', 'start': 2047.039, 'duration': 3.6}
+{'text': 'outcomes ignoring the fact that', 'start': 2049.119, 'duration': 5.28}
+{'text': 'an economic outcome and a um', 'start': 2050.639, 'duration': 5.28}
+{'text': 'like a personal fulfillment or personal', 'start': 2054.399, 'duration': 3.121}
+{'text': "happiness outcome don't necessarily have", 'start': 2055.919, 'duration': 3.361}
+{'text': "to align at all there's no incentive", 'start': 2057.52, 'duration': 3.28}
+{'text': 'in any market structure or in any', 'start': 2059.28, 'duration': 3.04}
+{'text': 'government structure to make sure that', 'start': 2060.8, 'duration': 2.64}
+{'text': "whatever you're doing makes you the", 'start': 2062.32, 'duration': 2.16}
+{'text': 'happiest possible', 'start': 2063.44, 'duration': 2.479}
+{'text': "the only thing that society's interested", 'start': 2064.48, 'duration': 2.8}
+{'text': 'in is gearing you towards being as', 'start': 2065.919, 'duration': 4.561}
+{'text': 'economically productive as possible', 'start': 2067.28, 'duration': 4.799}
+{'text': "and if you don't spend any time thinking", 'start': 2070.48, 'duration': 2.879}
+{'text': 'about like what makes you happy or what', 'start': 2072.079, 'duration': 2.32}
+{'text': "you want to do then you're just going to", 'start': 2073.359, 'duration': 4.401}
+{'text': 'be railroaded down that track', 'start': 2074.399, 'duration': 3.361}
+{'text': "like it's so it's so [\xa0__\xa0] crazy to me", 'start': 2078.48, 'duration': 4.48}
+{'text': 'that like you guys like all of our games', 'start': 2081.04, 'duration': 3.92}
+{'text': 'suck now for rpgs because you guys want', 'start': 2082.96, 'duration': 4.0}
+{'text': 'these nasty [\xa0__\xa0] stupidest [\xa0__\xa0] open', 'start': 2084.96, 'duration': 3.52}
+{'text': 'world experiences where you can go do', 'start': 2086.96, 'duration': 3.119}
+{'text': 'anything and go be anyone and go live', 'start': 2088.48, 'duration': 2.879}
+{'text': 'whatever [\xa0__\xa0] life you want', 'start': 2090.079, 'duration': 3.52}
+{'text': '[\xa0__\xa0] elder scrolls 69 [\xa0__\xa0] gta', 'start': 2091.359, 'duration': 3.28}
+{'text': 'blah blah blah blah blah', 'start': 2093.599, 'duration': 2.48}
+{'text': 'and in the real world you guys are', 'start': 2094.639, 'duration': 2.881}
+{'text': 'railroaded on like the most linear', 'start': 2096.079, 'duration': 2.241}
+{'text': '[\xa0__\xa0]', 'start': 2097.52, 'duration': 3.68}
+{'text': 'uh fantasy star final fantasy 7 game or', 'start': 2098.32, 'duration': 4.32}
+{'text': 'whatever the [\xa0__\xa0] it is where you have', 'start': 2101.2, 'duration': 3.44}
+{'text': 'like no choices like no options and', 'start': 2102.64, 'duration': 3.36}
+{'text': "you're just like given the same like you", 'start': 2104.64, 'duration': 2.88}
+{'text': 'have one class that you can scale into', 'start': 2106.0, 'duration': 2.72}
+{'text': "and that's all you could [\xa0__\xa0] do for", 'start': 2107.52, 'duration': 2.72}
+{'text': 'your whole life until you [\xa0__\xa0] die', 'start': 2108.72, 'duration': 4.96}
+{'text': 'like you that you go you guys treat your', 'start': 2110.24, 'duration': 5.359}
+{'text': 'rpgs as more open world than your actual', 'start': 2113.68, 'duration': 2.399}
+{'text': '[\xa0__\xa0]', 'start': 2115.599, 'duration': 3.601}
+{'text': 'lives sorry anyway this is a long way to', 'start': 2116.079, 'duration': 3.441}
+{'text': 'say', 'start': 2119.2, 'duration': 1.44}
+{'text': "listen i don't think that all of us", 'start': 2119.52, 'duration': 3.52}
+{'text': 'should obsess over going to to live on', 'start': 2120.64, 'duration': 3.28}
+{'text': 'the coasts', 'start': 2123.04, 'duration': 2.16}
+{'text': 'remember to hit that like and subscribe', 'start': 2123.92, 'duration': 2.8}
+{'text': "and don't forget the notification bell", 'start': 2125.2, 'duration': 11.36}
+{'text': 'so that my videos show up feed', 'start': 2126.72, 'duration': 9.84}

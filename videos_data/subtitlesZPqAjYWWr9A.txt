@@ -1,0 +1,1541 @@
+{'text': "all right hey guys how's it going i am", 'start': 3.52, 'duration': 3.92}
+{'text': 'joined here by kevin who is running for', 'start': 5.04, 'duration': 4.96}
+{'text': "georgia's uh 14th district for the uss", 'start': 7.44, 'duration': 3.52}
+{'text': 'representatives', 'start': 10.0, 'duration': 4.0}
+{'text': "uh how's it going kevin pretty good", 'start': 10.96, 'duration': 6.0}
+{'text': "glad it's friday and unwinding for the", 'start': 14.0, 'duration': 3.52}
+{'text': 'day', 'start': 16.96, 'duration': 2.56}
+{'text': 'so glad to be here as well so thanks for', 'start': 17.52, 'duration': 3.12}
+{'text': 'taking some time', 'start': 19.52, 'duration': 2.8}
+{'text': "yeah no problem we've talked to quite a", 'start': 20.64, 'duration': 3.36}
+{'text': 'few people running in different', 'start': 22.32, 'duration': 2.32}
+{'text': 'districts', 'start': 24.0, 'duration': 2.72}
+{'text': 'and yeah we looked into your district a', 'start': 24.64, 'duration': 3.6}
+{'text': "little bit uh it seems like you've got a", 'start': 26.72, 'duration': 2.879}
+{'text': 'pretty big uphill battle', 'start': 28.24, 'duration': 3.6}
+{'text': 'in terms of uh this actual general', 'start': 29.599, 'duration': 3.841}
+{'text': 'election because oh my goodness this', 'start': 31.84, 'duration': 4.239}
+{'text': 'district is pretty red', 'start': 33.44, 'duration': 4.959}
+{'text': 'yeah it is i think a little people a lot', 'start': 36.079, 'duration': 3.521}
+{'text': 'of people were kind of surprised that', 'start': 38.399, 'duration': 1.68}
+{'text': 'someone', 'start': 39.6, 'duration': 3.84}
+{'text': "did run a lot of our races no one's ran", 'start': 40.079, 'duration': 4.881}
+{'text': "and it's a fairly new district", 'start': 43.44, 'duration': 4.799}
+{'text': 'it was created after the last census and', 'start': 44.96, 'duration': 5.439}
+{'text': 'it is one of the reddest districts in', 'start': 48.239, 'duration': 3.201}
+{'text': 'our', 'start': 50.399, 'duration': 3.601}
+{'text': "country but i'm very much of the mindset", 'start': 51.44, 'duration': 3.36}
+{'text': 'of you', 'start': 54.0, 'duration': 2.8}
+{'text': 'have to run every race like you can win', 'start': 54.8, 'duration': 3.2}
+{'text': 'it because', 'start': 56.8, 'duration': 4.32}
+{'text': "you'll never have a chance otherwise", 'start': 58.0, 'duration': 5.12}
+{'text': "um to kind of get a feel for where we're", 'start': 61.12, 'duration': 4.319}
+{'text': 'at how would you characterize your', 'start': 63.12, 'duration': 4.64}
+{'text': 'um beliefs in terms of political', 'start': 65.439, 'duration': 3.761}
+{'text': 'positions would you see yourself as a', 'start': 67.76, 'duration': 3.28}
+{'text': 'more moderate democrat or do you see', 'start': 69.2, 'duration': 2.32}
+{'text': 'yourself', 'start': 71.04, 'duration': 2.399}
+{'text': 'more far left kind of like progressive', 'start': 71.52, 'duration': 3.44}
+{'text': 'justice stems type democrat', 'start': 73.439, 'duration': 3.601}
+{'text': 'um what do you follow on that spectrum', 'start': 74.96, 'duration': 4.24}
+{'text': "i've been called a lot of things in my", 'start': 77.04, 'duration': 3.6}
+{'text': "day and i won't repeat them all because", 'start': 79.2, 'duration': 3.279}
+{'text': 'a lot of them are pretty nasty', 'start': 80.64, 'duration': 4.799}
+{'text': "and i think that's because i do believe", 'start': 82.479, 'duration': 4.721}
+{'text': 'in a lot of different values', 'start': 85.439, 'duration': 3.521}
+{'text': 'growing up i was a republican so a lot', 'start': 87.2, 'duration': 4.0}
+{'text': 'of those values resonate with me', 'start': 88.96, 'duration': 5.119}
+{'text': "i'm very second amendment friendly for a", 'start': 91.2, 'duration': 4.08}
+{'text': 'democrat', 'start': 94.079, 'duration': 3.841}
+{'text': 'but i also believe in ensuring everyone', 'start': 95.28, 'duration': 3.92}
+{'text': 'has health care i', 'start': 97.92, 'duration': 3.68}
+{'text': 'believe in single-payer health insurance', 'start': 99.2, 'duration': 4.32}
+{'text': 'as a way to ensure every american has', 'start': 101.6, 'duration': 2.879}
+{'text': 'access', 'start': 103.52, 'duration': 3.36}
+{'text': 'to the health care they deserve one of', 'start': 104.479, 'duration': 3.6}
+{'text': 'the things that initially', 'start': 106.88, 'duration': 3.279}
+{'text': 'made me consider or consider myself a', 'start': 108.079, 'duration': 3.121}
+{'text': 'republican', 'start': 110.159, 'duration': 2.801}
+{'text': 'is great christian values like taking', 'start': 111.2, 'duration': 3.199}
+{'text': 'care of each other and making sure', 'start': 112.96, 'duration': 2.88}
+{'text': "everyone's taken care of", 'start': 114.399, 'duration': 4.0}
+{'text': 'and that kind of just resonates through', 'start': 115.84, 'duration': 4.48}
+{'text': 'my views on single-payer', 'start': 118.399, 'duration': 4.72}
+{'text': 'is ensuring that all life is treated', 'start': 120.32, 'duration': 4.079}
+{'text': 'with respect regardless of how much', 'start': 123.119, 'duration': 2.96}
+{'text': 'money they have so', 'start': 124.399, 'duration': 3.04}
+{'text': "on that note i've been called a lot of", 'start': 126.079, 'duration': 3.04}
+{'text': "things and i think the one that's most", 'start': 127.439, 'duration': 2.96}
+{'text': 'accurate and sticks', 'start': 129.119, 'duration': 4.241}
+{'text': "is a moderate democrat but i don't want", 'start': 130.399, 'duration': 4.48}
+{'text': 'that to be confused with something like', 'start': 133.36, 'duration': 4.239}
+{'text': "corporate democrat because that's often", 'start': 134.879, 'duration': 3.761}
+{'text': 'viewed there or', 'start': 137.599, 'duration': 3.121}
+{'text': 'do nothing democrat as some people might', 'start': 138.64, 'duration': 3.44}
+{'text': 'say because i do have', 'start': 140.72, 'duration': 4.4}
+{'text': 'ideas and beliefs and solutions to a lot', 'start': 142.08, 'duration': 4.799}
+{'text': 'of our problems', 'start': 145.12, 'duration': 3.119}
+{'text': 'do you have any um do you have any', 'start': 146.879, 'duration': 3.521}
+{'text': 'opinions in general about', 'start': 148.239, 'duration': 5.041}
+{'text': 'uh this idea that democrats are kind of', 'start': 150.4, 'duration': 4.24}
+{'text': 'trying to fight back', 'start': 153.28, 'duration': 3.599}
+{'text': 'against the idea that religion belongs', 'start': 154.64, 'duration': 3.599}
+{'text': 'to the right', 'start': 156.879, 'duration': 2.64}
+{'text': 'i noticed for instance like pete buddha', 'start': 158.239, 'duration': 2.961}
+{'text': 'judge on the campaign trail seemed to', 'start': 159.519, 'duration': 2.641}
+{'text': 'try to', 'start': 161.2, 'duration': 2.8}
+{'text': 'reiterate several times like i think as', 'start': 162.16, 'duration': 3.2}
+{'text': 'a christian man like this is something', 'start': 164.0, 'duration': 2.959}
+{'text': 'that christians should believe in', 'start': 165.36, 'duration': 3.68}
+{'text': 'or you know like this would be like a', 'start': 166.959, 'duration': 3.92}
+{'text': 'good thing for you know religious people', 'start': 169.04, 'duration': 3.36}
+{'text': 'to buy into democratic messaging it', 'start': 170.879, 'duration': 2.801}
+{'text': "seems like i've heard that more", 'start': 172.4, 'duration': 3.68}
+{'text': 'this cycle than i have in the past um do', 'start': 173.68, 'duration': 4.559}
+{'text': 'you have any thoughts about that or', 'start': 176.08, 'duration': 4.079}
+{'text': 'yeah i think we have to strike a good', 'start': 178.239, 'duration': 3.121}
+{'text': 'balance because', 'start': 180.159, 'duration': 3.041}
+{'text': 'we do want to keep religion out of', 'start': 181.36, 'duration': 4.48}
+{'text': 'politics at least in terms of the way we', 'start': 183.2, 'duration': 3.44}
+{'text': 'pass laws', 'start': 185.84, 'duration': 3.2}
+{'text': "but someone's religion speaks a lot of", 'start': 186.64, 'duration': 3.519}
+{'text': 'who they are', 'start': 189.04, 'duration': 2.72}
+{'text': "and i think that's important as well and", 'start': 190.159, 'duration': 4.0}
+{'text': 'i i battled myself that balance of', 'start': 191.76, 'duration': 4.88}
+{'text': 'you know not trying to relate or go too', 'start': 194.159, 'duration': 3.921}
+{'text': 'heavy on the religion', 'start': 196.64, 'duration': 3.84}
+{'text': 'but also show who i am and how that', 'start': 198.08, 'duration': 3.92}
+{'text': 'connects with my beliefs', 'start': 200.48, 'duration': 4.0}
+{'text': 'and i think the democrats could tap into', 'start': 202.0, 'duration': 3.12}
+{'text': 'that a lot', 'start': 204.48, 'duration': 2.72}
+{'text': 'i mean when we look at democratic values', 'start': 205.12, 'duration': 3.759}
+{'text': "it's very much taking care of each other", 'start': 207.2, 'duration': 3.52}
+{'text': 'no person left behind', 'start': 208.879, 'duration': 4.481}
+{'text': "and that's what i see is one of the core", 'start': 210.72, 'duration': 3.84}
+{'text': 'religious values of', 'start': 213.36, 'duration': 3.68}
+{'text': 'things such as christianity and the', 'start': 214.56, 'duration': 4.72}
+{'text': 'teachings of jesus christ', 'start': 217.04, 'duration': 3.839}
+{'text': "when you're trying to do messaging as a", 'start': 219.28, 'duration': 3.44}
+{'text': 'democrat and i understand in your case', 'start': 220.879, 'duration': 3.201}
+{'text': 'you live in a very red district so', 'start': 222.72, 'duration': 2.64}
+{'text': "it's going to look a lot different for", 'start': 224.08, 'duration': 3.12}
+{'text': 'you', 'start': 225.36, 'duration': 3.04}
+{'text': 'than like someone in connecticut or', 'start': 227.2, 'duration': 4.08}
+{'text': 'something right how do you', 'start': 228.4, 'duration': 5.199}
+{'text': 'do you ever worry that how do you draw', 'start': 231.28, 'duration': 3.92}
+{'text': 'this line between trying to appeal to', 'start': 233.599, 'duration': 3.92}
+{'text': 'republican voters or appeal to people', 'start': 235.2, 'duration': 4.0}
+{'text': 'that you know voted i think it was like', 'start': 237.519, 'duration': 3.681}
+{'text': 'plus 27 you know for trump', 'start': 239.2, 'duration': 3.28}
+{'text': 'how do you appeal to these people while', 'start': 241.2, 'duration': 2.64}
+{'text': 'still holding on to what you believe is', 'start': 242.48, 'duration': 2.08}
+{'text': 'important', 'start': 243.84, 'duration': 2.64}
+{'text': 'uh about being a democrat or or in terms', 'start': 244.56, 'duration': 3.759}
+{'text': 'of like your legislative goals', 'start': 246.48, 'duration': 4.399}
+{'text': "it's all about common sense and reaching", 'start': 248.319, 'duration': 3.92}
+{'text': 'across the aisle', 'start': 250.879, 'duration': 4.64}
+{'text': 'and finding mutual beneficial agreements', 'start': 252.239, 'duration': 5.12}
+{'text': "that's what politics is supposed to be", 'start': 255.519, 'duration': 3.601}
+{'text': 'like bipartisanship', 'start': 257.359, 'duration': 4.4}
+{'text': "i've got nearly 20 years in customer and", 'start': 259.12, 'duration': 3.92}
+{'text': 'client management', 'start': 261.759, 'duration': 3.201}
+{'text': "and that's what that's all about is", 'start': 263.04, 'duration': 3.76}
+{'text': 'resolving disagreements', 'start': 264.96, 'duration': 4.64}
+{'text': 'and coming to solutions even when our', 'start': 266.8, 'duration': 3.44}
+{'text': 'differences', 'start': 269.6, 'duration': 3.36}
+{'text': 'may drive us apart we need to focus on', 'start': 270.24, 'duration': 3.36}
+{'text': 'what', 'start': 272.96, 'duration': 3.36}
+{'text': 'we have in common and use that as a', 'start': 273.6, 'duration': 4.879}
+{'text': 'strength to come together and realize', 'start': 276.32, 'duration': 3.52}
+{'text': "we're more alike than we're different", 'start': 278.479, 'duration': 3.921}
+{'text': 'and we might not agree about every issue', 'start': 279.84, 'duration': 5.84}
+{'text': 'or how to address it specifically', 'start': 282.4, 'duration': 6.4}
+{'text': "but that's a good starting point sure", 'start': 285.68, 'duration': 5.04}
+{'text': 'do you um one question that i ask for a', 'start': 288.8, 'duration': 3.92}
+{'text': 'lot of people that are', 'start': 290.72, 'duration': 3.84}
+{'text': 'um running in these like more', 'start': 292.72, 'duration': 3.36}
+{'text': 'challenging districts', 'start': 294.56, 'duration': 3.6}
+{'text': "um if you make it into let's say", 'start': 296.08, 'duration': 3.679}
+{'text': "hypothetically you know you're running", 'start': 298.16, 'duration': 3.039}
+{'text': "and you've got to make an argument to", 'start': 299.759, 'duration': 3.921}
+{'text': 'a pretty red district are there like', 'start': 301.199, 'duration': 4.321}
+{'text': 'what major legislative positions are you', 'start': 303.68, 'duration': 3.6}
+{'text': 'willing to compromise a little bit on', 'start': 305.52, 'duration': 3.92}
+{'text': "and which ones are more like i'm not", 'start': 307.28, 'duration': 3.44}
+{'text': 'budging on this', 'start': 309.44, 'duration': 3.599}
+{'text': 'um so like for instance are you like', 'start': 310.72, 'duration': 3.919}
+{'text': 'okay you know', 'start': 313.039, 'duration': 4.321}
+{'text': 'maybe instead of single-payer maybe we', 'start': 314.639, 'duration': 3.041}
+{'text': 'just', 'start': 317.36, 'duration': 2.64}
+{'text': 'expand medicaid a little bit or medicare', 'start': 317.68, 'duration': 3.12}
+{'text': 'a little bit', 'start': 320.0, 'duration': 3.44}
+{'text': "um but i'm not budging on like abortion", 'start': 320.8, 'duration': 4.0}
+{'text': "or something like that you know like i'm", 'start': 323.44, 'duration': 2.4}
+{'text': 'always going to be like a pro-choice', 'start': 324.8, 'duration': 1.839}
+{'text': 'candidate like', 'start': 325.84, 'duration': 1.919}
+{'text': 'what are what are some of kind of your', 'start': 326.639, 'duration': 2.481}
+{'text': 'immovable positions and what are some', 'start': 327.759, 'duration': 2.16}
+{'text': 'things that you think that', 'start': 329.12, 'duration': 2.0}
+{'text': 'maybe democrats have to be a little bit', 'start': 329.919, 'duration': 4.241}
+{'text': 'more flexible on in really red districts', 'start': 331.12, 'duration': 4.4}
+{'text': 'i think we have to be kind of', 'start': 334.16, 'duration': 3.84}
+{'text': 'open-minded and i think almost', 'start': 335.52, 'duration': 5.92}
+{'text': "setting hard yes or no's kind of sets us", 'start': 338.0, 'duration': 5.68}
+{'text': 'up for failure a good compromise', 'start': 341.44, 'duration': 3.759}
+{'text': 'everyone gets a little bit of what they', 'start': 343.68, 'duration': 3.68}
+{'text': 'want and everyone gets a little bit of', 'start': 345.199, 'duration': 2.72}
+{'text': 'they', 'start': 347.36, 'duration': 3.36}
+{'text': 'are not what they wanted and so a great', 'start': 347.919, 'duration': 3.681}
+{'text': 'example is', 'start': 350.72, 'duration': 3.12}
+{'text': 'i am 100 for single-payer health', 'start': 351.6, 'duration': 3.2}
+{'text': 'insurance system', 'start': 353.84, 'duration': 3.04}
+{'text': 'that has a for-profit health care', 'start': 354.8, 'duration': 4.16}
+{'text': 'providers behind that', 'start': 356.88, 'duration': 4.319}
+{'text': "but i've seen some proposals where", 'start': 358.96, 'duration': 4.0}
+{'text': "they're the public option", 'start': 361.199, 'duration': 3.84}
+{'text': 'and if it provides health care for every', 'start': 362.96, 'duration': 3.2}
+{'text': 'single person', 'start': 365.039, 'duration': 3.121}
+{'text': "that's great i mean basically my two", 'start': 366.16, 'duration': 4.08}
+{'text': "wants on a single payer is everyone's", 'start': 368.16, 'duration': 2.64}
+{'text': 'covered', 'start': 370.24, 'duration': 3.04}
+{'text': "that's my number one regardless of how", 'start': 370.8, 'duration': 3.6}
+{'text': 'much money they have', 'start': 373.28, 'duration': 2.96}
+{'text': 'and my number two is to do it cost', 'start': 374.4, 'duration': 3.519}
+{'text': 'effectively because we waste a lot of', 'start': 376.24, 'duration': 2.32}
+{'text': 'money', 'start': 377.919, 'duration': 2.481}
+{'text': 'with the system we have in place today', 'start': 378.56, 'duration': 4.16}
+{'text': 'and a lot of money will still be wasted', 'start': 380.4, 'duration': 5.519}
+{'text': 'with the public option but if', 'start': 382.72, 'duration': 4.64}
+{'text': 'we go with the public option the', 'start': 385.919, 'duration': 3.681}
+{'text': "support's there you know i'm willing to", 'start': 387.36, 'duration': 3.76}
+{'text': 'give up on my number two to get my', 'start': 389.6, 'duration': 2.879}
+{'text': 'number one', 'start': 391.12, 'duration': 3.84}
+{'text': "um and things of things i wouldn't", 'start': 392.479, 'duration': 4.0}
+{'text': 'compromise', 'start': 394.96, 'duration': 3.44}
+{'text': 'i i think it all really comes down to', 'start': 396.479, 'duration': 4.081}
+{'text': 'common sense and', 'start': 398.4, 'duration': 3.68}
+{'text': "again i don't want to like pitch and", 'start': 400.56, 'duration': 4.079}
+{'text': 'hold myself hold myself into like this i', 'start': 402.08, 'duration': 3.6}
+{'text': 'would never', 'start': 404.639, 'duration': 4.081}
+{'text': 'say yes or no to because', 'start': 405.68, 'duration': 5.6}
+{'text': "i'm open-minded and i think we all", 'start': 408.72, 'duration': 3.36}
+{'text': 'should be', 'start': 411.28, 'duration': 3.84}
+{'text': 'and be open to being uh', 'start': 412.08, 'duration': 6.16}
+{'text': 'wrong or being convinced to', 'start': 415.12, 'duration': 4.88}
+{'text': 'say yes or no to something we might not', 'start': 418.24, 'duration': 3.359}
+{'text': 'have agreed to because', 'start': 420.0, 'duration': 3.44}
+{'text': 'it is for the greater good do you think', 'start': 421.599, 'duration': 3.681}
+{'text': 'there are any broad policies', 'start': 423.44, 'duration': 3.52}
+{'text': 'in the kind of the democratic', 'start': 425.28, 'duration': 3.759}
+{'text': 'legislature that democrats', 'start': 426.96, 'duration': 4.32}
+{'text': 'should be a little bit more flexible on', 'start': 429.039, 'duration': 4.081}
+{'text': "um like maybe some position where it's", 'start': 431.28, 'duration': 3.52}
+{'text': 'like man if we just gave up this one', 'start': 433.12, 'duration': 3.199}
+{'text': "thing maybe it'd be easier to appeal to", 'start': 434.8, 'duration': 2.56}
+{'text': 'voters without losing too many', 'start': 436.319, 'duration': 3.44}
+{'text': 'democratic voters or', 'start': 437.36, 'duration': 7.2}
+{'text': "i think we're a little as a party to", 'start': 439.759, 'duration': 8.401}
+{'text': 'gun hoe on gun control okay um', 'start': 444.56, 'duration': 6.16}
+{'text': 'i feel like a lot of the policies treat', 'start': 448.16, 'duration': 3.439}
+{'text': 'the symptom', 'start': 450.72, 'duration': 3.919}
+{'text': 'but not the the disease', 'start': 451.599, 'duration': 4.561}
+{'text': 'you know one of the great examples i', 'start': 454.639, 'duration': 3.521}
+{'text': 'like to look towards is banning high', 'start': 456.16, 'duration': 3.759}
+{'text': 'capacity magazines', 'start': 458.16, 'duration': 4.159}
+{'text': 'yes the science does show that if', 'start': 459.919, 'duration': 4.56}
+{'text': 'someone has a high capacity magazine', 'start': 462.319, 'duration': 4.961}
+{'text': 'they can hurt and kill more people in a', 'start': 464.479, 'duration': 4.321}
+{'text': 'short amount of time', 'start': 467.28, 'duration': 3.599}
+{'text': "but that's not really the problem the", 'start': 468.8, 'duration': 3.36}
+{'text': "problem is someone that's", 'start': 470.879, 'duration': 3.76}
+{'text': 'mentally unstable has a weapon and they', 'start': 472.16, 'duration': 3.36}
+{'text': "really shouldn't", 'start': 474.639, 'duration': 3.441}
+{'text': "so i'd rather we address that problem", 'start': 475.52, 'duration': 3.28}
+{'text': 'instead of', 'start': 478.08, 'duration': 3.76}
+{'text': "trying to focus on well let's you know", 'start': 478.8, 'duration': 5.119}
+{'text': 'ignore the mental health problem here', 'start': 481.84, 'duration': 4.079}
+{'text': 'and try in and reduce the amount of', 'start': 483.919, 'duration': 3.361}
+{'text': 'bullets getting spent', 'start': 485.919, 'duration': 3.921}
+{'text': "sure okay that's that's always my go-to", 'start': 487.28, 'duration': 4.0}
+{'text': "actually it's one of the big issues", 'start': 489.84, 'duration': 3.52}
+{'text': 'um especially related to rifles that i', 'start': 491.28, 'duration': 3.68}
+{'text': 'wish democrats would just leave alone', 'start': 493.36, 'duration': 1.92}
+{'text': "it's", 'start': 494.96, 'duration': 2.079}
+{'text': "there's so much political capital that", 'start': 495.28, 'duration': 3.44}
+{'text': 'goes into fighting like', 'start': 497.039, 'duration': 3.28}
+{'text': 'rifles that account for such a low', 'start': 498.72, 'duration': 3.12}
+{'text': 'amount of the royal violence and it just', 'start': 500.319, 'duration': 2.961}
+{'text': 'feels like so much political capital is', 'start': 501.84, 'duration': 3.12}
+{'text': 'wasted on an issue that', 'start': 503.28, 'duration': 3.039}
+{'text': "you're so much better spending it on", 'start': 504.96, 'duration': 2.48}
+{'text': 'like healthcare or something different', 'start': 506.319, 'duration': 1.681}
+{'text': 'like that', 'start': 507.44, 'duration': 4.319}
+{'text': 'you know yeah um okay sorry we um we we', 'start': 508.0, 'duration': 5.039}
+{'text': 'kind of got into policy stuff', 'start': 511.759, 'duration': 2.481}
+{'text': 'because i was curious about um', 'start': 513.039, 'duration': 2.48}
+{'text': 'distinguishing you uh from other', 'start': 514.24, 'duration': 2.159}
+{'text': 'democratic', 'start': 515.519, 'duration': 2.721}
+{'text': 'runners or things like that uh backing', 'start': 516.399, 'duration': 4.401}
+{'text': 'up a little bit', 'start': 518.24, 'duration': 2.56}
+{'text': 'different people feel like they can have', 'start': 521.039, 'duration': 3.441}
+{'text': 'different impacts at different levels', 'start': 522.56, 'duration': 3.68}
+{'text': 'in the united states you know some', 'start': 524.48, 'duration': 3.12}
+{'text': 'people like to run for more local houses', 'start': 526.24, 'duration': 3.12}
+{'text': 'some people like to run for president', 'start': 527.6, 'duration': 4.56}
+{'text': 'why do you feel like this district or', 'start': 529.36, 'duration': 3.2}
+{'text': 'this', 'start': 532.16, 'duration': 2.16}
+{'text': 'office is the most appropriate position', 'start': 532.56, 'duration': 4.08}
+{'text': 'for you to run for um why run for you', 'start': 534.32, 'duration': 3.44}
+{'text': 'know the national level', 'start': 536.64, 'duration': 2.319}
+{'text': 'congress instead of like a state', 'start': 537.76, 'duration': 2.88}
+{'text': 'legislature or a city council position', 'start': 538.959, 'duration': 3.041}
+{'text': 'or something', 'start': 540.64, 'duration': 3.28}
+{'text': 'yeah i i actually looked at and', 'start': 542.0, 'duration': 4.399}
+{'text': 'considered the state when i saw', 'start': 543.92, 'duration': 4.56}
+{'text': 'tom graves the current person in this', 'start': 546.399, 'duration': 3.521}
+{'text': 'position i considered it', 'start': 548.48, 'duration': 4.88}
+{'text': 'briefly and in our state', 'start': 549.92, 'duration': 6.16}
+{'text': 'the state legislators are part-time and', 'start': 553.36, 'duration': 4.479}
+{'text': "i'm not looking for a part-time job", 'start': 556.08, 'duration': 4.24}
+{'text': 'i want to be in public service full-time', 'start': 557.839, 'duration': 4.081}
+{'text': 'i already have a part-time public', 'start': 560.32, 'duration': 2.639}
+{'text': 'service job', 'start': 561.92, 'duration': 4.32}
+{'text': "i'm a poll worker along with my day job", 'start': 562.959, 'duration': 7.281}
+{'text': "and so i couldn't", 'start': 566.24, 'duration': 7.599}
+{'text': 'like financially or in terms of what i', 'start': 570.24, 'duration': 6.0}
+{'text': 'want to do for my country justify', 'start': 573.839, 'duration': 4.481}
+{'text': 'going for a part-time state level', 'start': 576.24, 'duration': 4.48}
+{'text': 'position so really the federal made', 'start': 578.32, 'duration': 3.04}
+{'text': 'sense', 'start': 580.72, 'duration': 2.96}
+{'text': "and in a lot of ways i've i've followed", 'start': 581.36, 'duration': 3.599}
+{'text': 'federal', 'start': 583.68, 'duration': 5.12}
+{'text': 'politics my life more than the state', 'start': 584.959, 'duration': 6.641}
+{'text': "i'm originally from indiana and then", 'start': 588.8, 'duration': 3.84}
+{'text': 'moved here to', 'start': 591.6, 'duration': 3.52}
+{'text': 'northwest georgia about 10 years ago and', 'start': 592.64, 'duration': 3.52}
+{'text': 'so', 'start': 595.12, 'duration': 4.0}
+{'text': 'a lot of what i knew state wise kind of', 'start': 596.16, 'duration': 5.44}
+{'text': 'became less relevant because', 'start': 599.12, 'duration': 4.8}
+{'text': 'i left my home state and came here and', 'start': 601.6, 'duration': 4.4}
+{'text': 'so it was really easy to kind of', 'start': 603.92, 'duration': 5.68}
+{'text': 'stay focused on the the federal gotcha', 'start': 606.0, 'duration': 5.839}
+{'text': 'um in terms of like federal level', 'start': 609.6, 'duration': 3.28}
+{'text': 'positions', 'start': 611.839, 'duration': 2.721}
+{'text': 'what are like the two or three man we', 'start': 612.88, 'duration': 2.72}
+{'text': 'kind of got into this earlier like what', 'start': 614.56, 'duration': 2.8}
+{'text': 'are like your two or three big policy', 'start': 615.6, 'duration': 3.2}
+{'text': 'things that you want to see changed in', 'start': 617.36, 'duration': 2.719}
+{'text': 'the united states', 'start': 618.8, 'duration': 3.039}
+{'text': 'that you would push hardest for like if', 'start': 620.079, 'duration': 4.081}
+{'text': 'you were a member of congress', 'start': 621.839, 'duration': 5.68}
+{'text': "uh what i've wanted to change and work", 'start': 624.16, 'duration': 4.799}
+{'text': 'for is actually just been', 'start': 627.519, 'duration': 4.56}
+{'text': 'exacerbated by the pandemic even before', 'start': 628.959, 'duration': 5.12}
+{'text': 'this this took place my number one is', 'start': 632.079, 'duration': 3.2}
+{'text': 'healthcare', 'start': 634.079, 'duration': 3.281}
+{'text': 'because americans are dying and going', 'start': 635.279, 'duration': 3.68}
+{'text': 'bankrupt because of our', 'start': 637.36, 'duration': 4.4}
+{'text': 'system that values money over human life', 'start': 638.959, 'duration': 4.081}
+{'text': 'american life at that', 'start': 641.76, 'duration': 3.68}
+{'text': "and that's just wrong i also want to", 'start': 643.04, 'duration': 4.16}
+{'text': 'create an economy that works for', 'start': 645.44, 'duration': 2.88}
+{'text': "everyone and that's", 'start': 647.2, 'duration': 2.8}
+{'text': "extra important now that we're in a", 'start': 648.32, 'duration': 3.199}
+{'text': 'recession heading down', 'start': 650.0, 'duration': 3.519}
+{'text': 'towards a depression and heading down', 'start': 651.519, 'duration': 3.041}
+{'text': 'towards a', 'start': 653.519, 'duration': 3.76}
+{'text': 'housing crisis creating record', 'start': 654.56, 'duration': 4.0}
+{'text': 'homelessness if', 'start': 657.279, 'duration': 4.081}
+{'text': 'additional action is not taken so those', 'start': 658.56, 'duration': 4.399}
+{'text': 'are a big priority for me', 'start': 661.36, 'duration': 4.08}
+{'text': 'and they have been i spent a lot of my', 'start': 662.959, 'duration': 3.521}
+{'text': 'life in poverty', 'start': 665.44, 'duration': 3.44}
+{'text': 'and growing up a lot in rural america so', 'start': 666.48, 'duration': 4.56}
+{'text': "i know what it's like to struggle and", 'start': 668.88, 'duration': 4.0}
+{'text': 'i was blessed and really lucky and i', 'start': 671.04, 'duration': 3.12}
+{'text': 'worked really hard', 'start': 672.88, 'duration': 3.04}
+{'text': 'to get myself in a position in the', 'start': 674.16, 'duration': 3.359}
+{'text': 'middle class and i want to make sure', 'start': 675.92, 'duration': 1.919}
+{'text': 'every', 'start': 677.519, 'duration': 3.601}
+{'text': 'american has that opportunity and so', 'start': 677.839, 'duration': 5.361}
+{'text': 'those are basically two but the economy', 'start': 681.12, 'duration': 4.159}
+{'text': 'thing really reaches out far to where it', 'start': 683.2, 'duration': 3.04}
+{'text': 'can be three four', 'start': 685.279, 'duration': 4.321}
+{'text': "five because it's not just about", 'start': 686.24, 'duration': 6.08}
+{'text': "um minimum wage it's about social", 'start': 689.6, 'duration': 3.44}
+{'text': 'security', 'start': 692.32, 'duration': 4.959}
+{'text': "it's about access to food education", 'start': 693.04, 'duration': 7.76}
+{'text': 'and i can go on like a whole big a rants', 'start': 697.279, 'duration': 4.401}
+{'text': 'of policies', 'start': 700.8, 'duration': 3.68}
+{'text': 'there but if we want to cut it down to', 'start': 701.68, 'duration': 4.159}
+{'text': 'just healthcare', 'start': 704.48, 'duration': 4.64}
+{'text': 'and economy at its basic i would say', 'start': 705.839, 'duration': 5.521}
+{'text': "gun rights as well it's important to my", 'start': 709.12, 'duration': 4.48}
+{'text': "district and it's important to me", 'start': 711.36, 'duration': 6.64}
+{'text': "and so that's up there um tied with", 'start': 713.6, 'duration': 6.16}
+{'text': "the environment because that's also", 'start': 718.0, 'duration': 4.56}
+{'text': 'important to me when you say economy', 'start': 719.76, 'duration': 4.639}
+{'text': 'um so some of the more extreme positions', 'start': 722.56, 'duration': 3.279}
+{'text': 'that have been floated by people like', 'start': 724.399, 'duration': 2.801}
+{'text': 'bernie sanders or', 'start': 725.839, 'duration': 4.481}
+{'text': 'um you know aoc is the idea of things', 'start': 727.2, 'duration': 3.6}
+{'text': 'like', 'start': 730.32, 'duration': 1.84}
+{'text': 'in the green new deal we have like a', 'start': 730.8, 'duration': 3.039}
+{'text': 'federal jobs guarantee', 'start': 732.16, 'duration': 3.84}
+{'text': "or you know i've seen ideas proposed for", 'start': 733.839, 'duration': 4.641}
+{'text': 'like nationwide rent control', 'start': 736.0, 'duration': 4.399}
+{'text': 'or like a significant increase the 15 an', 'start': 738.48, 'duration': 3.28}
+{'text': 'hour minimum wage', 'start': 740.399, 'duration': 3.201}
+{'text': 'are any of these policies positions that', 'start': 741.76, 'duration': 3.759}
+{'text': 'you think would like serve to bolstering', 'start': 743.6, 'duration': 4.64}
+{'text': 'the economy for the average american or', 'start': 745.519, 'duration': 3.76}
+{'text': 'did you have like other ideas in', 'start': 748.24, 'duration': 3.36}
+{'text': 'relation to that yeah i mean a lot of', 'start': 749.279, 'duration': 3.841}
+{'text': 'that echoes in my beliefs', 'start': 751.6, 'duration': 4.239}
+{'text': 'fdr is my hero and those are basically', 'start': 753.12, 'duration': 3.519}
+{'text': 'ideas from', 'start': 755.839, 'duration': 3.601}
+{'text': 'fdr and how he fixed the economy in his', 'start': 756.639, 'duration': 3.681}
+{'text': 'time', 'start': 759.44, 'duration': 3.12}
+{'text': 'and minimum wage was always supposed to', 'start': 760.32, 'duration': 4.48}
+{'text': 'be a way to stop', 'start': 762.56, 'duration': 4.48}
+{'text': 'sweatshops and ensure americans had a', 'start': 764.8, 'duration': 3.52}
+{'text': 'living wage', 'start': 767.04, 'duration': 4.0}
+{'text': 'but it was never properly indexed and', 'start': 768.32, 'duration': 4.24}
+{'text': "doesn't increase each year like social", 'start': 771.04, 'duration': 2.799}
+{'text': 'security does', 'start': 772.56, 'duration': 3.519}
+{'text': "and so it's been ignored and it's no", 'start': 773.839, 'duration': 3.921}
+{'text': 'longer a living wage so we need to fix', 'start': 776.079, 'duration': 3.121}
+{'text': 'that we need to raise it', 'start': 777.76, 'duration': 3.92}
+{'text': 'to a living wage and index it so we', 'start': 779.2, 'duration': 3.36}
+{'text': "don't have to keep", 'start': 781.68, 'duration': 3.92}
+{'text': 'fighting every few years to make it', 'start': 782.56, 'duration': 5.44}
+{'text': "a reasonable and living wage like it's", 'start': 785.6, 'duration': 3.84}
+{'text': 'intended to', 'start': 788.0, 'duration': 5.2}
+{'text': "in terms of rent control i don't support", 'start': 789.44, 'duration': 4.24}
+{'text': 'that', 'start': 793.2, 'duration': 2.879}
+{'text': "i believe we need to focus on people's", 'start': 793.68, 'duration': 4.56}
+{'text': 'wages getting them more money', 'start': 796.079, 'duration': 4.801}
+{'text': "i i'm reluctant to to do that kind of", 'start': 798.24, 'duration': 4.0}
+{'text': 'finger on the scale in the housing', 'start': 800.88, 'duration': 2.72}
+{'text': 'market', 'start': 802.24, 'duration': 3.599}
+{'text': 'as i worry the ramifications it would', 'start': 803.6, 'duration': 3.039}
+{'text': 'have', 'start': 805.839, 'duration': 3.841}
+{'text': 'in terms of a job guarantee', 'start': 806.639, 'duration': 5.76}
+{'text': 'there is also worry there for me as well', 'start': 809.68, 'duration': 3.04}
+{'text': 'i', 'start': 812.399, 'duration': 2.961}
+{'text': 'can see in times of crisis like right', 'start': 812.72, 'duration': 4.88}
+{'text': 'now just kind of like how fdr did', 'start': 815.36, 'duration': 4.56}
+{'text': "we hire contractors to do work there's", 'start': 817.6, 'duration': 4.08}
+{'text': 'plenty of work to do with our info', 'start': 819.92, 'duration': 4.4}
+{'text': 'infrastructure being prepared for the', 'start': 821.68, 'duration': 3.76}
+{'text': 'climate crisis', 'start': 824.32, 'duration': 4.24}
+{'text': 'expanding broadband in rural america so', 'start': 825.44, 'duration': 5.28}
+{'text': 'we could use government funds to', 'start': 828.56, 'duration': 4.56}
+{'text': 'hire these people but any kind of', 'start': 830.72, 'duration': 3.84}
+{'text': 'projects like that they have to make', 'start': 833.12, 'duration': 2.8}
+{'text': "sense like we shouldn't just give", 'start': 834.56, 'duration': 2.88}
+{'text': 'someone a job just for the sake of', 'start': 835.92, 'duration': 2.719}
+{'text': 'giving them a job', 'start': 837.44, 'duration': 3.92}
+{'text': 'there needs to be a society societal', 'start': 838.639, 'duration': 4.161}
+{'text': 'benefit behind', 'start': 841.36, 'duration': 3.2}
+{'text': 'providing them the job and getting a', 'start': 842.8, 'duration': 4.0}
+{'text': 'return on investment in terms of', 'start': 844.56, 'duration': 4.32}
+{'text': 'them doing good for their community sure', 'start': 846.8, 'duration': 3.12}
+{'text': 'yeah i think', 'start': 848.88, 'duration': 4.319}
+{'text': 'generally um we kind of', 'start': 849.92, 'duration': 5.919}
+{'text': 'touched a little bit on the pandemic so', 'start': 853.199, 'duration': 3.921}
+{'text': 'you know if you talk to republicans or', 'start': 855.839, 'duration': 2.321}
+{'text': 'if you talk to trump', 'start': 857.12, 'duration': 2.399}
+{'text': 'uh they generally claim you know well', 'start': 858.16, 'duration': 2.88}
+{'text': 'trump shut down travel a day after the', 'start': 859.519, 'duration': 3.521}
+{'text': 'who declared a global pandemic', 'start': 861.04, 'duration': 3.599}
+{'text': 'um he shut down travel from china early', 'start': 863.04, 'duration': 2.96}
+{'text': "shouldn't travel from europe you know in", 'start': 864.639, 'duration': 2.64}
+{'text': 'a month and a half', 'start': 866.0, 'duration': 2.48}
+{'text': 'do you think that there are steps that', 'start': 867.279, 'duration': 3.041}
+{'text': 'trump could have taken better to', 'start': 868.48, 'duration': 3.84}
+{'text': 'mitigate uh you know both the health', 'start': 870.32, 'duration': 3.759}
+{'text': 'harm and the economic harm to the united', 'start': 872.32, 'duration': 2.56}
+{'text': 'states', 'start': 874.079, 'duration': 3.041}
+{'text': 'um you know in the past few months do', 'start': 874.88, 'duration': 3.199}
+{'text': 'you think there are steps that he could', 'start': 877.12, 'duration': 1.76}
+{'text': 'be taking now', 'start': 878.079, 'duration': 2.56}
+{'text': 'to better deal with the pandemic in the', 'start': 878.88, 'duration': 2.959}
+{'text': "united states or do you think he's doing", 'start': 880.639, 'duration': 2.801}
+{'text': 'about as good as i guess the us can be', 'start': 881.839, 'duration': 3.841}
+{'text': 'expected to', 'start': 883.44, 'duration': 3.92}
+{'text': "well there's definitely additional steps", 'start': 885.68, 'duration': 3.36}
+{'text': 'to be done and if we want to be super', 'start': 887.36, 'duration': 3.599}
+{'text': "critical of ourselves there's always", 'start': 889.04, 'duration': 3.76}
+{'text': 'more we could have done or what we could', 'start': 890.959, 'duration': 3.12}
+{'text': 'have done better and', 'start': 892.8, 'duration': 2.96}
+{'text': 'having that sort of self-reflection can', 'start': 894.079, 'duration': 3.281}
+{'text': 'make us better people', 'start': 895.76, 'duration': 4.319}
+{'text': "but we don't have to do any further", 'start': 897.36, 'duration': 3.599}
+{'text': 'comparison', 'start': 900.079, 'duration': 2.961}
+{'text': 'of ourselves to every other country', 'start': 900.959, 'duration': 3.12}
+{'text': 'every', 'start': 903.04, 'duration': 4.08}
+{'text': 'other kind of modern country has took', 'start': 904.079, 'duration': 3.44}
+{'text': 'and', 'start': 907.12, 'duration': 3.44}
+{'text': "taken better actions and they're getting", 'start': 907.519, 'duration': 4.961}
+{'text': "ready to start opening up and we can't", 'start': 910.56, 'duration': 2.719}
+{'text': 'even', 'start': 912.48, 'duration': 3.039}
+{'text': "get on the level of wearing masks i've", 'start': 913.279, 'duration': 4.401}
+{'text': 'been seeing articles where we could save', 'start': 915.519, 'duration': 4.641}
+{'text': 'i think it was 1 trillion in in gdp or', 'start': 917.68, 'duration': 5.12}
+{'text': "of the economy i'm sorry", 'start': 920.16, 'duration': 4.479}
+{'text': 'just read it but anyways we could save', 'start': 922.8, 'duration': 4.0}
+{'text': 'the economy by starting to wear masks', 'start': 924.639, 'duration': 6.56}
+{'text': 'and despite that we politicize it', 'start': 926.8, 'duration': 8.56}
+{'text': 'something that just is a health concern', 'start': 931.199, 'duration': 4.161}
+{'text': "um yeah it's definitely been a fight", 'start': 935.519, 'duration': 3.281}
+{'text': "i've heard", 'start': 938.24, 'duration': 3.36}
+{'text': 'i live down in la right now and i i', 'start': 938.8, 'duration': 4.64}
+{'text': "think in la i think it's like the law or", 'start': 941.6, 'duration': 2.88}
+{'text': 'like you get fined right now if you', 'start': 943.44, 'duration': 2.56}
+{'text': "don't wear mouse so everyone that i see", 'start': 944.48, 'duration': 2.96}
+{'text': 'generally when i go out is like wearing', 'start': 946.0, 'duration': 2.72}
+{'text': "masks it's a requirement for all the", 'start': 947.44, 'duration': 1.839}
+{'text': 'stores', 'start': 948.72, 'duration': 1.76}
+{'text': "but i've got like friends down in", 'start': 949.279, 'duration': 2.961}
+{'text': "florida and i imagine it's probably", 'start': 950.48, 'duration': 3.2}
+{'text': 'similar in georgia where', 'start': 952.24, 'duration': 2.88}
+{'text': "i guess some people do some people don't", 'start': 953.68, 'duration': 2.719}
+{'text': "it's just whatever people are feeling at", 'start': 955.12, 'duration': 2.48}
+{'text': 'the time', 'start': 956.399, 'duration': 4.081}
+{'text': "it's a minority that wear mask here yeah", 'start': 957.6, 'duration': 5.36}
+{'text': "that's pretty scary", 'start': 960.48, 'duration': 3.919}
+{'text': '[Music]', 'start': 962.96, 'duration': 5.439}
+{'text': 'so nationwide issues um gun control', 'start': 964.399, 'duration': 7.041}
+{'text': 'uh healthcare economy these are', 'start': 968.399, 'duration': 4.081}
+{'text': 'obviously things that everybody around', 'start': 971.44, 'duration': 2.399}
+{'text': 'the country has a strong opinion on and', 'start': 972.48, 'duration': 2.08}
+{'text': 'are at the', 'start': 973.839, 'duration': 2.56}
+{'text': 'forefront of like american political', 'start': 974.56, 'duration': 4.079}
+{'text': 'discourse are there any unique issues', 'start': 976.399, 'duration': 3.761}
+{'text': "that georgia faces that you think aren't", 'start': 978.639, 'duration': 2.801}
+{'text': 'talked about on the national level', 'start': 980.16, 'duration': 2.32}
+{'text': 'enough or', 'start': 981.44, 'duration': 2.88}
+{'text': 'i mean as a national representative of', 'start': 982.48, 'duration': 3.359}
+{'text': 'the us congress are there things', 'start': 984.32, 'duration': 2.959}
+{'text': 'that you would like to do that you feel', 'start': 985.839, 'duration': 3.281}
+{'text': 'like could help georgia that you would', 'start': 987.279, 'duration': 2.641}
+{'text': 'talk to georgia', 'start': 989.12, 'duration': 4.159}
+{'text': 'voters about taking that and putting it', 'start': 989.92, 'duration': 5.2}
+{'text': 'specific', 'start': 993.279, 'duration': 6.401}
+{'text': 'oh wait hello', 'start': 995.12, 'duration': 4.56}
+{'text': "i don't know zoomed wait oh wait hello", 'start': 1001.519, 'duration': 5.44}
+{'text': 'hello i can hear you oh gotcha okay i', 'start': 1005.12, 'duration': 2.88}
+{'text': 'can hear you now sorry cut out for one', 'start': 1006.959, 'duration': 1.761}
+{'text': 'second', 'start': 1008.0, 'duration': 2.639}
+{'text': 'no worries okay you restart that answer', 'start': 1008.72, 'duration': 3.2}
+{'text': 'if you come for me', 'start': 1010.639, 'duration': 3.12}
+{'text': 'yeah uh taking your question and', 'start': 1011.92, 'duration': 3.44}
+{'text': 'applying it specifically to', 'start': 1013.759, 'duration': 4.721}
+{'text': 'my district a lot of my districts is', 'start': 1015.36, 'duration': 3.68}
+{'text': 'rural', 'start': 1018.48, 'duration': 3.52}
+{'text': 'and even the kind of built-up places is', 'start': 1019.04, 'duration': 4.56}
+{'text': 'more small town', 'start': 1022.0, 'duration': 3.52}
+{'text': "and like i had mentioned earlier i've", 'start': 1023.6, 'duration': 3.76}
+{'text': 'spent most of my life in rural america', 'start': 1025.52, 'duration': 3.6}
+{'text': 'so i understand the struggles', 'start': 1027.36, 'duration': 4.4}
+{'text': 'and i also understand that a lot of my', 'start': 1029.12, 'duration': 3.6}
+{'text': 'generation and', 'start': 1031.76, 'duration': 4.64}
+{'text': 'future generations are leaving rural', 'start': 1032.72, 'duration': 6.16}
+{'text': "america to seek jobs you know we're", 'start': 1036.4, 'duration': 3.519}
+{'text': 'encouraged', 'start': 1038.88, 'duration': 3.199}
+{'text': 'if you want to make a living wage to go', 'start': 1039.919, 'duration': 4.0}
+{'text': 'to college and get a stem degree', 'start': 1042.079, 'duration': 3.441}
+{'text': 'my computer my degree is in computer', 'start': 1043.919, 'duration': 3.28}
+{'text': 'programming and that', 'start': 1045.52, 'duration': 3.68}
+{'text': 'requires me to live in the suburbs when', 'start': 1047.199, 'duration': 3.6}
+{'text': 'we were looking for houses', 'start': 1049.2, 'duration': 4.16}
+{'text': 'we would have preferred a more rural', 'start': 1050.799, 'duration': 4.24}
+{'text': 'property with', 'start': 1053.36, 'duration': 3.84}
+{'text': 'more acreage and just kind of quieter', 'start': 1055.039, 'duration': 3.361}
+{'text': 'traffic', 'start': 1057.2, 'duration': 3.52}
+{'text': "but it just didn't make sense to be able", 'start': 1058.4, 'duration': 3.92}
+{'text': 'to be close to work', 'start': 1060.72, 'duration': 4.56}
+{'text': 'and so a lot of my generation and future', 'start': 1062.32, 'duration': 4.8}
+{'text': 'generations face that problem which is', 'start': 1065.28, 'duration': 5.36}
+{'text': 'resulting in a shift of population from', 'start': 1067.12, 'duration': 6.08}
+{'text': 'rural america to the cities', 'start': 1070.64, 'duration': 5.039}
+{'text': 'and we have to address that', 'start': 1073.2, 'duration': 4.4}
+{'text': 'traditionally the policy has been', 'start': 1075.679, 'duration': 5.201}
+{'text': 'provide tax benefits to companies to get', 'start': 1077.6, 'duration': 4.72}
+{'text': 'them to create jobs', 'start': 1080.88, 'duration': 3.6}
+{'text': 'in rural america and for decades that', 'start': 1082.32, 'duration': 3.68}
+{'text': "hasn't worked", 'start': 1084.48, 'duration': 2.96}
+{'text': 'because we need to stop putting money', 'start': 1086.0, 'duration': 3.12}
+{'text': 'into the hands of business', 'start': 1087.44, 'duration': 3.2}
+{'text': 'businesses we need to put it directly in', 'start': 1089.12, 'duration': 3.76}
+{'text': 'the hands of people', 'start': 1090.64, 'duration': 5.039}
+{'text': 'and they will give money to the', 'start': 1092.88, 'duration': 4.4}
+{'text': 'businesses they want to support through', 'start': 1095.679, 'duration': 2.88}
+{'text': 'the free market', 'start': 1097.28, 'duration': 3.279}
+{'text': 'and we can do that through single payer', 'start': 1098.559, 'duration': 3.441}
+{'text': 'health insurance ensuring', 'start': 1100.559, 'duration': 3.36}
+{'text': "every american has health care that's", 'start': 1102.0, 'duration': 3.6}
+{'text': 'going to create demand for health care', 'start': 1103.919, 'duration': 4.481}
+{'text': 'in rural america we can do that by', 'start': 1105.6, 'duration': 4.319}
+{'text': 'fixing our roads', 'start': 1108.4, 'duration': 4.32}
+{'text': 'creating bandwidth for broadband in', 'start': 1109.919, 'duration': 3.361}
+{'text': 'rural', 'start': 1112.72, 'duration': 3.44}
+{'text': 'communities and really investing in', 'start': 1113.28, 'duration': 4.399}
+{'text': 'rural america', 'start': 1116.16, 'duration': 3.519}
+{'text': "putting that money in people's hands", 'start': 1117.679, 'duration': 3.841}
+{'text': 'that will stimulate the economy', 'start': 1119.679, 'duration': 3.841}
+{'text': 'in rural america that will drive', 'start': 1121.52, 'duration': 3.519}
+{'text': 'businesses to invest', 'start': 1123.52, 'duration': 4.24}
+{'text': 'in those communities and basically make', 'start': 1125.039, 'duration': 4.081}
+{'text': 'rural america great again', 'start': 1127.76, 'duration': 5.919}
+{'text': 'as they say sure um', 'start': 1129.12, 'duration': 6.48}
+{'text': 'how um okay not to get too particular', 'start': 1133.679, 'duration': 3.201}
+{'text': "actually i'm curious because", 'start': 1135.6, 'duration': 2.72}
+{'text': "there's a very macro question but", 'start': 1136.88, 'duration': 3.36}
+{'text': "there's kind of like this broad", 'start': 1138.32, 'duration': 4.4}
+{'text': 'problem um i guess like even an ancient', 'start': 1140.24, 'duration': 3.92}
+{'text': 'civilization anytime like a', 'start': 1142.72, 'duration': 3.28}
+{'text': 'like a trade city pops up or a trade', 'start': 1144.16, 'duration': 3.2}
+{'text': 'route pops up you like', 'start': 1146.0, 'duration': 2.64}
+{'text': 'everybody wants to live there because', 'start': 1147.36, 'duration': 2.64}
+{'text': "that's where all the economic activity", 'start': 1148.64, 'duration': 2.0}
+{'text': 'is happening', 'start': 1150.0, 'duration': 2.64}
+{'text': 'and then we kind of see like on a more', 'start': 1150.64, 'duration': 3.919}
+{'text': 'um in a more modern day sense like', 'start': 1152.64, 'duration': 4.32}
+{'text': 'cities and mega cities pop up where you', 'start': 1154.559, 'duration': 3.921}
+{'text': 'want to be as close to the city as', 'start': 1156.96, 'duration': 2.16}
+{'text': 'possible', 'start': 1158.48, 'duration': 2.48}
+{'text': 'um everybody you know i come from', 'start': 1159.12, 'duration': 3.04}
+{'text': "nebraska is where i used to live it's", 'start': 1160.96, 'duration': 2.56}
+{'text': "where i grew up and everybody's goal is", 'start': 1162.16, 'duration': 2.96}
+{'text': 'to go to college and then move to one of', 'start': 1163.52, 'duration': 2.88}
+{'text': 'the coasts immediately', 'start': 1165.12, 'duration': 2.32}
+{'text': "you know if you're doing computer stuff", 'start': 1166.4, 'duration': 3.04}
+{'text': 'you want to go to san francisco or', 'start': 1167.44, 'duration': 3.92}
+{'text': 'maybe la you know or if you want to go', 'start': 1169.44, 'duration': 4.08}
+{'text': 'to new york if you want to do stuff or', 'start': 1171.36, 'duration': 3.84}
+{'text': 'miami or either like huge city or austin', 'start': 1173.52, 'duration': 3.68}
+{'text': 'or dallas', 'start': 1175.2, 'duration': 5.44}
+{'text': 'how do you like incentivize um i i guess', 'start': 1177.2, 'duration': 4.0}
+{'text': 'jobs', 'start': 1180.64, 'duration': 2.8}
+{'text': 'or or how do you incentivize people to', 'start': 1181.2, 'duration': 3.839}
+{'text': 'want to live like in these smaller rural', 'start': 1183.44, 'duration': 2.64}
+{'text': 'areas or how do you', 'start': 1185.039, 'duration': 3.041}
+{'text': 'like prevent like this like uh talent', 'start': 1186.08, 'duration': 3.2}
+{'text': 'flight where people go to college and', 'start': 1188.08, 'duration': 2.32}
+{'text': 'they leave immediately', 'start': 1189.28, 'duration': 2.96}
+{'text': "um do you have like one or two ideas i'm", 'start': 1190.4, 'duration': 2.96}
+{'text': 'curious in terms of like how you get', 'start': 1192.24, 'duration': 3.52}
+{'text': 'people to stay around in these areas', 'start': 1193.36, 'duration': 4.24}
+{'text': 'well what you referred to is basically', 'start': 1195.76, 'duration': 3.919}
+{'text': 'people are going where the opportunities', 'start': 1197.6, 'duration': 2.56}
+{'text': 'are', 'start': 1199.679, 'duration': 2.401}
+{'text': 'so you have to create opportunities in', 'start': 1200.16, 'duration': 3.92}
+{'text': 'rural america and people will want to be', 'start': 1202.08, 'duration': 2.56}
+{'text': 'there', 'start': 1204.08, 'duration': 2.64}
+{'text': "so if there's no opportunities in rural", 'start': 1204.64, 'duration': 3.68}
+{'text': "america people won't be there", 'start': 1206.72, 'duration': 3.199}
+{'text': 'which is why we have to invest in the', 'start': 1208.32, 'duration': 3.2}
+{'text': 'communities directly', 'start': 1209.919, 'duration': 5.361}
+{'text': 'we have to do to not repeat', 'start': 1211.52, 'duration': 5.92}
+{'text': "policies i've already covered another", 'start': 1215.28, 'duration': 3.519}
+{'text': 'opportunity is', 'start': 1217.44, 'duration': 3.119}
+{'text': 'federal funding for school lunches so we', 'start': 1218.799, 'duration': 3.281}
+{'text': 'ensure every child', 'start': 1220.559, 'duration': 3.921}
+{'text': "has food in school they don't have to", 'start': 1222.08, 'duration': 4.24}
+{'text': 'worry about how much they make', 'start': 1224.48, 'duration': 4.96}
+{'text': 'and ensuring that every child is fed at', 'start': 1226.32, 'duration': 4.16}
+{'text': 'school', 'start': 1229.44, 'duration': 2.64}
+{'text': "parents have more money that's", 'start': 1230.48, 'duration': 3.12}
+{'text': "disposable income they don't have to pay", 'start': 1232.08, 'duration': 3.2}
+{'text': 'for school lunches so they might go out', 'start': 1233.6, 'duration': 2.72}
+{'text': 'to eat more', 'start': 1235.28, 'duration': 3.2}
+{'text': 'and stimulate the economy more and', 'start': 1236.32, 'duration': 3.599}
+{'text': 'basically ensure that', 'start': 1238.48, 'duration': 4.16}
+{'text': 'every community is is equal in that', 'start': 1239.919, 'duration': 3.601}
+{'text': 'regard', 'start': 1242.64, 'duration': 4.48}
+{'text': 'or another policy i want is', 'start': 1243.52, 'duration': 5.12}
+{'text': 'ensuring that uh that we have', 'start': 1247.12, 'duration': 3.919}
+{'text': 'tuition-free state university', 'start': 1248.64, 'duration': 5.519}
+{'text': 'so people in rural communities', 'start': 1251.039, 'duration': 6.0}
+{'text': 'can get a degree and universities are', 'start': 1254.159, 'duration': 4.321}
+{'text': 'going to be more likely to be in our', 'start': 1257.039, 'duration': 2.801}
+{'text': 'rural communities', 'start': 1258.48, 'duration': 3.28}
+{'text': "i mean i've seen plenty of them living", 'start': 1259.84, 'duration': 3.6}
+{'text': 'in rural america', 'start': 1261.76, 'duration': 3.279}
+{'text': "they don't necessarily have to be in", 'start': 1263.44, 'duration': 3.68}
+{'text': 'city towns and so those are great', 'start': 1265.039, 'duration': 3.681}
+{'text': 'examples of if we', 'start': 1267.12, 'duration': 4.64}
+{'text': 'make access to education and', 'start': 1268.72, 'duration': 5.68}
+{'text': 'funding for education that will also', 'start': 1271.76, 'duration': 3.76}
+{'text': 'create opportunities', 'start': 1274.4, 'duration': 2.56}
+{'text': 'opportunities to be teachers', 'start': 1275.52, 'duration': 3.68}
+{'text': 'opportunities to have disposable income', 'start': 1276.96, 'duration': 4.8}
+{'text': 'so small businesses can can open up we', 'start': 1279.2, 'duration': 4.08}
+{'text': "don't we don't all have to be computer", 'start': 1281.76, 'duration': 3.2}
+{'text': 'programmers making a lot of money each', 'start': 1283.28, 'duration': 2.399}
+{'text': 'year', 'start': 1284.96, 'duration': 3.04}
+{'text': 'but we all deserve to be comfortable if', 'start': 1285.679, 'duration': 3.921}
+{'text': 'we work a full-time job and be able to', 'start': 1288.0, 'duration': 2.72}
+{'text': 'take care of our family', 'start': 1289.6, 'duration': 3.92}
+{'text': 'sure uh when it comes to talking about', 'start': 1290.72, 'duration': 3.439}
+{'text': 'issues', 'start': 1293.52, 'duration': 2.48}
+{'text': "um for i can't really say on the", 'start': 1294.159, 'duration': 3.121}
+{'text': 'campaign trail i guess since nobody can', 'start': 1296.0, 'duration': 2.88}
+{'text': 'go outside and do anything right now', 'start': 1297.28, 'duration': 3.279}
+{'text': 'but i guess like in terms of talking to', 'start': 1298.88, 'duration': 3.84}
+{'text': 'constituents in georgia', 'start': 1300.559, 'duration': 5.041}
+{'text': "um you obviously we all know that you're", 'start': 1302.72, 'duration': 5.36}
+{'text': 'like in a very heavy republican district', 'start': 1305.6, 'duration': 4.16}
+{'text': 'how do you slant your message towards', 'start': 1308.08, 'duration': 3.2}
+{'text': 'these people or like what are your big', 'start': 1309.76, 'duration': 2.799}
+{'text': 'hooks for somebody like that like why', 'start': 1311.28, 'duration': 3.12}
+{'text': 'would they ever vote for you over the', 'start': 1312.559, 'duration': 4.401}
+{'text': 'incumbent republican of the district i', 'start': 1314.4, 'duration': 5.12}
+{'text': 'think the key is to be true to yourself', 'start': 1316.96, 'duration': 6.64}
+{'text': 'but also know your audience you know', 'start': 1319.52, 'duration': 8.0}
+{'text': 'tell them show them why they should care', 'start': 1323.6, 'duration': 4.48}
+{'text': 'about you', 'start': 1327.52, 'duration': 3.76}
+{'text': 'and what you would do for them and', 'start': 1328.08, 'duration': 5.28}
+{'text': "don't lie to them i mean people are so", 'start': 1331.28, 'duration': 4.08}
+{'text': 'aware of that and they see through it', 'start': 1333.36, 'duration': 4.08}
+{'text': "so if we're genuine to them and talk", 'start': 1335.36, 'duration': 3.92}
+{'text': 'about the issues is important to them', 'start': 1337.44, 'duration': 4.719}
+{'text': 'and show them that you care or you of', 'start': 1339.28, 'duration': 3.2}
+{'text': 'course', 'start': 1342.159, 'duration': 3.52}
+{'text': 'myself show that they that i care that', 'start': 1342.48, 'duration': 3.76}
+{'text': 'will', 'start': 1345.679, 'duration': 3.201}
+{'text': 'win voters over you know show common', 'start': 1346.24, 'duration': 3.52}
+{'text': 'sense', 'start': 1348.88, 'duration': 4.32}
+{'text': 'show that you know', 'start': 1349.76, 'duration': 6.799}
+{'text': 'sorry um avoid divisive rhetoric you', 'start': 1353.2, 'duration': 4.56}
+{'text': 'know come together', 'start': 1356.559, 'duration': 3.6}
+{'text': 'reach across aisles we have so much', 'start': 1357.76, 'duration': 5.12}
+{'text': 'divide in our politics today', 'start': 1360.159, 'duration': 6.161}
+{'text': 'that a lot of people just check out or', 'start': 1362.88, 'duration': 6.88}
+{'text': 'they they want to fight and just', 'start': 1366.32, 'duration': 5.52}
+{'text': 'not fighting and just trying to come', 'start': 1369.76, 'duration': 4.24}
+{'text': 'together is the key', 'start': 1371.84, 'duration': 6.0}
+{'text': 'okay um', 'start': 1374.0, 'duration': 6.32}
+{'text': 'for what is what has it been like', 'start': 1377.84, 'duration': 3.6}
+{'text': 'campaigning so far', 'start': 1380.32, 'duration': 3.68}
+{'text': 'i i guess in like a coronavirus world um', 'start': 1381.44, 'duration': 4.0}
+{'text': 'this is something i ask a lot of', 'start': 1384.0, 'duration': 2.64}
+{'text': "candidates because it seems like there's", 'start': 1385.44, 'duration': 2.64}
+{'text': 'a bunch of unique challenges that come', 'start': 1386.64, 'duration': 2.88}
+{'text': "up especially in older districts i don't", 'start': 1388.08, 'duration': 3.04}
+{'text': 'know the average ages of your district', 'start': 1389.52, 'duration': 3.76}
+{'text': 'but you know trying to get older people', 'start': 1391.12, 'duration': 3.76}
+{'text': 'on board with you know like more digital', 'start': 1393.28, 'duration': 3.36}
+{'text': 'forms of advertising and everything', 'start': 1394.88, 'duration': 3.36}
+{'text': 'uh how are you guys surviving in that', 'start': 1396.64, 'duration': 3.039}
+{'text': 'environment', 'start': 1398.24, 'duration': 3.679}
+{'text': "it's been tricky i feel like we're", 'start': 1399.679, 'duration': 3.841}
+{'text': 'starting to get the hang of it which is', 'start': 1401.919, 'duration': 3.601}
+{'text': 'good because', 'start': 1403.52, 'duration': 5.2}
+{'text': 'unfortunately we are not getting towards', 'start': 1405.52, 'duration': 4.56}
+{'text': 'the end of this', 'start': 1408.72, 'duration': 3.36}
+{'text': 'at first it was kind of like the rug was', 'start': 1410.08, 'duration': 3.839}
+{'text': 'pulled out from under under us we were', 'start': 1412.08, 'duration': 3.76}
+{'text': 'doing events we were going out to see', 'start': 1413.919, 'duration': 2.801}
+{'text': 'people', 'start': 1415.84, 'duration': 3.04}
+{'text': "and then overnight suddenly we're not", 'start': 1416.72, 'duration': 3.28}
+{'text': 'doing events', 'start': 1418.88, 'duration': 3.2}
+{'text': "suddenly we're trying to re-strategize", 'start': 1420.0, 'duration': 3.76}
+{'text': 'where we put our resources', 'start': 1422.08, 'duration': 4.0}
+{'text': 'and time to and like i said a lot of', 'start': 1423.76, 'duration': 3.279}
+{'text': 'people are not', 'start': 1426.08, 'duration': 4.079}
+{'text': 'on the social media for example a lot of', 'start': 1427.039, 'duration': 3.52}
+{'text': 'people', 'start': 1430.159, 'duration': 2.161}
+{'text': 'are and a lot of people suddenly had', 'start': 1430.559, 'duration': 3.681}
+{'text': 'more time for social media', 'start': 1432.32, 'duration': 4.08}
+{'text': "but it's also on the flip side is a lot", 'start': 1434.24, 'duration': 4.4}
+{'text': "of people don't go to events or", 'start': 1436.4, 'duration': 4.24}
+{'text': 'you know door-to-door reaches some', 'start': 1438.64, 'duration': 3.6}
+{'text': 'people but not all', 'start': 1440.64, 'duration': 5.12}
+{'text': "it's learning to be flexible you have to", 'start': 1442.24, 'duration': 5.679}
+{'text': 'adapt and you have to spread a wide net', 'start': 1445.76, 'duration': 3.36}
+{'text': 'you know', 'start': 1447.919, 'duration': 4.321}
+{'text': 'things like mailers are still an option', 'start': 1449.12, 'duration': 5.84}
+{'text': 'signs people drive by and see them so', 'start': 1452.24, 'duration': 3.439}
+{'text': 'those are still', 'start': 1454.96, 'duration': 3.92}
+{'text': 'staples of a regular campaign and', 'start': 1455.679, 'duration': 5.761}
+{'text': 'tv ads radio ads are still a thing so', 'start': 1458.88, 'duration': 4.72}
+{'text': "it's really you just have to", 'start': 1461.44, 'duration': 4.479}
+{'text': 'shift your energy and be flexible and', 'start': 1463.6, 'duration': 4.88}
+{'text': 'adapt to the ever-changing world', 'start': 1465.919, 'duration': 4.321}
+{'text': 'if you have the opportunity to talk to a', 'start': 1468.48, 'duration': 2.96}
+{'text': "local voter in your district if you're", 'start': 1470.24, 'duration': 2.4}
+{'text': "door knocking and you've got like your", 'start': 1471.44, 'duration': 2.719}
+{'text': 'two-minute sales pitch', 'start': 1472.64, 'duration': 3.039}
+{'text': 'um what are the most important things', 'start': 1474.159, 'duration': 2.721}
+{'text': 'that you talk about you think to get', 'start': 1475.679, 'duration': 2.161}
+{'text': 'somebody like this', 'start': 1476.88, 'duration': 2.56}
+{'text': 'kind of on your side for the election', 'start': 1477.84, 'duration': 3.04}
+{'text': 'over', 'start': 1479.44, 'duration': 3.76}
+{'text': "you know the republican in office it's", 'start': 1480.88, 'duration': 4.08}
+{'text': 'important to let them know what issues', 'start': 1483.2, 'duration': 2.959}
+{'text': 'are important to me', 'start': 1484.96, 'duration': 3.36}
+{'text': 'in terms of health care and ensuring', 'start': 1486.159, 'duration': 3.841}
+{'text': 'everyone has an equal opportunity in our', 'start': 1488.32, 'duration': 4.0}
+{'text': 'economy and it works for everyone', 'start': 1490.0, 'duration': 5.6}
+{'text': 'and civility in our government', 'start': 1492.32, 'duration': 6.4}
+{'text': 'you know making common sense and', 'start': 1495.6, 'duration': 6.16}
+{'text': 'bipartisanship a thing again', 'start': 1498.72, 'duration': 5.12}
+{'text': 'sure okay um', 'start': 1501.76, 'duration': 4.56}
+{'text': '[Music]', 'start': 1503.84, 'duration': 5.6}
+{'text': "i'm trying to think um", 'start': 1506.32, 'duration': 3.12}
+{'text': 'we got through this pretty quickly in', 'start': 1510.0, 'duration': 2.72}
+{'text': 'terms of like writing down like the', 'start': 1511.2, 'duration': 2.959}
+{'text': 'standard questions that i asked', 'start': 1512.72, 'duration': 4.16}
+{'text': 'um is there is there anything like', 'start': 1514.159, 'duration': 4.4}
+{'text': 'unique about your election so', 'start': 1516.88, 'duration': 4.72}
+{'text': 'um you know one thing when people are', 'start': 1518.559, 'duration': 4.161}
+{'text': 'running for office', 'start': 1521.6, 'duration': 2.24}
+{'text': "um you're obviously you're trying to get", 'start': 1522.72, 'duration': 2.24}
+{'text': 'like national support not just', 'start': 1523.84, 'duration': 2.319}
+{'text': 'supporting your district obviously right', 'start': 1524.96, 'duration': 2.24}
+{'text': "you're on a show like mine so", 'start': 1526.159, 'duration': 2.961}
+{'text': "you're fishing for like national support", 'start': 1527.2, 'duration': 2.959}
+{'text': 'or people from other districts to', 'start': 1529.12, 'duration': 2.24}
+{'text': 'support you', 'start': 1530.159, 'duration': 2.481}
+{'text': "is there what's like your biggest", 'start': 1531.36, 'duration': 3.28}
+{'text': 'argument or why should people from', 'start': 1532.64, 'duration': 3.76}
+{'text': 'without your region rather than from', 'start': 1534.64, 'duration': 4.32}
+{'text': 'within um try to support you or throw', 'start': 1536.4, 'duration': 3.68}
+{'text': 'any money towards your campaign or', 'start': 1538.96, 'duration': 2.24}
+{'text': "whatever if they'd rather throw it", 'start': 1540.08, 'duration': 2.479}
+{'text': 'towards like a more competitive race for', 'start': 1541.2, 'duration': 3.12}
+{'text': 'instance somebody looking at like a', 'start': 1542.559, 'duration': 4.0}
+{'text': 'plus two district or something um what', 'start': 1544.32, 'duration': 3.599}
+{'text': 'do you think is the big draw for', 'start': 1546.559, 'duration': 4.641}
+{'text': 'yeah absolutely i believe', 'start': 1547.919, 'duration': 6.481}
+{'text': 'that the investments they they make is a', 'start': 1551.2, 'duration': 5.359}
+{'text': 'a good investment in terms of stretching', 'start': 1554.4, 'duration': 3.2}
+{'text': 'the dollar', 'start': 1556.559, 'duration': 2.401}
+{'text': 'you know i know a lot of people that', 'start': 1557.6, 'duration': 4.079}
+{'text': 'invest in different races', 'start': 1558.96, 'duration': 5.92}
+{'text': 'invest in multiple but one of the main', 'start': 1561.679, 'duration': 3.841}
+{'text': 'reasons', 'start': 1564.88, 'duration': 3.52}
+{'text': 'and why they should do that and spread', 'start': 1565.52, 'duration': 4.639}
+{'text': 'the love around so to speak', 'start': 1568.4, 'duration': 3.92}
+{'text': 'is because of my likely opponent', 'start': 1570.159, 'duration': 3.441}
+{'text': 'marjorie taylor greet', 'start': 1572.32, 'duration': 3.52}
+{'text': 'she believes in conspiracy theories and', 'start': 1573.6, 'duration': 3.04}
+{'text': "she's very", 'start': 1575.84, 'duration': 4.8}
+{'text': 'divisive in a rhetoric and that', 'start': 1576.64, 'duration': 7.039}
+{'text': 'is the exact opposite of what i want in', 'start': 1580.64, 'duration': 4.72}
+{'text': 'congress in our government', 'start': 1583.679, 'duration': 3.841}
+{'text': 'you know in my day job and all of our', 'start': 1585.36, 'duration': 4.0}
+{'text': "day jobs we can't", 'start': 1587.52, 'duration': 4.8}
+{'text': 'hate on everyone and talk really bad and', 'start': 1589.36, 'duration': 4.64}
+{'text': "refuse to work with them otherwise we're", 'start': 1592.32, 'duration': 2.56}
+{'text': 'fired', 'start': 1594.0, 'duration': 3.279}
+{'text': "i don't want that in our government we", 'start': 1594.88, 'duration': 3.36}
+{'text': "won't get anything", 'start': 1597.279, 'duration': 3.28}
+{'text': "done in our government she's already", 'start': 1598.24, 'duration': 4.4}
+{'text': 'fighting with republicans', 'start': 1600.559, 'duration': 6.24}
+{'text': "and she's not even in office yet so", 'start': 1602.64, 'duration': 5.44}
+{'text': "we don't get anything done with that", 'start': 1606.799, 'duration': 3.681}
+{'text': 'kind of beliefs and', 'start': 1608.08, 'duration': 5.36}
+{'text': "actions where someone like myself that's", 'start': 1610.48, 'duration': 4.4}
+{'text': 'been in customer service and client', 'start': 1613.44, 'duration': 2.88}
+{'text': 'management for 20 years', 'start': 1614.88, 'duration': 2.96}
+{'text': 'that knows how to work with difficult', 'start': 1616.32, 'duration': 3.599}
+{'text': 'people regardless of what party', 'start': 1617.84, 'duration': 4.16}
+{'text': 'and political beliefs they have can', 'start': 1619.919, 'duration': 6.401}
+{'text': 'accomplish a lot of great things', 'start': 1622.0, 'duration': 6.24}
+{'text': "well um and i'm sorry i keep saying", 'start': 1626.32, 'duration': 3.44}
+{'text': 'incumbent um', 'start': 1628.24, 'duration': 3.84}
+{'text': 'but the the prior uh graves is not', 'start': 1629.76, 'duration': 3.919}
+{'text': 'running again for this election what did', 'start': 1632.08, 'duration': 3.52}
+{'text': 'he say why or why is he not', 'start': 1633.679, 'duration': 5.12}
+{'text': 'he did not say why um', 'start': 1635.6, 'duration': 4.64}
+{'text': "i won't speculate i don't want to put", 'start': 1638.799, 'duration': 3.76}
+{'text': 'words in his mouth but he did announce', 'start': 1640.24, 'duration': 5.84}
+{'text': 'in december that he was retiring', 'start': 1642.559, 'duration': 6.641}
+{'text': 'and that put the race on my radar and', 'start': 1646.08, 'duration': 4.319}
+{'text': 'made me feel like there was a real', 'start': 1649.2, 'duration': 3.199}
+{'text': 'chance and opportunity for us to have', 'start': 1650.399, 'duration': 3.201}
+{'text': 'someone', 'start': 1652.399, 'duration': 2.88}
+{'text': 'really representing the people and i', 'start': 1653.6, 'duration': 3.76}
+{'text': 'knew i would be that person', 'start': 1655.279, 'duration': 5.681}
+{'text': 'and we had at that time before i even', 'start': 1657.36, 'duration': 4.4}
+{'text': 'announced', 'start': 1660.96, 'duration': 2.8}
+{'text': 'marjorie taylor green announced that she', 'start': 1661.76, 'duration': 3.68}
+{'text': 'was moving her campaign', 'start': 1663.76, 'duration': 3.76}
+{'text': 'so she was campaigning in the district', 'start': 1665.44, 'duration': 3.44}
+{'text': 'she lives in', 'start': 1667.52, 'duration': 4.72}
+{'text': 'and moved her campaign to our district', 'start': 1668.88, 'duration': 6.72}
+{'text': 'because she knew her divisive', 'start': 1672.24, 'duration': 5.919}
+{'text': 'rhetoric would not win her even the', 'start': 1675.6, 'duration': 4.4}
+{'text': 'republican primary there', 'start': 1678.159, 'duration': 5.281}
+{'text': 'and she largely funded her own campaign', 'start': 1680.0, 'duration': 5.12}
+{'text': 'three times', 'start': 1683.44, 'duration': 3.76}
+{'text': 'all the other republicans in the primary', 'start': 1685.12, 'duration': 4.159}
+{'text': 'and there was nine of them so', 'start': 1687.2, 'duration': 4.88}
+{'text': "it was no surprise there's a runoff but", 'start': 1689.279, 'duration': 3.201}
+{'text': 'she', 'start': 1692.08, 'duration': 1.68}
+{'text': 'just kind of blew everyone out of the', 'start': 1692.48, 'duration': 3.6}
+{'text': 'water and almost straight up won it', 'start': 1693.76, 'duration': 3.44}
+{'text': 'upright', 'start': 1696.08, 'duration': 4.64}
+{'text': 'so she is in a runoff but', 'start': 1697.2, 'duration': 5.92}
+{'text': 'our estimate is she will win and she', 'start': 1700.72, 'duration': 4.64}
+{'text': 'will be my opponent come november', 'start': 1703.12, 'duration': 4.64}
+{'text': 'which is a huge reason why this race is', 'start': 1705.36, 'duration': 5.36}
+{'text': "so important you feel like she's taking", 'start': 1707.76, 'duration': 4.399}
+{'text': 'the general very seriously', 'start': 1710.72, 'duration': 2.8}
+{'text': 'or do you think that they expect to just', 'start': 1712.159, 'duration': 3.12}
+{'text': 'kind of coast through', 'start': 1713.52, 'duration': 4.08}
+{'text': "i don't know they have not paid me much", 'start': 1715.279, 'duration': 4.561}
+{'text': "mind really the only time i've", 'start': 1717.6, 'duration': 4.4}
+{'text': 'personally seen her reference me', 'start': 1719.84, 'duration': 5.28}
+{'text': 'is when she was talking smack', 'start': 1722.0, 'duration': 5.84}
+{'text': "about to the the person she's in a", 'start': 1725.12, 'duration': 3.76}
+{'text': 'run-off with', 'start': 1727.84, 'duration': 4.719}
+{'text': 'uh john cowan he had made a post and she', 'start': 1728.88, 'duration': 5.679}
+{'text': "insulted him and said well you didn't", 'start': 1732.559, 'duration': 3.36}
+{'text': 'get as many votes as the', 'start': 1734.559, 'duration': 4.0}
+{'text': 'the democrat did because you know i did', 'start': 1735.919, 'duration': 4.24}
+{'text': "get more votes than him but i didn't get", 'start': 1738.559, 'duration': 3.12}
+{'text': 'as many as her', 'start': 1740.159, 'duration': 4.24}
+{'text': 'and so i just i found that really nasty', 'start': 1741.679, 'duration': 3.681}
+{'text': 'and like', 'start': 1744.399, 'duration': 3.841}
+{'text': 'counterproductive and um so other than', 'start': 1745.36, 'duration': 3.36}
+{'text': 'that', 'start': 1748.24, 'duration': 3.039}
+{'text': "i i don't know if they i'm sure they've", 'start': 1748.72, 'duration': 4.24}
+{'text': "noticed me but they haven't given me the", 'start': 1751.279, 'duration': 2.4}
+{'text': 'time of day', 'start': 1752.96, 'duration': 2.8}
+{'text': 'in terms of running the election um for', 'start': 1753.679, 'duration': 3.281}
+{'text': 'the general', 'start': 1755.76, 'duration': 3.12}
+{'text': 'yeah because you bring up the term nasty', 'start': 1756.96, 'duration': 3.68}
+{'text': 'are you going to bring up at all the the', 'start': 1758.88, 'duration': 3.519}
+{'text': 'kind of weird q anon stuff that she', 'start': 1760.64, 'duration': 3.2}
+{'text': 'talks about the kind of conspiracy', 'start': 1762.399, 'duration': 2.481}
+{'text': "theories you're going to try to keep it", 'start': 1763.84, 'duration': 3.04}
+{'text': 'more like policy focused or', 'start': 1764.88, 'duration': 3.76}
+{'text': 'yeah what is your like angle of attack', 'start': 1766.88, 'duration': 3.12}
+{'text': 'there i guess for the general election', 'start': 1768.64, 'duration': 3.519}
+{'text': 'advertising', 'start': 1770.0, 'duration': 4.559}
+{'text': 'well i definitely need to further', 'start': 1772.159, 'duration': 4.161}
+{'text': 'connect with my campaign manager', 'start': 1774.559, 'duration': 3.521}
+{'text': "but in terms of what we've already", 'start': 1776.32, 'duration': 3.12}
+{'text': 'talked about today', 'start': 1778.08, 'duration': 3.199}
+{'text': 'is we do want to focus on policy because', 'start': 1779.44, 'duration': 3.599}
+{'text': "that's important what i'm going to do", 'start': 1781.279, 'duration': 2.321}
+{'text': 'and', 'start': 1783.039, 'duration': 3.201}
+{'text': 'what values i bring is important but', 'start': 1783.6, 'duration': 3.04}
+{'text': "it's", 'start': 1786.24, 'duration': 3.2}
+{'text': 'also about the other choice i mean when', 'start': 1786.64, 'duration': 4.72}
+{'text': "it comes down to it it's two choices you", 'start': 1789.44, 'duration': 3.28}
+{'text': 'have', 'start': 1791.36, 'duration': 3.52}
+{'text': 'myself kevin van also you have marjorie', 'start': 1792.72, 'duration': 3.439}
+{'text': 'taylor green', 'start': 1794.88, 'duration': 4.159}
+{'text': "and so it's not just who i am it's about", 'start': 1796.159, 'duration': 4.24}
+{'text': 'who she is', 'start': 1799.039, 'duration': 4.88}
+{'text': 'so it is important to highlight', 'start': 1800.399, 'duration': 5.76}
+{'text': 'who she is from our perspective and that', 'start': 1803.919, 'duration': 4.081}
+{'text': 'is someone that believes in conspiracy', 'start': 1806.159, 'duration': 5.041}
+{'text': 'theories of q anon but also someone that', 'start': 1808.0, 'duration': 4.24}
+{'text': 'wants to', 'start': 1811.2, 'duration': 3.68}
+{'text': 'be divisive while we would compare and', 'start': 1812.24, 'duration': 4.4}
+{'text': 'contrast myself to that in terms of', 'start': 1814.88, 'duration': 3.12}
+{'text': 'someone that wants to bring people', 'start': 1816.64, 'duration': 2.32}
+{'text': 'together', 'start': 1818.0, 'duration': 3.679}
+{'text': 'and work together to actually implement', 'start': 1818.96, 'duration': 4.88}
+{'text': 'these policy proposals i push', 'start': 1821.679, 'duration': 4.961}
+{'text': 'she has had no real policy proposals', 'start': 1823.84, 'duration': 3.76}
+{'text': "she's got", 'start': 1826.64, 'duration': 5.84}
+{'text': 'one-liner bullet points but no actual', 'start': 1827.6, 'duration': 8.64}
+{'text': 'like way of saying what she would do', 'start': 1832.48, 'duration': 5.6}
+{'text': 'like she she says she wants to stop', 'start': 1836.24, 'duration': 4.319}
+{'text': 'social socialism take care', 'start': 1838.08, 'duration': 4.56}
+{'text': 'take over over health care but she has', 'start': 1840.559, 'duration': 3.041}
+{'text': 'no', 'start': 1842.64, 'duration': 3.12}
+{'text': 'policy proposal on what she wants to do', 'start': 1843.6, 'duration': 4.72}
+{'text': 'with health care', 'start': 1845.76, 'duration': 2.56}
+{'text': 'okay um', 'start': 1848.84, 'duration': 3.959}
+{'text': 'hmm were there any other are there any', 'start': 1851.36, 'duration': 2.559}
+{'text': 'other specific issues you want to talk', 'start': 1852.799, 'duration': 2.88}
+{'text': 'about or anything that like um', 'start': 1853.919, 'duration': 2.801}
+{'text': 'given the opportunity to bring up any', 'start': 1855.679, 'duration': 2.081}
+{'text': 'issue anything you really want to go', 'start': 1856.72, 'duration': 3.199}
+{'text': 'over', 'start': 1857.76, 'duration': 2.159}
+{'text': "um well we haven't covered the", 'start': 1860.08, 'duration': 4.079}
+{'text': "environment much i'd like to", 'start': 1862.64, 'duration': 3.759}
+{'text': "cover that a little bit sure um it's", 'start': 1864.159, 'duration': 4.081}
+{'text': "your i so i've got friends in miami that", 'start': 1866.399, 'duration': 2.4}
+{'text': 'feel their', 'start': 1868.24, 'duration': 2.72}
+{'text': 'like areas could be pretty impacted', 'start': 1868.799, 'duration': 3.841}
+{'text': 'especially by like rising sea levels and', 'start': 1870.96, 'duration': 2.88}
+{'text': 'stuff that climate change might be a big', 'start': 1872.64, 'duration': 1.84}
+{'text': 'deal yeah', 'start': 1873.84, 'duration': 2.079}
+{'text': 'is there a lot of that in georgia do you', 'start': 1874.48, 'duration': 2.319}
+{'text': 'guys have issues that you feel are', 'start': 1875.919, 'duration': 2.48}
+{'text': 'important to you about that', 'start': 1876.799, 'duration': 3.041}
+{'text': 'oh absolutely i think it should be', 'start': 1878.399, 'duration': 3.921}
+{'text': "important to everyone everywhere it's a", 'start': 1879.84, 'duration': 5.199}
+{'text': "it's a global catastrophe that's already", 'start': 1882.32, 'duration': 3.839}
+{'text': 'taken away', 'start': 1885.039, 'duration': 4.081}
+{'text': "at this point it's not about if there", 'start': 1886.159, 'duration': 4.0}
+{'text': 'will be disaster', 'start': 1889.12, 'duration': 3.039}
+{'text': "it's how much and how much we can", 'start': 1890.159, 'duration': 3.441}
+{'text': 'mitigate if we take', 'start': 1892.159, 'duration': 5.281}
+{'text': 'immediate and drastic action we need to', 'start': 1893.6, 'duration': 5.6}
+{'text': 'ensure that we leave a green earth for', 'start': 1897.44, 'duration': 3.04}
+{'text': 'future generations', 'start': 1899.2, 'duration': 4.56}
+{'text': 'my favorite hobby is gardening and', 'start': 1900.48, 'duration': 6.64}
+{'text': "it won't be much of a thing", 'start': 1903.76, 'duration': 6.56}
+{'text': 'if uh the global crisis', 'start': 1907.12, 'duration': 6.32}
+{'text': 'in terms of warming and ice cup smelling', 'start': 1910.32, 'duration': 4.719}
+{'text': 'for example rising sea levels', 'start': 1913.44, 'duration': 3.44}
+{'text': "continues to be a thing it's going to", 'start': 1915.039, 'duration': 3.36}
+{'text': 'create in itself', 'start': 1916.88, 'duration': 4.56}
+{'text': 'an immigration issue as people move from', 'start': 1918.399, 'duration': 3.681}
+{'text': 'the coast', 'start': 1921.44, 'duration': 3.839}
+{'text': 'you know florida is very low compared to', 'start': 1922.08, 'duration': 5.28}
+{'text': 'how much the cu levels will rise', 'start': 1925.279, 'duration': 4.24}
+{'text': 'all those people are gonna start coming', 'start': 1927.36, 'duration': 3.6}
+{'text': 'up our way', 'start': 1929.519, 'duration': 3.841}
+{'text': "now and where i am in the district we're", 'start': 1930.96, 'duration': 4.0}
+{'text': 'kind of a valley and so', 'start': 1933.36, 'duration': 4.08}
+{'text': "we're pretty good elevation-wise and so", 'start': 1934.96, 'duration': 3.52}
+{'text': "it's", 'start': 1937.44, 'duration': 2.719}
+{'text': "it's a great opportunity anyone looking", 'start': 1938.48, 'duration': 3.439}
+{'text': "to invest in real estate that's not too", 'start': 1940.159, 'duration': 2.88}
+{'text': 'worried about', 'start': 1941.919, 'duration': 2.88}
+{'text': "uh you won't have to worry about rising", 'start': 1943.039, 'duration': 5.201}
+{'text': 'sea levels engulfing your properties', 'start': 1944.799, 'duration': 5.681}
+{'text': 'gotcha but what are uh we have to', 'start': 1948.24, 'duration': 3.919}
+{'text': 'address that go ahead what yeah what i', 'start': 1950.48, 'duration': 2.559}
+{'text': 'guess like um', 'start': 1952.159, 'duration': 2.24}
+{'text': 'this is obviously a hot button topic for', 'start': 1953.039, 'duration': 2.561}
+{'text': 'a lot of people in terms of how far', 'start': 1954.399, 'duration': 3.12}
+{'text': "we're willing to go to to deal with it", 'start': 1955.6, 'duration': 2.959}
+{'text': 'um what do you think are like some', 'start': 1957.519, 'duration': 2.321}
+{'text': 'important steps to united states should', 'start': 1958.559, 'duration': 2.48}
+{'text': 'take towards', 'start': 1959.84, 'duration': 5.36}
+{'text': 'addressing climate change we need to go', 'start': 1961.039, 'duration': 6.161}
+{'text': 'carbon negative you know carbon neutral', 'start': 1965.2, 'duration': 3.52}
+{'text': 'is not good enough we need to scrub the', 'start': 1967.2, 'duration': 2.4}
+{'text': 'environment', 'start': 1968.72, 'duration': 3.199}
+{'text': 'we do that from going to carbon neutral', 'start': 1969.6, 'duration': 3.28}
+{'text': 'energy', 'start': 1971.919, 'duration': 4.401}
+{'text': 'we also need to rejoin the paris accord', 'start': 1972.88, 'duration': 5.919}
+{'text': 'we need to scrub the environment of', 'start': 1976.32, 'duration': 4.479}
+{'text': 'carbons already in place which is', 'start': 1978.799, 'duration': 3.961}
+{'text': 'cheapest most effective ways to do', 'start': 1980.799, 'duration': 3.441}
+{'text': 'reforestation', 'start': 1982.76, 'duration': 4.6}
+{'text': 'while continuing to develop mechanical', 'start': 1984.24, 'duration': 5.12}
+{'text': 'waste to do that', 'start': 1987.36, 'duration': 4.559}
+{'text': 'we also have a lot of heat here and we', 'start': 1989.36, 'duration': 3.919}
+{'text': 'need to address that in terms of our', 'start': 1991.919, 'duration': 2.961}
+{'text': "oceans are overheating and there's some", 'start': 1993.279, 'duration': 2.961}
+{'text': 'opportunities for', 'start': 1994.88, 'duration': 4.56}
+{'text': 'thermal conversion energy and', 'start': 1996.24, 'duration': 5.439}
+{'text': "there's just so much we can do and all", 'start': 1999.44, 'duration': 4.0}
+{'text': 'these things we can do', 'start': 2001.679, 'duration': 4.0}
+{'text': 'can create jobs i mean taking it back to', 'start': 2003.44, 'duration': 3.44}
+{'text': 'what we were talking about earlier the', 'start': 2005.679, 'duration': 2.321}
+{'text': 'green new deal', 'start': 2006.88, 'duration': 4.159}
+{'text': 'the focus a lot of that was using the', 'start': 2008.0, 'duration': 4.32}
+{'text': 'climate crisis', 'start': 2011.039, 'duration': 4.321}
+{'text': 'as an opportunity to push our economy', 'start': 2012.32, 'duration': 5.599}
+{'text': "forward we've got a number of solar", 'start': 2015.36, 'duration': 3.6}
+{'text': 'power companies', 'start': 2017.919, 'duration': 2.48}
+{'text': 'in the area that can convert your house', 'start': 2018.96, 'duration': 3.28}
+{'text': 'to solar power if we push that', 'start': 2020.399, 'duration': 4.4}
+{'text': "technology that's going to create jobs", 'start': 2022.24, 'duration': 4.72}
+{'text': 'what do you think about um states that', 'start': 2024.799, 'duration': 4.081}
+{'text': 'are very heavily involved in like fossil', 'start': 2026.96, 'duration': 3.28}
+{'text': 'fuel industries or', 'start': 2028.88, 'duration': 3.12}
+{'text': 'fossil fuel industries or people that', 'start': 2030.24, 'duration': 3.12}
+{'text': 'talk about how this is going to require', 'start': 2032.0, 'duration': 2.08}
+{'text': 'like pretty', 'start': 2033.36, 'duration': 2.48}
+{'text': 'massive expenditures of government', 'start': 2034.08, 'duration': 3.36}
+{'text': 'funding you know when you talk about', 'start': 2035.84, 'duration': 2.959}
+{'text': "becoming carbon neutral we're talking", 'start': 2037.44, 'duration': 2.479}
+{'text': 'about a dramatic', 'start': 2038.799, 'duration': 3.6}
+{'text': 'change in the entire energy environment', 'start': 2039.919, 'duration': 3.841}
+{'text': 'in the united states', 'start': 2042.399, 'duration': 4.4}
+{'text': 'um how do you even go about', 'start': 2043.76, 'duration': 4.639}
+{'text': 'like like what are your first few steps', 'start': 2046.799, 'duration': 3.04}
+{'text': 'in terms of getting everybody on board', 'start': 2048.399, 'duration': 2.24}
+{'text': 'with this', 'start': 2049.839, 'duration': 2.641}
+{'text': 'um like from from policy positions i', 'start': 2050.639, 'duration': 3.921}
+{'text': 'guess', 'start': 2052.48, 'duration': 4.639}
+{'text': "we don't really have to spend all this", 'start': 2054.56, 'duration': 5.359}
+{'text': 'huge amount of money from the government', 'start': 2057.119, 'duration': 4.081}
+{'text': 'the money has already been', 'start': 2059.919, 'duration': 3.601}
+{'text': 'being spent on subsidies for fossil fuel', 'start': 2061.2, 'duration': 3.04}
+{'text': 'companies', 'start': 2063.52, 'duration': 3.599}
+{'text': 'we remove those and give them to green', 'start': 2064.24, 'duration': 4.24}
+{'text': 'energy sources', 'start': 2067.119, 'duration': 3.601}
+{'text': 'like you mentioned um putting a number', 'start': 2068.48, 'duration': 3.76}
+{'text': 'on a third of the power', 'start': 2070.72, 'duration': 4.399}
+{'text': 'in georgia is from coal power and we', 'start': 2072.24, 'duration': 5.359}
+{'text': "don't even mine it in georgia so we pay", 'start': 2075.119, 'duration': 4.24}
+{'text': 'other states so we can pollute our great', 'start': 2077.599, 'duration': 3.76}
+{'text': 'state another third', 'start': 2079.359, 'duration': 5.601}
+{'text': 'of our power is through gas and', 'start': 2081.359, 'duration': 6.641}
+{'text': 'oil burning and stuff so we', 'start': 2084.96, 'duration': 6.24}
+{'text': 'need to further incentivize clean energy', 'start': 2088.0, 'duration': 4.72}
+{'text': 'and the price is already kind of on', 'start': 2091.2, 'duration': 4.08}
+{'text': 'point you know wind energy', 'start': 2092.72, 'duration': 4.879}
+{'text': 'and solar is pretty much already cheaper', 'start': 2095.28, 'duration': 3.44}
+{'text': 'than coal', 'start': 2097.599, 'duration': 3.361}
+{'text': 'if the government takes the finger off', 'start': 2098.72, 'duration': 4.24}
+{'text': 'fossil fuels and puts it on the scale', 'start': 2100.96, 'duration': 3.2}
+{'text': 'for green energy', 'start': 2102.96, 'duration': 2.56}
+{'text': "the free market's going to take care of", 'start': 2104.16, 'duration': 3.28}
+{'text': 'the rest for us', 'start': 2105.52, 'duration': 4.559}
+{'text': 'what about um so in terms of like taking', 'start': 2107.44, 'duration': 4.24}
+{'text': 'subsidies away from like fossil fuels', 'start': 2110.079, 'duration': 2.881}
+{'text': 'though right so some people would point', 'start': 2111.68, 'duration': 3.04}
+{'text': 'to the idea that if you do this', 'start': 2112.96, 'duration': 3.52}
+{'text': 'then people are going to be paying', 'start': 2114.72, 'duration': 3.28}
+{'text': 'greater costs for like food right', 'start': 2116.48, 'duration': 2.879}
+{'text': 'because the cost of transportation is', 'start': 2118.0, 'duration': 2.0}
+{'text': 'going to go up', 'start': 2119.359, 'duration': 3.041}
+{'text': 'or that general energy a lot of places', 'start': 2120.0, 'duration': 4.16}
+{'text': "in the u.s can't deal with like solar", 'start': 2122.4, 'duration': 3.439}
+{'text': "farms or don't have good access to", 'start': 2124.16, 'duration': 3.28}
+{'text': 'planes for wind energy', 'start': 2125.839, 'duration': 2.881}
+{'text': 'how do you address the concerns of', 'start': 2127.44, 'duration': 3.52}
+{'text': 'middle class or working class americans', 'start': 2128.72, 'duration': 3.76}
+{'text': 'who are going to see an increase in the', 'start': 2130.96, 'duration': 3.119}
+{'text': 'cost of goods or cost of food or their', 'start': 2132.48, 'duration': 4.56}
+{'text': 'own energy in their houses', 'start': 2134.079, 'duration': 2.961}
+{'text': 'and that is a valid concern but coming', 'start': 2137.119, 'duration': 4.72}
+{'text': 'back to the free market is businesses', 'start': 2140.16, 'duration': 3.28}
+{'text': 'are going to want to be competitive', 'start': 2141.839, 'duration': 4.161}
+{'text': 'if a business finds for example in', 'start': 2143.44, 'duration': 4.159}
+{'text': 'georgia we have pretty', 'start': 2146.0, 'duration': 5.04}
+{'text': 'low power costs so especially where i', 'start': 2147.599, 'duration': 3.921}
+{'text': 'live in', 'start': 2151.04, 'duration': 3.68}
+{'text': 'in northwest georgia if coal ends up', 'start': 2151.52, 'duration': 4.8}
+{'text': 'being more expensive', 'start': 2154.72, 'duration': 4.399}
+{'text': 'well our tva is is who does my power', 'start': 2156.32, 'duration': 4.4}
+{'text': "they're gonna switch to more solar but", 'start': 2159.119, 'duration': 3.121}
+{'text': "they haven't had to", 'start': 2160.72, 'duration': 3.92}
+{'text': "because it's made more business sense", 'start': 2162.24, 'duration': 3.28}
+{'text': 'for them to', 'start': 2164.64, 'duration': 3.52}
+{'text': "stay where they're at so you know yes", 'start': 2165.52, 'duration': 3.839}
+{'text': 'costs will go up', 'start': 2168.16, 'duration': 3.52}
+{'text': 'but the the economy is going to want to', 'start': 2169.359, 'duration': 4.641}
+{'text': 'fight that especially when you look', 'start': 2171.68, 'duration': 5.679}
+{'text': 'at like cheap alternatives from overseas', 'start': 2174.0, 'duration': 6.72}
+{'text': "if we're not subsidizing our", 'start': 2177.359, 'duration': 6.961}
+{'text': 'our local power in terms of coal', 'start': 2180.72, 'duration': 6.24}
+{'text': 'and natural gas and lots of other fossil', 'start': 2184.32, 'duration': 3.44}
+{'text': 'fuels', 'start': 2186.96, 'duration': 3.04}
+{'text': "that doesn't stop other companies from", 'start': 2187.76, 'duration': 4.079}
+{'text': 'come or other country companies from', 'start': 2190.0, 'duration': 2.8}
+{'text': 'coming in', 'start': 2191.839, 'duration': 2.881}
+{'text': 'but it does make it easier for local', 'start': 2192.8, 'duration': 3.44}
+{'text': 'green energies to kind of', 'start': 2194.72, 'duration': 5.92}
+{'text': 'fill in that hole gotcha okay', 'start': 2196.24, 'duration': 7.68}
+{'text': 'um yeah i mean obviously climate change', 'start': 2200.64, 'duration': 5.36}
+{'text': 'is a really important one especially for', 'start': 2203.92, 'duration': 3.439}
+{'text': 'um i imagine for states like georgia', 'start': 2206.0, 'duration': 3.28}
+{'text': 'definitely for states like florida', 'start': 2207.359, 'duration': 5.041}
+{'text': "um it's all states yeah honestly", 'start': 2209.28, 'duration': 6.0}
+{'text': 'sure um yeah well i mean i i guess being', 'start': 2212.4, 'duration': 3.679}
+{'text': 'from the midwest', 'start': 2215.28, 'duration': 2.079}
+{'text': "like in nebraska you don't have to worry", 'start': 2216.079, 'duration': 3.601}
+{'text': 'as much about like flooding at least but', 'start': 2217.359, 'duration': 5.041}
+{'text': 'but yeah i mean tornadoes there um yeah', 'start': 2219.68, 'duration': 3.28}
+{'text': "i don't know", 'start': 2222.4, 'duration': 1.76}
+{'text': "i don't know if the tornadoes would be", 'start': 2222.96, 'duration': 3.04}
+{'text': 'getting worse um i know some people say', 'start': 2224.16, 'duration': 3.12}
+{'text': 'like hurricanes and those types of', 'start': 2226.0, 'duration': 2.48}
+{'text': 'dramatic weather events have gotten a', 'start': 2227.28, 'duration': 2.079}
+{'text': 'bit worse', 'start': 2228.48, 'duration': 3.119}
+{'text': 'for sure yeah everything all all climate', 'start': 2229.359, 'duration': 3.521}
+{'text': "is getting more extreme i'm sure you", 'start': 2231.599, 'duration': 2.721}
+{'text': 'guys are getting more', 'start': 2232.88, 'duration': 4.479}
+{'text': 'you know warmer seasons yeah', 'start': 2234.32, 'duration': 6.08}
+{'text': 'seasons are longer and it impacts', 'start': 2237.359, 'duration': 6.561}
+{'text': 'in terms of insects and animals and', 'start': 2240.4, 'duration': 6.88}
+{'text': "pollen i mean there's a lot of science", 'start': 2243.92, 'duration': 4.64}
+{'text': 'behind it and', 'start': 2247.28, 'duration': 3.36}
+{'text': "it's it's not a local issue it's a", 'start': 2248.56, 'duration': 3.76}
+{'text': 'global issue', 'start': 2250.64, 'duration': 5.52}
+{'text': 'yeah very true um', 'start': 2252.32, 'duration': 5.92}
+{'text': 'any other major um policy positions or', 'start': 2256.16, 'duration': 3.679}
+{'text': 'anything um or any other like issues', 'start': 2258.24, 'duration': 2.48}
+{'text': 'that you think are really important to', 'start': 2259.839, 'duration': 2.321}
+{'text': 'bring up or go over', 'start': 2260.72, 'duration': 2.96}
+{'text': 'i think we need to take it back to', 'start': 2262.16, 'duration': 3.28}
+{'text': 'immigration we briefly touched on it', 'start': 2263.68, 'duration': 3.679}
+{'text': 'with climate change', 'start': 2265.44, 'duration': 5.12}
+{'text': "but climate change is not creating it's", 'start': 2267.359, 'duration': 4.0}
+{'text': 'not', 'start': 2270.56, 'duration': 3.039}
+{'text': 'a new issue because of climate change it', 'start': 2271.359, 'duration': 4.401}
+{'text': 'just is a piece of the puzzle because', 'start': 2273.599, 'duration': 5.361}
+{'text': 'so many things are interconnected and', 'start': 2275.76, 'duration': 5.359}
+{'text': 'um sadly it kind of fell out of the news', 'start': 2278.96, 'duration': 4.24}
+{'text': 'the atrocities done', 'start': 2281.119, 'duration': 4.161}
+{'text': 'to immigrants coming here to seek a', 'start': 2283.2, 'duration': 3.12}
+{'text': 'better life', 'start': 2285.28, 'duration': 2.64}
+{'text': 'and you know yes a lot of them did it', 'start': 2286.32, 'duration': 3.519}
+{'text': 'the wrong way but a lot of people that', 'start': 2287.92, 'duration': 3.76}
+{'text': 'do it the wrong way feel they have no', 'start': 2289.839, 'duration': 3.041}
+{'text': 'other choice', 'start': 2291.68, 'duration': 3.919}
+{'text': 'and so we need to expand and improve our', 'start': 2292.88, 'duration': 4.64}
+{'text': 'immigration court system', 'start': 2295.599, 'duration': 4.401}
+{'text': 'we also need to address the dreamers as', 'start': 2297.52, 'duration': 3.76}
+{'text': 'they have really', 'start': 2300.0, 'duration': 4.16}
+{'text': 'gotten a raw deal they never asked to be', 'start': 2301.28, 'duration': 4.0}
+{'text': 'brought here', 'start': 2304.16, 'duration': 2.4}
+{'text': "but this is the only country they've", 'start': 2305.28, 'duration': 3.6}
+{'text': 'ever known so if', 'start': 2306.56, 'duration': 3.92}
+{'text': 'fates were a little bit different they', 'start': 2308.88, 'duration': 3.28}
+{'text': 'would have been born here maybe if', 'start': 2310.48, 'duration': 3.119}
+{'text': 'their parents came a little bit sooner', 'start': 2312.16, 'duration': 3.84}
+{'text': 'they would have been natural citizens', 'start': 2313.599, 'duration': 5.52}
+{'text': 'and so from their perspective', 'start': 2316.0, 'duration': 4.72}
+{'text': "it feels like it's their home country", 'start': 2319.119, 'duration': 3.041}
+{'text': 'and to a lot of us', 'start': 2320.72, 'duration': 4.24}
+{'text': "it is their home country and they've", 'start': 2322.16, 'duration': 3.919}
+{'text': 'worked really hard and', 'start': 2324.96, 'duration': 3.28}
+{'text': 'a lot of them have gotten an education', 'start': 2326.079, 'duration': 3.201}
+{'text': 'most of them get back to their', 'start': 2328.24, 'duration': 2.8}
+{'text': 'communities if not all of them to be', 'start': 2329.28, 'duration': 2.64}
+{'text': 'honest', 'start': 2331.04, 'duration': 3.12}
+{'text': 'and so we need to treat them with the', 'start': 2331.92, 'duration': 5.12}
+{'text': "respect that they've treated our country", 'start': 2334.16, 'duration': 5.919}
+{'text': 'so i want us to go ahead and expand our', 'start': 2337.04, 'duration': 4.88}
+{'text': 'immigration courts and systems', 'start': 2340.079, 'duration': 5.441}
+{'text': 'expand visa programs increase judges', 'start': 2341.92, 'duration': 6.64}
+{'text': 'so we can actually process the backlog', 'start': 2345.52, 'duration': 6.48}
+{'text': "and i've got my best friend at work he's", 'start': 2348.56, 'duration': 5.12}
+{'text': "he's married to an american citizen but", 'start': 2352.0, 'duration': 3.04}
+{'text': "it's going to take three years for him", 'start': 2353.68, 'duration': 1.919}
+{'text': 'to get his', 'start': 2355.04, 'duration': 2.319}
+{'text': 'permanent green card just because the', 'start': 2355.599, 'duration': 3.281}
+{'text': 'back up in the system', 'start': 2357.359, 'duration': 3.601}
+{'text': 'we can fix that by adding resources to', 'start': 2358.88, 'duration': 3.12}
+{'text': 'immigration courts', 'start': 2360.96, 'duration': 2.879}
+{'text': 'and with those extra resources we then', 'start': 2362.0, 'duration': 3.2}
+{'text': 'take our dreamers', 'start': 2363.839, 'duration': 4.0}
+{'text': 'and give them expedited x through the', 'start': 2365.2, 'duration': 3.52}
+{'text': 'system', 'start': 2367.839, 'duration': 3.441}
+{'text': 'we already have their information we can', 'start': 2368.72, 'duration': 3.68}
+{'text': 'get them through the system and they', 'start': 2371.28, 'duration': 2.079}
+{'text': 'deserve it', 'start': 2372.4, 'duration': 3.76}
+{'text': 'and then that way we can go through you', 'start': 2373.359, 'duration': 4.24}
+{'text': 'know i know a lot of people want to just', 'start': 2376.16, 'duration': 2.56}
+{'text': 'give it a blanket', 'start': 2377.599, 'duration': 3.201}
+{'text': "slate if you're a dreamer automatically", 'start': 2378.72, 'duration': 3.68}
+{'text': 'get a citizenship', 'start': 2380.8, 'duration': 3.6}
+{'text': 'but i think we can we can process them', 'start': 2382.4, 'duration': 3.28}
+{'text': 'individually', 'start': 2384.4, 'duration': 3.28}
+{'text': "and ensure that they're properly vetted", 'start': 2385.68, 'duration': 4.24}
+{'text': "i believe it's good compromise", 'start': 2387.68, 'duration': 5.28}
+{'text': "but i also believe that's going to", 'start': 2389.92, 'duration': 5.6}
+{'text': 'snowball in terms of we process them all', 'start': 2392.96, 'duration': 3.92}
+{'text': 'through the system because', 'start': 2395.52, 'duration': 3.36}
+{'text': 'we have those extra resources and then', 'start': 2396.88, 'duration': 3.68}
+{'text': 'we keep those resources in place to', 'start': 2398.88, 'duration': 2.4}
+{'text': 'process', 'start': 2400.56, 'duration': 2.72}
+{'text': 'the more people that come through it', 'start': 2401.28, 'duration': 3.6}
+{'text': 'really go ahead', 'start': 2403.28, 'duration': 4.64}
+{'text': 'um how do you so trump um very recently', 'start': 2404.88, 'duration': 4.4}
+{'text': 'i think it went through via executive', 'start': 2407.92, 'duration': 4.08}
+{'text': 'order um banned like a whole bunch of', 'start': 2409.28, 'duration': 4.48}
+{'text': 'work visa related stuff', 'start': 2412.0, 'duration': 3.68}
+{'text': "and i think there's been additional talk", 'start': 2413.76, 'duration': 4.16}
+{'text': 'on restricting like inflow of immigrants', 'start': 2415.68, 'duration': 3.76}
+{'text': 'into the country when our economy starts', 'start': 2417.92, 'duration': 3.76}
+{'text': 'recovering because some americans i', 'start': 2419.44, 'duration': 3.76}
+{'text': 'imagine especially in georgia', 'start': 2421.68, 'duration': 3.919}
+{'text': 'feel like their jobs are threatened', 'start': 2423.2, 'duration': 3.2}
+{'text': "whether it's", 'start': 2425.599, 'duration': 2.641}
+{'text': 'high-skilled laborers worried about h-1b', 'start': 2426.4, 'duration': 3.36}
+{'text': 'visas coming in or whether', 'start': 2428.24, 'duration': 3.28}
+{'text': "it's low-skilled workers um you know", 'start': 2429.76, 'duration': 3.04}
+{'text': 'people with only high school education', 'start': 2431.52, 'duration': 2.319}
+{'text': 'worried about', 'start': 2432.8, 'duration': 2.64}
+{'text': 'immigrants from mexico coming in and', 'start': 2433.839, 'duration': 3.28}
+{'text': 'taking some of those jobs and displacing', 'start': 2435.44, 'duration': 2.639}
+{'text': 'those jobs', 'start': 2437.119, 'duration': 3.281}
+{'text': 'how do you address concerns in heavily', 'start': 2438.079, 'duration': 3.921}
+{'text': 'heavily republican areas', 'start': 2440.4, 'duration': 2.959}
+{'text': 'of people that are worried that this', 'start': 2442.0, 'duration': 2.96}
+{'text': 'type of foreign work is going to', 'start': 2443.359, 'duration': 2.48}
+{'text': 'displace', 'start': 2444.96, 'duration': 3.68}
+{'text': 'you know much needed american workers i', 'start': 2445.839, 'duration': 3.841}
+{'text': 'i could understand', 'start': 2448.64, 'duration': 4.959}
+{'text': 'and in normal times it would be', 'start': 2449.68, 'duration': 5.919}
+{'text': 'almost a non-issue normally in the', 'start': 2453.599, 'duration': 3.041}
+{'text': 'economy', 'start': 2455.599, 'duration': 3.201}
+{'text': 'businesses have trouble getting skilled', 'start': 2456.64, 'duration': 3.28}
+{'text': 'labor', 'start': 2458.8, 'duration': 3.92}
+{'text': 'which is a problem to cut down those', 'start': 2459.92, 'duration': 4.0}
+{'text': 'visas i mean', 'start': 2462.72, 'duration': 2.96}
+{'text': 'as you just referenced our current', 'start': 2463.92, 'duration': 3.919}
+{'text': 'administration is cutting down the legal', 'start': 2465.68, 'duration': 3.52}
+{'text': 'avenues', 'start': 2467.839, 'duration': 4.961}
+{'text': 'for being a lawful immigrant', 'start': 2469.2, 'duration': 6.56}
+{'text': 'for decades companies have trouble had', 'start': 2472.8, 'duration': 3.44}
+{'text': 'trouble', 'start': 2475.76, 'duration': 2.319}
+{'text': 'getting skilled workers to fill', 'start': 2476.24, 'duration': 3.119}
+{'text': 'positions', 'start': 2478.079, 'duration': 4.321}
+{'text': 'due to our lacking education system', 'start': 2479.359, 'duration': 5.841}
+{'text': "so to fill in those gaps they've looked", 'start': 2482.4, 'duration': 4.4}
+{'text': 'towards work visas and', 'start': 2485.2, 'duration': 4.0}
+{'text': 'pulling some great bright individuals', 'start': 2486.8, 'duration': 4.72}
+{'text': 'from other countries', 'start': 2489.2, 'duration': 5.84}
+{'text': "and so it's important for businesses", 'start': 2491.52, 'duration': 5.52}
+{'text': 'for us to have a strong immigration', 'start': 2495.04, 'duration': 3.279}
+{'text': 'system', 'start': 2497.04, 'duration': 4.48}
+{'text': 'and in terms of cutting that back off', 'start': 2498.319, 'duration': 6.8}
+{'text': 'so we ensure americans have those jobs', 'start': 2501.52, 'duration': 7.28}
+{'text': "it's it's not really the right approach", 'start': 2505.119, 'duration': 6.641}
+{'text': 'if that was kind of our goal we should', 'start': 2508.8, 'duration': 3.76}
+{'text': 'bolster our', 'start': 2511.76, 'duration': 3.839}
+{'text': 'education system you know', 'start': 2512.56, 'duration': 6.32}
+{'text': 'people in many cases are bringing in', 'start': 2515.599, 'duration': 5.201}
+{'text': "immigrants because they can't get", 'start': 2518.88, 'duration': 3.12}
+{'text': 'americans to do the', 'start': 2520.8, 'duration': 4.08}
+{'text': "job and there's many different reasons", 'start': 2522.0, 'duration': 3.359}
+{'text': 'and', 'start': 2524.88, 'duration': 2.16}
+{'text': 'education is a big one especially when', 'start': 2525.359, 'duration': 4.081}
+{'text': 'it comes to good paying jobs', 'start': 2527.04, 'duration': 5.279}
+{'text': "gotcha okay um i'm guessing that you're", 'start': 2529.44, 'duration': 4.0}
+{'text': 'probably opposed to', 'start': 2532.319, 'duration': 2.721}
+{'text': 'trump trying to like completely rescind', 'start': 2533.44, 'duration': 3.36}
+{'text': 'daca and', 'start': 2535.04, 'duration': 4.16}
+{'text': 'get rid of all of the dreamers right yep', 'start': 2536.8, 'duration': 4.08}
+{'text': "yeah and i'm glad to see our supreme", 'start': 2539.2, 'duration': 3.52}
+{'text': 'court is protecting them', 'start': 2540.88, 'duration': 3.92}
+{'text': 'um yeah hopefully that for now their', 'start': 2542.72, 'duration': 3.44}
+{'text': 'last ruling i think', 'start': 2544.8, 'duration': 2.64}
+{'text': 'was basically they just had a problem', 'start': 2546.16, 'duration': 2.64}
+{'text': "with the process it didn't seem like the", 'start': 2547.44, 'duration': 2.72}
+{'text': 'defended daca in general so i guess', 'start': 2548.8, 'duration': 2.16}
+{'text': "we'll see when it runs through the", 'start': 2550.16, 'duration': 1.52}
+{'text': 'courts against', 'start': 2550.96, 'duration': 2.879}
+{'text': 'how they view on that although recently', 'start': 2551.68, 'duration': 3.12}
+{'text': "trump hasn't", 'start': 2553.839, 'duration': 2.881}
+{'text': 'fared very well when it comes to supreme', 'start': 2554.8, 'duration': 3.68}
+{'text': 'court rulings um', 'start': 2556.72, 'duration': 5.2}
+{'text': 'thankfully so um', 'start': 2558.48, 'duration': 6.4}
+{'text': 'do you have any big opinions on like um', 'start': 2561.92, 'duration': 6.159}
+{'text': 'things like packing the court', 'start': 2564.88, 'duration': 3.199}
+{'text': 'what do you mean specifically um so the', 'start': 2568.24, 'duration': 4.24}
+{'text': 'idea of like increasing the number of', 'start': 2570.24, 'duration': 4.56}
+{'text': 'supreme court justices to counteract', 'start': 2572.48, 'duration': 5.119}
+{'text': 'you know what some people feel are like', 'start': 2574.8, 'duration': 4.319}
+{'text': 'an over representation of conservatives', 'start': 2577.599, 'duration': 2.161}
+{'text': 'on the court', 'start': 2579.119, 'duration': 3.361}
+{'text': "stuff like that i think that's just", 'start': 2579.76, 'duration': 3.839}
+{'text': 'political games', 'start': 2582.48, 'duration': 3.76}
+{'text': "and i don't believe in games like that", 'start': 2583.599, 'duration': 3.52}
+{'text': 'like', 'start': 2586.24, 'duration': 3.359}
+{'text': 'if there is a good legitimate reason to', 'start': 2587.119, 'duration': 5.041}
+{'text': 'have more supreme court justices okay', 'start': 2589.599, 'duration': 3.601}
+{'text': "let's hear it", 'start': 2592.16, 'duration': 4.24}
+{'text': 'but to just sit and say well', 'start': 2593.2, 'duration': 5.52}
+{'text': 'we want our team to have more players', 'start': 2596.4, 'duration': 4.0}
+{'text': "let's add to it", 'start': 2598.72, 'duration': 4.399}
+{'text': "that that's not the right approach sure", 'start': 2600.4, 'duration': 4.439}
+{'text': 'okay', 'start': 2603.119, 'duration': 4.401}
+{'text': "um all right so we've hit immigration", 'start': 2604.839, 'duration': 4.441}
+{'text': 'climate change and healthcare which i', 'start': 2607.52, 'duration': 3.04}
+{'text': 'think are the', 'start': 2609.28, 'duration': 3.28}
+{'text': 'pretty big um issues in the united', 'start': 2610.56, 'duration': 4.559}
+{'text': 'states um if you had the opportunity to', 'start': 2612.56, 'duration': 3.36}
+{'text': 'like', 'start': 2615.119, 'duration': 3.841}
+{'text': 'pass like one change', 'start': 2615.92, 'duration': 4.56}
+{'text': 'like if you could do like one thing for', 'start': 2618.96, 'duration': 2.48}
+{'text': 'the united states what do you think', 'start': 2620.48, 'duration': 2.879}
+{'text': 'would be like the most beneficial thing', 'start': 2621.44, 'duration': 3.44}
+{'text': 'um to the us that could like', 'start': 2623.359, 'duration': 3.921}
+{'text': 'realistically pass', 'start': 2624.88, 'duration': 4.32}
+{'text': 'fix our broken health care system it is', 'start': 2627.28, 'duration': 3.44}
+{'text': 'so important the voters', 'start': 2629.2, 'duration': 4.8}
+{'text': "it impacts so much and it's been a", 'start': 2630.72, 'duration': 5.92}
+{'text': "battle for decades and we just we can't", 'start': 2634.0, 'duration': 3.68}
+{'text': 'get it right', 'start': 2636.64, 'duration': 3.199}
+{'text': "and it's all been downhill since we", 'start': 2637.68, 'duration': 6.0}
+{'text': 'created for-profit health insurance', 'start': 2639.839, 'duration': 7.361}
+{'text': '1974 during nixon it was made for profit', 'start': 2643.68, 'duration': 6.08}
+{'text': "and it's all been downhill from there", 'start': 2647.2, 'duration': 3.68}
+{'text': 'gotcha', 'start': 2649.76, 'duration': 3.12}
+{'text': 'have you um have you taken any strong', 'start': 2650.88, 'duration': 4.0}
+{'text': 'positions recently over all of the', 'start': 2652.88, 'duration': 3.52}
+{'text': 'riots that have gone on over the george', 'start': 2654.88, 'duration': 3.439}
+{'text': 'floyd stuff um', 'start': 2656.4, 'duration': 3.919}
+{'text': 'i imagine georgia probably has strong', 'start': 2658.319, 'duration': 3.681}
+{'text': 'feelings in regards to police and all', 'start': 2660.319, 'duration': 4.721}
+{'text': "of that yeah and i've", 'start': 2662.0, 'duration': 5.599}
+{'text': 'been at a black lives matter protest it', 'start': 2665.04, 'duration': 3.76}
+{'text': 'is important', 'start': 2667.599, 'duration': 4.881}
+{'text': 'and we need to do real actions in terms', 'start': 2668.8, 'duration': 4.0}
+{'text': 'of', 'start': 2672.48, 'duration': 3.599}
+{'text': 'police training reform we need to', 'start': 2672.8, 'duration': 5.12}
+{'text': 'reconsider our priorities when it comes', 'start': 2676.079, 'duration': 3.441}
+{'text': 'to government funding', 'start': 2677.92, 'duration': 4.32}
+{'text': 'we need to support our police officers', 'start': 2679.52, 'duration': 3.28}
+{'text': 'in', 'start': 2682.24, 'duration': 2.879}
+{'text': "ways that don't involve just giving them", 'start': 2682.8, 'duration': 3.92}
+{'text': 'military equipment', 'start': 2685.119, 'duration': 4.081}
+{'text': 'they need assistance from social workers', 'start': 2686.72, 'duration': 4.32}
+{'text': 'health care workers', 'start': 2689.2, 'duration': 4.56}
+{'text': 'family therapists they they cannot be', 'start': 2691.04, 'duration': 3.6}
+{'text': 'the catch-all', 'start': 2693.76, 'duration': 4.48}
+{'text': 'be-all they they answer all these calls', 'start': 2694.64, 'duration': 6.8}
+{'text': 'and then we wonder why they have have', 'start': 2698.24, 'duration': 4.8}
+{'text': 'troubles and struggle', 'start': 2701.44, 'duration': 4.08}
+{'text': "because they're they're trained to be a", 'start': 2703.04, 'duration': 4.4}
+{'text': 'military force', 'start': 2705.52, 'duration': 4.96}
+{'text': 'but we call them on things', 'start': 2707.44, 'duration': 5.36}
+{'text': 'unrelated to anything like that do you', 'start': 2710.48, 'duration': 3.359}
+{'text': 'support things like', 'start': 2712.8, 'duration': 2.799}
+{'text': 'like the hashtag abolish the police or', 'start': 2713.839, 'duration': 3.361}
+{'text': 'hashtag defund the police like any of', 'start': 2715.599, 'duration': 2.641}
+{'text': 'these movements that are kind of working', 'start': 2717.2, 'duration': 2.159}
+{'text': 'their way through twitter', 'start': 2718.24, 'duration': 2.96}
+{'text': 'or some like mainstream i guess like', 'start': 2719.359, 'duration': 3.121}
+{'text': 'media outlets are giving these', 'start': 2721.2, 'duration': 3.04}
+{'text': 'um voices you know like a bigger', 'start': 2722.48, 'duration': 3.2}
+{'text': 'platform do you have any', 'start': 2724.24, 'duration': 3.2}
+{'text': 'strong opinions on any of those like', 'start': 2725.68, 'duration': 4.72}
+{'text': 'proposed reforms or anything', 'start': 2727.44, 'duration': 4.72}
+{'text': 'those are statements that would never', 'start': 2730.4, 'duration': 3.679}
+{'text': 'come out of my mouth but i do', 'start': 2732.16, 'duration': 4.8}
+{'text': 'completely support uh rebalancing where', 'start': 2734.079, 'duration': 4.401}
+{'text': 'our funding is going and', 'start': 2736.96, 'duration': 4.0}
+{'text': 'reconsidering our priorities in terms of', 'start': 2738.48, 'duration': 3.44}
+{'text': 'funding i mean i', 'start': 2740.96, 'duration': 4.24}
+{'text': 'i am not exaggerating there are police', 'start': 2741.92, 'duration': 6.8}
+{'text': 'forces that have tanks and apcs', 'start': 2745.2, 'duration': 5.52}
+{'text': "that they can't even drive on the roads", 'start': 2748.72, 'duration': 4.08}
+{'text': 'because they will destroy the roads', 'start': 2750.72, 'duration': 5.04}
+{'text': 'that is a clear indication that our', 'start': 2752.8, 'duration': 5.44}
+{'text': 'funds are not being properly spent', 'start': 2755.76, 'duration': 5.52}
+{'text': "and a police force with a tank doesn't", 'start': 2758.24, 'duration': 4.879}
+{'text': "create a better police force it doesn't", 'start': 2761.28, 'duration': 3.44}
+{'text': "i mean it might be cool i bet it's", 'start': 2763.119, 'duration': 4.24}
+{'text': 'fun to ride around and get a tank as a', 'start': 2764.72, 'duration': 4.32}
+{'text': 'police officer but', 'start': 2767.359, 'duration': 5.281}
+{'text': "it doesn't help them do their job", 'start': 2769.04, 'duration': 3.6}
+{'text': 'okay um', 'start': 2772.839, 'duration': 4.921}
+{'text': 'yeah i think um in terms of i guess like', 'start': 2775.76, 'duration': 3.12}
+{'text': 'questions about georgia or national', 'start': 2777.76, 'duration': 2.88}
+{'text': "politics i think that's about all i have", 'start': 2778.88, 'duration': 3.92}
+{'text': 'um is there anything else you want to go', 'start': 2780.64, 'duration': 4.56}
+{'text': 'over or', 'start': 2782.8, 'duration': 2.4}
+{'text': "um that is a good question we've covered", 'start': 2785.28, 'duration': 4.24}
+{'text': 'a lot of good', 'start': 2788.88, 'duration': 4.4}
+{'text': 'topics today let me uh check my notes i', 'start': 2789.52, 'duration': 6.0}
+{'text': "don't want to miss anything important", 'start': 2793.28, 'duration': 4.16}
+{'text': "um i mean i know i've got a lot of", 'start': 2795.52, 'duration': 3.28}
+{'text': 'important issues and', 'start': 2797.44, 'duration': 4.8}
+{'text': "like i said i've been following politics", 'start': 2798.8, 'duration': 4.48}
+{'text': 'for a long time', 'start': 2802.24, 'duration': 2.96}
+{'text': 'my when i was still in high school i was', 'start': 2803.28, 'duration': 3.6}
+{'text': 'actually a page for the state', 'start': 2805.2, 'duration': 4.96}
+{'text': 'senate and house and so even before i', 'start': 2806.88, 'duration': 4.959}
+{'text': 'was old enough to vote i was interested', 'start': 2810.16, 'duration': 3.12}
+{'text': 'in politics', 'start': 2811.839, 'duration': 3.28}
+{'text': 'really kind of before then because i', 'start': 2813.28, 'duration': 3.76}
+{'text': 'started my first job at 14', 'start': 2815.119, 'duration': 4.401}
+{'text': 'i was working my summers at a local', 'start': 2817.04, 'duration': 4.0}
+{'text': 'street department so i was', 'start': 2819.52, 'duration': 3.44}
+{'text': 'literally a government employee cleaning', 'start': 2821.04, 'duration': 3.44}
+{'text': 'up the community and making it a better', 'start': 2822.96, 'duration': 3.119}
+{'text': 'place to live and that', 'start': 2824.48, 'duration': 4.24}
+{'text': 'really instilled in me very early on a', 'start': 2826.079, 'duration': 4.401}
+{'text': 'belief to give back and', 'start': 2828.72, 'duration': 3.44}
+{'text': 'serve my community and make it a better', 'start': 2830.48, 'duration': 3.839}
+{'text': "place to live and so i've always kind of", 'start': 2832.16, 'duration': 3.6}
+{'text': 'lived my life that way', 'start': 2834.319, 'duration': 3.28}
+{'text': 'looked for ways to help others even when', 'start': 2835.76, 'duration': 3.68}
+{'text': 'i had really really just a little bit', 'start': 2837.599, 'duration': 2.401}
+{'text': 'myself', 'start': 2839.44, 'duration': 2.8}
+{'text': "i would no matter what i had or didn't", 'start': 2840.0, 'duration': 5.2}
+{'text': 'have i would always give them myself', 'start': 2842.24, 'duration': 4.24}
+{'text': "well you know when i didn't have any", 'start': 2845.2, 'duration': 3.119}
+{'text': 'money and donate blood or', 'start': 2846.48, 'duration': 4.32}
+{'text': 'grow my hair and donate it to wigs for', 'start': 2848.319, 'duration': 4.721}
+{'text': 'kids and stuff like that and so', 'start': 2850.8, 'duration': 4.799}
+{'text': 'always finding ways to to be charitable', 'start': 2853.04, 'duration': 4.079}
+{'text': 'and give back and', 'start': 2855.599, 'duration': 3.361}
+{'text': 'i do encourage people that want to give', 'start': 2857.119, 'duration': 3.521}
+{'text': 'back and help', 'start': 2858.96, 'duration': 3.68}
+{'text': 'my campaign and help our country and', 'start': 2860.64, 'duration': 3.12}
+{'text': 'ensure that', 'start': 2862.64, 'duration': 5.12}
+{'text': 'we have civility and common sense in our', 'start': 2863.76, 'duration': 6.0}
+{'text': 'in our congress and our government i', 'start': 2867.76, 'duration': 3.68}
+{'text': "encourage them to reach my website it's", 'start': 2869.76, 'duration': 3.52}
+{'text': 'kevin van alstle.com', 'start': 2871.44, 'duration': 4.72}
+{'text': 'and i know that last name is is hard', 'start': 2873.28, 'duration': 4.48}
+{'text': 'kevin ben hall staff', 'start': 2876.16, 'duration': 3.36}
+{'text': "because i've seen it my whole life i", 'start': 2877.76, 'duration': 3.92}
+{'text': 'think almost every day i see my name', 'start': 2879.52, 'duration': 3.52}
+{'text': 'spelled wrong at least once', 'start': 2881.68, 'duration': 2.56}
+{'text': "yeah there's a reason i introduced you", 'start': 2883.04, 'duration': 4.079}
+{'text': "as kevin i didn't even try it yet", 'start': 2884.24, 'duration': 4.879}
+{'text': "no worries and so if you're worried", 'start': 2887.119, 'duration': 4.401}
+{'text': "about uh nailing the name it's kevin for", 'start': 2889.119, 'duration': 4.48}
+{'text': 'congress 2020 on facebook', 'start': 2891.52, 'duration': 4.48}
+{'text': "so that's a good place to start kevin", 'start': 2893.599, 'duration': 3.76}
+{'text': 'van allstall', 'start': 2896.0, 'duration': 3.599}
+{'text': "georgia's 14th congressional district", 'start': 2897.359, 'duration': 3.76}
+{'text': "that's going to get you to meet", 'start': 2899.599, 'duration': 3.321}
+{'text': 'so please reach out to my website', 'start': 2901.119, 'duration': 3.361}
+{'text': 'kevinvenalstone.com', 'start': 2902.92, 'duration': 3.84}
+{'text': 'you can email me at contact', 'start': 2904.48, 'duration': 3.599}
+{'text': 'kevinvanelsall.com', 'start': 2906.76, 'duration': 3.4}
+{'text': "we're looking for voter volunteers we're", 'start': 2908.079, 'duration': 3.76}
+{'text': 'looking for donors really to get the', 'start': 2910.16, 'duration': 2.48}
+{'text': 'message out', 'start': 2911.839, 'duration': 2.401}
+{'text': 'i do want to thank you for having me on', 'start': 2912.64, 'duration': 3.6}
+{'text': 'your your stream today this is a great', 'start': 2914.24, 'duration': 3.28}
+{'text': 'way to reach people', 'start': 2916.24, 'duration': 3.52}
+{'text': "and get the message out it's been great", 'start': 2917.52, 'duration': 3.12}
+{'text': 'to talk about these', 'start': 2919.76, 'duration': 4.0}
+{'text': 'issues and', 'start': 2920.64, 'duration': 4.56}
+{'text': "i think that's pretty much everything i", 'start': 2923.76, 'duration': 3.359}
+{'text': 'want to cover and really i think a lot', 'start': 2925.2, 'duration': 2.96}
+{'text': 'of the issues', 'start': 2927.119, 'duration': 2.881}
+{'text': 'that are most important to voters i mean', 'start': 2928.16, 'duration': 3.84}
+{'text': 'we could we could sit here and talk all', 'start': 2930.0, 'duration': 4.64}
+{'text': 'week or all month long about the issues', 'start': 2932.0, 'duration': 3.04}
+{'text': 'and all', 'start': 2934.64, 'duration': 3.76}
+{'text': "proposal ideas but uh we don't have that", 'start': 2935.04, 'duration': 4.4}
+{'text': 'kind of time', 'start': 2938.4, 'duration': 4.159}
+{'text': "yeah okay cool um well listen i mean i'm", 'start': 2939.44, 'duration': 4.399}
+{'text': 'pretty sure i speak for every democrat', 'start': 2942.559, 'duration': 2.961}
+{'text': 'when i say i wish you the best', 'start': 2943.839, 'duration': 4.881}
+{'text': 'um the marjory person seems to be', 'start': 2945.52, 'duration': 6.559}
+{'text': 'quite the character so um', 'start': 2948.72, 'duration': 4.639}
+{'text': "hopefully she doesn't get through it's a", 'start': 2952.079, 'duration': 2.641}
+{'text': 'very red district i know you guys have a', 'start': 2953.359, 'duration': 3.041}
+{'text': 'tough battle ahead of you um and then', 'start': 2954.72, 'duration': 2.08}
+{'text': 'the', 'start': 2956.4, 'duration': 2.64}
+{'text': 'kova 19 makes everything you know that', 'start': 2956.8, 'duration': 3.519}
+{'text': 'much more complicated', 'start': 2959.04, 'duration': 3.519}
+{'text': "so yeah we've linked your twitter and", 'start': 2960.319, 'duration': 3.28}
+{'text': 'your', 'start': 2962.559, 'duration': 2.56}
+{'text': 'website in the chat if people want to', 'start': 2963.599, 'duration': 2.96}
+{'text': 'donate or reach out if they can help in', 'start': 2965.119, 'duration': 2.881}
+{'text': "any way if you're from georgia", 'start': 2966.559, 'duration': 3.04}
+{'text': 'hopefully people will do that but', 'start': 2968.0, 'duration': 3.44}
+{'text': 'otherwise yeah um', 'start': 2969.599, 'duration': 3.121}
+{'text': 'i appreciate the conversation thanks a', 'start': 2971.44, 'duration': 3.28}
+{'text': 'lot and yeah yeah', 'start': 2972.72, 'duration': 4.399}
+{'text': 'i hope you guys uh have the best of luck', 'start': 2974.72, 'duration': 3.2}
+{'text': 'and more', 'start': 2977.119, 'duration': 3.281}
+{'text': 'and yeah good luck thanks you have a', 'start': 2977.92, 'duration': 4.72}
+{'text': "great day yup i'll see you later bye", 'start': 2980.4, 'duration': 3.52}
+{'text': 'editor should have gotten a contract it', 'start': 2982.64, 'duration': 2.08}
+{'text': 'sounds like he should have gotten', 'start': 2983.92, 'duration': 1.919}
+{'text': 'something in writing it sounds like blah', 'start': 2984.72, 'duration': 2.48}
+{'text': "blah blah and it's like ah", 'start': 2985.839, 'duration': 3.441}
+{'text': "that's an interesting take there my", 'start': 2987.2, 'duration': 5.2}
+{'text': 'fellow communists', 'start': 2989.28, 'duration': 3.12}

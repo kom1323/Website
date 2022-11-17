@@ -1,0 +1,1841 @@
+{'text': "let's say that there is a mother who's", 'start': 0.08, 'duration': 4.239}
+{'text': "pregnant and let's say that um there's a", 'start': 1.92, 'duration': 2.96}
+{'text': '90', 'start': 4.319, 'duration': 2.321}
+{'text': 'chance that she dies during childbirth', 'start': 4.88, 'duration': 3.44}
+{'text': "there's a 100 chance that the baby will", 'start': 6.64, 'duration': 2.879}
+{'text': 'live every single time', 'start': 8.32, 'duration': 2.88}
+{'text': 'do you think that the mother should', 'start': 9.519, 'duration': 3.04}
+{'text': 'always be forced to give birth even', 'start': 11.2, 'duration': 2.559}
+{'text': "knowing that she's gonna die nine times", 'start': 12.559, 'duration': 2.801}
+{'text': 'out of ten', 'start': 13.759, 'duration': 4.961}
+{'text': 'um my name is sandy', 'start': 15.36, 'duration': 4.919}
+{'text': 'you can follow me on tech talk at', 'start': 18.72, 'duration': 4.479}
+{'text': 'seanview.reasoning and i am pro-life', 'start': 20.279, 'duration': 5.881}
+{'text': 'and i would call myself a capitalist um', 'start': 23.199, 'duration': 3.761}
+{'text': 'yeah', 'start': 26.16, 'duration': 2.72}
+{'text': 'so i should just go into my opening now', 'start': 26.96, 'duration': 3.28}
+{'text': "yeah go for it and then i'm destiny blah", 'start': 28.88, 'duration': 2.719}
+{'text': "blah blah and then yeah what's your go", 'start': 30.24, 'duration': 3.04}
+{'text': 'for it give us your opening opening', 'start': 31.599, 'duration': 3.361}
+{'text': 'statement for for life yeah', 'start': 33.28, 'duration': 4.799}
+{'text': 'or anti-portioning um so', 'start': 34.96, 'duration': 5.279}
+{'text': 'the reason that i am pro-life is because', 'start': 38.079, 'duration': 3.121}
+{'text': 'i hold that', 'start': 40.239, 'duration': 3.84}
+{'text': 'all people belong to a human substance', 'start': 41.2, 'duration': 5.039}
+{'text': 'this is their substance form so', 'start': 44.079, 'duration': 4.241}
+{'text': 'a defining characteristic of this form', 'start': 46.239, 'duration': 4.561}
+{'text': 'is the potency to attain values and act', 'start': 48.32, 'duration': 4.16}
+{'text': 'towards virtues', 'start': 50.8, 'duration': 3.759}
+{'text': 'in order to do these necessary', 'start': 52.48, 'duration': 3.52}
+{'text': 'conditions people need', 'start': 54.559, 'duration': 4.401}
+{'text': 'to be able to actualize their values and', 'start': 56.0, 'duration': 4.32}
+{'text': 'sustain their lives', 'start': 58.96, 'duration': 3.04}
+{'text': 'which kind of leads to the proper form', 'start': 60.32, 'duration': 3.6}
+{'text': 'of government would be to protect life', 'start': 62.0, 'duration': 3.36}
+{'text': 'and liberties', 'start': 63.92, 'duration': 3.76}
+{'text': 'um i believe that people ought to have', 'start': 65.36, 'duration': 3.439}
+{'text': 'the ability to live', 'start': 67.68, 'duration': 3.6}
+{'text': 'and the ability to act unintended to', 'start': 68.799, 'duration': 4.64}
+{'text': 'sustain their own lives', 'start': 71.28, 'duration': 6.64}
+{'text': 'um yeah so you can go ahead okay um', 'start': 73.439, 'duration': 8.161}
+{'text': 'i so i believe that we grant things more', 'start': 77.92, 'duration': 4.559}
+{'text': 'consideration when they have', 'start': 81.6, 'duration': 1.92}
+{'text': 'consciousness', 'start': 82.479, 'duration': 3.521}
+{'text': 'it seems to be intuitively correct we', 'start': 83.52, 'duration': 3.52}
+{'text': 'stop valuing things when they lose', 'start': 86.0, 'duration': 2.4}
+{'text': 'consciousness we value things when they', 'start': 87.04, 'duration': 2.56}
+{'text': 'have consciousness', 'start': 88.4, 'duration': 4.0}
+{'text': 'um and the uh trying to value it at any', 'start': 89.6, 'duration': 4.08}
+{'text': 'particular point like the development of', 'start': 92.4, 'duration': 2.64}
+{'text': 'human seems arbitrated me so', 'start': 93.68, 'duration': 3.6}
+{'text': 'i tend to reject those definitions um', 'start': 95.04, 'duration': 3.92}
+{'text': "and i imagine that's probably the", 'start': 97.28, 'duration': 4.0}
+{'text': "um that's probably what we'll argue", 'start': 98.96, 'duration': 4.0}
+{'text': 'about in here yeah', 'start': 101.28, 'duration': 4.159}
+{'text': 'yeah um so i guess this kind of leads to', 'start': 102.96, 'duration': 3.92}
+{'text': 'like my redux seal', 'start': 105.439, 'duration': 4.561}
+{'text': "um so if a baby was born let's say", 'start': 106.88, 'duration': 5.12}
+{'text': 'um into sleep but did not had all the', 'start': 110.0, 'duration': 4.079}
+{'text': 'properties of first trimester baby', 'start': 112.0, 'duration': 3.68}
+{'text': 'which i can your since would not you', 'start': 114.079, 'duration': 3.36}
+{'text': 'know have consciousness i would argue', 'start': 115.68, 'duration': 2.88}
+{'text': "that they don't have it in the room at", 'start': 117.439, 'duration': 2.881}
+{'text': 'all but kind of non-essential', 'start': 118.56, 'duration': 3.12}
+{'text': 'by your standard would not have', 'start': 120.32, 'duration': 3.28}
+{'text': 'consciousness until', 'start': 121.68, 'duration': 4.079}
+{'text': 'after they are born for five months do', 'start': 123.6, 'duration': 3.92}
+{'text': 'you think that it would be okay to kill', 'start': 125.759, 'duration': 5.361}
+{'text': 'a newborn baby um okay so', 'start': 127.52, 'duration': 5.359}
+{'text': 'on optics i reject some of the', 'start': 131.12, 'duration': 3.44}
+{'text': 'terminology here because the newborn', 'start': 132.879, 'duration': 2.961}
+{'text': "baby that you're describing", 'start': 134.56, 'duration': 3.12}
+{'text': 'or the type of thing born here would be', 'start': 135.84, 'duration': 3.68}
+{'text': 'alien to any other type of newborn baby', 'start': 137.68, 'duration': 3.12}
+{'text': "that's ever been described", 'start': 139.52, 'duration': 2.88}
+{'text': 'if there was something that could be', 'start': 140.8, 'duration': 3.04}
+{'text': 'birthed out of a person that', 'start': 142.4, 'duration': 3.12}
+{'text': 'resembled a person but for some reason', 'start': 143.84, 'duration': 3.039}
+{'text': "didn't have any type of conscious", 'start': 145.52, 'duration': 3.359}
+{'text': 'formation or conscious experience yet', 'start': 146.879, 'duration': 3.36}
+{'text': 'i would say that yeah you can have an', 'start': 148.879, 'duration': 2.801}
+{'text': 'abortion of that thing up until it', 'start': 150.239, 'duration': 2.961}
+{'text': 'begins to form some sort of conscious', 'start': 151.68, 'duration': 2.24}
+{'text': 'experience', 'start': 153.2, 'duration': 2.24}
+{'text': 'and then further i would hold that i', 'start': 153.92, 'duration': 2.8}
+{'text': "think that's relatively consistent with", 'start': 155.44, 'duration': 2.799}
+{'text': 'how we define things if you give birth', 'start': 156.72, 'duration': 2.799}
+{'text': 'to something and that thing is brain', 'start': 158.239, 'duration': 1.761}
+{'text': 'dead', 'start': 159.519, 'duration': 1.681}
+{'text': "if it looks like it's never going to", 'start': 160.0, 'duration': 3.04}
+{'text': 'have a conscious experience um', 'start': 161.2, 'duration': 3.2}
+{'text': 'it seems like you would abort it or if', 'start': 163.04, 'duration': 2.16}
+{'text': "it's not currently having when there's", 'start': 164.4, 'duration': 1.919}
+{'text': "no reason to believe it'll have one you", 'start': 165.2, 'duration': 2.24}
+{'text': 'would probably abort it', 'start': 166.319, 'duration': 2.801}
+{'text': 'um although for emotional reasons people', 'start': 167.44, 'duration': 3.04}
+{'text': 'get weird once it comes out of the body', 'start': 169.12, 'duration': 3.199}
+{'text': 'of course but yeah', 'start': 170.48, 'duration': 3.36}
+{'text': 'yeah yeah um i agree with you that if', 'start': 172.319, 'duration': 2.881}
+{'text': 'something is brain dead and is not going', 'start': 173.84, 'duration': 2.399}
+{'text': 'to actually you know', 'start': 175.2, 'duration': 2.88}
+{'text': 'actualize its potential under my', 'start': 176.239, 'duration': 3.28}
+{'text': 'framework i would obviously not grant it', 'start': 178.08, 'duration': 3.04}
+{'text': 'moral consideration either', 'start': 179.519, 'duration': 3.041}
+{'text': 'um so yeah i guess that kind of gets', 'start': 181.12, 'duration': 3.44}
+{'text': 'into the principle of actualization so', 'start': 182.56, 'duration': 3.36}
+{'text': "why don't you think that we should value", 'start': 184.56, 'duration': 3.28}
+{'text': 'potentiality', 'start': 185.92, 'duration': 5.12}
+{'text': "um i just i don't understand how any", 'start': 187.84, 'duration': 4.72}
+{'text': 'type of moral system could', 'start': 191.04, 'duration': 3.52}
+{'text': "value something that doesn't currently", 'start': 192.56, 'duration': 3.44}
+{'text': 'exist the idea of', 'start': 194.56, 'duration': 3.44}
+{'text': 'valuing or taking into consideration the', 'start': 196.0, 'duration': 3.28}
+{'text': 'preferences of a thing that has no', 'start': 198.0, 'duration': 2.4}
+{'text': 'preferences or can assert any', 'start': 199.28, 'duration': 1.92}
+{'text': 'preferences', 'start': 200.4, 'duration': 2.24}
+{'text': 'um just seems like it opens up a whole', 'start': 201.2, 'duration': 3.039}
+{'text': 'can of worms to me', 'start': 202.64, 'duration': 3.679}
+{'text': "so it seems as though it's far easier", 'start': 204.239, 'duration': 3.761}
+{'text': 'and more reasonable to just say that', 'start': 206.319, 'duration': 3.041}
+{'text': 'once you have a conscious', 'start': 208.0, 'duration': 3.44}
+{'text': "and once you can assert preferences it's", 'start': 209.36, 'duration': 3.84}
+{'text': 'easier there to be respectful or mindful', 'start': 211.44, 'duration': 3.12}
+{'text': 'of those preferences and then any type', 'start': 213.2, 'duration': 3.039}
+{'text': 'of ethical or government system ought to', 'start': 214.56, 'duration': 3.12}
+{'text': 'respect and protect those preferences', 'start': 216.239, 'duration': 2.64}
+{'text': "but you can't protect", 'start': 217.68, 'duration': 2.72}
+{'text': "something that doesn't exist yet or", 'start': 218.879, 'duration': 3.28}
+{'text': "there's not a harm being committed there", 'start': 220.4, 'duration': 4.24}
+{'text': "if something doesn't exist yet", 'start': 222.159, 'duration': 4.241}
+{'text': "okay um what do you mean by it doesn't", 'start': 224.64, 'duration': 3.92}
+{'text': 'exist um so like', 'start': 226.4, 'duration': 3.6}
+{'text': 'for instance if i were to throw a', 'start': 228.56, 'duration': 3.599}
+{'text': 'baseball through the air', 'start': 230.0, 'duration': 3.92}
+{'text': "it's fine if there's going to be a", 'start': 232.159, 'duration': 4.16}
+{'text': "window there in a year it's not like i'm", 'start': 233.92, 'duration': 4.319}
+{'text': 'pre-breaking a window or if i prevent a', 'start': 236.319, 'duration': 3.12}
+{'text': "window from being born it's not the same", 'start': 238.239, 'duration': 2.321}
+{'text': 'as breaking a window', 'start': 239.439, 'duration': 2.72}
+{'text': 'the idea that preventing the formation', 'start': 240.56, 'duration': 3.28}
+{'text': 'of a conscious experience is the same as', 'start': 242.159, 'duration': 2.881}
+{'text': 'ending one', 'start': 243.84, 'duration': 3.119}
+{'text': 'is i recognize that there would be a', 'start': 245.04, 'duration': 3.44}
+{'text': 'distinction between those two things i', 'start': 246.959, 'duration': 3.041}
+{'text': "don't think it's one of the same", 'start': 248.48, 'duration': 3.119}
+{'text': "i don't understand what it means to", 'start': 250.0, 'duration': 3.92}
+{'text': "respect the potentiality of life i don't", 'start': 251.599, 'duration': 2.801}
+{'text': 'know why', 'start': 253.92, 'duration': 2.879}
+{'text': 'that potential matters what matters is', 'start': 254.4, 'duration': 3.44}
+{'text': 'whether or not a', 'start': 256.799, 'duration': 2.96}
+{'text': 'preference asserting thing exists yet', 'start': 257.84, 'duration': 4.16}
+{'text': "and then if it doesn't then it doesn't", 'start': 259.759, 'duration': 3.601}
+{'text': 'so the reason that i would say it', 'start': 262.0, 'duration': 3.52}
+{'text': 'matters is because in accordance with', 'start': 263.36, 'duration': 3.44}
+{'text': 'like the categorization of human', 'start': 265.52, 'duration': 2.8}
+{'text': 'substance the fetus would still have', 'start': 266.8, 'duration': 2.399}
+{'text': 'potency', 'start': 268.32, 'duration': 2.4}
+{'text': 'and like the ability to actually so like', 'start': 269.199, 'duration': 3.041}
+{'text': 'somebody under general anesthesia for', 'start': 270.72, 'duration': 2.08}
+{'text': 'example', 'start': 272.24, 'duration': 2.16}
+{'text': 'although they may not be actualizing at', 'start': 272.8, 'duration': 3.52}
+{'text': 't0 right they might not be actualizing', 'start': 274.4, 'duration': 3.359}
+{'text': 'we still value their potentiality', 'start': 276.32, 'duration': 2.4}
+{'text': 'because that we know', 'start': 277.759, 'duration': 2.641}
+{'text': "that they're going to be able to do so", 'start': 278.72, 'duration': 3.52}
+{'text': 'in x amount of time so then', 'start': 280.4, 'duration': 3.12}
+{'text': "that's where i just think when you", 'start': 282.24, 'duration': 3.04}
+{'text': 'mention moral baggage and what feels', 'start': 283.52, 'duration': 4.08}
+{'text': 'you know intuitively wrong even though i', 'start': 285.28, 'duration': 4.4}
+{'text': 'do believe there are objective morals um', 'start': 287.6, 'duration': 3.92}
+{'text': 'i think that you can agree you know it', 'start': 289.68, 'duration': 3.44}
+{'text': 'would be intuitively wrong to kill', 'start': 291.52, 'duration': 3.28}
+{'text': "somebody that's under general anesthesia", 'start': 293.12, 'duration': 3.68}
+{'text': "just because they're not actualizing", 'start': 294.8, 'duration': 4.08}
+{'text': 'um or acting as you would say it', 'start': 296.8, 'duration': 3.52}
+{'text': 'consciously at the moment', 'start': 298.88, 'duration': 3.12}
+{'text': "while that's true the only reason why it", 'start': 300.32, 'duration': 3.28}
+{'text': 'would be bad is because we imagine that', 'start': 302.0, 'duration': 2.88}
+{'text': 'they would have asserted a preference', 'start': 303.6, 'duration': 2.72}
+{'text': "while being conscious that they don't", 'start': 304.88, 'duration': 2.48}
+{'text': 'want to be killed', 'start': 306.32, 'duration': 3.12}
+{'text': 'so somebody undergoing anesthesia is', 'start': 307.36, 'duration': 3.76}
+{'text': 'likely to have been alive before', 'start': 309.44, 'duration': 3.599}
+{'text': 'undergoing anesthesia and in that living', 'start': 311.12, 'duration': 3.2}
+{'text': "conscious form it didn't want to be", 'start': 313.039, 'duration': 2.401}
+{'text': "killed so you wouldn't kill it while", 'start': 314.32, 'duration': 2.0}
+{'text': "it's temporarily", 'start': 315.44, 'duration': 3.52}
+{'text': 'unconscious well sure i have extinct', 'start': 316.32, 'duration': 3.28}
+{'text': 'this because', 'start': 318.96, 'duration': 1.76}
+{'text': "normally when you're put under general", 'start': 319.6, 'duration': 2.96}
+{'text': 'anesthesia you actually you know consent', 'start': 320.72, 'duration': 3.52}
+{'text': 'to doing so um', 'start': 322.56, 'duration': 3.68}
+{'text': "but let's say you're in a car accident", 'start': 324.24, 'duration': 3.04}
+{'text': 'for example', 'start': 326.24, 'duration': 2.959}
+{'text': 'and you have no friends or family um', 'start': 327.28, 'duration': 4.0}
+{'text': 'people are gonna put you under general', 'start': 329.199, 'duration': 3.201}
+{'text': 'anesthesia', 'start': 331.28, 'duration': 2.8}
+{'text': 'if they need to because we air on the', 'start': 332.4, 'duration': 3.84}
+{'text': 'side of life so in that instance like if', 'start': 334.08, 'duration': 4.16}
+{'text': "you were in a car accident and you're", 'start': 336.24, 'duration': 3.519}
+{'text': 'put under general anesthesia do you', 'start': 338.24, 'duration': 2.399}
+{'text': 'think it would be', 'start': 339.759, 'duration': 2.961}
+{'text': 'moral and you can even have suicidal', 'start': 340.639, 'duration': 3.28}
+{'text': "tendencies let's say right", 'start': 342.72, 'duration': 3.44}
+{'text': 'like you were trying to kill yourself or', 'start': 343.919, 'duration': 3.601}
+{'text': 'you know you want to die', 'start': 346.16, 'duration': 3.039}
+{'text': "but given that we the doctors don't know", 'start': 347.52, 'duration': 2.959}
+{'text': 'this at the time would you say it would', 'start': 349.199, 'duration': 3.041}
+{'text': 'be morally permissible in order to kill', 'start': 350.479, 'duration': 2.56}
+{'text': 'them', 'start': 352.24, 'duration': 2.959}
+{'text': "um if the doctors don't know i mean your", 'start': 353.039, 'duration': 3.761}
+{'text': 'job as a doctor is to keep', 'start': 355.199, 'duration': 3.681}
+{'text': 'somebody alive i mean um no if', 'start': 356.8, 'duration': 3.119}
+{'text': "somebody's going to the hospital the", 'start': 358.88, 'duration': 2.4}
+{'text': 'assumption is going to be that this is a', 'start': 359.919, 'duration': 3.12}
+{'text': 'person that wants to be living', 'start': 361.28, 'duration': 3.28}
+{'text': 'they were in a prior country state and', 'start': 363.039, 'duration': 2.801}
+{'text': 'they were living in that state so you', 'start': 364.56, 'duration': 2.479}
+{'text': 'would assume so if you were given', 'start': 365.84, 'duration': 2.799}
+{'text': 'indication otherwise then it would be a', 'start': 367.039, 'duration': 2.801}
+{'text': "different story but no i mean you'd make", 'start': 368.639, 'duration': 2.241}
+{'text': 'the assumption that they want to', 'start': 369.84, 'duration': 2.479}
+{'text': 'continue and then once they', 'start': 370.88, 'duration': 2.56}
+{'text': 'are alive they want to kill themselves', 'start': 372.319, 'duration': 3.761}
+{'text': 'and do that i guess yeah i mean i would', 'start': 373.44, 'duration': 4.08}
+{'text': "agree once they're alive and rational", 'start': 376.08, 'duration': 2.8}
+{'text': "enough to make that decision they'd be", 'start': 377.52, 'duration': 2.0}
+{'text': 'able to', 'start': 378.88, 'duration': 2.24}
+{'text': 'um but why would past sentencing or', 'start': 379.52, 'duration': 3.28}
+{'text': 'consciousness even matter when talking', 'start': 381.12, 'duration': 2.16}
+{'text': 'about', 'start': 382.8, 'duration': 2.08}
+{'text': 'like the moral consideration we would', 'start': 383.28, 'duration': 3.12}
+{'text': 'give someone because', 'start': 384.88, 'duration': 3.2}
+{'text': "because there's nothing to consider", 'start': 386.4, 'duration': 3.28}
+{'text': 'before a conscious experience has', 'start': 388.08, 'duration': 2.239}
+{'text': 'emerged', 'start': 389.68, 'duration': 2.32}
+{'text': 'the past conscious experience emerged', 'start': 390.319, 'duration': 2.88}
+{'text': 'then that past conscious thing is', 'start': 392.0, 'duration': 2.8}
+{'text': 'asserted that it wants to be', 'start': 393.199, 'duration': 4.161}
+{'text': 'um treated as a living thing as most', 'start': 394.8, 'duration': 3.679}
+{'text': 'people do', 'start': 397.36, 'duration': 2.8}
+{'text': "you know i'm ignoring edge cases where", 'start': 398.479, 'duration': 2.881}
+{'text': 'something might be suicidal or something', 'start': 400.16, 'duration': 2.4}
+{'text': 'like that but most people that are alive', 'start': 401.36, 'duration': 2.16}
+{'text': 'have preferences that need to be', 'start': 402.56, 'duration': 1.52}
+{'text': 'fulfilled', 'start': 403.52, 'duration': 2.239}
+{'text': 'they usually want like food shelter', 'start': 404.08, 'duration': 3.92}
+{'text': 'whatever once that thing has come into', 'start': 405.759, 'duration': 3.521}
+{'text': "existence that's a right that we can", 'start': 408.0, 'duration': 2.16}
+{'text': 'recognize', 'start': 409.28, 'duration': 2.319}
+{'text': "if it hasn't come into existence yet", 'start': 410.16, 'duration': 4.4}
+{'text': 'when there is nothing to recognize', 'start': 411.599, 'duration': 4.401}
+{'text': 'well yeah right i would just say', 'start': 414.56, 'duration': 3.039}
+{'text': 'existence that would still', 'start': 416.0, 'duration': 2.96}
+{'text': 'i would say like a fetus or even a', 'start': 417.599, 'duration': 3.281}
+{'text': 'zygote would still exist because we can', 'start': 418.96, 'duration': 3.6}
+{'text': 'imagine that too for a fetish right like', 'start': 420.88, 'duration': 2.319}
+{'text': 'most people', 'start': 422.56, 'duration': 2.639}
+{'text': "don't want to be killed most people", 'start': 423.199, 'duration': 3.44}
+{'text': "don't want their baby to be killed but", 'start': 425.199, 'duration': 3.28}
+{'text': "even so you're saying because the baby", 'start': 426.639, 'duration': 3.12}
+{'text': "can't think for itself", 'start': 428.479, 'duration': 3.28}
+{'text': 'i want to die therefore we should have', 'start': 429.759, 'duration': 4.56}
+{'text': 'the ability to make that decision for it', 'start': 431.759, 'duration': 4.961}
+{'text': 'yeah so typically in when i speak in', 'start': 434.319, 'duration': 3.761}
+{'text': 'terms of preferences and when', 'start': 436.72, 'duration': 2.64}
+{'text': 'most people speak in terms of', 'start': 438.08, 'duration': 3.2}
+{'text': "preferences um i don't know if we would", 'start': 439.36, 'duration': 4.0}
+{'text': 'say that like a fetus wants to live', 'start': 441.28, 'duration': 3.759}
+{'text': 'like a tree wants to live i think that', 'start': 443.36, 'duration': 3.36}
+{'text': 'usually these are just things that do', 'start': 445.039, 'duration': 2.16}
+{'text': 'they have', 'start': 446.72, 'duration': 1.759}
+{'text': "some developmental process it's not", 'start': 447.199, 'duration': 3.12}
+{'text': 'until some conscious experience emerges', 'start': 448.479, 'duration': 3.921}
+{'text': 'that there becomes some preference or', 'start': 450.319, 'duration': 3.921}
+{'text': 'desire that we begin to respect or', 'start': 452.4, 'duration': 3.199}
+{'text': 'reciprocate as like', 'start': 454.24, 'duration': 3.84}
+{'text': 'being like a conscious living thing yeah', 'start': 455.599, 'duration': 3.121}
+{'text': 'yeah so', 'start': 458.08, 'duration': 2.399}
+{'text': "i don't see why not we can't make the", 'start': 458.72, 'duration': 3.44}
+{'text': 'assumption you mentioned before for the', 'start': 460.479, 'duration': 3.201}
+{'text': 'fetus like with the person in the car', 'start': 462.16, 'duration': 2.159}
+{'text': 'accident', 'start': 463.68, 'duration': 2.16}
+{'text': 'because we can rationally assume that', 'start': 464.319, 'duration': 3.361}
+{'text': 'the fetus would want to live as well', 'start': 465.84, 'duration': 3.359}
+{'text': 'but we never would do that in any other', 'start': 467.68, 'duration': 3.04}
+{'text': 'circumstance we assume that there needs', 'start': 469.199, 'duration': 2.961}
+{'text': 'to be some', 'start': 470.72, 'duration': 3.36}
+{'text': 'some base level brain functioning in', 'start': 472.16, 'duration': 3.599}
+{'text': 'order to do that so for instance if', 'start': 474.08, 'duration': 3.44}
+{'text': 'somebody is brain dead in a hospital bed', 'start': 475.759, 'duration': 2.56}
+{'text': "and we don't think that they're ever", 'start': 477.52, 'duration': 1.679}
+{'text': 'coming back we would never make', 'start': 478.319, 'duration': 2.16}
+{'text': "assumptions let's even if the rest of", 'start': 479.199, 'duration': 2.161}
+{'text': 'the body was healthy', 'start': 480.479, 'duration': 2.321}
+{'text': "we wouldn't make the assumption well you", 'start': 481.36, 'duration': 3.279}
+{'text': "know they probably want to we'd probably", 'start': 482.8, 'duration': 3.679}
+{'text': 'say well the brain is ceased to function', 'start': 484.639, 'duration': 3.601}
+{'text': "there's no more conscious experience", 'start': 486.479, 'duration': 2.961}
+{'text': 'i agree with you because you know they', 'start': 488.24, 'duration': 2.639}
+{'text': "wouldn't have the ability to actualize", 'start': 489.44, 'duration': 2.72}
+{'text': 'their potential their brain dead so', 'start': 490.879, 'duration': 2.241}
+{'text': "therefore we wouldn't get the moral", 'start': 492.16, 'duration': 2.159}
+{'text': 'consideration done', 'start': 493.12, 'duration': 3.68}
+{'text': 'um but in this case you know the active', 'start': 494.319, 'duration': 3.841}
+{'text': 'potentiality would make all the', 'start': 496.8, 'duration': 1.839}
+{'text': 'difference', 'start': 498.16, 'duration': 2.08}
+{'text': 'the reason why we err on the side of', 'start': 498.639, 'duration': 3.12}
+{'text': 'life in instances like the car accident', 'start': 500.24, 'duration': 2.079}
+{'text': 'is mentioned', 'start': 501.759, 'duration': 1.921}
+{'text': 'because we can rationally assume they', 'start': 502.319, 'duration': 3.201}
+{'text': 'would want to live and even by going off', 'start': 503.68, 'duration': 3.68}
+{'text': 'the principle of rationality', 'start': 505.52, 'duration': 3.92}
+{'text': "newborns can't really make that decision", 'start': 507.36, 'duration': 3.36}
+{'text': 'for themselves i mean you could argue', 'start': 509.44, 'duration': 2.479}
+{'text': 'they have a conscience', 'start': 510.72, 'duration': 2.48}
+{'text': 'right but that kind of would be special', 'start': 511.919, 'duration': 3.36}
+{'text': 'pleading from the rationality principle', 'start': 513.2, 'duration': 5.12}
+{'text': 'so why why would we assume', 'start': 515.279, 'duration': 5.841}
+{'text': 'or why should we value the potentiality', 'start': 518.32, 'duration': 4.639}
+{'text': 'of life', 'start': 521.12, 'duration': 3.92}
+{'text': 'oh well well like i said before like it', 'start': 522.959, 'duration': 3.121}
+{'text': 'would kind of have to', 'start': 525.04, 'duration': 3.04}
+{'text': 'it grounded in my ethics with the', 'start': 526.08, 'duration': 4.64}
+{'text': 'ability to act um or be without being', 'start': 528.08, 'duration': 3.52}
+{'text': 'impended', 'start': 530.72, 'duration': 4.08}
+{'text': "so yeah that so that i don't so", 'start': 531.6, 'duration': 5.6}
+{'text': 'my main issue with why i so i describe', 'start': 534.8, 'duration': 4.56}
+{'text': 'myself as like ethically i think 55', 'start': 537.2, 'duration': 4.319}
+{'text': 'pro-choice and then legally 100 is', 'start': 539.36, 'duration': 4.0}
+{'text': 'because i agree with you that there can', 'start': 541.519, 'duration': 3.121}
+{'text': 'be a grounding here', 'start': 543.36, 'duration': 3.28}
+{'text': 'but this grounding is going to happen on', 'start': 544.64, 'duration': 3.36}
+{'text': 'a level that is', 'start': 546.64, 'duration': 3.759}
+{'text': 'wholly unprovable um so for instance', 'start': 548.0, 'duration': 3.76}
+{'text': 'earlier when you talked about like', 'start': 550.399, 'duration': 3.44}
+{'text': 'people belonging to a human substance', 'start': 551.76, 'duration': 3.84}
+{'text': 'i mean well what is the human substance', 'start': 553.839, 'duration': 3.44}
+{'text': 'right that is the question', 'start': 555.6, 'duration': 3.359}
+{'text': 'i mean yeah i mean i clarified after', 'start': 557.279, 'duration': 3.921}
+{'text': 'that i said the human substance or the', 'start': 558.959, 'duration': 3.281}
+{'text': 'substance form', 'start': 561.2, 'duration': 3.44}
+{'text': 'is the defining characteristic would be', 'start': 562.24, 'duration': 3.36}
+{'text': 'the potency', 'start': 564.64, 'duration': 2.8}
+{'text': 'you know to attain values and actual', 'start': 565.6, 'duration': 3.919}
+{'text': 'virtues but now going back to what i', 'start': 567.44, 'duration': 3.68}
+{'text': 'said before', 'start': 569.519, 'duration': 4.0}
+{'text': 'i need to know is this standard', 'start': 571.12, 'duration': 4.56}
+{'text': 'rationality or is the standard', 'start': 573.519, 'duration': 5.76}
+{'text': 'consciousness because in like the car', 'start': 575.68, 'duration': 5.44}
+{'text': 'a car accident example i think you know', 'start': 579.279, 'duration': 3.68}
+{'text': 'the standard rationality is the person', 'start': 581.12, 'duration': 3.36}
+{'text': 'rationally enough to make that decision', 'start': 582.959, 'duration': 3.44}
+{'text': 'to be able to kill themselves', 'start': 584.48, 'duration': 3.919}
+{'text': 'or while a fetus obviously is not', 'start': 586.399, 'duration': 3.041}
+{'text': 'neither is a newborn', 'start': 588.399, 'duration': 2.641}
+{'text': 'or as a standard consciousness because a', 'start': 589.44, 'duration': 2.8}
+{'text': 'person under general anesthesia is', 'start': 591.04, 'duration': 2.64}
+{'text': 'obviously not conscious', 'start': 592.24, 'duration': 3.44}
+{'text': 'um but we air on the side of life yeah', 'start': 593.68, 'duration': 3.36}
+{'text': 'so i have no', 'start': 595.68, 'duration': 3.279}
+{'text': 'attachment to the whatever rationality', 'start': 597.04, 'duration': 2.96}
+{'text': "whatever we're using here it's not what", 'start': 598.959, 'duration': 1.921}
+{'text': "i'm looking at i'm looking for a", 'start': 600.0, 'duration': 2.32}
+{'text': "conscious experience that's like", 'start': 600.88, 'duration': 3.519}
+{'text': 'ours so anything that has begun a', 'start': 602.32, 'duration': 4.0}
+{'text': 'conscious experience like ours ought to', 'start': 604.399, 'duration': 3.521}
+{'text': 'be valued as a conscious experience that', 'start': 606.32, 'duration': 2.56}
+{'text': 'ought to be protected', 'start': 607.92, 'duration': 2.32}
+{'text': 'recognizing that there might be some', 'start': 608.88, 'duration': 2.959}
+{'text': 'temporary lapses in consciousness', 'start': 610.24, 'duration': 2.96}
+{'text': "whether we're talking about sleep or", 'start': 611.839, 'duration': 2.56}
+{'text': 'anesthesia', 'start': 613.2, 'duration': 2.4}
+{'text': "doesn't mean that all of a sudden it", 'start': 614.399, 'duration': 2.961}
+{'text': 'negates the prior assertions that they', 'start': 615.6, 'duration': 3.6}
+{'text': 'had wanting to continue to exist', 'start': 617.36, 'duration': 3.36}
+{'text': 'however when we speak of a fetus there', 'start': 619.2, 'duration': 2.879}
+{'text': 'are no prior assertions of which to', 'start': 620.72, 'duration': 2.96}
+{'text': 'reference there has been no conscious', 'start': 622.079, 'duration': 2.401}
+{'text': 'experience yet', 'start': 623.68, 'duration': 3.279}
+{'text': 'only one that might occur down the line', 'start': 624.48, 'duration': 4.4}
+{'text': "but we can't we can't value", 'start': 626.959, 'duration': 3.44}
+{'text': 'that that conscious experience that', 'start': 628.88, 'duration': 3.04}
+{'text': "hasn't even begun to assert itself yet", 'start': 630.399, 'duration': 4.641}
+{'text': "there's nothing there yet to protect", 'start': 631.92, 'duration': 5.359}
+{'text': 'so so again like going back to the car', 'start': 635.04, 'duration': 4.0}
+{'text': 'accident example using this conscious', 'start': 637.279, 'duration': 3.761}
+{'text': 'experience we can 100', 'start': 639.04, 'duration': 3.68}
+{'text': 'within ethicality kill that person', 'start': 641.04, 'duration': 3.359}
+{'text': "that's under general anesthesia maybe no", 'start': 642.72, 'duration': 2.799}
+{'text': "because they've had a no because they've", 'start': 644.399, 'duration': 3.12}
+{'text': 'had a prior conscious experience', 'start': 645.519, 'duration': 4.481}
+{'text': 'and why should i value that because once', 'start': 647.519, 'duration': 3.921}
+{'text': 'something has existed', 'start': 650.0, 'duration': 2.959}
+{'text': 'and asserts a preference i think that', 'start': 651.44, 'duration': 3.04}
+{'text': 'preference ought to be respected even if', 'start': 652.959, 'duration': 4.401}
+{'text': 'that person is temporarily unconscious', 'start': 654.48, 'duration': 5.44}
+{'text': 'wait wait first wait i am confused here', 'start': 657.36, 'duration': 3.12}
+{'text': 'because', 'start': 659.92, 'duration': 2.64}
+{'text': 'if we go back to preferences then it', 'start': 660.48, 'duration': 3.28}
+{'text': "could just be like someone doesn't have", 'start': 662.56, 'duration': 2.64}
+{'text': 'the preference to live if somebody', 'start': 663.76, 'duration': 3.44}
+{'text': 'crashed their car on purpose and had i', 'start': 665.2, 'duration': 3.759}
+{'text': 'want to die people will still put them', 'start': 667.2, 'duration': 3.12}
+{'text': 'under general anesthesia', 'start': 668.959, 'duration': 2.56}
+{'text': 'and you know try to bring them out to', 'start': 670.32, 'duration': 3.12}
+{'text': "life why is that no that's actually the", 'start': 671.519, 'duration': 3.44}
+{'text': 'opposite we would respect their', 'start': 673.44, 'duration': 3.36}
+{'text': 'their right to die if that what if if if', 'start': 674.959, 'duration': 3.44}
+{'text': 'they follow the correct procedure so we', 'start': 676.8, 'duration': 2.88}
+{'text': 'have things in the united states called', 'start': 678.399, 'duration': 3.12}
+{'text': "dnr's do not do not resuscitate", 'start': 679.68, 'duration': 3.36}
+{'text': 'if somebody had to do not resuscitate on', 'start': 681.519, 'duration': 2.481}
+{'text': 'them and for whatever reason found', 'start': 683.04, 'duration': 2.08}
+{'text': 'themselves in the hospital', 'start': 684.0, 'duration': 2.48}
+{'text': "um then i mean we wouldn't you would", 'start': 685.12, 'duration': 2.24}
+{'text': 'allow them to die because they would', 'start': 686.48, 'duration': 1.84}
+{'text': 'have asserted the preference that they', 'start': 687.36, 'duration': 1.599}
+{'text': 'wanted to die', 'start': 688.32, 'duration': 3.68}
+{'text': "yeah yeah yeah i'm like familiar with do", 'start': 688.959, 'duration': 5.12}
+{'text': 'not resuscitate but like in car accident', 'start': 692.0, 'duration': 3.519}
+{'text': "examples like if they don't know that", 'start': 694.079, 'duration': 2.721}
+{'text': "that's going to be the exact point where", 'start': 695.519, 'duration': 2.961}
+{'text': 'they die and they happen to', 'start': 696.8, 'duration': 3.84}
+{'text': 'should we ought to you know respect that', 'start': 698.48, 'duration': 3.599}
+{'text': "their wishes to die even though we're", 'start': 700.64, 'duration': 2.24}
+{'text': 'not sure', 'start': 702.079, 'duration': 2.561}
+{'text': 'although we could have a clue i mean if', 'start': 702.88, 'duration': 2.959}
+{'text': "you don't know then you'd you tend to", 'start': 704.64, 'duration': 2.24}
+{'text': 'err on the side that', 'start': 705.839, 'duration': 2.401}
+{'text': "what you i don't know what error on the", 'start': 706.88, 'duration': 3.04}
+{'text': 'side of life means so you err on the', 'start': 708.24, 'duration': 2.08}
+{'text': 'side', 'start': 709.92, 'duration': 2.32}
+{'text': 'if something currently exists it', 'start': 710.32, 'duration': 3.36}
+{'text': 'probably wants to continue existing and', 'start': 712.24, 'duration': 2.64}
+{'text': "if they're taking the steps to continue", 'start': 713.68, 'duration': 2.159}
+{'text': "exist they probably won't do so you", 'start': 714.88, 'duration': 2.079}
+{'text': 'would respect that preference you make', 'start': 715.839, 'duration': 2.56}
+{'text': "the assumption yeah like i mean they're", 'start': 716.959, 'duration': 2.641}
+{'text': "unconscious right now but i'm going to", 'start': 718.399, 'duration': 2.56}
+{'text': 'assume that they probably want to wake', 'start': 719.6, 'duration': 4.4}
+{'text': 'up and be alive afterwards yeah', 'start': 720.959, 'duration': 5.281}
+{'text': 'so why are we valuing that potentiality', 'start': 724.0, 'duration': 3.12}
+{'text': "it's because we know these", 'start': 726.24, 'duration': 1.839}
+{'text': 'characteristics', 'start': 727.12, 'duration': 2.56}
+{'text': 'are part of the human substance which', 'start': 728.079, 'duration': 2.961}
+{'text': 'like it would also be what the fetus is', 'start': 729.68, 'duration': 2.0}
+{'text': 'a part of', 'start': 731.04, 'duration': 3.28}
+{'text': "so i'm not valuing the potentiality i'm", 'start': 731.68, 'duration': 4.56}
+{'text': "i'm valuing what already existed", 'start': 734.32, 'duration': 3.84}
+{'text': 'they already asserted that they are', 'start': 736.24, 'duration': 3.52}
+{'text': 'waiting so when you are valued you are', 'start': 738.16, 'duration': 3.359}
+{'text': 'valuing potentiality indirectly because', 'start': 739.76, 'duration': 3.28}
+{'text': "if a person was brain dead right they're", 'start': 741.519, 'duration': 2.401}
+{'text': 'not coming back', 'start': 743.04, 'duration': 2.4}
+{'text': "given that person's in a coma even", 'start': 743.92, 'duration': 2.719}
+{'text': 'though you say they have past experience', 'start': 745.44, 'duration': 2.72}
+{'text': 'you are valuing the potentiality', 'start': 746.639, 'duration': 2.721}
+{'text': 'you know that they are going to come out', 'start': 748.16, 'duration': 1.84}
+{'text': "of the comments because if they're", 'start': 749.36, 'duration': 2.32}
+{'text': "writing debt obviously you don't care", 'start': 750.0, 'duration': 3.68}
+{'text': 'but when you say value the potentiality', 'start': 751.68, 'duration': 2.959}
+{'text': "you're making it sound like i'm trying", 'start': 753.68, 'duration': 2.64}
+{'text': "to draw my value from the future i'm not", 'start': 754.639, 'duration': 3.281}
+{'text': "i'm drawing my value from the past in", 'start': 756.32, 'duration': 3.12}
+{'text': 'the past they existed they exerted', 'start': 757.92, 'duration': 2.96}
+{'text': "preference that's where the value comes", 'start': 759.44, 'duration': 2.48}
+{'text': "from now if they're dead then they're", 'start': 760.88, 'duration': 2.399}
+{'text': 'gone and that that particular thing is', 'start': 761.92, 'duration': 2.96}
+{'text': 'no longer considered that person', 'start': 763.279, 'duration': 3.521}
+{'text': 'a dead person lived in the past they', 'start': 764.88, 'duration': 3.199}
+{'text': "exuded their preferences now they're", 'start': 766.8, 'duration': 2.32}
+{'text': 'dead why', 'start': 768.079, 'duration': 1.921}
+{'text': 'why should i grant them moral', 'start': 769.12, 'duration': 3.36}
+{'text': "consideration if they're dead", 'start': 770.0, 'duration': 4.079}
+{'text': "yes well you don't once they're dead", 'start': 772.48, 'duration': 3.68}
+{'text': "right yeah it's almost like we value", 'start': 774.079, 'duration': 5.601}
+{'text': 'the future like potential', 'start': 776.16, 'duration': 6.4}
+{'text': "no there's a difference between a do you", 'start': 779.68, 'duration': 4.08}
+{'text': "recognize that there's a difference", 'start': 782.56, 'duration': 1.76}
+{'text': 'between', 'start': 783.76, 'duration': 2.16}
+{'text': "i am a thing and i've asserted a", 'start': 784.32, 'duration': 3.519}
+{'text': 'preference then i go to sleep and then i', 'start': 785.92, 'duration': 2.719}
+{'text': 'wake up', 'start': 787.839, 'duration': 2.721}
+{'text': "versus there's a thing that doesn't even", 'start': 788.639, 'duration': 3.44}
+{'text': 'exist yet and then it might become', 'start': 790.56, 'duration': 2.719}
+{'text': 'conscious in the future like those are', 'start': 792.079, 'duration': 2.32}
+{'text': 'two different types of', 'start': 793.279, 'duration': 3.12}
+{'text': 'like you you use potentiality to try to', 'start': 794.399, 'duration': 3.521}
+{'text': 'draw an equivocation between the two', 'start': 796.399, 'duration': 3.761}
+{'text': 'but the potential for something to exist', 'start': 797.92, 'duration': 4.159}
+{'text': 'and assert its very first preference', 'start': 800.16, 'duration': 3.119}
+{'text': "it's different than something that has", 'start': 802.079, 'duration': 2.721}
+{'text': 'asserted a preference and then is', 'start': 803.279, 'duration': 3.601}
+{'text': 'undergoing a temporary like alleviation', 'start': 804.8, 'duration': 3.2}
+{'text': "of consciousness and then we'll come", 'start': 806.88, 'duration': 2.32}
+{'text': "back and we'll hopefully still have", 'start': 808.0, 'duration': 2.079}
+{'text': 'those preferences these are two', 'start': 809.2, 'duration': 1.52}
+{'text': 'different things', 'start': 810.079, 'duration': 1.681}
+{'text': 'you can go you can call them both', 'start': 810.72, 'duration': 2.239}
+{'text': "potential if you want but they're two", 'start': 811.76, 'duration': 4.319}
+{'text': 'different types of potentials', 'start': 812.959, 'duration': 3.12}
+{'text': 'wait could you repeat that last part cut', 'start': 816.24, 'duration': 3.36}
+{'text': 'out there are these are like two', 'start': 817.6, 'duration': 3.2}
+{'text': 'fundamentally different types of', 'start': 819.6, 'duration': 2.96}
+{'text': "potentials you're talking about like", 'start': 820.8, 'duration': 3.039}
+{'text': 'yours is like the potential for', 'start': 822.56, 'duration': 2.719}
+{'text': "something to even exist it hasn't even", 'start': 823.839, 'duration': 2.321}
+{'text': 'existed yet', 'start': 825.279, 'duration': 3.36}
+{'text': 'mine is like it asserts a preference it', 'start': 826.16, 'duration': 4.239}
+{'text': 'is gone for a little bit whether through', 'start': 828.639, 'duration': 3.041}
+{'text': 'sleeper anesthesia and then it comes', 'start': 830.399, 'duration': 1.761}
+{'text': 'back and', 'start': 831.68, 'duration': 1.76}
+{'text': 'it probably wants to maintain the', 'start': 832.16, 'duration': 2.96}
+{'text': 'preferences that it already asserted but', 'start': 833.44, 'duration': 3.12}
+{'text': "the value that it's getting is drawn", 'start': 835.12, 'duration': 2.959}
+{'text': 'from the already assertiveness', 'start': 836.56, 'duration': 2.719}
+{'text': "or the preferences that it's already", 'start': 838.079, 'duration': 2.721}
+{'text': "asserted while already conscious they're", 'start': 839.279, 'duration': 2.481}
+{'text': 'not something that like', 'start': 840.8, 'duration': 3.36}
+{'text': 'yeah yeah okay wait yeah okay i see what', 'start': 841.76, 'duration': 3.519}
+{'text': "you're saying but when we're talking", 'start': 844.16, 'duration': 2.4}
+{'text': 'about like the going back to the very', 'start': 845.279, 'duration': 2.641}
+{'text': 'first analogy i mean you know it kind of', 'start': 846.56, 'duration': 2.48}
+{'text': "relates to this because when we're", 'start': 847.92, 'duration': 2.8}
+{'text': "talking about a newborn that's born into", 'start': 849.04, 'duration': 3.84}
+{'text': 'you know anesthesia or even into a coma', 'start': 850.72, 'duration': 3.76}
+{'text': "or asleep just because they haven't had", 'start': 852.88, 'duration': 3.199}
+{'text': 'a previous conscious experience right', 'start': 854.48, 'duration': 3.039}
+{'text': "and they are a living i know you don't", 'start': 856.079, 'duration': 3.12}
+{'text': 'want to call it a baby a thing would you', 'start': 857.519, 'duration': 4.081}
+{'text': "not say they're in a state of existence", 'start': 859.199, 'duration': 4.64}
+{'text': 'i mean something exists but if it i mean', 'start': 861.6, 'duration': 3.919}
+{'text': "it's hard to conceive of something that", 'start': 863.839, 'duration': 3.201}
+{'text': "is born that hasn't had a conscious", 'start': 865.519, 'duration': 2.641}
+{'text': 'experience yet it sounds like there is', 'start': 867.04, 'duration': 2.88}
+{'text': 'some massive developmental delay or', 'start': 868.16, 'duration': 2.16}
+{'text': 'brain', 'start': 869.92, 'duration': 2.96}
+{'text': "function error if that is the case it's", 'start': 870.32, 'duration': 4.72}
+{'text': 'just hard to imagine it', 'start': 872.88, 'duration': 4.079}
+{'text': "i mean that's the whole thing with time", 'start': 875.04, 'duration': 3.12}
+{'text': "preference like let's say for the sake", 'start': 876.959, 'duration': 2.56}
+{'text': 'of the hypothetical they have the same', 'start': 878.16, 'duration': 2.72}
+{'text': 'development as a baby in the first', 'start': 879.519, 'duration': 2.401}
+{'text': 'trimester', 'start': 880.88, 'duration': 2.48}
+{'text': 'but given three months outside of the', 'start': 881.92, 'duration': 2.719}
+{'text': 'room in an incubator they would', 'start': 883.36, 'duration': 2.159}
+{'text': 'immediately', 'start': 884.639, 'duration': 3.281}
+{'text': 'have the rationality or consciousness of', 'start': 885.519, 'duration': 4.161}
+{'text': 'what you would consider a third baby', 'start': 887.92, 'duration': 4.159}
+{'text': 'like a third trimester baby yeah then', 'start': 889.68, 'duration': 4.0}
+{'text': 'until it has that first conscious', 'start': 892.079, 'duration': 3.681}
+{'text': 'experience then i i would get no moral', 'start': 893.68, 'duration': 3.36}
+{'text': 'consideration of course not whatever', 'start': 895.76, 'duration': 3.12}
+{'text': 'thing exists prior to that yeah', 'start': 897.04, 'duration': 4.0}
+{'text': 'so by like your ethical framework we', 'start': 898.88, 'duration': 3.6}
+{'text': 'would be able to literally', 'start': 901.04, 'duration': 3.12}
+{'text': 'brutally dismember this thing that is', 'start': 902.48, 'duration': 4.4}
+{'text': 'going to be healthy in three months', 'start': 904.16, 'duration': 4.88}
+{'text': 'um and that is outside of the mother', 'start': 906.88, 'duration': 3.84}
+{'text': 'well so these are all really loaded', 'start': 909.04, 'duration': 3.44}
+{'text': 'words so when we say brutally', 'start': 910.72, 'duration': 3.76}
+{'text': "you're implying an experience and i like", 'start': 912.48, 'duration': 3.52}
+{'text': "to use the word brutally because you're", 'start': 914.48, 'duration': 3.12}
+{'text': "now you're real quick hold on because", 'start': 916.0, 'duration': 3.199}
+{'text': "you're borrowing from my definition", 'start': 917.6, 'duration': 3.599}
+{'text': 'so when you use the term brutal the idea', 'start': 919.199, 'duration': 3.44}
+{'text': 'behind that is to invoke some form of', 'start': 921.199, 'duration': 2.961}
+{'text': 'suffering but in order for that form of', 'start': 922.639, 'duration': 3.041}
+{'text': 'suffering to exist there needs to be a', 'start': 924.16, 'duration': 2.72}
+{'text': "conscious experience that's already", 'start': 925.68, 'duration': 1.68}
+{'text': 'happening', 'start': 926.88, 'duration': 2.639}
+{'text': 'when you cut your hair or when when you', 'start': 927.36, 'duration': 3.12}
+{'text': 'cut your hair when you clip your', 'start': 929.519, 'duration': 2.24}
+{'text': 'fingernails you do things like that we', 'start': 930.48, 'duration': 2.64}
+{'text': 'would never call that brutal because', 'start': 931.759, 'duration': 3.281}
+{'text': "those things aren't having an experience", 'start': 933.12, 'duration': 3.04}
+{'text': 'so when you talk about brutally', 'start': 935.04, 'duration': 2.479}
+{'text': "dismembering something that's not having", 'start': 936.16, 'duration': 2.479}
+{'text': 'a conscious experience', 'start': 937.519, 'duration': 2.401}
+{'text': 'what i have to do is i have to point to', 'start': 938.639, 'duration': 2.801}
+{'text': 'the fact that what you are asserting is', 'start': 939.92, 'duration': 2.479}
+{'text': "actually impossible you can't do", 'start': 941.44, 'duration': 2.319}
+{'text': "anything brutal to something that isn't", 'start': 942.399, 'duration': 2.401}
+{'text': 'having that experience because no', 'start': 943.759, 'duration': 2.241}
+{'text': 'suffering is being experienced because', 'start': 944.8, 'duration': 2.8}
+{'text': 'the consciousness is not there yet', 'start': 946.0, 'duration': 3.36}
+{'text': 'i i would just call that a non-essential', 'start': 947.6, 'duration': 3.28}
+{'text': 'like we can have a dead person you can', 'start': 949.36, 'duration': 2.88}
+{'text': 'you know cut off every single piece of', 'start': 950.88, 'duration': 2.48}
+{'text': "their body and we don't grant them any", 'start': 952.24, 'duration': 2.24}
+{'text': 'moral consideration but i was still', 'start': 953.36, 'duration': 2.24}
+{'text': "considering that brutal act so we're", 'start': 954.48, 'duration': 1.599}
+{'text': 'going off', 'start': 955.6, 'duration': 2.32}
+{'text': "wait no we don't wait do you think it's", 'start': 956.079, 'duration': 3.041}
+{'text': "do you think it's brutal", 'start': 957.92, 'duration': 2.64}
+{'text': "i would say hold on yes i would say it's", 'start': 959.12, 'duration': 3.44}
+{'text': 'a brutal thing to rape a dead person yes', 'start': 960.56, 'duration': 3.36}
+{'text': "do you think it's brutal to set a person", 'start': 962.56, 'duration': 2.56}
+{'text': "do you think it's brutal to set a human", 'start': 963.92, 'duration': 2.96}
+{'text': 'being on fire', 'start': 965.12, 'duration': 3.36}
+{'text': "yes do you think it's brutal to cremate", 'start': 966.88, 'duration': 3.519}
+{'text': 'a corpse', 'start': 968.48, 'duration': 3.84}
+{'text': "no okay so there's the difference right", 'start': 970.399, 'duration': 2.961}
+{'text': "is there's a suffering that's", 'start': 972.32, 'duration': 3.92}
+{'text': 'experienced there right', 'start': 973.36, 'duration': 4.64}
+{'text': "well again that like there's a", 'start': 976.24, 'duration': 3.36}
+{'text': 'difference between the principles', 'start': 978.0, 'duration': 3.04}
+{'text': 'right like i would say you know if it', 'start': 979.6, 'duration': 3.039}
+{'text': 'has no moral consideration', 'start': 981.04, 'duration': 3.2}
+{'text': "but that doesn't mean that you know we", 'start': 982.639, 'duration': 3.12}
+{'text': "honor the family's bushes as in like", 'start': 984.24, 'duration': 3.039}
+{'text': 'with the coma or we honor their own wish', 'start': 985.759, 'duration': 3.361}
+{'text': 'wishes now unless their wish was to be', 'start': 987.279, 'duration': 2.56}
+{'text': 'raped', 'start': 989.12, 'duration': 2.56}
+{'text': 'i would say no that would be a brutal', 'start': 989.839, 'duration': 3.201}
+{'text': 'thing to do', 'start': 991.68, 'duration': 2.8}
+{'text': 'okay i mean we could say it but it', 'start': 993.04, 'duration': 3.359}
+{'text': "doesn't yes even so without", 'start': 994.48, 'duration': 3.76}
+{'text': 'without this like brutal thing right', 'start': 996.399, 'duration': 3.44}
+{'text': 'like a baby is born', 'start': 998.24, 'duration': 3.68}
+{'text': 'um whatever you want to call it a thing', 'start': 999.839, 'duration': 3.92}
+{'text': "and after five months it's going to you", 'start': 1001.92, 'duration': 2.88}
+{'text': 'know experience', 'start': 1003.759, 'duration': 3.121}
+{'text': "what a general newborn would and i don't", 'start': 1004.8, 'duration': 3.52}
+{'text': 'think that you know', 'start': 1006.88, 'duration': 3.12}
+{'text': 'you can hold you know with the whole', 'start': 1008.32, 'duration': 2.959}
+{'text': 'brutal thing is kind of going off on a', 'start': 1010.0, 'duration': 1.68}
+{'text': 'team', 'start': 1011.279, 'duration': 2.0}
+{'text': 'that you can literally do anything you', 'start': 1011.68, 'duration': 4.0}
+{'text': 'want to this thing literally', 'start': 1013.279, 'duration': 4.641}
+{'text': 'right like like you said brutal may not', 'start': 1015.68, 'duration': 3.76}
+{'text': 'be the right word but you can cut off', 'start': 1017.92, 'duration': 2.24}
+{'text': 'all this thing', 'start': 1019.44, 'duration': 2.24}
+{'text': 'you can do whatever you want you could', 'start': 1020.16, 'duration': 3.44}
+{'text': 'rape it', 'start': 1021.68, 'duration': 3.519}
+{'text': 'i mean that would be like really really', 'start': 1023.6, 'duration': 3.52}
+{'text': 'really weird', 'start': 1025.199, 'duration': 4.081}
+{'text': 'given that it would be hold zero moral', 'start': 1027.12, 'duration': 3.839}
+{'text': 'consideration all of this should be', 'start': 1029.28, 'duration': 3.679}
+{'text': 'epically permissible', 'start': 1030.959, 'duration': 4.161}
+{'text': 'i mean it would be yeah but i mean like', 'start': 1032.959, 'duration': 4.161}
+{'text': 'we already engage in acts of what we', 'start': 1035.12, 'duration': 3.6}
+{'text': 'would call barbarism i guess if we were', 'start': 1037.12, 'duration': 2.959}
+{'text': 'using these same standards right like', 'start': 1038.72, 'duration': 2.959}
+{'text': 'any type of stem cell research or', 'start': 1040.079, 'duration': 2.88}
+{'text': 'embryonic stem cell research would', 'start': 1041.679, 'duration': 1.681}
+{'text': 'follow', 'start': 1042.959, 'duration': 1.761}
+{'text': 'under these exact same things we have a', 'start': 1043.36, 'duration': 2.88}
+{'text': 'potentiality for life if you would have', 'start': 1044.72, 'duration': 3.119}
+{'text': 'given it another environment or whatever', 'start': 1046.24, 'duration': 3.92}
+{'text': "um i mean i'm only taking issue because", 'start': 1047.839, 'duration': 3.601}
+{'text': "like the picture you're drawing is like", 'start': 1050.16, 'duration': 2.8}
+{'text': 'raping a sleeping baby which is', 'start': 1051.44, 'duration': 2.64}
+{'text': 'obviously extreme', 'start': 1052.96, 'duration': 2.32}
+{'text': "but the creature whatever you're", 'start': 1054.08, 'duration': 3.12}
+{'text': 'describing being born is far outside of', 'start': 1055.28, 'duration': 3.279}
+{'text': 'like the standard human development', 'start': 1057.2, 'duration': 2.8}
+{'text': "there there aren't babies aren't born", 'start': 1058.559, 'duration': 2.801}
+{'text': 'and then given a conscious experience', 'start': 1060.0, 'duration': 3.6}
+{'text': 'five months after birth if we want to if', 'start': 1061.36, 'duration': 3.36}
+{'text': 'we want to like theorize some', 'start': 1063.6, 'duration': 2.72}
+{'text': 'hypothetical creature that does that we', 'start': 1064.72, 'duration': 2.0}
+{'text': 'can', 'start': 1066.32, 'duration': 1.68}
+{'text': 'but then when you start applying like', 'start': 1066.72, 'duration': 2.48}
+{'text': 'real life like you want to murder it or', 'start': 1068.0, 'duration': 2.4}
+{'text': "dismember it's like i mean like we", 'start': 1069.2, 'duration': 2.719}
+{'text': 'murder and dismember like non-living', 'start': 1070.4, 'duration': 3.12}
+{'text': "things all the time and whatever you're", 'start': 1071.919, 'duration': 3.281}
+{'text': 'describing is so far removed from what a', 'start': 1073.52, 'duration': 3.279}
+{'text': 'normal like normal babies start to', 'start': 1075.2, 'duration': 3.04}
+{'text': 'have a conscious experience like in the', 'start': 1076.799, 'duration': 3.201}
+{'text': 'womb in the second trimester so the idea', 'start': 1078.24, 'duration': 2.64}
+{'text': 'that something would be born and not', 'start': 1080.0, 'duration': 2.559}
+{'text': 'have one for five months i mean yeah i', 'start': 1080.88, 'duration': 2.96}
+{'text': 'guess under my ethical system you can do', 'start': 1082.559, 'duration': 2.161}
+{'text': "whatever you want to but like that's", 'start': 1083.84, 'duration': 2.4}
+{'text': 'just so far removed from what like a', 'start': 1084.72, 'duration': 2.959}
+{'text': 'normal birth would be', 'start': 1086.24, 'duration': 3.439}
+{'text': 'right right but i mean it kind of raises', 'start': 1087.679, 'duration': 3.601}
+{'text': "the question like why you shouldn't", 'start': 1089.679, 'duration': 3.201}
+{'text': 'value potentiality because', 'start': 1091.28, 'duration': 3.2}
+{'text': 'you know like you know this thing is', 'start': 1092.88, 'duration': 2.88}
+{'text': 'going to be perfectly normal and', 'start': 1094.48, 'duration': 2.64}
+{'text': 'perfectly what you would even call a', 'start': 1095.76, 'duration': 2.88}
+{'text': 'baby rather than a thing', 'start': 1097.12, 'duration': 4.0}
+{'text': 'in five months so it would be almost', 'start': 1098.64, 'duration': 4.0}
+{'text': 'counterintuitive to be able to do', 'start': 1101.12, 'duration': 2.88}
+{'text': 'anything you want to wear even', 'start': 1102.64, 'duration': 3.279}
+{'text': "forget five months let's say like five", 'start': 1104.0, 'duration': 4.32}
+{'text': "seconds i just have no reason there's no", 'start': 1105.919, 'duration': 4.401}
+{'text': 'reason to value the potentiality why', 'start': 1108.32, 'duration': 2.96}
+{'text': "would you value something that doesn't", 'start': 1110.32, 'duration': 2.32}
+{'text': 'exist yet wait okay', 'start': 1111.28, 'duration': 3.759}
+{'text': 'okay wait wait so at t 0 at the very', 'start': 1112.64, 'duration': 3.44}
+{'text': 'moment right', 'start': 1115.039, 'duration': 2.801}
+{'text': 'this thing does not have what you would', 'start': 1116.08, 'duration': 3.12}
+{'text': 'consider a conscious right', 'start': 1117.84, 'duration': 3.44}
+{'text': 'at the very moment now five seconds', 'start': 1119.2, 'duration': 3.44}
+{'text': 'later we know it will', 'start': 1121.28, 'duration': 4.0}
+{'text': 'can we still kill it prior to the', 'start': 1122.64, 'duration': 4.08}
+{'text': 'formation of that conscious experience', 'start': 1125.28, 'duration': 1.92}
+{'text': 'yeah sure', 'start': 1126.72, 'duration': 2.24}
+{'text': "yeah yeah let's say prior to formation", 'start': 1127.2, 'duration': 3.2}
+{'text': 'of initial punch experience', 'start': 1128.96, 'duration': 4.88}
+{'text': 'sure so wait hold on', 'start': 1130.4, 'duration': 5.2}
+{'text': "so something i don't think you actually", 'start': 1133.84, 'duration': 3.28}
+{'text': 'care about a conscious experience if you', 'start': 1135.6, 'duration': 3.68}
+{'text': "don't allow it to actually develop", 'start': 1137.12, 'duration': 4.72}
+{'text': 'i mean more i i the fetus to me is the', 'start': 1139.28, 'duration': 4.08}
+{'text': 'same oral equivalence as like any', 'start': 1141.84, 'duration': 3.12}
+{'text': 'particular like an ovary or', 'start': 1143.36, 'duration': 3.92}
+{'text': 'um or an ovum or an egg or uh like a', 'start': 1144.96, 'duration': 3.68}
+{'text': "sperm like it's just like there are", 'start': 1147.28, 'duration': 2.88}
+{'text': 'things that exist like', 'start': 1148.64, 'duration': 3.279}
+{'text': "i don't okay like with this sperm thing", 'start': 1150.16, 'duration': 3.28}
+{'text': 'okay i hear that a lot obviously you', 'start': 1151.919, 'duration': 2.88}
+{'text': 'know like why do you grant a psycho', 'start': 1153.44, 'duration': 3.04}
+{'text': 'moral consideration but not a sperm it', 'start': 1154.799, 'duration': 3.041}
+{'text': 'would obviously just be because like you', 'start': 1156.48, 'duration': 1.76}
+{'text': 'know', 'start': 1157.84, 'duration': 2.0}
+{'text': 'we say a zygote would have active', 'start': 1158.24, 'duration': 3.2}
+{'text': 'potential while sperm is just you know', 'start': 1159.84, 'duration': 2.16}
+{'text': 'passive', 'start': 1161.44, 'duration': 2.56}
+{'text': "i mean zygotes don't have zygotes don't", 'start': 1162.0, 'duration': 3.12}
+{'text': 'have active potential though they still', 'start': 1164.0, 'duration': 2.64}
+{'text': 'need to be combined with a host for at', 'start': 1165.12, 'duration': 2.88}
+{'text': 'least like three to four months i think', 'start': 1166.64, 'duration': 2.32}
+{'text': 'right before you can have', 'start': 1168.0, 'duration': 3.28}
+{'text': 'why wait why should being combined to a', 'start': 1168.96, 'duration': 3.36}
+{'text': 'host', 'start': 1171.28, 'duration': 2.399}
+{'text': 'not have anything to do with active', 'start': 1172.32, 'duration': 3.359}
+{'text': 'potential what what do you what do you', 'start': 1173.679, 'duration': 3.36}
+{'text': 'consider active potential what does that', 'start': 1175.679, 'duration': 1.921}
+{'text': 'mean', 'start': 1177.039, 'duration': 2.321}
+{'text': 'well i mean yeah from the very beginning', 'start': 1177.6, 'duration': 3.6}
+{'text': 'just like the active potential to like', 'start': 1179.36, 'duration': 2.24}
+{'text': 'um', 'start': 1181.2, 'duration': 4.4}
+{'text': 'ability to act on their life unintended', 'start': 1181.6, 'duration': 5.199}
+{'text': 'what is that wait what does that mean', 'start': 1185.6, 'duration': 3.12}
+{'text': 'can you define that more for me yes', 'start': 1186.799, 'duration': 4.161}
+{'text': "i'll just give an example but um like", 'start': 1188.72, 'duration': 4.16}
+{'text': "let's say you know the when you have", 'start': 1190.96, 'duration': 2.959}
+{'text': 'active potential', 'start': 1192.88, 'duration': 3.12}
+{'text': "you have a gun and you're putting it to", 'start': 1193.919, 'duration': 3.12}
+{'text': "someone's head you have the active", 'start': 1196.0, 'duration': 2.16}
+{'text': 'potential to kill them', 'start': 1197.039, 'duration': 2.64}
+{'text': 'now everybody has the potential to kill', 'start': 1198.16, 'duration': 2.96}
+{'text': "someone am i right we're not going to go", 'start': 1199.679, 'duration': 2.88}
+{'text': 'around arresting random people on the', 'start': 1201.12, 'duration': 3.28}
+{'text': 'street just because they have passively', 'start': 1202.559, 'duration': 2.801}
+{'text': "and you know it's an epistemic", 'start': 1204.4, 'duration': 2.24}
+{'text': 'possibility that they could possibly', 'start': 1205.36, 'duration': 2.64}
+{'text': "kill someone we're only going to arrest", 'start': 1206.64, 'duration': 2.56}
+{'text': 'someone when they actualize this', 'start': 1208.0, 'duration': 2.559}
+{'text': 'potential you know maybe get a gun', 'start': 1209.2, 'duration': 2.719}
+{'text': "illegally put it to someone's head", 'start': 1210.559, 'duration': 3.281}
+{'text': "they're committing an act of initiation", 'start': 1211.919, 'duration': 3.921}
+{'text': "of force and impending someone's life", 'start': 1213.84, 'duration': 3.28}
+{'text': "so that's what kind of the distinction", 'start': 1215.84, 'duration': 3.36}
+{'text': 'there between like a sperm and a zygote', 'start': 1217.12, 'duration': 3.36}
+{'text': "wait but a zygote doesn't have any", 'start': 1219.2, 'duration': 4.479}
+{'text': 'active potential what do you mean', 'start': 1220.48, 'duration': 3.199}
+{'text': 'yeah it would because from the moment of', 'start': 1224.4, 'duration': 3.68}
+{'text': 'conception it would be', 'start': 1226.48, 'duration': 3.84}
+{'text': 'moving towards actualizing its substance', 'start': 1228.08, 'duration': 4.24}
+{'text': "it doesn't have any potential yet it", 'start': 1230.32, 'duration': 3.359}
+{'text': 'might in like three years or whatever', 'start': 1232.32, 'duration': 1.92}
+{'text': 'but like', 'start': 1233.679, 'duration': 2.161}
+{'text': 'what do you what potential what action', 'start': 1234.24, 'duration': 2.96}
+{'text': 'potential is a zygote what choice does', 'start': 1235.84, 'duration': 3.12}
+{'text': 'it make what do you mean', 'start': 1237.2, 'duration': 3.2}
+{'text': "wait what it wouldn't have to make a", 'start': 1238.96, 'duration': 3.28}
+{'text': 'choice the natural causal', 'start': 1240.4, 'duration': 3.44}
+{'text': 'chain from the moment of conception is', 'start': 1242.24, 'duration': 3.679}
+{'text': 'to be what you would consider even a', 'start': 1243.84, 'duration': 2.88}
+{'text': 'person', 'start': 1245.919, 'duration': 2.0}
+{'text': "i don't know what you mean i i guess i", 'start': 1246.72, 'duration': 2.24}
+{'text': "don't know what you mean by active", 'start': 1247.919, 'duration': 2.401}
+{'text': 'potential because when you said active', 'start': 1248.96, 'duration': 2.4}
+{'text': 'before you made it sound like something', 'start': 1250.32, 'duration': 2.4}
+{'text': 'is a moral agent that can choose one', 'start': 1251.36, 'duration': 2.559}
+{'text': "thing or another zygotes don't make", 'start': 1252.72, 'duration': 2.64}
+{'text': 'choices right', 'start': 1253.919, 'duration': 3.12}
+{'text': 'well i mean just because someone sits on', 'start': 1255.36, 'duration': 3.04}
+{'text': 'their couch and like eats chips all day', 'start': 1257.039, 'duration': 2.321}
+{'text': "and doesn't go to work", 'start': 1258.4, 'duration': 2.8}
+{'text': 'um obviously they still have like active', 'start': 1259.36, 'duration': 3.12}
+{'text': 'potentiality for life but they may not', 'start': 1261.2, 'duration': 2.64}
+{'text': 'have the active potential to like attain', 'start': 1262.48, 'duration': 2.64}
+{'text': "their virtues if that's what you were", 'start': 1263.84, 'duration': 2.719}
+{'text': 'going off of but just because an', 'start': 1265.12, 'duration': 3.6}
+{'text': 'environment enables active potentiality', 'start': 1266.559, 'duration': 3.6}
+{'text': "doesn't mean it doesn't have active", 'start': 1268.72, 'duration': 3.04}
+{'text': 'potentiality like you said the mother', 'start': 1270.159, 'duration': 2.321}
+{'text': 'being connect', 'start': 1271.76, 'duration': 2.08}
+{'text': 'or i mean the fetus being connected to', 'start': 1272.48, 'duration': 2.88}
+{'text': 'the like host for three to four months', 'start': 1273.84, 'duration': 2.48}
+{'text': 'or whatever', 'start': 1275.36, 'duration': 2.4}
+{'text': 'what so what do you mean when you say a', 'start': 1276.32, 'duration': 4.719}
+{'text': 'zygote as active potentiality again', 'start': 1277.76, 'duration': 6.799}
+{'text': "like it's going to uh become", 'start': 1281.039, 'duration': 6.321}
+{'text': 'a rational being that can act towards', 'start': 1284.559, 'duration': 4.24}
+{'text': "virtues i think that's the best way to", 'start': 1287.36, 'duration': 2.64}
+{'text': 'put it simply', 'start': 1288.799, 'duration': 3.201}
+{'text': "so what's the difference okay wait so", 'start': 1290.0, 'duration': 3.84}
+{'text': 'when i ask you why should i value the', 'start': 1292.0, 'duration': 3.2}
+{'text': 'like potential life or value some of the', 'start': 1293.84, 'duration': 2.56}
+{'text': "different doesn't exist yet it feels", 'start': 1295.2, 'duration': 2.479}
+{'text': "like you're just telling me", 'start': 1296.4, 'duration': 2.639}
+{'text': 'what potential life is in another', 'start': 1297.679, 'duration': 3.201}
+{'text': 'definition is there like a reason why', 'start': 1299.039, 'duration': 4.0}
+{'text': 'you ought to value like', 'start': 1300.88, 'duration': 5.039}
+{'text': 'if you want to call it potential life i', 'start': 1303.039, 'duration': 3.281}
+{'text': 'think', 'start': 1305.919, 'duration': 1.521}
+{'text': "that's okay but i would just say it's", 'start': 1306.32, 'duration': 3.359}
+{'text': "life in and of itself so well but we're", 'start': 1307.44, 'duration': 3.52}
+{'text': 'not talking about life neither of us', 'start': 1309.679, 'duration': 2.561}
+{'text': "care about life we're talking about like", 'start': 1310.96, 'duration': 2.959}
+{'text': 'a specific human related thing right', 'start': 1312.24, 'duration': 2.72}
+{'text': "we're talking about like", 'start': 1313.919, 'duration': 2.24}
+{'text': 'when something gets like we could say', 'start': 1314.96, 'duration': 3.04}
+{'text': 'personhood or something right', 'start': 1316.159, 'duration': 4.161}
+{'text': "yeah so what so what i'm asking is why", 'start': 1318.0, 'duration': 3.679}
+{'text': 'should i value the', 'start': 1320.32, 'duration': 3.44}
+{'text': "because i just don't understand why i", 'start': 1321.679, 'duration': 3.761}
+{'text': 'should value the potentiality of', 'start': 1323.76, 'duration': 2.48}
+{'text': 'consciousness', 'start': 1325.44, 'duration': 3.44}
+{'text': 'rather than just consciousness itself', 'start': 1326.24, 'duration': 4.08}
+{'text': "well it's kind of", 'start': 1328.88, 'duration': 3.44}
+{'text': 'like the moral baggage that would come', 'start': 1330.32, 'duration': 3.359}
+{'text': 'with doing the opposite', 'start': 1332.32, 'duration': 3.839}
+{'text': 'grounded with just the ability for', 'start': 1333.679, 'duration': 4.401}
+{'text': 'people to be able to do such things in', 'start': 1336.159, 'duration': 2.88}
+{'text': 'the first place so', 'start': 1338.08, 'duration': 2.56}
+{'text': 'if we ask ourselves a question like why', 'start': 1339.039, 'duration': 3.601}
+{'text': 'should we even value consciousness', 'start': 1340.64, 'duration': 4.0}
+{'text': "later on and i wouldn't see a reason to", 'start': 1342.64, 'duration': 3.6}
+{'text': 'even evaluate at that point because the', 'start': 1344.64, 'duration': 2.96}
+{'text': 'whole thing like i said with the five', 'start': 1346.24, 'duration': 2.4}
+{'text': 'seconds example', 'start': 1347.6, 'duration': 3.439}
+{'text': 'is that we care about if we move towards', 'start': 1348.64, 'duration': 3.919}
+{'text': 'what you would even consider as', 'start': 1351.039, 'duration': 2.401}
+{'text': 'personhood', 'start': 1352.559, 'duration': 2.321}
+{'text': "so that's why it would have intrinsic", 'start': 1353.44, 'duration': 2.96}
+{'text': 'value to be able to actualize its', 'start': 1354.88, 'duration': 2.24}
+{'text': 'potential', 'start': 1356.4, 'duration': 3.44}
+{'text': 'like it has goal-directed potency like', 'start': 1357.12, 'duration': 4.32}
+{'text': 'right none of these things', 'start': 1359.84, 'duration': 4.24}
+{'text': 'yeah but yeah okay everything will be', 'start': 1361.44, 'duration': 4.16}
+{'text': 'acting towards a goal so like like i', 'start': 1364.08, 'duration': 2.719}
+{'text': 'mentioned with the person with the gun', 'start': 1365.6, 'duration': 2.48}
+{'text': 'that person will be acting', 'start': 1366.799, 'duration': 2.88}
+{'text': 'actualizing their potential towards a', 'start': 1368.08, 'duration': 3.44}
+{'text': 'goal to kill that person that fetus is', 'start': 1369.679, 'duration': 3.281}
+{'text': 'actualizing its potential', 'start': 1371.52, 'duration': 4.56}
+{'text': "to become a rational being that's", 'start': 1372.96, 'duration': 4.32}
+{'text': "that's great but there's still not a", 'start': 1376.08, 'duration': 3.36}
+{'text': 'reason why i should value that before it', 'start': 1377.28, 'duration': 3.36}
+{'text': 'actually hits that point of being able', 'start': 1379.44, 'duration': 4.0}
+{'text': 'to sort of preference', 'start': 1380.64, 'duration': 2.8}
+{'text': 'uh wait why should i care about', 'start': 1383.52, 'duration': 3.68}
+{'text': 'asserting a preference or are we am i', 'start': 1385.679, 'duration': 2.321}
+{'text': 'caring about certain', 'start': 1387.2, 'duration': 2.479}
+{'text': 'preferences or just consciousness well', 'start': 1388.0, 'duration': 3.12}
+{'text': "that's what i'm sorry when the conscious", 'start': 1389.679, 'duration': 2.48}
+{'text': 'experience forms you start to a certain', 'start': 1391.12, 'duration': 1.919}
+{'text': 'preferences but like having a', 'start': 1392.159, 'duration': 2.0}
+{'text': 'consciousness why should i care about', 'start': 1393.039, 'duration': 2.721}
+{'text': 'the the potentiality to form a', 'start': 1394.159, 'duration': 2.961}
+{'text': 'consciousness why not just wait till the', 'start': 1395.76, 'duration': 2.64}
+{'text': 'conscious experience forms and then care', 'start': 1397.12, 'duration': 3.28}
+{'text': 'about that thing', 'start': 1398.4, 'duration': 3.12}
+{'text': 'because the reason that we should wait', 'start': 1400.4, 'duration': 3.04}
+{'text': "for it is because it's literally a like", 'start': 1401.52, 'duration': 4.56}
+{'text': "it's like asking why we should care if a", 'start': 1403.44, 'duration': 4.239}
+{'text': 'person gets their gun', 'start': 1406.08, 'duration': 3.68}
+{'text': 'gets a gun illegally and like walks up', 'start': 1407.679, 'duration': 3.761}
+{'text': "to someone but doesn't exactly shoot", 'start': 1409.76, 'duration': 2.32}
+{'text': 'them yet', 'start': 1411.44, 'duration': 2.16}
+{'text': 'right like we care about the thing', 'start': 1412.08, 'duration': 3.2}
+{'text': "that's being actually something that has", 'start': 1413.6, 'duration': 3.12}
+{'text': 'a goal-directed process', 'start': 1415.28, 'duration': 3.04}
+{'text': "and you're impending on somebody else's", 'start': 1416.72, 'duration': 3.52}
+{'text': "goal well there's but the reason why", 'start': 1418.32, 'duration': 3.04}
+{'text': "we're worried about that happening is", 'start': 1420.24, 'duration': 2.48}
+{'text': 'because somebody else might end somebody', 'start': 1421.36, 'duration': 3.04}
+{'text': "else's conscious experience", 'start': 1422.72, 'duration': 5.04}
+{'text': 'right i mean they can be unconscious', 'start': 1424.4, 'duration': 4.879}
+{'text': "it doesn't wouldn't really matter well", 'start': 1427.76, 'duration': 2.88}
+{'text': "if they're unconscious then if you want", 'start': 1429.279, 'duration': 2.801}
+{'text': "to go shoot corpses i mean you're", 'start': 1430.64, 'duration': 2.24}
+{'text': 'probably going to get in trouble with', 'start': 1432.08, 'duration': 3.28}
+{'text': "the morgue but it's not murder", 'start': 1432.88, 'duration': 3.679}
+{'text': 'you want to go shoot a person under', 'start': 1435.36, 'duration': 3.04}
+{'text': 'general anesthesia that would be', 'start': 1436.559, 'duration': 4.881}
+{'text': 'it can be unconscious but that would be', 'start': 1438.4, 'duration': 4.48}
+{'text': 'not good as well because the person', 'start': 1441.44, 'duration': 2.96}
+{'text': 'probably asserted a preference to live', 'start': 1442.88, 'duration': 3.679}
+{'text': 'before becoming unconscious right', 'start': 1444.4, 'duration': 4.96}
+{'text': "and if they didn't if they wanted to die", 'start': 1446.559, 'duration': 4.401}
+{'text': "if they've got like a dnr we let them", 'start': 1449.36, 'duration': 3.76}
+{'text': "die then that's fine there's no problem", 'start': 1450.96, 'duration': 3.599}
+{'text': "i still don't understand like this kind", 'start': 1453.12, 'duration': 3.039}
+{'text': 'of obviously goes back into like general', 'start': 1454.559, 'duration': 2.48}
+{'text': 'anesthesia', 'start': 1456.159, 'duration': 2.961}
+{'text': 'why should we even err on the side of', 'start': 1457.039, 'duration': 4.161}
+{'text': 'life when we have this thing that at t', 'start': 1459.12, 'duration': 5.52}
+{'text': "zero right now isn't conscious", 'start': 1461.2, 'duration': 4.88}
+{'text': 'i know i know we can make this', 'start': 1464.64, 'duration': 3.2}
+{'text': 'reasonable prediction right', 'start': 1466.08, 'duration': 4.64}
+{'text': 'but why even make it at this moment that', 'start': 1467.84, 'duration': 4.64}
+{'text': 'thing is not valuable', 'start': 1470.72, 'duration': 4.8}
+{'text': 'at what moment t 0 like the moment of', 'start': 1472.48, 'duration': 4.16}
+{'text': 'unconsciousness', 'start': 1475.52, 'duration': 4.399}
+{'text': "so so i feel like i don't know if we're", 'start': 1476.64, 'duration': 5.519}
+{'text': 'going to circle this again but', 'start': 1479.919, 'duration': 4.401}
+{'text': 'if something is unconscious but previous', 'start': 1482.159, 'duration': 3.601}
+{'text': 'to that it was conscious', 'start': 1484.32, 'duration': 2.88}
+{'text': 'the assumption is going to be that it', 'start': 1485.76, 'duration': 3.039}
+{'text': 'wants to continue to be conscious unless', 'start': 1487.2, 'duration': 3.04}
+{'text': "it's stated otherwise because we we", 'start': 1488.799, 'duration': 3.041}
+{'text': 'assume that most conscious things', 'start': 1490.24, 'duration': 2.88}
+{'text': "want to remain living unless they've", 'start': 1491.84, 'duration': 3.199}
+{'text': 'given like a reason not to right if it', 'start': 1493.12, 'duration': 3.6}
+{'text': "hasn't even had a conscious experience", 'start': 1495.039, 'duration': 2.081}
+{'text': 'yet', 'start': 1496.72, 'duration': 2.559}
+{'text': 'there is nothing of which we can speak', 'start': 1497.12, 'duration': 3.12}
+{'text': 'to protect', 'start': 1499.279, 'duration': 2.321}
+{'text': 'in terms of conscious experience there', 'start': 1500.24, 'duration': 3.2}
+{'text': 'is no experience there there is no', 'start': 1501.6, 'duration': 3.28}
+{'text': 'consciousness there that we can even', 'start': 1503.44, 'duration': 3.44}
+{'text': "have a conversation about i i don't i i", 'start': 1504.88, 'duration': 3.36}
+{'text': "don't understand why i should care if", 'start': 1506.88, 'duration': 3.2}
+{'text': 'they made a pretense beforehand still', 'start': 1508.24, 'duration': 4.08}
+{'text': "who cares what they want well that's", 'start': 1510.08, 'duration': 3.199}
+{'text': 'going to come down to your ethical', 'start': 1512.32, 'duration': 2.56}
+{'text': 'framework so in my ethical framework i', 'start': 1513.279, 'duration': 2.481}
+{'text': 'would say that we ought to', 'start': 1514.88, 'duration': 1.84}
+{'text': "well i can't well i can't wait you", 'start': 1515.76, 'duration': 2.24}
+{'text': "answered me you asked me questions i'll", 'start': 1516.72, 'duration': 2.8}
+{'text': 'answer right so under my ethical', 'start': 1518.0, 'duration': 2.88}
+{'text': 'framework i would say the reason why you', 'start': 1519.52, 'duration': 1.92}
+{'text': 'would care', 'start': 1520.88, 'duration': 2.48}
+{'text': "is because if we didn't do that if we", 'start': 1521.44, 'duration': 2.96}
+{'text': "just didn't care what happened people", 'start': 1523.36, 'duration': 2.24}
+{'text': 'they were unconscious then we would walk', 'start': 1524.4, 'duration': 2.399}
+{'text': 'around just murdering everybody in their', 'start': 1525.6, 'duration': 2.88}
+{'text': "sleep it'd probably not be a good world", 'start': 1526.799, 'duration': 4.161}
+{'text': 'so we ought to value the experiences of', 'start': 1528.48, 'duration': 4.0}
+{'text': 'people that are going under general', 'start': 1530.96, 'duration': 3.28}
+{'text': 'anesthesia or going into sleep because', 'start': 1532.48, 'duration': 2.88}
+{'text': 'when they wake up they probably want to', 'start': 1534.24, 'duration': 2.48}
+{'text': 'still live because if i were to go under', 'start': 1535.36, 'duration': 2.88}
+{'text': 'general anesthesia or if i were to go to', 'start': 1536.72, 'duration': 2.48}
+{'text': "sleep i don't want to be killed in my", 'start': 1538.24, 'duration': 2.4}
+{'text': "sleep so that's why we ought to value", 'start': 1539.2, 'duration': 4.0}
+{'text': 'prior conscious experiences well yeah', 'start': 1540.64, 'duration': 3.84}
+{'text': "well again this doesn't really answer my", 'start': 1543.2, 'duration': 2.4}
+{'text': 'question because you said oh that', 'start': 1544.48, 'duration': 2.48}
+{'text': "wouldn't be good because they have made", 'start': 1545.6, 'duration': 2.64}
+{'text': 'this previous preference to live', 'start': 1546.96, 'duration': 3.04}
+{'text': 'why should i care about their previous', 'start': 1548.24, 'duration': 3.919}
+{'text': 'preferences', 'start': 1550.0, 'duration': 4.0}
+{'text': 'i mean i guess you when when determining', 'start': 1552.159, 'duration': 4.081}
+{'text': 'their moral value', 'start': 1554.0, 'duration': 3.44}
+{'text': "you don't have to i guess if you're", 'start': 1556.24, 'duration': 3.12}
+{'text': 'willing to accept i mean i i mean you', 'start': 1557.44, 'duration': 3.839}
+{'text': "i mean i'm sure you know you're not bad", 'start': 1559.36, 'duration': 2.88}
+{'text': 'faith you know under my ethical', 'start': 1561.279, 'duration': 1.681}
+{'text': 'framework that', 'start': 1562.24, 'duration': 2.48}
+{'text': "i'm going to grant it consideration from", 'start': 1562.96, 'duration': 3.599}
+{'text': "okay so okay so let's real quick yeah i", 'start': 1564.72, 'duration': 3.36}
+{'text': 'understand yeah so we just basic', 'start': 1566.559, 'duration': 2.961}
+{'text': 'deduction we run this down logically so', 'start': 1568.08, 'duration': 1.92}
+{'text': 'when you say', 'start': 1569.52, 'duration': 2.24}
+{'text': "why shouldn't i care if unconscious", 'start': 1570.0, 'duration': 3.84}
+{'text': 'people are murdered indiscriminately the', 'start': 1571.76, 'duration': 4.0}
+{'text': "reason why you probably shouldn't care", 'start': 1573.84, 'duration': 3.04}
+{'text': "is because if you're a rational agent", 'start': 1575.76, 'duration': 2.56}
+{'text': 'and you could follow premise members', 'start': 1576.88, 'duration': 2.799}
+{'text': "conclusion what you're going to realize", 'start': 1578.32, 'duration': 2.88}
+{'text': "is if you assert that it's okay to kill", 'start': 1579.679, 'duration': 2.721}
+{'text': "somebody that's unconscious", 'start': 1581.2, 'duration': 2.719}
+{'text': "you're probably opening yourself up to", 'start': 1582.4, 'duration': 3.12}
+{'text': "being killed when you're unconscious or", 'start': 1583.919, 'duration': 2.801}
+{'text': "at the very least you're creating a", 'start': 1585.52, 'duration': 2.48}
+{'text': 'world where everybody can be killed when', 'start': 1586.72, 'duration': 2.4}
+{'text': "they're unconscious which is probably a", 'start': 1588.0, 'duration': 2.08}
+{'text': "world that's going to descend into", 'start': 1589.12, 'duration': 2.4}
+{'text': 'mayhem so when you ask me why should i', 'start': 1590.08, 'duration': 2.88}
+{'text': "care about a prior country's experience", 'start': 1591.52, 'duration': 2.56}
+{'text': "i'll answer because if you don't then", 'start': 1592.96, 'duration': 2.48}
+{'text': 'the world will descend into absurdity', 'start': 1594.08, 'duration': 2.8}
+{'text': "and mayhem that's what i would say", 'start': 1595.44, 'duration': 3.92}
+{'text': 'okay okay wait wait again so yeah okay', 'start': 1596.88, 'duration': 4.08}
+{'text': 'now that that kind of gets into like', 'start': 1599.36, 'duration': 4.4}
+{'text': "you're a utilitarian i presume sure yeah", 'start': 1600.96, 'duration': 3.52}
+{'text': 'so', 'start': 1603.76, 'duration': 3.76}
+{'text': 'so if x you know would make the world', 'start': 1604.48, 'duration': 5.12}
+{'text': 'have b mayhem produce less utility be a', 'start': 1607.52, 'duration': 3.84}
+{'text': "worse place you wouldn't want x to", 'start': 1609.6, 'duration': 3.76}
+{'text': 'happen', 'start': 1611.36, 'duration': 5.199}
+{'text': "i'm sure yeah yeah and if x were to you", 'start': 1613.36, 'duration': 5.04}
+{'text': 'know produce utility produce a better', 'start': 1616.559, 'duration': 3.201}
+{'text': 'world you would want it to happen', 'start': 1618.4, 'duration': 4.56}
+{'text': 'and it would be morally justified yeah', 'start': 1619.76, 'duration': 5.36}
+{'text': "okay so if slavery i know you've", 'start': 1622.96, 'duration': 4.16}
+{'text': 'probably heard this if slavery produced', 'start': 1625.12, 'duration': 3.6}
+{'text': 'the most utility and in my thought', 'start': 1627.12, 'duration': 3.28}
+{'text': 'experiment it would produce the most', 'start': 1628.72, 'duration': 2.4}
+{'text': 'utility', 'start': 1630.4, 'duration': 3.279}
+{'text': 'would it be morally permissible um yeah', 'start': 1631.12, 'duration': 3.76}
+{'text': "i don't believe that's congruent with", 'start': 1633.679, 'duration': 4.0}
+{'text': 'our real world though but', 'start': 1634.88, 'duration': 4.799}
+{'text': "okay so yeah i mean like i i don't see", 'start': 1637.679, 'duration': 3.841}
+{'text': "why like as a utilitarian you shouldn't", 'start': 1639.679, 'duration': 3.521}
+{'text': 'even care about current consciousness at', 'start': 1641.52, 'duration': 2.0}
+{'text': 'all', 'start': 1643.2, 'duration': 1.76}
+{'text': 'well i mean i can explain it again for a', 'start': 1643.52, 'duration': 3.36}
+{'text': 'third time so as a utilitarian the', 'start': 1644.96, 'duration': 3.199}
+{'text': 'reason why i care about conscious', 'start': 1646.88, 'duration': 2.64}
+{'text': 'experience is because i have a conscious', 'start': 1648.159, 'duration': 2.481}
+{'text': 'experience and i want that conscious', 'start': 1649.52, 'duration': 2.399}
+{'text': "experience to be protected i don't have", 'start': 1650.64, 'duration': 2.56}
+{'text': 'a way to buy other people into the', 'start': 1651.919, 'duration': 2.801}
+{'text': 'concept of protecting my experience', 'start': 1653.2, 'duration': 2.8}
+{'text': "their experiences aren't protected", 'start': 1654.72, 'duration': 3.36}
+{'text': 'so we create like a system of rules', 'start': 1656.0, 'duration': 3.44}
+{'text': "oftentimes it's called government", 'start': 1658.08, 'duration': 2.8}
+{'text': 'and what we do is we use these set of', 'start': 1659.44, 'duration': 3.2}
+{'text': 'rules to enforce on each other a mutual', 'start': 1660.88, 'duration': 3.36}
+{'text': "respect or protection for other people's", 'start': 1662.64, 'duration': 2.72}
+{'text': 'like assertive preferences', 'start': 1664.24, 'duration': 2.559}
+{'text': 'so the reason why i provide you', 'start': 1665.36, 'duration': 2.48}
+{'text': "conscious experience because i don't", 'start': 1666.799, 'duration': 2.961}
+{'text': 'want mine to be destroyed yes', 'start': 1667.84, 'duration': 3.04}
+{'text': "yeah obviously we're going to disagree", 'start': 1669.76, 'duration': 2.32}
+{'text': 'on the fundamental role of government i', 'start': 1670.88, 'duration': 2.399}
+{'text': 'would just say you know to protect', 'start': 1672.08, 'duration': 2.4}
+{'text': "people's rights", 'start': 1673.279, 'duration': 2.321}
+{'text': "you don't think the feast is personal", 'start': 1674.48, 'duration': 2.079}
+{'text': "therefore it doesn't have rights but you", 'start': 1675.6, 'duration': 2.079}
+{'text': 'know to protect the rights', 'start': 1676.559, 'duration': 4.081}
+{'text': 'the people is that fair um i think so', 'start': 1677.679, 'duration': 5.12}
+{'text': 'they cut it a little bit but probably', 'start': 1680.64, 'duration': 3.84}
+{'text': 'oh okay hold on one second let me see if', 'start': 1682.799, 'duration': 3.441}
+{'text': 'i can move', 'start': 1684.48, 'duration': 4.559}
+{'text': 'but yeah okay so if um abortion being', 'start': 1686.24, 'duration': 5.2}
+{'text': 'illegal right would maximize utility you', 'start': 1689.039, 'duration': 3.281}
+{'text': 'would say abortion', 'start': 1691.44, 'duration': 3.92}
+{'text': 'could be illegal if abortion being', 'start': 1692.32, 'duration': 6.239}
+{'text': 'illegal would make everybody better', 'start': 1695.36, 'duration': 6.16}
+{'text': 'yeah i guess so sure okay so i have a', 'start': 1698.559, 'duration': 4.401}
+{'text': 'couple things here because', 'start': 1701.52, 'duration': 2.96}
+{'text': "i don't know how you make this like", 'start': 1702.96, 'duration': 4.4}
+{'text': 'subjective value judgment for utility', 'start': 1704.48, 'duration': 6.24}
+{'text': 'so i mean it kind of like depends like i', 'start': 1707.36, 'duration': 5.36}
+{'text': 'guess if we had like a criminal mother', 'start': 1710.72, 'duration': 4.0}
+{'text': 'and she had a child i think most people', 'start': 1712.72, 'duration': 3.36}
+{'text': 'would reasonably value the child more', 'start': 1714.72, 'duration': 2.4}
+{'text': "than the mother that's going to spend", 'start': 1716.08, 'duration': 2.479}
+{'text': 'the rest of her life in jail', 'start': 1717.12, 'duration': 3.76}
+{'text': 'um but how do you about like determine', 'start': 1718.559, 'duration': 3.6}
+{'text': "what you value and what's going to", 'start': 1720.88, 'duration': 3.519}
+{'text': 'produce the most utility', 'start': 1722.159, 'duration': 4.321}
+{'text': "um i don't get hardcore lost into the", 'start': 1724.399, 'duration': 3.201}
+{'text': 'you into what', 'start': 1726.48, 'duration': 2.88}
+{'text': 'has the most utils or whatever um', 'start': 1727.6, 'duration': 3.12}
+{'text': 'basically the way that i approach this', 'start': 1729.36, 'duration': 1.76}
+{'text': 'is', 'start': 1730.72, 'duration': 2.4}
+{'text': 'everybody has some assertive preferences', 'start': 1731.12, 'duration': 3.279}
+{'text': "um we ought to respect each other's", 'start': 1733.12, 'duration': 1.919}
+{'text': 'preferences', 'start': 1734.399, 'duration': 2.0}
+{'text': 'humans tend to work better in groups and', 'start': 1735.039, 'duration': 2.561}
+{'text': 'together with each other so we all kind', 'start': 1736.399, 'duration': 2.081}
+{'text': 'of like have this', 'start': 1737.6, 'duration': 2.16}
+{'text': 'big social contract where we work', 'start': 1738.48, 'duration': 2.48}
+{'text': "together to reciprocate each other's", 'start': 1739.76, 'duration': 2.56}
+{'text': 'values and preferences and then we build', 'start': 1740.96, 'duration': 2.959}
+{'text': 'and we work things and blah blah blah i', 'start': 1742.32, 'duration': 2.479}
+{'text': "don't know how far down you want to run", 'start': 1743.919, 'duration': 2.801}
+{'text': 'with that but', 'start': 1744.799, 'duration': 4.721}
+{'text': 'um i mean yeah i mean so can you like', 'start': 1746.72, 'duration': 4.72}
+{'text': 'show me how abortion would not', 'start': 1749.52, 'duration': 4.8}
+{'text': 'maximize i mean abortion being a legal', 'start': 1751.44, 'duration': 4.4}
+{'text': 'would because if abortion is illegal', 'start': 1754.32, 'duration': 2.64}
+{'text': "you've taken something that is a", 'start': 1755.84, 'duration': 2.4}
+{'text': 'conscious agent that might state a', 'start': 1756.96, 'duration': 2.4}
+{'text': "preference that it doesn't want", 'start': 1758.24, 'duration': 2.72}
+{'text': 'something living in its body and that', 'start': 1759.36, 'duration': 1.919}
+{'text': 'thing', 'start': 1760.96, 'duration': 1.92}
+{'text': "doesn't even have preferences or have a", 'start': 1761.279, 'duration': 3.361}
+{'text': 'constitution have a conscious experience', 'start': 1762.88, 'duration': 2.08}
+{'text': 'yet', 'start': 1764.64, 'duration': 2.32}
+{'text': "so i don't see how i can demand that", 'start': 1764.96, 'duration': 3.92}
+{'text': 'person wait until that thing', 'start': 1766.96, 'duration': 3.199}
+{'text': "grows to a state where now they can't", 'start': 1768.88, 'duration': 2.48}
+{'text': 'get rid of the responsibility or now', 'start': 1770.159, 'duration': 2.321}
+{'text': "they can't have an abortion", 'start': 1771.36, 'duration': 2.0}
+{'text': 'even though there was nothing that', 'start': 1772.48, 'duration': 2.559}
+{'text': 'existed before so turning women', 'start': 1773.36, 'duration': 3.439}
+{'text': 'basically into live incubators i think', 'start': 1775.039, 'duration': 3.441}
+{'text': 'is immoral when the thing that is being', 'start': 1776.799, 'duration': 2.801}
+{'text': "incubated doesn't even have an", 'start': 1778.48, 'duration': 1.6}
+{'text': 'experience', 'start': 1779.6, 'duration': 3.52}
+{'text': "to speak of oh yeah so again like let's", 'start': 1780.08, 'duration': 4.319}
+{'text': 'say the future consciousness of the', 'start': 1783.12, 'duration': 2.32}
+{'text': 'fetus and the happiness', 'start': 1784.399, 'duration': 2.481}
+{'text': 'they could endure and provide for others', 'start': 1785.44, 'duration': 2.64}
+{'text': "would outweigh the mother's happiness", 'start': 1786.88, 'duration': 4.32}
+{'text': "that they can't get an abortion", 'start': 1788.08, 'duration': 3.12}
+{'text': "that's like an impossible measure like", 'start': 1791.919, 'duration': 2.561}
+{'text': 'it could grow up to be hitler it could', 'start': 1793.36, 'duration': 2.4}
+{'text': "grow up to be mozart like there's no way", 'start': 1794.48, 'duration': 2.24}
+{'text': 'to know that right', 'start': 1795.76, 'duration': 2.32}
+{'text': "and the value judgment you're making is", 'start': 1796.72, 'duration': 2.8}
+{'text': "quite impossible too because you don't", 'start': 1798.08, 'duration': 2.8}
+{'text': 'know the potential of the fetus because', 'start': 1799.52, 'duration': 2.8}
+{'text': "you're not giving it the ability to so", 'start': 1800.88, 'duration': 2.64}
+{'text': "you can't even know if it matches my", 'start': 1802.32, 'duration': 2.239}
+{'text': 'hostility or not', 'start': 1803.52, 'duration': 2.0}
+{'text': "because you're cutting off that", 'start': 1804.559, 'duration': 2.72}
+{'text': 'preference right there so the problem is', 'start': 1805.52, 'duration': 2.96}
+{'text': "that like we're kind of running around", 'start': 1807.279, 'duration': 2.721}
+{'text': 'in circles but i have no reason', 'start': 1808.48, 'duration': 3.28}
+{'text': 'whatsoever to value the', 'start': 1810.0, 'duration': 3.52}
+{'text': 'pa the potentiality of something', 'start': 1811.76, 'duration': 3.76}
+{'text': 'existing the potentiality of something', 'start': 1813.52, 'duration': 2.48}
+{'text': 'existing', 'start': 1815.52, 'duration': 2.0}
+{'text': "is not that thing existing that's not", 'start': 1816.0, 'duration': 3.2}
+{'text': "that's not the case and literally any", 'start': 1817.52, 'duration': 2.159}
+{'text': 'other thing', 'start': 1819.2, 'duration': 1.839}
+{'text': 'if we see like a bunch of bricks we', 'start': 1819.679, 'duration': 3.041}
+{'text': "wouldn't say that's a potential building", 'start': 1821.039, 'duration': 3.841}
+{'text': 'or if we see like a few drops of water', 'start': 1822.72, 'duration': 3.92}
+{'text': "like oh that's a potential like we don't", 'start': 1824.88, 'duration': 3.12}
+{'text': 'feel like potentially like that like', 'start': 1826.64, 'duration': 2.399}
+{'text': 'like there might be a potential for', 'start': 1828.0, 'duration': 2.24}
+{'text': "something that's not the same thing as", 'start': 1829.039, 'duration': 2.721}
+{'text': 'the thing itself like when a zygote', 'start': 1830.24, 'duration': 2.96}
+{'text': 'forms and it falls as well yeah like it', 'start': 1831.76, 'duration': 2.96}
+{'text': 'will eventually develop a consciousness', 'start': 1833.2, 'duration': 2.719}
+{'text': "but it hasn't developed a conscious", 'start': 1834.72, 'duration': 1.839}
+{'text': 'experience yet', 'start': 1835.919, 'duration': 1.841}
+{'text': "like there's a difference between the", 'start': 1836.559, 'duration': 2.48}
+{'text': 'development of a thing and having that', 'start': 1837.76, 'duration': 2.799}
+{'text': 'thing versus like just', 'start': 1839.039, 'duration': 2.64}
+{'text': 'like being on the way to that thing', 'start': 1840.559, 'duration': 4.0}
+{'text': 'these are two different things', 'start': 1841.679, 'duration': 2.88}
+{'text': 'wait wait so what was the thing you said', 'start': 1844.799, 'duration': 3.36}
+{'text': "because i heard you say you can't know", 'start': 1846.559, 'duration': 4.0}
+{'text': "what was that part well it's weird to", 'start': 1848.159, 'duration': 3.201}
+{'text': 'say that like well', 'start': 1850.559, 'duration': 2.161}
+{'text': "a baby could grow and you don't know if", 'start': 1851.36, 'duration': 2.319}
+{'text': "it's going to be positive or negative", 'start': 1852.72, 'duration': 2.4}
+{'text': "utility like that's always a mystery we", 'start': 1853.679, 'duration': 2.641}
+{'text': "don't know that ever we don't know what", 'start': 1855.12, 'duration': 2.48}
+{'text': 'babies in the government', 'start': 1856.32, 'duration': 3.12}
+{'text': "oh yeah i mean like you can't make most", 'start': 1857.6, 'duration': 3.199}
+{'text': 'like utility judgments at least from', 'start': 1859.44, 'duration': 2.64}
+{'text': 'your perspective in general', 'start': 1860.799, 'duration': 3.681}
+{'text': 'so i think that it would be almost', 'start': 1862.08, 'duration': 3.92}
+{'text': 'strange to be able to say', 'start': 1864.48, 'duration': 2.88}
+{'text': 'that we should make abortion illegal', 'start': 1866.0, 'duration': 2.399}
+{'text': 'because at this present moment it', 'start': 1867.36, 'duration': 2.48}
+{'text': 'produced the most utility but the whole', 'start': 1868.399, 'duration': 2.64}
+{'text': "principle of utility is we're going to", 'start': 1869.84, 'duration': 3.12}
+{'text': 'do whatever would maximize utility so', 'start': 1871.039, 'duration': 3.201}
+{'text': "you're willing to violate bodily", 'start': 1872.96, 'duration': 2.48}
+{'text': "timing you're willing to violate", 'start': 1874.24, 'duration': 2.4}
+{'text': 'consciousness in order to maximize your', 'start': 1875.44, 'duration': 2.56}
+{'text': "utility like that's your whole ethical", 'start': 1876.64, 'duration': 4.08}
+{'text': 'framework yeah i mean depending on what', 'start': 1878.0, 'duration': 4.24}
+{'text': "we're talking about sure", 'start': 1880.72, 'duration': 3.439}
+{'text': "i mean yeah so you're willing to violate", 'start': 1882.24, 'duration': 3.12}
+{'text': 'this principle that you hold for', 'start': 1884.159, 'duration': 2.721}
+{'text': 'standard overall consideration', 'start': 1885.36, 'duration': 4.319}
+{'text': 'of um consciousness in order to you know', 'start': 1886.88, 'duration': 4.08}
+{'text': 'adhere to your ethical framework of', 'start': 1889.679, 'duration': 2.961}
+{'text': 'utilitarianism so if it produces the', 'start': 1890.96, 'duration': 3.28}
+{'text': 'most utility which you can or cannot', 'start': 1892.64, 'duration': 1.919}
+{'text': 'know', 'start': 1894.24, 'duration': 1.52}
+{'text': 'and you are willing to violate you know', 'start': 1894.559, 'duration': 2.321}
+{'text': 'the state of current consciousness in', 'start': 1895.76, 'duration': 2.56}
+{'text': 'order to arrive to this decision', 'start': 1896.88, 'duration': 2.799}
+{'text': 'would you or would you not make abortion', 'start': 1898.32, 'duration': 3.28}
+{'text': "illegal yeah it's possible but", 'start': 1899.679, 'duration': 3.6}
+{'text': "the problem is that i can't conceive of", 'start': 1901.6, 'duration': 3.6}
+{'text': 'an area where abortion all of a sudden', 'start': 1903.279, 'duration': 3.361}
+{'text': 'becomes like illegal based on what', 'start': 1905.2, 'duration': 2.64}
+{'text': "you're talking about so when you say oh", 'start': 1906.64, 'duration': 2.72}
+{'text': 'would you violate autonomy', 'start': 1907.84, 'duration': 3.04}
+{'text': "um because you're a utilitarian well", 'start': 1909.36, 'duration': 2.72}
+{'text': 'sure if you could show me for instance', 'start': 1910.88, 'duration': 1.76}
+{'text': 'that like', 'start': 1912.08, 'duration': 2.319}
+{'text': 'killing like ellie and the last of us', 'start': 1912.64, 'duration': 3.44}
+{'text': 'you know gives people a cure to free', 'start': 1914.399, 'duration': 2.88}
+{'text': 'everybody from being a zombie', 'start': 1916.08, 'duration': 2.64}
+{'text': 'okay sure i can see the argument there', 'start': 1917.279, 'duration': 2.64}
+{'text': "but that's not the same that's not the", 'start': 1918.72, 'duration': 2.88}
+{'text': 'same as arguing the potentiality of a', 'start': 1919.919, 'duration': 3.041}
+{'text': "life that doesn't even exist yet like", 'start': 1921.6, 'duration': 2.72}
+{'text': 'these two things are holy', 'start': 1922.96, 'duration': 3.199}
+{'text': "yeah i don't i don't see why it's not", 'start': 1924.32, 'duration': 2.8}
+{'text': "the same because you're willing to", 'start': 1926.159, 'duration': 2.4}
+{'text': 'violate principles in order to produce', 'start': 1927.12, 'duration': 2.96}
+{'text': 'the most utility you set the standard', 'start': 1928.559, 'duration': 2.561}
+{'text': 'you set the principle', 'start': 1930.08, 'duration': 2.719}
+{'text': "of potentiality not mattering so you'd", 'start': 1931.12, 'duration': 3.12}
+{'text': 'be willing to violate that principle in', 'start': 1932.799, 'duration': 3.12}
+{'text': 'order to produce the most utility', 'start': 1934.24, 'duration': 3.439}
+{'text': 'i i would be willing to violate it', 'start': 1935.919, 'duration': 2.88}
+{'text': "because it's not a quote unquote it's", 'start': 1937.679, 'duration': 2.88}
+{'text': 'not a deontological principle but you', 'start': 1938.799, 'duration': 3.36}
+{'text': "haven't given me a single reason to", 'start': 1940.559, 'duration': 3.12}
+{'text': "violate it that's the thing you've given", 'start': 1942.159, 'duration': 2.88}
+{'text': 'me no reason to value', 'start': 1943.679, 'duration': 3.041}
+{'text': "the potentiality of life all you've done", 'start': 1945.039, 'duration': 3.041}
+{'text': 'is restart my mortal system i mean that', 'start': 1946.72, 'duration': 2.64}
+{'text': 'like oh well hold on would you do', 'start': 1948.08, 'duration': 2.479}
+{'text': 'something if it would maximize like the', 'start': 1949.36, 'duration': 2.08}
+{'text': 'outcomes of the world well yeah of', 'start': 1950.559, 'duration': 1.921}
+{'text': "course i would that's literally my", 'start': 1951.44, 'duration': 2.239}
+{'text': 'normative framework yeah', 'start': 1952.48, 'duration': 2.72}
+{'text': 'but like just saying that like well now', 'start': 1953.679, 'duration': 2.88}
+{'text': "we're gonna make all abortion legal i", 'start': 1955.2, 'duration': 2.24}
+{'text': "don't see how that", 'start': 1956.559, 'duration': 2.401}
+{'text': 'possibly increases the utility', 'start': 1957.44, 'duration': 2.88}
+{'text': "everywhere now every woman that's forced", 'start': 1958.96, 'duration': 2.48}
+{'text': "to deliver a child that doesn't want to", 'start': 1960.32, 'duration': 2.719}
+{'text': 'is like miserable for it women are going', 'start': 1961.44, 'duration': 2.8}
+{'text': 'to feel like their bodies are being made', 'start': 1963.039, 'duration': 2.961}
+{'text': 'to be incubators', 'start': 1964.24, 'duration': 2.88}
+{'text': "that's exactly what i'm saying is that", 'start': 1966.0, 'duration': 2.799}
+{'text': 'your whole ethical position is literally', 'start': 1967.12, 'duration': 3.439}
+{'text': "arbitrary because you're saying that", 'start': 1968.799, 'duration': 3.6}
+{'text': "you we're assigning this value judgment", 'start': 1970.559, 'duration': 3.041}
+{'text': 'at the current moment', 'start': 1972.399, 'duration': 3.201}
+{'text': 'when we see that making abortion illegal', 'start': 1973.6, 'duration': 3.36}
+{'text': 'at least in your case right is', 'start': 1975.6, 'duration': 3.52}
+{'text': "maximizing utility now you're not even", 'start': 1976.96, 'duration': 3.36}
+{'text': 'allowing the other', 'start': 1979.12, 'duration': 2.799}
+{'text': "part to exist even though you're willing", 'start': 1980.32, 'duration': 3.359}
+{'text': "to violate potentiality that's my", 'start': 1981.919, 'duration': 2.401}
+{'text': 'argument', 'start': 1983.679, 'duration': 2.641}
+{'text': "there's this you're using phrases that", 'start': 1984.32, 'duration': 3.28}
+{'text': "are meaningless i don't know what it", 'start': 1986.32, 'duration': 3.52}
+{'text': "means to violate potentiality i don't", 'start': 1987.6, 'duration': 4.4}
+{'text': 'think that phrase means anything', 'start': 1989.84, 'duration': 3.839}
+{'text': 'you are willing to care about', 'start': 1992.0, 'duration': 3.36}
+{'text': 'potentiality if', 'start': 1993.679, 'duration': 4.641}
+{'text': "it would maximize utility and you can't", 'start': 1995.36, 'duration': 3.52}
+{'text': 'know', 'start': 1998.32, 'duration': 2.719}
+{'text': 'if it will maximize utility so do you', 'start': 1998.88, 'duration': 3.919}
+{'text': 'see how arbitrary your principles are', 'start': 2001.039, 'duration': 4.24}
+{'text': 'okay so in terms of whether my stuff is', 'start': 2002.799, 'duration': 4.24}
+{'text': "arbitrary i mean as an anti-realist i'll", 'start': 2005.279, 'duration': 3.12}
+{'text': 'accept some level of that but of course', 'start': 2007.039, 'duration': 2.88}
+{'text': "i'm going to argue the same for your", 'start': 2008.399, 'duration': 2.88}
+{'text': 'positions as well i just say that you', 'start': 2009.919, 'duration': 2.561}
+{'text': "won't recognize it", 'start': 2011.279, 'duration': 2.561}
+{'text': 'well i i would say i would say that', 'start': 2012.48, 'duration': 4.0}
+{'text': "you're well the valuing of potentiality", 'start': 2013.84, 'duration': 4.64}
+{'text': "i don't think that that makes any sense", 'start': 2016.48, 'duration': 4.48}
+{'text': "like i i it just isn't it doesn't it", 'start': 2018.48, 'duration': 3.6}
+{'text': "doesn't make sense to value the", 'start': 2020.96, 'duration': 2.319}
+{'text': 'potential of something you would value', 'start': 2022.08, 'duration': 3.12}
+{'text': 'the thing itself', 'start': 2023.279, 'duration': 4.161}
+{'text': 'i i mean again like it goes back to', 'start': 2025.2, 'duration': 3.76}
+{'text': 'human sepsis for the moment of', 'start': 2027.44, 'duration': 3.28}
+{'text': "conception there's a causal change to", 'start': 2028.96, 'duration': 3.839}
+{'text': 'make something a rational being', 'start': 2030.72, 'duration': 3.6}
+{'text': 'and let it act upon its values an', 'start': 2032.799, 'duration': 3.441}
+{'text': 'abortion is killing you know', 'start': 2034.32, 'duration': 3.12}
+{'text': "whether or not it's conscious it's", 'start': 2036.24, 'duration': 3.439}
+{'text': 'killing something before it can act on', 'start': 2037.44, 'duration': 3.599}
+{'text': 'its values', 'start': 2039.679, 'duration': 3.441}
+{'text': "can you think of i'm just curious in the", 'start': 2041.039, 'duration': 3.76}
+{'text': 'terms of potentiality can you think of a', 'start': 2043.12, 'duration': 3.6}
+{'text': 'single other thing where this would hold', 'start': 2044.799, 'duration': 3.521}
+{'text': 'so like for instance the mona lisa', 'start': 2046.72, 'duration': 3.52}
+{'text': 'painting if i would have spilled', 'start': 2048.32, 'duration': 4.0}
+{'text': 'all of the paints before before you did', 'start': 2050.24, 'duration': 3.599}
+{'text': 'that painting does that count as like', 'start': 2052.32, 'duration': 3.44}
+{'text': 'destroying the mona lisa or like', 'start': 2053.839, 'duration': 4.721}
+{'text': 'wait wait wait if you had what if i', 'start': 2055.76, 'duration': 3.919}
+{'text': 'stored', 'start': 2058.56, 'duration': 3.039}
+{'text': 'if i if i so if we take like the mona', 'start': 2059.679, 'duration': 3.521}
+{'text': 'lisa okay', 'start': 2061.599, 'duration': 4.32}
+{'text': "if i would dump out all of da vinci's", 'start': 2063.2, 'duration': 3.28}
+{'text': 'paints', 'start': 2065.919, 'duration': 2.321}
+{'text': 'okay before he like painted the mona', 'start': 2066.48, 'duration': 3.599}
+{'text': 'lisa would you say that like i destroyed', 'start': 2068.24, 'duration': 4.24}
+{'text': 'the mona lisa', 'start': 2070.079, 'duration': 6.0}
+{'text': 'no wait did he paint it or no', 'start': 2072.48, 'duration': 6.8}
+{'text': "no he didn't end up painting it no but", 'start': 2076.079, 'duration': 4.32}
+{'text': 'all the parts were there he had the', 'start': 2079.28, 'duration': 2.319}
+{'text': 'paints he had the paintbrush he had the', 'start': 2080.399, 'duration': 2.48}
+{'text': 'canvas', 'start': 2081.599, 'duration': 2.881}
+{'text': 'it was going to become the mona lisa', 'start': 2082.879, 'duration': 4.0}
+{'text': 'hold on wait hold on so you prevented', 'start': 2084.48, 'duration': 3.76}
+{'text': "wait hold on because i'm gonna explain", 'start': 2086.879, 'duration': 2.72}
+{'text': 'how this is just now guess with abortion', 'start': 2088.24, 'duration': 2.8}
+{'text': "but i'll go into like my ethics first", 'start': 2089.599, 'duration': 2.881}
+{'text': 'but like this would first of all', 'start': 2091.04, 'duration': 3.599}
+{'text': 'just be that you a violated his property', 'start': 2092.48, 'duration': 3.199}
+{'text': 'rights b', 'start': 2094.639, 'duration': 2.72}
+{'text': 'it would just be that you destroyed', 'start': 2095.679, 'duration': 4.001}
+{'text': 'something that was you know', 'start': 2097.359, 'duration': 4.161}
+{'text': 'that was being brought up into existence', 'start': 2099.68, 'duration': 3.52}
+{'text': "so i don't see how that would", 'start': 2101.52, 'duration': 3.12}
+{'text': 'i totally agree i agree with exactly', 'start': 2103.2, 'duration': 2.48}
+{'text': 'what you said there when you have an', 'start': 2104.64, 'duration': 2.8}
+{'text': "abortion you're destroying whatever", 'start': 2105.68, 'duration': 3.76}
+{'text': "exists there the zygote or however it's", 'start': 2107.44, 'duration': 3.36}
+{'text': 'developed since then the fetus yeah but', 'start': 2109.44, 'duration': 2.639}
+{'text': "it's not a human life yet it's not the", 'start': 2110.8, 'duration': 2.799}
+{'text': 'mona lisa yet', 'start': 2112.079, 'duration': 2.801}
+{'text': "there's like a process where it becomes", 'start': 2113.599, 'duration': 3.361}
+{'text': 'something well it is i mean', 'start': 2114.88, 'duration': 4.16}
+{'text': "it's human life if you want to dispute", 'start': 2116.96, 'duration': 3.92}
+{'text': 'this point we can get into that', 'start': 2119.04, 'duration': 3.76}
+{'text': 'um but i mean the question is is it a', 'start': 2120.88, 'duration': 3.84}
+{'text': 'person because i mean everybody kind of', 'start': 2122.8, 'duration': 3.68}
+{'text': 'agrees that some moment of conception', 'start': 2124.72, 'duration': 3.28}
+{'text': "it's a life", 'start': 2126.48, 'duration': 3.76}
+{'text': "sure but what i'm saying is that that", 'start': 2128.0, 'duration': 3.599}
+{'text': 'moment of consciousness', 'start': 2130.24, 'duration': 3.839}
+{'text': 'is comparable to like the mona lisa to', 'start': 2131.599, 'duration': 4.081}
+{'text': 'where you can have all the parts for it', 'start': 2134.079, 'duration': 2.321}
+{'text': 'you can have all the', 'start': 2135.68, 'duration': 1.919}
+{'text': 'you can have the canvas you can have the', 'start': 2136.4, 'duration': 3.28}
+{'text': 'paints but if i were to like tip over', 'start': 2137.599, 'duration': 2.721}
+{'text': 'the paints', 'start': 2139.68, 'duration': 2.08}
+{'text': "or destroy the canvas you wouldn't say", 'start': 2140.32, 'duration': 3.6}
+{'text': "oh my god you've killed the mona lisa", 'start': 2141.76, 'duration': 3.599}
+{'text': "you've gotten rid of the mona lisa wait", 'start': 2143.92, 'duration': 2.72}
+{'text': 'hold on wait this is kind of the', 'start': 2145.359, 'duration': 2.561}
+{'text': 'difference between active and passive', 'start': 2146.64, 'duration': 2.4}
+{'text': 'potential again because', 'start': 2147.92, 'duration': 2.88}
+{'text': 'as you start painting the mona lisa', 'start': 2149.04, 'duration': 3.039}
+{'text': 'right as the fetus', 'start': 2150.8, 'duration': 3.279}
+{'text': 'is you know begins into conception being', 'start': 2152.079, 'duration': 3.921}
+{'text': 'a zygote when the egg in the sperm meet', 'start': 2154.079, 'duration': 3.52}
+{'text': 'that is active potential that is when', 'start': 2156.0, 'duration': 3.119}
+{'text': 'that brush has been picked up and you', 'start': 2157.599, 'duration': 2.801}
+{'text': 'start the painting', 'start': 2159.119, 'duration': 2.561}
+{'text': "now what you're describing is passive", 'start': 2160.4, 'duration': 3.28}
+{'text': 'potential so if i were to like use', 'start': 2161.68, 'duration': 3.84}
+{'text': 'um for example like birth control you', 'start': 2163.68, 'duration': 3.04}
+{'text': 'know that would stop an egg from being', 'start': 2165.52, 'duration': 2.8}
+{'text': 'fertilized', 'start': 2166.72, 'duration': 3.84}
+{'text': 'some birth control some birth control', 'start': 2168.32, 'duration': 3.68}
+{'text': "some birth control doesn't some", 'start': 2170.56, 'duration': 2.72}
+{'text': 'birth control in your world would be', 'start': 2172.0, 'duration': 3.04}
+{'text': 'considered murder but', 'start': 2173.28, 'duration': 4.319}
+{'text': 'i i mean a birth control as in like you', 'start': 2175.04, 'duration': 4.16}
+{'text': 'know pre taken to sex', 'start': 2177.599, 'duration': 3.201}
+{'text': 'usually stops an egg from being able to', 'start': 2179.2, 'duration': 2.96}
+{'text': 'be fertilized my understanding is that', 'start': 2180.8, 'duration': 2.96}
+{'text': "there's a lot of oral contraception", 'start': 2182.16, 'duration': 3.04}
+{'text': 'where what it does is it allows the egg', 'start': 2183.76, 'duration': 2.72}
+{'text': "to be fertilized but it doesn't let the", 'start': 2185.2, 'duration': 2.72}
+{'text': "egg catch and it'll just basically be", 'start': 2186.48, 'duration': 2.639}
+{'text': 'like', 'start': 2187.92, 'duration': 2.56}
+{'text': 'ejected from the body even if it does', 'start': 2189.119, 'duration': 2.401}
+{'text': "get fertilized it's still possible to", 'start': 2190.48, 'duration': 2.96}
+{'text': "fertilize an egg it'll just never like", 'start': 2191.52, 'duration': 4.48}
+{'text': 'which would be a murder in your world so', 'start': 2193.44, 'duration': 5.399}
+{'text': "what you'd be describing is just passive", 'start': 2196.0, 'duration': 5.839}
+{'text': 'potentiality', 'start': 2198.839, 'duration': 3.0}
+{'text': 'this artist has the passive potential to', 'start': 2202.72, 'duration': 3.04}
+{'text': 'paint this painting but once that', 'start': 2204.4, 'duration': 2.88}
+{'text': 'process has started and you interrupt', 'start': 2205.76, 'duration': 4.8}
+{'text': "that you're initiating force that's it", 'start': 2207.28, 'duration': 5.36}
+{'text': "okay let's say that you find a like a", 'start': 2210.56, 'duration': 3.2}
+{'text': 'sapling i guess', 'start': 2212.64, 'duration': 2.8}
+{'text': 'and you pick it out of the ground is', 'start': 2213.76, 'duration': 3.28}
+{'text': 'that the same as destroying a tree if it', 'start': 2215.44, 'duration': 4.32}
+{'text': 'would have grown into a tree', 'start': 2217.04, 'duration': 5.36}
+{'text': 'like you mean like a seed like yeah like', 'start': 2219.76, 'duration': 3.04}
+{'text': 'a little', 'start': 2222.4, 'duration': 2.8}
+{'text': "and it's sprouted but yeah i mean yeah", 'start': 2222.8, 'duration': 3.92}
+{'text': 'like if the thing was sprouted it was', 'start': 2225.2, 'duration': 3.52}
+{'text': 'continuing to sprout you know obviously', 'start': 2226.72, 'duration': 4.48}
+{'text': "it hadn't reached its maximum potential", 'start': 2228.72, 'duration': 3.92}
+{'text': 'but yeah', 'start': 2231.2, 'duration': 3.12}
+{'text': 'quite literally it is the substance of', 'start': 2232.64, 'duration': 3.439}
+{'text': 'the tree that you would be destroying', 'start': 2234.32, 'duration': 3.6}
+{'text': 'okay you when you say when you say', 'start': 2236.079, 'duration': 3.52}
+{'text': "substance of you you realize you're kind", 'start': 2237.92, 'duration': 3.28}
+{'text': 'of begging the question right like', 'start': 2239.599, 'duration': 3.601}
+{'text': "because you're defining substance yeah i", 'start': 2241.2, 'duration': 3.68}
+{'text': 'understand', 'start': 2243.2, 'duration': 3.52}
+{'text': 'sure i understand but like like i would', 'start': 2244.88, 'duration': 3.12}
+{'text': 'argue that i could have a similar', 'start': 2246.72, 'duration': 2.32}
+{'text': 'framework excuse but i would just say', 'start': 2248.0, 'duration': 1.92}
+{'text': 'the substance of', 'start': 2249.04, 'duration': 2.16}
+{'text': "isn't created until the conscious", 'start': 2249.92, 'duration': 3.679}
+{'text': 'experience forms right i mean yeah sure', 'start': 2251.2, 'duration': 3.84}
+{'text': 'you argued the same thing with existence', 'start': 2253.599, 'duration': 2.721}
+{'text': 'and i can do that but again i already', 'start': 2255.04, 'duration': 2.24}
+{'text': 'went into like what i meant by a', 'start': 2256.32, 'duration': 2.08}
+{'text': 'substance at the very beginning', 'start': 2257.28, 'duration': 3.12}
+{'text': 'but back to the whole tree thing if you', 'start': 2258.4, 'duration': 4.0}
+{'text': 'go from the moment that the nutrients', 'start': 2260.4, 'duration': 4.0}
+{'text': 'like need water in order to form the', 'start': 2262.4, 'duration': 3.92}
+{'text': 'seed then yeah if you prevent nutrients', 'start': 2264.4, 'duration': 3.12}
+{'text': "from forming at all i would say that's", 'start': 2266.32, 'duration': 3.2}
+{'text': 'passive and you can do that 100', 'start': 2267.52, 'duration': 3.839}
+{'text': "but if you actually once it's the seed", 'start': 2269.52, 'duration': 3.2}
+{'text': 'you know starts growing that would be', 'start': 2271.359, 'duration': 3.361}
+{'text': 'active potentiality similar to a fetus', 'start': 2272.72, 'duration': 3.04}
+{'text': 'and yeah you would be', 'start': 2274.72, 'duration': 3.119}
+{'text': 'you know killing per se whatever you do', 'start': 2275.76, 'duration': 3.92}
+{'text': 'with it the tree if you', 'start': 2277.839, 'duration': 3.28}
+{'text': 'you know take that out of the ground or', 'start': 2279.68, 'duration': 3.04}
+{'text': 'whatever why should you care about the', 'start': 2281.119, 'duration': 3.041}
+{'text': 'difference between the passively active', 'start': 2282.72, 'duration': 2.399}
+{'text': 'here', 'start': 2284.16, 'duration': 3.28}
+{'text': 'okay yeah so again this is this is good', 'start': 2285.119, 'duration': 4.0}
+{'text': 'because this kind of gets into like', 'start': 2287.44, 'duration': 3.6}
+{'text': 'why you know where do we draw the line', 'start': 2289.119, 'duration': 3.441}
+{'text': 'with potentiality you know', 'start': 2291.04, 'duration': 3.12}
+{'text': 'um like i have the potential to go', 'start': 2292.56, 'duration': 3.36}
+{'text': "murder someone why can't i just be like", 'start': 2294.16, 'duration': 3.36}
+{'text': 'arrested right now you know because an', 'start': 2295.92, 'duration': 2.96}
+{'text': 'epistemic possibility', 'start': 2297.52, 'duration': 3.12}
+{'text': 'but we only value things from the moment', 'start': 2298.88, 'duration': 3.6}
+{'text': 'of conception and life when it begins as', 'start': 2300.64, 'duration': 2.959}
+{'text': 'a human substance', 'start': 2302.48, 'duration': 4.24}
+{'text': 'so a sperm is not a human right', 'start': 2303.599, 'duration': 6.161}
+{'text': 'like uh excuse me an egg is not a human', 'start': 2306.72, 'duration': 4.879}
+{'text': "well sure but we're not talking about", 'start': 2309.76, 'duration': 3.2}
+{'text': "we're not talking about what is a human", 'start': 2311.599, 'duration': 2.401}
+{'text': "we're talking about what is like a", 'start': 2312.96, 'duration': 2.56}
+{'text': 'person right you made that distinction', 'start': 2314.0, 'duration': 2.56}
+{'text': 'earlier', 'start': 2315.52, 'duration': 2.48}
+{'text': 'i mean i i would say my moment of', 'start': 2316.56, 'duration': 2.559}
+{'text': "conception it's a person but you're", 'start': 2318.0, 'duration': 1.599}
+{'text': 'obviously', 'start': 2319.119, 'duration': 2.24}
+{'text': 'disagreeing with that well when does it', 'start': 2319.599, 'duration': 3.52}
+{'text': "stop well okay so here's an interesting", 'start': 2321.359, 'duration': 2.401}
+{'text': 'question', 'start': 2323.119, 'duration': 1.681}
+{'text': 'you think that from the moment of', 'start': 2323.76, 'duration': 2.4}
+{'text': 'conception as a person when do you think', 'start': 2324.8, 'duration': 3.84}
+{'text': "it's no longer a person", 'start': 2326.16, 'duration': 6.0}
+{'text': "oh so let's say give the fetus comes out", 'start': 2328.64, 'duration': 5.28}
+{'text': "it's a newborn it's a toddler it's a", 'start': 2332.16, 'duration': 2.8}
+{'text': 'teenager', 'start': 2333.92, 'duration': 4.159}
+{'text': 'it grows up it dies and then yeah that', 'start': 2334.96, 'duration': 3.84}
+{'text': 'would be it', 'start': 2338.079, 'duration': 3.28}
+{'text': 'what is death though what does that mean', 'start': 2338.8, 'duration': 4.559}
+{'text': 'but death would be the absence of', 'start': 2341.359, 'duration': 2.881}
+{'text': 'potential', 'start': 2343.359, 'duration': 2.881}
+{'text': 'from if a person was about like a t-zero', 'start': 2344.24, 'duration': 3.28}
+{'text': 'this person is alive right', 'start': 2346.24, 'duration': 2.879}
+{'text': "and they're about to die in one second", 'start': 2347.52, 'duration': 3.599}
+{'text': 'they still have the potential up until', 'start': 2349.119, 'duration': 3.521}
+{'text': 'they do not have the potential and then', 'start': 2351.119, 'duration': 3.441}
+{'text': 'they would be considered dead', 'start': 2352.64, 'duration': 3.28}
+{'text': 'okay i feel like most people would just', 'start': 2354.56, 'duration': 2.799}
+{'text': 'say that death is when the conscious', 'start': 2355.92, 'duration': 2.64}
+{'text': 'experience ends but', 'start': 2357.359, 'duration': 4.0}
+{'text': 'okay i mean i mean yeah like that would', 'start': 2358.56, 'duration': 4.64}
+{'text': 'also be a corollary you know', 'start': 2361.359, 'duration': 3.281}
+{'text': 'well not a corollary i mean it would be', 'start': 2363.2, 'duration': 3.04}
+{'text': 'like that is the moment like you still', 'start': 2364.64, 'duration': 2.959}
+{'text': "have it's still a human the corpse is", 'start': 2366.24, 'duration': 2.8}
+{'text': "still a human but it doesn't have like", 'start': 2367.599, 'duration': 1.681}
+{'text': 'an', 'start': 2369.04, 'duration': 2.64}
+{'text': 'experience it could end and then resume', 'start': 2369.28, 'duration': 3.76}
+{'text': "so then that's why i make potential", 'start': 2371.68, 'duration': 1.84}
+{'text': 'clear', 'start': 2373.04, 'duration': 1.84}
+{'text': "is because it's not going to resume", 'start': 2373.52, 'duration': 3.839}
+{'text': 'right sure', 'start': 2374.88, 'duration': 4.719}
+{'text': "yeah i mean i feel like we've kind of", 'start': 2377.359, 'duration': 5.441}
+{'text': 'exhausted this', 'start': 2379.599, 'duration': 4.561}
+{'text': 'yeah do you how do you get around like', 'start': 2382.8, 'duration': 3.68}
+{'text': 'anti-natalist arguments', 'start': 2384.16, 'duration': 5.6}
+{'text': 'uh anti-natalist arguments uh those kind', 'start': 2386.48, 'duration': 5.04}
+{'text': 'of go into like the role of the fetus', 'start': 2389.76, 'duration': 3.68}
+{'text': "that's a trespasser", 'start': 2391.52, 'duration': 3.04}
+{'text': "well no i'm saying like let's say", 'start': 2393.44, 'duration': 2.48}
+{'text': "somebody says that if you're valuing the", 'start': 2394.56, 'duration': 3.12}
+{'text': 'potentiality for consciousness', 'start': 2395.92, 'duration': 3.36}
+{'text': "shouldn't you value that whether you", 'start': 2397.68, 'duration': 3.28}
+{'text': 'might be um subjecting it to potential', 'start': 2399.28, 'duration': 3.52}
+{'text': 'harms and therefore the creation of it', 'start': 2400.96, 'duration': 2.159}
+{'text': 'is', 'start': 2402.8, 'duration': 1.6}
+{'text': "in and of itself a moral because you're", 'start': 2403.119, 'duration': 2.401}
+{'text': 'subjecting something to potential harm', 'start': 2404.4, 'duration': 2.64}
+{'text': 'so that is consent', 'start': 2405.52, 'duration': 3.36}
+{'text': 'well i mean first of all subjecting', 'start': 2407.04, 'duration': 3.6}
+{'text': "something to potential harms isn't the", 'start': 2408.88, 'duration': 3.04}
+{'text': 'same as actually', 'start': 2410.64, 'duration': 3.04}
+{'text': "harming it it's like we would say it's", 'start': 2411.92, 'duration': 3.199}
+{'text': 'an initiation of force', 'start': 2413.68, 'duration': 3.84}
+{'text': 'to abort a zygote for example right no', 'start': 2415.119, 'duration': 3.761}
+{'text': "no i'm not talking about abortion i'm", 'start': 2417.52, 'duration': 2.319}
+{'text': 'talking about like', 'start': 2418.88, 'duration': 2.56}
+{'text': 'any trials or tribulations or suffering', 'start': 2419.839, 'duration': 3.361}
+{'text': 'it might have maybe you have a child in', 'start': 2421.44, 'duration': 4.399}
+{'text': 'it four years old against leukemia', 'start': 2423.2, 'duration': 4.56}
+{'text': 'oh okay like are you arguments like that', 'start': 2425.839, 'duration': 3.601}
+{'text': "so then that's when it kind of gets", 'start': 2427.76, 'duration': 4.0}
+{'text': 'into like rationality and force like', 'start': 2429.44, 'duration': 4.08}
+{'text': 'into a state of dependency so like', 'start': 2431.76, 'duration': 4.88}
+{'text': 'if i you know get a person and i type i', 'start': 2433.52, 'duration': 4.799}
+{'text': 'make them unconscious i put them on my', 'start': 2436.64, 'duration': 2.64}
+{'text': 'boat', 'start': 2438.319, 'duration': 2.321}
+{'text': "um and they don't obviously don't know", 'start': 2439.28, 'duration': 2.799}
+{'text': "they're there and when they wake up", 'start': 2440.64, 'duration': 3.12}
+{'text': "they'd be like subjected to", 'start': 2442.079, 'duration': 2.961}
+{'text': 'whatever i want to do them because', 'start': 2443.76, 'duration': 2.88}
+{'text': "they're on my property and that would be", 'start': 2445.04, 'duration': 3.12}
+{'text': 'kind of like bringing them into a state', 'start': 2446.64, 'duration': 1.92}
+{'text': 'of like', 'start': 2448.16, 'duration': 2.08}
+{'text': "violence but i kind of just don't see", 'start': 2448.56, 'duration': 3.039}
+{'text': "how that's relevant because", 'start': 2450.24, 'duration': 3.359}
+{'text': 'so the whole cause obligation yeah so', 'start': 2451.599, 'duration': 3.441}
+{'text': 'the relevance is that like if', 'start': 2453.599, 'duration': 4.161}
+{'text': 'so i so once something has a conscious', 'start': 2455.04, 'duration': 4.559}
+{'text': 'experience it ought to be protected and', 'start': 2457.76, 'duration': 2.8}
+{'text': 'then you ought to do what you can to', 'start': 2459.599, 'duration': 2.641}
+{'text': "provide for it that's my framework so in", 'start': 2460.56, 'duration': 2.88}
+{'text': 'your framework you seem to', 'start': 2462.24, 'duration': 4.56}
+{'text': 'yeah okay yeah', 'start': 2463.44, 'duration': 3.36}
+{'text': "well i'm not but i feel like if i i feel", 'start': 2468.24, 'duration': 3.28}
+{'text': 'like if i had your framework i feel like', 'start': 2470.079, 'duration': 2.641}
+{'text': 'i would be forced to be an antenatalist', 'start': 2471.52, 'duration': 2.0}
+{'text': "because if you're telling me that we", 'start': 2472.72, 'duration': 2.16}
+{'text': 'ought to value the potentiality of', 'start': 2473.52, 'duration': 2.24}
+{'text': 'something like that', 'start': 2474.88, 'duration': 2.959}
+{'text': 'then i would say well okay well the', 'start': 2475.76, 'duration': 3.92}
+{'text': 'moment a zygote is formed or maybe even', 'start': 2477.839, 'duration': 2.161}
+{'text': 'before', 'start': 2479.68, 'duration': 1.6}
+{'text': "that you've got like this potentiality", 'start': 2480.0, 'duration': 3.2}
+{'text': "for life to exist and even if we haven't", 'start': 2481.28, 'duration': 2.96}
+{'text': 'gotten to the point of it is existing', 'start': 2483.2, 'duration': 2.159}
+{'text': 'yet well now i need to consider like', 'start': 2484.24, 'duration': 2.32}
+{'text': 'what are the moral implications of me', 'start': 2485.359, 'duration': 2.161}
+{'text': 'bringing something like this into the', 'start': 2486.56, 'duration': 2.0}
+{'text': 'world', 'start': 2487.52, 'duration': 2.96}
+{'text': 'yeah first of all i would say that you', 'start': 2488.56, 'duration': 4.16}
+{'text': 'know it it does exist but then also', 'start': 2490.48, 'duration': 3.92}
+{'text': "you don't like that's why i wouldn't say", 'start': 2492.72, 'duration': 3.359}
+{'text': 'even a one-year-old even though it may', 'start': 2494.4, 'duration': 2.56}
+{'text': 'not be rational', 'start': 2496.079, 'duration': 2.161}
+{'text': 'um if a one-year-old needed these', 'start': 2496.96, 'duration': 2.879}
+{'text': 'medications and you had to give it to', 'start': 2498.24, 'duration': 2.48}
+{'text': 'them to survive', 'start': 2499.839, 'duration': 2.321}
+{'text': 'i would say yeah you would have to do so', 'start': 2500.72, 'duration': 3.359}
+{'text': 'because or else it would be negligence', 'start': 2502.16, 'duration': 3.76}
+{'text': "sure but that's because it already but", 'start': 2504.079, 'duration': 2.961}
+{'text': "that's because it already exists but", 'start': 2505.92, 'duration': 1.439}
+{'text': 'like', 'start': 2507.04, 'duration': 1.92}
+{'text': "do you think here's the question do you", 'start': 2507.359, 'duration': 3.521}
+{'text': 'think it would be immoral to give birth', 'start': 2508.96, 'duration': 2.56}
+{'text': 'to a child', 'start': 2510.88, 'duration': 1.68}
+{'text': 'if you knew it was gonna die at four', 'start': 2511.52, 'duration': 3.12}
+{'text': 'years old from leukemia', 'start': 2512.56, 'duration': 3.44}
+{'text': 'oh do i think it would be immoral to', 'start': 2514.64, 'duration': 3.12}
+{'text': 'give birth to it yeah', 'start': 2516.0, 'duration': 4.24}
+{'text': 'if if you knew if you knew so if you', 'start': 2517.76, 'duration': 3.599}
+{'text': 'like saying this is like saying why', 'start': 2520.24, 'duration': 2.56}
+{'text': "can't we go around killing people", 'start': 2521.359, 'duration': 2.641}
+{'text': "because they're going to die anyway", 'start': 2522.8, 'duration': 4.88}
+{'text': 'no no no no no we value active potential', 'start': 2524.0, 'duration': 5.28}
+{'text': 'not passive potential', 'start': 2527.68, 'duration': 3.84}
+{'text': 'so if you got pregnant and at day zero', 'start': 2529.28, 'duration': 4.319}
+{'text': "the moment you've got you've you've", 'start': 2531.52, 'duration': 3.599}
+{'text': "you're pregnant the moment that zygote", 'start': 2533.599, 'duration': 3.76}
+{'text': 'forms if a doctor told you um this baby', 'start': 2535.119, 'duration': 3.761}
+{'text': "is going to be born but it's going to", 'start': 2537.359, 'duration': 2.321}
+{'text': 'suffer and die', 'start': 2538.88, 'duration': 3.199}
+{'text': 'from leukemia at four years old you you', 'start': 2539.68, 'duration': 3.28}
+{'text': 'would still', 'start': 2542.079, 'duration': 2.24}
+{'text': 'go through with the pregnancy or you', 'start': 2542.96, 'duration': 2.32}
+{'text': 'would say somebody ought to go through', 'start': 2544.319, 'duration': 2.641}
+{'text': 'the pregnancy and everything again', 'start': 2545.28, 'duration': 3.6}
+{'text': 'absolutely because under my framework', 'start': 2546.96, 'duration': 3.68}
+{'text': "we're considering that a life", 'start': 2548.88, 'duration': 3.36}
+{'text': 'right and even in the if even if the', 'start': 2550.64, 'duration': 3.84}
+{'text': 'full ability for that human to', 'start': 2552.24, 'duration': 3.839}
+{'text': 'maximize the values is going to end at', 'start': 2554.48, 'duration': 3.119}
+{'text': 'four-year-olds so be it', 'start': 2556.079, 'duration': 2.721}
+{'text': "but we're not going to prevent it from", 'start': 2557.599, 'duration': 2.641}
+{'text': 'doing so by initiating force before that', 'start': 2558.8, 'duration': 2.0}
+{'text': 'happens', 'start': 2560.24, 'duration': 2.8}
+{'text': "like let's like if a 15 year old right", 'start': 2560.8, 'duration': 3.519}
+{'text': 'had some sort of condition and they knew', 'start': 2563.04, 'duration': 2.72}
+{'text': 'they were going to die in five years', 'start': 2564.319, 'duration': 3.201}
+{'text': "i wouldn't say let's say like you know i", 'start': 2565.76, 'duration': 2.72}
+{'text': "know you're going to say that conscious", 'start': 2567.52, 'duration': 2.4}
+{'text': "experience but it's the principle you", 'start': 2568.48, 'duration': 2.16}
+{'text': 'know like', 'start': 2569.92, 'duration': 2.159}
+{'text': "why are we valuing something now if it's", 'start': 2570.64, 'duration': 2.56}
+{'text': 'going to die later this is the whole', 'start': 2572.079, 'duration': 1.841}
+{'text': 'antenatal', 'start': 2573.2, 'duration': 2.24}
+{'text': "no but it's different because the 15", 'start': 2573.92, 'duration': 3.28}
+{'text': 'year old would already have a conscious', 'start': 2575.44, 'duration': 2.56}
+{'text': "experience they've", 'start': 2577.2, 'duration': 2.08}
+{'text': 'already begun but with the with the', 'start': 2578.0, 'duration': 2.88}
+{'text': 'fetus you could you could prevent that', 'start': 2579.28, 'duration': 3.28}
+{'text': 'suffering from ever occurring by having', 'start': 2580.88, 'duration': 2.959}
+{'text': 'the abortion before it even has a', 'start': 2582.56, 'duration': 2.24}
+{'text': 'conscious experience', 'start': 2583.839, 'duration': 2.721}
+{'text': "now you've totally forgotten that whole", 'start': 2584.8, 'duration': 3.279}
+{'text': 'life of suffering until it dies at four', 'start': 2586.56, 'duration': 2.799}
+{'text': 'years old from leukemia you just avoid', 'start': 2588.079, 'duration': 1.921}
+{'text': 'it completely', 'start': 2589.359, 'duration': 1.76}
+{'text': 'not by killing anything but by', 'start': 2590.0, 'duration': 2.64}
+{'text': 'preventing the the conscious experience', 'start': 2591.119, 'duration': 2.561}
+{'text': 'from even taking', 'start': 2592.64, 'duration': 2.88}
+{'text': 'form wait first of all wait i would say', 'start': 2593.68, 'duration': 3.12}
+{'text': 'it would be killing i know', 'start': 2595.52, 'duration': 2.64}
+{'text': 'i assume you know under my framework', 'start': 2596.8, 'duration': 3.12}
+{'text': 'that would be killing would you rather', 'start': 2598.16, 'duration': 3.199}
+{'text': 'okay so i understand killing but would', 'start': 2599.92, 'duration': 2.64}
+{'text': 'you at least would you at least agree', 'start': 2601.359, 'duration': 4.161}
+{'text': "that there's no suffering there", 'start': 2602.56, 'duration': 5.2}
+{'text': 'in killing something yeah first of all', 'start': 2605.52, 'duration': 3.28}
+{'text': 'first of all first of all', 'start': 2607.76, 'duration': 2.24}
+{'text': 'uh first of all even if the', 'start': 2608.8, 'duration': 2.72}
+{'text': "four-year-old did have leukemia it can't", 'start': 2610.0, 'duration': 2.8}
+{'text': 'make the rational decision', 'start': 2611.52, 'duration': 3.12}
+{'text': 'to kill itself but i think you and i can', 'start': 2612.8, 'duration': 3.2}
+{'text': "agree on that i'm fine with people", 'start': 2614.64, 'duration': 2.479}
+{'text': "choosing to kill themselves i don't", 'start': 2616.0, 'duration': 2.0}
+{'text': 'think four-year-olds should be able to', 'start': 2617.119, 'duration': 1.681}
+{'text': 'do so', 'start': 2618.0, 'duration': 2.72}
+{'text': "now same thing with the fetus it's not", 'start': 2618.8, 'duration': 3.6}
+{'text': 'rational at that moment right', 'start': 2620.72, 'duration': 5.119}
+{'text': "it's developing into its rationality so", 'start': 2622.4, 'duration': 5.28}
+{'text': "sure but i'm asking you if you have an", 'start': 2625.839, 'duration': 3.681}
+{'text': 'abortion or if you kill something that', 'start': 2627.68, 'duration': 2.88}
+{'text': 'is day zero', 'start': 2629.52, 'duration': 2.559}
+{'text': 'the zygote is formed is there any', 'start': 2630.56, 'duration': 3.759}
+{'text': 'suffering there', 'start': 2632.079, 'duration': 4.641}
+{'text': 'wait can you repeat that is there any', 'start': 2634.319, 'duration': 4.0}
+{'text': 'suffering that happens by aborting a', 'start': 2636.72, 'duration': 3.28}
+{'text': 'fetus that does not yet have a conscious', 'start': 2638.319, 'duration': 2.561}
+{'text': 'experience', 'start': 2640.0, 'duration': 3.28}
+{'text': "my standard wouldn't be suffering yeah", 'start': 2640.88, 'duration': 3.92}
+{'text': "but i'm just i'm just i know i know", 'start': 2643.28, 'duration': 2.72}
+{'text': "you're not saying that i'm just asking", 'start': 2644.8, 'duration': 2.48}
+{'text': 'if there is suffering there', 'start': 2646.0, 'duration': 3.92}
+{'text': "i mean i wait suffering like it's kind", 'start': 2647.28, 'duration': 3.68}
+{'text': 'of subjective', 'start': 2649.92, 'duration': 3.04}
+{'text': 'like the mother could feel traumatic', 'start': 2650.96, 'duration': 3.6}
+{'text': "suffering no i'm not talking about the", 'start': 2652.96, 'duration': 2.96}
+{'text': "mother i'm talking about on behalf of", 'start': 2654.56, 'duration': 3.039}
+{'text': 'the fetus is there suffering there when', 'start': 2655.92, 'duration': 2.96}
+{'text': 'you abort something', 'start': 2657.599, 'duration': 3.921}
+{'text': 'before it has a conscious experience i', 'start': 2658.88, 'duration': 5.04}
+{'text': 'mean as in it feels pain', 'start': 2661.52, 'duration': 3.839}
+{'text': 'sure whatever you think suffering is', 'start': 2663.92, 'duration': 3.28}
+{'text': 'feel pain okay so', 'start': 2665.359, 'duration': 4.401}
+{'text': "why would you say so why is there's no", 'start': 2667.2, 'duration': 3.84}
+{'text': 'so why is it that you would have', 'start': 2669.76, 'duration': 1.839}
+{'text': 'something', 'start': 2671.04, 'duration': 2.799}
+{'text': "that it hasn't even been able to form an", 'start': 2671.599, 'duration': 3.121}
+{'text': 'experience yet', 'start': 2673.839, 'duration': 2.48}
+{'text': "and you know it's going to have a great", 'start': 2674.72, 'duration': 3.119}
+{'text': 'deal of suffering if it grows up and has', 'start': 2676.319, 'duration': 2.961}
+{'text': 'leukemia foreign dies', 'start': 2677.839, 'duration': 2.561}
+{'text': 'if you could do something that would', 'start': 2679.28, 'duration': 2.0}
+{'text': 'prevent that from happening that would', 'start': 2680.4, 'duration': 2.48}
+{'text': 'avoid all suffering whatsoever', 'start': 2681.28, 'duration': 3.839}
+{'text': "right again i'm going to outline this", 'start': 2682.88, 'duration': 3.439}
+{'text': 'here right', 'start': 2685.119, 'duration': 3.441}
+{'text': 'past sentience when talking about', 'start': 2686.319, 'duration': 4.081}
+{'text': 'suffering here is going to be irrelevant', 'start': 2688.56, 'duration': 2.16}
+{'text': 'right', 'start': 2690.4, 'duration': 2.8}
+{'text': "because let's say you know at t0 this", 'start': 2690.72, 'duration': 4.16}
+{'text': 'person is in a coma they are under', 'start': 2693.2, 'duration': 2.96}
+{'text': 'general anesthesia', 'start': 2694.88, 'duration': 3.6}
+{'text': 'under this framework we would have to we', 'start': 2696.16, 'duration': 3.679}
+{'text': 'would be morally permissible to kill', 'start': 2698.48, 'duration': 1.92}
+{'text': 'them', 'start': 2699.839, 'duration': 2.081}
+{'text': 'right and the reason past consciousness', 'start': 2700.4, 'duration': 2.8}
+{'text': "doesn't matter is the principle that", 'start': 2701.92, 'duration': 2.48}
+{'text': "we're outlining here", 'start': 2703.2, 'duration': 3.52}
+{'text': 'is just anti-natalism in general so what', 'start': 2704.4, 'duration': 3.28}
+{'text': 'this means is that', 'start': 2706.72, 'duration': 2.72}
+{'text': 'do we do we ought to grant moral', 'start': 2707.68, 'duration': 3.2}
+{'text': 'consideration to something', 'start': 2709.44, 'duration': 3.04}
+{'text': "that doesn't ev that can't feel", 'start': 2710.88, 'duration': 2.959}
+{'text': "suffering like that's the principle", 'start': 2712.48, 'duration': 1.839}
+{'text': 'right', 'start': 2713.839, 'duration': 2.321}
+{'text': 'so regardless of past sentence if i', 'start': 2714.319, 'duration': 3.28}
+{'text': "can't feel suffering in that moment", 'start': 2716.16, 'duration': 2.88}
+{'text': "i would say no like that doesn't make it", 'start': 2717.599, 'duration': 2.72}
+{'text': 'morally permissible to kill it because', 'start': 2719.04, 'duration': 2.319}
+{'text': "of all these reductions that's", 'start': 2720.319, 'duration': 2.161}
+{'text': 'susceptible to yeah', 'start': 2721.359, 'duration': 2.561}
+{'text': 'i understand the redux but all of these', 'start': 2722.48, 'duration': 2.8}
+{'text': "are things we've already addressed like", 'start': 2723.92, 'duration': 2.48}
+{'text': 'with the comma thing like this is a', 'start': 2725.28, 'duration': 2.319}
+{'text': 'person if they come out of their comment', 'start': 2726.4, 'duration': 2.16}
+{'text': 'they could immediately kill themselves', 'start': 2727.599, 'duration': 2.321}
+{'text': "if they want to like they're there they", 'start': 2728.56, 'duration': 2.88}
+{'text': 'can assert that they want to hold on', 'start': 2729.92, 'duration': 2.88}
+{'text': "the principle we're outlining here is", 'start': 2731.44, 'duration': 2.639}
+{'text': "just suffering right we're not even", 'start': 2732.8, 'duration': 3.039}
+{'text': 'getting into personhood', 'start': 2734.079, 'duration': 3.76}
+{'text': 'sure yeah i only asked in the beginning', 'start': 2735.839, 'duration': 3.441}
+{'text': 'because i was just curious if you value', 'start': 2737.839, 'duration': 2.641}
+{'text': 'or care about avoiding suffering', 'start': 2739.28, 'duration': 2.4}
+{'text': 'whatsoever but it sounds like suffering', 'start': 2740.48, 'duration': 2.72}
+{'text': 'too is not relevant to any part of this', 'start': 2741.68, 'duration': 2.0}
+{'text': 'equation', 'start': 2743.2, 'duration': 2.24}
+{'text': 'no like i mean i could you know kill', 'start': 2743.68, 'duration': 2.8}
+{'text': "someone in their sleep and there'd be no", 'start': 2745.44, 'duration': 2.0}
+{'text': 'suffering', 'start': 2746.48, 'duration': 3.359}
+{'text': 'um per se depending on how you do it but', 'start': 2747.44, 'duration': 3.44}
+{'text': 'yeah i mean this just', 'start': 2749.839, 'duration': 2.561}
+{'text': "isn't a principle that makes sense so", 'start': 2750.88, 'duration': 3.52}
+{'text': "then let's say that there is a mother", 'start': 2752.4, 'duration': 3.12}
+{'text': "who's pregnant", 'start': 2754.4, 'duration': 3.28}
+{'text': "and let's say that um there's a 90", 'start': 2755.52, 'duration': 3.92}
+{'text': 'chance that she dies during childbirth', 'start': 2757.68, 'duration': 3.439}
+{'text': "there's a 100 chance that the baby will", 'start': 2759.44, 'duration': 3.44}
+{'text': 'live every single time do you think that', 'start': 2761.119, 'duration': 2.641}
+{'text': 'the mother', 'start': 2762.88, 'duration': 2.239}
+{'text': 'should always be forced to give birth', 'start': 2763.76, 'duration': 2.559}
+{'text': "even knowing that she's gonna die nine", 'start': 2765.119, 'duration': 3.041}
+{'text': 'times out of ten', 'start': 2766.319, 'duration': 4.081}
+{'text': "um yeah if it's not if it's not like", 'start': 2768.16, 'duration': 3.6}
+{'text': 'completely', 'start': 2770.4, 'duration': 3.04}
+{'text': 'if you if you said 10 out of 10 i would', 'start': 2771.76, 'duration': 3.04}
+{'text': 'say no', 'start': 2773.44, 'duration': 3.44}
+{'text': 'um but then 9 out of 10 yeah i would say', 'start': 2774.8, 'duration': 3.36}
+{'text': 'you have to give birth if defeated i', 'start': 2776.88, 'duration': 2.64}
+{'text': 'mean if you know that you said the fetus', 'start': 2778.16, 'duration': 1.919}
+{'text': 'was going to live', 'start': 2779.52, 'duration': 2.72}
+{'text': "so hmm okay yeah that's a world that", 'start': 2780.079, 'duration': 3.52}
+{'text': 'that my normative system would reject', 'start': 2782.24, 'duration': 2.56}
+{'text': 'those worlds wholesale because it would', 'start': 2783.599, 'duration': 1.601}
+{'text': 'be', 'start': 2784.8, 'duration': 2.559}
+{'text': 'a pretty horrible place like again i', 'start': 2785.2, 'duration': 3.52}
+{'text': "feel like we've exhausted this but it", 'start': 2787.359, 'duration': 3.281}
+{'text': 'was a good conversation for sure', 'start': 2788.72, 'duration': 3.84}
+{'text': 'okay all right well do you want to give', 'start': 2790.64, 'duration': 4.16}
+{'text': 'it final plug your stuff or', 'start': 2792.56, 'duration': 3.92}
+{'text': 'um well yeah i mean you can follow me on', 'start': 2794.8, 'duration': 4.4}
+{'text': "tick tock it's zombie.reasoning", 'start': 2796.48, 'duration': 4.72}
+{'text': "um i don't really do abortion that much", 'start': 2799.2, 'duration': 3.68}
+{'text': 'but i might get back on it but', 'start': 2801.2, 'duration': 2.96}
+{'text': 'yeah it was a good conversation thank', 'start': 2802.88, 'duration': 2.56}
+{'text': 'you for having me yeah thanks for the', 'start': 2804.16, 'duration': 1.84}
+{'text': 'conversation', 'start': 2805.44, 'duration': 2.96}
+{'text': 'bye why are you against abortion the', 'start': 2806.0, 'duration': 3.52}
+{'text': 'second trimester this is the prefrontal', 'start': 2808.4, 'duration': 1.76}
+{'text': 'cortex', 'start': 2809.52, 'duration': 2.16}
+{'text': 'my understanding is that right now the', 'start': 2810.16, 'duration': 3.36}
+{'text': 'the thought is that like um', 'start': 2811.68, 'duration': 4.159}
+{'text': "it's like 24 to 25 weeks is about when", 'start': 2813.52, 'duration': 4.0}
+{'text': 'we think like the brain parts are', 'start': 2815.839, 'duration': 3.041}
+{'text': 'necessary for', 'start': 2817.52, 'duration': 4.079}
+{'text': 'conscious experience yeah can you still', 'start': 2818.88, 'duration': 4.239}
+{'text': 'man your own abortion argument from', 'start': 2821.599, 'duration': 2.48}
+{'text': 'years ago', 'start': 2823.119, 'duration': 3.2}
+{'text': "um it's actually kind of similar to hers", 'start': 2824.079, 'duration': 4.0}
+{'text': 'i think that like the most consistent', 'start': 2826.319, 'duration': 3.201}
+{'text': 'definition for the start of life is when', 'start': 2828.079, 'duration': 2.721}
+{'text': 'the zygote forms', 'start': 2829.52, 'duration': 4.319}
+{'text': 'and then yeah', 'start': 2830.8, 'duration': 4.4}
+{'text': 'anything related to consciousness is', 'start': 2833.839, 'duration': 3.121}
+{'text': 'relatively arbitrary i', 'start': 2835.2, 'duration': 3.04}
+{'text': "i don't know if i've just done too much", 'start': 2836.96, 'duration': 2.96}
+{'text': 'too many drugs now or whatever but the', 'start': 2838.24, 'duration': 3.44}
+{'text': 'conscious experience part is', 'start': 2839.92, 'duration': 3.36}
+{'text': 'just feels more important to me now than', 'start': 2841.68, 'duration': 3.28}
+{'text': "it used to i don't know what an argument", 'start': 2843.28, 'duration': 2.72}
+{'text': 'between me and', 'start': 2844.96, 'duration': 2.159}
+{'text': 'you know me three years ago it looked', 'start': 2846.0, 'duration': 2.559}
+{'text': 'like but even three years ago i would', 'start': 2847.119, 'duration': 2.321}
+{'text': 'have said like', 'start': 2848.559, 'duration': 4.081}
+{'text': "i'm 49 51 you know", 'start': 2849.44, 'duration': 4.96}
+{'text': 'in favor of pro-life like even back then', 'start': 2852.64, 'duration': 3.52}
+{'text': 'it was like really tenuous so', 'start': 2854.4, 'duration': 4.56}
+{'text': "yeah it's not like i don't know if any", 'start': 2856.16, 'duration': 4.0}
+{'text': 'time and me and the internet maybe 10', 'start': 2858.96, 'duration': 2.32}
+{'text': 'years ago i would have been more firm', 'start': 2860.16, 'duration': 1.6}
+{'text': 'but like', 'start': 2861.28, 'duration': 1.52}
+{'text': "over the past like five years i've", 'start': 2861.76, 'duration': 2.72}
+{'text': "always been like oh i'm in the middle", 'start': 2862.8, 'duration': 4.72}
+{'text': "like i feel like it's gonna hurt you", 'start': 2864.48, 'duration': 4.48}
+{'text': "you used to say you didn't want a rule", 'start': 2867.52, 'duration': 2.48}
+{'text': "that would have made it so you couldn't", 'start': 2868.96, 'duration': 1.68}
+{'text': 'have been', 'start': 2870.0, 'duration': 1.76}
+{'text': 'say you could have been killed yeah that', 'start': 2870.64, 'duration': 2.64}
+{'text': 'is an argument but i think i would fight', 'start': 2871.76, 'duration': 2.0}
+{'text': 'that', 'start': 2873.28, 'duration': 1.839}
+{'text': 'saying that like i want to create a rule', 'start': 2873.76, 'duration': 2.559}
+{'text': 'that would have prevented me from not', 'start': 2875.119, 'duration': 2.401}
+{'text': "existing doesn't really make sense", 'start': 2876.319, 'duration': 2.561}
+{'text': "because i can't assert like", 'start': 2877.52, 'duration': 3.28}
+{'text': 'there might be millions of voices crying', 'start': 2878.88, 'duration': 3.439}
+{'text': "out right now against me that don't", 'start': 2880.8, 'duration': 2.88}
+{'text': 'exist yet like i just i think i would', 'start': 2882.319, 'duration': 2.8}
+{'text': 'attack the rationality of that statement', 'start': 2883.68, 'duration': 3.12}
+{'text': "like you can't assert a preference that", 'start': 2885.119, 'duration': 2.641}
+{'text': "doesn't", 'start': 2886.8, 'duration': 3.36}
+{'text': "that that you don't exist to assert so", 'start': 2887.76, 'duration': 5.28}
+{'text': 'like yeah', 'start': 2890.16, 'duration': 2.88}
+{'text': 'because technically in my head i', 'start': 2893.44, 'duration': 3.84}
+{'text': 'actually thought about this privately', 'start': 2895.599, 'duration': 3.52}
+{'text': "and i didn't have a good answer for it", 'start': 2897.28, 'duration': 3.039}
+{'text': "um i don't know if i ever brought this", 'start': 2899.119, 'duration': 1.921}
+{'text': 'up on stream', 'start': 2900.319, 'duration': 1.76}
+{'text': "because i don't always like to give", 'start': 2901.04, 'duration': 2.559}
+{'text': 'people slam dunk arguments against me', 'start': 2902.079, 'duration': 3.04}
+{'text': 'but one of my arguments used to be', 'start': 2903.599, 'duration': 3.281}
+{'text': "i wouldn't want abortion to be legal", 'start': 2905.119, 'duration': 3.281}
+{'text': 'because i extend similar protection to', 'start': 2906.88, 'duration': 2.0}
+{'text': 'people', 'start': 2908.4, 'duration': 2.8}
+{'text': 'if i would have been aborted i would', 'start': 2908.88, 'duration': 4.32}
+{'text': 'have never existed so therefore right i', 'start': 2911.2, 'duration': 3.52}
+{'text': 'would protect the life of a fetus', 'start': 2913.2, 'duration': 3.44}
+{'text': 'you can technically run that line back', 'start': 2914.72, 'duration': 3.599}
+{'text': 'though to a pretty arbitrary level', 'start': 2916.64, 'duration': 3.84}
+{'text': 'like i would never want contraception to', 'start': 2918.319, 'duration': 3.361}
+{'text': 'exist because my mom would have', 'start': 2920.48, 'duration': 2.879}
+{'text': 'contraception i would have that egg', 'start': 2921.68, 'duration': 2.72}
+{'text': "wouldn't have been fertilized and now i", 'start': 2923.359, 'duration': 2.0}
+{'text': "wouldn't exist right you could", 'start': 2924.4, 'duration': 2.08}
+{'text': 'technically run that back to an', 'start': 2925.359, 'duration': 2.801}
+{'text': 'arbitrary level and', 'start': 2926.48, 'duration': 3.2}
+{'text': "yeah i don't know to where like you", 'start': 2928.16, 'duration': 2.72}
+{'text': 'could use that argument today we should', 'start': 2929.68, 'duration': 3.2}
+{'text': 'maximally be producing as many babies', 'start': 2930.88, 'duration': 4.959}
+{'text': 'as possible constantly yeah okay love', 'start': 2932.88, 'duration': 4.0}
+{'text': 'you guys peace out', 'start': 2935.839, 'duration': 2.401}
+{'text': 'bye remember to hit that like and', 'start': 2936.88, 'duration': 2.479}
+{'text': "subscribe and don't forget the", 'start': 2938.24, 'duration': 2.879}
+{'text': 'notification bell so that my videos', 'start': 2939.359, 'duration': 5.041}
+{'text': 'show up right in your feed suvs just', 'start': 2941.119, 'duration': 7.921}
+{'text': 'glitch like crazy like i guess i win now', 'start': 2944.4, 'duration': 4.64}

@@ -1,0 +1,908 @@
+{'text': "they've created a pathological fear of a", 'start': 0.08, 'duration': 5.279}
+{'text': 'virus that should not be feared at this', 'start': 2.48, 'duration': 3.76}
+{'text': 'point', 'start': 5.359, 'duration': 3.2}
+{'text': 'by pretty much anybody other than people', 'start': 6.24, 'duration': 3.52}
+{'text': 'who are uniquely compromised', 'start': 8.559, 'duration': 3.841}
+{'text': 'immunocompromised or very very elderly', 'start': 9.76, 'duration': 5.52}
+{'text': 'now that the vaccines are available', 'start': 12.4, 'duration': 5.04}
+{'text': "weird it's over okay if the vaccines are", 'start': 15.28, 'duration': 3.04}
+{'text': 'available and you choose to get a', 'start': 17.44, 'duration': 1.919}
+{'text': "vaccine you shouldn't be worried if you", 'start': 18.32, 'duration': 2.24}
+{'text': "choose not to get a vaccine you're", 'start': 19.359, 'duration': 2.481}
+{'text': 'probably not getting vaccinated because', 'start': 20.56, 'duration': 3.04}
+{'text': "you're not particularly worried", 'start': 21.84, 'duration': 3.84}
+{'text': "okay so we're done but for a certain", 'start': 23.6, 'duration': 4.24}
+{'text': 'segment of the population', 'start': 25.68, 'duration': 3.919}
+{'text': 'the paranoia has set in and the paranoia', 'start': 27.84, 'duration': 3.12}
+{'text': 'will not leave and so you will get more', 'start': 29.599, 'duration': 3.841}
+{'text': "mandates why i don't know i just wish", 'start': 30.96, 'duration': 3.84}
+{'text': 'if you want to be like right leaning and', 'start': 33.44, 'duration': 3.2}
+{'text': 'not sounding a dumb like engage with the', 'start': 34.8, 'duration': 3.84}
+{'text': 'broader talking points right engage with', 'start': 36.64, 'duration': 3.68}
+{'text': "the fact that like we can't have", 'start': 38.64, 'duration': 2.88}
+{'text': 'millions of people getting sick', 'start': 40.32, 'duration': 2.559}
+{'text': 'simultaneously because our healthcare', 'start': 41.52, 'duration': 2.64}
+{'text': "system can't handle it that's just not", 'start': 42.879, 'duration': 2.321}
+{'text': 'how these health care systems are built', 'start': 44.16, 'duration': 2.96}
+{'text': 'like why not engage with the more like', 'start': 45.2, 'duration': 3.28}
+{'text': 'reasonable arguments rather than just', 'start': 47.12, 'duration': 3.52}
+{'text': 'like well only one percent will die', 'start': 48.48, 'duration': 3.84}
+{'text': "you'll get more attempts to cram down", 'start': 50.64, 'duration': 3.36}
+{'text': 'more attempts to control even though you', 'start': 52.32, 'duration': 2.879}
+{'text': 'now have the government openly admitting', 'start': 54.0, 'duration': 2.16}
+{'text': "you're not gonna be able to eradicate", 'start': 55.199, 'duration': 2.88}
+{'text': "this virus so then what's the purpose to", 'start': 56.16, 'duration': 4.0}
+{'text': "mark cuban he says that he's going to", 'start': 58.079, 'duration': 4.561}
+{'text': 'force his employees to be vaccinated if', 'start': 60.16, 'duration': 4.399}
+{'text': 'you work for me i require my my', 'start': 62.64, 'duration': 4.24}
+{'text': 'employees to be vaccinated um unless', 'start': 64.559, 'duration': 3.92}
+{'text': "there's a doctor's reason where they", 'start': 66.88, 'duration': 4.64}
+{'text': "can't be you know like you i don't want", 'start': 68.479, 'duration': 5.361}
+{'text': 'my kids to be at risk so you know the', 'start': 71.52, 'duration': 4.88}
+{'text': 'consequences of you not being vaccinated', 'start': 73.84, 'duration': 4.639}
+{'text': "is i'm not going to shut the [\xa0__\xa0] up i'm", 'start': 76.4, 'duration': 3.92}
+{'text': 'going to be in your mother here driving', 'start': 78.479, 'duration': 3.841}
+{'text': 'you mother crazy', 'start': 80.32, 'duration': 4.56}
+{'text': 'what a hero want to hear okay okay then', 'start': 82.32, 'duration': 5.04}
+{'text': 'uh all right', 'start': 84.88, 'duration': 3.44}
+{'text': 'all right', 'start': 87.36, 'duration': 2.32}
+{'text': 'this is a way i just want to play video', 'start': 88.32, 'duration': 2.96}
+{'text': 'games', 'start': 89.68, 'duration': 3.28}
+{'text': 'ben shapiro should have no problem with', 'start': 91.28, 'duration': 3.6}
+{'text': 'this okay mark cuban is a private', 'start': 92.96, 'duration': 2.96}
+{'text': 'business owner if a private business', 'start': 94.88, 'duration': 2.879}
+{'text': 'owner wants to regulate this okay you', 'start': 95.92, 'duration': 3.36}
+{'text': 'you celebrate and champion the [\xa0__\xa0] out', 'start': 97.759, 'duration': 2.4}
+{'text': 'of private business probably if you', 'start': 99.28, 'duration': 1.92}
+{'text': "don't like it go work somewhere else", 'start': 100.159, 'duration': 2.801}
+{'text': 'this is your talking point okay you', 'start': 101.2, 'duration': 3.199}
+{'text': "can't get mad at some business owners", 'start': 102.96, 'duration': 3.119}
+{'text': "saying he's gonna force his employees to", 'start': 104.399, 'duration': 3.601}
+{'text': 'get vaccinated because your answer is', 'start': 106.079, 'duration': 3.121}
+{'text': 'well the free market should solve for', 'start': 108.0, 'duration': 2.72}
+{'text': 'this someone else will make a job where', 'start': 109.2, 'duration': 2.879}
+{'text': "you don't have to be vaccinated like why", 'start': 110.72, 'duration': 2.88}
+{'text': "like that you shouldn't care at all", 'start': 112.079, 'duration': 2.881}
+{'text': 'about this you should be celebrating', 'start': 113.6, 'duration': 3.6}
+{'text': "mark cuban's right to to you know", 'start': 114.96, 'duration': 3.519}
+{'text': 'regulate his workplace in a different', 'start': 117.2, 'duration': 2.48}
+{'text': 'way and you just happen to disagree with', 'start': 118.479, 'duration': 2.64}
+{'text': "it that's fine", 'start': 119.68, 'duration': 3.439}
+{'text': 'one problem your kids are not at risk', 'start': 121.119, 'duration': 2.801}
+{'text': 'mark', 'start': 123.119, 'duration': 2.561}
+{'text': "your kids aren't at risk the total", 'start': 123.92, 'duration': 3.68}
+{'text': 'number of children in the united states', 'start': 125.68, 'duration': 3.04}
+{'text': 'who have died over the course of this', 'start': 127.6, 'duration': 3.84}
+{'text': 'pandemic with covet 19 not just from', 'start': 128.72, 'duration': 5.68}
+{'text': 'with is under 600', 'start': 131.44, 'duration': 4.64}
+{'text': 'during that same time total number of', 'start': 134.4, 'duration': 3.76}
+{'text': 'kids died from pneumonia closer to a', 'start': 136.08, 'duration': 3.76}
+{'text': 'thousand', 'start': 138.16, 'duration': 3.2}
+{'text': 'according to dr marty mccary from johns', 'start': 139.84, 'duration': 3.36}
+{'text': 'hopkins university total number of kids', 'start': 141.36, 'duration': 4.16}
+{'text': 'total in the united states who have died', 'start': 143.2, 'duration': 4.0}
+{'text': 'from cover 19 without a significant', 'start': 145.52, 'duration': 3.2}
+{'text': 'pre-existing condition is someone he', 'start': 147.2, 'duration': 2.72}
+{'text': 'said this on the show last week is', 'start': 148.72, 'duration': 3.92}
+{'text': 'somewhere between 10 and 20.', 'start': 149.92, 'duration': 4.399}
+{'text': '10 and 20.', 'start': 152.64, 'duration': 4.0}
+{'text': 'okay you also have to stop saying this', 'start': 154.319, 'duration': 4.321}
+{'text': 'stop saying without a pre-existing', 'start': 156.64, 'duration': 5.2}
+{'text': 'condition bro pre-existing condition for', 'start': 158.64, 'duration': 3.92}
+{'text': 'for', 'start': 161.84, 'duration': 3.44}
+{'text': 'um covered 19 can be obesity why do', 'start': 162.56, 'duration': 4.08}
+{'text': 'people say like without pre-existing', 'start': 165.28, 'duration': 3.679}
+{'text': "conditions like they're so rare okay", 'start': 166.64, 'duration': 4.48}
+{'text': 'what percentage of america is obese', 'start': 168.959, 'duration': 5.601}
+{'text': 'percentage of america obesity', 'start': 171.12, 'duration': 5.04}
+{'text': "i was gonna say 60 70 but that's i think", 'start': 174.56, 'duration': 3.759}
+{'text': 'overweight 42.4 percent of america is', 'start': 176.16, 'duration': 3.28}
+{'text': 'obese', 'start': 178.319, 'duration': 2.961}
+{'text': 'the risk of severe copenhagen illness', 'start': 179.44, 'duration': 4.32}
+{'text': 'increases sharply with elevated bmi', 'start': 181.28, 'duration': 5.2}
+{'text': 'is there like an official category for', 'start': 183.76, 'duration': 5.839}
+{'text': 'like this is officially defined as a', 'start': 186.48, 'duration': 4.64}
+{'text': 'comorbidity', 'start': 189.599, 'duration': 3.041}
+{'text': 'people with excess weight even without', 'start': 191.12, 'duration': 3.199}
+{'text': 'other comorbidities', 'start': 192.64, 'duration': 3.04}
+{'text': 'obesity is the co-morbidity more', 'start': 194.319, 'duration': 2.881}
+{'text': 'strongly associated for cover 19 in', 'start': 195.68, 'duration': 3.68}
+{'text': 'mexico okay so like when you say like', 'start': 197.2, 'duration': 4.8}
+{'text': 'like without pre-existing conditions', 'start': 199.36, 'duration': 4.959}
+{'text': "you're like you're cutting off like 80", 'start': 202.0, 'duration': 4.319}
+{'text': 'of americans right because i think', 'start': 204.319, 'duration': 3.28}
+{'text': "diabetes might be one as well i don't", 'start': 206.319, 'duration': 2.401}
+{'text': 'know we should go and check all that', 'start': 207.599, 'duration': 3.121}
+{'text': "well actually let's just look at it", 'start': 208.72, 'duration': 4.48}
+{'text': "does age count as a comorbidity he's", 'start': 210.72, 'duration': 4.239}
+{'text': "talking about kids i'm pretty sure 80 of", 'start': 213.2, 'duration': 3.679}
+{'text': "kids don't have comorbidities sure and", 'start': 214.959, 'duration': 4.0}
+{'text': 'that might be the case but any time you', 'start': 216.879, 'duration': 4.401}
+{'text': 'utter the phrase these this many people', 'start': 218.959, 'duration': 5.2}
+{'text': 'have died with no comorbidities like why', 'start': 221.28, 'duration': 4.4}
+{'text': 'would you why would you phrase it that', 'start': 224.159, 'duration': 3.521}
+{'text': "way that's such a stupid way to phrase", 'start': 225.68, 'duration': 4.16}
+{'text': 'things right', 'start': 227.68, 'duration': 3.52}
+{'text': 'it was like when we watched that great a', 'start': 229.84, 'duration': 2.88}
+{'text': 'under video and the guy was like oh well', 'start': 231.2, 'duration': 3.119}
+{'text': 'you know like this is a disease but it', 'start': 232.72, 'duration': 3.439}
+{'text': 'mainly just targets people that have', 'start': 234.319, 'duration': 3.681}
+{'text': 'like pre-existing conditions and that', 'start': 236.159, 'duration': 5.121}
+{'text': "are very old if you're over 45 you are", 'start': 238.0, 'duration': 4.36}
+{'text': 'literally', 'start': 241.28, 'duration': 3.08}
+{'text': '[Music]', 'start': 242.36, 'duration': 4.599}
+{'text': '958 times more likely to die than', 'start': 244.36, 'duration': 5.56}
+{'text': "someone under 18. and if you're over 65", 'start': 246.959, 'duration': 4.961}
+{'text': "mate you're almost two and a half", 'start': 249.92, 'duration': 4.72}
+{'text': 'thousand times more likely to die', 'start': 251.92, 'duration': 6.4}
+{'text': 'oh my god yummy covid is an old people', 'start': 254.64, 'duration': 5.839}
+{'text': 'disease only three percent of all', 'start': 258.32, 'duration': 4.96}
+{'text': 'covered deaths are under 45. okay and', 'start': 260.479, 'duration': 4.72}
+{'text': 'again just to reiterate how kind of', 'start': 263.28, 'duration': 4.0}
+{'text': 'silly this sounds like like', 'start': 265.199, 'duration': 3.761}
+{'text': "if you're gonna go that way", 'start': 267.28, 'duration': 3.52}
+{'text': 'almost all diseases are old people', 'start': 268.96, 'duration': 2.959}
+{'text': 'diseases', 'start': 270.8, 'duration': 3.76}
+{'text': 'like diseases usually would kill old', 'start': 271.919, 'duration': 5.921}
+{'text': "people it's it is really hard when", 'start': 274.56, 'duration': 7.52}
+{'text': "you're in your 20s or 30s or even 40s to", 'start': 277.84, 'duration': 5.919}
+{'text': 'die because you get like a flu or', 'start': 282.08, 'duration': 3.76}
+{'text': "whatever like that's pretty that's some", 'start': 283.759, 'duration': 3.841}
+{'text': 'pretty crazy [\xa0__\xa0] like generally younger', 'start': 285.84, 'duration': 3.2}
+{'text': 'people you have to start getting like', 'start': 287.6, 'duration': 3.84}
+{'text': 'pretty old to like die of diseases', 'start': 289.04, 'duration': 3.439}
+{'text': 'generally', 'start': 291.44, 'duration': 2.56}
+{'text': "unless we've got some crazy like", 'start': 292.479, 'duration': 3.361}
+{'text': 'bacterial meningitis or whatever crazy', 'start': 294.0, 'duration': 2.96}
+{'text': '[\xa0__\xa0] or whatever like generally people', 'start': 295.84, 'duration': 2.88}
+{'text': "don't die of diseases when they're like", 'start': 296.96, 'duration': 5.2}
+{'text': 'below 50 years old you know', 'start': 298.72, 'duration': 3.44}
+{'text': "45's not even that young in the first", 'start': 303.039, 'duration': 4.241}
+{'text': 'place simulation time which means that', 'start': 304.72, 'duration': 5.36}
+{'text': 'over 838 that died from covered right', 'start': 307.28, 'duration': 4.88}
+{'text': 'unlucky boys the amount that we would', 'start': 310.08, 'duration': 6.399}
+{'text': 'expect to be younger than 45 is', 'start': 312.16, 'duration': 7.28}
+{'text': 'just 25 of them', 'start': 316.479, 'duration': 2.961}
+{'text': "rest in peace boys but let's analyze", 'start': 319.68, 'duration': 5.92}
+{'text': 'that remaining 25 one last time and see', 'start': 322.479, 'duration': 5.121}
+{'text': 'how many of them were already in [\xa0__\xa0]', 'start': 325.6, 'duration': 3.84}
+{'text': 'health to start with', 'start': 327.6, 'duration': 4.8}
+{'text': 'one two three four one so i looked down', 'start': 329.44, 'duration': 5.599}
+{'text': 'covered is deadly', 'start': 332.4, 'duration': 4.32}
+{'text': "okay i don't understand the point of any", 'start': 335.039, 'duration': 3.44}
+{'text': 'of this analysis this is going to be', 'start': 336.72, 'duration': 3.44}
+{'text': 'true for every single disease even if we', 'start': 338.479, 'duration': 4.321}
+{'text': "had a highly lethal disease it's still", 'start': 340.16, 'duration': 4.24}
+{'text': "going to kill older people more it's", 'start': 342.8, 'duration': 2.399}
+{'text': 'still going to kill people with', 'start': 344.4, 'duration': 3.2}
+{'text': 'pre-existing conditions more this this', 'start': 345.199, 'duration': 4.161}
+{'text': 'is going to be true for every single', 'start': 347.6, 'duration': 3.599}
+{'text': 'disease and then every disease that ever', 'start': 349.36, 'duration': 4.08}
+{'text': 'comes out ever like what is the name of', 'start': 351.199, 'duration': 4.801}
+{'text': 'the disease that targets young healthy', 'start': 353.44, 'duration': 3.599}
+{'text': 'people', 'start': 356.0, 'duration': 2.72}
+{'text': "congratulations that's literally every", 'start': 357.039, 'duration': 3.44}
+{'text': 'single disease ever', 'start': 358.72, 'duration': 2.8}
+{'text': 'um', 'start': 360.479, 'duration': 3.361}
+{'text': "that's all of them that's every disease", 'start': 361.52, 'duration': 4.399}
+{'text': "that's all the diseases all of the", 'start': 363.84, 'duration': 3.84}
+{'text': "diseases are like that and when they're", 'start': 365.919, 'duration': 3.921}
+{'text': "not like that it's a really big deal", 'start': 367.68, 'duration': 4.32}
+{'text': "i'm pretty sure obesity is a risk factor", 'start': 369.84, 'duration': 4.24}
+{'text': 'not a co-morbidity yeah it might be that', 'start': 372.0, 'duration': 3.36}
+{'text': 'because i think comorbidity might be', 'start': 374.08, 'duration': 3.28}
+{'text': 'defined as just a disease like having a', 'start': 375.36, 'duration': 4.32}
+{'text': "second disease a systematic review i'm", 'start': 377.36, 'duration': 4.08}
+{'text': 'sorry by review method defined and uh', 'start': 379.68, 'duration': 3.0}
+{'text': 'brief cancer', 'start': 381.44, 'duration': 2.96}
+{'text': 'cerebrovascular disease chronic kidney', 'start': 382.68, 'duration': 3.4}
+{'text': 'disease chronic lung disease chronic', 'start': 384.4, 'duration': 4.48}
+{'text': 'liver disease diabetes heart conditions', 'start': 386.08, 'duration': 4.559}
+{'text': 'mental health disorders', 'start': 388.88, 'duration': 2.64}
+{'text': 'weird', 'start': 390.639, 'duration': 2.881}
+{'text': 'obesity is listed here is obesity', 'start': 391.52, 'duration': 3.92}
+{'text': 'considered a disease', 'start': 393.52, 'duration': 5.679}
+{'text': 'is obesity a disease', 'start': 395.44, 'duration': 6.08}
+{'text': 'obesity is a complex disease involving', 'start': 399.199, 'duration': 4.161}
+{'text': 'an excessive amount of body fat oh', 'start': 401.52, 'duration': 3.36}
+{'text': 'interesting okay', 'start': 403.36, 'duration': 4.24}
+{'text': 'so then it can be co-morbidity right', 'start': 404.88, 'duration': 5.36}
+{'text': 'oh because smoking is listed here too', 'start': 407.6, 'duration': 4.879}
+{'text': 'interesting gotcha', 'start': 410.24, 'duration': 3.6}
+{'text': "and mark cuban is saying that he's going", 'start': 412.479, 'duration': 2.961}
+{'text': 'to yell at you and force you to get', 'start': 413.84, 'duration': 3.6}
+{'text': 'vaccinated be in your mfa year because', 'start': 415.44, 'duration': 3.44}
+{'text': 'his kids are at risk the only way you', 'start': 417.44, 'duration': 2.56}
+{'text': "can believe this is if you've been", 'start': 418.88, 'duration': 3.2}
+{'text': 'propagandized to democrats have put that', 'start': 420.0, 'duration': 3.599}
+{'text': 'propaganda out there for too long and', 'start': 422.08, 'duration': 3.679}
+{'text': 'now people are ensconced in it and when', 'start': 423.599, 'duration': 3.281}
+{'text': "they're called on it they have no", 'start': 425.759, 'duration': 2.481}
+{'text': 'response to it', 'start': 426.88, 'duration': 4.48}
+{'text': "so joe rogan who is i mean listen i'm", 'start': 428.24, 'duration': 4.56}
+{'text': "full disclosure i'm very friendly with", 'start': 431.36, 'duration': 4.0}
+{'text': "joe i think joe's great so joe head on", 'start': 432.8, 'duration': 4.959}
+{'text': 'sanjay gupta from cnn their medical', 'start': 435.36, 'duration': 4.399}
+{'text': 'expert over at cnn and it just went so', 'start': 437.759, 'duration': 3.84}
+{'text': 'poorly for gupta because if you are the', 'start': 439.759, 'duration': 3.121}
+{'text': 'public health expert over the last year', 'start': 441.599, 'duration': 2.561}
+{'text': "you look like a fool you've done a", 'start': 442.88, 'duration': 3.68}
+{'text': 'terrible job generally speaking so gupta', 'start': 444.16, 'duration': 3.84}
+{'text': 'was asked by rogan about children', 'start': 446.56, 'duration': 3.44}
+{'text': 'vaccine and rogan says something very', 'start': 448.0, 'duration': 3.84}
+{'text': "simple and what you're about to hear is", 'start': 450.0, 'duration': 3.36}
+{'text': 'a very simple logical point from rogan', 'start': 451.84, 'duration': 3.68}
+{'text': 'that gupta completely misses', 'start': 453.36, 'duration': 4.08}
+{'text': 'okay the argument against children', 'start': 455.52, 'duration': 4.0}
+{'text': 'getting vaccinated is that children', 'start': 457.44, 'duration': 3.0}
+{'text': 'already', 'start': 459.52, 'duration': 4.56}
+{'text': 'incredibly low incredibly low risk for', 'start': 460.44, 'duration': 5.159}
+{'text': 'like any serious complication anything', 'start': 464.08, 'duration': 3.76}
+{'text': 'bad happened with chronovirus and there', 'start': 465.599, 'duration': 4.32}
+{'text': 'probably are some side effects to the', 'start': 467.84, 'duration': 4.799}
+{'text': "vaccine they're incredibly rare but when", 'start': 469.919, 'duration': 4.321}
+{'text': "you're weighing the incredibly rare", 'start': 472.639, 'duration': 3.041}
+{'text': 'chance of a child to get seriously ill', 'start': 474.24, 'duration': 2.959}
+{'text': 'versus the incredibly rare side effect', 'start': 475.68, 'duration': 3.6}
+{'text': "of vaccine it's probably the day i don't", 'start': 477.199, 'duration': 3.84}
+{'text': "think they've approved vaccinations for", 'start': 479.28, 'duration': 5.12}
+{'text': "under 16 yet i don't think so", 'start': 481.039, 'duration': 5.6}
+{'text': "uh that's my understanding of it", 'start': 484.4, 'duration': 4.0}
+{'text': 'hey rogan says to him', 'start': 486.639, 'duration': 2.96}
+{'text': "so here's the deal sanjay you're", 'start': 488.4, 'duration': 2.56}
+{'text': 'vaccinated right', 'start': 489.599, 'duration': 2.72}
+{'text': "and guppy's like yeah he's like and you", 'start': 490.96, 'duration': 2.88}
+{'text': "don't feel afraid right he's just like", 'start': 492.319, 'duration': 3.44}
+{'text': "yeah he's like you're 51 right that was", 'start': 493.84, 'duration': 3.759}
+{'text': "like yeah it's like well um your chances", 'start': 495.759, 'duration': 3.201}
+{'text': 'of dying from kobe are still higher than', 'start': 497.599, 'duration': 3.28}
+{'text': 'that of a child so why are we supposed', 'start': 498.96, 'duration': 3.76}
+{'text': 'to be worried about kids', 'start': 500.879, 'duration': 3.121}
+{'text': 'should they be worried should they walk', 'start': 502.72, 'duration': 2.64}
+{'text': "you're not worried oh they are they", 'start': 504.0, 'duration': 4.0}
+{'text': 'approved for up to 12 now or or down to', 'start': 505.36, 'duration': 4.559}
+{'text': '12 now maybe they are toward a lower', 'start': 508.0, 'duration': 3.28}
+{'text': 'risk than you should their parents be', 'start': 509.919, 'duration': 2.721}
+{'text': 'worried', 'start': 511.28, 'duration': 2.879}
+{'text': "there is here's rogan", 'start': 512.64, 'duration': 3.44}
+{'text': 'from 12 division', 'start': 514.159, 'duration': 3.521}
+{'text': "your attitude that you're not worried", 'start': 516.08, 'duration': 4.079}
+{'text': "about catching it because you've been", 'start': 517.68, 'duration': 4.719}
+{'text': "vaccinated and you're a healthy guy that", 'start': 520.159, 'duration': 4.881}
+{'text': 'is the exact same feeling that people', 'start': 522.399, 'duration': 4.56}
+{'text': 'have about vaccinating their children if', 'start': 525.04, 'duration': 3.84}
+{'text': 'they have healthy children and they know', 'start': 526.959, 'duration': 4.641}
+{'text': "that statistically speaking there's so", 'start': 528.88, 'duration': 5.2}
+{'text': 'few children that have died from covet', 'start': 531.6, 'duration': 4.88}
+{'text': 'and again just you gotta stop talking', 'start': 534.08, 'duration': 6.319}
+{'text': "about it from dying okay it's so stupid", 'start': 536.48, 'duration': 5.52}
+{'text': "on the democrat side it's dumb when", 'start': 540.399, 'duration': 2.961}
+{'text': "you're like oh all your kids are gonna", 'start': 542.0, 'duration': 3.44}
+{'text': 'die oh or like that but then on the', 'start': 543.36, 'duration': 3.36}
+{'text': "republican side it's like oh well let's", 'start': 545.44, 'duration': 2.24}
+{'text': "just look at the death number it's so", 'start': 546.72, 'duration': 3.6}
+{'text': 'just such a dumb way to look at it right', 'start': 547.68, 'duration': 4.0}
+{'text': 'like a couple people in china brought', 'start': 550.32, 'duration': 2.959}
+{'text': 'this up this is true', 'start': 551.68, 'duration': 3.76}
+{'text': 'an argument in favor of vaccinating kids', 'start': 553.279, 'duration': 4.801}
+{'text': 'in school might not necessarily be that', 'start': 555.44, 'duration': 4.399}
+{'text': 'like we need to keep our kids from dying', 'start': 558.08, 'duration': 3.199}
+{'text': 'but it might just be that like if we', 'start': 559.839, 'duration': 3.12}
+{'text': "don't vaccinate then so many kids are", 'start': 561.279, 'duration': 2.881}
+{'text': 'going to get it and kids are like going', 'start': 562.959, 'duration': 2.241}
+{'text': 'to spread it to each other and the', 'start': 564.16, 'duration': 2.08}
+{'text': 'teachers are going to get sick and you', 'start': 565.2, 'duration': 2.8}
+{'text': 'have to close schools because teachers', 'start': 566.24, 'duration': 2.96}
+{'text': 'are out and getting sick right that', 'start': 568.0, 'duration': 3.36}
+{'text': 'might be like an argument in favor of um', 'start': 569.2, 'duration': 4.319}
+{'text': 'protecting uh vaccinating children right', 'start': 571.36, 'duration': 3.52}
+{'text': 'but stop trying to make it all about', 'start': 573.519, 'duration': 2.721}
+{'text': 'like are they dying or are they not', 'start': 574.88, 'duration': 3.76}
+{'text': "dying it's so stupid", 'start': 576.24, 'duration': 4.32}
+{'text': "there there are it's like i think 500 or", 'start': 578.64, 'duration': 2.639}
+{'text': 'so', 'start': 580.56, 'duration': 2.399}
+{'text': 'millions and millions and millions of', 'start': 581.279, 'duration': 3.361}
+{'text': 'kids that probably have been exposed', 'start': 582.959, 'duration': 4.721}
+{'text': "yeah and but you know it's again part of", 'start': 584.64, 'duration': 4.879}
+{'text': 'it is is not defining this in terms of', 'start': 587.68, 'duration': 4.88}
+{'text': 'life and death oh okay well okay okay', 'start': 589.519, 'duration': 4.481}
+{'text': "but by the way rogan didn't stop there", 'start': 592.56, 'duration': 2.959}
+{'text': "he also went after gupta because he's on", 'start': 594.0, 'duration': 3.68}
+{'text': 'cnn and he was like um so i took', 'start': 595.519, 'duration': 4.32}
+{'text': 'ivermectin and people kept saying on cnn', 'start': 597.68, 'duration': 3.92}
+{'text': 'that it was worse to warmer and uh you', 'start': 599.839, 'duration': 3.44}
+{'text': "guys are liars here's here's rogan just", 'start': 601.6, 'duration': 3.679}
+{'text': 'shellacking up to over it horse', 'start': 603.279, 'duration': 3.441}
+{'text': "dewormer's not a flattering thing i", 'start': 605.279, 'duration': 2.881}
+{'text': "guess it's a lie", 'start': 606.72, 'duration': 4.239}
+{'text': "it's a lie on a news network and it's a", 'start': 608.16, 'duration': 5.2}
+{'text': "lie that's a willing", 'start': 610.959, 'duration': 3.921}
+{'text': "that's that's a lie that they're", 'start': 613.36, 'duration': 4.4}
+{'text': "conscious of it's not a mistake yeah", 'start': 614.88, 'duration': 5.12}
+{'text': "they're unfavorably framing it as a", 'start': 617.76, 'duration': 4.48}
+{'text': "veterinary medicine don't you think that", 'start': 620.0, 'duration': 4.32}
+{'text': 'a lie like that is dangerous on a news', 'start': 622.24, 'duration': 3.52}
+{'text': 'network when you know that they know', 'start': 624.32, 'duration': 3.44}
+{'text': "they're lying the thing is we're we're", 'start': 625.76, 'duration': 3.84}
+{'text': "like going so fast like i feel like i'm", 'start': 627.76, 'duration': 5.28}
+{'text': "missing i'm missing i want", 'start': 629.6, 'duration': 3.44}
+{'text': 'my issue is the heart effects after', 'start': 640.64, 'duration': 3.439}
+{'text': "getting covered i've heard it really", 'start': 642.079, 'duration': 3.841}
+{'text': '[\xa0__\xa0] sucks uh it really [\xa0__\xa0] with', 'start': 644.079, 'duration': 3.041}
+{'text': 'your heart after seeing both my parents', 'start': 645.92, 'duration': 2.08}
+{'text': "go through their heart failure that's", 'start': 647.12, 'duration': 2.719}
+{'text': 'frightening to me um yeah i mean i think', 'start': 648.0, 'duration': 3.04}
+{'text': 'it can be', 'start': 649.839, 'duration': 2.401}
+{'text': 'um for all the complaints about', 'start': 651.04, 'duration': 2.88}
+{'text': "myocarditis with the vaccine which i'm", 'start': 652.24, 'duration': 3.2}
+{'text': 'pretty sure is still exceedingly rare', 'start': 653.92, 'duration': 3.12}
+{'text': "with the coronavirus i think it's like a", 'start': 655.44, 'duration': 3.76}
+{'text': 'much bigger concern', 'start': 657.04, 'duration': 3.44}
+{'text': 'yeah it turns out that our media are', 'start': 659.2, 'duration': 2.879}
+{'text': 'really really bad at their jobs okay but', 'start': 660.48, 'duration': 2.72}
+{'text': "here's the problem", 'start': 662.079, 'duration': 2.641}
+{'text': 'a lot of people trust that media a lot', 'start': 663.2, 'duration': 2.72}
+{'text': 'of people been listening to that media i', 'start': 664.72, 'duration': 2.559}
+{'text': "don't see how biden pulls out of the", 'start': 665.92, 'duration': 3.12}
+{'text': "economic talespin i don't i think that", 'start': 667.279, 'duration': 3.68}
+{'text': 'he has created a pathological paranoia', 'start': 669.04, 'duration': 3.2}
+{'text': 'and a significant percentage of the', 'start': 670.959, 'duration': 2.961}
+{'text': 'population i think there are people who', 'start': 672.24, 'duration': 3.12}
+{'text': 'are going to be wearing masks four years', 'start': 673.92, 'duration': 3.359}
+{'text': 'from now five years from now maybe', 'start': 675.36, 'duration': 4.0}
+{'text': "forever because they've been told that", 'start': 677.279, 'duration': 3.601}
+{'text': "the masks are protective it's become a", 'start': 679.36, 'duration': 3.84}
+{'text': 'security hey in asian cultures people', 'start': 680.88, 'duration': 4.48}
+{'text': "have always worn that it's like one of", 'start': 683.2, 'duration': 3.84}
+{'text': "the weirdest things if you well now it's", 'start': 685.36, 'duration': 2.88}
+{'text': 'not weird but like if you go to like', 'start': 687.04, 'duration': 3.12}
+{'text': '[\xa0__\xa0] south korea or japan or whatever', 'start': 688.24, 'duration': 3.44}
+{'text': "it's not uncommon to see people wearing", 'start': 690.16, 'duration': 3.119}
+{'text': 'masks in public areas sometimes because', 'start': 691.68, 'duration': 2.88}
+{'text': "they're sick or they have a cold or", 'start': 693.279, 'duration': 2.56}
+{'text': 'other times just because they do like', 'start': 694.56, 'duration': 2.8}
+{'text': "it's not like the most uncommon thing in", 'start': 695.839, 'duration': 3.521}
+{'text': 'the world now maybe in the western world', 'start': 697.36, 'duration': 3.84}
+{'text': "we'd never ever do that in the western", 'start': 699.36, 'duration': 4.4}
+{'text': 'world people will just go out', 'start': 701.2, 'duration': 4.0}
+{'text': 'and just be like coughing and sneezing', 'start': 703.76, 'duration': 3.68}
+{'text': 'all over [\xa0__\xa0] everything but', 'start': 705.2, 'duration': 3.6}
+{'text': "it's like not the end of the world why", 'start': 707.44, 'duration': 3.199}
+{'text': 'dude people like it i think the message', 'start': 708.8, 'duration': 4.24}
+{'text': 'of the last year truly is that for a new', 'start': 710.639, 'duration': 4.481}
+{'text': 'normal to set in does not take very long', 'start': 713.04, 'duration': 4.08}
+{'text': 'at all like at all', 'start': 715.12, 'duration': 3.44}
+{'text': 'i mean you do wonder over the course of', 'start': 717.12, 'duration': 2.32}
+{'text': 'human history there have been some', 'start': 718.56, 'duration': 2.32}
+{'text': 'pretty massive changes in how people', 'start': 719.44, 'duration': 3.519}
+{'text': 'live and you wonder how did people just', 'start': 720.88, 'duration': 4.079}
+{'text': 'accept that how do people just go along', 'start': 722.959, 'duration': 3.521}
+{'text': 'with it and suddenly they were living a', 'start': 724.959, 'duration': 2.88}
+{'text': 'completely different life than they were', 'start': 726.48, 'duration': 3.12}
+{'text': 'like five years ago', 'start': 727.839, 'duration': 3.12}
+{'text': 'and the answer is that the human brain', 'start': 729.6, 'duration': 2.799}
+{'text': 'is quite hold on', 'start': 730.959, 'duration': 3.12}
+{'text': 'this is a rumor that gets spread a lot', 'start': 732.399, 'duration': 3.12}
+{'text': "i've never seen it substantiated", 'start': 734.079, 'duration': 2.721}
+{'text': "anywhere and i feel like i've read the", 'start': 735.519, 'duration': 3.681}
+{'text': 'opposite your immune system is not a', 'start': 736.8, 'duration': 5.12}
+{'text': 'muscle that works out um casual exposure', 'start': 739.2, 'duration': 4.4}
+{'text': 'to germs does not make your immune', 'start': 741.92, 'duration': 3.359}
+{'text': 'system stronger', 'start': 743.6, 'duration': 2.479}
+{'text': 'now', 'start': 745.279, 'duration': 2.8}
+{'text': "one thing that i've heard is that", 'start': 746.079, 'duration': 3.921}
+{'text': 'exposure to a wide variety of', 'start': 748.079, 'duration': 4.56}
+{'text': 'environments as a child will give you a', 'start': 750.0, 'duration': 4.399}
+{'text': 'better chance at dealing with allergies', 'start': 752.639, 'duration': 4.081}
+{'text': 'growing up or not having allergies that', 'start': 754.399, 'duration': 4.081}
+{'text': "like if you're a kid going out and", 'start': 756.72, 'duration': 3.52}
+{'text': 'getting like a ton of different stimulus', 'start': 758.48, 'duration': 3.919}
+{'text': 'or whatever or it might even be not as a', 'start': 760.24, 'duration': 3.68}
+{'text': 'kid it might even be like under two it', 'start': 762.399, 'duration': 3.201}
+{'text': 'might be really young or whatever that', 'start': 763.92, 'duration': 2.719}
+{'text': 'like going out and being in those', 'start': 765.6, 'duration': 3.52}
+{'text': 'environments can help you with um', 'start': 766.639, 'duration': 4.561}
+{'text': 'with uh', 'start': 769.12, 'duration': 3.279}
+{'text': 'like not develop as many allergies', 'start': 771.2, 'duration': 3.28}
+{'text': 'growing up but like in terms of like oh', 'start': 772.399, 'duration': 3.44}
+{'text': "no like your immune system's not getting", 'start': 774.48, 'duration': 3.12}
+{'text': "practice that's not really how your", 'start': 775.839, 'duration': 2.8}
+{'text': "immune system works it's not like your", 'start': 777.6, 'duration': 2.32}
+{'text': 'antibodies like have muscles and they', 'start': 778.639, 'duration': 3.76}
+{'text': 'get stronger or whatever um like if', 'start': 779.92, 'duration': 4.4}
+{'text': "you're exposed to a particular pathogen", 'start': 782.399, 'duration': 3.361}
+{'text': "then you'll develop antibodies for that", 'start': 784.32, 'duration': 2.88}
+{'text': "particular pathogen and then you'll have", 'start': 785.76, 'duration': 3.44}
+{'text': "them but like it's not like being", 'start': 787.2, 'duration': 4.079}
+{'text': 'exposed to 30 other pathogens beforehand', 'start': 789.2, 'duration': 3.439}
+{'text': 'makes your like', 'start': 791.279, 'duration': 4.481}
+{'text': 'macrophages beefier or like your t cells', 'start': 792.639, 'duration': 6.481}
+{'text': 'have like longer memory or whatever um', 'start': 795.76, 'duration': 4.48}
+{'text': "like yeah yeah i've never seen that", 'start': 799.12, 'duration': 4.24}
+{'text': 'substantiated uh ever before', 'start': 800.24, 'duration': 4.24}
+{'text': 'so many people think their immune system', 'start': 803.36, 'duration': 2.32}
+{'text': 'became weaker because a lot of times', 'start': 804.48, 'duration': 2.32}
+{'text': 'yeah because people say that a lot', 'start': 805.68, 'duration': 3.04}
+{'text': "before i've even heard that as a kid", 'start': 806.8, 'duration': 3.52}
+{'text': 'people like oh yeah like eating stuff', 'start': 808.72, 'duration': 2.88}
+{'text': 'off the floor is okay sometimes you know', 'start': 810.32, 'duration': 3.04}
+{'text': 'your immune system needs practice but i', 'start': 811.6, 'duration': 2.96}
+{'text': "mean that's because we think about it", 'start': 813.36, 'duration': 2.88}
+{'text': 'like we think about it in terms of like', 'start': 814.56, 'duration': 2.959}
+{'text': 'well everything else we practice and it', 'start': 816.24, 'duration': 2.64}
+{'text': 'gets stronger and better whatever but i', 'start': 817.519, 'duration': 2.961}
+{'text': "don't think your immune system works the", 'start': 818.88, 'duration': 3.12}
+{'text': 'same way', 'start': 820.48, 'duration': 2.719}
+{'text': 'just curious if your immune system', 'start': 822.0, 'duration': 2.639}
+{'text': "doesn't improve with exposure why do", 'start': 823.199, 'duration': 2.561}
+{'text': 'people in a lot of rural communities', 'start': 824.639, 'duration': 2.32}
+{'text': 'have the ability to drink the water', 'start': 825.76, 'duration': 2.72}
+{'text': "there which we wouldn't", 'start': 826.959, 'duration': 3.601}
+{'text': "that's probably doesn't have to", 'start': 828.48, 'duration': 3.44}
+{'text': 'well hold on', 'start': 830.56, 'duration': 4.88}
+{'text': "you're okay let me be more precise okay", 'start': 831.92, 'duration': 5.919}
+{'text': 'your immune system', 'start': 835.44, 'duration': 4.32}
+{'text': 'will grow towards a', 'start': 837.839, 'duration': 4.081}
+{'text': 'specific pathogen if exposed to a', 'start': 839.76, 'duration': 4.639}
+{'text': 'specific pathogen so if there is an area', 'start': 841.92, 'duration': 5.12}
+{'text': 'that has like a ton of a certain germ or', 'start': 844.399, 'duration': 4.56}
+{'text': 'virus or whatever and then you get', 'start': 847.04, 'duration': 3.44}
+{'text': "exposed to that you'll have protection", 'start': 848.959, 'duration': 3.361}
+{'text': "against that but exposure doesn't", 'start': 850.48, 'duration': 3.52}
+{'text': 'protect you against future non-related', 'start': 852.32, 'duration': 3.44}
+{'text': "things that's what i'm saying so that if", 'start': 854.0, 'duration': 3.279}
+{'text': 'i run around outside a whole bunch and i', 'start': 855.76, 'duration': 2.879}
+{'text': 'get sick a whole bunch as a kid and then', 'start': 857.279, 'duration': 2.56}
+{'text': 'i grow up and then i get like the flu', 'start': 858.639, 'duration': 2.64}
+{'text': "i'm gonna be way better that's not true", 'start': 859.839, 'duration': 3.041}
+{'text': "that's what i'm saying yeah", 'start': 861.279, 'duration': 2.961}
+{'text': "if the immune system doesn't practice", 'start': 862.88, 'duration': 3.36}
+{'text': 'why the need for booster shots okay', 'start': 864.24, 'duration': 5.68}
+{'text': 'because booster shots or exposures to sp', 'start': 866.24, 'duration': 5.839}
+{'text': "i'm just repeating myself exposure to a", 'start': 869.92, 'duration': 4.24}
+{'text': 'specific pathogen trains you against a', 'start': 872.079, 'duration': 4.161}
+{'text': "specific pathogen but it doesn't train", 'start': 874.16, 'duration': 5.44}
+{'text': 'you against other pathogens', 'start': 876.24, 'duration': 4.159}
+{'text': "that's", 'start': 879.6, 'duration': 2.08}
+{'text': 'my understanding of how the immune', 'start': 880.399, 'duration': 3.361}
+{'text': 'system works', 'start': 881.68, 'duration': 3.519}
+{'text': 'i should be more strong in these humans', 'start': 883.76, 'duration': 4.8}
+{'text': 'that is how the immune system works', 'start': 885.199, 'duration': 3.361}
+{'text': 'how are europeans able to be protected', 'start': 891.839, 'duration': 3.44}
+{'text': 'from american colds', 'start': 893.36, 'duration': 3.279}
+{'text': "i don't think any of us have good cold", 'start': 895.279, 'duration': 2.8}
+{'text': 'immunity because that virus is mutating', 'start': 896.639, 'duration': 2.801}
+{'text': "so quickly i don't think i think", 'start': 898.079, 'duration': 3.361}
+{'text': 'everybody gets [\xa0__\xa0]', 'start': 899.44, 'duration': 4.8}
+{'text': 'by the cold no', 'start': 901.44, 'duration': 2.8}
+{'text': 'so the boosters to protect from other', 'start': 906.48, 'duration': 3.12}
+{'text': 'strains', 'start': 907.92, 'duration': 3.44}
+{'text': 'no the booster is because after a while', 'start': 909.6, 'duration': 3.76}
+{'text': 'your body forgets i guess or your', 'start': 911.36, 'duration': 3.52}
+{'text': 'immunity can wane after a while for', 'start': 913.36, 'duration': 3.12}
+{'text': "things i don't know why immunity wanes", 'start': 914.88, 'duration': 2.48}
+{'text': "actually i don't know what the reason", 'start': 916.48, 'duration': 2.479}
+{'text': 'for that is', 'start': 917.36, 'duration': 3.44}
+{'text': 'but', 'start': 918.959, 'duration': 3.921}
+{'text': 'just for reference over 26 million', 'start': 920.8, 'duration': 3.599}
+{'text': 'minors were infected agree that the', 'start': 922.88, 'duration': 3.04}
+{'text': 'argument should be so that these kids', 'start': 924.399, 'duration': 2.56}
+{'text': "don't get affected common country with", 'start': 925.92, 'duration': 4.159}
+{'text': 'worse age groups okay', 'start': 926.959, 'duration': 3.12}
+{'text': "there wasn't really any plagues in north", 'start': 932.079, 'duration': 3.68}
+{'text': 'america like there were in europe yeah', 'start': 933.68, 'duration': 4.159}
+{'text': 'but so the thing is my understanding is', 'start': 935.759, 'duration': 4.801}
+{'text': 'that in europe most of the nasty that', 'start': 937.839, 'duration': 4.721}
+{'text': "most of the nasty [\xa0__\xa0] i'm repeating", 'start': 940.56, 'duration': 3.36}
+{'text': "this and i haven't verified this before", 'start': 942.56, 'duration': 2.639}
+{'text': "i don't know this is true or not so take", 'start': 943.92, 'duration': 2.64}
+{'text': 'this with a grain of salt my', 'start': 945.199, 'duration': 2.961}
+{'text': 'understanding is that in europe a lot of', 'start': 946.56, 'duration': 3.839}
+{'text': 'the bad [\xa0__\xa0] came from livestock and', 'start': 948.16, 'duration': 3.44}
+{'text': "that's where like a lot of that plague", 'start': 950.399, 'duration': 2.56}
+{'text': '[\xa0__\xa0] and all that horrible [\xa0__\xa0]', 'start': 951.6, 'duration': 3.52}
+{'text': 'disease stuff came from so it killed a', 'start': 952.959, 'duration': 3.601}
+{'text': 'lot of europeans but then the ones that', 'start': 955.12, 'duration': 3.2}
+{'text': 'were alive like had resistances to it or', 'start': 956.56, 'duration': 3.279}
+{'text': 'developed resistances to it and that', 'start': 958.32, 'duration': 3.04}
+{'text': 'like that all of that german filth', 'start': 959.839, 'duration': 3.68}
+{'text': 'associated with um', 'start': 961.36, 'duration': 4.56}
+{'text': 'with with livestock is like what yeah is', 'start': 963.519, 'duration': 6.641}
+{'text': 'what what made europeans um', 'start': 965.92, 'duration': 5.839}
+{'text': 'so', 'start': 970.16, 'duration': 2.72}
+{'text': 'adapted dealing with those types of', 'start': 971.759, 'duration': 2.401}
+{'text': 'diseases', 'start': 972.88, 'duration': 3.519}
+{'text': "uh but amer uh native americans didn't", 'start': 974.16, 'duration': 3.84}
+{'text': 'have any of that [\xa0__\xa0] so', 'start': 976.399, 'duration': 3.201}
+{'text': 'um so they had never been exposed to', 'start': 978.0, 'duration': 2.639}
+{'text': 'like a lot of the diseases that came', 'start': 979.6, 'duration': 2.479}
+{'text': 'from like livestock related [\xa0__\xa0] was my', 'start': 980.639, 'duration': 3.2}
+{'text': 'understanding', 'start': 982.079, 'duration': 2.801}
+{'text': 'i think that traveling to another', 'start': 983.839, 'duration': 3.201}
+{'text': 'country makes you susceptible to colds', 'start': 984.88, 'duration': 3.68}
+{'text': "that's why if you vacation for two weeks", 'start': 987.04, 'duration': 2.64}
+{'text': 'somewhere a lot of people get a cold by', 'start': 988.56, 'duration': 2.24}
+{'text': 'the time they are on the return flight', 'start': 989.68, 'duration': 2.399}
+{'text': "but that's to be expected well that's", 'start': 990.8, 'duration': 2.399}
+{'text': "because you've never been exposed to", 'start': 992.079, 'duration': 2.241}
+{'text': 'those', 'start': 993.199, 'duration': 3.76}
+{'text': 'those specific cold viruses before right', 'start': 994.32, 'duration': 4.319}
+{'text': 'people adapt to new circumstances very', 'start': 996.959, 'duration': 3.281}
+{'text': 'quickly that is the great superpower of', 'start': 998.639, 'duration': 3.12}
+{'text': 'humanity we can adapt to nearly every', 'start': 1000.24, 'duration': 3.76}
+{'text': 'circumstance it also means that we can', 'start': 1001.759, 'duration': 4.721}
+{'text': 'reorient our brains to really bad ideas', 'start': 1004.0, 'duration': 4.32}
+{'text': 'incredibly quickly and start living in', 'start': 1006.48, 'duration': 3.44}
+{'text': 'line with those ideas to our own', 'start': 1008.32, 'duration': 3.759}
+{'text': "detriment and it's very hard to shake us", 'start': 1009.92, 'duration': 4.32}
+{'text': 'from that after we get to that unless', 'start': 1012.079, 'duration': 3.44}
+{'text': 'there is good leadership this is where', 'start': 1014.24, 'duration': 2.719}
+{'text': 'leadership comes in and statesmanship', 'start': 1015.519, 'duration': 3.44}
+{'text': 'unless you have people who are out there', 'start': 1016.959, 'duration': 3.761}
+{'text': 'actively battling these pathologies', 'start': 1018.959, 'duration': 3.281}
+{'text': 'these mental pathologies that people now', 'start': 1020.72, 'duration': 2.88}
+{'text': 'have about this', 'start': 1022.24, 'duration': 2.88}
+{'text': 'this is going to remain for a long time', 'start': 1023.6, 'duration': 3.359}
+{'text': 'and joe biden has he helped create the', 'start': 1025.12, 'duration': 3.919}
+{'text': "pathology he's got a problem the only", 'start': 1026.959, 'duration': 3.84}
+{'text': 'way the economy comes back is if joe', 'start': 1029.039, 'duration': 3.92}
+{'text': 'biden says to people you are now safe go', 'start': 1030.799, 'duration': 3.921}
+{'text': 'live your life', 'start': 1032.959, 'duration': 3.84}
+{'text': "i don't know how much the lockdown [\xa0__\xa0]", 'start': 1034.72, 'duration': 5.52}
+{'text': "i feel like it's supply chain [\xa0__\xa0] is um", 'start': 1036.799, 'duration': 5.04}
+{'text': "is is what we're having to deal with now", 'start': 1040.24, 'duration': 3.599}
+{'text': 'more so than like coronavirus stuff and', 'start': 1041.839, 'duration': 3.12}
+{'text': 'these are like other countries where', 'start': 1043.839, 'duration': 2.48}
+{'text': "these issues are happening i don't think", 'start': 1044.959, 'duration': 2.801}
+{'text': 'i think some of this is not necessarily', 'start': 1046.319, 'duration': 2.72}
+{'text': 'in the control of the united states', 'start': 1047.76, 'duration': 3.44}
+{'text': 'anymore', 'start': 1049.039, 'duration': 3.52}
+{'text': 'and the only way the economy comes back', 'start': 1051.2, 'duration': 2.8}
+{'text': 'is if joe biden says to people you need', 'start': 1052.559, 'duration': 4.0}
+{'text': 'to go back to work and get a job', 'start': 1054.0, 'duration': 3.919}
+{'text': "and meanwhile he's trying to pay them to", 'start': 1056.559, 'duration': 3.681}
+{'text': 'stay home', 'start': 1057.919, 'duration': 2.321}
+{'text': 'if anybody wants if anybody has anything', 'start': 1060.88, 'duration': 2.799}
+{'text': "in the contrary i've seen so many", 'start': 1062.24, 'duration': 2.96}
+{'text': "studies posters i have never i haven't", 'start': 1063.679, 'duration': 3.201}
+{'text': 'seen anything linking ui unemployment', 'start': 1065.2, 'duration': 3.599}
+{'text': "insurance to unemployment i haven't seen", 'start': 1066.88, 'duration': 3.52}
+{'text': "it i haven't seen it there were states", 'start': 1068.799, 'duration': 3.521}
+{'text': 'that cut ui early and the unemployment', 'start': 1070.4, 'duration': 3.12}
+{'text': "didn't get any better compared to the", 'start': 1072.32, 'duration': 2.479}
+{'text': "ones that didn't i've just never seen", 'start': 1073.52, 'duration': 3.039}
+{'text': "this i just haven't seen this", 'start': 1074.799, 'duration': 3.281}
+{'text': 'ever since i keep hearing this repeated', 'start': 1076.559, 'duration': 2.721}
+{'text': 'over and over and over and over and over', 'start': 1078.08, 'duration': 2.64}
+{'text': "again but i i just haven't seen it", 'start': 1079.28, 'duration': 3.44}
+{'text': 'substantiated anywhere', 'start': 1080.72, 'duration': 3.199}
+{'text': "it's just it's like the conservative", 'start': 1082.72, 'duration': 3.92}
+{'text': 'talking point but', 'start': 1083.919, 'duration': 2.721}
+{'text': 'pretty sure federal insurance is gone', 'start': 1086.799, 'duration': 1.681}
+{'text': 'right now', 'start': 1087.76, 'duration': 2.159}
+{'text': "it's going to be conducive to a healthy", 'start': 1088.48, 'duration': 3.28}
+{'text': 'economy or to a healthy presidency for', 'start': 1089.919, 'duration': 2.961}
+{'text': "joe biden i think that he's locked", 'start': 1091.76, 'duration': 2.48}
+{'text': 'himself in a box here and he is like a', 'start': 1092.88, 'duration': 3.2}
+{'text': "mime now he's just he's just pushing at", 'start': 1094.24, 'duration': 3.52}
+{'text': 'the invisible glass trying to find a way', 'start': 1096.08, 'duration': 3.2}
+{'text': 'out', 'start': 1097.76, 'duration': 4.159}
+{'text': 'meanwhile speaking of joe', 'start': 1099.28, 'duration': 5.04}
+{'text': 'tyden ends up being trapped in a box', 'start': 1101.919, 'duration': 4.081}
+{'text': "with somebody who's not right", 'start': 1104.32, 'duration': 3.04}
+{'text': "unemployment isn't even high at the", 'start': 1106.0, 'duration': 3.36}
+{'text': "moment it's 4.8 percent naturally no way", 'start': 1107.36, 'duration': 4.0}
+{'text': 'what i thought it was six plus', 'start': 1109.36, 'duration': 4.319}
+{'text': 'is it really 4.8 wait i thought i was', 'start': 1111.36, 'duration': 3.6}
+{'text': 'like six plus', 'start': 1113.679, 'duration': 3.201}
+{'text': 'wait if our unemployment is 4.8 percent', 'start': 1114.96, 'duration': 3.2}
+{'text': 'what are we worried about right now what', 'start': 1116.88, 'duration': 3.039}
+{'text': 'is the problem', 'start': 1118.16, 'duration': 4.72}
+{'text': "there's 10 million open jobs", 'start': 1119.919, 'duration': 4.241}
+{'text': 'okay but like', 'start': 1122.88, 'duration': 2.4}
+{'text': 'yeah and', 'start': 1124.16, 'duration': 2.399}
+{'text': "what do you yeah that's what's gonna", 'start': 1125.28, 'duration': 3.519}
+{'text': 'happen i mean what i mean unemployment', 'start': 1126.559, 'duration': 4.0}
+{'text': 'can only get you you only have so many', 'start': 1128.799, 'duration': 2.721}
+{'text': 'workers', 'start': 1130.559, 'duration': 2.161}
+{'text': 'unless you you have to get more', 'start': 1131.52, 'duration': 2.48}
+{'text': 'immigrants to come in and work jobs if', 'start': 1132.72, 'duration': 2.72}
+{'text': 'you want', 'start': 1134.0, 'duration': 4.48}
+{'text': 'um is it possible that lfpr', 'start': 1135.44, 'duration': 5.76}
+{'text': 'has diverged from unemployment more than', 'start': 1138.48, 'duration': 4.4}
+{'text': 'normal', 'start': 1141.2, 'duration': 2.56}
+{'text': 'so', 'start': 1142.88, 'duration': 2.56}
+{'text': 'my understanding', 'start': 1143.76, 'duration': 2.72}
+{'text': 'is', 'start': 1145.44, 'duration': 4.08}
+{'text': 'the labor force participation rate', 'start': 1146.48, 'duration': 5.439}
+{'text': 'i think includes retired people and i', 'start': 1149.52, 'duration': 4.159}
+{'text': "think that's expected to drop as our", 'start': 1151.919, 'duration': 3.841}
+{'text': 'boomers get older and older we keep', 'start': 1153.679, 'duration': 3.601}
+{'text': 'talking about like the boomers aging out', 'start': 1155.76, 'duration': 4.56}
+{'text': 'of the job market but um', 'start': 1157.28, 'duration': 4.96}
+{'text': 'labor force participation is gonna is', 'start': 1160.32, 'duration': 3.2}
+{'text': 'probably going to raise i think until', 'start': 1162.24, 'duration': 2.72}
+{'text': 'they die', 'start': 1163.52, 'duration': 2.8}
+{'text': 'um', 'start': 1164.96, 'duration': 2.48}
+{'text': "like i think that's just the thing", 'start': 1166.32, 'duration': 2.96}
+{'text': "that's going to happen", 'start': 1167.44, 'duration': 5.119}
+{'text': "i don't even know if it's like", 'start': 1169.28, 'duration': 3.279}
+{'text': 'off where it should be though right like', 'start': 1173.52, 'duration': 3.36}
+{'text': 'if late because labor force', 'start': 1175.76, 'duration': 3.2}
+{'text': 'participation rate is always dropping', 'start': 1176.88, 'duration': 3.6}
+{'text': "and it's probably right now where we", 'start': 1178.96, 'duration': 3.44}
+{'text': 'would have expected it to be', 'start': 1180.48, 'duration': 4.48}
+{'text': 'so in 2015 it was like 63 percent now', 'start': 1182.4, 'duration': 4.639}
+{'text': "it's 62 percent like", 'start': 1184.96, 'duration': 4.48}
+{'text': "prime age e-pop hasn't recovered as much", 'start': 1187.039, 'duration': 4.241}
+{'text': 'as headline unemployment and prime age', 'start': 1189.44, 'duration': 6.2}
+{'text': 'epoch was rising pre-pre-pandemic', 'start': 1191.28, 'duration': 4.36}
+{'text': 'are you just going to ignore the cliff', 'start': 1196.0, 'duration': 2.96}
+{'text': 'for this', 'start': 1197.52, 'duration': 3.68}
+{'text': 'okay hold on this looks like a cliff but', 'start': 1198.96, 'duration': 2.959}
+{'text': 'like', 'start': 1201.2, 'duration': 2.959}
+{'text': 'like like if we assume that there is', 'start': 1201.919, 'duration': 4.721}
+{'text': 'some trend here that was like going down', 'start': 1204.159, 'duration': 4.0}
+{'text': "i'm not gonna be able to graph a perfect", 'start': 1206.64, 'duration': 3.12}
+{'text': 'regression or anything okay right but if', 'start': 1208.159, 'duration': 3.041}
+{'text': "we assume that there's some trend going", 'start': 1209.76, 'duration': 3.52}
+{'text': 'down right and we have like there was a', 'start': 1211.2, 'duration': 3.839}
+{'text': 'huge dip here', 'start': 1213.28, 'duration': 3.2}
+{'text': "but eventually like it's come back to", 'start': 1215.039, 'duration': 3.201}
+{'text': 'normal right obviously i see a huge dip', 'start': 1216.48, 'duration': 4.079}
+{'text': "here i'm not [\xa0__\xa0] blind but like just", 'start': 1218.24, 'duration': 3.28}
+{'text': "because there's a dip doesn't mean we", 'start': 1220.559, 'duration': 2.161}
+{'text': 'would expect to go back up to where it', 'start': 1221.52, 'duration': 2.639}
+{'text': "was before that doesn't mean it doesn't", 'start': 1222.72, 'duration': 2.8}
+{'text': "go back up here we're [\xa0__\xa0] right like", 'start': 1224.159, 'duration': 3.201}
+{'text': "if there's already like a decline and it", 'start': 1225.52, 'duration': 3.519}
+{'text': "looks like we're on track like just", 'start': 1227.36, 'duration': 3.52}
+{'text': 'eyeballing it right if it looks like', 'start': 1229.039, 'duration': 3.76}
+{'text': "we're already on track to where we like", 'start': 1230.88, 'duration': 3.039}
+{'text': 'would have been declining to before', 'start': 1232.799, 'duration': 3.441}
+{'text': "anyway we can't see", 'start': 1233.919, 'duration': 3.281}
+{'text': 'it looks like the current dip would be', 'start': 1236.24, 'duration': 2.799}
+{'text': 'explained to the 2010 2015 regression if', 'start': 1237.2, 'duration': 5.28}
+{'text': "not the overall maybe yeah i don't know", 'start': 1239.039, 'duration': 3.441}
+{'text': 'the biggest thing to start just keeping', 'start': 1244.32, 'duration': 2.16}
+{'text': 'annoying is that over economy fully', 'start': 1245.36, 'duration': 2.96}
+{'text': 'recovered carbohydrate cleanliness yeah', 'start': 1246.48, 'duration': 2.96}
+{'text': 'maybe yeah', 'start': 1248.32, 'duration': 2.8}
+{'text': 'sometimes people have like sometimes', 'start': 1249.44, 'duration': 2.88}
+{'text': "people make a mistake when they're", 'start': 1251.12, 'duration': 3.039}
+{'text': 'thinking about like what it means to', 'start': 1252.32, 'duration': 3.599}
+{'text': 'like catch up to where you were so like', 'start': 1254.159, 'duration': 3.601}
+{'text': "let's say for instance this is your", 'start': 1255.919, 'duration': 3.441}
+{'text': 'market boom boom boom boom boom boom', 'start': 1257.76, 'duration': 3.039}
+{'text': "boom and then let's say you have like a", 'start': 1259.36, 'duration': 3.04}
+{'text': 'huge crash', 'start': 1260.799, 'duration': 3.041}
+{'text': 'for a while', 'start': 1262.4, 'duration': 4.0}
+{'text': 'people will be like when we hit here', 'start': 1263.84, 'duration': 5.12}
+{'text': 'people are like oh look we recovered', 'start': 1266.4, 'duration': 5.12}
+{'text': "no that's this is not recovered that's", 'start': 1268.96, 'duration': 4.64}
+{'text': 'not recovered right because i think what', 'start': 1271.52, 'duration': 3.36}
+{'text': 'you have to do is you have to look at', 'start': 1273.6, 'duration': 3.76}
+{'text': 'like where everything was heading', 'start': 1274.88, 'duration': 4.0}
+{'text': 'and then like if we would have been here', 'start': 1277.36, 'duration': 2.88}
+{'text': "like we're not technically fully", 'start': 1278.88, 'duration': 2.799}
+{'text': 'recovered until we catch back up to', 'start': 1280.24, 'duration': 2.48}
+{'text': 'where we would have been i think', 'start': 1281.679, 'duration': 2.24}
+{'text': "generally right there's like a different", 'start': 1282.72, 'duration': 2.959}
+{'text': "way to look at you can't just like move", 'start': 1283.919, 'duration': 2.88}
+{'text': 'forward in time years and years and', 'start': 1285.679, 'duration': 2.401}
+{'text': 'years with the rest of the economy or', 'start': 1286.799, 'duration': 2.081}
+{'text': 'the rest of the world economy', 'start': 1288.08, 'duration': 1.839}
+{'text': 'progressing and then you catch up to', 'start': 1288.88, 'duration': 2.48}
+{'text': 'where you were 10 years ago like oh look', 'start': 1289.919, 'duration': 2.401}
+{'text': "we've recovered we're back to where", 'start': 1291.36, 'duration': 2.72}
+{'text': "we're before i was like okay kind of but", 'start': 1292.32, 'duration': 4.8}
+{'text': 'not like necessarily right', 'start': 1294.08, 'duration': 4.64}
+{'text': "so i i don't know like yeah is there", 'start': 1297.12, 'duration': 4.08}
+{'text': 'like a steep drop off here sure but like', 'start': 1298.72, 'duration': 3.76}
+{'text': "we wouldn't have expected these numbers", 'start': 1301.2, 'duration': 2.719}
+{'text': 'to start climbing again would we have i', 'start': 1302.48, 'duration': 2.96}
+{'text': "guess maybe i don't know there's a whole", 'start': 1303.919, 'duration': 3.201}
+{'text': 'bunch of different ways that we count', 'start': 1305.44, 'duration': 4.32}
+{'text': "unemployment um that's", 'start': 1307.12, 'duration': 4.0}
+{'text': 'i have to go i have to read through all', 'start': 1309.76, 'duration': 3.279}
+{'text': 'these things we got these so the youth', 'start': 1311.12, 'duration': 3.76}
+{'text': 'we usually here are some things to be', 'start': 1313.039, 'duration': 2.64}
+{'text': 'aware of when people talk about', 'start': 1314.88, 'duration': 2.08}
+{'text': 'unemployment they try to lie to you okay', 'start': 1315.679, 'duration': 2.88}
+{'text': 'so some people will say oh', 'start': 1316.96, 'duration': 3.04}
+{'text': "that's not unemployment i'm talking", 'start': 1318.559, 'duration': 2.641}
+{'text': "about real unemployment i'm talking", 'start': 1320.0, 'duration': 3.28}
+{'text': 'about true unemployment okay so usually', 'start': 1321.2, 'duration': 3.68}
+{'text': "we talk about unemployment we're talking", 'start': 1323.28, 'duration': 2.56}
+{'text': 'about something called the u3', 'start': 1324.88, 'duration': 2.56}
+{'text': 'unemployment rate the u3 unemployment', 'start': 1325.84, 'duration': 3.44}
+{'text': 'rate includes people looking for work', 'start': 1327.44, 'duration': 5.119}
+{'text': 'but it discludes discouraged workers um', 'start': 1329.28, 'duration': 4.56}
+{'text': 'now some people say like oh well you', 'start': 1332.559, 'duration': 2.641}
+{'text': 'should include all blah blah blah blah', 'start': 1333.84, 'duration': 2.64}
+{'text': 'some people argue like you three or six', 'start': 1335.2, 'duration': 2.4}
+{'text': "there's different reasons why people use", 'start': 1336.48, 'duration': 2.319}
+{'text': 'different numbers but just know that', 'start': 1337.6, 'duration': 3.76}
+{'text': 'like more or less like the u3 the e6', 'start': 1338.799, 'duration': 4.081}
+{'text': 'have all like roughly tracked each other', 'start': 1341.36, 'duration': 2.64}
+{'text': 'and like none of these have like', 'start': 1342.88, 'duration': 2.72}
+{'text': "diverged massively or anything so it's", 'start': 1344.0, 'duration': 2.72}
+{'text': "like oh they're wrong about the real", 'start': 1345.6, 'duration': 2.24}
+{'text': "[\xa0__\xa0] unemployment rate that's", 'start': 1346.72, 'duration': 2.72}
+{'text': '[\xa0__\xa0] now', 'start': 1347.84, 'duration': 3.6}
+{'text': 'labor force participation rate i think', 'start': 1349.44, 'duration': 3.84}
+{'text': 'this is defined okay here we can just', 'start': 1351.44, 'duration': 3.28}
+{'text': "look at this it's defines the number of", 'start': 1353.28, 'duration': 3.84}
+{'text': 'persons in the labor force divided by', 'start': 1354.72, 'duration': 6.079}
+{'text': 'the civilian population age 16 plus so', 'start': 1357.12, 'duration': 5.6}
+{'text': 'as i was saying earlier the problem with', 'start': 1360.799, 'duration': 4.641}
+{'text': 'labor force participation rate is as the', 'start': 1362.72, 'duration': 5.12}
+{'text': 'boomers age out and get older and older', 'start': 1365.44, 'duration': 4.32}
+{'text': "until they start dying we're going to", 'start': 1367.84, 'duration': 4.0}
+{'text': 'see that labor force participation rate', 'start': 1369.76, 'duration': 3.36}
+{'text': 'fall off', 'start': 1371.84, 'duration': 2.719}
+{'text': "and get lower and lower because we're so", 'start': 1373.12, 'duration': 4.0}
+{'text': 'top heavy in terms of age right this is', 'start': 1374.559, 'duration': 5.12}
+{'text': 'the issue so as so until like all the', 'start': 1377.12, 'duration': 4.32}
+{'text': 'boomers what is the average age of a', 'start': 1379.679, 'duration': 4.561}
+{'text': 'boomer average age', 'start': 1381.44, 'duration': 6.16}
+{'text': 'of baby boomer', 'start': 1384.24, 'duration': 5.52}
+{'text': 'jesus is 57 to 75 so we still have a', 'start': 1387.6, 'duration': 3.6}
+{'text': "ways to go i feel like i've heard about", 'start': 1389.76, 'duration': 3.44}
+{'text': 'the boomers dying for [\xa0__\xa0] 30 years', 'start': 1391.2, 'duration': 4.24}
+{'text': "now i'm 30 years old but so we still", 'start': 1393.2, 'duration': 4.08}
+{'text': 'have like another 20 [\xa0__\xa0] years until', 'start': 1395.44, 'duration': 5.04}
+{'text': 'like most of these guys are gone', 'start': 1397.28, 'duration': 3.2}
+{'text': "um wouldn't epot be immune from this", 'start': 1400.679, 'duration': 6.441}
+{'text': "kind of artifact if it's only 25 to 54", 'start': 1402.96, 'duration': 6.0}
+{'text': 'yes possibly', 'start': 1407.12, 'duration': 2.799}
+{'text': 'um', 'start': 1408.96, 'duration': 2.88}
+{'text': 'would you expect is epoch defined as', 'start': 1409.919, 'duration': 3.76}
+{'text': "only 25 i see it says it here is it i've", 'start': 1411.84, 'duration': 3.28}
+{'text': "never i actually before that i've never", 'start': 1413.679, 'duration': 2.88}
+{'text': 'heard of employment to population ratio', 'start': 1415.12, 'duration': 2.72}
+{'text': "there's like 50 million different", 'start': 1416.559, 'duration': 4.081}
+{'text': '[\xa0__\xa0] ways that people um', 'start': 1417.84, 'duration': 4.959}
+{'text': 'that people define unemployment i i', 'start': 1420.64, 'duration': 5.76}
+{'text': "forget there's a lot to keep up with um", 'start': 1422.799, 'duration': 5.681}
+{'text': 'but even now it seems higher than it was', 'start': 1426.4, 'duration': 3.92}
+{'text': 'before right like it seems like the', 'start': 1428.48, 'duration': 3.199}
+{'text': 'employment of this age group is much', 'start': 1430.32, 'duration': 3.359}
+{'text': 'higher than it was', 'start': 1431.679, 'duration': 5.281}
+{'text': 'like in the from the 80s and earlier now', 'start': 1433.679, 'duration': 4.721}
+{'text': "you'd also expect more women working", 'start': 1436.96, 'duration': 3.36}
+{'text': 'overtime oh yeah maybe that picked up a', 'start': 1438.4, 'duration': 6.279}
+{'text': 'lot after the 40s i think too right', 'start': 1440.32, 'duration': 4.359}
+{'text': 'hey destiny what was the algorithm or', 'start': 1445.36, 'duration': 3.28}
+{'text': 'theory the irs uses to detect errors on', 'start': 1446.88, 'duration': 4.159}
+{'text': "tax returns ah it's some math thing but", 'start': 1448.64, 'duration': 4.08}
+{'text': 'like ones in certain places or something', 'start': 1451.039, 'duration': 2.561}
+{'text': "i don't remember what it was called so", 'start': 1452.72, 'duration': 2.88}
+{'text': "i'm going to shall know it", 'start': 1453.6, 'duration': 3.12}
+{'text': 'the lp the okay the labor force', 'start': 1455.6, 'duration': 3.04}
+{'text': "laboratory isn't only going down because", 'start': 1456.72, 'duration': 4.079}
+{'text': "of people getting older it's the same", 'start': 1458.64, 'duration': 4.96}
+{'text': 'for younger people', 'start': 1460.799, 'duration': 5.281}
+{'text': "i don't know what this graph is the", 'start': 1463.6, 'duration': 5.679}
+{'text': 'labor force participation rates of women', 'start': 1466.08, 'duration': 6.4}
+{'text': 'in selected 10-year age groups', 'start': 1469.279, 'duration': 5.601}
+{'text': 'annual why is this only why only attract', 'start': 1472.48, 'duration': 4.72}
+{'text': 'women', 'start': 1474.88, 'duration': 2.32}
+{'text': 'this is from 85 to 2015.', 'start': 1477.679, 'duration': 4.801}
+{'text': 'serious question do they count streamers', 'start': 1480.799, 'duration': 3.521}
+{'text': 'youtubers only fans content creators in', 'start': 1482.48, 'duration': 5.92}
+{'text': 'the labor pool in the labor pool yes', 'start': 1484.32, 'duration': 6.08}
+{'text': 'um', 'start': 1488.4, 'duration': 3.279}
+{'text': 'are you asking if they count them as', 'start': 1490.4, 'duration': 4.159}
+{'text': 'being employed', 'start': 1491.679, 'duration': 2.88}
+{'text': 'yeah they must because when you fill out', 'start': 1494.799, 'duration': 4.161}
+{'text': "i'm trying to think oh my god i've been", 'start': 1497.44, 'duration': 3.44}
+{'text': "selling something on my own 10 40. i'm", 'start': 1498.96, 'duration': 3.36}
+{'text': 'pretty sure when you fill out your your', 'start': 1500.88, 'duration': 4.88}
+{'text': "tax forms there are boxes for it'll say", 'start': 1502.32, 'duration': 6.4}
+{'text': "uh i don't know if it says unemployed", 'start': 1505.76, 'duration': 4.96}
+{'text': "is there a box for unemployed i don't", 'start': 1508.72, 'duration': 2.88}
+{'text': "think you file taxes if you're", 'start': 1510.72, 'duration': 2.24}
+{'text': "unemployed but i know they'll be for", 'start': 1511.6, 'duration': 3.76}
+{'text': 'like sole proprietor self-employed like', 'start': 1512.96, 'duration': 4.959}
+{'text': 'llc s corp whatever', 'start': 1515.36, 'duration': 4.559}
+{'text': 'but', 'start': 1517.919, 'duration': 3.281}
+{'text': 'apparently according to dumb messaging', 'start': 1519.919, 'duration': 2.481}
+{'text': 'women disproportionately lost on the', 'start': 1521.2, 'duration': 3.04}
+{'text': "labor force i don't know if that's true", 'start': 1522.4, 'duration': 4.159}
+{'text': 'um i think that the problem with women', 'start': 1524.24, 'duration': 4.16}
+{'text': 'in the labor force is that', 'start': 1526.559, 'duration': 4.161}
+{'text': "this is i'm guessing right now i don't", 'start': 1528.4, 'duration': 5.12}
+{'text': "know if this is the the case but i'm", 'start': 1530.72, 'duration': 4.24}
+{'text': 'guessing right now', 'start': 1533.52, 'duration': 4.8}
+{'text': 'that in times of economic hardship you', 'start': 1534.96, 'duration': 5.44}
+{'text': 'probably have more women staying at home', 'start': 1538.32, 'duration': 4.88}
+{'text': 'watching children than men do so in', 'start': 1540.4, 'duration': 4.96}
+{'text': "times of like economic hardship you're", 'start': 1543.2, 'duration': 3.76}
+{'text': 'probably going to see women drop out of', 'start': 1545.36, 'duration': 3.28}
+{'text': 'the labor market more than men that', 'start': 1546.96, 'duration': 3.44}
+{'text': 'would be a guess that i think is', 'start': 1548.64, 'duration': 5.76}
+{'text': "probably true they'll be my guess", 'start': 1550.4, 'duration': 4.0}
+{'text': "don't they do a lot of unemployment such", 'start': 1555.44, 'duration': 2.64}
+{'text': 'labor movement reporting based on data', 'start': 1556.799, 'duration': 2.88}
+{'text': 'from adp one of the biggest payroll', 'start': 1558.08, 'duration': 4.479}
+{'text': "companies maybe i don't know", 'start': 1559.679, 'duration': 4.24}
+{'text': 'women entering the workplace was the', 'start': 1562.559, 'duration': 2.881}
+{'text': 'main reason for the labor force position', 'start': 1563.919, 'duration': 2.64}
+{'text': "we're going up so it makes sense to", 'start': 1565.44, 'duration': 4.16}
+{'text': 'separate it by genders okay yeah maybe', 'start': 1566.559, 'duration': 4.321}
+{'text': 'even in progressive households women', 'start': 1569.6, 'duration': 2.48}
+{'text': 'usually end up with the majority of', 'start': 1570.88, 'duration': 2.399}
+{'text': "housework here's one of the better", 'start': 1572.08, 'duration': 2.56}
+{'text': "economic dashboards i've found it does a", 'start': 1573.279, 'duration': 3.121}
+{'text': 'nice job of showing where yeah', 'start': 1574.64, 'duration': 4.8}
+{'text': 'economically and where we are headed', 'start': 1576.4, 'duration': 4.399}
+{'text': "you think women's retirement age should", 'start': 1579.44, 'duration': 3.92}
+{'text': 'be higher because they live longer', 'start': 1580.799, 'duration': 4.321}
+{'text': 'is that a thing do you think so joe', 'start': 1583.36, 'duration': 3.12}
+{'text': 'biden apparently', 'start': 1585.12, 'duration': 2.799}
+{'text': 'is now going to become embroiled in the', 'start': 1586.48, 'duration': 2.64}
+{'text': 'hunter biden email scoundrel remember', 'start': 1587.919, 'duration': 2.321}
+{'text': 'that time that that was not a story the', 'start': 1589.12, 'duration': 2.72}
+{'text': 'hundred biden email scandal', 'start': 1590.24, 'duration': 2.72}
+{'text': 'remember because the hundred buying', 'start': 1591.84, 'duration': 2.959}
+{'text': 'email scandal was super was super stupid', 'start': 1592.96, 'duration': 3.839}
+{'text': "it didn't it was dumb like remember", 'start': 1594.799, 'duration': 3.521}
+{'text': 'because the new york post posted it and', 'start': 1596.799, 'duration': 2.641}
+{'text': "we weren't allowed to post it for a", 'start': 1598.32, 'duration': 1.92}
+{'text': 'month', 'start': 1599.44, 'duration': 2.239}
+{'text': 'and all that well it turns out now that', 'start': 1600.24, 'duration': 3.2}
+{'text': 'um yeah it gets a lot worse for joe', 'start': 1601.679, 'duration': 4.0}
+{'text': 'biden according to the uk daily mail', 'start': 1603.44, 'duration': 3.76}
+{'text': 'president biden could become embroiled', 'start': 1605.679, 'duration': 3.441}
+{'text': 'in why would you report on what the', 'start': 1607.2, 'duration': 4.959}
+{'text': 'daily mail says', 'start': 1609.12, 'duration': 4.24}
+{'text': 'what', 'start': 1612.159, 'duration': 2.801}
+{'text': "fbi investigation of hunter biden's", 'start': 1613.36, 'duration': 4.0}
+{'text': 'finances experts say as emails reveal', 'start': 1614.96, 'duration': 4.64}
+{'text': 'the father and son shared bank accounts', 'start': 1617.36, 'duration': 4.4}
+{'text': "and paid each other's bills", 'start': 1619.6, 'duration': 3.28}
+{'text': 'hmm', 'start': 1621.76, 'duration': 3.039}
+{'text': 'remember all those emails about 10 for', 'start': 1622.88, 'duration': 3.679}
+{'text': 'the big guy and all that', 'start': 1624.799, 'duration': 3.36}
+{'text': 'yeah well if they shared bank accounts', 'start': 1626.559, 'duration': 3.441}
+{'text': 'that gets a lot more suspicious', 'start': 1628.159, 'duration': 3.281}
+{'text': "emails were covered by daily you're", 'start': 1630.0, 'duration': 3.84}
+{'text': 'telling me that a dad that was a senator', 'start': 1631.44, 'duration': 4.239}
+{'text': 'tried to pay rent for his [\xa0__\xa0] crack', 'start': 1633.84, 'duration': 4.719}
+{'text': 'addict son sometimes this is the scandal', 'start': 1635.679, 'duration': 6.0}
+{'text': 'come on man he has a daily wire sticker', 'start': 1638.559, 'duration': 5.201}
+{'text': 'on his laptop wait did i say daily wire', 'start': 1641.679, 'duration': 4.24}
+{'text': 'a daily mail', 'start': 1643.76, 'duration': 4.0}
+{'text': "the daily what he is he's the founder of", 'start': 1645.919, 'duration': 3.521}
+{'text': 'the daily wire of course he has a daily', 'start': 1647.76, 'duration': 5.88}
+{'text': 'wire laptop what do you mean', 'start': 1649.44, 'duration': 4.2}
+{'text': 'you said daily mail okay', 'start': 1654.0, 'duration': 3.44}
+{'text': "oh that schweren was working on joe's", 'start': 1655.679, 'duration': 3.441}
+{'text': 'taxes discussing the father and son', 'start': 1657.44, 'duration': 3.2}
+{'text': "paying each other's household bills and", 'start': 1659.12, 'duration': 3.2}
+{'text': 'even fielding requests for a book deal', 'start': 1660.64, 'duration': 3.279}
+{'text': 'for the then vice president as well as', 'start': 1662.32, 'duration': 2.959}
+{'text': "managing the donation of joe's senate", 'start': 1663.919, 'duration': 3.041}
+{'text': 'papers to the university of delaware', 'start': 1665.279, 'duration': 3.52}
+{'text': "it's unclear why schwerin had this", 'start': 1666.96, 'duration': 4.0}
+{'text': "intimate role in the vp's affairs rather", 'start': 1668.799, 'duration': 3.441}
+{'text': 'than government officials in the office', 'start': 1670.96, 'duration': 2.719}
+{'text': 'of the vice president', 'start': 1672.24, 'duration': 2.799}
+{'text': 'hunters claim that he and his dad shared', 'start': 1673.679, 'duration': 2.801}
+{'text': 'a bank account also raised serious', 'start': 1675.039, 'duration': 3.12}
+{'text': 'questions whether funds from the alleged', 'start': 1676.48, 'duration': 3.199}
+{'text': "joints account were used for hunter's", 'start': 1678.159, 'duration': 3.681}
+{'text': 'may 2018 week-long bender with a', 'start': 1679.679, 'duration': 4.401}
+{'text': 'prostitute in a hollywood hotel', 'start': 1681.84, 'duration': 3.52}
+{'text': 'last december hunter admitted in a', 'start': 1684.08, 'duration': 2.56}
+{'text': 'public statement he was under federal', 'start': 1685.36, 'duration': 4.08}
+{'text': 'investigation over his tax affairs', 'start': 1686.64, 'duration': 4.48}
+{'text': 'but joe biden wants to look into your', 'start': 1689.44, 'duration': 4.239}
+{'text': '600 transactions with the irs', 'start': 1691.12, 'duration': 4.559}
+{'text': 'the rules do not apply to the specials', 'start': 1693.679, 'duration': 4.401}
+{'text': "like wait if the rules didn't apply then", 'start': 1695.679, 'duration': 4.161}
+{'text': 'why would there be a potential fbi', 'start': 1698.08, 'duration': 4.319}
+{'text': 'investigation does that imply that the', 'start': 1699.84, 'duration': 5.28}
+{'text': 'rules do apply no biden', 'start': 1702.399, 'duration': 7.121}
+{'text': "i know okay i don't know", 'start': 1705.12, 'duration': 4.4}

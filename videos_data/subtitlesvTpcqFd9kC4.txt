@@ -1,0 +1,557 @@
+{'text': 'i went to school for nutrition then what', 'start': 0.0, 'duration': 2.56}
+{'text': "are you talking about what's it called", 'start': 1.52, 'duration': 2.08}
+{'text': "it's a very simple term for what you're", 'start': 2.56, 'duration': 2.799}
+{'text': 'talking about right now', 'start': 3.6, 'duration': 3.6}
+{'text': 'okay here it is so what you taught what', 'start': 5.359, 'duration': 3.28}
+{'text': 'you described about the sugar going to', 'start': 7.2, 'duration': 3.04}
+{'text': 'bloody mean is called the glycemic index', 'start': 8.639, 'duration': 2.88}
+{'text': 'you want to look up if milk is bad for', 'start': 10.24, 'duration': 3.2}
+{'text': 'you or not just look up glycemic index', 'start': 11.519, 'duration': 3.441}
+{'text': "milk and see if it's rated higher or", 'start': 13.44, 'duration': 3.36}
+{'text': "lower but he doesn't have doodle in", 'start': 14.96, 'duration': 3.76}
+{'text': 'front of them', 'start': 16.8, 'duration': 5.76}
+{'text': 'the entire time this is so easy', 'start': 18.72, 'duration': 5.36}
+{'text': 'here we go here we go here we go here we', 'start': 22.56, 'duration': 4.0}
+{'text': 'go here we go everyone stopped', 'start': 24.08, 'duration': 5.359}
+{'text': "behind everyone's stopped everyone stop", 'start': 26.56, 'duration': 5.28}
+{'text': 'here we go', 'start': 29.439, 'duration': 2.401}
+{'text': "dude yo what's crazy i've had this", 'start': 32.559, 'duration': 4.081}
+{'text': 'insane', 'start': 35.36, 'duration': 4.24}
+{'text': "insane craving for milk i've been", 'start': 36.64, 'duration': 3.759}
+{'text': 'finishing', 'start': 39.6, 'duration': 3.76}
+{'text': 'a gallon a gallon of milk a week for the', 'start': 40.399, 'duration': 5.521}
+{'text': 'last guys', 'start': 43.36, 'duration': 2.56}
+{'text': 'hold on not only are you dumb americans', 'start': 49.84, 'duration': 4.879}
+{'text': 'have an issue with sodium', 'start': 53.6, 'duration': 4.4}
+{'text': "but dairy is rocket fuel for cancer it's", 'start': 54.719, 'duration': 6.0}
+{'text': 'not that high that you guys listen hold', 'start': 58.0, 'duration': 3.359}
+{'text': 'on', 'start': 60.719, 'duration': 2.32}
+{'text': 'hold on hold on let me let me let me say', 'start': 61.359, 'duration': 3.2}
+{'text': 'i know i know a lot about this', 'start': 63.039, 'duration': 3.76}
+{'text': 'i know a lot about this guys okay no', 'start': 64.559, 'duration': 4.401}
+{'text': "after the age of two you shouldn't have", 'start': 66.799, 'duration': 7.041}
+{'text': "that's it oh god", 'start': 68.96, 'duration': 4.88}
+{'text': "i drink milk all the time too i'm just", 'start': 83.84, 'duration': 3.04}
+{'text': "saying it's not no mo listen", 'start': 85.28, 'duration': 3.76}
+{'text': "listen okay yikes i'm gonna back you and", 'start': 86.88, 'duration': 3.68}
+{'text': 'i up no zerka listen', 'start': 89.04, 'duration': 3.92}
+{'text': 'okay i just had i just had a', 'start': 90.56, 'duration': 3.44}
+{'text': 'professional on my', 'start': 92.96, 'duration': 3.119}
+{'text': 'uh stream yesterday we went over darian', 'start': 94.0, 'duration': 3.28}
+{'text': "he's like everything i know", 'start': 96.079, 'duration': 3.281}
+{'text': 'i know listen first of all the dairy', 'start': 97.28, 'duration': 3.519}
+{'text': 'thing is 50 50.', 'start': 99.36, 'duration': 3.52}
+{'text': "50 of the doctors say it's bad for you", 'start': 100.799, 'duration': 3.201}
+{'text': 'the other 50 percent say', 'start': 102.88, 'duration': 3.44}
+{'text': "it's actually it's good for you no no no", 'start': 104.0, 'duration': 3.6}
+{'text': "no no no i think there's a pretty wide", 'start': 106.32, 'duration': 4.64}
+{'text': 'consensus that there is not', 'start': 107.6, 'duration': 3.36}
+{'text': "so the problem with milk is you're", 'start': 111.119, 'duration': 3.601}
+{'text': 'absorbing sugar directly as liquid', 'start': 112.72, 'duration': 3.84}
+{'text': "which is super bad it's go it's going to", 'start': 114.72, 'duration': 3.359}
+{'text': 'your system causing an inflammation', 'start': 116.56, 'duration': 4.48}
+{'text': 'triglycerides', 'start': 118.079, 'duration': 2.961}
+{'text': 'what if you have less sugar sugary milk', 'start': 121.92, 'duration': 7.92}
+{'text': 'if you have like nut milk like almond', 'start': 131.44, 'duration': 3.519}
+{'text': "the milk milk you'll have in your life", 'start': 141.36, 'duration': 3.2}
+{'text': "why haven't you given", 'start': 143.599, 'duration': 2.561}
+{'text': 'her the credit for mine this is the best', 'start': 144.56, 'duration': 3.2}
+{'text': 'milk in the world', 'start': 146.16, 'duration': 4.64}
+{'text': "best milk in the world that's weird a2", 'start': 147.76, 'duration': 6.72}
+{'text': "it's from new zealand and it's [\xa0__\xa0]", 'start': 150.8, 'duration': 3.68}
+{'text': 'great', 'start': 154.84, 'duration': 3.0}
+{'text': 'it feels great what do you mean listen', 'start': 164.879, 'duration': 2.881}
+{'text': 'just because a bunch of you soy boy', 'start': 166.319, 'duration': 2.961}
+{'text': '[\xa0__\xa0] are lactose intolerant because', 'start': 167.76, 'duration': 2.64}
+{'text': "you're [\xa0__\xa0] [\xa0__\xa0]", 'start': 169.28, 'duration': 3.2}
+{'text': "doesn't mean something it's going to", 'start': 170.4, 'duration': 4.88}
+{'text': 'hurt us', 'start': 172.48, 'duration': 2.8}
+{'text': "here's someone on top of me here's", 'start': 176.879, 'duration': 4.08}
+{'text': "someone who drinks soylent so let's get", 'start': 179.04, 'duration': 6.8}
+{'text': "stephen's right what do you guys think", 'start': 180.959, 'duration': 4.881}
+{'text': 'before you answer wait wait i put 50', 'start': 192.64, 'duration': 3.92}
+{'text': "down destiny says milk's not good", 'start': 194.879, 'duration': 4.961}
+{'text': 'anybody want a counter', 'start': 196.56, 'duration': 3.28}
+{'text': 'does the answers wait wait wait before', 'start': 200.4, 'duration': 3.52}
+{'text': "that there's nobody", 'start': 202.08, 'duration': 3.04}
+{'text': "no i'm gonna read this i'm gonna read", 'start': 203.92, 'duration': 2.72}
+{'text': 'this stop everyone stop everyone freeze', 'start': 205.12, 'duration': 1.92}
+{'text': 'okay', 'start': 206.64, 'duration': 3.44}
+{'text': 'ingredients in a2 organic milk', 'start': 207.04, 'duration': 5.279}
+{'text': "from new zealand is a scam don't listen", 'start': 210.08, 'duration': 4.159}
+{'text': 'to organizations', 'start': 212.319, 'duration': 5.28}
+{'text': "that's why you like it ingredients", 'start': 214.239, 'duration': 7.201}
+{'text': 'reduced fat milk vitamin a palminate', 'start': 217.599, 'duration': 5.841}
+{'text': "vitamin d3 that's all the ingredient", 'start': 221.44, 'duration': 4.079}
+{'text': "there's no triglyceride triglycerides", 'start': 223.44, 'duration': 3.04}
+{'text': 'suck my dick right', 'start': 225.519, 'duration': 2.64}
+{'text': "this is not that shit's already in it", 'start': 226.48, 'duration': 3.119}
+{'text': 'how many sugar rides are there', 'start': 228.159, 'duration': 4.8}
+{'text': 'okay sugar sugar uh uh uh', 'start': 229.599, 'duration': 6.961}
+{'text': 'total sugars 12 grams oh my god', 'start': 232.959, 'duration': 8.881}
+{'text': '12 grams for the entire box', 'start': 236.56, 'duration': 5.28}
+{'text': 'protein eight grams how many servings', 'start': 248.48, 'duration': 3.839}
+{'text': 'per container', 'start': 250.48, 'duration': 3.88}
+{'text': 'seven servings', 'start': 252.319, 'duration': 5.09}
+{'text': '[Music]', 'start': 254.36, 'duration': 3.049}
+{'text': "let me answer and then i'll fill you in", 'start': 269.44, 'duration': 3.28}
+{'text': 'destiny listen listen i am', 'start': 270.96, 'duration': 4.32}
+{'text': 'so [\xa0__\xa0] triggered i have some [\xa0__\xa0]', 'start': 272.72, 'duration': 4.16}
+{'text': 'americans here that literally', 'start': 275.28, 'duration': 4.479}
+{'text': 'at age 14 no shut the [\xa0__\xa0] up i have', 'start': 276.88, 'duration': 4.319}
+{'text': 'americans and canadians', 'start': 279.759, 'duration': 4.241}
+{'text': 'at the age 45 look like a [\xa0__\xa0]', 'start': 281.199, 'duration': 3.761}
+{'text': 'persian at age', 'start': 284.0, 'duration': 4.24}
+{'text': "93 and you're telling me sugar in milk", 'start': 284.96, 'duration': 4.72}
+{'text': "is bad while you're slurping up your", 'start': 288.24, 'duration': 3.519}
+{'text': 'big slurp from the gas station with dr', 'start': 289.68, 'duration': 3.76}
+{'text': 'pepper every [\xa0__\xa0] morning', 'start': 291.759, 'duration': 4.241}
+{'text': 'and natural sugars and milk the cow are', 'start': 293.44, 'duration': 3.44}
+{'text': 'unhealthy', 'start': 296.0, 'duration': 3.12}
+{'text': 'shut the [\xa0__\xa0] up you backwards americans', 'start': 296.88, 'duration': 3.84}
+{'text': 'the [\xa0__\xa0] are you talking about', 'start': 299.12, 'duration': 5.84}
+{'text': 'devon i have a question', 'start': 300.72, 'duration': 5.6}
+{'text': "i'm not judging you drinking i drink", 'start': 304.96, 'duration': 2.4}
+{'text': "milk all the time i'm just saying it's", 'start': 306.32, 'duration': 2.08}
+{'text': 'not good for you', 'start': 307.36, 'duration': 3.52}
+{'text': '12 grams 12 grams of sugar and milk is', 'start': 308.4, 'duration': 4.16}
+{'text': 'bad but hey can i get a dr pepper and a', 'start': 310.88, 'duration': 2.319}
+{'text': 'big mac please', 'start': 312.56, 'duration': 3.04}
+{'text': 'hold on can i say one thing can i say', 'start': 313.199, 'duration': 4.641}
+{'text': 'hey let me just say one thing', 'start': 315.6, 'duration': 4.159}
+{'text': 'for nutrition but my power is useless', 'start': 317.84, 'duration': 4.079}
+{'text': 'here', 'start': 319.759, 'duration': 2.16}
+{'text': 'i need to make a quick flex i need to', 'start': 322.4, 'duration': 3.76}
+{'text': 'make a quick flex', 'start': 324.56, 'duration': 4.079}
+{'text': "john there's a key this streamer girl", 'start': 326.16, 'duration': 3.52}
+{'text': 'cara', 'start': 328.639, 'duration': 2.801}
+{'text': 'who her moderator banned me because he', 'start': 329.68, 'duration': 3.28}
+{'text': 'was jealous that i said hi', 'start': 331.44, 'duration': 5.4}
+{'text': 'god no no no no no no no no hold on hold', 'start': 332.96, 'duration': 6.88}
+{'text': 'on', 'start': 336.84, 'duration': 3.0}
+{'text': "and right now that [\xa0__\xa0] moderator i'm", 'start': 343.919, 'duration': 3.601}
+{'text': 'getting you banned', 'start': 346.639, 'duration': 4.201}
+{'text': "i know you're watching me nice good one", 'start': 347.52, 'duration': 6.32}
+{'text': 'wow', 'start': 350.84, 'duration': 3.0}
+{'text': "real quick real quick because i'm here", 'start': 355.84, 'duration': 2.639}
+{'text': "i'm here for literally 20 minutes okay", 'start': 357.039, 'duration': 2.561}
+{'text': "and i don't want the whole time to waste", 'start': 358.479, 'duration': 1.921}
+{'text': 'of this dumb [\xa0__\xa0]', 'start': 359.6, 'duration': 2.64}
+{'text': 'listen whether or not milk is good or', 'start': 360.4, 'duration': 3.28}
+{'text': 'bad for you okay', 'start': 362.24, 'duration': 3.12}
+{'text': "there are the only bad thing i've heard", 'start': 363.68, 'duration': 3.28}
+{'text': 'about super high-fat dairy products is', 'start': 365.36, 'duration': 2.88}
+{'text': 'that they can cause inflammation', 'start': 366.96, 'duration': 3.44}
+{'text': 'but at the level of min-maxing your diet', 'start': 368.24, 'duration': 3.28}
+{'text': "to where you're considering cutting out", 'start': 370.4, 'duration': 1.68}
+{'text': 'all milk', 'start': 371.52, 'duration': 2.399}
+{'text': 'you are so far removed from the average', 'start': 372.08, 'duration': 3.28}
+{'text': 'american diet if you eat fast food more', 'start': 373.919, 'duration': 2.641}
+{'text': 'than once a week you should have no', 'start': 375.36, 'duration': 6.48}
+{'text': 'business thinking about whether or not', 'start': 376.56, 'duration': 5.28}
+{'text': 'because people argue would you ask me', 'start': 387.12, 'duration': 3.359}
+{'text': 'any questions raise my hands on the', 'start': 389.039, 'duration': 1.921}
+{'text': 'keyboard', 'start': 390.479, 'duration': 1.681}
+{'text': "this isn't like stupid you know what", 'start': 390.96, 'duration': 4.88}
+{'text': "turn off your monitor let's do that", 'start': 392.16, 'duration': 3.68}
+{'text': 'turn off the lights listen okay', 'start': 396.0, 'duration': 5.36}
+{'text': 'milk has like some good things for you', 'start': 399.199, 'duration': 3.681}
+{'text': 'okay there are vitamins and fats that', 'start': 401.36, 'duration': 2.8}
+{'text': 'are good for you okay however if you', 'start': 402.88, 'duration': 2.72}
+{'text': 'drink like the full fat milk', 'start': 404.16, 'duration': 3.2}
+{'text': 'some people say that that can cause like', 'start': 405.6, 'duration': 3.039}
+{'text': 'inflammation but like', 'start': 407.36, 'duration': 3.839}
+{'text': "you're at levels of like diet men maxing", 'start': 408.639, 'duration': 3.68}
+{'text': "to where like if you're going out for", 'start': 411.199, 'duration': 2.56}
+{'text': 'burger king every other day you', 'start': 412.319, 'duration': 2.641}
+{'text': "shouldn't be thinking about whether or", 'start': 413.759, 'duration': 1.521}
+{'text': 'not', 'start': 414.96, 'duration': 2.16}
+{'text': 'milk that has like full fat is going to', 'start': 415.28, 'duration': 3.28}
+{'text': "like be bad for you okay you're so far", 'start': 417.12, 'duration': 2.16}
+{'text': 'removed', 'start': 418.56, 'duration': 4.24}
+{'text': 'from from like maximum', 'start': 419.28, 'duration': 3.52}
+{'text': 'marketing campaign of all time not got', 'start': 435.36, 'duration': 3.839}
+{'text': 'milk', 'start': 437.84, 'duration': 3.44}
+{'text': 'because there was an excess of milk and', 'start': 439.199, 'duration': 5.761}
+{'text': 'they were like what did we do with this', 'start': 441.28, 'duration': 3.68}
+{'text': 'it was a five-year marketing campaign', 'start': 445.039, 'duration': 4.241}
+{'text': 'that made every millennial think that', 'start': 447.36, 'duration': 4.48}
+{'text': 'milk was incredibly healthy', 'start': 449.28, 'duration': 4.16}
+{'text': "i'd say smoking's pretty far up there", 'start': 451.84, 'duration': 3.44}
+{'text': 'also um but i think i think about you', 'start': 453.44, 'duration': 3.199}
+{'text': 'what about just', 'start': 455.28, 'duration': 2.72}
+{'text': 'pretty amazing like as an individual', 'start': 456.639, 'duration': 3.12}
+{'text': "marketing campaign is amazing it's art", 'start': 458.0, 'duration': 2.56}
+{'text': "yeah i don't think", 'start': 459.759, 'duration': 2.401}
+{'text': 'milk is not like especially if you get', 'start': 460.56, 'duration': 2.8}
+{'text': 'the milk like fortified with vitamin d', 'start': 462.16, 'duration': 2.479}
+{'text': "it's like a horrible drink", 'start': 463.36, 'duration': 2.88}
+{'text': 'trains a single carton that trained', 'start': 464.639, 'duration': 3.28}
+{'text': 'drinks has 84 grams of sugar in it which', 'start': 466.24, 'duration': 3.359}
+{'text': 'is 44 grams above the rda', 'start': 467.919, 'duration': 4.161}
+{'text': '34.', 'start': 469.599, 'duration': 2.481}
+{'text': 'a carton of what like how big is it', 'start': 472.879, 'duration': 6.16}
+{'text': 'marketing', 'start': 476.639, 'duration': 2.4}
+{'text': 'you also have to consider how the', 'start': 480.479, 'duration': 2.241}
+{'text': "sugar's delivered into your system right", 'start': 481.44, 'duration': 2.8}
+{'text': 'and organic is [\xa0__\xa0]', 'start': 482.72, 'duration': 2.879}
+{'text': 'so if you have something like like if', 'start': 484.24, 'duration': 2.32}
+{'text': 'you have something like an apple right', 'start': 485.599, 'duration': 2.32}
+{'text': 'which has a lot of sugar in it has like', 'start': 486.56, 'duration': 2.88}
+{'text': 'has like 30 or 40 grams of sugar in it', 'start': 487.919, 'duration': 3.12}
+{'text': 'but you eat the apple with fiber and', 'start': 489.44, 'duration': 3.199}
+{'text': "it's and it's slow release that sugar", 'start': 491.039, 'duration': 2.801}
+{'text': "doesn't go into your system immediately", 'start': 492.639, 'duration': 1.601}
+{'text': 'but', 'start': 493.84, 'duration': 2.0}
+{'text': 'with milk you drink it it hits your', 'start': 494.24, 'duration': 3.28}
+{'text': 'system immediately it spikes your blood', 'start': 495.84, 'duration': 2.079}
+{'text': 'sugar', 'start': 497.52, 'duration': 2.0}
+{'text': "and that's that's that's why okay you", 'start': 497.919, 'duration': 3.361}
+{'text': 'want to understand this', 'start': 499.52, 'duration': 3.44}
+{'text': 'okay hold on stop okay for all of the', 'start': 501.28, 'duration': 3.039}
+{'text': 'dietitians', 'start': 502.96, 'duration': 3.12}
+{'text': 'listen if you want to solve this right', 'start': 504.319, 'duration': 3.28}
+{'text': "now if you haven't if you have supreme", 'start': 506.08, 'duration': 2.399}
+{'text': '[\xa0__\xa0]', 'start': 507.599, 'duration': 2.241}
+{'text': 'knowledge over this do you know what', 'start': 508.479, 'duration': 3.361}
+{'text': "you're talking about right now yeah i do", 'start': 509.84, 'duration': 3.6}
+{'text': 'i went to school for nutrition then what', 'start': 511.84, 'duration': 2.639}
+{'text': "are you talking about what's it called", 'start': 513.44, 'duration': 2.079}
+{'text': "it's a very simple term for what you're", 'start': 514.479, 'duration': 2.721}
+{'text': 'talking about right now', 'start': 515.519, 'duration': 3.601}
+{'text': 'okay here it is so what you taught what', 'start': 517.2, 'duration': 3.279}
+{'text': 'you described about the sugar going your', 'start': 519.12, 'duration': 1.68}
+{'text': 'blood', 'start': 520.479, 'duration': 1.92}
+{'text': 'is called the glycemic index you want to', 'start': 520.8, 'duration': 3.039}
+{'text': 'look up if milk is bad for you or not', 'start': 522.399, 'duration': 3.521}
+{'text': 'just look up glycemic index milk and see', 'start': 523.839, 'duration': 3.761}
+{'text': "if it's rated higher or lower destiny", 'start': 525.92, 'duration': 3.2}
+{'text': "but he doesn't have doodle in front of", 'start': 527.6, 'duration': 3.6}
+{'text': 'them', 'start': 529.12, 'duration': 2.08}
+{'text': 'this is so easy', 'start': 531.92, 'duration': 3.919}
+{'text': 'milk scores extremely low on the', 'start': 543.44, 'duration': 6.56}
+{'text': 'glycemic index 15 to 30.', 'start': 546.64, 'duration': 7.199}
+{'text': 'very high on the insulin index', 'start': 550.0, 'duration': 6.32}
+{'text': 'index is not the god tier like final', 'start': 553.839, 'duration': 4.401}
+{'text': 'authority on what is good or bad for you', 'start': 556.32, 'duration': 4.8}
+{'text': 'so what you mean hold on hold on so what', 'start': 558.24, 'duration': 4.64}
+{'text': 'you literally said was how quickly that', 'start': 561.12, 'duration': 3.12}
+{'text': 'goes into the bloodstream so the', 'start': 562.88, 'duration': 2.959}
+{'text': 'increase of glucose in your bloodstream', 'start': 564.24, 'duration': 2.719}
+{'text': 'after eating a food', 'start': 565.839, 'duration': 2.56}
+{'text': 'that measurement of how quickly it', 'start': 566.959, 'duration': 2.961}
+{'text': 'spikes and how much insulin your body', 'start': 568.399, 'duration': 2.88}
+{'text': 'needs', 'start': 569.92, 'duration': 3.44}
+{'text': 'to deal with that glucose is called how', 'start': 571.279, 'duration': 3.921}
+{'text': 'did we start talking about milk', 'start': 573.36, 'duration': 2.88}
+{'text': "i'm just saying that's literally how it", 'start': 575.2, 'duration': 3.28}
+{'text': 'specifically is important it says right', 'start': 576.24, 'duration': 2.8}
+{'text': 'here no', 'start': 578.48, 'duration': 3.039}
+{'text': 'everyone stop it right here melt down', 'start': 579.04, 'duration': 4.239}
+{'text': 'listen ten minutes straight at the start', 'start': 581.519, 'duration': 4.88}
+{'text': 'no listen it says right here', 'start': 583.279, 'duration': 6.161}
+{'text': 'milk does contain sugars predominantly', 'start': 586.399, 'duration': 5.041}
+{'text': 'in the form of lactose however', 'start': 589.44, 'duration': 4.64}
+{'text': 'when tested pure lactose has minimal', 'start': 591.44, 'duration': 4.8}
+{'text': 'effect on either the glycemic or', 'start': 594.08, 'duration': 4.64}
+{'text': 'insulin indexes thank you okay i would', 'start': 596.24, 'duration': 3.84}
+{'text': "like to say i don't believe it", 'start': 598.72, 'duration': 3.04}
+{'text': "i don't know let me finish it can you", 'start': 600.08, 'duration': 3.199}
+{'text': 'use it', 'start': 601.76, 'duration': 3.28}
+{'text': "i will button this up okay let's say", 'start': 603.279, 'duration': 3.521}
+{'text': "listen let's agree to disagree", 'start': 605.04, 'duration': 3.359}
+{'text': 'all right hold on let me finish this', 'start': 606.8, 'duration': 3.599}
+{'text': 'topic okay', 'start': 608.399, 'duration': 2.961}
+{'text': 'first thing what you guys got to', 'start': 610.399, 'duration': 2.801}
+{'text': "remember the only thing that's important", 'start': 611.36, 'duration': 2.88}
+{'text': 'for your health is hitting your', 'start': 613.2, 'duration': 2.72}
+{'text': 'macronutrients one gram per pound body', 'start': 614.24, 'duration': 3.2}
+{'text': 'weight of protein every day', 'start': 615.92, 'duration': 2.72}
+{'text': 'you can do it with protein shakes a bit', 'start': 617.44, 'duration': 2.8}
+{'text': "of dirt that's only this only that's all", 'start': 618.64, 'duration': 4.16}
+{'text': 'excuse me', 'start': 620.24, 'duration': 2.56}
+{'text': "you're not gonna grow taller by", 'start': 623.04, 'duration': 3.039}
+{'text': 'interrupting me stop', 'start': 624.56, 'duration': 4.88}
+{'text': "listen i'm telling you hit your [\xa0__\xa0]", 'start': 626.079, 'duration': 4.401}
+{'text': 'protein intake', 'start': 629.44, 'duration': 3.2}
+{'text': "you'll feel strong you'll feel good make", 'start': 630.48, 'duration': 3.599}
+{'text': "sure you're hitting your fiber content", 'start': 632.64, 'duration': 2.24}
+{'text': 'with these three', 'start': 634.079, 'duration': 3.681}
+{'text': 'and your micronutrients fiber a nice', 'start': 634.88, 'duration': 4.56}
+{'text': 'stimulant like coffee in the morning to', 'start': 637.76, 'duration': 3.04}
+{'text': 'get the [\xa0__\xa0] blood flowing', 'start': 639.44, 'duration': 3.519}
+{'text': 'you will be lean you will be strong', 'start': 640.8, 'duration': 4.159}
+{'text': "avoid dairy because it's rocket fuel", 'start': 642.959, 'duration': 5.041}
+{'text': 'for cancer nice', 'start': 644.959, 'duration': 6.161}
+{'text': "good one yeah that's yours if you", 'start': 648.0, 'duration': 5.12}
+{'text': 'the the most things that we consume in', 'start': 651.12, 'duration': 3.44}
+{'text': "the american diet that's rocket fuel for", 'start': 653.12, 'duration': 2.959}
+{'text': "cancer it's actually red meat", 'start': 654.56, 'duration': 7.279}
+{'text': "if you're trying to oh my god here we go", 'start': 656.079, 'duration': 5.76}
+{'text': '[Music]', 'start': 669.8, 'duration': 6.039}
+{'text': 'you drink [\xa0__\xa0] soylent', 'start': 671.44, 'duration': 4.399}
+{'text': "you wanna know a fun fact that you don't", 'start': 678.0, 'duration': 2.16}
+{'text': "know you know certainly it doesn't have", 'start': 679.04, 'duration': 2.72}
+{'text': 'soy in it right', 'start': 680.16, 'duration': 4.72}
+{'text': 'yeah yeah it just uh has nothing in it', 'start': 681.76, 'duration': 5.92}
+{'text': "yeah okay anyway so what's the topic for", 'start': 684.88, 'duration': 3.6}
+{'text': 'tonight train what are we', 'start': 687.68, 'duration': 2.399}
+{'text': "what are we talking about we're talking", 'start': 688.48, 'duration': 3.52}
+{'text': "about cheese now i just don't listen", 'start': 690.079, 'duration': 2.961}
+{'text': 'listen listen listen', 'start': 692.0, 'duration': 3.6}
+{'text': 'yeah this issue okay i i this issue when', 'start': 693.04, 'duration': 3.68}
+{'text': "when i'm being told", 'start': 695.6, 'duration': 2.64}
+{'text': "okay i'm american i'm a proud american i", 'start': 696.72, 'duration': 2.88}
+{'text': 'love america so when i said america', 'start': 698.24, 'duration': 2.24}
+{'text': 'america', 'start': 699.6, 'duration': 2.88}
+{'text': 'i meant to say white people okay but', 'start': 700.48, 'duration': 4.96}
+{'text': 'real quick um', 'start': 702.48, 'duration': 2.96}
+{'text': 'just kidding can we talk about this no', 'start': 706.0, 'duration': 3.44}
+{'text': "no hear me out here okay listen i'm", 'start': 707.76, 'duration': 2.319}
+{'text': 'white too', 'start': 709.44, 'duration': 2.16}
+{'text': 'do you see my skin anyways hear me out', 'start': 710.079, 'duration': 3.44}
+{'text': 'here okay', 'start': 711.6, 'duration': 4.96}
+{'text': "chill listen what i'm trying to say is", 'start': 713.519, 'duration': 5.44}
+{'text': 'this idea okay i understand there has', 'start': 716.56, 'duration': 3.839}
+{'text': "been studies where dairy's not good for", 'start': 718.959, 'duration': 2.481}
+{'text': "you but there's some studies where dairy", 'start': 720.399, 'duration': 1.841}
+{'text': "is good for you there's", 'start': 721.44, 'duration': 2.399}
+{'text': 'studies where this this this that this', 'start': 722.24, 'duration': 3.2}
+{'text': 'this that right okay at the end of the', 'start': 723.839, 'duration': 2.481}
+{'text': 'day', 'start': 725.44, 'duration': 2.399}
+{'text': 'at the end that they were the only', 'start': 726.32, 'duration': 3.519}
+{'text': 'animal that goes and sucks the milk out', 'start': 727.839, 'duration': 3.44}
+{'text': "of another animal that's [\xa0__\xa0]", 'start': 729.839, 'duration': 2.721}
+{'text': "disgusting yeah and we're the only", 'start': 731.279, 'duration': 2.56}
+{'text': 'animal that watches', 'start': 732.56, 'duration': 3.92}
+{'text': "no one don't know [\xa0__\xa0] our own selves", 'start': 733.839, 'duration': 4.401}
+{'text': 'and jerk off to that [\xa0__\xa0] video', 'start': 736.48, 'duration': 4.88}
+{'text': "these comparisons wait that's not that's", 'start': 738.24, 'duration': 6.399}
+{'text': "not fair we don't know", 'start': 741.36, 'duration': 5.44}
+{'text': 'if uh other animals stare watch other', 'start': 744.639, 'duration': 3.281}
+{'text': "animals [\xa0__\xa0] so don't", 'start': 746.8, 'duration': 4.159}
+{'text': "don't judge us i am judging okay i am", 'start': 747.92, 'duration': 6.24}
+{'text': 'completely [\xa0__\xa0] judging 150 percent', 'start': 750.959, 'duration': 3.761}
+{'text': 'judging', 'start': 754.16, 'duration': 1.919}
+{'text': "that's the problem we shouldn't judge", 'start': 754.72, 'duration': 3.919}
+{'text': 'them if you want milk get it from titty', 'start': 756.079, 'duration': 6.481}
+{'text': "period you guys are sick [\xa0__\xa0] you're", 'start': 758.639, 'duration': 5.521}
+{'text': "disgusting people i don't like it", 'start': 762.56, 'duration': 4.56}
+{'text': "you're just disgusting tyler how do you", 'start': 764.16, 'duration': 3.919}
+{'text': 'feel about this how do you feel about', 'start': 767.12, 'duration': 1.519}
+{'text': 'this okay', 'start': 768.079, 'duration': 2.88}
+{'text': 'you get offended at this i eat raw onion', 'start': 768.639, 'duration': 5.2}
+{'text': 'how do you feel about that', 'start': 770.959, 'duration': 2.88}
+{'text': 'you can do whatever you want hold on', 'start': 774.399, 'duration': 4.24}
+{'text': "that's so good for you that you might be", 'start': 777.04, 'duration': 2.96}
+{'text': 'counteracting the bad milk', 'start': 778.639, 'duration': 4.561}
+{'text': 'yeah listen i have chicken and rice', 'start': 780.0, 'duration': 4.72}
+{'text': 'i have chicken and rice and with the', 'start': 783.2, 'duration': 4.56}
+{'text': 'chicken and rice i have a raw onion', 'start': 784.72, 'duration': 4.48}
+{'text': "actually no that's good dude you're", 'start': 787.76, 'duration': 3.199}
+{'text': 'actually counteracting each bite of', 'start': 789.2, 'duration': 3.12}
+{'text': 'chicken and rice i put a', 'start': 790.959, 'duration': 3.041}
+{'text': 'slice of raw in my mouth and i chew it', 'start': 792.32, 'duration': 2.72}
+{'text': "together it's the most delicious thing", 'start': 794.0, 'duration': 1.76}
+{'text': 'in the world', 'start': 795.04, 'duration': 2.72}
+{'text': 'have you had garlic sauce that explains', 'start': 795.76, 'duration': 3.12}
+{'text': "why you haven't died from your milk", 'start': 797.76, 'duration': 2.24}
+{'text': 'consumption yet', 'start': 798.88, 'duration': 3.68}
+{'text': 'yeah yeah it probably does have you had', 'start': 800.0, 'duration': 3.76}
+{'text': 'garlic sauce trained', 'start': 802.56, 'duration': 3.68}
+{'text': 'obviously sauce garlic sauce like from', 'start': 803.76, 'duration': 3.44}
+{'text': "whoa you haven't", 'start': 806.24, 'duration': 2.56}
+{'text': 'yeah garlic sauce is probably the best', 'start': 807.2, 'duration': 3.52}
+{'text': 'that you could have ever no no', 'start': 808.8, 'duration': 3.839}
+{'text': 'just eat garlic just eat mushrooms here', 'start': 810.72, 'duration': 4.08}
+{'text': "it's garlic and yogurt", 'start': 812.639, 'duration': 4.32}
+{'text': 'you know what sauce i really like yogurt', 'start': 814.8, 'duration': 3.599}
+{'text': 'salt garlic', 'start': 816.959, 'duration': 3.68}
+{'text': "mustard sear it's delicious have you do", 'start': 818.399, 'duration': 3.841}
+{'text': "you guys have frank's red hot", 'start': 820.639, 'duration': 4.721}
+{'text': "that's the best sauce how am i like this", 'start': 822.24, 'duration': 4.24}
+{'text': 'is why i have an issue', 'start': 825.36, 'duration': 2.64}
+{'text': "i'm being told milk's bad for me like", 'start': 826.48, 'duration': 3.52}
+{'text': 'these [\xa0__\xa0] average canadian americans', 'start': 828.0, 'duration': 3.92}
+{'text': "that are obsessed with [\xa0__\xa0] frank's", 'start': 830.0, 'duration': 3.04}
+{'text': 'red hot sauce', 'start': 831.92, 'duration': 3.2}
+{'text': "like god knows what the [\xa0__\xa0] you're", 'start': 833.04, 'duration': 4.72}
+{'text': 'eating is bad for me', 'start': 835.12, 'duration': 6.32}
+{'text': 'yeah [\xa0__\xa0] oh god', 'start': 837.76, 'duration': 6.879}
+{'text': 'no at the end of the day like just', 'start': 841.44, 'duration': 5.199}
+{'text': 'just do we all pick our own poison some', 'start': 844.639, 'duration': 3.601}
+{'text': 'people have jameson some people have', 'start': 846.639, 'duration': 2.56}
+{'text': 'cocaine some people', 'start': 848.24, 'duration': 2.24}
+{'text': 'you know what i mean at the end of the', 'start': 849.199, 'duration': 3.041}
+{'text': 'day live how you want but', 'start': 850.48, 'duration': 4.08}
+{'text': "i think there i don't think dairy is the", 'start': 852.24, 'duration': 4.08}
+{'text': 'hill you want to die on in this argument', 'start': 854.56, 'duration': 4.079}
+{'text': "no [\xa0__\xa0] you know i'll die on dairy all", 'start': 856.32, 'duration': 3.759}
+{'text': "day i'm gonna have derrick if i [\xa0__\xa0]", 'start': 858.639, 'duration': 2.0}
+{'text': 'die', 'start': 860.079, 'duration': 2.081}
+{'text': "i don't think he's gonna die well", 'start': 860.639, 'duration': 3.841}
+{'text': "they'll be soon you can make an argument", 'start': 862.16, 'duration': 4.16}
+{'text': "but barry i swear to god you can't", 'start': 864.48, 'duration': 5.52}
+{'text': "that's where you cross the line buddy", 'start': 866.32, 'duration': 3.68}
+{'text': 'do i think dairy is bad for uh some', 'start': 871.12, 'duration': 4.0}
+{'text': 'people yes but do i think it applies to', 'start': 873.199, 'duration': 4.08}
+{'text': 'all people no', 'start': 875.12, 'duration': 4.56}
+{'text': "why is that because people's bodies are", 'start': 877.279, 'duration': 3.68}
+{'text': 'built different', 'start': 879.68, 'duration': 3.159}
+{'text': "we're building this people do you think", 'start': 880.959, 'duration': 4.56}
+{'text': 'um do you think sugar is bad for people', 'start': 882.839, 'duration': 3.961}
+{'text': 'yeah i think sugar is bad for people but', 'start': 885.519, 'duration': 3.521}
+{'text': "it's completely contextual", 'start': 886.8, 'duration': 5.12}
+{'text': 'to what calories invest calories out', 'start': 889.04, 'duration': 3.44}
+{'text': 'right', 'start': 891.92, 'duration': 3.039}
+{'text': 'no to to what kind of sugar it is to', 'start': 892.48, 'duration': 3.68}
+{'text': 'where the sugar is coming from how much', 'start': 894.959, 'duration': 2.401}
+{'text': "sugar you're having a day", 'start': 896.16, 'duration': 3.119}
+{'text': 'like why is this idea where so i have to', 'start': 897.36, 'duration': 3.52}
+{'text': 'have zero sugar in my entire life that', 'start': 899.279, 'duration': 2.721}
+{'text': 'makes no [\xa0__\xa0] sense', 'start': 900.88, 'duration': 3.199}
+{'text': 'actually yeah sugar is basically', 'start': 902.0, 'duration': 3.04}
+{'text': "objectively i'm", 'start': 904.079, 'duration': 3.361}
+{'text': "i'm switching sides here devon's okay", 'start': 905.04, 'duration': 4.64}
+{'text': 'all right', 'start': 907.44, 'duration': 2.24}
+{'text': 'sugar is absolutely a poison to the body', 'start': 911.36, 'duration': 3.44}
+{'text': 'there is nothing', 'start': 913.36, 'duration': 4.56}
+{'text': 'are you a paleo guy um so i do', 'start': 914.8, 'duration': 5.039}
+{'text': 'intermittent fasting and i eat mostly', 'start': 917.92, 'duration': 2.88}
+{'text': 'vegetarian i', 'start': 919.839, 'duration': 4.321}
+{'text': "i like the i don't know mostly", 'start': 920.8, 'duration': 5.599}
+{'text': 'yes like what do you mean did you eat', 'start': 924.16, 'duration': 3.919}
+{'text': 'fish pescetarians yeah', 'start': 926.399, 'duration': 4.401}
+{'text': "i i i eat wild caught fish so you're a", 'start': 928.079, 'duration': 3.281}
+{'text': 'pesky', 'start': 930.8, 'duration': 2.479}
+{'text': "only wild cat no he's not cause", 'start': 931.36, 'duration': 3.36}
+{'text': "sometimes i'll literally have a steak or", 'start': 933.279, 'duration': 2.641}
+{'text': "something but it's just pretty rare", 'start': 934.72, 'duration': 2.88}
+{'text': 'like i i literally hate uh wait will', 'start': 935.92, 'duration': 4.96}
+{'text': 'this thickest rare', 'start': 937.6, 'duration': 3.28}
+{'text': "i'll eat chicken here and there but", 'start': 947.68, 'duration': 2.399}
+{'text': 'generally not so you pretty much eat', 'start': 948.72, 'duration': 2.0}
+{'text': 'everything', 'start': 950.079, 'duration': 5.361}
+{'text': 'nice are you a vegetarian huh', 'start': 950.72, 'duration': 6.08}
+{'text': "this is a weird like title we're doing", 'start': 955.44, 'duration': 2.959}
+{'text': "like so so generally speaking like i'd", 'start': 956.8, 'duration': 3.12}
+{'text': 'say like six out of every seven days i', 'start': 958.399, 'duration': 3.12}
+{'text': 'eat vegetarian', 'start': 959.92, 'duration': 4.64}
+{'text': "and sometimes like dr prager's uh little", 'start': 961.519, 'duration': 4.721}
+{'text': 'uh like uh vegan patties', 'start': 964.56, 'duration': 3.12}
+{'text': "and then i'll eat like two salads", 'start': 966.24, 'duration': 3.12}
+{'text': "that'll joke you're like a born again", 'start': 967.68, 'duration': 3.12}
+{'text': 'feed vegan', 'start': 969.36, 'duration': 4.399}
+{'text': "i don't i don't have any like uh i'm not", 'start': 970.8, 'duration': 5.2}
+{'text': 'fishing', 'start': 973.759, 'duration': 4.241}
+{'text': 'i try to eat well what do you think', 'start': 976.0, 'duration': 3.44}
+{'text': 'about that protein', 'start': 978.0, 'duration': 4.48}
+{'text': 'i get a lot of protein', 'start': 979.44, 'duration': 3.04}
+{'text': "generally between 85 and 100 but that's", 'start': 984.48, 'duration': 3.44}
+{'text': "that's all i care about dick", 'start': 986.16, 'duration': 4.88}
+{'text': "bull dick you get that much um there's", 'start': 987.92, 'duration': 4.479}
+{'text': 'such a liar', 'start': 991.04, 'duration': 4.479}
+{'text': 'i can i can parse it out for you i i use', 'start': 992.399, 'duration': 3.521}
+{'text': 'uh', 'start': 995.519, 'duration': 1.921}
+{'text': "from vegan patties you're getting that", 'start': 995.92, 'duration': 3.279}
+{'text': "much protein yeah yeah there's there's", 'start': 997.44, 'duration': 2.48}
+{'text': '12', 'start': 999.199, 'duration': 3.44}
+{'text': 'grams of protein in each one i generally', 'start': 999.92, 'duration': 4.32}
+{'text': 'eat four', 'start': 1002.639, 'duration': 4.081}
+{'text': "four patties a day damn you're crazy", 'start': 1004.24, 'duration': 4.0}
+{'text': "don't they have like a really high", 'start': 1006.72, 'duration': 3.919}
+{'text': 'saturated fats no i also feel like', 'start': 1008.24, 'duration': 5.76}
+{'text': "they're like not that good so for a day", 'start': 1010.639, 'duration': 5.44}
+{'text': 'can i just explain something devin', 'start': 1014.0, 'duration': 3.12}
+{'text': "doesn't eat for pleasure", 'start': 1016.079, 'duration': 4.241}
+{'text': 'devon i eat first science yeah what', 'start': 1017.12, 'duration': 6.159}
+{'text': 'devon for bones hair skin anything', 'start': 1020.32, 'duration': 3.759}
+{'text': 'anti-aging', 'start': 1023.279, 'duration': 2.8}
+{'text': 'it all comes down to the building blocks', 'start': 1024.079, 'duration': 3.281}
+{'text': 'of life aminos', 'start': 1026.079, 'duration': 3.921}
+{'text': 'you want to have way more protein', 'start': 1027.36, 'duration': 4.559}
+{'text': 'maximizing your protein in your diet', 'start': 1030.0, 'duration': 4.079}
+{'text': 'is not necessarily great like having 300', 'start': 1031.919, 'duration': 3.601}
+{'text': 'grams of protein a day is not', 'start': 1034.079, 'duration': 2.72}
+{'text': 'necessarily that good because it just', 'start': 1035.52, 'duration': 3.12}
+{'text': "converts down to fat if you don't use it", 'start': 1036.799, 'duration': 3.681}
+{'text': 'number one and number two it can also', 'start': 1038.64, 'duration': 3.52}
+{'text': 'cause a lot of uh kind of [\xa0__\xa0] up [\xa0__\xa0]', 'start': 1040.48, 'duration': 3.12}
+{'text': "in your body you'll live a leaner life", 'start': 1042.16, 'duration': 3.2}
+{'text': 'if the higher protein you go because', 'start': 1043.6, 'duration': 3.839}
+{'text': "protein satiates you you can't eat as", 'start': 1045.36, 'duration': 3.04}
+{'text': 'much', 'start': 1047.439, 'duration': 2.641}
+{'text': 'like think about it no no let me finish', 'start': 1048.4, 'duration': 4.72}
+{'text': 'let me let me destroy', 'start': 1050.08, 'duration': 3.04}
+{'text': "if i ask you to finish 300 grams let's", 'start': 1055.2, 'duration': 3.12}
+{'text': 'say i', 'start': 1057.919, 'duration': 2.721}
+{'text': 'ask you to finish a hundred grams of', 'start': 1058.32, 'duration': 3.68}
+{'text': 'protein in steak', 'start': 1060.64, 'duration': 3.84}
+{'text': 'versus 100 grams in carbs in cereal', 'start': 1062.0, 'duration': 4.08}
+{'text': "you'll finish that cereal in five", 'start': 1064.48, 'duration': 2.079}
+{'text': 'seconds', 'start': 1066.08, 'duration': 2.0}
+{'text': "and it'll take you about you know it'll", 'start': 1066.559, 'duration': 3.12}
+{'text': 'take you the whole evening to finish', 'start': 1068.08, 'duration': 3.839}
+{'text': 'your little steak no one is disappointed', 'start': 1069.679, 'duration': 4.721}
+{'text': "you're arguing with yourself i won i", 'start': 1071.919, 'duration': 3.361}
+{'text': 'literally won', 'start': 1074.4, 'duration': 4.0}
+{'text': 'okay there was no way to fight again i', 'start': 1075.28, 'duration': 5.36}
+{'text': 'won', 'start': 1078.4, 'duration': 2.24}
+{'text': '[Music]', 'start': 1087.97, 'duration': 3.099}
+{'text': 'how do you keep pivoting somehow you', 'start': 1093.6, 'duration': 3.28}
+{'text': 'went all the way back to the [\xa0__\xa0]', 'start': 1095.679, 'duration': 1.761}
+{'text': 'moderator', 'start': 1096.88, 'duration': 2.64}
+{'text': "i'm still excited about monetized emotes", 'start': 1097.44, 'duration': 3.2}
+{'text': 'dude that was a great', 'start': 1099.52, 'duration': 2.8}
+{'text': 'i like bags of milk and this milk', 'start': 1100.64, 'duration': 3.2}
+{'text': 'discussion has been really topped here', 'start': 1102.32, 'duration': 2.64}
+{'text': 'thank you that is a good idea actually', 'start': 1103.84, 'duration': 4.079}
+{'text': 'we even talked about really', 'start': 1104.96, 'duration': 2.959}
+{'text': '[Music]', 'start': 1113.31, 'duration': 4.05}
+{'text': "i'm sorry i just i was wondering if", 'start': 1116.08, 'duration': 2.959}
+{'text': 'canada actually had bags of milk or they', 'start': 1117.36, 'duration': 3.439}
+{'text': 'just had plastic they do wait do we', 'start': 1119.039, 'duration': 3.841}
+{'text': "definitely do have bags of milk i'm just", 'start': 1120.799, 'duration': 3.681}
+{'text': "i'm curious this conversation is", 'start': 1122.88, 'duration': 2.32}
+{'text': 'fascinating so', 'start': 1124.48, 'duration': 2.559}
+{'text': 'are we against complex carbs here too or', 'start': 1125.2, 'duration': 5.359}
+{'text': 'just throwing out all cars', 'start': 1127.039, 'duration': 3.52}
+{'text': "stephen are you saying there's a", 'start': 1140.24, 'duration': 2.799}
+{'text': "difference from complex cars there's a", 'start': 1141.36, 'duration': 3.12}
+{'text': 'slower digesting car', 'start': 1143.039, 'duration': 3.201}
+{'text': "so you're telling me brown rice and", 'start': 1144.48, 'duration': 3.68}
+{'text': 'white rice is different', 'start': 1146.24, 'duration': 3.679}
+{'text': 'yeah the way that the body digests like', 'start': 1148.16, 'duration': 3.519}
+{'text': 'complex parts versus like the refined', 'start': 1149.919, 'duration': 2.801}
+{'text': "sugars and everything that's added to", 'start': 1151.679, 'duration': 2.081}
+{'text': "the food yeah it's like a huge", 'start': 1152.72, 'duration': 2.319}
+{'text': 'difference', 'start': 1153.76, 'duration': 3.76}
+{'text': "in versus calories out that's all that", 'start': 1155.039, 'duration': 3.52}
+{'text': "matters it doesn't matter", 'start': 1157.52, 'duration': 3.519}
+{'text': 'no no no calories versus calories out', 'start': 1158.559, 'duration': 3.441}
+{'text': "only matters if you're talking about", 'start': 1161.039, 'duration': 2.0}
+{'text': "weight loss or weight gain but we're", 'start': 1162.0, 'duration': 2.48}
+{'text': "we're talking a little bit more", 'start': 1163.039, 'duration': 3.52}
+{'text': "like body composition that's what we're", 'start': 1164.48, 'duration': 3.6}
+{'text': 'talking about what no no when if body', 'start': 1166.559, 'duration': 3.041}
+{'text': "composition all you're talking about is", 'start': 1168.08, 'duration': 3.28}
+{'text': 'like your body fat to muscle sure but', 'start': 1169.6, 'duration': 3.04}
+{'text': "that's not all that goes into powering a", 'start': 1171.36, 'duration': 2.0}
+{'text': 'body', 'start': 1172.64, 'duration': 2.159}
+{'text': "okay so what so what you're trying to", 'start': 1173.36, 'duration': 2.72}
+{'text': "say is you're choosing the rice with", 'start': 1174.799, 'duration': 3.441}
+{'text': 'more fiber you win', 'start': 1176.08, 'duration': 3.599}
+{'text': "no it's not just about rice i'm just", 'start': 1178.24, 'duration': 3.2}
+{'text': "saying that all sugar isn't bad for you", 'start': 1179.679, 'duration': 3.441}
+{'text': 'usually people say sugar is bad because', 'start': 1181.44, 'duration': 2.8}
+{'text': 'usually the types of sugar', 'start': 1183.12, 'duration': 2.4}
+{'text': 'in our diets are like refined and', 'start': 1184.24, 'duration': 2.64}
+{'text': "processed sugars but there's like", 'start': 1185.52, 'duration': 2.48}
+{'text': 'complex carbs and like', 'start': 1186.88, 'duration': 4.0}
+{'text': "what i'm saying circa officials twitter", 'start': 1188.0, 'duration': 4.08}
+{'text': 'has lost this debate', 'start': 1190.88, 'duration': 3.36}
+{'text': 'you win remember to hit that like and', 'start': 1192.08, 'duration': 3.2}
+{'text': "subscribe and don't forget the", 'start': 1194.24, 'duration': 3.04}
+{'text': 'notification bell so that my videos show', 'start': 1195.28, 'duration': 2.48}
+{'text': 'up', 'start': 1197.28, 'duration': 5.44}
+{'text': 'right in your feed', 'start': 1197.76, 'duration': 4.96}

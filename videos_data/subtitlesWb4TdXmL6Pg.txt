@@ -1,0 +1,1285 @@
+{'text': '[Music]', 'start': 0.0, 'duration': 2.159}
+{'text': 'you fit ninety percent into that eleven', 'start': 0.16, 'duration': 3.84}
+{'text': 'percent you have a way of really making', 'start': 2.159, 'duration': 3.921}
+{'text': "that oh is it like i'm so curious if", 'start': 4.0, 'duration': 3.919}
+{'text': "he's like if he would accept arguments", 'start': 6.08, 'duration': 4.0}
+{'text': 'or any of this is like movable for him', 'start': 7.919, 'duration': 4.481}
+{'text': 'so again because you told me i could get', 'start': 10.08, 'duration': 4.639}
+{'text': 'the [\xa0__\xa0] out yes', 'start': 12.4, 'duration': 4.08}
+{'text': "right so you threatened me i don't know", 'start': 14.719, 'duration': 3.441}
+{'text': "i didn't study", 'start': 16.48, 'duration': 2.959}
+{'text': "boundaries it's not threatening you to", 'start': 18.16, 'duration': 2.72}
+{'text': "tell you you don't have to talk to me", 'start': 19.439, 'duration': 3.76}
+{'text': "that's not a threat it is a threat what", 'start': 20.88, 'duration': 4.159}
+{'text': 'is the threat', 'start': 23.199, 'duration': 3.761}
+{'text': "i know i don't know", 'start': 25.039, 'duration': 4.721}
+{'text': "i don't know if i can do it another day", 'start': 26.96, 'duration': 6.239}
+{'text': "or if i just can't do it", 'start': 29.76, 'duration': 3.439}
+{'text': 'okay', 'start': 37.92, 'duration': 3.0}
+{'text': 'you put on makeup', 'start': 56.64, 'duration': 3.2}
+{'text': 'yeah', 'start': 64.559, 'duration': 4.88}
+{'text': "i don't like makeup i don't know", 'start': 65.76, 'duration': 3.679}
+{'text': 'why do you do this', 'start': 70.4, 'duration': 3.44}
+{'text': "wait i don't need to do this", 'start': 75.6, 'duration': 4.08}
+{'text': "don't", 'start': 77.439, 'duration': 2.241}
+{'text': 'like how sad i look all the time one of', 'start': 82.799, 'duration': 6.241}
+{'text': 'the most mind [\xa0__\xa0] things', 'start': 86.159, 'duration': 7.761}
+{'text': "about makeup it's so hard to", 'start': 89.04, 'duration': 4.88}
+{'text': 'convince somebody', 'start': 94.64, 'duration': 2.96}
+{'text': "i can't have this conversation because i", 'start': 97.84, 'duration': 2.72}
+{'text': "just realized you're all [\xa0__\xa0] in", 'start': 99.36, 'duration': 2.399}
+{'text': 'cells', 'start': 100.56, 'duration': 3.44}
+{'text': 'the', 'start': 101.759, 'duration': 2.241}
+{'text': "i don't know how many of you know what", 'start': 107.36, 'duration': 2.96}
+{'text': "actual women look like i don't know how", 'start': 108.72, 'duration': 3.12}
+{'text': 'if anybody anybody knows what a woman', 'start': 110.32, 'duration': 3.04}
+{'text': "looks like anymore like i don't think", 'start': 111.84, 'duration': 2.959}
+{'text': 'anybody knows', 'start': 113.36, 'duration': 3.759}
+{'text': 'um', 'start': 114.799, 'duration': 2.32}
+{'text': 'like women without makeup look fine', 'start': 117.2, 'duration': 3.199}
+{'text': "they're cute everything's cool", 'start': 118.96, 'duration': 3.28}
+{'text': "everything's chill but it is impossible", 'start': 120.399, 'duration': 2.961}
+{'text': 'to convince a woman that you actually', 'start': 122.24, 'duration': 2.559}
+{'text': 'feel that way', 'start': 123.36, 'duration': 3.359}
+{'text': 'there are like i know so many women that', 'start': 124.799, 'duration': 4.001}
+{'text': 'will', 'start': 126.719, 'duration': 4.481}
+{'text': 'you wake up in the morning and like she', 'start': 128.8, 'duration': 4.0}
+{'text': 'will get out of bed immediately to put', 'start': 131.2, 'duration': 3.2}
+{'text': 'her makeup and then come on 14 points of', 'start': 132.8, 'duration': 3.68}
+{'text': 'fascism this silly liberal arts garage', 'start': 134.4, 'duration': 3.36}
+{'text': "and i'm like", 'start': 136.48, 'duration': 2.64}
+{'text': 'bro', 'start': 137.76, 'duration': 5.36}
+{'text': 'why are you okay', 'start': 139.12, 'duration': 5.839}
+{'text': "i don't need you to have eyeliner on to", 'start': 143.12, 'duration': 3.36}
+{'text': "just lay here with you and it's like", 'start': 144.959, 'duration': 3.441}
+{'text': "well you know it's like no i don't know", 'start': 146.48, 'duration': 4.479}
+{'text': 'what the [\xa0__\xa0] is wrong with you', 'start': 148.4, 'duration': 4.08}
+{'text': "that's what happens next now you need", 'start': 150.959, 'duration': 3.36}
+{'text': "makeup i'm just kidding in a video game", 'start': 152.48, 'duration': 4.64}
+{'text': "in a video game okay no but it's like", 'start': 154.319, 'duration': 4.401}
+{'text': "there's like a weird", 'start': 157.12, 'duration': 3.28}
+{'text': "there's this weird thing that happens", 'start': 158.72, 'duration': 3.2}
+{'text': 'where', 'start': 160.4, 'duration': 3.119}
+{'text': 'because', 'start': 161.92, 'duration': 3.44}
+{'text': "a woman will say this and it's", 'start': 163.519, 'duration': 4.321}
+{'text': 'impossible to figure out where where the', 'start': 165.36, 'duration': 4.159}
+{'text': "truth is or if there's like some", 'start': 167.84, 'duration': 5.36}
+{'text': 'deception or self-deception or what um', 'start': 169.519, 'duration': 5.36}
+{'text': 'will be like well i wear makeup because', 'start': 173.2, 'duration': 3.119}
+{'text': 'i like the way that it looks me it makes', 'start': 174.879, 'duration': 4.561}
+{'text': "me look and it's like", 'start': 176.319, 'duration': 4.801}
+{'text': 'is that actually true', 'start': 179.44, 'duration': 3.439}
+{'text': 'or do you like the way that it makes you', 'start': 181.12, 'duration': 3.199}
+{'text': 'look because of how other people treat', 'start': 182.879, 'duration': 2.961}
+{'text': 'you based on how you look', 'start': 184.319, 'duration': 3.2}
+{'text': 'like it is impossible to disentangle', 'start': 185.84, 'duration': 2.72}
+{'text': "that and even with women because i'll", 'start': 187.519, 'duration': 2.401}
+{'text': 'have really honest conversations about', 'start': 188.56, 'duration': 2.88}
+{'text': 'women about what do you think and i', 'start': 189.92, 'duration': 2.8}
+{'text': 'think most of them will admit that', 'start': 191.44, 'duration': 2.799}
+{'text': "they're like", 'start': 192.72, 'duration': 4.48}
+{'text': "it's hard to tell like i think i look", 'start': 194.239, 'duration': 4.321}
+{'text': 'better with makeup but maybe it is', 'start': 197.2, 'duration': 2.88}
+{'text': 'because a lot of people tell me that if', 'start': 198.56, 'duration': 2.72}
+{'text': "i don't have makeup when i look sick or", 'start': 200.08, 'duration': 4.32}
+{'text': "whatever but um yeah i don't know just", 'start': 201.28, 'duration': 5.36}
+{'text': 'but the problem is that like my advocacy', 'start': 204.4, 'duration': 4.72}
+{'text': "can't go both ways i can't tell women", 'start': 206.64, 'duration': 3.679}
+{'text': 'like hey', 'start': 209.12, 'duration': 2.56}
+{'text': 'um', 'start': 210.319, 'duration': 3.361}
+{'text': 'you need to stop wearing makeup so that', 'start': 211.68, 'duration': 3.279}
+{'text': 'everybody remembers or everybody can', 'start': 213.68, 'duration': 2.32}
+{'text': 'know what women look like you need to', 'start': 214.959, 'duration': 3.041}
+{'text': 'stop wearing makeup please because then', 'start': 216.0, 'duration': 3.36}
+{'text': 'when they do that a whole bunch of guys', 'start': 218.0, 'duration': 2.72}
+{'text': 'will be like oh you look disgusting', 'start': 219.36, 'duration': 3.519}
+{'text': "you're horrible like everything is [\xa0__\xa0]", 'start': 220.72, 'duration': 3.519}
+{'text': "whatever and it's like okay what the", 'start': 222.879, 'duration': 4.681}
+{'text': '[\xa0__\xa0] you know', 'start': 224.239, 'duration': 3.321}
+{'text': "you're gonna get nice and perky for the", 'start': 234.56, 'duration': 5.599}
+{'text': 'the video', 'start': 237.2, 'duration': 5.84}
+{'text': "you think that's what uh", 'start': 240.159, 'duration': 5.041}
+{'text': "people don't like about you in my videos", 'start': 243.04, 'duration': 3.279}
+{'text': 'can that be said for anything you wear', 'start': 245.2, 'duration': 2.72}
+{'text': "aesthetically whatever yep that's why i", 'start': 246.319, 'duration': 3.2}
+{'text': 'wear sweatpants and a t-shirt because', 'start': 247.92, 'duration': 4.08}
+{'text': "i'm not a slave i'm not a slave to", 'start': 249.519, 'duration': 4.401}
+{'text': 'appearances in society like my subreddit', 'start': 252.0, 'duration': 3.68}
+{'text': 'posters are like you guys are when', 'start': 253.92, 'duration': 3.52}
+{'text': "you're at the subreddit if you would", 'start': 255.68, 'duration': 4.64}
+{'text': 'just get a nice pair of jeans and some', 'start': 257.44, 'duration': 5.039}
+{'text': 'shoes it would just', 'start': 260.32, 'duration': 4.56}
+{'text': "be better that's why because i'm because", 'start': 262.479, 'duration': 4.881}
+{'text': "i'm above you i'm better than you", 'start': 264.88, 'duration': 4.72}
+{'text': "because i don't give a [\xa0__\xa0] okay that's", 'start': 267.36, 'duration': 4.48}
+{'text': "where i am and that's who you are okay", 'start': 269.6, 'duration': 3.68}
+{'text': "i'm the guy that shows up in sweatpants", 'start': 271.84, 'duration': 3.6}
+{'text': "then i [\xa0__\xa0] your mom okay your mom won't", 'start': 273.28, 'duration': 4.0}
+{'text': 'even talk to you no matter what you wear', 'start': 275.44, 'duration': 4.0}
+{'text': "because she's seriously sucking my", 'start': 277.28, 'duration': 5.359}
+{'text': 'big cuban [\xa0__\xa0]', 'start': 279.44, 'duration': 5.52}
+{'text': "i'm a level five you're a level one with", 'start': 282.639, 'duration': 5.521}
+{'text': 'no hope kid okay', 'start': 284.96, 'duration': 3.2}
+{'text': "it's too sad", 'start': 291.44, 'duration': 2.72}
+{'text': "you know that's why people criticize me", 'start': 295.28, 'duration': 2.8}
+{'text': "because you're so sad that they feel", 'start': 296.56, 'duration': 3.12}
+{'text': 'like', 'start': 298.08, 'duration': 4.8}
+{'text': "i think it's part of it", 'start': 299.68, 'duration': 3.2}
+{'text': 'and i think especially people who knew', 'start': 303.68, 'duration': 4.72}
+{'text': 'me before i met you', 'start': 306.24, 'duration': 5.2}
+{'text': 'i think oh i wore a lot of makeup to', 'start': 308.4, 'duration': 4.88}
+{'text': 'hide that', 'start': 311.44, 'duration': 3.28}
+{'text': "i also know they think that you're sad", 'start': 313.28, 'duration': 2.88}
+{'text': "you're already talking to brittany wait", 'start': 314.72, 'duration': 2.8}
+{'text': 'right now', 'start': 316.16, 'duration': 5.36}
+{'text': 'wait link or is that happening later', 'start': 317.52, 'duration': 4.0}
+{'text': "no i hate her name i don't know how to", 'start': 321.759, 'duration': 4.72}
+{'text': 'spell it ever', 'start': 323.68, 'duration': 2.799}
+{'text': "she's not even streaming cherry okay", 'start': 334.0, 'duration': 4.44}
+{'text': 'because of me', 'start': 338.479, 'duration': 3.441}
+{'text': 'right', 'start': 340.4, 'duration': 2.799}
+{'text': '[Music]', 'start': 341.92, 'duration': 2.96}
+{'text': 'this might be the most sociopathic thing', 'start': 343.199, 'duration': 3.201}
+{'text': 'ever wait', 'start': 344.88, 'duration': 5.4}
+{'text': 'oh okay never mind', 'start': 346.4, 'duration': 3.88}
+{'text': "they don't understand how happy i make", 'start': 358.639, 'duration': 2.56}
+{'text': 'you', 'start': 360.319, 'duration': 3.201}
+{'text': 'all right', 'start': 361.199, 'duration': 2.321}
+{'text': "wouldn't the same be true for like", 'start': 364.479, 'duration': 2.481}
+{'text': "beards or something like you don't shave", 'start': 365.52, 'duration': 2.959}
+{'text': 'um i have to spend more time thinking', 'start': 366.96, 'duration': 3.12}
+{'text': "about it but there's like", 'start': 368.479, 'duration': 3.521}
+{'text': "there there's i think that you can like", 'start': 370.08, 'duration': 3.119}
+{'text': 'extend', 'start': 372.0, 'duration': 2.319}
+{'text': 'the', 'start': 373.199, 'duration': 2.72}
+{'text': "there's like a range of like what the", 'start': 374.319, 'duration': 2.72}
+{'text': 'normal', 'start': 375.919, 'duration': 2.881}
+{'text': 'human appearance can be and by normal i', 'start': 377.039, 'duration': 3.041}
+{'text': 'mean like whatever is like naturally', 'start': 378.8, 'duration': 3.2}
+{'text': 'possible but then we can extend that', 'start': 380.08, 'duration': 3.839}
+{'text': 'further with like artificial stuff like', 'start': 382.0, 'duration': 3.44}
+{'text': 'makeup or', 'start': 383.919, 'duration': 4.081}
+{'text': 'uh whatever i feel like the extension', 'start': 385.44, 'duration': 5.36}
+{'text': 'into that artificial realm is damaging i', 'start': 388.0, 'duration': 4.319}
+{'text': "don't think there's anything inherently", 'start': 390.8, 'duration': 4.08}
+{'text': 'wrong with makeup i think that the issue', 'start': 392.319, 'duration': 4.72}
+{'text': 'is when like', 'start': 394.88, 'duration': 4.64}
+{'text': 'if this is like the normal range of', 'start': 397.039, 'duration': 5.361}
+{'text': 'human appearance', 'start': 399.52, 'duration': 2.88}
+{'text': 'and then the like the boosted range with', 'start': 405.199, 'duration': 3.28}
+{'text': 'makeup', 'start': 407.6, 'duration': 3.84}
+{'text': 'is like over here', 'start': 408.479, 'duration': 4.401}
+{'text': "i don't think anything is like wrong or", 'start': 411.44, 'duration': 3.199}
+{'text': 'bad about this', 'start': 412.88, 'duration': 3.28}
+{'text': 'but the issue', 'start': 414.639, 'duration': 3.68}
+{'text': 'is that people start to think that like', 'start': 416.16, 'duration': 4.8}
+{'text': 'the normal range of of what humans look', 'start': 418.319, 'duration': 6.401}
+{'text': 'like like becomes like this', 'start': 420.96, 'duration': 5.359}
+{'text': 'like these are what normal people look', 'start': 424.72, 'duration': 2.8}
+{'text': 'like now', 'start': 426.319, 'duration': 2.961}
+{'text': "so like if you're like molina you can", 'start': 427.52, 'duration': 3.84}
+{'text': 'get away with not wearing makeup okay', 'start': 429.28, 'duration': 3.759}
+{'text': 'like you good job your eyebrows work', 'start': 431.36, 'duration': 3.04}
+{'text': 'your lips have color your your blonde', 'start': 433.039, 'duration': 4.321}
+{'text': 'okay greg congrats right but for like', 'start': 434.4, 'duration': 4.96}
+{'text': "a lot of people you're kind of like", 'start': 437.36, 'duration': 3.44}
+{'text': "[\xa0__\xa0] where it's like okay [\xa0__\xa0] well if", 'start': 439.36, 'duration': 3.2}
+{'text': "i don't have like already you know", 'start': 440.8, 'duration': 3.2}
+{'text': 'insane facial features or whatever like', 'start': 442.56, 'duration': 3.759}
+{'text': "i'm just i'm [\xa0__\xa0] um because this is", 'start': 444.0, 'duration': 4.319}
+{'text': 'like people think that this is what a', 'start': 446.319, 'duration': 3.841}
+{'text': 'normal like everybody has like blushing', 'start': 448.319, 'duration': 3.761}
+{'text': 'red lips and cheeks and [\xa0__\xa0] crazy', 'start': 450.16, 'duration': 3.12}
+{'text': "and it's like okay well what the [\xa0__\xa0]", 'start': 452.08, 'duration': 4.239}
+{'text': 'you know um', 'start': 453.28, 'duration': 3.039}
+{'text': "yeah i don't know i like this this part", 'start': 456.56, 'duration': 4.4}
+{'text': 'here is just kind of what worries me um', 'start': 458.479, 'duration': 4.641}
+{'text': 'typical woman response leave makeup', 'start': 460.96, 'duration': 3.919}
+{'text': "alone it's just fun for some ladies", 'start': 463.12, 'duration': 5.04}
+{'text': "that's a massive cope that is a massive", 'start': 464.879, 'duration': 4.801}
+{'text': "that is the biggest cope i've ever", 'start': 468.16, 'duration': 3.599}
+{'text': 'gotten sent to me ever my entire life', 'start': 469.68, 'duration': 3.04}
+{'text': 'okay', 'start': 471.759, 'duration': 4.601}
+{'text': "i don't believe it", 'start': 472.72, 'duration': 3.64}
+{'text': "uh they don't they don't understand me", 'start': 488.319, 'duration': 5.121}
+{'text': 'no one [\xa0__\xa0] understands me', 'start': 490.8, 'duration': 4.079}
+{'text': "oh that's cute they like talk like each", 'start': 493.44, 'duration': 3.84}
+{'text': 'other right', 'start': 494.879, 'duration': 4.561}
+{'text': 'um', 'start': 497.28, 'duration': 3.359}
+{'text': 'did you', 'start': 499.44, 'duration': 2.72}
+{'text': "no one [\xa0__\xa0] understands me that's", 'start': 500.639, 'duration': 3.28}
+{'text': "like a mr girl line they don't they", 'start': 502.16, 'duration': 3.92}
+{'text': "don't understand me no one [\xa0__\xa0]", 'start': 503.919, 'duration': 4.801}
+{'text': 'understands me', 'start': 506.08, 'duration': 2.64}
+{'text': "um okay so you've been pretty upset with", 'start': 511.199, 'duration': 5.52}
+{'text': 'me for the last few days', 'start': 513.519, 'duration': 3.2}
+{'text': 'because i said that you were my sex doll', 'start': 517.76, 'duration': 4.24}
+{'text': 'right', 'start': 521.12, 'duration': 2.479}
+{'text': "do you want to talk i'm going to tell", 'start': 522.0, 'duration': 4.32}
+{'text': 'people what happened', 'start': 523.599, 'duration': 2.721}
+{'text': '[Music]', 'start': 529.41, 'duration': 6.109}
+{'text': 'well i think what happened was that you', 'start': 532.24, 'duration': 5.84}
+{'text': 'left into bed with me', 'start': 535.519, 'duration': 5.041}
+{'text': 'gave me a little cuddle', 'start': 538.08, 'duration': 5.28}
+{'text': 'and then said', 'start': 540.56, 'duration': 2.8}
+{'text': 'um', 'start': 544.08, 'duration': 5.759}
+{'text': "you're my real sex doll", 'start': 545.92, 'duration': 3.919}
+{'text': 'and i was like no', 'start': 552.16, 'duration': 7.08}
+{'text': 'and you were like yes you are', 'start': 555.04, 'duration': 4.2}
+{'text': 'and i was like', 'start': 563.2, 'duration': 3.759}
+{'text': 'well', 'start': 565.279, 'duration': 4.081}
+{'text': "no i don't like that you're saying that", 'start': 566.959, 'duration': 4.401}
+{'text': "it's freaking me out", 'start': 569.36, 'duration': 3.52}
+{'text': 'um', 'start': 571.36, 'duration': 4.08}
+{'text': 'i think oh wait i think that you may', 'start': 572.88, 'duration': 4.88}
+{'text': 'have done this in response to me saying', 'start': 575.44, 'duration': 4.72}
+{'text': 'i was a little bit like anxious and', 'start': 577.76, 'duration': 4.16}
+{'text': 'needed some reassurance about the sex', 'start': 580.16, 'duration': 3.76}
+{'text': 'doll is that true or was i just thinking', 'start': 581.92, 'duration': 2.96}
+{'text': 'that', 'start': 583.92, 'duration': 2.24}
+{'text': "i don't know", 'start': 584.88, 'duration': 3.6}
+{'text': 'okay well i think i was thinking that i', 'start': 586.16, 'duration': 5.679}
+{'text': 'may have said it', 'start': 588.48, 'duration': 3.359}
+{'text': 'no', 'start': 592.56, 'duration': 3.6}
+{'text': "i don't", 'start': 593.92, 'duration': 2.24}
+{'text': '[Laughter]', 'start': 599.49, 'duration': 6.11}
+{'text': "remember i don't i don't like that", 'start': 602.839, 'duration': 5.641}
+{'text': 'though because', 'start': 605.6, 'duration': 2.88}
+{'text': 'because i think', 'start': 610.88, 'duration': 2.8}
+{'text': 'although yes', 'start': 614.079, 'duration': 2.88}
+{'text': "because we're in a monogamous", 'start': 617.6, 'duration': 3.28}
+{'text': 'relationship technically i am', 'start': 618.8, 'duration': 5.599}
+{'text': 'the only possible real sex doll', 'start': 620.88, 'duration': 5.12}
+{'text': 'the', 'start': 624.399, 'duration': 3.601}
+{'text': "implication is that i don't get to have", 'start': 626.0, 'duration': 6.079}
+{'text': 'any boundaries or set any limits', 'start': 628.0, 'duration': 4.079}
+{'text': "it's not that you don't get to have any", 'start': 635.92, 'duration': 3.84}
+{'text': "limits it's that there's a limit", 'start': 637.2, 'duration': 4.96}
+{'text': 'to your limits', 'start': 639.76, 'duration': 4.72}
+{'text': 'well yeah come here', 'start': 642.16, 'duration': 5.679}
+{'text': 'you have to have sex with me', 'start': 644.48, 'duration': 3.359}
+{'text': 'eventually', 'start': 651.68, 'duration': 2.56}
+{'text': 'well', 'start': 657.12, 'duration': 3.12}
+{'text': 'i think so but is that true it would', 'start': 658.0, 'duration': 5.44}
+{'text': 'just kind of this is like half the story', 'start': 660.24, 'duration': 5.36}
+{'text': 'you have to have sex with him', 'start': 663.44, 'duration': 3.76}
+{'text': "to maintain the relationship you don't", 'start': 665.6, 'duration': 2.88}
+{'text': 'have to text him you could just dump the', 'start': 667.2, 'duration': 3.04}
+{'text': 'relationship right yeah', 'start': 668.48, 'duration': 3.039}
+{'text': 'i want five bucks for look at my donut', 'start': 670.24, 'duration': 2.8}
+{'text': "don't ignore me what i don't care you're", 'start': 671.519, 'duration': 2.641}
+{'text': "me a video that's fine i'm in the middle", 'start': 673.04, 'duration': 2.08}
+{'text': 'of watching another video why are you', 'start': 674.16, 'duration': 1.919}
+{'text': 'donating me demanding me to watch', 'start': 675.12, 'duration': 2.08}
+{'text': 'another video while watching the current', 'start': 676.079, 'duration': 2.721}
+{'text': 'video what is [\xa0__\xa0] wrong with you', 'start': 677.2, 'duration': 2.96}
+{'text': "this is my donation donation i'm muted", 'start': 678.8, 'duration': 3.36}
+{'text': 'right now and i have links to my chat', 'start': 680.16, 'duration': 4.32}
+{'text': 'chill', 'start': 682.16, 'duration': 2.32}
+{'text': 'well', 'start': 685.36, 'duration': 3.12}
+{'text': 'i think so but is that true you would', 'start': 686.24, 'duration': 3.68}
+{'text': 'just break up with me if i said we', 'start': 688.48, 'duration': 3.599}
+{'text': "couldn't have sex anymore", 'start': 689.92, 'duration': 3.44}
+{'text': 'i thought that i would just break up', 'start': 692.079, 'duration': 2.801}
+{'text': 'with you i just think our relationship', 'start': 693.36, 'duration': 3.28}
+{'text': 'would either', 'start': 694.88, 'duration': 4.0}
+{'text': 'change to a platonic relationship', 'start': 696.64, 'duration': 3.52}
+{'text': 'which case it would no longer be our', 'start': 698.88, 'duration': 2.399}
+{'text': 'relationship', 'start': 700.16, 'duration': 3.28}
+{'text': "or wouldn't fall apart somehow but one", 'start': 701.279, 'duration': 3.841}
+{'text': 'way or the other in order to keep our', 'start': 703.44, 'duration': 2.88}
+{'text': 'relationship', 'start': 705.12, 'duration': 4.159}
+{'text': 'sex is essential', 'start': 706.32, 'duration': 2.959}
+{'text': 'in order to keep our relationship as a', 'start': 709.6, 'duration': 4.239}
+{'text': 'as a romantic relationship you have to', 'start': 711.519, 'duration': 7.361}
+{'text': 'have sex with me especially', 'start': 713.839, 'duration': 6.56}
+{'text': "i really if i'm allowed to have sex with", 'start': 718.88, 'duration': 3.519}
+{'text': 'anybody else', 'start': 720.399, 'duration': 5.201}
+{'text': "you can't just make me never have sex", 'start': 722.399, 'duration': 5.44}
+{'text': 'right', 'start': 725.6, 'duration': 2.239}
+{'text': 'so you have to have sex with me', 'start': 728.24, 'duration': 4.96}
+{'text': 'so you can have boundaries', 'start': 730.8, 'duration': 4.08}
+{'text': 'to a point', 'start': 733.2, 'duration': 3.36}
+{'text': 'you can say no', 'start': 734.88, 'duration': 5.56}
+{'text': 'for a certain number of times', 'start': 736.56, 'duration': 3.88}
+{'text': 'how did your chest talk about a mr girl', 'start': 744.639, 'duration': 5.361}
+{'text': 'i have 14 chest hairs', 'start': 746.24, 'duration': 3.76}
+{'text': 'um yeah but', 'start': 752.0, 'duration': 4.48}
+{'text': 'you have to get', 'start': 755.04, 'duration': 4.4}
+{'text': 'me off', 'start': 756.48, 'duration': 6.32}
+{'text': "yeah and that's fine but no", 'start': 759.44, 'duration': 7.199}
+{'text': 'you have to i know okay', 'start': 762.8, 'duration': 3.839}
+{'text': 'but i just think that the implication of', 'start': 767.44, 'duration': 3.92}
+{'text': 'it is scary', 'start': 769.839, 'duration': 3.521}
+{'text': "what's up", 'start': 771.36, 'duration': 4.479}
+{'text': 'uh just', 'start': 773.36, 'duration': 5.2}
+{'text': "and well sex dolls get raped they don't", 'start': 775.839, 'duration': 4.961}
+{'text': 'have any choice they have no autonomy', 'start': 778.56, 'duration': 4.24}
+{'text': 'they just lie there okay', 'start': 780.8, 'duration': 5.76}
+{'text': 'i i prefer it when you just lie there', 'start': 782.8, 'duration': 5.2}
+{'text': "and i think what i've discovered through", 'start': 786.56, 'duration': 3.2}
+{'text': 'this sex doll thing', 'start': 788.0, 'duration': 3.6}
+{'text': 'i thought', 'start': 789.76, 'duration': 4.079}
+{'text': 'i thought this was great', 'start': 791.6, 'duration': 3.679}
+{'text': 'because i know you get upset when i tell', 'start': 793.839, 'duration': 4.0}
+{'text': 'you to just lie there', 'start': 795.279, 'duration': 3.841}
+{'text': 'sort of', 'start': 797.839, 'duration': 3.12}
+{'text': 'yes and no no no', 'start': 799.12, 'duration': 4.0}
+{'text': 'you get upset', 'start': 800.959, 'duration': 3.921}
+{'text': "when i say just lie face down and don't", 'start': 803.12, 'duration': 4.0}
+{'text': 'move', 'start': 804.88, 'duration': 2.24}
+{'text': 'you get upset', 'start': 808.16, 'duration': 4.479}
+{'text': 'sort of yes yes and no what do you mean', 'start': 810.16, 'duration': 5.359}
+{'text': 'yes and no i mean', 'start': 812.639, 'duration': 5.281}
+{'text': "it's upsetting on the one hand on the", 'start': 815.519, 'duration': 3.76}
+{'text': "other hand i'm talking about the hand", 'start': 817.92, 'duration': 5.44}
+{'text': "that it's upsetting out okay okay", 'start': 819.279, 'duration': 4.081}
+{'text': 'can i just', 'start': 823.6, 'duration': 3.599}
+{'text': "talk okay hold on i don't i i i don't", 'start': 824.56, 'duration': 4.32}
+{'text': 'understand how sometimes when i say', 'start': 827.199, 'duration': 3.121}
+{'text': 'things it like leads to the most', 'start': 828.88, 'duration': 3.04}
+{'text': 'autistic conversations in the world and', 'start': 830.32, 'duration': 3.44}
+{'text': "then i get like there's like always like", 'start': 831.92, 'duration': 3.68}
+{'text': "the people i'll say some [\xa0__\xa0] like i", 'start': 833.76, 'duration': 3.12}
+{'text': "really enjoy driving cars i think i'd", 'start': 835.6, 'duration': 3.2}
+{'text': 'prefer to be driving a car instead of', 'start': 836.88, 'duration': 4.56}
+{'text': 'like biking or walking and then like', 'start': 838.8, 'duration': 4.159}
+{'text': 'someone tried to be like what about cars', 'start': 841.44, 'duration': 3.12}
+{'text': 'with bomb strapped to them destiny would', 'start': 842.959, 'duration': 2.88}
+{'text': 'you drive a car that had a bombshell', 'start': 844.56, 'duration': 2.88}
+{'text': 'what if you had a car that had a dildo', 'start': 845.839, 'duration': 2.961}
+{'text': 'that raped you every single time you put', 'start': 847.44, 'duration': 2.8}
+{'text': 'your left turn signal on dusty would you', 'start': 848.8, 'duration': 2.64}
+{'text': 'just break the law every time you did', 'start': 850.24, 'duration': 2.48}
+{'text': 'drive or would you just get raped every', 'start': 851.44, 'duration': 4.0}
+{'text': "time you have to turn left and it's like", 'start': 852.72, 'duration': 4.799}
+{'text': 'chill okay', 'start': 855.44, 'duration': 3.759}
+{'text': 'why is it naturally important what about', 'start': 857.519, 'duration': 4.081}
+{'text': 'clothes like', 'start': 859.199, 'duration': 4.561}
+{'text': 'let me just say this simply and then you', 'start': 861.6, 'duration': 4.32}
+{'text': 'can figure out for your own self you can', 'start': 863.76, 'duration': 5.199}
+{'text': 'do your own exercises okay', 'start': 865.92, 'duration': 5.919}
+{'text': 'things like facial hair okay you can', 'start': 868.959, 'duration': 4.721}
+{'text': 'shave and you can change up a little bit', 'start': 871.839, 'duration': 4.56}
+{'text': "that's fine okay things like your body", 'start': 873.68, 'duration': 4.08}
+{'text': 'you can work out or not work out a', 'start': 876.399, 'duration': 2.8}
+{'text': "little bit put on weight that's fine", 'start': 877.76, 'duration': 3.28}
+{'text': "it's within the natural realm of things", 'start': 879.199, 'duration': 3.44}
+{'text': 'okay', 'start': 881.04, 'duration': 3.2}
+{'text': 'having an expectation of society where', 'start': 882.639, 'duration': 2.801}
+{'text': 'people like shave or maintain their', 'start': 884.24, 'duration': 3.039}
+{'text': "heart take showers i think that's fine i", 'start': 885.44, 'duration': 3.92}
+{'text': "think that's okay i don't like the idea", 'start': 887.279, 'duration': 3.761}
+{'text': 'that it is an expectation that you have', 'start': 889.36, 'duration': 3.76}
+{'text': 'to paint your face to look acceptable', 'start': 891.04, 'duration': 3.2}
+{'text': "because it's just something a little bit", 'start': 893.12, 'duration': 2.48}
+{'text': 'weirder a little different now if you', 'start': 894.24, 'duration': 2.8}
+{'text': "can't figure out or if you think my", 'start': 895.6, 'duration': 2.72}
+{'text': 'standards are [\xa0__\xa0] or you think', 'start': 897.04, 'duration': 2.4}
+{'text': "everything i'm saying is them that's", 'start': 898.32, 'duration': 2.72}
+{'text': "fine you can have that okay but don't", 'start': 899.44, 'duration': 5.199}
+{'text': 'type some [\xa0__\xa0] unbelievably okay some', 'start': 901.04, 'duration': 6.64}
+{'text': 'actual weapons-grade autistic [\xa0__\xa0] in my', 'start': 904.639, 'duration': 6.32}
+{'text': 'chat like what about clothes destiny', 'start': 907.68, 'duration': 4.88}
+{'text': 'okay just', 'start': 910.959, 'duration': 4.801}
+{'text': "that's all i'm just chill", 'start': 912.56, 'duration': 6.639}
+{'text': 'jesus christ', 'start': 915.76, 'duration': 3.439}
+{'text': "i'm sorry i didn't mean to be mean okay", 'start': 924.8, 'duration': 4.159}
+{'text': 'i love you', 'start': 929.04, 'duration': 4.64}
+{'text': 'i love you so much', 'start': 931.12, 'duration': 4.719}
+{'text': "i'll give you a pro tip in exchange for", 'start': 933.68, 'duration': 4.64}
+{'text': 'my rage given this one before okay', 'start': 935.839, 'duration': 3.68}
+{'text': 'if you ever gonna have girls over at', 'start': 938.32, 'duration': 2.639}
+{'text': 'your house and you want to be a real', 'start': 939.519, 'duration': 4.401}
+{'text': 'player a real big baller', 'start': 940.959, 'duration': 4.721}
+{'text': 'a real big baller', 'start': 943.92, 'duration': 3.12}
+{'text': 'shot caller', 'start': 945.68, 'duration': 2.959}
+{'text': 'stock up on these [\xa0__\xa0] and put', 'start': 947.04, 'duration': 3.28}
+{'text': 'them in your bathroom okay women love', 'start': 948.639, 'duration': 3.44}
+{'text': "this [\xa0__\xa0] i don't know why i don't know", 'start': 950.32, 'duration': 3.759}
+{'text': "if it's the best brand but they always", 'start': 952.079, 'duration': 3.361}
+{'text': 'have these things these little makeup', 'start': 954.079, 'duration': 3.601}
+{'text': "wipes so they don't have to [\xa0__\xa0]", 'start': 955.44, 'duration': 4.319}
+{'text': 'scrape', 'start': 957.68, 'duration': 3.92}
+{'text': '[\xa0__\xa0] off their [\xa0__\xa0] face okay stock', 'start': 959.759, 'duration': 3.281}
+{'text': "up on these there you go that's your pro", 'start': 961.6, 'duration': 2.88}
+{'text': 'tip of the day', 'start': 963.04, 'duration': 2.239}
+{'text': 'chill', 'start': 964.48, 'duration': 2.24}
+{'text': 'okay', 'start': 965.279, 'duration': 5.36}
+{'text': 'take a breather calm down', 'start': 966.72, 'duration': 3.919}
+{'text': 'all right', 'start': 972.8, 'duration': 2.399}
+{'text': 'cherries oni what is cherry saying', 'start': 979.6, 'duration': 7.359}
+{'text': 'those are so bad for your face', 'start': 983.519, 'duration': 5.601}
+{'text': "i i've never heard that in my life i'm", 'start': 986.959, 'duration': 4.961}
+{'text': "sure that there's probably like a 52", 'start': 989.12, 'duration': 4.959}
+{'text': 'product system korean makeup removal', 'start': 991.92, 'duration': 3.52}
+{'text': '[\xa0__\xa0] if you want to be like ultra', 'start': 994.079, 'duration': 4.481}
+{'text': '[\xa0__\xa0] anal or some [\xa0__\xa0] um but pretty', 'start': 995.44, 'duration': 4.72}
+{'text': 'sure using these wipes is better than', 'start': 998.56, 'duration': 3.76}
+{'text': 'getting soap and having to [\xa0__\xa0] scrub', 'start': 1000.16, 'duration': 4.64}
+{'text': 'the [\xa0__\xa0] off your face um', 'start': 1002.32, 'duration': 5.439}
+{'text': "but yeah i'm sure there's like a 27-step", 'start': 1004.8, 'duration': 4.479}
+{'text': 'product cleanser system remover if you', 'start': 1007.759, 'duration': 3.2}
+{'text': 'want to do that too okay but at the end', 'start': 1009.279, 'duration': 2.8}
+{'text': "of the night when you've been out", 'start': 1010.959, 'duration': 3.041}
+{'text': 'drinking and you just finished [\xa0__\xa0]', 'start': 1012.079, 'duration': 3.521}
+{'text': 'and you barely are awake enough to get a', 'start': 1014.0, 'duration': 2.72}
+{'text': "drink of water it's nice you just have", 'start': 1015.6, 'duration': 1.919}
+{'text': 'something to wipe your face off', 'start': 1016.72, 'duration': 1.919}
+{'text': 'otherwise what happens is girls just', 'start': 1017.519, 'duration': 1.841}
+{'text': 'sleep in their makeup and then', 'start': 1018.639, 'duration': 2.56}
+{'text': 'everything gets [\xa0__\xa0] anyways', 'start': 1019.36, 'duration': 3.44}
+{'text': "what i'm just", 'start': 1021.199, 'duration': 2.961}
+{'text': 'i love you what are you talking about', 'start': 1022.8, 'duration': 2.72}
+{'text': 'how much i love', 'start': 1024.16, 'duration': 5.919}
+{'text': '[\xa0__\xa0] your mom mel i love your mom', 'start': 1025.52, 'duration': 5.919}
+{'text': 'what', 'start': 1030.079, 'duration': 3.6}
+{'text': "i love her she's the tightest [\xa0__\xa0] in", 'start': 1031.439, 'duration': 4.721}
+{'text': "the world it's so good", 'start': 1033.679, 'duration': 5.28}
+{'text': 'all i can think about is', 'start': 1036.16, 'duration': 5.039}
+{'text': 'how much i love you', 'start': 1038.959, 'duration': 5.041}
+{'text': 'and how much when i [\xa0__\xa0] your mom', 'start': 1041.199, 'duration': 5.041}
+{'text': "i'm thinking wow", 'start': 1044.0, 'duration': 3.76}
+{'text': 'this is the same [\xa0__\xa0] my beautiful', 'start': 1046.24, 'duration': 3.12}
+{'text': 'melina came out of', 'start': 1047.76, 'duration': 3.36}
+{'text': "and it's the one i'm about to come into", 'start': 1049.36, 'duration': 3.76}
+{'text': 'just okay i love you i love you mel', 'start': 1051.12, 'duration': 3.2}
+{'text': "don't get the knife on my screen i'm", 'start': 1053.12, 'duration': 4.08}
+{'text': 'gonna ban on youtube', 'start': 1054.32, 'duration': 2.88}
+{'text': 'driving me crazy good', 'start': 1060.0, 'duration': 6.52}
+{'text': 'okay be careful love you', 'start': 1062.24, 'duration': 4.28}
+{'text': 'okay just', 'start': 1067.44, 'duration': 2.88}
+{'text': "let's go back to watching this abusive", 'start': 1070.64, 'duration': 4.8}
+{'text': 'relationship and get away from mine', 'start': 1072.08, 'duration': 3.36}
+{'text': "without you trying to control what i'm", 'start': 1076.0, 'duration': 3.2}
+{'text': 'saying sure go ahead okay can you not', 'start': 1077.36, 'duration': 3.52}
+{'text': 'say go ahead can you just shut up and', 'start': 1079.2, 'duration': 3.2}
+{'text': 'just let me talk', 'start': 1080.88, 'duration': 4.32}
+{'text': 'even that is just annoying', 'start': 1082.4, 'duration': 4.56}
+{'text': 'shut up okay', 'start': 1085.2, 'duration': 4.0}
+{'text': 'okay', 'start': 1086.96, 'duration': 2.24}
+{'text': 'can i just', 'start': 1089.36, 'duration': 3.12}
+{'text': "talk here so it's it's always hard to be", 'start': 1090.32, 'duration': 3.76}
+{'text': "critical of max because you don't know", 'start': 1092.48, 'duration': 3.36}
+{'text': 'how much is like for the camera versus', 'start': 1094.08, 'duration': 3.04}
+{'text': "what's not", 'start': 1095.84, 'duration': 3.28}
+{'text': "for the camera so here's like a skill", 'start': 1097.12, 'duration': 3.36}
+{'text': "i've talked about this a lot before i", 'start': 1099.12, 'duration': 2.16}
+{'text': "don't know why i'm talking about it", 'start': 1100.48, 'duration': 2.0}
+{'text': 'because you guys are too autistic to', 'start': 1101.28, 'duration': 2.399}
+{'text': 'implement any of this in your real life', 'start': 1102.48, 'duration': 2.4}
+{'text': "okay because i'm just built there i'm a", 'start': 1103.679, 'duration': 3.681}
+{'text': "level five i'm a level five you guys are", 'start': 1104.88, 'duration': 4.88}
+{'text': 'twos some of your ones okay', 'start': 1107.36, 'duration': 4.64}
+{'text': 'um', 'start': 1109.76, 'duration': 4.799}
+{'text': "it's really important to know when to", 'start': 1112.0, 'duration': 4.799}
+{'text': "switch up and it's really important that", 'start': 1114.559, 'duration': 4.401}
+{'text': 'the people around you know that you know', 'start': 1116.799, 'duration': 4.801}
+{'text': 'when to switch up um like', 'start': 1118.96, 'duration': 4.56}
+{'text': 'i can be like very aggressive very', 'start': 1121.6, 'duration': 4.079}
+{'text': 'sarcastic very demeaning', 'start': 1123.52, 'duration': 5.039}
+{'text': 'like all of these types of things but if', 'start': 1125.679, 'duration': 4.321}
+{'text': "somebody's having a serious conversation", 'start': 1128.559, 'duration': 2.641}
+{'text': 'like i can create a lot of space for', 'start': 1130.0, 'duration': 2.88}
+{'text': 'them to express those feelings and to', 'start': 1131.2, 'duration': 2.8}
+{'text': 'feel like they can do it without', 'start': 1132.88, 'duration': 4.24}
+{'text': 'judgment without without aggression um', 'start': 1134.0, 'duration': 5.36}
+{'text': "i wonder sometimes i can't tell i don't", 'start': 1137.12, 'duration': 3.679}
+{'text': 'know because these are videos and i', 'start': 1139.36, 'duration': 2.4}
+{'text': "can't see the totality of the", 'start': 1140.799, 'duration': 2.801}
+{'text': 'relationship but i wonder sometimes if', 'start': 1141.76, 'duration': 3.44}
+{'text': 'like', 'start': 1143.6, 'duration': 3.68}
+{'text': 'if max knows when to switch up a little', 'start': 1145.2, 'duration': 5.52}
+{'text': "bit you know like um like if i'm talking", 'start': 1147.28, 'duration': 5.2}
+{'text': "to a girl and she's like i kind of think", 'start': 1150.72, 'duration': 3.36}
+{'text': 'i want to eat like whatever i want to go', 'start': 1152.48, 'duration': 2.96}
+{'text': "to applebee's and i'm like okay well", 'start': 1154.08, 'duration': 2.8}
+{'text': "that's great but i don't want to eat dog", 'start': 1155.44, 'duration': 3.44}
+{'text': "food tonight okay we're going to the", 'start': 1156.88, 'duration': 4.72}
+{'text': 'outback steakhouse the premium tier best', 'start': 1158.88, 'duration': 4.24}
+{'text': 'american restaurant', 'start': 1161.6, 'duration': 3.36}
+{'text': 'but if a girl is like hey', 'start': 1163.12, 'duration': 2.96}
+{'text': "i don't know if i appreciate like a", 'start': 1164.96, 'duration': 2.48}
+{'text': "comment you said about me i'm not gonna", 'start': 1166.08, 'duration': 2.959}
+{'text': "be like well get used to it because i'm", 'start': 1167.44, 'duration': 2.96}
+{'text': 'about to say it 10 more times now that', 'start': 1169.039, 'duration': 2.64}
+{'text': "you told me i'd bother you right that", 'start': 1170.4, 'duration': 3.36}
+{'text': 'would be like a timer like oh okay sure', 'start': 1171.679, 'duration': 4.24}
+{'text': "let's chat about this right you like you", 'start': 1173.76, 'duration': 3.36}
+{'text': 'have to be able to kind of like switch', 'start': 1175.919, 'duration': 2.801}
+{'text': 'gears', 'start': 1177.12, 'duration': 2.64}
+{'text': "when you're kind of feeling out where", 'start': 1178.72, 'duration': 2.48}
+{'text': 'the other person is in the conversation', 'start': 1179.76, 'duration': 3.279}
+{'text': "how they're feeling like for some things", 'start': 1181.2, 'duration': 3.12}
+{'text': 'you can lean into these like very', 'start': 1183.039, 'duration': 2.64}
+{'text': 'aggressively like have fun and banter', 'start': 1184.32, 'duration': 2.64}
+{'text': 'and all that but i think the other', 'start': 1185.679, 'duration': 2.961}
+{'text': 'person needs to know', 'start': 1186.96, 'duration': 2.719}
+{'text': 'that', 'start': 1188.64, 'duration': 4.0}
+{'text': 'you have the capability of of changing', 'start': 1189.679, 'duration': 4.321}
+{'text': "up and understanding what they're doing", 'start': 1192.64, 'duration': 3.36}
+{'text': 'and being less aggressive whatever um', 'start': 1194.0, 'duration': 3.039}
+{'text': 'like this seems like one of those times', 'start': 1196.0, 'duration': 2.48}
+{'text': "where maybe he should i don't know it's", 'start': 1197.039, 'duration': 3.841}
+{'text': 'hard to say', 'start': 1198.48, 'duration': 2.4}
+{'text': "without you trying to control what i'm", 'start': 1200.96, 'duration': 3.199}
+{'text': 'saying sure go ahead okay can you not', 'start': 1202.32, 'duration': 3.52}
+{'text': 'say go ahead can you just shut up and', 'start': 1204.159, 'duration': 3.281}
+{'text': 'just let me talk', 'start': 1205.84, 'duration': 4.319}
+{'text': 'even that is just annoying', 'start': 1207.44, 'duration': 4.479}
+{'text': 'i would just like to speak and then when', 'start': 1210.159, 'duration': 4.88}
+{'text': "i'm done then you can speak", 'start': 1211.919, 'duration': 3.12}
+{'text': 'okay', 'start': 1216.559, 'duration': 2.24}
+{'text': 'i thought i thought', 'start': 1218.88, 'duration': 3.679}
+{'text': 'well', 'start': 1220.96, 'duration': 3.36}
+{'text': 'since you get upset when i tell you just', 'start': 1222.559, 'duration': 3.6}
+{'text': "lie there and not move and the doll's", 'start': 1224.32, 'duration': 4.32}
+{'text': 'going to do that anyway', 'start': 1226.159, 'duration': 4.081}
+{'text': 'um', 'start': 1228.64, 'duration': 4.159}
+{'text': "it would be interesting to see what it's", 'start': 1230.24, 'duration': 5.6}
+{'text': 'like for me to just [\xa0__\xa0] the doll', 'start': 1232.799, 'duration': 4.561}
+{'text': 'because the doll always does what i', 'start': 1235.84, 'duration': 4.16}
+{'text': 'wanted to do', 'start': 1237.36, 'duration': 2.64}
+{'text': 'and um', 'start': 1240.159, 'duration': 2.64}
+{'text': "because i yeah i don't like it when you", 'start': 1244.32, 'duration': 3.12}
+{'text': "move when we're having sex", 'start': 1245.679, 'duration': 2.88}
+{'text': 'i i', 'start': 1247.44, 'duration': 3.2}
+{'text': "i don't like it the part that's for me", 'start': 1248.559, 'duration': 4.081}
+{'text': "like if there's if i'm like i just want", 'start': 1250.64, 'duration': 5.2}
+{'text': 'what i want i want to [\xa0__\xa0] you', 'start': 1252.64, 'duration': 5.76}
+{'text': "i'm not picturing you being like oh yeah", 'start': 1255.84, 'duration': 3.52}
+{'text': 'me', 'start': 1258.4, 'duration': 2.8}
+{'text': 'i just want you to not move and i want', 'start': 1259.36, 'duration': 4.319}
+{'text': 'you to lie there face down and be quiet', 'start': 1261.2, 'duration': 4.479}
+{'text': 'and be still', 'start': 1263.679, 'duration': 3.201}
+{'text': 'so i was thinking maybe the doll will', 'start': 1265.679, 'duration': 2.641}
+{'text': "make you jealous and then you'll want to", 'start': 1266.88, 'duration': 3.36}
+{'text': "do that more or maybe it'll be an outlet", 'start': 1268.32, 'duration': 4.56}
+{'text': "for me i think what i've realized", 'start': 1270.24, 'duration': 4.559}
+{'text': 'it with my sickening sexual experiences', 'start': 1272.88, 'duration': 4.08}
+{'text': 'with the doll is that', 'start': 1274.799, 'duration': 3.841}
+{'text': "it doesn't really mean anything if the", 'start': 1276.96, 'duration': 4.079}
+{'text': "doll's lying still", 'start': 1278.64, 'duration': 4.0}
+{'text': "it's not letting me", 'start': 1281.039, 'duration': 4.081}
+{'text': 'have my', 'start': 1282.64, 'duration': 2.48}
+{'text': 'yeah you can stream it no problem', 'start': 1285.6, 'duration': 6.72}
+{'text': 'hold on this time i want to talk august', 'start': 1290.0, 'duration': 4.799}
+{'text': 'cut august cut right here', 'start': 1292.32, 'duration': 5.479}
+{'text': 'cut', 'start': 1294.799, 'duration': 3.0}
+{'text': 'gone', 'start': 1309.679, 'duration': 2.801}
+{'text': 'gone', 'start': 1311.36, 'duration': 5.24}
+{'text': 'okay back to this sorry jesus', 'start': 1312.48, 'duration': 4.12}
+{'text': 'i think once you started to talk about', 'start': 1320.24, 'duration': 3.04}
+{'text': 'working poor proletariat stuff even if', 'start': 1321.76, 'duration': 2.72}
+{'text': "it's so you probably would convince him", 'start': 1323.28, 'duration': 2.32}
+{'text': 'on some things burning over your past', 'start': 1324.48, 'duration': 2.96}
+{'text': "with being working for i don't know that", 'start': 1325.6, 'duration': 6.36}
+{'text': "guy who's had a lot of stuff going on", 'start': 1327.44, 'duration': 4.52}
+{'text': 'a lot of stuff going on', 'start': 1332.159, 'duration': 4.321}
+{'text': 'with my sickening sexual experiences', 'start': 1334.72, 'duration': 2.88}
+{'text': 'with the doll', 'start': 1336.48, 'duration': 3.12}
+{'text': 'is that it all will make you jealous and', 'start': 1337.6, 'duration': 3.28}
+{'text': "then you'll want to do that more or", 'start': 1339.6, 'duration': 3.439}
+{'text': "maybe it'll be an outlet for me i think", 'start': 1340.88, 'duration': 3.84}
+{'text': "what i've realized", 'start': 1343.039, 'duration': 3.601}
+{'text': 'it with my sickening sexual experiences', 'start': 1344.72, 'duration': 3.04}
+{'text': 'with the doll', 'start': 1346.64, 'duration': 2.159}
+{'text': 'is that', 'start': 1347.76, 'duration': 2.72}
+{'text': "it doesn't really mean anything if the", 'start': 1348.799, 'duration': 4.081}
+{'text': "doll's lying still", 'start': 1350.48, 'duration': 4.0}
+{'text': "it's not letting me", 'start': 1352.88, 'duration': 3.44}
+{'text': "have my way with it there's no it's not", 'start': 1354.48, 'duration': 3.04}
+{'text': "it's not letting me", 'start': 1356.32, 'duration': 4.0}
+{'text': "it's not doing anything for me when you", 'start': 1357.52, 'duration': 4.08}
+{'text': "we've talked about this before i know", 'start': 1360.32, 'duration': 3.359}
+{'text': "it's for me when you are just not doing", 'start': 1361.6, 'duration': 3.76}
+{'text': "anything when you're not moaning you're", 'start': 1363.679, 'duration': 4.0}
+{'text': 'not like oh', 'start': 1365.36, 'duration': 4.64}
+{'text': "i know it's for me", 'start': 1367.679, 'duration': 5.201}
+{'text': "when you're not making it about yourself", 'start': 1370.0, 'duration': 4.24}
+{'text': 'and you have a tendency to make lots of', 'start': 1372.88, 'duration': 3.12}
+{'text': 'things about yourself i have a tendency', 'start': 1374.24, 'duration': 4.16}
+{'text': "to be very sensitive if something's 89", 'start': 1376.0, 'duration': 5.28}
+{'text': "for me but 11 for you i feel like it's", 'start': 1378.4, 'duration': 4.8}
+{'text': 'just for you because you have a way of', 'start': 1381.28, 'duration': 4.96}
+{'text': 'work you fit 90 into that 11 percent you', 'start': 1383.2, 'duration': 5.12}
+{'text': 'have a way of really making them is it', 'start': 1386.24, 'duration': 4.16}
+{'text': "like i'm so curious if he's like if he", 'start': 1388.32, 'duration': 4.0}
+{'text': 'would accept arguments or any of this is', 'start': 1390.4, 'duration': 5.04}
+{'text': 'like movable for him', 'start': 1392.32, 'duration': 3.12}
+{'text': 'because like something can be like 100', 'start': 1396.559, 'duration': 5.441}
+{'text': "for both people no or like it's such a", 'start': 1399.36, 'duration': 5.04}
+{'text': 'weird', 'start': 1402.0, 'duration': 2.4}
+{'text': "it's such a weird perspective two people", 'start': 1404.72, 'duration': 4.0}
+{'text': 'can engage in like sexual activity and', 'start': 1406.799, 'duration': 4.401}
+{'text': 'both of them are doing it literally 100', 'start': 1408.72, 'duration': 4.079}
+{'text': 'for themselves and both enjoy it like is', 'start': 1411.2, 'duration': 3.92}
+{'text': 'that not', 'start': 1412.799, 'duration': 2.321}
+{'text': 'and that', 'start': 1415.44, 'duration': 4.479}
+{'text': 'undermine the rest of it', 'start': 1416.64, 'duration': 3.279}
+{'text': "and then when it's not for you you get", 'start': 1420.0, 'duration': 4.159}
+{'text': "upset and then i know it's for me", 'start': 1421.52, 'duration': 5.279}
+{'text': 'and so i realized the doll you said the', 'start': 1424.159, 'duration': 4.241}
+{'text': "doll is going to cuck you but the doll's", 'start': 1426.799, 'duration': 2.88}
+{'text': 'cocking me', 'start': 1428.4, 'duration': 2.48}
+{'text': "i'm taking", 'start': 1429.679, 'duration': 3.36}
+{'text': 'that slave owner', 'start': 1430.88, 'duration': 3.279}
+{'text': 'part of me', 'start': 1433.039, 'duration': 4.721}
+{'text': "and i'm just taking it out on the doll", 'start': 1434.159, 'duration': 3.601}
+{'text': 'leaving you in the clear', 'start': 1438.08, 'duration': 3.8}
+{'text': 'i want an agreement where you will', 'start': 1447.12, 'duration': 3.36}
+{'text': 'regularly', 'start': 1448.72, 'duration': 2.88}
+{'text': 'beautiful', 'start': 1450.48, 'duration': 2.319}
+{'text': 'why still', 'start': 1451.6, 'duration': 3.6}
+{'text': 'for me', 'start': 1452.799, 'duration': 2.401}
+{'text': 'i see', 'start': 1455.279, 'duration': 6.161}
+{'text': "it's it's an act of service", 'start': 1456.96, 'duration': 4.48}
+{'text': "i don't give a [\xa0__\xa0] what you call it", 'start': 1462.0, 'duration': 3.84}
+{'text': 'the more you talk', 'start': 1464.08, 'duration': 3.44}
+{'text': "the more you ruin it because you're", 'start': 1465.84, 'duration': 3.12}
+{'text': 'going to say oh i like doing an active', 'start': 1467.52, 'duration': 3.92}
+{'text': 'so it says love language okay well i can', 'start': 1468.96, 'duration': 5.599}
+{'text': "see how i'm about just shut the [\xa0__\xa0] up", 'start': 1471.44, 'duration': 5.119}
+{'text': 'i just want you to shut up and why still', 'start': 1474.559, 'duration': 3.6}
+{'text': "i don't want you to talk about it i", 'start': 1476.559, 'duration': 3.521}
+{'text': "don't want to hear the mental gymnastics", 'start': 1478.159, 'duration': 3.841}
+{'text': 'that you go through to try to absorb it', 'start': 1480.08, 'duration': 2.959}
+{'text': 'into your', 'start': 1482.0, 'duration': 2.96}
+{'text': 'nexus of of', 'start': 1483.039, 'duration': 4.321}
+{'text': 'manipulation i just want you', 'start': 1484.96, 'duration': 5.04}
+{'text': 'to lie down face down', 'start': 1487.36, 'duration': 6.24}
+{'text': 'and be very still and very quiet', 'start': 1490.0, 'duration': 4.559}
+{'text': 'until', 'start': 1493.6, 'duration': 2.959}
+{'text': "i'm done", 'start': 1494.559, 'duration': 4.801}
+{'text': 'and i want you to do this', 'start': 1496.559, 'duration': 5.12}
+{'text': 'on a on a regular basis', 'start': 1499.36, 'duration': 5.12}
+{'text': 'what does that mean', 'start': 1501.679, 'duration': 2.801}
+{'text': 'once every', 'start': 1506.48, 'duration': 4.24}
+{'text': 'two weeks', 'start': 1508.24, 'duration': 2.48}
+{'text': 'hmm', 'start': 1512.0, 'duration': 3.0}
+{'text': 'to start', 'start': 1515.76, 'duration': 4.159}
+{'text': 'wait what hold on two weeks', 'start': 1517.84, 'duration': 4.4}
+{'text': 'on a on a regular basis', 'start': 1519.919, 'duration': 5.12}
+{'text': 'what does that mean', 'start': 1522.24, 'duration': 2.799}
+{'text': 'once every', 'start': 1527.039, 'duration': 4.24}
+{'text': 'two weeks', 'start': 1528.799, 'duration': 2.48}
+{'text': 'for sexy saying or for necrophiliac', 'start': 1532.159, 'duration': 4.161}
+{'text': 'sense sex', 'start': 1534.72, 'duration': 4.079}
+{'text': 'to start', 'start': 1536.32, 'duration': 2.479}
+{'text': "well that doesn't seem that bad", 'start': 1539.76, 'duration': 5.6}
+{'text': 'necrotic try once a week', 'start': 1543.12, 'duration': 5.36}
+{'text': "well that seems bad good let's do that", 'start': 1545.36, 'duration': 5.28}
+{'text': 'once every two weeks', 'start': 1548.48, 'duration': 4.72}
+{'text': 'well you just said', 'start': 1550.64, 'duration': 4.48}
+{'text': 'i was joking about increasing the', 'start': 1553.2, 'duration': 3.2}
+{'text': "frequency because you said it didn't", 'start': 1555.12, 'duration': 3.439}
+{'text': 'seem that bad', 'start': 1556.4, 'duration': 4.32}
+{'text': 'um', 'start': 1558.559, 'duration': 2.161}
+{'text': "see i don't want to be thinking about", 'start': 1561.52, 'duration': 4.639}
+{'text': 'your needs all the time', 'start': 1563.76, 'duration': 5.36}
+{'text': "you don't want to care if it's that bad", 'start': 1566.159, 'duration': 4.321}
+{'text': "that's your job", 'start': 1569.12, 'duration': 3.679}
+{'text': 'right', 'start': 1570.48, 'duration': 2.319}
+{'text': "if you're like oh i don't want to get", 'start': 1575.039, 'duration': 4.321}
+{'text': '[\xa0__\xa0] in the ass but you can do it', 'start': 1577.36, 'duration': 3.12}
+{'text': 'everywhere', 'start': 1579.36, 'duration': 2.24}
+{'text': 'oh no', 'start': 1580.48, 'duration': 2.319}
+{'text': "if you're like oh i don't want to get", 'start': 1581.6, 'duration': 2.4}
+{'text': '[\xa0__\xa0] in the ass but you can do it', 'start': 1582.799, 'duration': 4.161}
+{'text': 'every day you can do it every day but i', 'start': 1584.0, 'duration': 6.32}
+{'text': "don't want to that's not my problem", 'start': 1586.96, 'duration': 5.52}
+{'text': 'i want [\xa0__\xa0] to be a lot more like', 'start': 1590.32, 'duration': 4.8}
+{'text': 'jacking off', 'start': 1592.48, 'duration': 2.64}
+{'text': 'sometimes', 'start': 1597.36, 'duration': 4.08}
+{'text': 'well i know', 'start': 1599.44, 'duration': 4.88}
+{'text': 'okay so once every two weeks', 'start': 1601.44, 'duration': 4.0}
+{'text': "i don't know", 'start': 1604.32, 'duration': 2.4}
+{'text': "i will have to think about this that's", 'start': 1605.44, 'duration': 3.359}
+{'text': 'already more often when we have sex yes', 'start': 1606.72, 'duration': 4.319}
+{'text': "that's why i need to think about it well", 'start': 1608.799, 'duration': 4.321}
+{'text': 'what can you what can you do now what', 'start': 1611.039, 'duration': 4.801}
+{'text': 'can you commit to', 'start': 1613.12, 'duration': 4.559}
+{'text': 'yeah i need to do that for sure once a', 'start': 1615.84, 'duration': 3.439}
+{'text': 'month i would say', 'start': 1617.679, 'duration': 3.681}
+{'text': 'starting when', 'start': 1619.279, 'duration': 3.28}
+{'text': 'now what do you think about free use', 'start': 1621.36, 'duration': 2.88}
+{'text': '[\xa0__\xa0] i mean free years can be fun or hot', 'start': 1622.559, 'duration': 3.681}
+{'text': 'but like the idea behind free use is', 'start': 1624.24, 'duration': 3.679}
+{'text': "that both people are into it it's not", 'start': 1626.24, 'duration': 3.28}
+{'text': "actually like i'm going to come in and", 'start': 1627.919, 'duration': 2.561}
+{'text': "[\xa0__\xa0] you and you don't want you and", 'start': 1629.52, 'duration': 1.92}
+{'text': "you're busy doing something right like", 'start': 1630.48, 'duration': 2.24}
+{'text': 'free use only works because both people', 'start': 1631.44, 'duration': 2.96}
+{'text': 'want to do it right', 'start': 1632.72, 'duration': 5.52}
+{'text': 'sure one do now what can you commit to', 'start': 1634.4, 'duration': 5.92}
+{'text': 'yeah i needed that for sure once a month', 'start': 1638.24, 'duration': 3.439}
+{'text': 'i would die', 'start': 1640.32, 'duration': 3.52}
+{'text': 'starting when', 'start': 1641.679, 'duration': 3.201}
+{'text': 'now', 'start': 1643.84, 'duration': 3.04}
+{'text': "i don't know right now have we", 'start': 1644.88, 'duration': 4.08}
+{'text': 'technically had our thing for april yet', 'start': 1646.88, 'duration': 4.48}
+{'text': 'or we have to fit it in', 'start': 1648.96, 'duration': 5.52}
+{'text': 'huh right now', 'start': 1651.36, 'duration': 5.36}
+{'text': 'well sure the question is what months', 'start': 1654.48, 'duration': 5.52}
+{'text': 'are we going by the calendar month', 'start': 1656.72, 'duration': 5.12}
+{'text': "well it's kind of important not really", 'start': 1660.0, 'duration': 4.0}
+{'text': "because it's april 29th", 'start': 1661.84, 'duration': 4.48}
+{'text': "so it doesn't really matter", 'start': 1664.0, 'duration': 4.96}
+{'text': "well it doesn't matter jalen do you see", 'start': 1666.32, 'duration': 5.599}
+{'text': 'how controlling you are', 'start': 1668.96, 'duration': 2.959}
+{'text': "no it's [\xa0__\xa0] knowing what you're", 'start': 1672.64, 'duration': 5.08}
+{'text': 'agreeing to', 'start': 1674.32, 'duration': 3.4}
+{'text': "if i'm supposed to agree to once a month", 'start': 1683.52, 'duration': 6.08}
+{'text': "and it's or we need to get one fit one", 'start': 1686.799, 'duration': 5.521}
+{'text': 'in real quick in the next day and a half', 'start': 1689.6, 'duration': 4.88}
+{'text': 'i think i should know that', 'start': 1692.32, 'duration': 4.64}
+{'text': "you don't think so do you like not get", 'start': 1694.48, 'duration': 4.48}
+{'text': "what i'm saying or am i not getting what", 'start': 1696.96, 'duration': 2.88}
+{'text': "you're saying i don't understand what's", 'start': 1698.96, 'duration': 2.48}
+{'text': "going on what you're saying", 'start': 1699.84, 'duration': 3.76}
+{'text': 'so then why are you not responding', 'start': 1701.44, 'duration': 4.16}
+{'text': "because it's", 'start': 1703.6, 'duration': 4.319}
+{'text': "feels like you're being controlling", 'start': 1705.6, 'duration': 4.0}
+{'text': "and it's upsetting", 'start': 1707.919, 'duration': 3.601}
+{'text': 'well i suppose so well we can just wait', 'start': 1709.6, 'duration': 4.0}
+{'text': 'to start until next month then', 'start': 1711.52, 'duration': 3.36}
+{'text': 'okay', 'start': 1713.6, 'duration': 2.64}
+{'text': 'great', 'start': 1714.88, 'duration': 4.08}
+{'text': "feels like you're being controlling", 'start': 1716.24, 'duration': 5.76}
+{'text': "you're already you're ruining it well", 'start': 1718.96, 'duration': 4.88}
+{'text': "well this is a thing as i'm not an", 'start': 1722.0, 'duration': 4.0}
+{'text': 'actual sex doll would you would you have', 'start': 1723.84, 'duration': 4.48}
+{'text': 'agreed to doing it', 'start': 1726.0, 'duration': 5.919}
+{'text': 'tonight and next month', 'start': 1728.32, 'duration': 5.92}
+{'text': 'probably not tonight maybe tomorrow okay', 'start': 1731.919, 'duration': 4.161}
+{'text': 'so what does it matter which way we', 'start': 1734.24, 'duration': 2.799}
+{'text': 'choose', 'start': 1736.08, 'duration': 3.76}
+{'text': 'what does it matter how we count it', 'start': 1737.039, 'duration': 4.961}
+{'text': 'well i have to know what it is', 'start': 1739.84, 'duration': 3.92}
+{'text': 'why', 'start': 1742.0, 'duration': 3.2}
+{'text': "well you can't just spring stuff like", 'start': 1743.76, 'duration': 4.76}
+{'text': 'that on me', 'start': 1745.2, 'duration': 3.32}
+{'text': 'maybe you want to', 'start': 1753.84, 'duration': 4.319}
+{'text': "but no i didn't say i want to be able to", 'start': 1755.52, 'duration': 5.039}
+{'text': 'do it whenever i say we said once a', 'start': 1758.159, 'duration': 4.321}
+{'text': "month that means i can't just do it", 'start': 1760.559, 'duration': 5.48}
+{'text': 'whenever i say', 'start': 1762.48, 'duration': 3.559}
+{'text': "but you see you're changing what we're", 'start': 1766.559, 'duration': 3.681}
+{'text': 'agreeing to to be something that you', 'start': 1768.399, 'duration': 4.481}
+{'text': 'will fight and complain about and now', 'start': 1770.24, 'duration': 4.319}
+{'text': "you're saying no to something i didn't", 'start': 1772.88, 'duration': 3.84}
+{'text': 'ask', 'start': 1774.559, 'duration': 4.72}
+{'text': "well i don't i think that in", 'start': 1776.72, 'duration': 4.16}
+{'text': 'making an agreement', 'start': 1779.279, 'duration': 4.241}
+{'text': "i don't care i don't care what you think", 'start': 1780.88, 'duration': 5.039}
+{'text': 'i want you to stop', 'start': 1783.52, 'duration': 4.32}
+{'text': "i just want you to stop well i don't", 'start': 1785.919, 'duration': 3.921}
+{'text': 'think we can make an agreement why you', 'start': 1787.84, 'duration': 3.839}
+{'text': 'will you will agree to every version of', 'start': 1789.84, 'duration': 5.68}
+{'text': "the agreement so all it's turning into", 'start': 1791.679, 'duration': 5.681}
+{'text': "it's like it's like if you're like", 'start': 1795.52, 'duration': 3.6}
+{'text': "hey you know shut up it's like if you're", 'start': 1797.36, 'duration': 3.199}
+{'text': 'like hey', 'start': 1799.12, 'duration': 5.039}
+{'text': 'hey um do you want to get pizza', 'start': 1800.559, 'duration': 5.681}
+{'text': "and i'm like well which hand are you", 'start': 1804.159, 'duration': 4.88}
+{'text': 'gonna take the pizza out of the box with', 'start': 1806.24, 'duration': 4.88}
+{'text': 'this whole conversation is just all', 'start': 1809.039, 'duration': 4.24}
+{'text': 'about whether or not we are going to', 'start': 1811.12, 'duration': 4.08}
+{'text': 'have sex tomorrow', 'start': 1813.279, 'duration': 3.601}
+{'text': 'yes', 'start': 1815.2, 'duration': 3.839}
+{'text': 'okay', 'start': 1816.88, 'duration': 5.44}
+{'text': 'and so what you are turning this into by', 'start': 1819.039, 'duration': 5.201}
+{'text': "not just saying like yes let's start on", 'start': 1822.32, 'duration': 3.52}
+{'text': 'may 1st', 'start': 1824.24, 'duration': 3.36}
+{'text': 'do you see how that would be actually', 'start': 1825.84, 'duration': 3.36}
+{'text': 'you asserting', 'start': 1827.6, 'duration': 4.0}
+{'text': 'what you want and asserting your version', 'start': 1829.2, 'duration': 5.04}
+{'text': 'of it but also would not make the entire', 'start': 1831.6, 'duration': 4.24}
+{'text': 'conversation about you and your', 'start': 1834.24, 'duration': 5.439}
+{'text': 'discomfort and your [\xa0__\xa0] complaining', 'start': 1835.84, 'duration': 3.839}
+{'text': 'or you could have said', 'start': 1840.32, 'duration': 3.2}
+{'text': "well april's running out so if we're", 'start': 1841.84, 'duration': 3.36}
+{'text': 'doing this in april that means once', 'start': 1843.52, 'duration': 3.84}
+{'text': 'tomorrow and then once next month', 'start': 1845.2, 'duration': 4.64}
+{'text': "but you're not saying that either", 'start': 1847.36, 'duration': 4.48}
+{'text': "you're you're pretending", 'start': 1849.84, 'duration': 3.12}
+{'text': "that you're", 'start': 1851.84, 'duration': 2.319}
+{'text': 'like', 'start': 1852.96, 'duration': 3.439}
+{'text': "waffling or something or that you're", 'start': 1854.159, 'duration': 3.681}
+{'text': "really concerned and so you're like well", 'start': 1856.399, 'duration': 3.12}
+{'text': 'i need i have a question i really need', 'start': 1857.84, 'duration': 3.92}
+{'text': 'to know this max which you do every', 'start': 1859.519, 'duration': 4.241}
+{'text': "[\xa0__\xa0] time there's anything that i'm", 'start': 1861.76, 'duration': 3.84}
+{'text': 'in charge of', 'start': 1863.76, 'duration': 3.12}
+{'text': "every time we're filming something", 'start': 1865.6, 'duration': 2.72}
+{'text': "you're like hey do you want me should i", 'start': 1866.88, 'duration': 3.2}
+{'text': "wear this shirt and i'm like i don't", 'start': 1868.32, 'duration': 4.0}
+{'text': '[\xa0__\xa0] care what shirt you wear please', 'start': 1870.08, 'duration': 3.92}
+{'text': 'shut up and just sit in the chair and', 'start': 1872.32, 'duration': 3.76}
+{'text': "you're like fine", 'start': 1874.0, 'duration': 4.96}
+{'text': "you it's a it's a control grab it's a", 'start': 1876.08, 'duration': 5.439}
+{'text': 'power grab', 'start': 1878.96, 'duration': 2.559}
+{'text': 'come here buddy', 'start': 1883.12, 'duration': 2.64}
+{'text': 'okay', 'start': 1887.44, 'duration': 5.4}
+{'text': "well let's start on may 1st then", 'start': 1888.24, 'duration': 4.6}
+{'text': 'and we will just do it by month', 'start': 1893.039, 'duration': 3.76}
+{'text': 'okay so from may first okay do you see', 'start': 1900.72, 'duration': 4.12}
+{'text': "what i'm saying about you being", 'start': 1903.44, 'duration': 3.04}
+{'text': 'controlling', 'start': 1904.84, 'duration': 3.64}
+{'text': 'yes i do', 'start': 1906.48, 'duration': 4.4}
+{'text': "now you see what i'm saying or do you", 'start': 1908.48, 'duration': 4.16}
+{'text': "agree that that's happening", 'start': 1910.88, 'duration': 3.44}
+{'text': "i see what you're saying but you don't", 'start': 1912.64, 'duration': 3.84}
+{'text': "think that's happening", 'start': 1914.32, 'duration': 5.16}
+{'text': 'right', 'start': 1916.48, 'duration': 3.0}
+{'text': 'i think you can frame it as controlling', 'start': 1920.159, 'duration': 4.801}
+{'text': "i don't agree with that", 'start': 1922.96, 'duration': 3.199}
+{'text': "characterization you don't agree with", 'start': 1924.96, 'duration': 4.8}
+{'text': 'the decision to frame you as controlling', 'start': 1926.159, 'duration': 6.681}
+{'text': "well i'm getting a bit frustrated", 'start': 1929.76, 'duration': 4.88}
+{'text': 'because', 'start': 1932.84, 'duration': 4.76}
+{'text': 'it feels like you', 'start': 1934.64, 'duration': 2.96}
+{'text': 'have misled me a bit here you agree', 'start': 1938.96, 'duration': 4.559}
+{'text': 'you told me that we were having an', 'start': 1942.32, 'duration': 4.239}
+{'text': 'interview about the sex doll yeah and', 'start': 1943.519, 'duration': 6.801}
+{'text': "you're like asking me to agree to", 'start': 1946.559, 'duration': 6.401}
+{'text': 'a sex schedule which we', 'start': 1950.32, 'duration': 4.959}
+{'text': 'kind of already rejected and tried once', 'start': 1952.96, 'duration': 4.64}
+{'text': 'okay', 'start': 1955.279, 'duration': 2.321}
+{'text': "and i'm", 'start': 1957.919, 'duration': 4.88}
+{'text': "i don't know it just feels like i'm open", 'start': 1959.44, 'duration': 6.8}
+{'text': 'to trying that again but like', 'start': 1962.799, 'duration': 3.441}
+{'text': "you're gonna put this in the video", 'start': 1966.399, 'duration': 4.4}
+{'text': 'and i feel uncomfortable because i am', 'start': 1968.559, 'duration': 4.561}
+{'text': 'already in a very uncomfortable position', 'start': 1970.799, 'duration': 3.921}
+{'text': 'of like not wanting people to [\xa0__\xa0]', 'start': 1973.12, 'duration': 3.679}
+{'text': 'say our relationship is abusive but', 'start': 1974.72, 'duration': 4.48}
+{'text': "you're like berating me about", 'start': 1976.799, 'duration': 4.561}
+{'text': 'asking you a question about you asking', 'start': 1979.2, 'duration': 4.24}
+{'text': 'me to agree to sex on a regular basis', 'start': 1981.36, 'duration': 4.4}
+{'text': "and be a sex doll no i'm not admirating", 'start': 1983.44, 'duration': 4.88}
+{'text': 'about asking me a question', 'start': 1985.76, 'duration': 4.08}
+{'text': "i asked you a question you're saying", 'start': 1988.32, 'duration': 3.359}
+{'text': 'that i mean too controlling so it seems', 'start': 1989.84, 'duration': 3.28}
+{'text': 'like do you think that you can be too', 'start': 1991.679, 'duration': 3.681}
+{'text': 'controlling by asking questions', 'start': 1993.12, 'duration': 4.48}
+{'text': 'i do but you okay so the fact that they', 'start': 1995.36, 'duration': 3.679}
+{'text': "had a question mark at the end doesn't", 'start': 1997.6, 'duration': 2.48}
+{'text': "really determine whether it's", 'start': 1999.039, 'duration': 2.561}
+{'text': 'controlling or not', 'start': 2000.08, 'duration': 3.199}
+{'text': 'are we doing it monthly or we do a', 'start': 2001.6, 'duration': 3.439}
+{'text': "calendar month or every 30 days that's", 'start': 2003.279, 'duration': 3.52}
+{'text': 'not designed to actually get information', 'start': 2005.039, 'duration': 3.281}
+{'text': "out of me it's just designed to put me", 'start': 2006.799, 'duration': 3.36}
+{'text': 'in a new role', 'start': 2008.32, 'duration': 5.28}
+{'text': 'of putting soothing bomb on your upset', 'start': 2010.159, 'duration': 5.76}
+{'text': "emotions and what i don't want to do i", 'start': 2013.6, 'duration': 3.919}
+{'text': "don't want to be in the role of rubbing", 'start': 2015.919, 'duration': 3.521}
+{'text': "bomb on your emotions i don't want to do", 'start': 2017.519, 'duration': 4.16}
+{'text': 'that right now i want you to do that for', 'start': 2019.44, 'duration': 6.239}
+{'text': 'yourself and i will do it for myself', 'start': 2021.679, 'duration': 6.0}
+{'text': "i don't want to do this", 'start': 2025.679, 'duration': 4.0}
+{'text': 'i am quitting the interview', 'start': 2027.679, 'duration': 4.48}
+{'text': 'and i do not want any of this to be in', 'start': 2029.679, 'duration': 4.081}
+{'text': 'the [\xa0__\xa0] video', 'start': 2032.159, 'duration': 4.601}
+{'text': 'jeez', 'start': 2033.76, 'duration': 3.0}
+{'text': 'okay', 'start': 2054.159, 'duration': 6.041}
+{'text': "because i'm asking you about sex plans", 'start': 2055.44, 'duration': 4.76}
+{'text': 'because you are', 'start': 2060.72, 'duration': 4.159}
+{'text': 'shirking a role that you have agreed to', 'start': 2062.8, 'duration': 3.599}
+{'text': 'take i believe throughout our', 'start': 2064.879, 'duration': 4.401}
+{'text': 'relationship in this race stop talking', 'start': 2066.399, 'duration': 4.881}
+{'text': "while i'm talking", 'start': 2069.28, 'duration': 4.799}
+{'text': 'you have agreed to a role in the past', 'start': 2071.28, 'duration': 5.44}
+{'text': 'that has is assumed you will continue to', 'start': 2074.079, 'duration': 5.121}
+{'text': 'be in for this conversation as well if', 'start': 2076.72, 'duration': 5.439}
+{'text': "we're on camera together and you can", 'start': 2079.2, 'duration': 4.24}
+{'text': 'disagree with that', 'start': 2082.159, 'duration': 2.72}
+{'text': 'every conversation we have on camera is', 'start': 2083.44, 'duration': 3.36}
+{'text': 'me trying to get out of this role i', 'start': 2084.879, 'duration': 4.24}
+{'text': "don't care would you agree with that no", 'start': 2086.8, 'duration': 3.599}
+{'text': "i don't you don't think every", 'start': 2089.119, 'duration': 3.52}
+{'text': "conversation is me saying like why can't", 'start': 2090.399, 'duration': 4.161}
+{'text': 'you just say no or say set your', 'start': 2092.639, 'duration': 3.361}
+{'text': "boundaries or just admit to what's", 'start': 2094.56, 'duration': 2.799}
+{'text': 'happening instead of trying to get me to', 'start': 2096.0, 'duration': 2.96}
+{'text': 'do it for you', 'start': 2097.359, 'duration': 3.121}
+{'text': "it's like every conversation we film", 'start': 2098.96, 'duration': 3.28}
+{'text': 'ends up being about this exact topic of', 'start': 2100.48, 'duration': 5.2}
+{'text': 'me not wanting to be in this role', 'start': 2102.24, 'duration': 3.44}
+{'text': "yes i don't want to i don't want to be a", 'start': 2106.48, 'duration': 5.28}
+{'text': "default okay that's fine okay i'm saying", 'start': 2108.16, 'duration': 5.28}
+{'text': "you can't escape that", 'start': 2111.76, 'duration': 3.12}
+{'text': 'because you have all the power and i', 'start': 2113.44, 'duration': 3.76}
+{'text': "don't agree to it and", 'start': 2114.88, 'duration': 5.92}
+{'text': "so we can't have a real conversation", 'start': 2117.2, 'duration': 3.6}
+{'text': "no not one that's filmed you are always", 'start': 2122.24, 'duration': 5.52}
+{'text': 'in the position of control yes yes right', 'start': 2124.88, 'duration': 4.16}
+{'text': "and you won't let me actually be in", 'start': 2127.76, 'duration': 3.92}
+{'text': 'control', 'start': 2129.04, 'duration': 4.24}
+{'text': "no i'm saying that as the person in", 'start': 2131.68, 'duration': 3.2}
+{'text': 'control you also have to be the', 'start': 2133.28, 'duration': 4.48}
+{'text': 'caretaker to some extent no yes i know', 'start': 2134.88, 'duration': 5.68}
+{'text': "you're saying no yes i'm saying yes", 'start': 2137.76, 'duration': 4.319}
+{'text': "we've already been over this okay so", 'start': 2140.56, 'duration': 4.4}
+{'text': "then okay so that's what i think is", 'start': 2142.079, 'duration': 4.721}
+{'text': 'happening yeah', 'start': 2144.96, 'duration': 4.8}
+{'text': 'on top of that you are', 'start': 2146.8, 'duration': 5.12}
+{'text': 'already kind of pushing my boundaries by', 'start': 2149.76, 'duration': 3.839}
+{'text': "asking me to do this i'm pushing your", 'start': 2151.92, 'duration': 4.8}
+{'text': 'boundaries by asking you a question', 'start': 2153.599, 'duration': 5.76}
+{'text': "by asking you for something sexual i'm", 'start': 2156.72, 'duration': 4.8}
+{'text': 'pushing your boundaries no you what', 'start': 2159.359, 'duration': 4.081}
+{'text': "you're asking me to do sexually pushes", 'start': 2161.52, 'duration': 4.24}
+{'text': 'my sexual boundaries no asking you to do', 'start': 2163.44, 'duration': 4.159}
+{'text': "something doesn't push your boundaries", 'start': 2165.76, 'duration': 3.599}
+{'text': 'okay you can say whatever you want yes', 'start': 2167.599, 'duration': 3.441}
+{'text': 'because you could just say no', 'start': 2169.359, 'duration': 4.081}
+{'text': 'i understand i could ask you if i could', 'start': 2171.04, 'duration': 4.48}
+{'text': 'drive a car up your ass and you could', 'start': 2173.44, 'duration': 4.48}
+{'text': "say no or yes it's not pushing your", 'start': 2175.52, 'duration': 4.48}
+{'text': 'boundaries to ask you for something', 'start': 2177.92, 'duration': 3.84}
+{'text': "you're just not listening what do you", 'start': 2180.0, 'duration': 3.839}
+{'text': "mean by pushing your boundaries it's not", 'start': 2181.76, 'duration': 4.24}
+{'text': 'pushing your boundaries to ask you for', 'start': 2183.839, 'duration': 3.681}
+{'text': 'something sexual', 'start': 2186.0, 'duration': 3.839}
+{'text': "that's not pushing asking me for", 'start': 2187.52, 'duration': 5.04}
+{'text': 'something sexual on camera is pushing my', 'start': 2189.839, 'duration': 4.881}
+{'text': 'boundaries if i had known you were going', 'start': 2192.56, 'duration': 3.44}
+{'text': 'to do that', 'start': 2194.72, 'duration': 2.879}
+{'text': 'i probably would have addressed that', 'start': 2196.0, 'duration': 3.92}
+{'text': 'before we [\xa0__\xa0] got on camera but i', 'start': 2197.599, 'duration': 4.561}
+{'text': "didn't know you were gonna do that", 'start': 2199.92, 'duration': 4.4}
+{'text': "you're saying i could just say no but", 'start': 2202.16, 'duration': 5.04}
+{'text': "you don't actually understand", 'start': 2204.32, 'duration': 5.12}
+{'text': 'because the way that you operate is', 'start': 2207.2, 'duration': 4.08}
+{'text': 'different from me', 'start': 2209.44, 'duration': 4.32}
+{'text': 'and also', 'start': 2211.28, 'duration': 4.72}
+{'text': 'the way that the camera affects me the', 'start': 2213.76, 'duration': 4.16}
+{'text': 'way that the crowd affects me is very', 'start': 2216.0, 'duration': 4.32}
+{'text': 'different i am not comfortable with that', 'start': 2217.92, 'duration': 3.919}
+{'text': "and you don't care", 'start': 2220.32, 'duration': 3.44}
+{'text': 'and you are actively trying to get out', 'start': 2221.839, 'duration': 3.681}
+{'text': 'of the role of giving a [\xa0__\xa0] about that', 'start': 2223.76, 'duration': 3.599}
+{'text': 'and my answer to that is', 'start': 2225.52, 'duration': 3.599}
+{'text': "it's not that i don't give a [\xa0__\xa0] i", 'start': 2227.359, 'duration': 2.961}
+{'text': "understand that you're you're", 'start': 2229.119, 'duration': 3.041}
+{'text': 'distinguishing it differently to me that', 'start': 2230.32, 'duration': 3.68}
+{'text': 'is what it translates to i understand', 'start': 2232.16, 'duration': 3.919}
+{'text': "that but it has to be somebody's", 'start': 2234.0, 'duration': 3.76}
+{'text': 'responsibility', 'start': 2236.079, 'duration': 3.681}
+{'text': "that's fine i understand sexual", 'start': 2237.76, 'duration': 3.28}
+{'text': "boundaries have to be somebody's", 'start': 2239.76, 'duration': 2.72}
+{'text': 'responsibility', 'start': 2241.04, 'duration': 3.44}
+{'text': 'yes and you want them to want them to be', 'start': 2242.48, 'duration': 4.32}
+{'text': 'mine', 'start': 2244.48, 'duration': 2.32}
+{'text': 'and want me to want them to be mine and', 'start': 2247.92, 'duration': 3.36}
+{'text': "they're not yours", 'start': 2249.359, 'duration': 4.801}
+{'text': "yes when we're on camera yes", 'start': 2251.28, 'duration': 5.6}
+{'text': 'you are also', 'start': 2254.16, 'duration': 2.72}
+{'text': 'what have you done for your own', 'start': 2268.0, 'duration': 3.44}
+{'text': 'boundaries throughout this conversation', 'start': 2269.52, 'duration': 4.8}
+{'text': "this this part okay so now you're here", 'start': 2271.44, 'duration': 5.04}
+{'text': "except you're ending the conversation so", 'start': 2274.32, 'duration': 4.0}
+{'text': 'again because you told me i could get', 'start': 2276.48, 'duration': 4.16}
+{'text': 'the [\xa0__\xa0] out yes', 'start': 2278.32, 'duration': 4.519}
+{'text': 'right so you threatened me i know i', 'start': 2280.64, 'duration': 4.16}
+{'text': "didn't it's not boundaries it's not", 'start': 2282.839, 'duration': 3.081}
+{'text': "threatening you to tell you you don't", 'start': 2284.8, 'duration': 3.039}
+{'text': "have to talk to me that's not a threat", 'start': 2285.92, 'duration': 5.52}
+{'text': 'it is a threat what is the threat', 'start': 2287.839, 'duration': 6.081}
+{'text': 'what am i threatening to do', 'start': 2291.44, 'duration': 5.679}
+{'text': "it's it's emotionally cutting me off", 'start': 2293.92, 'duration': 5.199}
+{'text': 'from a project you asked me to be part', 'start': 2297.119, 'duration': 2.72}
+{'text': 'of', 'start': 2299.119, 'duration': 2.48}
+{'text': 'because i had some boundaries with you', 'start': 2299.839, 'duration': 3.121}
+{'text': 'or asked you', 'start': 2301.599, 'duration': 3.601}
+{'text': "to no you're you're in a role you have", 'start': 2302.96, 'duration': 4.159}
+{'text': "our boundaries work you're trying to", 'start': 2305.2, 'duration': 3.76}
+{'text': "force me to do something that's not what", 'start': 2307.119, 'duration': 6.161}
+{'text': 'a boundary is a boundary is hey babe', 'start': 2308.96, 'duration': 6.56}
+{'text': 'i really want to be part of your project', 'start': 2313.28, 'duration': 4.079}
+{'text': "i'm so flattered that you thought that", 'start': 2315.52, 'duration': 3.76}
+{'text': 'filming this interview would be so nice', 'start': 2317.359, 'duration': 4.881}
+{'text': 'for your project but you know what i', 'start': 2319.28, 'duration': 5.44}
+{'text': "don't want to negotiate sex plans with", 'start': 2322.24, 'duration': 4.64}
+{'text': 'you on camera', 'start': 2324.72, 'duration': 4.24}
+{'text': "so if that's required", 'start': 2326.88, 'duration': 4.4}
+{'text': "i'm going to have to", 'start': 2328.96, 'duration': 4.08}
+{'text': "leave the interview if that's the only", 'start': 2331.28, 'duration': 4.0}
+{'text': 'thing that we can talk about', 'start': 2333.04, 'duration': 4.72}
+{'text': 'so is that was that your whole plan', 'start': 2335.28, 'duration': 4.799}
+{'text': 'or can we do can we talk about this', 'start': 2337.76, 'duration': 3.44}
+{'text': 'later', 'start': 2340.079, 'duration': 2.881}
+{'text': "you know hi guys we're going to talk", 'start': 2341.2, 'duration': 4.24}
+{'text': 'about this later but for right now i', 'start': 2342.96, 'duration': 3.76}
+{'text': 'really just want to talk to you about', 'start': 2345.44, 'duration': 2.72}
+{'text': 'the doll or whatever else you were', 'start': 2346.72, 'duration': 2.96}
+{'text': "thinking but i don't want to do this", 'start': 2348.16, 'duration': 2.88}
+{'text': 'right now that would be you setting a', 'start': 2349.68, 'duration': 3.679}
+{'text': 'boundary and then if i say no i really', 'start': 2351.04, 'duration': 4.24}
+{'text': "need to do this or or that's it that's", 'start': 2353.359, 'duration': 4.321}
+{'text': 'all i can do then you would say oh well', 'start': 2355.28, 'duration': 3.76}
+{'text': 'okay well then i guess i have to leave', 'start': 2357.68, 'duration': 2.88}
+{'text': "the interview but it's not it's not a", 'start': 2359.04, 'duration': 4.079}
+{'text': 'threat for me to remind you that you', 'start': 2360.56, 'duration': 5.279}
+{'text': "don't have to do anything i tell you", 'start': 2363.119, 'duration': 6.201}
+{'text': "it's not a threat", 'start': 2365.839, 'duration': 3.481}
+{'text': "you're the one saying we have to do the", 'start': 2369.68, 'duration': 3.76}
+{'text': 'interview', 'start': 2371.599, 'duration': 4.081}
+{'text': 'okay', 'start': 2373.44, 'duration': 3.84}
+{'text': 'and that we have to do it the way you', 'start': 2375.68, 'duration': 4.64}
+{'text': "want i understand you're saying it", 'start': 2377.28, 'duration': 4.799}
+{'text': "i don't think there's a way for you to", 'start': 2380.32, 'duration': 3.92}
+{'text': 'have me on camera on your channel', 'start': 2382.079, 'duration': 4.401}
+{'text': 'without doing that', 'start': 2384.24, 'duration': 5.24}
+{'text': 'okay', 'start': 2386.48, 'duration': 3.0}
+{'text': "okay well if that's how it is then i", 'start': 2398.88, 'duration': 3.52}
+{'text': "don't see what else there is to talk", 'start': 2400.88, 'duration': 2.4}
+{'text': 'about', 'start': 2402.4, 'duration': 5.08}
+{'text': 'wait [\xa0__\xa0] did we just miss something', 'start': 2403.28, 'duration': 4.2}
+{'text': "not doing that i don't think there's a", 'start': 2411.359, 'duration': 4.161}
+{'text': 'way for you to have me on camera on your', 'start': 2413.359, 'duration': 3.521}
+{'text': 'i wonder what was cut out without doing', 'start': 2415.52, 'duration': 2.16}
+{'text': "it i don't know if there was another", 'start': 2416.88, 'duration': 4.6}
+{'text': "line i don't think you'd cut on anything", 'start': 2417.68, 'duration': 3.8}
+{'text': "okay well if that's how it is then i", 'start': 2430.96, 'duration': 3.52}
+{'text': "don't see what else there is to talk", 'start': 2432.96, 'duration': 4.52}
+{'text': 'about', 'start': 2434.48, 'duration': 3.0}
+{'text': "oh maybe she has a cat allergies you're", 'start': 2442.8, 'duration': 3.12}
+{'text': 'still trying to pressure me into doing', 'start': 2444.16, 'duration': 3.76}
+{'text': 'what you want me to do', 'start': 2445.92, 'duration': 4.24}
+{'text': 'yes i want you to do what i [\xa0__\xa0] need', 'start': 2447.92, 'duration': 5.28}
+{'text': 'you to find a way to negotiate things', 'start': 2450.16, 'duration': 5.36}
+{'text': 'with me that is not you trying to', 'start': 2453.2, 'duration': 4.8}
+{'text': 'manipulate or pressure me into doing', 'start': 2455.52, 'duration': 4.559}
+{'text': "things that you want me to do you've", 'start': 2458.0, 'duration': 3.52}
+{'text': 'already defined this entire conversation', 'start': 2460.079, 'duration': 2.881}
+{'text': "as out of bounds but you didn't mean", 'start': 2461.52, 'duration': 3.2}
+{'text': 'that or you did mean it for a second but', 'start': 2462.96, 'duration': 3.52}
+{'text': "now you've taken it back and where it's", 'start': 2464.72, 'duration': 3.2}
+{'text': "like all over the i never know what i'm", 'start': 2466.48, 'duration': 2.72}
+{'text': "allowed to be doing or what i'm allowed", 'start': 2467.92, 'duration': 3.12}
+{'text': "to be saying or if i'm allowed to be", 'start': 2469.2, 'duration': 3.36}
+{'text': '[\xa0__\xa0] raping you while you lie face', 'start': 2471.04, 'duration': 3.52}
+{'text': "down quietly or if i'm not allowed to do", 'start': 2472.56, 'duration': 3.68}
+{'text': "it and that's the whole point is that", 'start': 2474.56, 'duration': 3.44}
+{'text': "when every time we [\xa0__\xa0] i don't know if", 'start': 2476.24, 'duration': 3.2}
+{'text': "i'm actually allowed to be [\xa0__\xa0] you i", 'start': 2478.0, 'duration': 2.8}
+{'text': "don't know if i'm supposed to be [\xa0__\xa0]", 'start': 2479.44, 'duration': 3.52}
+{'text': 'you', 'start': 2480.8, 'duration': 2.16}
+{'text': 'and i want i need to feel', 'start': 2484.0, 'duration': 4.4}
+{'text': "like i'm allowed to do it i'm supposed", 'start': 2486.72, 'duration': 3.92}
+{'text': 'to do it you can cry', 'start': 2488.4, 'duration': 3.679}
+{'text': "you wanna you wanna you've got some", 'start': 2490.64, 'duration': 3.92}
+{'text': 'extra leather left over from your your', 'start': 2492.079, 'duration': 4.801}
+{'text': 'projects make yourself a little bit to', 'start': 2494.56, 'duration': 4.24}
+{'text': 'bite down on and you can [\xa0__\xa0] deal', 'start': 2496.88, 'duration': 4.16}
+{'text': 'with it i want to know that whatever you', 'start': 2498.8, 'duration': 3.279}
+{'text': 'feel', 'start': 2501.04, 'duration': 3.44}
+{'text': "while i'm [\xa0__\xa0] you is your problem", 'start': 2502.079, 'duration': 5.441}
+{'text': 'i know okay', 'start': 2504.48, 'duration': 5.599}
+{'text': 'and same with this conversation i', 'start': 2507.52, 'duration': 5.28}
+{'text': "don't want to make agreements", 'start': 2510.079, 'duration': 5.441}
+{'text': 'about our sex life on camera', 'start': 2512.8, 'duration': 4.72}
+{'text': 'or off camera', 'start': 2515.52, 'duration': 5.839}
+{'text': "or off camera okay that's true okay so", 'start': 2517.52, 'duration': 6.64}
+{'text': 'are you rescinding our agreement', 'start': 2521.359, 'duration': 3.211}
+{'text': 'i', 'start': 2524.16, 'duration': 2.24}
+{'text': '[Music]', 'start': 2524.57, 'duration': 5.11}
+{'text': "i rescind well i don't know", 'start': 2526.4, 'duration': 4.64}
+{'text': "right i don't know you like having a", 'start': 2529.68, 'duration': 2.72}
+{'text': "semi agreement you don't even want to", 'start': 2531.04, 'duration': 3.68}
+{'text': "agree that we don't have an agreement", 'start': 2532.4, 'duration': 3.76}
+{'text': 'do you see how that leaves me feeling', 'start': 2534.72, 'duration': 4.96}
+{'text': "like i don't know where i stand with you", 'start': 2536.16, 'duration': 6.64}
+{'text': 'i truly understand how pathetic no', 'start': 2539.68, 'duration': 5.6}
+{'text': 'stop', 'start': 2542.8, 'duration': 2.48}
+{'text': 'stop', 'start': 2547.28, 'duration': 4.4}
+{'text': 'do you know how pathetic it is', 'start': 2548.319, 'duration': 5.361}
+{'text': "no i'm allowed to do this", 'start': 2551.68, 'duration': 4.08}
+{'text': "this i'm allowed to do", 'start': 2553.68, 'duration': 3.919}
+{'text': "don't say you're not allowed i just want", 'start': 2555.76, 'duration': 5.04}
+{'text': "you to stop and you can't stop me i know", 'start': 2557.599, 'duration': 5.441}
+{'text': "only renee can stop me and she can't she", 'start': 2560.8, 'duration': 5.76}
+{'text': "can't move her talk i know", 'start': 2563.04, 'duration': 3.52}
+{'text': 'do you know how pathetic it makes me', 'start': 2569.839, 'duration': 4.24}
+{'text': 'feel and emasculated', 'start': 2572.0, 'duration': 3.28}
+{'text': "i think i'm not talking because i'm", 'start': 2574.079, 'duration': 2.401}
+{'text': 'probably going to talk to max in about', 'start': 2575.28, 'duration': 3.039}
+{'text': '10 minutes about this video um someone', 'start': 2576.48, 'duration': 3.28}
+{'text': "in a youtube chat just said though he's", 'start': 2578.319, 'duration': 3.121}
+{'text': 'very bad at being a dominant part of', 'start': 2579.76, 'duration': 3.76}
+{'text': 'being a top is caring for the submissive', 'start': 2581.44, 'duration': 4.399}
+{'text': "um without getting into brittany's world", 'start': 2583.52, 'duration': 3.44}
+{'text': 'of terms', 'start': 2585.839, 'duration': 2.641}
+{'text': 'um', 'start': 2586.96, 'duration': 2.96}
+{'text': 'this is uh', 'start': 2588.48, 'duration': 3.28}
+{'text': 'there this a lot of this goes into these', 'start': 2589.92, 'duration': 4.32}
+{'text': 'like concepts of like masculinity or', 'start': 2591.76, 'duration': 5.44}
+{'text': 'dominant true dominant personality types', 'start': 2594.24, 'duration': 4.0}
+{'text': 'um', 'start': 2597.2, 'duration': 2.879}
+{'text': "you you'll know this from video games if", 'start': 2598.24, 'duration': 4.079}
+{'text': 'you lead people or in teens if you lead', 'start': 2600.079, 'duration': 4.321}
+{'text': 'people or in sexual relationships if you', 'start': 2602.319, 'duration': 6.401}
+{'text': "lead people um it isn't a a leader", 'start': 2604.4, 'duration': 6.56}
+{'text': 'or an alpha or a dominant or whatever', 'start': 2608.72, 'duration': 5.28}
+{'text': 'from a movie perspective is like a dude', 'start': 2610.96, 'duration': 4.879}
+{'text': 'that like does whatever the [\xa0__\xa0] he', 'start': 2614.0, 'duration': 3.68}
+{'text': "wants because he's the [\xa0__\xa0] giga chad", 'start': 2615.839, 'duration': 3.52}
+{'text': "these [\xa0__\xa0] fear i'm the leader", 'start': 2617.68, 'duration': 3.12}
+{'text': 'i do what the [\xa0__\xa0] i want you get in', 'start': 2619.359, 'duration': 2.96}
+{'text': 'line and you follow right this is kind', 'start': 2620.8, 'duration': 3.279}
+{'text': 'of like the movie or the fictionalized', 'start': 2622.319, 'duration': 4.8}
+{'text': 'version of a leader but the the true', 'start': 2624.079, 'duration': 5.441}
+{'text': 'version of the leader or a dominant in a', 'start': 2627.119, 'duration': 4.881}
+{'text': "sexual relationship or somebody that's", 'start': 2629.52, 'duration': 4.4}
+{'text': 'in charge of people the leader has to', 'start': 2632.0, 'duration': 3.2}
+{'text': 'actually be', 'start': 2633.92, 'duration': 3.919}
+{'text': 'the biggest [\xa0__\xa0] he has to be the most', 'start': 2635.2, 'duration': 4.8}
+{'text': 'empathetic person because the decisions', 'start': 2637.839, 'duration': 4.321}
+{'text': "that he's making are affecting everybody", 'start': 2640.0, 'duration': 4.079}
+{'text': 'around him and he needs to be aware or', 'start': 2642.16, 'duration': 3.919}
+{'text': 'she needs to be aware of like how these', 'start': 2644.079, 'duration': 3.441}
+{'text': 'decisions are interfacing with other', 'start': 2646.079, 'duration': 4.801}
+{'text': 'people so it is true that in', 'start': 2647.52, 'duration': 6.319}
+{'text': "it's especially true in bdsm type stuff", 'start': 2650.88, 'duration': 5.68}
+{'text': 'um like there are whole terms of like', 'start': 2653.839, 'duration': 4.48}
+{'text': 'when you know aftercare for people in', 'start': 2656.56, 'duration': 3.36}
+{'text': 'like subspace and all this [\xa0__\xa0] there', 'start': 2658.319, 'duration': 3.361}
+{'text': 'are all these things but even in that we', 'start': 2659.92, 'duration': 2.96}
+{'text': "can throw that aside we don't even talk", 'start': 2661.68, 'duration': 3.12}
+{'text': 'about that in any type of thing where', 'start': 2662.88, 'duration': 3.76}
+{'text': "you're taking charge of another person", 'start': 2664.8, 'duration': 3.279}
+{'text': "or you're kind of like leading the", 'start': 2666.64, 'duration': 4.479}
+{'text': "scenario uh it's it's more difficult to", 'start': 2668.079, 'duration': 5.201}
+{'text': "lead not because you're just making", 'start': 2671.119, 'duration': 3.681}
+{'text': "decisions for yourself because you're", 'start': 2673.28, 'duration': 2.48}
+{'text': 'making decisions involving the', 'start': 2674.8, 'duration': 2.319}
+{'text': 'well-being of another person too and you', 'start': 2675.76, 'duration': 2.559}
+{'text': "have to understand what's going through", 'start': 2677.119, 'duration': 3.281}
+{'text': 'their head as you navigate that space', 'start': 2678.319, 'duration': 4.241}
+{'text': 'yeah', 'start': 2680.4, 'duration': 2.16}
+{'text': "that i don't get to know if i'm allowed", 'start': 2682.72, 'duration': 4.0}
+{'text': "to be in this conversation if i'm", 'start': 2684.88, 'duration': 4.08}
+{'text': 'allowed to be making this movie', 'start': 2686.72, 'duration': 4.96}
+{'text': "if if i'm allowed to do anything except", 'start': 2688.96, 'duration': 6.08}
+{'text': '[\xa0__\xa0] this corpse yes i understand', 'start': 2691.68, 'duration': 5.84}
+{'text': 'i truly understand i want', 'start': 2695.04, 'duration': 5.36}
+{'text': 'you can clearly see i think', 'start': 2697.52, 'duration': 5.04}
+{'text': 'that i want to', 'start': 2700.4, 'duration': 6.56}
+{'text': 'provide this for you you have to', 'start': 2702.56, 'duration': 4.4}
+{'text': 'we tried bdsm scenes never but power', 'start': 2707.92, 'duration': 4.32}
+{'text': 'dynamics i mean i tend to be naturally a', 'start': 2709.839, 'duration': 3.28}
+{'text': 'more', 'start': 2712.24, 'duration': 2.8}
+{'text': "no actually that's it's just i just know", 'start': 2713.119, 'duration': 4.48}
+{'text': 'this i i had a big eve corp okay i know', 'start': 2715.04, 'duration': 5.2}
+{'text': "what i'm talking about", 'start': 2717.599, 'duration': 2.641}
+{'text': 'uh', 'start': 2721.28, 'duration': 4.559}
+{'text': "you have again you didn't say no you", 'start': 2723.2, 'duration': 4.0}
+{'text': 'have to', 'start': 2725.839, 'duration': 2.961}
+{'text': "i don't have to", 'start': 2727.2, 'duration': 3.84}
+{'text': 'i need it', 'start': 2728.8, 'duration': 4.08}
+{'text': 'i know', 'start': 2731.04, 'duration': 3.6}
+{'text': 'i need you', 'start': 2732.88, 'duration': 4.16}
+{'text': 'i know', 'start': 2734.64, 'duration': 2.4}
+{'text': 'i need you', 'start': 2737.839, 'duration': 3.76}
+{'text': "but even just the way you're framing it", 'start': 2739.28, 'duration': 3.68}
+{'text': 'makes it you', 'start': 2741.599, 'duration': 2.801}
+{'text': 'feel', 'start': 2742.96, 'duration': 3.52}
+{'text': 'rapey it is', 'start': 2744.4, 'duration': 4.08}
+{'text': "that's the problem that's the problem", 'start': 2746.48, 'duration': 4.4}
+{'text': 'with relationships well it sucks it', 'start': 2748.48, 'duration': 5.68}
+{'text': "sucks it sucks because i don't do this", 'start': 2750.88, 'duration': 4.64}
+{'text': 'to you', 'start': 2754.16, 'duration': 4.76}
+{'text': "i don't think", 'start': 2755.52, 'duration': 3.4}
+{'text': "that's funny that's rich", 'start': 2760.079, 'duration': 5.441}
+{'text': 'i can be warm to you', 'start': 2762.4, 'duration': 3.12}
+{'text': 'if', 'start': 2767.599, 'duration': 2.24}
+{'text': 'you can be vulnerable', 'start': 2770.24, 'duration': 5.76}
+{'text': 'in a way that is not', 'start': 2773.119, 'duration': 4.801}
+{'text': 'making me into the bad guy but if you', 'start': 2776.0, 'duration': 3.599}
+{'text': 'start throwing me under the bus', 'start': 2777.92, 'duration': 3.439}
+{'text': 'you start making me out to be the', 'start': 2779.599, 'duration': 4.161}
+{'text': 'abusive psycho i am going to get very', 'start': 2781.359, 'duration': 5.401}
+{'text': 'defensive', 'start': 2783.76, 'duration': 3.0}
+{'text': "can we agree to that i don't know i mean", 'start': 2788.4, 'duration': 3.439}
+{'text': "you're", 'start': 2791.04, 'duration': 3.84}
+{'text': 'the problem is that you', 'start': 2791.839, 'duration': 5.28}
+{'text': 'you are making me out to be an abusive', 'start': 2794.88, 'duration': 3.28}
+{'text': 'psycho', 'start': 2797.119, 'duration': 3.121}
+{'text': 'i was not calling you out for anything i', 'start': 2798.16, 'duration': 4.0}
+{'text': 'was asking you for [\xa0__\xa0] clarification', 'start': 2800.24, 'duration': 4.079}
+{'text': 'when things get more abusive of you to', 'start': 2802.16, 'duration': 3.84}
+{'text': "do that it's not abusive for me to call", 'start': 2804.319, 'duration': 4.561}
+{'text': 'you abusive you [\xa0__\xa0] monster', 'start': 2806.0, 'duration': 4.0}
+{'text': 'do you ever get bored of submissive', 'start': 2808.88, 'duration': 3.68}
+{'text': 'women in bed um no submissive people are', 'start': 2810.0, 'duration': 4.319}
+{'text': 'fine the problem is when somebody uses', 'start': 2812.56, 'duration': 4.32}
+{'text': 'submissive as a synonym for lazy', 'start': 2814.319, 'duration': 4.8}
+{'text': 'way way way way different things', 'start': 2816.88, 'duration': 4.719}
+{'text': "i'm asking you", 'start': 2819.119, 'duration': 4.24}
+{'text': 'you the way you call it the way you make', 'start': 2821.599, 'duration': 3.441}
+{'text': "people do you make people think i'm", 'start': 2823.359, 'duration': 4.401}
+{'text': 'abusive without saying the word abusive', 'start': 2825.04, 'duration': 5.039}
+{'text': "or by doing anything explicit it's a", 'start': 2827.76, 'duration': 4.8}
+{'text': 'very subtle throwing under the bus but', 'start': 2830.079, 'duration': 4.641}
+{'text': "it's happening and i know it's happening", 'start': 2832.56, 'duration': 4.24}
+{'text': "i can't listen to you i need to take a", 'start': 2834.72, 'duration': 4.32}
+{'text': 'break', 'start': 2836.8, 'duration': 2.24}
+{'text': 'okay do you want to play spanish', 'start': 2839.92, 'duration': 7.28}
+{'text': 'no i just want to be alone okay', 'start': 2843.2, 'duration': 4.0}
+{'text': 'can you tell me how much time is left on', 'start': 2852.48, 'duration': 4.079}
+{'text': 'that camera', 'start': 2854.0, 'duration': 2.559}
+{'text': '677 minutes', 'start': 2857.72, 'duration': 4.08}
+{'text': 'uh', 'start': 2884.72, 'duration': 3.0}
+{'text': '[Music]', 'start': 2891.15, 'duration': 8.2}
+{'text': 'uh', 'start': 2901.44, 'duration': 3.0}
+{'text': 'so', 'start': 2921.599, 'duration': 3.0}
+{'text': 'is the cat licking something what is the', 'start': 2938.24, 'duration': 4.359}
+{'text': 'noise', 'start': 2939.599, 'duration': 3.0}
+{'text': "i don't think i can do this", 'start': 2947.92, 'duration': 5.399}
+{'text': 'okay', 'start': 2950.319, 'duration': 3.0}
+{'text': "i don't i don't know but i don't know if", 'start': 2961.359, 'duration': 5.521}
+{'text': 'i can do it another day or if i just', 'start': 2964.24, 'duration': 6.119}
+{'text': "can't do it", 'start': 2966.88, 'duration': 3.479}
+{'text': 'okay', 'start': 2974.24, 'duration': 3.0}
+{'text': '[Music]', 'start': 2988.62, 'duration': 3.079}
+{'text': '[Music]', 'start': 2995.1, 'duration': 3.09}
+{'text': '[Music]', 'start': 3001.05, 'duration': 3.539}
+{'text': '[Music]', 'start': 3009.16, 'duration': 4.329}
+{'text': 'so', 'start': 3013.839, 'duration': 5.371}
+{'text': '[Music]', 'start': 3015.97, 'duration': 3.24}
+{'text': '[Music]', 'start': 3023.93, 'duration': 9.909}
+{'text': 'okay i just have', 'start': 3031.119, 'duration': 4.881}
+{'text': 'questions a few questions yeah so uh oh', 'start': 3033.839, 'duration': 4.48}
+{'text': 'well i listened to the video of you', 'start': 3036.0, 'duration': 4.8}
+{'text': 'um debating shayla not of her feelings', 'start': 3038.319, 'duration': 4.721}
+{'text': 'um of you talking to your girlfriend', 'start': 3040.8, 'duration': 5.279}
+{'text': "um it is girlfriend right it's not", 'start': 3043.04, 'duration': 5.68}
+{'text': 'just a girlfriend okay gotcha not yet', 'start': 3046.079, 'duration': 4.961}
+{'text': 'not yet and i can propose to her right', 'start': 3048.72, 'duration': 5.28}
+{'text': "now on stream wouldn't that be romantic", 'start': 3051.04, 'duration': 6.559}
+{'text': 'maybe as i defend my abusive behavior', 'start': 3054.0, 'duration': 5.52}
+{'text': 'the uh that would be a good love bomb', 'start': 3057.599, 'duration': 3.041}
+{'text': "the most effective that's why i got", 'start': 3059.52, 'duration': 2.799}
+{'text': 'married to [\xa0__\xa0] molina we had a huge', 'start': 3060.64, 'duration': 2.959}
+{'text': 'fight i was like [\xa0__\xa0] this [\xa0__\xa0] is', 'start': 3062.319, 'duration': 2.401}
+{'text': 'about to run out on me and i was like', 'start': 3063.599, 'duration': 2.641}
+{'text': 'marine i love you marry me and she was', 'start': 3064.72, 'duration': 3.68}
+{'text': "like nice yeah that didn't actually", 'start': 3066.24, 'duration': 3.52}
+{'text': 'happen okay', 'start': 3068.4, 'duration': 3.52}
+{'text': "um well i'm i'm going to save this", 'start': 3069.76, 'duration': 3.28}
+{'text': 'yeah you want to say that for a big', 'start': 3071.92, 'duration': 2.0}
+{'text': 'fight', 'start': 3073.04, 'duration': 2.079}
+{'text': 'yep', 'start': 3073.92, 'duration': 2.96}
+{'text': "um yeah so basically um i don't have", 'start': 3075.119, 'duration': 3.361}
+{'text': 'these organized by topic at all i just', 'start': 3076.88, 'duration': 2.8}
+{'text': 'it was just kind of like things that i', 'start': 3078.48, 'duration': 2.4}
+{'text': 'was', 'start': 3079.68, 'duration': 3.28}
+{'text': 'writing down as the video is going so', 'start': 3080.88, 'duration': 3.76}
+{'text': "i'm kind of doing a", 'start': 3082.96, 'duration': 3.28}
+{'text': 'yeah order in time and not necessarily', 'start': 3084.64, 'duration': 2.959}
+{'text': 'my topic all right', 'start': 3086.24, 'duration': 2.64}
+{'text': 'okay', 'start': 3087.599, 'duration': 4.161}
+{'text': 'um', 'start': 3088.88, 'duration': 2.88}

@@ -1,0 +1,603 @@
+{'text': 'okay i think i have to do it', 'start': 0.16, 'duration': 2.96}
+{'text': '[Music]', 'start': 5.1, 'duration': 4.39}
+{'text': 'what were your thoughts from like a', 'start': 12.0, 'duration': 4.64}
+{'text': 'influencer analysis from like a market', 'start': 14.639, 'duration': 3.761}
+{'text': 'analysis from like a utility announced', 'start': 16.64, 'duration': 2.639}
+{'text': 'risk analysis', 'start': 18.4, 'duration': 3.68}
+{'text': 'of the aoc twitch stream how could it', 'start': 19.279, 'duration': 3.92}
+{'text': 'have been improved', 'start': 22.08, 'duration': 2.72}
+{'text': 'what went wrong etc seems like it was', 'start': 23.199, 'duration': 3.281}
+{'text': "like a fun little event to do they're", 'start': 24.8, 'duration': 2.88}
+{'text': 'trying to do like voter outreach things', 'start': 26.48, 'duration': 2.48}
+{'text': "like they weren't fine no i got a ton of", 'start': 27.68, 'duration': 2.56}
+{'text': 'viewers probably got a lot of publicity', 'start': 28.96, 'duration': 1.68}
+{'text': 'over there', 'start': 30.24, 'duration': 2.319}
+{'text': 'my perspective was is the audience', 'start': 30.64, 'duration': 3.52}
+{'text': "you're engaging with were they not", 'start': 32.559, 'duration': 3.281}
+{'text': 'already registered to vote', 'start': 34.16, 'duration': 2.96}
+{'text': 'probably not actually probably the', 'start': 35.84, 'duration': 3.36}
+{'text': "majority of them either weren't or", 'start': 37.12, 'duration': 3.84}
+{'text': "a lot of them weren't young people are", 'start': 39.2, 'duration': 3.76}
+{'text': 'notoriously unlikely to be registered to', 'start': 40.96, 'duration': 2.72}
+{'text': 'vote right', 'start': 42.96, 'duration': 3.2}
+{'text': 'sure but this is half mil this is a half', 'start': 43.68, 'duration': 4.24}
+{'text': 'million people who are specifically', 'start': 46.16, 'duration': 2.96}
+{'text': 'engaged in following', 'start': 47.92, 'duration': 3.2}
+{'text': 'aoc on all of our social media platforms', 'start': 49.12, 'duration': 3.759}
+{'text': 'and specifically engaged and following', 'start': 51.12, 'duration': 3.04}
+{'text': 'people we could generally describe as', 'start': 52.879, 'duration': 3.281}
+{'text': 'political celebrities internet political', 'start': 54.16, 'duration': 2.8}
+{'text': 'liberties yeah', 'start': 56.16, 'duration': 2.32}
+{'text': "and these people notoriously aren't", 'start': 56.96, 'duration': 2.72}
+{'text': 'registered to vote that much i think', 'start': 58.48, 'duration': 2.48}
+{'text': "it's i think any kind of outreach like", 'start': 59.68, 'duration': 2.32}
+{'text': "here's a question what could she have", 'start': 60.96, 'duration': 2.079}
+{'text': 'better done with her time', 'start': 62.0, 'duration': 2.879}
+{'text': "i think that if you're going to engage", 'start': 63.039, 'duration': 3.12}
+{'text': "people don't engage with people you've", 'start': 64.879, 'duration': 1.92}
+{'text': 'already won', 'start': 66.159, 'duration': 3.521}
+{'text': 'the reason that like theoretically like', 'start': 66.799, 'duration': 4.081}
+{'text': 'bernie sanders', 'start': 69.68, 'duration': 3.2}
+{'text': 'or joe biden engaging with joe rogan is', 'start': 70.88, 'duration': 3.76}
+{'text': 'interesting because in theory they tap', 'start': 72.88, 'duration': 2.96}
+{'text': "an audience that they don't already have", 'start': 74.64, 'duration': 1.519}
+{'text': "they're", 'start': 75.84, 'duration': 1.36}
+{'text': "going to have an audience that doesn't", 'start': 76.159, 'duration': 3.121}
+{'text': 'seem fully wedded', 'start': 77.2, 'duration': 5.52}
+{'text': 'or allied or tied or introduced to', 'start': 79.28, 'duration': 6.479}
+{'text': 'joe biden or bernie sanders whatever', 'start': 82.72, 'duration': 5.6}
+{'text': "however it's like does specifically like", 'start': 85.759, 'duration': 4.241}
+{'text': 'young political people on twitch', 'start': 88.32, 'duration': 3.28}
+{'text': 'are they not do they not already know', 'start': 90.0, 'duration': 3.6}
+{'text': 'aoc by names they already not know these', 'start': 91.6, 'duration': 2.8}
+{'text': 'things', 'start': 93.6, 'duration': 3.519}
+{'text': 'and the reality is probably now you', 'start': 94.4, 'duration': 4.24}
+{'text': 'could argue about restroom field of vote', 'start': 97.119, 'duration': 2.96}
+{'text': "we can't measure that we don't", 'start': 98.64, 'duration': 3.119}
+{'text': "we're not we can't track back the twitch", 'start': 100.079, 'duration': 3.441}
+{'text': 'names names like that to the', 'start': 101.759, 'duration': 2.64}
+{'text': 'registration', 'start': 103.52, 'duration': 2.72}
+{'text': 'and sure they had a link and i i tried', 'start': 104.399, 'duration': 3.201}
+{'text': 'to keep a journal eye on it before i', 'start': 106.24, 'duration': 2.32}
+{'text': 'could tell', 'start': 107.6, 'duration': 2.879}
+{'text': "it didn't seem to nothing no dramatic", 'start': 108.56, 'duration': 3.839}
+{'text': 'numbers uh neither the candidates', 'start': 110.479, 'duration': 3.761}
+{'text': 'fundraised off opposites to my knowledge', 'start': 112.399, 'duration': 3.921}
+{'text': "so there's nothing nothing on that angle", 'start': 114.24, 'duration': 3.44}
+{'text': "for good or for real i don't think", 'start': 116.32, 'duration': 1.839}
+{'text': 'twitch', 'start': 117.68, 'duration': 3.039}
+{'text': 'streamers are any endorphin blocks yeah', 'start': 118.159, 'duration': 4.161}
+{'text': "so it's an opportunity it's a super", 'start': 120.719, 'duration': 2.961}
+{'text': 'simple opportunity question question', 'start': 122.32, 'duration': 2.479}
+{'text': 'what else could she have done with her', 'start': 123.68, 'duration': 2.32}
+{'text': 'time for two hours that would have', 'start': 124.799, 'duration': 2.561}
+{'text': 'gotten her that kind of publicity', 'start': 126.0, 'duration': 2.56}
+{'text': "absolutely nothing nothing's even", 'start': 127.36, 'duration': 2.879}
+{'text': "remotely closed there's obviously easily", 'start': 128.56, 'duration': 3.28}
+{'text': "like a yes for a pr answer there's", 'start': 130.239, 'duration': 2.561}
+{'text': 'nothing she could have done would have', 'start': 131.84, 'duration': 1.84}
+{'text': 'garnered headlines', 'start': 132.8, 'duration': 3.04}
+{'text': "that much like i've done she could have", 'start': 133.68, 'duration': 3.7}
+{'text': 'done youtube', 'start': 135.84, 'duration': 3.28}
+{'text': '[Music]', 'start': 137.38, 'duration': 3.18}
+{'text': 'this is like the most what if this is', 'start': 139.12, 'duration': 2.8}
+{'text': 'the most meaningless difference of all', 'start': 140.56, 'duration': 3.52}
+{'text': 'time', 'start': 141.92, 'duration': 2.16}
+{'text': 'essentially announces the cost like is', 'start': 144.8, 'duration': 3.92}
+{'text': 'it worth it for the potential like if', 'start': 146.72, 'duration': 3.36}
+{'text': 'if something went wrong was it would', 'start': 148.72, 'duration': 3.04}
+{'text': 'have been worth it because what could go', 'start': 150.08, 'duration': 2.72}
+{'text': 'wrong', 'start': 151.76, 'duration': 3.44}
+{'text': "a pr debacle was like that she's playing", 'start': 152.8, 'duration': 4.32}
+{'text': 'with some of the most brand safe people', 'start': 155.2, 'duration': 3.119}
+{'text': "like of all she's like in games like", 'start': 157.12, 'duration': 2.96}
+{'text': 'pokemon a disguised toast', 'start': 158.319, 'duration': 4.64}
+{'text': "like well didn't he assange with her was", 'start': 160.08, 'duration': 3.6}
+{'text': 'that or was that', 'start': 162.959, 'duration': 2.321}
+{'text': 'yeah and it sounded pretty brand safe', 'start': 163.68, 'duration': 4.08}
+{'text': "too okay i thought i didn't know if he", 'start': 165.28, 'duration': 4.08}
+{'text': 'was officially brand safe or not', 'start': 167.76, 'duration': 4.559}
+{'text': 'ugh i think it was it was easily like', 'start': 169.36, 'duration': 5.44}
+{'text': 'the easiest like npv positive like super', 'start': 172.319, 'duration': 5.761}
+{'text': 'huge like publicity like yeah i i want', 'start': 174.8, 'duration': 4.159}
+{'text': 'to see like', 'start': 178.08, 'duration': 2.879}
+{'text': "a more material thing like yeah it's", 'start': 178.959, 'duration': 3.761}
+{'text': "it's great to go on live tv or whatever", 'start': 180.959, 'duration': 2.961}
+{'text': 'like as can go on', 'start': 182.72, 'duration': 3.2}
+{'text': 'most live television whatever she wants', 'start': 183.92, 'duration': 3.92}
+{'text': 'what did it raise her money did get her', 'start': 185.92, 'duration': 3.84}
+{'text': 'did he get her extra numbers to get some', 'start': 187.84, 'duration': 3.84}
+{'text': 'voter registration up did it rip raise', 'start': 189.76, 'duration': 3.28}
+{'text': "it i mean you'd have to check i'm just", 'start': 191.68, 'duration': 2.96}
+{'text': 'saying like this space is like the', 'start': 193.04, 'duration': 3.44}
+{'text': 'advertising in the space is incredibly', 'start': 194.64, 'duration': 3.44}
+{'text': 'valuable and she got a ton of', 'start': 196.48, 'duration': 3.36}
+{'text': 'advertising', 'start': 198.08, 'duration': 4.079}
+{'text': "for free well sure yeah that's it's on", 'start': 199.84, 'duration': 3.92}
+{'text': 'honor media is the best kind of media', 'start': 202.159, 'duration': 3.201}
+{'text': 'yeah well and even just the eyes on a', 'start': 203.76, 'duration': 3.199}
+{'text': "stream like i don't know like", 'start': 205.36, 'duration': 3.84}
+{'text': "i don't know just that oh maybe i'm", 'start': 206.959, 'duration': 3.36}
+{'text': 'getting it from an advertisement too', 'start': 209.2, 'duration': 1.36}
+{'text': 'much', 'start': 210.319, 'duration': 2.0}
+{'text': 'if i hold five thousand viewers and i', 'start': 210.56, 'duration': 3.12}
+{'text': 'sell an hour of my time i can sell it', 'start': 212.319, 'duration': 2.881}
+{'text': 'for upwards of six thousand dollars an', 'start': 213.68, 'duration': 2.0}
+{'text': 'hour', 'start': 215.2, 'duration': 1.92}
+{'text': 'like for her to get five hundred', 'start': 215.68, 'duration': 2.88}
+{'text': 'thousand people on a stream for like two', 'start': 217.12, 'duration': 2.08}
+{'text': 'or not 500', 'start': 218.56, 'duration': 3.12}
+{'text': 'but 300 000 plus for two hours and a lot', 'start': 219.2, 'duration': 3.679}
+{'text': "of these are people that maybe don't", 'start': 221.68, 'duration': 2.4}
+{'text': 'know where necessarily there might be', 'start': 222.879, 'duration': 2.321}
+{'text': 'other people coming in from twitch and', 'start': 224.08, 'duration': 2.0}
+{'text': 'watching and [\xa0__\xa0] like', 'start': 225.2, 'duration': 2.08}
+{'text': "i don't know that's like that's such an", 'start': 226.08, 'duration': 3.2}
+{'text': 'easy like for free at for no cost', 'start': 227.28, 'duration': 3.28}
+{'text': 'for her to just get on her computer and', 'start': 229.28, 'duration': 3.12}
+{'text': 'stream for a little bit like it just', 'start': 230.56, 'duration': 2.8}
+{'text': 'seems', 'start': 232.4, 'duration': 2.559}
+{'text': 'like too easy to pass out like it seems', 'start': 233.36, 'duration': 3.92}
+{'text': 'so good i wanna know the metrics i', 'start': 234.959, 'duration': 3.521}
+{'text': 'mean did she raise any money for that', 'start': 237.28, 'duration': 2.48}
+{'text': "movement what was she i'm pretty sure", 'start': 238.48, 'duration': 2.0}
+{'text': 'what she was', 'start': 239.76, 'duration': 1.839}
+{'text': "like get out the vote or whatever it's", 'start': 240.48, 'duration': 2.64}
+{'text': 'probably some 501 c3 that does public', 'start': 241.599, 'duration': 2.161}
+{'text': 'reporting', 'start': 243.12, 'duration': 2.24}
+{'text': "what i've seen there was no like there", 'start': 243.76, 'duration': 3.36}
+{'text': 'was no like hey please donate to this', 'start': 245.36, 'duration': 2.56}
+{'text': 'link sort of thing', 'start': 247.12, 'duration': 2.72}
+{'text': "there was no call wasn't there was isn't", 'start': 247.92, 'duration': 3.36}
+{'text': 'was she literally doing that', 'start': 249.84, 'duration': 2.56}
+{'text': "i don't think there was a call action to", 'start': 251.28, 'duration': 3.12}
+{'text': "donate just somebody can cream me i'm", 'start': 252.4, 'duration': 3.28}
+{'text': "wrong i didn't watch that [\xa0__\xa0] but like", 'start': 254.4, 'duration': 1.6}
+{'text': 'i', 'start': 255.68, 'duration': 2.079}
+{'text': "i didn't want i didn't watch it fully", 'start': 256.0, 'duration': 3.199}
+{'text': 'some of them may correct me from what i', 'start': 257.759, 'duration': 2.641}
+{'text': 'could tell from the reporting saw there', 'start': 259.199, 'duration': 2.56}
+{'text': 'was no call to action for donations', 'start': 260.4, 'duration': 2.56}
+{'text': 'because i feel like if that happened', 'start': 261.759, 'duration': 2.641}
+{'text': 'there would have been some', 'start': 262.96, 'duration': 3.04}
+{'text': 'new story around it yeah i thought they', 'start': 264.4, 'duration': 3.28}
+{'text': 'were doing that i will vote.com stuff i', 'start': 266.0, 'duration': 2.639}
+{'text': "thought that's what they were calling", 'start': 267.68, 'duration': 2.239}
+{'text': "out i don't know if it was for political", 'start': 268.639, 'duration': 1.921}
+{'text': 'donations or', 'start': 269.919, 'duration': 1.601}
+{'text': 'just to like drive like voter', 'start': 270.56, 'duration': 2.72}
+{'text': 'registration i thought that was the goal', 'start': 271.52, 'duration': 3.52}
+{'text': 'i think there is power leveraging these', 'start': 273.28, 'duration': 3.6}
+{'text': 'platforms for political gain', 'start': 275.04, 'duration': 3.2}
+{'text': "i think it's important actually put a", 'start': 276.88, 'duration': 2.879}
+{'text': 'measuring stick on it and not just say', 'start': 278.24, 'duration': 3.28}
+{'text': 'hey i was in front of like about 10 000', 'start': 279.759, 'duration': 3.44}
+{'text': 'people or 100 000 people or', 'start': 281.52, 'duration': 4.0}
+{'text': 'a million people like okay but what what', 'start': 283.199, 'duration': 3.761}
+{'text': 'was the actual number then just', 'start': 285.52, 'duration': 2.56}
+{'text': "yeah i guess you'd have to see yeah", 'start': 286.96, 'duration': 2.48}
+{'text': 'metrics are important just because you', 'start': 288.08, 'duration': 2.48}
+{'text': "don't have metrics on something doesn't", 'start': 289.44, 'duration': 2.64}
+{'text': 'mean it was bad but i agree metrics are', 'start': 290.56, 'duration': 2.8}
+{'text': 'good to measure like the effectiveness', 'start': 292.08, 'duration': 1.92}
+{'text': 'and activity', 'start': 293.36, 'duration': 2.559}
+{'text': "i just can't think of anything else", 'start': 294.0, 'duration': 3.919}
+{'text': "where it's like hey my politician has", 'start': 295.919, 'duration': 2.641}
+{'text': 'you know', 'start': 297.919, 'duration': 3.12}
+{'text': 'three or like two or three hours of time', 'start': 298.56, 'duration': 4.0}
+{'text': "like what can they do that's gonna like", 'start': 301.039, 'duration': 2.801}
+{'text': "smash headlines and [\xa0__\xa0] that's", 'start': 302.56, 'duration': 2.96}
+{'text': 'relatively brand safe that reaches an', 'start': 303.84, 'duration': 3.04}
+{'text': "audience that they probably haven't like", 'start': 305.52, 'duration': 2.959}
+{'text': 'dug into as much before like', 'start': 306.88, 'duration': 3.039}
+{'text': "oh you're going like in a video game", 'start': 308.479, 'duration': 2.881}
+{'text': 'stream with a bunch of with a few like', 'start': 309.919, 'duration': 2.241}
+{'text': 'apolitical', 'start': 311.36, 'duration': 2.399}
+{'text': 'um video game streamers and get half a', 'start': 312.16, 'duration': 3.12}
+{'text': 'million people watching and then get', 'start': 313.759, 'duration': 2.801}
+{'text': 'headlines like all of the internet for', 'start': 315.28, 'duration': 2.4}
+{'text': 'doing something that no one has ever', 'start': 316.56, 'duration': 2.88}
+{'text': 'done before from congress like', 'start': 317.68, 'duration': 3.76}
+{'text': 'you went on twitch and played the video', 'start': 319.44, 'duration': 4.08}
+{'text': 'game among us with popular internet', 'start': 321.44, 'duration': 3.759}
+{'text': 'personalities to encourage young people', 'start': 323.52, 'duration': 2.16}
+{'text': 'to vote', 'start': 325.199, 'duration': 2.481}
+{'text': 'i had to ask my children what twitch is', 'start': 325.68, 'duration': 3.92}
+{'text': 'and what among us is they of course', 'start': 327.68, 'duration': 4.959}
+{'text': 'knew all about it that video has now', 'start': 329.6, 'duration': 5.12}
+{'text': 'more than 5 million views where did the', 'start': 332.639, 'duration': 3.681}
+{'text': 'idea come from', 'start': 334.72, 'duration': 3.6}
+{'text': 'and is it possible to kind of to', 'start': 336.32, 'duration': 3.36}
+{'text': 'translate this kind of', 'start': 338.32, 'duration': 3.52}
+{'text': 'unorthodox flashy approach to outreach', 'start': 339.68, 'duration': 4.0}
+{'text': 'into actual turnout', 'start': 341.84, 'duration': 3.76}
+{'text': 'among young voters who historically do', 'start': 343.68, 'duration': 4.16}
+{'text': 'not uh turn out as much as they', 'start': 345.6, 'duration': 4.48}
+{'text': "could yes well you know i'm the idea", 'start': 347.84, 'duration': 4.24}
+{'text': 'initially came from frankly you know', 'start': 350.08, 'duration': 5.04}
+{'text': "i i am often on social media and i've", 'start': 352.08, 'duration': 4.399}
+{'text': 'been seeing a lot of people playing', 'start': 355.12, 'duration': 2.24}
+{'text': 'among us', 'start': 356.479, 'duration': 3.121}
+{'text': "um twitch is a platform that i'm", 'start': 357.36, 'duration': 4.08}
+{'text': 'familiar with as a live streaming', 'start': 359.6, 'duration': 2.879}
+{'text': 'platform', 'start': 361.44, 'duration': 3.599}
+{'text': 'and i decided that this was something', 'start': 362.479, 'duration': 3.521}
+{'text': 'that i wanted to', 'start': 365.039, 'duration': 3.201}
+{'text': 'do not just for fun but to actually try', 'start': 366.0, 'duration': 3.68}
+{'text': 'in the form of engagement', 'start': 368.24, 'duration': 4.0}
+{'text': 'we do know that twitch is a very popular', 'start': 369.68, 'duration': 4.639}
+{'text': 'engagement platform for other means', 'start': 372.24, 'duration': 4.0}
+{'text': 'people often raise', 'start': 374.319, 'duration': 3.841}
+{'text': 'thousands if not millions of dollars', 'start': 376.24, 'duration': 3.84}
+{'text': 'collectively for charities and we', 'start': 378.16, 'duration': 3.92}
+{'text': 'decided to test this out as a voter', 'start': 380.08, 'duration': 3.36}
+{'text': 'mobilization strategy', 'start': 382.08, 'duration': 3.04}
+{'text': 'when you add up the collective streams', 'start': 383.44, 'duration': 3.44}
+{'text': 'over a half million people were', 'start': 385.12, 'duration': 4.32}
+{'text': 'watching live as you noted five million', 'start': 386.88, 'duration': 4.319}
+{'text': 'people have viewed uh since', 'start': 389.44, 'duration': 4.24}
+{'text': 'and it actually has been effective we', 'start': 391.199, 'duration': 4.201}
+{'text': 'were directing voters to', 'start': 393.68, 'duration': 4.32}
+{'text': 'iwillvote.com which helps young people', 'start': 395.4, 'duration': 3.96}
+{'text': 'not just register to vote', 'start': 398.0, 'duration': 3.84}
+{'text': 'but develop a voter plan and the thing', 'start': 399.36, 'duration': 4.24}
+{'text': 'about voter plans is that we do know', 'start': 401.84, 'duration': 3.28}
+{'text': 'scientifically and from behavioral', 'start': 403.6, 'duration': 4.24}
+{'text': 'studies that people who make a plan to', 'start': 405.12, 'duration': 3.44}
+{'text': 'vote', 'start': 407.84, 'duration': 2.96}
+{'text': 'are statistically much more likely to', 'start': 408.56, 'duration': 3.199}
+{'text': 'vote than just', 'start': 410.8, 'duration': 2.88}
+{'text': 'registering to vote and what we found', 'start': 411.759, 'duration': 3.28}
+{'text': 'during the live stream is that folks', 'start': 413.68, 'duration': 2.16}
+{'text': 'from', 'start': 415.039, 'duration': 4.081}
+{'text': 'the dnc were tweeting and reporting', 'start': 415.84, 'duration': 5.24}
+{'text': 'that we were the highest driver to', 'start': 419.12, 'duration': 3.12}
+{'text': 'iwillvote.com', 'start': 421.08, 'duration': 3.72}
+{'text': 'ever during uh the the cast of a live', 'start': 422.24, 'duration': 4.48}
+{'text': 'stream and we are seeing early returns', 'start': 424.8, 'duration': 3.44}
+{'text': 'in places like florida', 'start': 426.72, 'duration': 4.479}
+{'text': 'where youth turnout is ash in early', 'start': 428.24, 'duration': 4.12}
+{'text': 'voting is', 'start': 431.199, 'duration': 4.0}
+{'text': 'astronomically higher than it was', 'start': 432.36, 'duration': 6.279}
+{'text': "uh it then and even that's like the", 'start': 435.199, 'duration': 5.44}
+{'text': 'yeah what is it gonna cost us oh well', 'start': 438.639, 'duration': 3.201}
+{'text': 'she needs an internet connection and a', 'start': 440.639, 'duration': 2.721}
+{'text': 'computer that can stream for three hours', 'start': 441.84, 'duration': 3.28}
+{'text': "and then 50 bucks for graphics like i'm", 'start': 443.36, 'duration': 3.119}
+{'text': "just trying to think of the devil's", 'start': 445.12, 'duration': 3.12}
+{'text': "answer against that because like i i've", 'start': 446.479, 'duration': 3.041}
+{'text': 'been arguing for that stuff since we', 'start': 448.24, 'duration': 2.799}
+{'text': 'started talking on various candidates', 'start': 449.52, 'duration': 2.48}
+{'text': 'and streams', 'start': 451.039, 'duration': 2.56}
+{'text': 'i grinded my teeth with the fact that', 'start': 452.0, 'duration': 3.36}
+{'text': 'some of the campaigns i talked to put', 'start': 453.599, 'duration': 3.361}
+{'text': 'little to no effort in their attempts at', 'start': 455.36, 'duration': 2.239}
+{'text': 'this', 'start': 456.96, 'duration': 3.2}
+{'text': "my gut says it's good but part of me", 'start': 457.599, 'duration': 3.6}
+{'text': "wonders like okay well what's the", 'start': 460.16, 'duration': 2.4}
+{'text': 'counter arguments like well she could', 'start': 461.199, 'duration': 2.72}
+{'text': 'have put in a competitive bid between', 'start': 462.56, 'duration': 2.319}
+{'text': 'twitch and youtube and see', 'start': 463.919, 'duration': 3.921}
+{'text': 'and and see who bit first yeah but i', 'start': 464.879, 'duration': 4.16}
+{'text': "don't know if you wanna like this is", 'start': 467.84, 'duration': 2.88}
+{'text': 'like that that starts to get into like a', 'start': 469.039, 'duration': 2.961}
+{'text': 'lot more work now', 'start': 470.72, 'duration': 2.64}
+{'text': "i'm not saying that it's bad but like", 'start': 472.0, 'duration': 3.199}
+{'text': 'this is becoming way more like labor', 'start': 473.36, 'duration': 2.959}
+{'text': 'intensive now like oh', 'start': 475.199, 'duration': 2.161}
+{'text': 'we need a bidding war between these', 'start': 476.319, 'duration': 2.32}
+{'text': 'companies to sell like our political', 'start': 477.36, 'duration': 2.64}
+{'text': "advertising like that's like a way more", 'start': 478.639, 'duration': 2.641}
+{'text': 'involved processes like oh i can just', 'start': 480.0, 'duration': 2.56}
+{'text': 'literally turn on the stream for a few', 'start': 481.28, 'duration': 2.08}
+{'text': 'hours', 'start': 482.56, 'duration': 2.24}
+{'text': 'and get like half a million people', 'start': 483.36, 'duration': 3.839}
+{'text': 'almost watching and get like headlines', 'start': 484.8, 'duration': 4.0}
+{'text': "everywhere like it's like so easy to do", 'start': 487.199, 'duration': 2.161}
+{'text': 'that', 'start': 488.8, 'duration': 2.32}
+{'text': "obviously i don't have access to her", 'start': 489.36, 'duration': 2.959}
+{'text': "personal donor information there'll be", 'start': 491.12, 'duration': 2.479}
+{'text': 'an fdc report in', 'start': 492.319, 'duration': 3.121}
+{'text': "a couple weeks and we'll see if that may", 'start': 493.599, 'duration': 3.04}
+{'text': 'be because for all i know she raised', 'start': 495.44, 'duration': 2.879}
+{'text': 'like a million dollars that night', 'start': 496.639, 'duration': 3.441}
+{'text': 'by people clicked down to her website', 'start': 498.319, 'duration': 3.761}
+{'text': "but i think her website wasn't properly", 'start': 500.08, 'duration': 3.839}
+{'text': 'called to action or advertised', 'start': 502.08, 'duration': 3.519}
+{'text': 'neither was ill as well as congress', 'start': 503.919, 'duration': 3.361}
+{'text': 'congressman omar yeah maybe but i think', 'start': 505.599, 'duration': 2.401}
+{'text': 'even without the', 'start': 507.28, 'duration': 2.96}
+{'text': 'even without the actual like kpis even', 'start': 508.0, 'duration': 3.599}
+{'text': 'without our key performance indicators', 'start': 510.24, 'duration': 2.64}
+{'text': 'you know showing whether or not some', 'start': 511.599, 'duration': 2.721}
+{'text': 'advertising actions worthwhile or not i', 'start': 512.88, 'duration': 3.039}
+{'text': "think there's a lot of intangibles here", 'start': 514.32, 'duration': 3.04}
+{'text': "um i think there's a lot of intangibles", 'start': 515.919, 'duration': 3.04}
+{'text': 'here that are worth talking about i', 'start': 517.36, 'duration': 2.799}
+{'text': "don't know it was just like such a huge", 'start': 518.959, 'duration': 2.161}
+{'text': 'stream', 'start': 520.159, 'duration': 3.36}
+{'text': "did it surprise you because i it's it", 'start': 521.12, 'duration': 3.279}
+{'text': 'surprised', 'start': 523.519, 'duration': 3.041}
+{'text': "us um no i mean i think it's just a", 'start': 524.399, 'duration': 3.281}
+{'text': "matter of time like you've seen like", 'start': 526.56, 'duration': 2.24}
+{'text': 'political people get more and more', 'start': 527.68, 'duration': 3.279}
+{'text': 'involved on these types of platforms', 'start': 528.8, 'duration': 5.039}
+{'text': 'i do wonder if the better way because', 'start': 530.959, 'duration': 4.241}
+{'text': 'like the theory the way the way you', 'start': 533.839, 'duration': 2.801}
+{'text': 'better leverage some like twitches you', 'start': 535.2, 'duration': 1.759}
+{'text': "don't", 'start': 536.64, 'duration': 1.68}
+{'text': "you don't just pop on for three hours", 'start': 536.959, 'duration': 3.121}
+{'text': 'use hours like high quality content you', 'start': 538.32, 'duration': 3.44}
+{'text': 'stream like a more mid to lower', 'start': 540.08, 'duration': 3.28}
+{'text': 'tier quality content but you stream for', 'start': 541.76, 'duration': 2.8}
+{'text': 'a longer period of time that gives you', 'start': 543.36, 'duration': 3.52}
+{'text': 'more audience engagements like that', 'start': 544.56, 'duration': 4.64}
+{'text': "understand the current numbers that's", 'start': 546.88, 'duration': 3.36}
+{'text': 'finally concerned about', 'start': 549.2, 'duration': 2.24}
+{'text': 'trying to do the politics on twitch', 'start': 550.24, 'duration': 2.48}
+{'text': 'thing like the most effective way you', 'start': 551.44, 'duration': 2.88}
+{'text': 'utilize it is you stream for a longer', 'start': 552.72, 'duration': 2.64}
+{'text': 'period of time', 'start': 554.32, 'duration': 3.12}
+{'text': 'and times that premium like i think aoc', 'start': 555.36, 'duration': 3.76}
+{'text': 'streamed only for three hours and', 'start': 557.44, 'duration': 3.36}
+{'text': 'omar less than that are they leveraging', 'start': 559.12, 'duration': 3.04}
+{'text': 'the platform the best way possible', 'start': 560.8, 'duration': 2.719}
+{'text': 'should they maybe like put staff on', 'start': 562.16, 'duration': 2.88}
+{'text': 'rotation then they should push it up for', 'start': 563.519, 'duration': 2.561}
+{'text': 'the hotter hours', 'start': 565.04, 'duration': 3.84}
+{'text': 'would they have been better off doing', 'start': 566.08, 'duration': 3.6}
+{'text': 'shifts', 'start': 568.88, 'duration': 2.56}
+{'text': 'for like a longer period of time so just', 'start': 569.68, 'duration': 3.04}
+{'text': "trying to do there's probably like a", 'start': 571.44, 'duration': 2.24}
+{'text': 'million things that they could have done', 'start': 572.72, 'duration': 2.0}
+{'text': 'better but you know what those are all', 'start': 573.68, 'duration': 2.08}
+{'text': 'lessons learned for next time if they', 'start': 574.72, 'duration': 2.559}
+{'text': 'decide to do it again even if they never', 'start': 575.76, 'duration': 2.72}
+{'text': 'do it again though a single time in', 'start': 577.279, 'duration': 2.56}
+{'text': 'their entire lives it was still probably', 'start': 578.48, 'duration': 2.24}
+{'text': 'a really really good', 'start': 579.839, 'duration': 3.12}
+{'text': 'advertising play but i mean yeah they', 'start': 580.72, 'duration': 3.36}
+{'text': 'could definitely improve things for next', 'start': 582.959, 'duration': 2.081}
+{'text': 'time for sure', 'start': 584.08, 'duration': 2.879}
+{'text': 'well like i mean you know i have i have', 'start': 585.04, 'duration': 3.52}
+{'text': 'interest in utilizing the space for that', 'start': 586.959, 'duration': 2.721}
+{'text': "kind of stuff i'm trying to figure out", 'start': 588.56, 'duration': 2.32}
+{'text': 'like what did they do wrong what could', 'start': 589.68, 'duration': 2.08}
+{'text': 'have been improved', 'start': 590.88, 'duration': 2.24}
+{'text': 'um they probably could have announced it', 'start': 591.76, 'duration': 3.759}
+{'text': 'in a way more public manner in advance', 'start': 593.12, 'duration': 5.44}
+{'text': 'rather than like a single tweet well', 'start': 595.519, 'duration': 3.521}
+{'text': 'part of me', 'start': 598.56, 'duration': 2.08}
+{'text': 'is wondering okay i know what it takes', 'start': 599.04, 'duration': 3.12}
+{'text': 'to get like youtube to like agree a', 'start': 600.64, 'duration': 2.48}
+{'text': 'certain stuff for like', 'start': 602.16, 'duration': 3.44}
+{'text': 'campaigns like that i have a like i know', 'start': 603.12, 'duration': 3.2}
+{'text': 'from like', 'start': 605.6, 'duration': 2.16}
+{'text': "talking around twitch doesn't really", 'start': 606.32, 'duration': 2.639}
+{'text': 'have that kind of infrastructure you can', 'start': 607.76, 'duration': 2.8}
+{'text': 'set up yet beyond a', 'start': 608.959, 'duration': 4.0}
+{'text': "talk to the pr guys we'll figure it out", 'start': 610.56, 'duration': 3.6}
+{'text': 'should they have', 'start': 612.959, 'duration': 3.761}
+{'text': "done that like that i don't like i don't", 'start': 614.16, 'duration': 3.919}
+{'text': 'know should they have maybe should they', 'start': 616.72, 'duration': 1.6}
+{'text': 'have', 'start': 618.079, 'duration': 2.241}
+{'text': "multi-streamed i mean she's not partner", 'start': 618.32, 'duration': 3.44}
+{'text': 'so i guess she could have but would that', 'start': 620.32, 'duration': 3.199}
+{'text': 'complicate the message', 'start': 621.76, 'duration': 3.04}
+{'text': "yeah there's probably a million things", 'start': 623.519, 'duration': 2.801}
+{'text': 'she could have done better but i still', 'start': 624.8, 'duration': 1.92}
+{'text': 'think', 'start': 626.32, 'duration': 2.079}
+{'text': 'it was still a really good business oh i', 'start': 626.72, 'duration': 4.08}
+{'text': "i i i agree i'm just trying to figure", 'start': 628.399, 'duration': 2.88}
+{'text': 'out what', 'start': 630.8, 'duration': 3.12}
+{'text': "what could've been focused on yeah i", 'start': 631.279, 'duration': 3.841}
+{'text': 'mean like', 'start': 633.92, 'duration': 3.039}
+{'text': 'more clear and transparent announcements', 'start': 635.12, 'duration': 3.12}
+{'text': 'beforehand would have driven a lot more', 'start': 636.959, 'duration': 2.32}
+{'text': 'traffic probably', 'start': 638.24, 'duration': 2.8}
+{'text': 'is it is this is the kind of environment', 'start': 639.279, 'duration': 3.201}
+{'text': 'where a call to actual would be a turn', 'start': 641.04, 'duration': 2.0}
+{'text': 'off', 'start': 642.48, 'duration': 3.039}
+{'text': 'um no way she can do almost anything and', 'start': 643.04, 'duration': 3.76}
+{'text': 'people will like worship the ground she', 'start': 645.519, 'duration': 3.041}
+{'text': "walks on she's incredibly famous", 'start': 646.8, 'duration': 3.84}
+{'text': 'um and can probably get away with a lot', 'start': 648.56, 'duration': 3.68}
+{'text': 'of stuff like that it would come off as', 'start': 650.64, 'duration': 2.56}
+{'text': 'organic i think', 'start': 652.24, 'duration': 2.64}
+{'text': "and she's literally a congresswoman so", 'start': 653.2, 'duration': 3.28}
+{'text': 'the expectation is already there for her', 'start': 654.88, 'duration': 2.56}
+{'text': 'to be pretty stiff', 'start': 656.48, 'duration': 3.2}
+{'text': 'so well sure but like she was doing', 'start': 657.44, 'duration': 3.6}
+{'text': 'instagram streams when she was running', 'start': 659.68, 'duration': 2.88}
+{'text': 'for congress and though why these those', 'start': 661.04, 'duration': 2.56}
+{'text': "didn't have half a million", 'start': 662.56, 'duration': 2.64}
+{'text': 'million numbers those had fairly', 'start': 663.6, 'duration': 3.2}
+{'text': 'proficient numbers', 'start': 665.2, 'duration': 3.68}
+{'text': "she wasn't she was consistently a top", 'start': 666.8, 'duration': 3.44}
+{'text': 'instagram live', 'start': 668.88, 'duration': 4.079}
+{'text': "streamer she wasn't at the latter half", 'start': 670.24, 'duration': 4.48}
+{'text': 'of her campaign for congress because', 'start': 672.959, 'duration': 2.88}
+{'text': 'when she was just campaigning for', 'start': 674.72, 'duration': 2.64}
+{'text': 'congress she was in the top 10 pretty', 'start': 675.839, 'duration': 2.641}
+{'text': 'consistently', 'start': 677.36, 'duration': 2.4}
+{'text': 'when she was streaming when she was', 'start': 678.48, 'duration': 3.599}
+{'text': 'going live on instagram so like', 'start': 679.76, 'duration': 3.84}
+{'text': "this isn't and then for those the", 'start': 682.079, 'duration': 3.041}
+{'text': 'additional conversations that', 'start': 683.6, 'duration': 3.2}
+{'text': 'is gaining the most best thing to do on', 'start': 685.12, 'duration': 3.36}
+{'text': 'a streaming platform', 'start': 686.8, 'duration': 4.0}
+{'text': 'for this methodology but yeah i think it', 'start': 688.48, 'duration': 3.76}
+{'text': 'comes off as way more organic', 'start': 690.8, 'duration': 3.12}
+{'text': "i think we've seen that demonstrated", 'start': 692.24, 'duration': 3.039}
+{'text': 'that not engaging with the platform', 'start': 693.92, 'duration': 1.919}
+{'text': 'correctly', 'start': 695.279, 'duration': 2.481}
+{'text': 'just makes you look like a loser so no', 'start': 695.839, 'duration': 3.521}
+{'text': 'offense but the bernie sanders campaign', 'start': 697.76, 'duration': 3.12}
+{'text': 'tried to utilize the platform and did it', 'start': 699.36, 'duration': 2.64}
+{'text': 'an incredibly ineffective', 'start': 700.88, 'duration': 3.44}
+{'text': 'manner the trump campaign is yeah yeah', 'start': 702.0, 'duration': 3.12}
+{'text': "no i agree you can't just like", 'start': 704.32, 'duration': 1.759}
+{'text': 'livestream the debates', 'start': 705.12, 'duration': 2.32}
+{'text': 'that people are invited or have people', 'start': 706.079, 'duration': 2.961}
+{'text': "that aren't even you on the live stream", 'start': 707.44, 'duration': 3.44}
+{'text': 'yeah', 'start': 709.04, 'duration': 4.88}
+{'text': 'well i wonder if maybe that could work', 'start': 710.88, 'duration': 5.04}
+{'text': 'but i mean it could but bernie sanders i', 'start': 713.92, 'duration': 3.12}
+{'text': "don't know if bernie was like ever on", 'start': 715.92, 'duration': 2.64}
+{'text': 'his own [\xa0__\xa0] stream', 'start': 717.04, 'duration': 3.84}
+{'text': "he did it once i think but it wasn't and", 'start': 718.56, 'duration': 3.6}
+{'text': 'then the rest was just like a bunch of', 'start': 720.88, 'duration': 3.519}
+{'text': 'wh omega lols like no one even knew', 'start': 722.16, 'duration': 4.479}
+{'text': 'yeah it was the interns and the ones and', 'start': 724.399, 'duration': 3.601}
+{'text': 'the one comms', 'start': 726.639, 'duration': 2.88}
+{'text': 'assistant who who figured it out', 'start': 728.0, 'duration': 3.2}
+{'text': 'basically yeah which is ironic because', 'start': 729.519, 'duration': 2.961}
+{'text': 'bernie sanders was like a radio guy', 'start': 731.2, 'duration': 1.68}
+{'text': 'before', 'start': 732.48, 'duration': 1.84}
+{'text': "when he was young so it's it this could", 'start': 732.88, 'duration': 2.72}
+{'text': 'have humorously been like the flat with', 'start': 734.32, 'duration': 1.6}
+{'text': 'the', 'start': 735.6, 'duration': 1.52}
+{'text': 'the plot from the community that kind of', 'start': 735.92, 'duration': 2.8}
+{'text': "idea over wait a minute though isn't", 'start': 737.12, 'duration': 2.719}
+{'text': "like the whole thing i'm like", 'start': 738.72, 'duration': 2.88}
+{'text': 'like i twitches like bounce back and', 'start': 739.839, 'duration': 3.201}
+{'text': "forth whether if gaming's like give me", 'start': 741.6, 'duration': 2.96}
+{'text': 'the dominant thing on it or not like', 'start': 743.04, 'duration': 3.12}
+{'text': 'do you just strap a streaming backpack', 'start': 744.56, 'duration': 3.12}
+{'text': 'to your chest and go', 'start': 746.16, 'duration': 3.28}
+{'text': 'and like go walk around for a day as a', 'start': 747.68, 'duration': 3.36}
+{'text': 'candidate instead', 'start': 749.44, 'duration': 4.399}
+{'text': "um i mean you could i guess but we'll", 'start': 751.04, 'duration': 4.16}
+{'text': 'feel bite that', 'start': 753.839, 'duration': 2.641}
+{'text': "um i mean yeah you don't have to do it", 'start': 755.2, 'duration': 2.48}
+{'text': "irl but i mean like if you're gonna get", 'start': 756.48, 'duration': 2.32}
+{'text': 'on to play video games like i think', 'start': 757.68, 'duration': 1.839}
+{'text': "twitch's", 'start': 758.8, 'duration': 3.36}
+{'text': 'main draw is still gaming like even if', 'start': 759.519, 'duration': 4.161}
+{'text': "there's a lot of other types of content", 'start': 762.16, 'duration': 2.479}
+{'text': 'on it so', 'start': 763.68, 'duration': 2.8}
+{'text': "that's fair i think that coming on to", 'start': 764.639, 'duration': 3.921}
+{'text': 'play a game i think is a really positive', 'start': 766.48, 'duration': 3.44}
+{'text': 'way to do it like if bernie would have', 'start': 768.56, 'duration': 3.04}
+{'text': 'come on and played among us like holy', 'start': 769.92, 'duration': 2.24}
+{'text': '[\xa0__\xa0]', 'start': 771.6, 'duration': 2.4}
+{'text': 'that stream would have been [\xa0__\xa0] huge', 'start': 772.16, 'duration': 4.32}
+{'text': 'was among us around a year ago', 'start': 774.0, 'duration': 3.6}
+{'text': "no but i'm saying even if you did it now", 'start': 776.48, 'duration': 2.56}
+{'text': "he'd probably get a [\xa0__\xa0] people they", 'start': 777.6, 'duration': 2.479}
+{'text': 'would just be funny', 'start': 779.04, 'duration': 2.479}
+{'text': 'to watch bernie like try to [\xa0__\xa0]', 'start': 780.079, 'duration': 2.641}
+{'text': 'figure that [\xa0__\xa0] out and call it', 'start': 781.519, 'duration': 2.241}
+{'text': 'imposters and stuff', 'start': 782.72, 'duration': 2.4}
+{'text': 'no no bernie would bring back the chest', 'start': 783.76, 'duration': 4.639}
+{'text': 'meta on twitch more game his speed', 'start': 785.12, 'duration': 4.719}
+{'text': 'i wonder if the numbers were responsible', 'start': 788.399, 'duration': 3.281}
+{'text': 'for omar versus the aoc effect', 'start': 789.839, 'duration': 4.0}
+{'text': "if i could get popular she's younger", 'start': 791.68, 'duration': 3.52}
+{'text': 'than omar but she as', 'start': 793.839, 'duration': 2.721}
+{'text': 'hardcore she plays video games like', 'start': 795.2, 'duration': 3.6}
+{'text': "she's engaged with that character", 'start': 796.56, 'duration': 4.0}
+{'text': 'i think that it sounds really crass but', 'start': 798.8, 'duration': 2.88}
+{'text': 'i think her being like young and very', 'start': 800.56, 'duration': 2.079}
+{'text': 'attractive and everything', 'start': 801.68, 'duration': 3.52}
+{'text': 'helps a lot as well well i imagine for', 'start': 802.639, 'duration': 4.88}
+{'text': 'good for real that does help yes yeah', 'start': 805.2, 'duration': 6.16}
+{'text': 'like you it thanks', 'start': 807.519, 'duration': 3.841}
+{'text': 'would people watch bloomberg', 'start': 812.8, 'duration': 5.2}
+{'text': 'file his taxes on youtube if he live', 'start': 816.24, 'duration': 4.0}
+{'text': "streamed it there'd be a market for it", 'start': 818.0, 'duration': 2.88}
+{'text': "i'm sure", 'start': 820.24, 'duration': 2.88}
+{'text': 'yeah of course but would that give a', 'start': 820.88, 'duration': 3.199}
+{'text': 'quarter million dollars', 'start': 823.12, 'duration': 2.48}
+{'text': 'watching him do it and have him talk', 'start': 824.079, 'duration': 3.12}
+{'text': 'about his tax code or whatever if he was', 'start': 825.6, 'duration': 2.88}
+{'text': 'running if we could time travel back to', 'start': 827.199, 'duration': 3.2}
+{'text': '20 and team for his election or not', 'start': 828.48, 'duration': 4.88}
+{'text': "um i i don't think i think that taxes i", 'start': 830.399, 'duration': 4.8}
+{'text': "don't think would be as entertaining as", 'start': 833.36, 'duration': 3.52}
+{'text': 'unless there was already a big platform', 'start': 835.199, 'duration': 3.041}
+{'text': 'where people went into their taxes', 'start': 836.88, 'duration': 3.04}
+{'text': "publicly i don't think so", 'start': 838.24, 'duration': 3.599}
+{'text': 'if it was like doing like a short like', 'start': 839.92, 'duration': 4.479}
+{'text': 'little taxi slash finance seminar', 'start': 841.839, 'duration': 4.401}
+{'text': 'with like mark shkreli who was known for', 'start': 844.399, 'duration': 3.201}
+{'text': 'it that would probably be a really', 'start': 846.24, 'duration': 3.44}
+{'text': '[\xa0__\xa0] big stream', 'start': 847.6, 'duration': 4.239}
+{'text': "um obviously there's a lot of potential", 'start': 849.68, 'duration': 3.76}
+{'text': 'downside to that though but yeah', 'start': 851.839, 'duration': 2.641}
+{'text': "it's probably harder because there's so", 'start': 853.44, 'duration': 2.32}
+{'text': "much stuff you can't really talk about", 'start': 854.48, 'duration': 2.799}
+{'text': "publicly you're not going to see like", 'start': 855.76, 'duration': 3.12}
+{'text': 'financials from some tech startup', 'start': 857.279, 'duration': 3.201}
+{'text': 'like publicly posted or something right', 'start': 858.88, 'duration': 3.12}
+{'text': 'and harder to talk about everything', 'start': 860.48, 'duration': 3.68}
+{'text': 'if warren buffett were to do a stream to', 'start': 862.0, 'duration': 3.6}
+{'text': 'raise money like [\xa0__\xa0]', 'start': 864.16, 'duration': 3.28}
+{'text': 'loaded up like robin hood and started', 'start': 865.6, 'duration': 3.44}
+{'text': 'trading options or some [\xa0__\xa0]', 'start': 867.44, 'duration': 3.12}
+{'text': 'with like wall street bets loaded in the', 'start': 869.04, 'duration': 2.88}
+{'text': 'background that would be a stream that', 'start': 870.56, 'duration': 2.88}
+{'text': 'would get a [\xa0__\xa0] ton of people', 'start': 871.92, 'duration': 2.56}
+{'text': 'and he could probably raise a lot of', 'start': 873.44, 'duration': 2.399}
+{'text': 'money doing that yeah that would be', 'start': 874.48, 'duration': 4.159}
+{'text': 'funny as [\xa0__\xa0]', 'start': 875.839, 'duration': 2.8}
+{'text': 'that was something that to me i i really', 'start': 879.839, 'duration': 4.721}
+{'text': 'found distasteful', 'start': 883.199, 'duration': 3.601}
+{'text': 'i was not happy with that when i saw it', 'start': 884.56, 'duration': 3.76}
+{'text': "here's the thing about that like a lot", 'start': 886.8, 'duration': 2.399}
+{'text': 'of people have been like this so great', 'start': 888.32, 'duration': 1.68}
+{'text': 'it should be used as a model for', 'start': 889.199, 'duration': 2.32}
+{'text': "organizing lapis online here's the thing", 'start': 890.0, 'duration': 2.72}
+{'text': "i've been excluded from streams based on", 'start': 891.519, 'duration': 2.56}
+{'text': 'political reasons the hbom stream i', 'start': 892.72, 'duration': 2.64}
+{'text': 'would have gone on um had i not been', 'start': 894.079, 'duration': 2.401}
+{'text': 'banned from the html discord that was', 'start': 895.36, 'duration': 1.44}
+{'text': 'done', 'start': 896.48, 'duration': 1.84}
+{'text': 'why am i saying that because people who', 'start': 896.8, 'duration': 2.719}
+{'text': "don't like me and don't like things that", 'start': 898.32, 'duration': 2.24}
+{'text': "i have to say didn't want me to have", 'start': 899.519, 'duration': 1.921}
+{'text': 'access to that stream', 'start': 900.56, 'duration': 2.0}
+{'text': "didn't want me to be able to say the", 'start': 901.44, 'duration': 2.8}
+{'text': 'things that i might say um two people uh', 'start': 902.56, 'duration': 2.0}
+{'text': 'who', 'start': 904.24, 'duration': 1.279}
+{'text': 'uh there were a lot more of them than', 'start': 904.56, 'duration': 2.88}
+{'text': 'normal watching it now that was a', 'start': 905.519, 'duration': 3.76}
+{'text': 'microcosm of this', 'start': 907.44, 'duration': 3.759}
+{'text': 'aoc streamed to do this voting plan', 'start': 909.279, 'duration': 2.881}
+{'text': 'thing where all these people were going', 'start': 911.199, 'duration': 2.0}
+{'text': 'to come on and learn about making a', 'start': 912.16, 'duration': 2.479}
+{'text': 'voting plan she talked about games she', 'start': 913.199, 'duration': 2.561}
+{'text': 'talked about this she talked about that', 'start': 914.639, 'duration': 2.081}
+{'text': 'and we had various', 'start': 915.76, 'duration': 2.8}
+{'text': 'left personalities show up in the among', 'start': 916.72, 'duration': 3.359}
+{'text': 'us games we had hassan we had', 'start': 918.56, 'duration': 4.88}
+{'text': "um i don't remember who else but", 'start': 920.079, 'duration': 4.721}
+{'text': 'these various leftist personalities were', 'start': 923.44, 'duration': 2.399}
+{'text': 'people that are not going to say things', 'start': 924.8, 'duration': 2.64}
+{'text': 'that contradict', 'start': 925.839, 'duration': 2.881}
+{'text': 'the democratic party the need to have a', 'start': 927.44, 'duration': 2.639}
+{'text': 'voting plan they need to do any of this', 'start': 928.72, 'duration': 2.4}
+{'text': "like it's literally just", 'start': 930.079, 'duration': 3.041}
+{'text': 'a stream that is telling you hey you', 'start': 931.12, 'duration': 3.2}
+{'text': 'need to have a plan to vote is voting so', 'start': 933.12, 'duration': 2.0}
+{'text': 'important right', 'start': 934.32, 'duration': 2.079}
+{'text': "yes the most important thing it's how we", 'start': 935.12, 'duration': 2.88}
+{'text': 'save democracy we vote the fascist out', 'start': 936.399, 'duration': 2.641}
+{'text': "which doesn't that sound doesn't matter", 'start': 938.0, 'duration': 2.32}
+{'text': 'sound a little sus to you we vote the', 'start': 939.04, 'duration': 2.64}
+{'text': 'fascists out we vote to the dictator out', 'start': 940.32, 'duration': 3.12}
+{'text': 'we vote', 'start': 941.68, 'duration': 4.159}
+{'text': "yeah but wasn't it nice it was very", 'start': 943.44, 'duration': 3.68}
+{'text': 'accessible approachable yeah because', 'start': 945.839, 'duration': 2.161}
+{'text': 'nothing that is accessible and', 'start': 947.12, 'duration': 2.48}
+{'text': 'approachable has an agenda whatsoever', 'start': 948.0, 'duration': 3.199}
+{'text': 'right nothing out there is done with a', 'start': 949.6, 'duration': 2.64}
+{'text': 'nice and approachable tone with the', 'start': 951.199, 'duration': 2.241}
+{'text': 'intention to persuade you or limit your', 'start': 952.24, 'duration': 2.8}
+{'text': 'choices ever at all rights that has', 'start': 953.44, 'duration': 2.56}
+{'text': 'never happened before never seen an', 'start': 955.04, 'duration': 2.239}
+{'text': 'example of that not once in my entire', 'start': 956.0, 'duration': 3.44}
+{'text': 'life', 'start': 957.279, 'duration': 2.161}
+{'text': "he's made did you really take his wife", 'start': 960.639, 'duration': 11.601}
+{'text': 'to eat', 'start': 969.92, 'duration': 7.76}
+{'text': '[\xa0__\xa0] that boy from his life steady', 'start': 972.24, 'duration': 5.44}

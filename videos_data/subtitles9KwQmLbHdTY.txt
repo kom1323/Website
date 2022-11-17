@@ -1,0 +1,1315 @@
+{'text': 'newly elected u.s president joe biden', 'start': 0.08, 'duration': 4.48}
+{'text': 'promised to introduce a 15', 'start': 2.56, 'duration': 4.239}
+{'text': 'federal minimum wage once elected which', 'start': 4.56, 'duration': 3.999}
+{'text': 'sparked a renewed debate over the pros', 'start': 6.799, 'duration': 3.041}
+{'text': 'and cons of the policy', 'start': 8.559, 'duration': 2.96}
+{'text': 'as i write this the proposal has been', 'start': 9.84, 'duration': 3.04}
+{'text': 'voted down in the senate', 'start': 11.519, 'duration': 3.2}
+{'text': 'which is extremely disappointing but', 'start': 12.88, 'duration': 3.92}
+{'text': 'shows that econ 101ism is alive and', 'start': 14.719, 'duration': 3.681}
+{'text': 'kicking i suppose', 'start': 16.8, 'duration': 3.76}
+{'text': "since the dawn of time the usa's federal", 'start': 18.4, 'duration': 4.08}
+{'text': 'minimum wage has stagnated or even', 'start': 20.56, 'duration': 2.559}
+{'text': 'fallen', 'start': 22.48, 'duration': 3.2}
+{'text': 'as you can see here in the early 80s it', 'start': 23.119, 'duration': 4.08}
+{'text': 'was around three dollars an hour', 'start': 25.68, 'duration': 3.519}
+{'text': 'and despite steady rises in the headline', 'start': 27.199, 'duration': 3.92}
+{'text': 'value it has only kept pace with', 'start': 29.199, 'duration': 3.52}
+{'text': 'inflation since then', 'start': 31.119, 'duration': 4.001}
+{'text': 'as this table shows the ratio of minimum', 'start': 32.719, 'duration': 3.761}
+{'text': 'to median wages', 'start': 35.12, 'duration': 3.84}
+{'text': 'is only 33 percent for the us compared', 'start': 36.48, 'duration': 4.64}
+{'text': 'to 54 percent for my own country of the', 'start': 38.96, 'duration': 3.04}
+{'text': 'uk', 'start': 41.12, 'duration': 4.32}
+{'text': 'or 69 percent for chile in costa rica', 'start': 42.0, 'duration': 5.92}
+{'text': 'yo you know what we got here we got an', 'start': 45.44, 'duration': 4.32}
+{'text': 'elastic product you know what that means', 'start': 47.92, 'duration': 4.4}
+{'text': 'that means when people can go elsewhere', 'start': 49.76, 'duration': 4.88}
+{'text': 'and get they print in and copy and done', 'start': 52.32, 'duration': 3.919}
+{'text': "they're going to do it you acting like", 'start': 54.64, 'duration': 4.399}
+{'text': "we got an inelastic product and we don't", 'start': 56.239, 'duration': 4.8}
+{'text': 'in economics this means the percentage', 'start': 59.039, 'duration': 3.121}
+{'text': 'change in one thing', 'start': 61.039, 'duration': 2.721}
+{'text': 'because of a percentage change in', 'start': 62.16, 'duration': 3.84}
+{'text': 'another thing stringer was talking about', 'start': 63.76, 'duration': 4.08}
+{'text': 'the change in demand owing to the change', 'start': 66.0, 'duration': 3.36}
+{'text': 'in the price of their product', 'start': 67.84, 'duration': 3.599}
+{'text': 'but here we will mostly be talking about', 'start': 69.36, 'duration': 3.439}
+{'text': 'the change in employment', 'start': 71.439, 'duration': 4.32}
+{'text': 'owing to a change in the minimum wage so', 'start': 72.799, 'duration': 5.121}
+{'text': 'an elasticity of minus one', 'start': 75.759, 'duration': 3.921}
+{'text': 'means that if the minimum wage increases', 'start': 77.92, 'duration': 4.0}
+{'text': 'by one percent employment will fall by', 'start': 79.68, 'duration': 3.28}
+{'text': 'one percent', 'start': 81.92, 'duration': 4.16}
+{'text': 'an elasticity of minus 0.1 means that if', 'start': 82.96, 'duration': 4.72}
+{'text': 'the minimum wage increases by one', 'start': 86.08, 'duration': 2.399}
+{'text': 'percent', 'start': 87.68, 'duration': 3.68}
+{'text': 'employment will fall by 0.1 percent you', 'start': 88.479, 'duration': 4.801}
+{'text': 'can see that the formal would be hugely', 'start': 91.36, 'duration': 2.96}
+{'text': 'problematic', 'start': 93.28, 'duration': 2.479}
+{'text': 'while the latter could easily be', 'start': 94.32, 'duration': 2.96}
+{'text': 'considered a price worth paying for', 'start': 95.759, 'duration': 2.72}
+{'text': 'higher wages', 'start': 97.28, 'duration': 3.28}
+{'text': 'beginning with a famous paper by david', 'start': 98.479, 'duration': 4.64}
+{'text': 'card and alan craiger in 1994', 'start': 100.56, 'duration': 4.879}
+{'text': 'a wave of studies sometimes dubbed the', 'start': 103.119, 'duration': 4.081}
+{'text': 'new minimum wage research', 'start': 105.439, 'duration': 3.841}
+{'text': 'have used careful empirical techniques', 'start': 107.2, 'duration': 4.16}
+{'text': 'to investigate the elasticity of', 'start': 109.28, 'duration': 2.879}
+{'text': 'employment', 'start': 111.36, 'duration': 3.52}
+{'text': 'with respect to minimum wage changes', 'start': 112.159, 'duration': 4.32}
+{'text': 'carden craiger looked at the effect of a', 'start': 114.88, 'duration': 4.0}
+{'text': 'minimum wage change using two adjacent', 'start': 116.479, 'duration': 3.521}
+{'text': 'u.s states', 'start': 118.88, 'duration': 4.239}
+{'text': 'new jersey and pennsylvania in 1992.', 'start': 120.0, 'duration': 4.32}
+{'text': 'new jersey increased its minimum wage', 'start': 123.119, 'duration': 2.96}
+{'text': 'while pennsylvania did not this is a', 'start': 124.32, 'duration': 2.96}
+{'text': 'kind of natural experiment', 'start': 126.079, 'duration': 2.561}
+{'text': 'when a policy applied to one area is not', 'start': 127.28, 'duration': 2.479}
+{'text': 'applied to a similar area and', 'start': 128.64, 'duration': 2.8}
+{'text': 'comparisons between the two approximate', 'start': 129.759, 'duration': 3.041}
+{'text': 'the ideal of a lab experiment', 'start': 131.44, 'duration': 2.72}
+{'text': 'the argument goes that if two areas', 'start': 132.8, 'duration': 3.04}
+{'text': 'differ only in the policy in this case', 'start': 134.16, 'duration': 3.04}
+{'text': 'the minimum wage any difference in', 'start': 135.84, 'duration': 2.64}
+{'text': 'outcomes between them in this case', 'start': 137.2, 'duration': 2.8}
+{'text': 'employment can be attributed to that', 'start': 138.48, 'duration': 2.32}
+{'text': 'policy', 'start': 140.0, 'duration': 1.92}
+{'text': 'card and craig are phoned fast food', 'start': 140.8, 'duration': 2.079}
+{'text': 'restaurants which employ a lot of', 'start': 141.92, 'duration': 2.48}
+{'text': 'minimum wage workers both before and', 'start': 142.879, 'duration': 3.681}
+{'text': 'after the change', 'start': 144.4, 'duration': 3.199}
+{'text': 'what they found was that far from', 'start': 146.56, 'duration': 2.399}
+{'text': 'reducing employment in new jersey the', 'start': 147.599, 'duration': 2.801}
+{'text': 'minimum wage may actually have increased', 'start': 148.959, 'duration': 3.041}
+{'text': 'it the study made quite an impact', 'start': 150.4, 'duration': 2.96}
+{'text': 'reid garfield senior economist of the', 'start': 152.0, 'duration': 2.84}
+{'text': 'joint economic committee commented in', 'start': 153.36, 'duration': 3.519}
+{'text': '1996 the results of the study were', 'start': 154.84, 'duration': 2.759}
+{'text': 'extraordinary', 'start': 156.879, 'duration': 1.681}
+{'text': 'cardinal kreger seemed to have', 'start': 157.599, 'duration': 2.241}
+{'text': 'discovered a refutation of the law of', 'start': 158.56, 'duration': 2.88}
+{'text': 'demand economists were stunned', 'start': 159.84, 'duration': 2.88}
+{'text': 'because of these extraordinary results', 'start': 161.44, 'duration': 2.96}
+{'text': 'they debated the results many economists', 'start': 162.72, 'duration': 2.72}
+{'text': 'argued that differences between the', 'start': 164.4, 'duration': 2.4}
+{'text': 'states were more than simply differences', 'start': 165.44, 'duration': 2.48}
+{'text': 'of minimum wage rates', 'start': 166.8, 'duration': 2.56}
+{'text': 'other economists argued that the study', 'start': 167.92, 'duration': 3.28}
+{'text': 'design was flawed since this thousands', 'start': 169.36, 'duration': 3.04}
+{'text': 'of papers have been written in the usa', 'start': 171.2, 'duration': 2.399}
+{'text': 'and elsewhere on the employment effects', 'start': 172.4, 'duration': 2.08}
+{'text': 'of the minimum wage', 'start': 173.599, 'duration': 2.081}
+{'text': 'one of the most pertinent critiques of', 'start': 174.48, 'duration': 3.2}
+{'text': 'cardinal was how narrow their study was', 'start': 175.68, 'duration': 3.44}
+{'text': 'a single change in fast food restaurants', 'start': 177.68, 'duration': 2.96}
+{'text': 'in two relatively small u.s states', 'start': 179.12, 'duration': 2.88}
+{'text': 'should not be generalized to minimum', 'start': 180.64, 'duration': 2.319}
+{'text': 'wages everywhere', 'start': 182.0, 'duration': 2.159}
+{'text': 'more recently the frontier of minimum', 'start': 182.959, 'duration': 2.321}
+{'text': 'wage research has been led by people', 'start': 184.159, 'duration': 2.641}
+{'text': 'like aaron dube and his co-authors', 'start': 185.28, 'duration': 2.8}
+{'text': 'they have mostly followed in cardinal', 'start': 186.8, 'duration': 2.719}
+{'text': "craig's footsteps by taking advantage of", 'start': 188.08, 'duration': 2.72}
+{'text': 'natural experiments but have', 'start': 189.519, 'duration': 2.401}
+{'text': 'substantially broadened the number of', 'start': 190.8, 'duration': 2.56}
+{'text': 'states they include as well as the time', 'start': 191.92, 'duration': 2.72}
+{'text': 'frame of the studies and the depth they', 'start': 193.36, 'duration': 2.72}
+{'text': 'go into estimating the effects', 'start': 194.64, 'duration': 3.28}
+{'text': 'for example in the 2010 paper jube', 'start': 196.08, 'duration': 3.2}
+{'text': 'leicester and bright found no employment', 'start': 197.92, 'duration': 3.36}
+{'text': 'effects of the minimum wage using 316', 'start': 199.28, 'duration': 3.28}
+{'text': 'adjacent pairs of states', 'start': 201.28, 'duration': 2.56}
+{'text': "that's cardinal krieger times by", 'start': 202.56, 'duration': 3.44}
+{'text': "hundreds my god that's", 'start': 203.84, 'duration': 4.479}
+{'text': "i don't even know what that is nobody", 'start': 206.0, 'duration': 4.879}
+{'text': 'dies a 2019 paper by singers dude linda', 'start': 208.319, 'duration': 4.0}
+{'text': 'and zapera estimated the effects of', 'start': 210.879, 'duration': 2.961}
+{'text': 'minimum wages on the entire distribution', 'start': 212.319, 'duration': 2.161}
+{'text': 'of jobs', 'start': 213.84, 'duration': 2.72}
+{'text': 'using 138 different minimum wage changes', 'start': 214.48, 'duration': 4.16}
+{'text': 'in the usa the x axis here shows the', 'start': 216.56, 'duration': 3.36}
+{'text': "part of the wage distribution we're in", 'start': 218.64, 'duration': 2.48}
+{'text': 'relative to the minimum', 'start': 219.92, 'duration': 2.48}
+{'text': "two means it's two dollars higher than", 'start': 221.12, 'duration': 3.119}
+{'text': 'the minimum wage the y-axis shows the', 'start': 222.4, 'duration': 3.199}
+{'text': 'effect on employment at a given part of', 'start': 224.239, 'duration': 2.401}
+{'text': 'the wage distribution', 'start': 225.599, 'duration': 2.56}
+{'text': 'just below the minimum wage zero on the', 'start': 226.64, 'duration': 3.12}
+{'text': 'x-axis a substantial number of jobs', 'start': 228.159, 'duration': 2.16}
+{'text': 'disappear', 'start': 229.76, 'duration': 2.32}
+{'text': 'as shown by the negative blue bar which', 'start': 230.319, 'duration': 2.881}
+{'text': "makes sense as it's now illegal to", 'start': 232.08, 'duration': 2.56}
+{'text': 'employ people at that wage', 'start': 233.2, 'duration': 2.959}
+{'text': 'but this is offset entirely by the', 'start': 234.64, 'duration': 3.04}
+{'text': 'appearance of jobs at or above the new', 'start': 236.159, 'duration': 3.201}
+{'text': 'minimum wage as shown by the positive', 'start': 237.68, 'duration': 2.88}
+{'text': 'blue bar to its right', 'start': 239.36, 'duration': 2.4}
+{'text': 'there are no effects anywhere else in', 'start': 240.56, 'duration': 2.8}
+{'text': 'the distribution so this gain in wages', 'start': 241.76, 'duration': 2.64}
+{'text': 'for low-income workers', 'start': 243.36, 'duration': 2.48}
+{'text': 'is not offset by other workers losing', 'start': 244.4, 'duration': 2.559}
+{'text': 'out the same paper looks at these', 'start': 245.84, 'duration': 2.08}
+{'text': 'effects over the long term', 'start': 246.959, 'duration': 2.081}
+{'text': 'and it shows that the new jobs which', 'start': 247.92, 'duration': 2.48}
+{'text': 'appear do not disappear after a few', 'start': 249.04, 'duration': 2.88}
+{'text': 'years i favor this type of natural', 'start': 250.4, 'duration': 2.479}
+{'text': 'experiment approach', 'start': 251.92, 'duration': 2.48}
+{'text': "it's transparent and the core of close", 'start': 252.879, 'duration': 3.6}
+{'text': 'comparison between pairs of real re', 'start': 254.4, 'duration': 3.119}
+{'text': "one thing that's really important to", 'start': 256.479, 'duration': 2.561}
+{'text': 'keep in mind when we talk about like', 'start': 257.519, 'duration': 2.481}
+{'text': 'wage impacts', 'start': 259.04, 'duration': 3.2}
+{'text': 'is um and i notice they do this a lot', 'start': 260.0, 'duration': 3.52}
+{'text': 'when they go back and forth on the', 'start': 262.24, 'duration': 2.88}
+{'text': 'seattle studies or how those wages have', 'start': 263.52, 'duration': 2.8}
+{'text': 'impacted new workers', 'start': 265.12, 'duration': 2.639}
+{'text': "i think it's really important that we", 'start': 266.32, 'duration': 3.52}
+{'text': 'disaggregate workers from each other', 'start': 267.759, 'duration': 3.761}
+{'text': "to make sure that you're not positively", 'start': 269.84, 'duration': 3.2}
+{'text': 'impacting some section of the economy', 'start': 271.52, 'duration': 2.959}
+{'text': 'while dramatically negatively impacting', 'start': 273.04, 'duration': 2.48}
+{'text': 'some other section', 'start': 274.479, 'duration': 2.401}
+{'text': "so for instance i think that it's pretty", 'start': 275.52, 'duration': 2.88}
+{'text': 'well understood that as long as minimum', 'start': 276.88, 'duration': 3.2}
+{'text': "wages aren't set too high", 'start': 278.4, 'duration': 3.92}
+{'text': 'generally they have favorable impacts um', 'start': 280.08, 'duration': 4.24}
+{'text': 'however even in those cases', 'start': 282.32, 'duration': 4.0}
+{'text': 'even if on the aggregate wages paid to', 'start': 284.32, 'duration': 3.12}
+{'text': 'certain workers are higher', 'start': 286.32, 'duration': 2.8}
+{'text': 'and even if on the aggregate employment', 'start': 287.44, 'duration': 4.0}
+{'text': 'seems to be either equal or boosted', 'start': 289.12, 'duration': 4.0}
+{'text': 'the problem that you run into is that', 'start': 291.44, 'duration': 3.44}
+{'text': 'you start to disproportionately impact', 'start': 293.12, 'duration': 3.359}
+{'text': 'more narrower sets of workers', 'start': 294.88, 'duration': 3.12}
+{'text': 'so for instance workers with only high', 'start': 296.479, 'duration': 3.521}
+{'text': 'school education tend to lose out on', 'start': 298.0, 'duration': 2.8}
+{'text': 'these deals', 'start': 300.0, 'duration': 3.919}
+{'text': 'and then more um more educated workers', 'start': 300.8, 'duration': 3.92}
+{'text': 'or people that are doing better', 'start': 303.919, 'duration': 2.161}
+{'text': 'socioeconomically already are getting', 'start': 304.72, 'duration': 1.84}
+{'text': 'like', 'start': 306.08, 'duration': 3.92}
+{'text': 'bigger gains with the minimum wage boost', 'start': 306.56, 'duration': 5.68}
+{'text': 'tends to be the arguments that i hear', 'start': 310.0, 'duration': 3.68}
+{'text': 'regions keeps the method grounded in', 'start': 312.24, 'duration': 2.32}
+{'text': 'empirical reality', 'start': 313.68, 'duration': 2.079}
+{'text': 'instead of blinding us with complex', 'start': 314.56, 'duration': 2.96}
+{'text': 'statistical methods but i should say', 'start': 315.759, 'duration': 2.801}
+{'text': "that it's not the case that every study", 'start': 317.52, 'duration': 2.239}
+{'text': 'has found no effect like this', 'start': 318.56, 'duration': 2.079}
+{'text': 'there are dissenters within this', 'start': 319.759, 'duration': 2.241}
+{'text': 'literature specifically economists like', 'start': 320.639, 'duration': 2.721}
+{'text': 'david newmark and his co-authors', 'start': 322.0, 'duration': 2.8}
+{'text': 'overall though most systematic', 'start': 323.36, 'duration': 2.88}
+{'text': 'meta-analyses find a small but', 'start': 324.8, 'duration': 2.8}
+{'text': 'statistically significant negative', 'start': 326.24, 'duration': 3.2}
+{'text': 'elasticity of employment with respect to', 'start': 327.6, 'duration': 2.879}
+{'text': 'minimum wage changes', 'start': 329.44, 'duration': 2.479}
+{'text': 'having said that these studies also show', 'start': 330.479, 'duration': 2.641}
+{'text': 'evidence that there is a bias towards', 'start': 331.919, 'duration': 2.401}
+{'text': 'publishing negative estimates', 'start': 333.12, 'duration': 2.48}
+{'text': "why that's the case i'll leave you to", 'start': 334.32, 'duration': 3.68}
+{'text': 'figure out so how does one make sense of', 'start': 335.6, 'duration': 4.319}
+{'text': 'such a vast and tricky literature', 'start': 338.0, 'duration': 4.48}
+{'text': 'well not the way the cbo does it', 'start': 339.919, 'duration': 4.401}
+{'text': '[Music]', 'start': 342.48, 'duration': 2.88}
+{'text': 'to give you some background the', 'start': 344.32, 'duration': 2.08}
+{'text': 'congressional budget office is an', 'start': 345.36, 'duration': 2.72}
+{'text': 'official about non-partisan entity in', 'start': 346.4, 'duration': 3.28}
+{'text': 'the usa which produces research on', 'start': 348.08, 'duration': 2.88}
+{'text': 'important policy topics', 'start': 349.68, 'duration': 2.64}
+{'text': 'their recent report claimed that raising', 'start': 350.96, 'duration': 3.519}
+{'text': 'the minimum wage to 15 would lead to 1.4', 'start': 352.32, 'duration': 3.76}
+{'text': 'million job losses a pretty concerning', 'start': 354.479, 'duration': 2.321}
+{'text': 'figure', 'start': 356.08, 'duration': 2.32}
+{'text': 'where did they get their estimates from', 'start': 356.8, 'duration': 2.64}
+{'text': "voor said that he'd have to get", 'start': 358.4, 'duration': 2.32}
+{'text': 'something else today i also take issue', 'start': 359.44, 'duration': 2.479}
+{'text': "with so far now it's possible to address", 'start': 360.72, 'duration': 2.16}
+{'text': "the things i've said", 'start': 361.919, 'duration': 3.361}
+{'text': "is again when we're talking about", 'start': 362.88, 'duration': 3.12}
+{'text': 'boosting the minimum', 'start': 365.28, 'duration': 2.32}
+{'text': "wage across state lines whatever we're", 'start': 366.0, 'duration': 3.12}
+{'text': 'doing these comparisons between control', 'start': 367.6, 'duration': 2.48}
+{'text': 'cities and whatnot', 'start': 369.12, 'duration': 3.919}
+{'text': 'um the 15 an hour minimum wage bump is', 'start': 370.08, 'duration': 4.399}
+{'text': 'huge', 'start': 373.039, 'duration': 3.761}
+{'text': 'huge huge huge huge huge like if i were', 'start': 374.479, 'duration': 4.401}
+{'text': 'to say like is drinking 20 gallons of', 'start': 376.8, 'duration': 3.36}
+{'text': 'water bad for you', 'start': 378.88, 'duration': 3.039}
+{'text': 'in one day and then somebody would start', 'start': 380.16, 'duration': 3.36}
+{'text': 'flooding me with studies showing oh look', 'start': 381.919, 'duration': 2.801}
+{'text': 'increased water consumption is good when', 'start': 383.52, 'duration': 2.32}
+{'text': 'these people drink more water it helps', 'start': 384.72, 'duration': 2.08}
+{'text': "actually you're totally wrong blah blah", 'start': 385.84, 'duration': 2.32}
+{'text': "blah it's like okay well hold on", 'start': 386.8, 'duration': 3.04}
+{'text': "like we're not talking about just", 'start': 388.16, 'duration': 2.879}
+{'text': "increasing consumption of water we're", 'start': 389.84, 'duration': 2.4}
+{'text': 'talking about a dramatic increase in', 'start': 391.039, 'duration': 2.16}
+{'text': "consumption of water i don't know if", 'start': 392.24, 'duration': 1.76}
+{'text': 'these other studies are', 'start': 393.199, 'duration': 3.12}
+{'text': "necessarily valid i don't know if it's", 'start': 394.0, 'duration': 4.479}
+{'text': "if it's valid to look at prior like", 'start': 396.319, 'duration': 3.681}
+{'text': 'small bumps and minimum wages', 'start': 398.479, 'duration': 2.961}
+{'text': 'between different states and say oh well', 'start': 400.0, 'duration': 2.88}
+{'text': 'look well 15 an hour should be fine', 'start': 401.44, 'duration': 2.56}
+{'text': 'right because then at that point we', 'start': 402.88, 'duration': 2.56}
+{'text': 'could theoretically argue for 25 an hour', 'start': 404.0, 'duration': 2.96}
+{'text': 'or 35 an hour or 50 an hour', 'start': 405.44, 'duration': 3.68}
+{'text': 'right you like you i think we need i', 'start': 406.96, 'duration': 3.92}
+{'text': 'think we need like more', 'start': 409.12, 'duration': 3.04}
+{'text': 'to see more dramatic increases in', 'start': 410.88, 'duration': 2.48}
+{'text': "minimum wage it's like i think the", 'start': 412.16, 'duration': 2.56}
+{'text': 'seattle study is good although even that', 'start': 413.36, 'duration': 2.48}
+{'text': "isn't as dramatic as what's being", 'start': 414.72, 'duration': 1.84}
+{'text': 'proposed', 'start': 415.84, 'duration': 3.04}
+{'text': "um aren't all these changes only like a", 'start': 416.56, 'duration': 3.12}
+{'text': 'dollar a year', 'start': 418.88, 'duration': 2.159}
+{'text': "per less i think it's within two dollars", 'start': 419.68, 'duration': 3.2}
+{'text': 'a year we looked at that new jersey one', 'start': 421.039, 'duration': 2.961}
+{'text': "at one point for the fast food i don't", 'start': 422.88, 'duration': 1.92}
+{'text': 'remember what the increase in the', 'start': 424.0, 'duration': 2.24}
+{'text': "minimum wage was but yeah it's it's", 'start': 424.8, 'duration': 3.119}
+{'text': 'nowhere near the dramatic level that the', 'start': 426.24, 'duration': 2.16}
+{'text': 'um', 'start': 427.919, 'duration': 2.961}
+{'text': 'that the 15 an hour stuff is expert out', 'start': 428.4, 'duration': 3.84}
+{'text': "to understand this debate i'd hate to be", 'start': 430.88, 'duration': 2.319}
+{'text': 'the reason that anyone had to read an', 'start': 432.24, 'duration': 2.32}
+{'text': "econometrics textbook so let's save him", 'start': 433.199, 'duration': 2.321}
+{'text': 'from having to do so', 'start': 434.56, 'duration': 2.479}
+{'text': 'uh oh too late bro the first thing to', 'start': 435.52, 'duration': 2.88}
+{'text': 'say is that this report was kind of', 'start': 437.039, 'duration': 1.921}
+{'text': 'opaque', 'start': 438.4, 'duration': 1.68}
+{'text': 'even for someone who is used to reading', 'start': 438.96, 'duration': 2.799}
+{'text': "this type of thing it's full of phrases", 'start': 440.08, 'duration': 3.2}
+{'text': 'like cbo concluded and', 'start': 441.759, 'duration': 3.361}
+{'text': "in cbo's estimation often with little to", 'start': 443.28, 'duration': 3.84}
+{'text': 'no explanation they select 11 studies', 'start': 445.12, 'duration': 3.359}
+{'text': 'from the literature but why these 11', 'start': 447.12, 'duration': 3.12}
+{'text': 'were chosen is not explained', 'start': 448.479, 'duration': 3.12}
+{'text': 'the cbo then computes the effect of', 'start': 450.24, 'duration': 2.72}
+{'text': 'minimum wages on employment from an', 'start': 451.599, 'duration': 2.72}
+{'text': 'average of the 11 studies', 'start': 452.96, 'duration': 2.72}
+{'text': 'but they increase the magnitude of the', 'start': 454.319, 'duration': 2.88}
+{'text': 'actual average because of a really weird', 'start': 455.68, 'duration': 2.639}
+{'text': 'thing they do where they randomly drop', 'start': 457.199, 'duration': 2.0}
+{'text': 'some of the studies they use and', 'start': 458.319, 'duration': 1.921}
+{'text': 'recalculate the average with those', 'start': 459.199, 'duration': 1.84}
+{'text': 'studies missing', 'start': 460.24, 'duration': 2.16}
+{'text': "i don't know why this method is chosen", 'start': 461.039, 'duration': 2.88}
+{'text': 'or how it really works because again it', 'start': 462.4, 'duration': 2.239}
+{'text': "isn't explained", 'start': 463.919, 'duration': 1.921}
+{'text': 'cube himself has commented a similar', 'start': 464.639, 'duration': 2.641}
+{'text': 'effect though in more measured academic', 'start': 465.84, 'duration': 1.919}
+{'text': 'terms', 'start': 467.28, 'duration': 2.16}
+{'text': 'he says the cbo overemphasizes the', 'start': 467.759, 'duration': 2.88}
+{'text': 'negative estimates and what we already', 'start': 469.44, 'duration': 2.4}
+{'text': 'know is a literature biased towards', 'start': 470.639, 'duration': 2.4}
+{'text': 'finding negative estimates', 'start': 471.84, 'duration': 2.479}
+{'text': 'he points out that more recent better', 'start': 473.039, 'duration': 2.481}
+{'text': 'quality research has found employment', 'start': 474.319, 'duration': 2.88}
+{'text': 'elasticity of the minimum wage closer to', 'start': 475.52, 'duration': 3.44}
+{'text': 'zero as an alternative he suggested his', 'start': 477.199, 'duration': 3.84}
+{'text': 'own 2009 review for the uk treasury this', 'start': 478.96, 'duration': 3.359}
+{'text': 'only includes studies which estimated', 'start': 481.039, 'duration': 2.481}
+{'text': 'the effect on employment', 'start': 482.319, 'duration': 3.041}
+{'text': 'for the same workers whose wages are', 'start': 483.52, 'duration': 3.119}
+{'text': 'increased by the minimum wage', 'start': 485.36, 'duration': 2.399}
+{'text': 'which gives a clear picture of the', 'start': 486.639, 'duration': 2.56}
+{'text': 'trade-offs faced by the workers actually', 'start': 487.759, 'duration': 2.72}
+{'text': 'affected by the policy', 'start': 489.199, 'duration': 3.68}
+{'text': 'this is known as the own wage elasticity', 'start': 490.479, 'duration': 4.0}
+{'text': 'along the y axis is the study the dots', 'start': 492.879, 'duration': 2.961}
+{'text': 'represent the estimated effect size for', 'start': 494.479, 'duration': 2.72}
+{'text': 'that study with the bars either side of', 'start': 495.84, 'duration': 2.639}
+{'text': 'the dots representing the uncertainty', 'start': 497.199, 'duration': 2.481}
+{'text': 'surrounding that estimate', 'start': 498.479, 'duration': 2.72}
+{'text': 'dude concludes that based on this review', 'start': 499.68, 'duration': 3.6}
+{'text': 'the average elasticity is minus 0.04', 'start': 501.199, 'duration': 3.761}
+{'text': 'meaning that a 25 increase in average', 'start': 503.28, 'duration': 2.8}
+{'text': 'wages for a group affected by the', 'start': 504.96, 'duration': 2.639}
+{'text': 'minimum wage should reduce employment by', 'start': 506.08, 'duration': 2.799}
+{'text': 'one percent for that group', 'start': 507.599, 'duration': 3.761}
+{'text': 'also i feel like this elasticity this', 'start': 508.879, 'duration': 3.121}
+{'text': 'this', 'start': 511.36, 'duration': 3.679}
+{'text': "[\xa0__\xa0] i i don't know if there's um i i", 'start': 512.0, 'duration': 4.24}
+{'text': 'would hope that like people who do', 'start': 515.039, 'duration': 2.321}
+{'text': 'econometrics', 'start': 516.24, 'duration': 3.239}
+{'text': 'probably would know this but that', 'start': 517.36, 'duration': 3.44}
+{'text': 'elasticity', 'start': 519.479, 'duration': 4.201}
+{'text': 'is probably going to be a function and', 'start': 520.8, 'duration': 4.0}
+{'text': 'not just a', 'start': 523.68, 'duration': 4.24}
+{'text': 'um an integer what the [\xa0__\xa0] am i', 'start': 524.8, 'duration': 4.64}
+{'text': 'thinking of f of x equals five what', 'start': 527.92, 'duration': 2.56}
+{'text': 'would you call that', 'start': 529.44, 'duration': 4.72}
+{'text': 'like like your elasticity is', 'start': 530.48, 'duration': 5.76}
+{'text': 'oh a constant yeah jesus um your', 'start': 534.16, 'duration': 4.4}
+{'text': 'elasticity is probably going to change', 'start': 536.24, 'duration': 5.599}
+{'text': 'depending upon um how far away you move', 'start': 538.56, 'duration': 5.36}
+{'text': 'from whatever your baseline value is', 'start': 541.839, 'duration': 4.161}
+{'text': "uh it's part of basic elasticity theory", 'start': 543.92, 'duration': 4.08}
+{'text': 'okay good so like for instance like', 'start': 546.0, 'duration': 5.12}
+{'text': 'i can probably demonstrate a very um', 'start': 548.0, 'duration': 6.24}
+{'text': 'a very low elasticity elasticity a very', 'start': 551.12, 'duration': 3.6}
+{'text': 'low', 'start': 554.24, 'duration': 2.8}
+{'text': 'elasticity in a product at very low', 'start': 554.72, 'duration': 3.119}
+{'text': 'price changes', 'start': 557.04, 'duration': 2.0}
+{'text': 'so for instance if we start with a', 'start': 557.839, 'duration': 3.041}
+{'text': 'dollar for a can of coke the difference', 'start': 559.04, 'duration': 3.6}
+{'text': "between like i can't the demand for coke", 'start': 560.88, 'duration': 3.519}
+{'text': 'at a dollar versus a dollar five', 'start': 562.64, 'duration': 3.68}
+{'text': 'the elasticity is probably going to be', 'start': 564.399, 'duration': 3.281}
+{'text': 'um uh', 'start': 566.32, 'duration': 3.44}
+{'text': 'very very very low i would imagine but', 'start': 567.68, 'duration': 3.36}
+{'text': 'once we start to move further and', 'start': 569.76, 'duration': 2.079}
+{'text': 'further away', 'start': 571.04, 'duration': 2.56}
+{'text': 'i imagine that value is going to start', 'start': 571.839, 'duration': 3.521}
+{'text': 'to change more dramatically', 'start': 573.6, 'duration': 3.6}
+{'text': 'that like if we increase it from one', 'start': 575.36, 'duration': 3.52}
+{'text': 'dollar to a dollar ten', 'start': 577.2, 'duration': 3.28}
+{'text': "um you know it's gonna change between a", 'start': 578.88, 'duration': 2.72}
+{'text': 'dollar ten to a dollar twenty or a', 'start': 580.48, 'duration': 2.72}
+{'text': 'dollar twenty to a dollar fifty that', 'start': 581.6, 'duration': 2.64}
+{'text': 'that elasticity', 'start': 583.2, 'duration': 3.759}
+{'text': 'is probably going to um grow a bit and', 'start': 584.24, 'duration': 4.32}
+{'text': 'then slope i guess', 'start': 586.959, 'duration': 5.201}
+{'text': 'how would that look on a graph', 'start': 588.56, 'duration': 3.6}
+{'text': 'what what if i had to like guess what', 'start': 594.08, 'duration': 3.439}
+{'text': 'this curve would look like', 'start': 596.0, 'duration': 3.2}
+{'text': 'i i guess it would look like probably', 'start': 597.519, 'duration': 3.041}
+{'text': 'something like this', 'start': 599.2, 'duration': 4.4}
+{'text': "or whatever where like you you're", 'start': 600.56, 'duration': 4.719}
+{'text': "if this is our elasticity here i don't", 'start': 603.6, 'duration': 2.799}
+{'text': "know if there's like a textbook on this", 'start': 605.279, 'duration': 1.601}
+{'text': "i'm sure", 'start': 606.399, 'duration': 2.0}
+{'text': 'but like i imagine that like little', 'start': 606.88, 'duration': 3.44}
+{'text': "changes right here probably wouldn't", 'start': 608.399, 'duration': 2.721}
+{'text': 'matter much', 'start': 610.32, 'duration': 2.24}
+{'text': "but as you start to change it's going to", 'start': 611.12, 'duration': 2.64}
+{'text': "get like it's going to start the", 'start': 612.56, 'duration': 2.399}
+{'text': 'elasticity is going to grow', 'start': 613.76, 'duration': 2.88}
+{'text': 'significantly until it like tapers off', 'start': 614.959, 'duration': 2.241}
+{'text': 'here whatever', 'start': 616.64, 'duration': 4.16}
+{'text': 'that would be like my guess um', 'start': 617.2, 'duration': 3.6}
+{'text': "i say that would be my guess but i'm", 'start': 621.44, 'duration': 2.8}
+{'text': "almost positive that's what would happen", 'start': 622.48, 'duration': 2.24}
+{'text': 'right', 'start': 624.24, 'duration': 3.68}
+{'text': 'an s curve sure okay', 'start': 624.72, 'duration': 4.64}
+{'text': "there's a lot of debate over whether 15", 'start': 627.92, 'duration': 3.12}
+{'text': 'an hour is enough and jube also comments', 'start': 629.36, 'duration': 2.64}
+{'text': 'on how high the minimum wage', 'start': 631.04, 'duration': 2.96}
+{'text': 'could be across u.s states the best', 'start': 632.0, 'duration': 3.12}
+{'text': 'evidence suggests that the employment', 'start': 634.0, 'duration': 1.839}
+{'text': 'effects are small', 'start': 635.12, 'duration': 2.8}
+{'text': 'up to around 59 of the median wage', 'start': 635.839, 'duration': 3.521}
+{'text': 'evidence using substate county level', 'start': 637.92, 'duration': 2.88}
+{'text': 'variation found this to hold even in', 'start': 639.36, 'duration': 2.88}
+{'text': 'lower wage counties where the minimum', 'start': 640.8, 'duration': 2.719}
+{'text': 'stood up to 81', 'start': 642.24, 'duration': 3.039}
+{'text': 'of the median wage research conducted', 'start': 643.519, 'duration': 3.121}
+{'text': 'for this report also finds that in the', 'start': 645.279, 'duration': 2.481}
+{'text': 'seven u.s states with the highest', 'start': 646.64, 'duration': 2.319}
+{'text': 'minimum wage where the minimum is', 'start': 647.76, 'duration': 2.48}
+{'text': 'binding for around 17', 'start': 648.959, 'duration': 2.721}
+{'text': 'of the workforce employment effects have', 'start': 650.24, 'duration': 3.279}
+{'text': 'been similarly modest now to return to', 'start': 651.68, 'duration': 2.719}
+{'text': 'demand and supply', 'start': 653.519, 'duration': 2.161}
+{'text': 'strictly speaking this evidence alone', 'start': 654.399, 'duration': 2.481}
+{'text': "doesn't contradict the supply and demand", 'start': 655.68, 'duration': 2.399}
+{'text': 'model it could just imply that the', 'start': 656.88, 'duration': 2.88}
+{'text': 'curves have a specific shape albeit an', 'start': 658.079, 'duration': 2.961}
+{'text': 'unlikely one that contradicts other', 'start': 659.76, 'duration': 2.4}
+{'text': "evidence i'll provide a reference for", 'start': 661.04, 'duration': 1.76}
+{'text': 'that below', 'start': 662.16, 'duration': 2.08}
+{'text': "but here's my bottom line when if", 'start': 662.8, 'duration': 3.279}
+{'text': 'excises are this small and uncertain', 'start': 664.24, 'duration': 2.96}
+{'text': "it's suggestive of something that's just", 'start': 666.079, 'duration': 2.161}
+{'text': 'not that interesting whether', 'start': 667.2, 'duration': 2.24}
+{'text': 'theoretically or politically', 'start': 668.24, 'duration': 2.719}
+{'text': 'as the economist thomas leonard pointed', 'start': 669.44, 'duration': 2.8}
+{'text': 'out this whole debate does prompt the', 'start': 670.959, 'duration': 1.761}
+{'text': 'question', 'start': 672.24, 'duration': 1.599}
+{'text': 'what evidence would convince you that', 'start': 672.72, 'duration': 2.88}
+{'text': 'your theory is refuted let me illustrate', 'start': 673.839, 'duration': 3.361}
+{'text': 'this with one more recent study', 'start': 675.6, 'duration': 2.56}
+{'text': 'this shows a bunch of different', 'start': 677.2, 'duration': 2.879}
+{'text': 'elasticities for 16 to 19 year olds the', 'start': 678.16, 'duration': 3.04}
+{'text': "group most likely to be effective i'd", 'start': 680.079, 'duration': 2.0}
+{'text': 'also like to say', 'start': 681.2, 'duration': 2.639}
+{'text': 'too that like when an economist uses', 'start': 682.079, 'duration': 3.921}
+{'text': 'like a model like supply and demand', 'start': 683.839, 'duration': 4.801}
+{'text': 'i would hope okay and maybe economists', 'start': 686.0, 'duration': 4.079}
+{'text': "are really [\xa0__\xa0] stupid maybe we're", 'start': 688.64, 'duration': 3.04}
+{'text': 'all smarter than economists right', 'start': 690.079, 'duration': 3.681}
+{'text': 'i would hope that when an economist uses', 'start': 691.68, 'duration': 3.68}
+{'text': 'a supply and demand curve for things', 'start': 693.76, 'duration': 2.8}
+{'text': 'like employment', 'start': 695.36, 'duration': 4.32}
+{'text': "it's not literally like our graph", 'start': 696.56, 'duration': 6.0}
+{'text': "isn't literally going to be called u.s", 'start': 699.68, 'duration': 4.48}
+{'text': 'employment', 'start': 702.56, 'duration': 4.48}
+{'text': "here's here it is this is the whole", 'start': 704.16, 'duration': 4.48}
+{'text': 'supply demand for all of the', 'start': 707.04, 'duration': 3.44}
+{'text': 'right the supply and demand is going to', 'start': 708.64, 'duration': 3.6}
+{'text': 'be like relevant', 'start': 710.48, 'duration': 3.599}
+{'text': "it's going to be incredibly localized to", 'start': 712.24, 'duration': 3.44}
+{'text': 'different sectors of the economy', 'start': 714.079, 'duration': 3.76}
+{'text': 'right that like um your quantity', 'start': 715.68, 'duration': 3.839}
+{'text': 'demanded of labor is going to change', 'start': 717.839, 'duration': 3.841}
+{'text': 'significantly based on our locality like', 'start': 719.519, 'duration': 3.601}
+{'text': "what cities we're on on our industry", 'start': 721.68, 'duration': 2.8}
+{'text': 'based on what types are talking about on', 'start': 723.12, 'duration': 2.48}
+{'text': "the types of workers we're talking about", 'start': 724.48, 'duration': 2.799}
+{'text': 'right like so these supply demand curves', 'start': 725.6, 'duration': 3.52}
+{'text': 'probably still work pretty accurately', 'start': 727.279, 'duration': 2.961}
+{'text': "but they're going to be incredibly", 'start': 729.12, 'duration': 2.32}
+{'text': "localized to different areas it's not", 'start': 730.24, 'duration': 2.159}
+{'text': 'like we just draw one', 'start': 731.44, 'duration': 2.88}
+{'text': 'giant [\xa0__\xa0] aggregate supply demand', 'start': 732.399, 'duration': 4.401}
+{'text': 'curve for the entire us [\xa0__\xa0] economy', 'start': 734.32, 'duration': 4.88}
+{'text': 'right that would if people do do that it', 'start': 736.8, 'duration': 3.92}
+{'text': 'would be incredibly [\xa0__\xa0] stupid', 'start': 739.2, 'duration': 4.0}
+{'text': "like jesus christ but yeah let's it by", 'start': 740.72, 'duration': 4.32}
+{'text': 'the policy as you can see in most cases', 'start': 743.2, 'duration': 3.439}
+{'text': 'the blue horizontal lines cross zero', 'start': 745.04, 'duration': 3.2}
+{'text': 'which is given by the red vertical line', 'start': 746.639, 'duration': 3.041}
+{'text': 'indicating that the effects estimated', 'start': 748.24, 'duration': 3.039}
+{'text': 'are not statistically distinguishable', 'start': 749.68, 'duration': 2.56}
+{'text': 'from none at all', 'start': 751.279, 'duration': 2.401}
+{'text': 'as a contrast consider a more', 'start': 752.24, 'duration': 2.88}
+{'text': 'straightforward question what is the', 'start': 753.68, 'duration': 3.04}
+{'text': 'effect of the minimum wage on wages', 'start': 755.12, 'duration': 2.399}
+{'text': 'themselves', 'start': 756.72, 'duration': 2.08}
+{'text': 'this might seem tautological but if the', 'start': 757.519, 'duration': 2.641}
+{'text': 'minimum wage is low or is not properly', 'start': 758.8, 'duration': 3.2}
+{'text': 'enforced we may not observe an effect', 'start': 760.16, 'duration': 3.52}
+{'text': 'unlike our previous figure the estimates', 'start': 762.0, 'duration': 3.04}
+{'text': 'here are universally positive and', 'start': 763.68, 'duration': 2.959}
+{'text': 'statistically distinct from zero', 'start': 765.04, 'duration': 2.88}
+{'text': 'this is the pattern one would expect to', 'start': 766.639, 'duration': 2.721}
+{'text': 'observe when the relationship one is', 'start': 767.92, 'duration': 3.28}
+{'text': 'estimating is strong and reliable', 'start': 769.36, 'duration': 3.039}
+{'text': 'the minimum wage effects do not look', 'start': 771.2, 'duration': 3.12}
+{'text': 'like this higher labor costs as a result', 'start': 772.399, 'duration': 3.12}
+{'text': 'of the minimum wage are obviously a', 'start': 774.32, 'duration': 1.6}
+{'text': 'thing', 'start': 775.519, 'duration': 1.601}
+{'text': 'but employers often have more bargaining', 'start': 775.92, 'duration': 2.64}
+{'text': 'power than workers so they can afford it', 'start': 777.12, 'duration': 2.64}
+{'text': 'increase pay can motivate workers', 'start': 778.56, 'duration': 2.64}
+{'text': 'leading to higher productivity it can', 'start': 779.76, 'duration': 2.639}
+{'text': 'make them more likely to stay reducing', 'start': 781.2, 'duration': 2.639}
+{'text': 'turnover costs from hiring and firing', 'start': 782.399, 'duration': 2.721}
+{'text': 'and at the economy wide level', 'start': 783.839, 'duration': 2.56}
+{'text': 'the minimum wage increases the spending', 'start': 785.12, 'duration': 2.719}
+{'text': 'power of workers which will increase', 'start': 786.399, 'duration': 2.88}
+{'text': 'okay you know what i would like to see', 'start': 787.839, 'duration': 1.761}
+{'text': 'done', 'start': 789.279, 'duration': 3.68}
+{'text': 'as an experiment just in one place d', 'start': 789.6, 'duration': 6.88}
+{'text': '10 this guy is completely ignoring dead', 'start': 792.959, 'duration': 4.721}
+{'text': 'weight loss', 'start': 796.48, 'duration': 4.0}
+{'text': 'the cost of a deal not done the hire not', 'start': 797.68, 'duration': 5.2}
+{'text': 'made kitten to incurring cost', 'start': 800.48, 'duration': 4.64}
+{'text': "also businesses on average don't stop", 'start': 802.88, 'duration': 3.84}
+{'text': 'growing they change their priorities', 'start': 805.12, 'duration': 2.88}
+{'text': 'well i imagine that we try to account', 'start': 806.72, 'duration': 2.4}
+{'text': 'for that with unemployment right if', 'start': 808.0, 'duration': 2.399}
+{'text': "we're increasing the unemployment then", 'start': 809.12, 'duration': 2.32}
+{'text': "we're probably talking about people not", 'start': 810.399, 'duration': 2.401}
+{'text': 'hired generally right', 'start': 811.44, 'duration': 3.36}
+{'text': 'um something that i would like to see', 'start': 812.8, 'duration': 4.32}
+{'text': 'done just try it as a mass experiment in', 'start': 814.8, 'duration': 3.68}
+{'text': 'some huge firm or whatever', 'start': 817.12, 'duration': 3.2}
+{'text': 'i wish that there was like a combination', 'start': 818.48, 'duration': 3.12}
+{'text': 'of like hourly wage', 'start': 820.32, 'duration': 4.24}
+{'text': 'plus like wage for jobs done because i', 'start': 821.6, 'duration': 4.0}
+{'text': 'guarantee you', 'start': 824.56, 'duration': 2.8}
+{'text': 'in every single [\xa0__\xa0] job in the', 'start': 825.6, 'duration': 3.679}
+{'text': "united states there's a lot of people", 'start': 827.36, 'duration': 2.96}
+{'text': 'that just [\xa0__\xa0]', 'start': 829.279, 'duration': 2.56}
+{'text': 'lazy about because why the [\xa0__\xa0] would', 'start': 830.32, 'duration': 2.56}
+{'text': "you work any faster when you're not", 'start': 831.839, 'duration': 2.0}
+{'text': 'getting paid anymore', 'start': 832.88, 'duration': 4.0}
+{'text': 'like i know that at the casino like', 'start': 833.839, 'duration': 4.161}
+{'text': "when you have when you're assigned like", 'start': 836.88, 'duration': 3.12}
+{'text': 'certain tasks from for like restaurants', 'start': 838.0, 'duration': 3.199}
+{'text': 'like there are some things that you', 'start': 840.0, 'duration': 2.56}
+{'text': 'could do them in like [\xa0__\xa0] five or', 'start': 841.199, 'duration': 3.041}
+{'text': 'ten minutes but like why would you', 'start': 842.56, 'duration': 3.839}
+{'text': 'why would you bust your ass and bust', 'start': 844.24, 'duration': 3.44}
+{'text': 'tables hard', 'start': 846.399, 'duration': 3.041}
+{'text': 'you know like rap silverwork quick do', 'start': 847.68, 'duration': 3.76}
+{'text': 'your prep work fast like [\xa0__\xa0] no like', 'start': 849.44, 'duration': 3.28}
+{'text': 'you know that you can spend about two', 'start': 851.44, 'duration': 2.56}
+{'text': 'hours doing you know prep for the', 'start': 852.72, 'duration': 2.479}
+{'text': 'kitchen like [\xa0__\xa0] it why the [\xa0__\xa0]', 'start': 854.0, 'duration': 2.32}
+{'text': "wouldn't you why would you bust your ass", 'start': 855.199, 'duration': 2.241}
+{'text': 'and do it in 20 minutes right', 'start': 856.32, 'duration': 2.56}
+{'text': 'i wish there was like some type of like', 'start': 857.44, 'duration': 3.12}
+{'text': 'payment per task or something that a', 'start': 858.88, 'duration': 3.04}
+{'text': 'system like that would be tried out', 'start': 860.56, 'duration': 2.399}
+{'text': 'because i feel like you could take', 'start': 861.92, 'duration': 2.479}
+{'text': 'certain workers that work 40 hours a', 'start': 862.959, 'duration': 3.201}
+{'text': 'week pay them their same wages but they', 'start': 864.399, 'duration': 2.88}
+{'text': 'could work 20 hours a week and do the', 'start': 866.16, 'duration': 2.56}
+{'text': 'same amount of work i know this is the', 'start': 867.279, 'duration': 1.92}
+{'text': 'case', 'start': 868.72, 'duration': 2.72}
+{'text': 'i wish there was like more i could drive', 'start': 869.199, 'duration': 3.44}
+{'text': 'towards this in the economy or something', 'start': 871.44, 'duration': 3.12}
+{'text': 'like jesus [\xa0__\xa0]', 'start': 872.639, 'duration': 3.44}
+{'text': 'yeah because if you work harder and most', 'start': 874.56, 'duration': 3.04}
+{'text': 'hourly jobs that means you just get more', 'start': 876.079, 'duration': 2.88}
+{'text': "[\xa0__\xa0] to do you don't get a break", 'start': 877.6, 'duration': 2.88}
+{'text': "like if i'm assigned to do some tasks", 'start': 878.959, 'duration': 2.961}
+{'text': 'for two hours and i get it done in one', 'start': 880.48, 'duration': 2.799}
+{'text': "hour i don't get to jerk off for an hour", 'start': 881.92, 'duration': 2.56}
+{'text': 'they give me some other [\xa0__\xa0] to do like', 'start': 883.279, 'duration': 2.321}
+{'text': 'the [\xa0__\xa0] what the [\xa0__\xa0] is the point of', 'start': 884.48, 'duration': 1.76}
+{'text': 'that', 'start': 885.6, 'duration': 3.919}
+{'text': "like it's demand for businesses", 'start': 886.24, 'duration': 4.56}
+{'text': "i'm happy to debate the importance of", 'start': 889.519, 'duration': 2.641}
+{'text': 'these different effects but the standard', 'start': 890.8, 'duration': 2.719}
+{'text': 'economic approach only helps us with a', 'start': 892.16, 'duration': 2.799}
+{'text': 'tiny part of them if at all', 'start': 893.519, 'duration': 3.12}
+{'text': 'and arguably the effect on employment is', 'start': 894.959, 'duration': 3.041}
+{'text': 'so yeah or the worst case scenario', 'start': 896.639, 'duration': 2.56}
+{'text': "is your supervisor's like oh well no", 'start': 898.0, 'duration': 2.48}
+{'text': 'more work to do time to send you home', 'start': 899.199, 'duration': 2.721}
+{'text': "early it's like wait i got bills to pay", 'start': 900.48, 'duration': 2.32}
+{'text': '[\xa0__\xa0]', 'start': 901.92, 'duration': 2.159}
+{'text': "uninteresting because it's distracted us", 'start': 902.8, 'duration': 2.479}
+{'text': 'from other questions such as the effect', 'start': 904.079, 'duration': 2.56}
+{'text': 'of the minimum wage on mental health or', 'start': 905.279, 'duration': 2.081}
+{'text': 'poverty', 'start': 906.639, 'duration': 2.0}
+{'text': 'so now we know that the minimum wage', 'start': 907.36, 'duration': 2.479}
+{'text': "just doesn't have the kind of reliable", 'start': 908.639, 'duration': 2.32}
+{'text': "negative effect on employment we'd", 'start': 909.839, 'duration': 2.401}
+{'text': 'expect if the theory were useful', 'start': 910.959, 'duration': 2.641}
+{'text': 'but now i want to talk about another', 'start': 912.24, 'duration': 2.64}
+{'text': 'similar okay so again i just want to', 'start': 913.6, 'duration': 1.919}
+{'text': 'qualify', 'start': 914.88, 'duration': 3.36}
+{'text': 'now we know that minimum wage set close', 'start': 915.519, 'duration': 3.361}
+{'text': 'to what', 'start': 918.24, 'duration': 2.399}
+{'text': "price floors we'd already imagine are or", 'start': 918.88, 'duration': 2.959}
+{'text': "the price one that's set close to what", 'start': 920.639, 'duration': 2.88}
+{'text': 'the natural minimum wage would be', 'start': 921.839, 'duration': 3.761}
+{'text': "is it has little effect that we haven't", 'start': 923.519, 'duration': 4.081}
+{'text': 'proven that a 15 an hour minimum wage', 'start': 925.6, 'duration': 3.039}
+{'text': "wouldn't have that effect", 'start': 927.6, 'duration': 2.479}
+{'text': 'right the closest he got was when he', 'start': 928.639, 'duration': 2.88}
+{'text': 'talked about when median wages are set', 'start': 930.079, 'duration': 3.361}
+{'text': 'at 59 or when a minimum wage is set to', 'start': 931.519, 'duration': 2.56}
+{'text': '59', 'start': 933.44, 'duration': 2.24}
+{'text': 'the median wage which nationally would', 'start': 934.079, 'duration': 3.521}
+{'text': 'work out to around 12 an hour i believe', 'start': 935.68, 'duration': 4.079}
+{'text': 'or like 11 59 an hour or something or or', 'start': 937.6, 'duration': 3.679}
+{'text': "something like that it wouldn't be 15 an", 'start': 939.759, 'duration': 2.161}
+{'text': 'hour', 'start': 941.279, 'duration': 4.011}
+{'text': 'but prominent example rent control', 'start': 941.92, 'duration': 5.2}
+{'text': '[Music]', 'start': 945.29, 'duration': 3.19}
+{'text': "it's no secret that both house prices", 'start': 947.12, 'duration': 2.32}
+{'text': 'and rents in many countries have', 'start': 948.48, 'duration': 2.08}
+{'text': 'skyrocketed over the past couple of', 'start': 949.44, 'duration': 3.04}
+{'text': 'decades especially in anglo countries', 'start': 950.56, 'duration': 3.12}
+{'text': 'housing is probably the main cost for', 'start': 952.48, 'duration': 2.4}
+{'text': 'most people so this has prompted', 'start': 953.68, 'duration': 2.0}
+{'text': 'questions about whether governments', 'start': 954.88, 'duration': 2.079}
+{'text': 'should do more to help people cope with', 'start': 955.68, 'duration': 2.0}
+{'text': 'these costs', 'start': 956.959, 'duration': 2.081}
+{'text': 'the most direct policy to do this would', 'start': 957.68, 'duration': 3.04}
+{'text': "be rent control rent control isn't a", 'start': 959.04, 'duration': 3.039}
+{'text': 'hugely popular policy although it exists', 'start': 960.72, 'duration': 2.88}
+{'text': 'in a few countries and localities for', 'start': 962.079, 'duration': 3.12}
+{'text': 'example new york city as discussed by', 'start': 963.6, 'duration': 3.12}
+{'text': 'the friends in the popular sitcom', 'start': 965.199, 'duration': 2.801}
+{'text': 'friends but more important because of', 'start': 966.72, 'duration': 4.08}
+{'text': 'rent control it was a friggin steal', 'start': 968.0, 'duration': 4.079}
+{'text': 'in their debate on housing philosopher', 'start': 970.8, 'duration': 2.8}
+{'text': 'ben burgess and streamer destiny also', 'start': 972.079, 'duration': 3.041}
+{'text': 'discussed the policy rent control', 'start': 973.6, 'duration': 4.88}
+{'text': "it's like 1490 not 11. four", 'start': 975.12, 'duration': 4.719}
+{'text': "i'm almost positive it was around 12", 'start': 978.48, 'duration': 2.799}
+{'text': 'dollars we looked this up deduced render', 'start': 979.839, 'duration': 2.161}
+{'text': 'you want to link a source', 'start': 981.279, 'duration': 3.441}
+{'text': 'for it go for it', 'start': 982.0, 'duration': 2.72}
+{'text': 'or we can just do the math i guess the', 'start': 987.44, 'duration': 3.32}
+{'text': 'median wage in the u.s is 35', 'start': 988.72, 'duration': 3.16}
+{'text': '[Music]', 'start': 990.76, 'duration': 3.72}
+{'text': '977. um', 'start': 991.88, 'duration': 6.199}
+{'text': 'so if we times this by point', 'start': 994.48, 'duration': 3.599}
+{'text': 'five nine and then we divide that', 'start': 998.32, 'duration': 6.0}
+{'text': 'by twelve so this is seventeen hundred', 'start': 1001.36, 'duration': 4.32}
+{'text': 'per month', 'start': 1004.32, 'duration': 4.639}
+{'text': 'and then in a month you work', 'start': 1005.68, 'duration': 3.279}
+{'text': 'um 48 like about 160 hours', 'start': 1009.199, 'duration': 7.76}
+{'text': "divided by 160. it's around 11 an hour", 'start': 1013.279, 'duration': 6.721}
+{'text': "so it's lower than what i estimated", 'start': 1016.959, 'duration': 4.961}
+{'text': "i'm citing no opinion um i don't really", 'start': 1020.0, 'duration': 3.36}
+{'text': "like what he's written on minimum wage", 'start': 1021.92, 'duration': 2.08}
+{'text': 'much', 'start': 1023.36, 'duration': 2.4}
+{'text': 'um but i mean we can literally do the', 'start': 1024.0, 'duration': 3.28}
+{'text': 'math on this now to figure it out', 'start': 1025.76, 'duration': 2.96}
+{'text': 'i i made you like something and then you', 'start': 1027.28, 'duration': 3.279}
+{'text': 'got muted for it could mean', 'start': 1028.72, 'duration': 2.959}
+{'text': 'one of these few issues that economists', 'start': 1030.559, 'duration': 2.321}
+{'text': 'broadly agree is garbage policy it', 'start': 1031.679, 'duration': 2.16}
+{'text': "doesn't help we wanted to help it", 'start': 1032.88, 'duration': 2.079}
+{'text': 'usually hurts we want to help and just', 'start': 1033.839, 'duration': 2.321}
+{'text': "doesn't usually get what you want done", 'start': 1034.959, 'duration': 2.641}
+{'text': 'destiny was correct opposition to rent', 'start': 1036.16, 'duration': 2.639}
+{'text': 'control is possibly the area where', 'start': 1037.6, 'duration': 2.239}
+{'text': 'economists agree the most', 'start': 1038.799, 'duration': 4.081}
+{'text': 'a 1990 poll had 93.5 percent agree', 'start': 1039.839, 'duration': 4.401}
+{'text': 'that a ceiling on rents reduces the', 'start': 1042.88, 'duration': 2.88}
+{'text': 'quantity and quality of housing', 'start': 1044.24, 'duration': 2.48}
+{'text': 'available', 'start': 1045.76, 'duration': 2.799}
+{'text': 'a 2012 poll asked for economist views on', 'start': 1046.72, 'duration': 3.44}
+{'text': 'the statement local ordinances that', 'start': 1048.559, 'duration': 2.881}
+{'text': 'limit rent increases for some rental', 'start': 1050.16, 'duration': 1.84}
+{'text': 'housing units', 'start': 1051.44, 'duration': 1.76}
+{'text': 'such as in new york city and san', 'start': 1052.0, 'duration': 2.64}
+{'text': 'francisco have had a positive effect', 'start': 1053.2, 'duration': 2.719}
+{'text': 'over the past three decades on the', 'start': 1054.64, 'duration': 1.68}
+{'text': 'amount', 'start': 1055.919, 'duration': 2.081}
+{'text': 'and quality of broadly affordable rental', 'start': 1056.32, 'duration': 3.52}
+{'text': "housing i'm really curious why he shows", 'start': 1058.0, 'duration': 3.52}
+{'text': 'the igm polls on this', 'start': 1059.84, 'duration': 3.6}
+{'text': "these are the igm polls aren't they they", 'start': 1061.52, 'duration': 3.92}
+{'text': 'are why does he show the igm pulse on', 'start': 1063.44, 'duration': 3.68}
+{'text': "this but he doesn't show the igm polls", 'start': 1065.44, 'duration': 3.28}
+{'text': 'on the 15 an hour thing', 'start': 1067.12, 'duration': 3.6}
+{'text': 'that really makes me wonder because on', 'start': 1068.72, 'duration': 3.36}
+{'text': 'here 50', 'start': 1070.72, 'duration': 3.92}
+{'text': 'or more of economists agree that 15 an', 'start': 1072.08, 'duration': 3.599}
+{'text': 'hour would increase', 'start': 1074.64, 'duration': 3.52}
+{'text': 'unemployment and that it should be', 'start': 1075.679, 'duration': 3.761}
+{'text': 'pegged at something different i wonder', 'start': 1078.16, 'duration': 2.56}
+{'text': "why he didn't show the igm pulls on the", 'start': 1079.44, 'duration': 2.4}
+{'text': 'minimum waging but he did for rent', 'start': 1080.72, 'duration': 2.959}
+{'text': 'control', 'start': 1081.84, 'duration': 3.76}
+{'text': "i've used them 81 of economists", 'start': 1083.679, 'duration': 3.12}
+{'text': 'disagreed or strongly disagreed with', 'start': 1085.6, 'duration': 2.8}
+{'text': 'this statement with answers including', 'start': 1086.799, 'duration': 3.201}
+{'text': 'next question does the sun revolve', 'start': 1088.4, 'duration': 3.04}
+{'text': 'around the earth unless all the', 'start': 1090.0, 'duration': 2.16}
+{'text': 'textbooks are wrong', 'start': 1091.44, 'duration': 2.32}
+{'text': 'this is wrong the planets are lined up', 'start': 1092.16, 'duration': 2.8}
+{'text': 'here theory and evidence point in the', 'start': 1093.76, 'duration': 2.56}
+{'text': 'same direction', 'start': 1094.96, 'duration': 2.56}
+{'text': 'the awards for the strongest statement', 'start': 1096.32, 'duration': 2.479}
+{'text': 'about ring control however goes to the', 'start': 1097.52, 'duration': 3.36}
+{'text': 'economist assar lindbeck who claimed', 'start': 1098.799, 'duration': 3.521}
+{'text': 'in many cases ring control appears to be', 'start': 1100.88, 'duration': 2.64}
+{'text': 'the most efficient technique presently', 'start': 1102.32, 'duration': 2.32}
+{'text': 'known to destroy a city', 'start': 1103.52, 'duration': 2.72}
+{'text': "except for bombing oh we've understand", 'start': 1104.64, 'duration': 2.48}
+{'text': 'where all this strong opposition is', 'start': 1106.24, 'duration': 2.16}
+{'text': "coming from let's return to our supply", 'start': 1107.12, 'duration': 2.559}
+{'text': 'and demand diagram', 'start': 1108.4, 'duration': 2.399}
+{'text': 'instead of the market for labor we are', 'start': 1109.679, 'duration': 2.401}
+{'text': 'now looking at the market for houses', 'start': 1110.799, 'duration': 2.561}
+{'text': 'apparently they work in exactly the same', 'start': 1112.08, 'duration': 1.68}
+{'text': 'way', 'start': 1113.36, 'duration': 1.679}
+{'text': 'we have rentals on the y-axis instead of', 'start': 1113.76, 'duration': 2.96}
+{'text': 'wages we also have quantity of houses', 'start': 1115.039, 'duration': 3.201}
+{'text': 'rented on the x-axis instead of', 'start': 1116.72, 'duration': 2.16}
+{'text': 'employment', 'start': 1118.24, 'duration': 2.08}
+{'text': 'again the supply and demand for houses', 'start': 1118.88, 'duration': 2.96}
+{'text': 'should balance with rinser our star and', 'start': 1120.32, 'duration': 2.56}
+{'text': 'quantity at qstar', 'start': 1121.84, 'duration': 2.079}
+{'text': 'what does ring control do in this', 'start': 1122.88, 'duration': 2.64}
+{'text': "situation it's represented by the", 'start': 1123.919, 'duration': 3.601}
+{'text': 'horizontal line rc which forces rents', 'start': 1125.52, 'duration': 2.399}
+{'text': 'down', 'start': 1127.52, 'duration': 2.0}
+{'text': 'at this low rental rate the quantity of', 'start': 1127.919, 'duration': 2.801}
+{'text': 'houses supplied is lower than the', 'start': 1129.52, 'duration': 2.72}
+{'text': 'previous equilibrium', 'start': 1130.72, 'duration': 5.28}
+{'text': "bub savvy d five dollars i don't agree", 'start': 1132.24, 'duration': 6.4}
+{'text': 'with mw but why are you leftists not', 'start': 1136.0, 'duration': 4.799}
+{'text': 'recommending a tiered wage by age', 'start': 1138.64, 'duration': 3.84}
+{'text': 'adjusted for inflation', 'start': 1140.799, 'duration': 3.681}
+{'text': "uh i don't think i qualify as a leftist", 'start': 1142.48, 'duration': 3.68}
+{'text': "uh i don't really like minimum wage that", 'start': 1144.48, 'duration': 2.559}
+{'text': 'much at all i think there should be', 'start': 1146.16, 'duration': 2.399}
+{'text': 'other forms of cash transfers so things', 'start': 1147.039, 'duration': 2.961}
+{'text': 'like the earned income tax credit', 'start': 1148.559, 'duration': 4.161}
+{'text': 'like um not deductible refundable tax', 'start': 1150.0, 'duration': 3.919}
+{'text': 'credits i think are way better ways to', 'start': 1152.72, 'duration': 3.12}
+{'text': 'target this type of policy', 'start': 1153.919, 'duration': 4.0}
+{'text': 'i think minimum wage is just way too', 'start': 1155.84, 'duration': 3.36}
+{'text': 'like brought a hammer', 'start': 1157.919, 'duration': 2.401}
+{'text': "you're just swinging around like a", 'start': 1159.2, 'duration': 2.479}
+{'text': 'sledgehammer trying to fix a much more', 'start': 1160.32, 'duration': 2.479}
+{'text': 'nuanced problem', 'start': 1161.679, 'duration': 2.721}
+{'text': 'even though more people want to rent we', 'start': 1162.799, 'duration': 2.88}
+{'text': 'have a shortage and a fall in rented', 'start': 1164.4, 'duration': 2.96}
+{'text': 'units compared to the free market', 'start': 1165.679, 'duration': 2.801}
+{'text': 'i want to say outright that there is', 'start': 1167.36, 'duration': 2.24}
+{'text': 'more evidence for the predictions of the', 'start': 1168.48, 'duration': 2.48}
+{'text': 'supply and demand model for rent control', 'start': 1169.6, 'duration': 2.24}
+{'text': 'than for the minimum wage', 'start': 1170.96, 'duration': 2.56}
+{'text': 'depending on how you interpret it but', 'start': 1171.84, 'duration': 3.04}
+{'text': 'the blanket opposition to rent control', 'start': 1173.52, 'duration': 2.56}
+{'text': 'that derives from this is hugely', 'start': 1174.88, 'duration': 3.12}
+{'text': 'overstated and econ 101 reasoning is', 'start': 1176.08, 'duration': 2.32}
+{'text': 'again', 'start': 1178.0, 'duration': 1.44}
+{'text': 'more of a hindrance than the help for', 'start': 1178.4, 'duration': 2.96}
+{'text': 'understanding the debate first what does', 'start': 1179.44, 'duration': 3.599}
+{'text': 'it mean for the quantity of housing to', 'start': 1181.36, 'duration': 2.48}
+{'text': 'be reduced', 'start': 1183.039, 'duration': 2.081}
+{'text': 'i would contend that the supply demand', 'start': 1183.84, 'duration': 2.56}
+{'text': 'model can mislead people into thinking', 'start': 1185.12, 'duration': 2.96}
+{'text': 'that the reduction is in housing supply', 'start': 1186.4, 'duration': 2.88}
+{'text': 'rather than the number of houses', 'start': 1188.08, 'duration': 3.44}
+{'text': 'specifically used for renting the 1990', 'start': 1189.28, 'duration': 3.2}
+{'text': 'poll mentioned above failed to', 'start': 1191.52, 'duration': 2.159}
+{'text': 'distinguish these two clearly', 'start': 1192.48, 'duration': 2.64}
+{'text': 'and in the debate with destiny member', 'start': 1193.679, 'duration': 2.721}
+{'text': 'just largely accepted this framing', 'start': 1195.12, 'duration': 2.559}
+{'text': 'contending that you could compensate by', 'start': 1196.4, 'duration': 2.639}
+{'text': 'building more housing because if we just', 'start': 1197.679, 'duration': 2.24}
+{'text': "have rent control there's going to be", 'start': 1199.039, 'duration': 2.081}
+{'text': 'far less investments', 'start': 1199.919, 'duration': 2.401}
+{'text': 'in private housing this could be far', 'start': 1201.12, 'duration': 2.88}
+{'text': "less private housing built but if you're", 'start': 1202.32, 'duration': 3.2}
+{'text': 'building a lot of public housing to make', 'start': 1204.0, 'duration': 2.32}
+{'text': 'up the shortfall', 'start': 1205.52, 'duration': 2.08}
+{'text': "then it's literally you can you can", 'start': 1206.32, 'duration': 2.719}
+{'text': 'accept your premise you can accept what', 'start': 1207.6, 'duration': 2.48}
+{'text': 'the economists are saying', 'start': 1209.039, 'duration': 1.921}
+{'text': "and still think that it's just", 'start': 1210.08, 'duration': 2.8}
+{'text': 'irrelevant to that package of policies', 'start': 1210.96, 'duration': 2.32}
+{'text': 'why not', 'start': 1212.88, 'duration': 2.64}
+{'text': 'undefined this has just happened but', 'start': 1213.28, 'duration': 3.36}
+{'text': "reduction in rental housing doesn't mean", 'start': 1215.52, 'duration': 2.56}
+{'text': 'that houses disappear there may just be', 'start': 1216.64, 'duration': 2.96}
+{'text': 'a corresponding rise in ownership', 'start': 1218.08, 'duration': 2.719}
+{'text': "i'll concern assure you whether people", 'start': 1219.6, 'duration': 2.559}
+{'text': 'are getting the houses they need not', 'start': 1220.799, 'duration': 2.721}
+{'text': "whether they're renting or owning them", 'start': 1222.159, 'duration': 2.481}
+{'text': 'we can have a debate about the relative', 'start': 1223.52, 'duration': 2.56}
+{'text': 'merits of renting versus ownership and', 'start': 1224.64, 'duration': 2.56}
+{'text': 'which demographics are more likely to', 'start': 1226.08, 'duration': 2.32}
+{'text': "use one or the other but it's not", 'start': 1227.2, 'duration': 2.8}
+{'text': 'immediately obvious to me which is more', 'start': 1228.4, 'duration': 2.72}
+{'text': 'desirable', 'start': 1230.0, 'duration': 2.88}
+{'text': 'second rank control captures a wide', 'start': 1231.12, 'duration': 3.2}
+{'text': 'variety of different policies', 'start': 1232.88, 'duration': 2.96}
+{'text': 'the standard demand supply analysis only', 'start': 1234.32, 'duration': 2.88}
+{'text': 'depicts a straight-up cap on rents', 'start': 1235.84, 'duration': 2.88}
+{'text': 'whereas modern rent control just limits', 'start': 1237.2, 'duration': 2.88}
+{'text': 'increases and allows for inflation in', 'start': 1238.72, 'duration': 3.199}
+{'text': 'landlords costs to encourage maintenance', 'start': 1240.08, 'duration': 3.2}
+{'text': 'such provisions are common and common', 'start': 1241.919, 'duration': 2.561}
+{'text': "sense for example if you're worried", 'start': 1243.28, 'duration': 2.24}
+{'text': 'about rent control discouraging', 'start': 1244.48, 'duration': 2.559}
+{'text': 'construction exempt new buildings like', 'start': 1245.52, 'duration': 2.08}
+{'text': 'berlin', 'start': 1247.039, 'duration': 2.561}
+{'text': "recently bloomberg there's a hope well", 'start': 1247.6, 'duration': 3.6}
+{'text': "he might be yeah maybe he's about to", 'start': 1249.6, 'duration': 2.72}
+{'text': 'talk about that', 'start': 1251.2, 'duration': 3.28}
+{'text': 'hi destiny i started watching your', 'start': 1252.32, 'duration': 4.479}
+{'text': 'content about a year ago and i just want', 'start': 1254.48, 'duration': 4.4}
+{'text': 'to say that i really appreciate you and', 'start': 1256.799, 'duration': 4.081}
+{'text': 'your honesty regarding your thoughts and', 'start': 1258.88, 'duration': 3.6}
+{'text': 'stance on topics', 'start': 1260.88, 'duration': 4.72}
+{'text': 'i used to be far right now more centrist', 'start': 1262.48, 'duration': 6.0}
+{'text': 'much love my man thanks buddy um the', 'start': 1265.6, 'duration': 4.64}
+{'text': 'problem with rent controlling', 'start': 1268.48, 'duration': 3.199}
+{'text': 'like buildings before that were', 'start': 1270.24, 'duration': 2.96}
+{'text': 'constructed before a certain date and', 'start': 1271.679, 'duration': 1.841}
+{'text': 'then', 'start': 1273.2, 'duration': 2.4}
+{'text': 'making all the newer construction to be', 'start': 1273.52, 'duration': 4.0}
+{'text': 'exempt from the rent controls', 'start': 1275.6, 'duration': 3.68}
+{'text': 'is that you cause like a huge explosion', 'start': 1277.52, 'duration': 3.2}
+{'text': 'of cost or price', 'start': 1279.28, 'duration': 4.0}
+{'text': 'of those um later buildings as well so', 'start': 1280.72, 'duration': 3.36}
+{'text': 'for instance', 'start': 1283.28, 'duration': 2.879}
+{'text': 'um undefined this has joined the', 'start': 1284.08, 'duration': 3.44}
+{'text': 'omniliberal nation', 'start': 1286.159, 'duration': 5.841}
+{'text': "hold on jesus i'm pausing these um", 'start': 1287.52, 'duration': 6.24}
+{'text': "so for instance like if you've got a if", 'start': 1292.0, 'duration': 3.2}
+{'text': "you've got a city and there's you know", 'start': 1293.76, 'duration': 2.96}
+{'text': '50 of your housing stock is now', 'start': 1295.2, 'duration': 2.88}
+{'text': 'restricted by rent control and the other', 'start': 1296.72, 'duration': 2.24}
+{'text': "50 isn't", 'start': 1298.08, 'duration': 2.479}
+{'text': 'the the price to rent on the', 'start': 1298.96, 'duration': 3.12}
+{'text': 'non-restricted ones is going to increase', 'start': 1300.559, 'duration': 2.081}
+{'text': 'and increase', 'start': 1302.08, 'duration': 4.479}
+{'text': 'increase because um because', 'start': 1302.64, 'duration': 4.72}
+{'text': "because that's where all the new", 'start': 1306.559, 'duration': 2.721}
+{'text': 'development is going to take place right', 'start': 1307.36, 'duration': 2.559}
+{'text': 'like', 'start': 1309.28, 'duration': 1.759}
+{'text': 'people that are going to develop new', 'start': 1309.919, 'duration': 2.801}
+{'text': 'buildings um because all the other', 'start': 1311.039, 'duration': 2.321}
+{'text': 'buildings', 'start': 1312.72, 'duration': 4.48}
+{'text': 'um um [\xa0__\xa0] what am i hold on', 'start': 1313.36, 'duration': 5.439}
+{'text': '[\xa0__\xa0] oh my god the donuts just totally', 'start': 1317.2, 'duration': 2.479}
+{'text': "[\xa0__\xa0] my train of thought i don't", 'start': 1318.799, 'duration': 3.041}
+{'text': 'remember what i was going to say now', 'start': 1319.679, 'duration': 4.321}
+{'text': 'if you if you have a city and you', 'start': 1321.84, 'duration': 3.199}
+{'text': 'restrict', 'start': 1324.0, 'duration': 2.799}
+{'text': 'some buildings to rent control and the', 'start': 1325.039, 'duration': 2.961}
+{'text': 'newer buildings are no longer rent', 'start': 1326.799, 'duration': 2.481}
+{'text': 'control restricted', 'start': 1328.0, 'duration': 3.6}
+{'text': 'the old supply is not going to be', 'start': 1329.28, 'duration': 3.279}
+{'text': 'renovated anymore', 'start': 1331.6, 'duration': 2.16}
+{'text': 'a lot of it is going to be converted to', 'start': 1332.559, 'duration': 2.561}
+{'text': 'condominiums things that can be bought', 'start': 1333.76, 'duration': 2.24}
+{'text': 'and sold because people are going to', 'start': 1335.12, 'duration': 2.24}
+{'text': 'rent it and then the newer stuff that', 'start': 1336.0, 'duration': 2.72}
+{'text': 'gets constructed is going to end up', 'start': 1337.36, 'duration': 3.199}
+{'text': 'being like a higher cost for people', 'start': 1338.72, 'duration': 2.8}
+{'text': "coming in it's going to be more", 'start': 1340.559, 'duration': 2.161}
+{'text': 'expensive than the prior rent control', 'start': 1341.52, 'duration': 3.2}
+{'text': "supply that's what i was looking for", 'start': 1342.72, 'duration': 3.199}
+{'text': "seriously appeared in everyone's trends", 'start': 1344.72, 'duration': 2.4}
+{'text': 'on twitter discuss the impact of rent', 'start': 1345.919, 'duration': 2.081}
+{'text': 'control in berlin', 'start': 1347.12, 'duration': 2.08}
+{'text': 'which throws rents on older houses and', 'start': 1348.0, 'duration': 2.4}
+{'text': 'allow tenants to force landlords to', 'start': 1349.2, 'duration': 2.719}
+{'text': 'lower existing rents true to form the', 'start': 1350.4, 'duration': 2.88}
+{'text': 'article claims if populism on the', 'start': 1351.919, 'duration': 2.64}
+{'text': 'political right corrupts democracies', 'start': 1353.28, 'duration': 3.12}
+{'text': 'populism on the left ruins economies', 'start': 1354.559, 'duration': 2.881}
+{'text': "it's based on the report which is in", 'start': 1356.4, 'duration': 2.48}
+{'text': "german unfortunately i'm fluent so i was", 'start': 1357.44, 'duration': 2.719}
+{'text': 'able to consult the original document', 'start': 1358.88, 'duration': 2.56}
+{'text': "just kidding i'm english we'll have a go", 'start': 1360.159, 'duration': 2.64}
+{'text': 'on the article itself some of the', 'start': 1361.44, 'duration': 3.2}
+{'text': 'outcomes it chooses are kind of strange', 'start': 1362.799, 'duration': 3.041}
+{'text': 'the results clearly show that rents have', 'start': 1364.64, 'duration': 2.399}
+{'text': 'plummeted for those affected a huge', 'start': 1365.84, 'duration': 2.8}
+{'text': 'benefit which is downplayed', 'start': 1367.039, 'duration': 4.88}
+{'text': 'the article charges real quick rent', 'start': 1368.64, 'duration': 4.96}
+{'text': 'plummeting for those affected', 'start': 1371.919, 'duration': 3.921}
+{'text': "isn't necessarily a good thing because", 'start': 1373.6, 'duration': 3.36}
+{'text': "we didn't want to reduce", 'start': 1375.84, 'duration': 2.319}
+{'text': 'rents for people this is what i mean', 'start': 1376.96, 'duration': 2.24}
+{'text': "when i say rent control doesn't help", 'start': 1378.159, 'duration': 2.481}
+{'text': "always we wanted to help we don't want", 'start': 1379.2, 'duration': 2.0}
+{'text': 'to reduce', 'start': 1380.64, 'duration': 1.919}
+{'text': 'rent for everybody in a city we just', 'start': 1381.2, 'duration': 2.32}
+{'text': 'want to reduce rent for people that', 'start': 1382.559, 'duration': 1.921}
+{'text': "can't afford it", 'start': 1383.52, 'duration': 2.88}
+{'text': "that's the issue right so just because a", 'start': 1384.48, 'duration': 3.28}
+{'text': 'reduction rent has taken place you can', 'start': 1386.4, 'duration': 2.8}
+{'text': "argue that's the success of the policy", 'start': 1387.76, 'duration': 2.0}
+{'text': 'which it', 'start': 1389.2, 'duration': 2.32}
+{'text': "arguably is but we don't really want to", 'start': 1389.76, 'duration': 3.039}
+{'text': 'reduce rent for everybody we want to', 'start': 1391.52, 'duration': 2.08}
+{'text': 'target certain', 'start': 1392.799, 'duration': 2.401}
+{'text': 'sectors of the population rent controls', 'start': 1393.6, 'duration': 3.04}
+{'text': "have reduced house prices as if that's", 'start': 1395.2, 'duration': 2.56}
+{'text': 'definitely a bad thing or somehow', 'start': 1396.64, 'duration': 1.84}
+{'text': 'unexpected', 'start': 1397.76, 'duration': 2.08}
+{'text': 'it seems to me that both more affordable', 'start': 1398.48, 'duration': 2.72}
+{'text': 'housing and lower rents might be', 'start': 1399.84, 'duration': 2.64}
+{'text': 'considered a good thing by some people', 'start': 1401.2, 'duration': 2.56}
+{'text': 'the article uses a couple of graphs', 'start': 1402.48, 'duration': 2.48}
+{'text': 'which apparently show the policy has had', 'start': 1403.76, 'duration': 2.64}
+{'text': 'negative effects the reason why those', 'start': 1404.96, 'duration': 2.8}
+{'text': 'places being worth less is because it', 'start': 1406.4, 'duration': 2.24}
+{'text': "means that people aren't going to", 'start': 1407.76, 'duration': 2.08}
+{'text': "reinvest in them they're not going to", 'start': 1408.64, 'duration': 1.919}
+{'text': "update them they're not going to", 'start': 1409.84, 'duration': 2.079}
+{'text': 'renovate them like that reinvestment', 'start': 1410.559, 'duration': 2.48}
+{'text': "just doesn't take place that's why", 'start': 1411.919, 'duration': 2.401}
+{'text': 'people argue that those units can be', 'start': 1413.039, 'duration': 2.64}
+{'text': "worth less and less it's a", 'start': 1414.32, 'duration': 3.599}
+{'text': 'bad thing x one shows that price is in', 'start': 1415.679, 'duration': 3.201}
+{'text': 'uncontrolled units', 'start': 1417.919, 'duration': 2.561}
+{'text': 'he must know this though since the', 'start': 1418.88, 'duration': 3.2}
+{'text': "policy but from this graph it's hard to", 'start': 1420.48, 'duration': 2.72}
+{'text': 'see whether this is really a change or', 'start': 1422.08, 'duration': 2.88}
+{'text': 'just a continuation of a previous trend', 'start': 1423.2, 'duration': 3.04}
+{'text': "the graph doesn't go back far enough for", 'start': 1424.96, 'duration': 3.12}
+{'text': 'us to know and even if it is true it may', 'start': 1426.24, 'duration': 3.12}
+{'text': 'just be because the uncontrolled units', 'start': 1428.08, 'duration': 2.079}
+{'text': 'are new', 'start': 1429.36, 'duration': 2.08}
+{'text': 'you could say exactly the same thing for', 'start': 1430.159, 'duration': 2.241}
+{'text': 'their graph showing that the number of', 'start': 1431.44, 'duration': 2.239}
+{'text': 'rental apartments has declined', 'start': 1432.4, 'duration': 2.48}
+{'text': 'especially since they follow this up', 'start': 1433.679, 'duration': 2.721}
+{'text': 'with a graph showing that the supply of', 'start': 1434.88, 'duration': 3.36}
+{'text': 'unregulated units has outpaced other', 'start': 1436.4, 'duration': 2.8}
+{'text': 'german cities', 'start': 1438.24, 'duration': 2.48}
+{'text': 'somehow this is also framed as a bad', 'start': 1439.2, 'duration': 3.2}
+{'text': "thing as you're all now budding natural", 'start': 1440.72, 'duration': 2.8}
+{'text': 'experiment enthusiasts so i know what', 'start': 1442.4, 'duration': 1.92}
+{'text': "you're going to ask", 'start': 1443.52, 'duration': 2.08}
+{'text': 'is there any more credible evidence than', 'start': 1444.32, 'duration': 3.12}
+{'text': 'this crap on rent control', 'start': 1445.6, 'duration': 3.52}
+{'text': 'and the answer is some but not enough', 'start': 1447.44, 'duration': 3.52}
+{'text': "and it's mixed one of the most recent", 'start': 1449.12, 'duration': 3.36}
+{'text': 'and commonly cited papers on this topic', 'start': 1450.96, 'duration': 3.28}
+{'text': 'is diamond detail which uses the sudden', 'start': 1452.48, 'duration': 2.96}
+{'text': 'introduction of ring control to older', 'start': 1454.24, 'duration': 3.12}
+{'text': 'houses in san francisco in 1994', 'start': 1455.44, 'duration': 3.04}
+{'text': 'and compares them with more recently', 'start': 1457.36, 'duration': 2.799}
+{'text': "built units which were exempt let's take", 'start': 1458.48, 'duration': 2.72}
+{'text': 'an in-depth look at this paper as i', 'start': 1460.159, 'duration': 2.0}
+{'text': 'think it raises some interesting', 'start': 1461.2, 'duration': 1.52}
+{'text': 'questions', 'start': 1462.159, 'duration': 1.841}
+{'text': 'the paper claims that the policy led to', 'start': 1462.72, 'duration': 3.12}
+{'text': 'a 15 reduction in rental units although', 'start': 1464.0, 'duration': 2.799}
+{'text': "if you unpack this it's actually a", 'start': 1465.84, 'duration': 2.0}
+{'text': 'combination of eight percent being', 'start': 1466.799, 'duration': 2.561}
+{'text': 'converted into owner-occupied buildings', 'start': 1467.84, 'duration': 2.8}
+{'text': 'with a further seven percent being', 'start': 1469.36, 'duration': 2.48}
+{'text': 'converted into rental units which were', 'start': 1470.64, 'duration': 2.639}
+{'text': "exempt from rent control which isn't a", 'start': 1471.84, 'duration': 2.959}
+{'text': '15 reduction in rental units', 'start': 1473.279, 'duration': 2.64}
+{'text': 'the paper does show that residents of', 'start': 1474.799, 'duration': 2.721}
+{'text': 'both owner-occupied and exempted units', 'start': 1475.919, 'duration': 2.721}
+{'text': 'are likely to have higher income', 'start': 1477.52, 'duration': 2.32}
+{'text': 'which is a cause for concern because it', 'start': 1478.64, 'duration': 2.48}
+{'text': 'favors richer residents there are', 'start': 1479.84, 'duration': 2.319}
+{'text': 'conflicting effects though', 'start': 1481.12, 'duration': 2.24}
+{'text': 'part of the reason for the higher income', 'start': 1482.159, 'duration': 2.481}
+{'text': 'residents is that rent control leads to', 'start': 1483.36, 'duration': 2.64}
+{'text': 'higher maintenance and upgrades so', 'start': 1484.64, 'duration': 2.88}
+{'text': 'landlords can increase rents', 'start': 1486.0, 'duration': 3.36}
+{'text': 'we can see on these graphs that top left', 'start': 1487.52, 'duration': 3.36}
+{'text': 'rents fell while top right', 'start': 1489.36, 'duration': 3.199}
+{'text': 'redevelopments rose and bottom left', 'start': 1490.88, 'duration': 3.279}
+{'text': 'conversions ropes and bottom right', 'start': 1492.559, 'duration': 3.36}
+{'text': 'repairs rows this suggests rent control', 'start': 1494.159, 'duration': 2.88}
+{'text': 'does increase quality', 'start': 1495.919, 'duration': 2.561}
+{'text': 'in contrast with economist poll answers', 'start': 1497.039, 'duration': 3.281}
+{'text': 'that we saw earlier rent control also', 'start': 1498.48, 'duration': 3.04}
+{'text': 'means existing tenants are more likely', 'start': 1500.32, 'duration': 2.64}
+{'text': 'to stay which is more', 'start': 1501.52, 'duration': 2.88}
+{'text': "okay i'm too lazy to go through this", 'start': 1502.96, 'duration': 3.68}
+{'text': 'paper i should do this instead of just', 'start': 1504.4, 'duration': 3.519}
+{'text': 'citing somebody in my subreddit but', 'start': 1506.64, 'duration': 2.24}
+{'text': 'supposedly he', 'start': 1507.919, 'duration': 3.521}
+{'text': 'got this apparently the diamond at all', 'start': 1508.88, 'duration': 3.039}
+{'text': 'study he', 'start': 1511.44, 'duration': 2.0}
+{'text': 'this guy says he takes issue with', 'start': 1511.919, 'duration': 2.801}
+{'text': "recording now he's going right around 28", 'start': 1513.44, 'duration': 2.16}
+{'text': 'minutes and i think he gets some things', 'start': 1514.72, 'duration': 1.92}
+{'text': 'wrong with figure eight the top level', 'start': 1515.6, 'duration': 2.24}
+{'text': "isn't showing rent's going down it's", 'start': 1516.64, 'duration': 2.72}
+{'text': 'showing renters going down maybe he', 'start': 1517.84, 'duration': 2.8}
+{'text': 'means rents is in the number of people', 'start': 1519.36, 'duration': 2.72}
+{'text': 'renting and not the price of rent but if', 'start': 1520.64, 'duration': 2.72}
+{'text': "you meant the lottery's just wrong", 'start': 1522.08, 'duration': 2.32}
+{'text': 'perhaps it must turn into the point of', 'start': 1523.36, 'duration': 1.919}
+{'text': 'the top two grass but i think the', 'start': 1524.4, 'duration': 1.84}
+{'text': 'implication is that the number of', 'start': 1525.279, 'duration': 3.041}
+{'text': 'renters in redeveloped housing went up', 'start': 1526.24, 'duration': 3.2}
+{'text': 'less than the number of renters and', 'start': 1528.32, 'duration': 2.32}
+{'text': 'rent-controlled buildings went down', 'start': 1529.44, 'duration': 2.479}
+{'text': "suggestions there's one group of people", 'start': 1530.64, 'duration': 3.039}
+{'text': 'who were priced out of their homes', 'start': 1531.919, 'duration': 2.801}
+{'text': 'also he claims that rank control', 'start': 1533.679, 'duration': 2.961}
+{'text': 'increases quality but not by increasing', 'start': 1534.72, 'duration': 3.28}
+{'text': 'the quality of rent control buildings', 'start': 1536.64, 'duration': 3.2}
+{'text': 'landlords redevelop buildings to avoid', 'start': 1538.0, 'duration': 2.64}
+{'text': 'rent control', 'start': 1539.84, 'duration': 2.4}
+{'text': 'and the redeveloped housing was probably', 'start': 1540.64, 'duration': 2.72}
+{'text': 'more expensive than what people could', 'start': 1542.24, 'duration': 1.76}
+{'text': 'afford', 'start': 1543.36, 'duration': 1.919}
+{'text': 'he then takes issue with the papers', 'start': 1544.0, 'duration': 2.799}
+{'text': 'framing of rising income inequality', 'start': 1545.279, 'duration': 2.88}
+{'text': 'arguing that the alternative is only', 'start': 1546.799, 'duration': 2.721}
+{'text': "having rich residents but that's the", 'start': 1548.159, 'duration': 3.041}
+{'text': 'inevitable result of high inequality the', 'start': 1549.52, 'duration': 3.279}
+{'text': 'paper suggests that this is a problem', 'start': 1551.2, 'duration': 3.04}
+{'text': 'because this prevents new middle-class', 'start': 1552.799, 'duration': 3.681}
+{'text': 'residents from moving in this already', 'start': 1554.24, 'duration': 3.919}
+{'text': 'unfair um this is already unfair to', 'start': 1556.48, 'duration': 3.12}
+{'text': 'future residents and potentially', 'start': 1558.159, 'duration': 3.281}
+{'text': 'deleterious to business growth but if', 'start': 1559.6, 'duration': 2.88}
+{'text': 'only rich people can afford to migrate', 'start': 1561.44, 'duration': 1.68}
+{'text': 'to a city', 'start': 1562.48, 'duration': 2.079}
+{'text': 'that means that demand for higher cost', 'start': 1563.12, 'duration': 2.559}
+{'text': 'amenities will eventually outstrip', 'start': 1564.559, 'duration': 2.321}
+{'text': 'low-cost amenities and people living in', 'start': 1565.679, 'duration': 2.48}
+{'text': "rectal housing won't be able to afford", 'start': 1566.88, 'duration': 3.2}
+{'text': 'anything except their rant', 'start': 1568.159, 'duration': 3.201}
+{'text': 'unlearning economics presents their', 'start': 1570.08, 'duration': 2.56}
+{'text': 'arguments as if the authors are just', 'start': 1571.36, 'duration': 2.799}
+{'text': 'dogmatically shouting inequality bad', 'start': 1572.64, 'duration': 3.44}
+{'text': 'without really justifying it but', 'start': 1574.159, 'duration': 3.76}
+{'text': "the problem isn't just some inequality", 'start': 1576.08, 'duration': 3.44}
+{'text': "statistic goes up it's that inequality", 'start': 1577.919, 'duration': 4.481}
+{'text': 'is bad knock on effects', 'start': 1579.52, 'duration': 4.399}
+{'text': 'pronouns for minority groups the', 'start': 1582.4, 'duration': 2.879}
+{'text': 'strangest spin in the diamond paper is', 'start': 1583.919, 'duration': 2.961}
+{'text': 'to frame this is a bad thing too', 'start': 1585.279, 'duration': 2.721}
+{'text': 'it appears rent control has actually', 'start': 1586.88, 'duration': 2.56}
+{'text': 'contributed to the gentrification of san', 'start': 1588.0, 'duration': 2.159}
+{'text': 'francisco', 'start': 1589.44, 'duration': 1.839}
+{'text': "the exact opposite of the policy's", 'start': 1590.159, 'duration': 2.961}
+{'text': 'intended goal indeed by simultaneously', 'start': 1591.279, 'duration': 3.201}
+{'text': 'bringing in higher income residents and', 'start': 1593.12, 'duration': 3.039}
+{'text': 'preventing displacement of minorities', 'start': 1594.48, 'duration': 3.199}
+{'text': 'rent control has contributed to widening', 'start': 1596.159, 'duration': 3.281}
+{'text': 'income inequality of the city keeping', 'start': 1597.679, 'duration': 2.961}
+{'text': 'existing residents in the area while', 'start': 1599.44, 'duration': 2.56}
+{'text': 'rich residents join is a bad thing the', 'start': 1600.64, 'duration': 2.8}
+{'text': 'solution is obviously to have only rich', 'start': 1602.0, 'duration': 2.64}
+{'text': 'residents so the income inequality in', 'start': 1603.44, 'duration': 2.239}
+{'text': 'the area is low', 'start': 1604.64, 'duration': 3.279}
+{'text': 'look at this place all right so so yeah', 'start': 1605.679, 'duration': 3.521}
+{'text': "so we i i don't know how he", 'start': 1607.919, 'duration': 2.961}
+{'text': "misunderstands this or maybe i'm just", 'start': 1609.2, 'duration': 2.24}
+{'text': 'being', 'start': 1610.88, 'duration': 2.24}
+{'text': "um uncharitable i don't understand i", 'start': 1611.44, 'duration': 3.28}
+{'text': "don't know what he means by this point", 'start': 1613.12, 'duration': 3.439}
+{'text': 'um one of the problems with rent control', 'start': 1614.72, 'duration': 3.04}
+{'text': 'is one of the people that', 'start': 1616.559, 'duration': 2.48}
+{'text': 'one group of people that are hurt by', 'start': 1617.76, 'duration': 2.799}
+{'text': "rent control that you don't really see", 'start': 1619.039, 'duration': 2.161}
+{'text': 'much', 'start': 1620.559, 'duration': 2.961}
+{'text': 'is people that would move into your city', 'start': 1621.2, 'duration': 3.68}
+{'text': 'who otherwise would move in if there', 'start': 1623.52, 'duration': 3.039}
+{'text': 'were units available are no longer', 'start': 1624.88, 'duration': 2.96}
+{'text': 'moving in because one', 'start': 1626.559, 'duration': 2.801}
+{'text': 'rent controlled units are being over', 'start': 1627.84, 'duration': 2.8}
+{'text': 'consumed so the people that live in them', 'start': 1629.36, 'duration': 2.96}
+{'text': 'are never going to move no matter what', 'start': 1630.64, 'duration': 2.32}
+{'text': 'because they', 'start': 1632.32, 'duration': 2.239}
+{'text': 'have a really good deal and two the', 'start': 1632.96, 'duration': 3.04}
+{'text': "additional housing stock that's being", 'start': 1634.559, 'duration': 2.161}
+{'text': 'created', 'start': 1636.0, 'duration': 2.88}
+{'text': "is overpriced because now there's a huge", 'start': 1636.72, 'duration': 3.12}
+{'text': 'section of the uh', 'start': 1638.88, 'duration': 2.24}
+{'text': 'rented rent controlled units that are', 'start': 1639.84, 'duration': 3.12}
+{'text': 'just cut off from the supply so', 'start': 1641.12, 'duration': 3.6}
+{'text': 'supply of housing goes down cost of', 'start': 1642.96, 'duration': 3.439}
+{'text': 'housing goes up in the', 'start': 1644.72, 'duration': 2.959}
+{'text': "newly made units and now you've got a", 'start': 1646.399, 'duration': 2.4}
+{'text': 'whole bunch of like middle class or', 'start': 1647.679, 'duration': 2.321}
+{'text': "working-class people that can't afford", 'start': 1648.799, 'duration': 2.48}
+{'text': 'to move into that city anymore', 'start': 1650.0, 'duration': 2.96}
+{'text': 'causing the inequality to grow is the', 'start': 1651.279, 'duration': 3.041}
+{'text': 'argument that most people put', 'start': 1652.96, 'duration': 3.52}
+{'text': 'forth when they talk about somebody', 'start': 1654.32, 'duration': 3.599}
+{'text': 'ought to build a town that works', 'start': 1656.48, 'duration': 4.16}
+{'text': 'somebody did', 'start': 1657.919, 'duration': 2.721}
+{'text': '[Music]', 'start': 1663.16, 'duration': 3.879}
+{'text': "i'm being facetious but only little", 'start': 1665.36, 'duration': 2.64}
+{'text': 'other times the paper argues that', 'start': 1667.039, 'duration': 2.161}
+{'text': 'existing tenants are ultimately forced', 'start': 1668.0, 'duration': 2.72}
+{'text': 'into poorer areas and here they frame', 'start': 1669.2, 'duration': 2.8}
+{'text': 'gentrification as a good thing', 'start': 1670.72, 'duration': 2.8}
+{'text': 'saying this evidence is consistent with', 'start': 1672.0, 'duration': 2.64}
+{'text': 'the idea that landlords undertake', 'start': 1673.52, 'duration': 2.32}
+{'text': 'efforts to remove their tenants or', 'start': 1674.64, 'duration': 2.32}
+{'text': 'convince them to leave in improving', 'start': 1675.84, 'duration': 2.24}
+{'text': 'gentrifying areas', 'start': 1676.96, 'duration': 2.48}
+{'text': 'in addition the rent control tenants are', 'start': 1678.08, 'duration': 2.56}
+{'text': 'more likely to remain at their address', 'start': 1679.44, 'duration': 2.719}
+{'text': 'within the less change refining areas', 'start': 1680.64, 'duration': 2.8}
+{'text': "so it's bad when existing tenants stay", 'start': 1682.159, 'duration': 2.481}
+{'text': 'but also bad when they leave', 'start': 1683.44, 'duration': 2.4}
+{'text': "gentrification wait i don't know if that", 'start': 1684.64, 'duration': 2.399}
+{'text': 'was saying it was bad or good at all', 'start': 1685.84, 'duration': 2.4}
+{'text': 'maybe we should just go read this whole', 'start': 1687.039, 'duration': 2.88}
+{'text': "paper i don't understand that action is", 'start': 1688.24, 'duration': 2.72}
+{'text': 'good but also bad', 'start': 1689.919, 'duration': 2.321}
+{'text': 'i found this paper quite confusing and', 'start': 1690.96, 'duration': 2.4}
+{'text': 'it seems to be a go-to reference for', 'start': 1692.24, 'duration': 2.559}
+{'text': 'opponents of ring control', 'start': 1693.36, 'duration': 2.88}
+{'text': 'with such a variety of competing effects', 'start': 1694.799, 'duration': 2.641}
+{'text': 'the authors eventually conclude that the', 'start': 1696.24, 'duration': 2.319}
+{'text': 'overall effects of rent controller are', 'start': 1697.44, 'duration': 1.68}
+{'text': 'awash', 'start': 1698.559, 'duration': 2.081}
+{'text': 'but the important lesson here is that', 'start': 1699.12, 'duration': 3.2}
+{'text': 'ultimately', 'start': 1700.64, 'duration': 3.919}
+{'text': 'god damn it i need to do they really', 'start': 1702.32, 'duration': 5.839}
+{'text': 'conclude that i spelled it all here', 'start': 1704.559, 'duration': 3.6}
+{'text': 'incorrectly', 'start': 1708.84, 'duration': 3.319}
+{'text': 'at all guys published a ton of papers', 'start': 1710.0, 'duration': 3.84}
+{'text': 'congrats for that dude', 'start': 1712.159, 'duration': 4.481}
+{'text': "he's doing work", 'start': 1713.84, 'duration': 2.8}
+{'text': "in this paper we've studied the impacts", 'start': 1717.919, 'duration': 2.801}
+{'text': 'of rent control on its tenants', 'start': 1719.36, 'duration': 2.88}
+{'text': 'beneficiaries as well as the landlord', 'start': 1720.72, 'duration': 2.72}
+{'text': 'response to answer this question we', 'start': 1722.24, 'duration': 2.799}
+{'text': 'exploit a unique grand control expansion', 'start': 1723.44, 'duration': 3.2}
+{'text': 'in san francisco in 1994', 'start': 1725.039, 'duration': 3.041}
+{'text': 'that suddenly provided rent control', 'start': 1726.64, 'duration': 2.8}
+{'text': 'protections for small multi-family', 'start': 1728.08, 'duration': 3.28}
+{'text': 'housing built prior to 1980 by combining', 'start': 1729.44, 'duration': 4.08}
+{'text': 'new panel migrated', 'start': 1731.36, 'duration': 3.76}
+{'text': 'we find that on average in the medium to', 'start': 1733.52, 'duration': 2.96}
+{'text': 'long term the beneficiaries of rent', 'start': 1735.12, 'duration': 2.48}
+{'text': 'control are between 10', 'start': 1736.48, 'duration': 2.799}
+{'text': 'and 20 percent more likely to remain at', 'start': 1737.6, 'duration': 3.36}
+{'text': 'their 1994 address relative to the', 'start': 1739.279, 'duration': 2.88}
+{'text': 'control group and moreover', 'start': 1740.96, 'duration': 2.319}
+{'text': 'are more likely to remain in san', 'start': 1742.159, 'duration': 2.721}
+{'text': 'francisco further we find the effects of', 'start': 1743.279, 'duration': 3.041}
+{'text': 'regulatory and tenants are stronger for', 'start': 1744.88, 'duration': 2.48}
+{'text': 'racial minorities', 'start': 1746.32, 'duration': 2.4}
+{'text': 'suggesting regulation will help prevent', 'start': 1747.36, 'duration': 3.12}
+{'text': 'minority displacement from san francisco', 'start': 1748.72, 'duration': 2.88}
+{'text': 'all our estimated effects are', 'start': 1750.48, 'duration': 2.319}
+{'text': 'significantly stronger among older', 'start': 1751.6, 'duration': 2.559}
+{'text': 'households and among households that', 'start': 1752.799, 'duration': 2.721}
+{'text': 'have already spent a number of years at', 'start': 1754.159, 'duration': 2.321}
+{'text': 'their current address', 'start': 1755.52, 'duration': 2.399}
+{'text': 'on the other hand individuals in areas', 'start': 1756.48, 'duration': 3.28}
+{'text': 'with quickly rising house prices', 'start': 1757.919, 'duration': 4.081}
+{'text': 'and with few years and with few years of', 'start': 1759.76, 'duration': 3.6}
+{'text': 'their 1994 address are less likely to', 'start': 1762.0, 'duration': 2.159}
+{'text': 'remain at the current', 'start': 1763.36, 'duration': 2.0}
+{'text': 'address consistent with the idea that', 'start': 1764.159, 'duration': 2.801}
+{'text': 'landlords try to remove tenants when the', 'start': 1765.36, 'duration': 2.72}
+{'text': 'reward is high', 'start': 1766.96, 'duration': 2.959}
+{'text': 'through other evictions or negotiated', 'start': 1768.08, 'duration': 3.599}
+{'text': 'payments we find that landlords actively', 'start': 1769.919, 'duration': 2.321}
+{'text': 'respond', 'start': 1771.679, 'duration': 1.841}
+{'text': 'to the imposition of rent control by', 'start': 1772.24, 'duration': 3.039}
+{'text': 'converting their properties to condos', 'start': 1773.52, 'duration': 4.48}
+{'text': 'and tics or by redeveloping the', 'start': 1775.279, 'duration': 4.081}
+{'text': 'buildings in such a way as to exempt', 'start': 1778.0, 'duration': 2.96}
+{'text': 'them from regulations in some we find', 'start': 1779.36, 'duration': 2.96}
+{'text': 'that impacted landlords reduce', 'start': 1780.96, 'duration': 4.079}
+{'text': 'supply available rental housing by 15', 'start': 1782.32, 'duration': 4.16}
+{'text': 'further we find that there is a', 'start': 1785.039, 'duration': 3.52}
+{'text': '25 decline in the number of renters', 'start': 1786.48, 'duration': 3.6}
+{'text': 'living in units protected by rent', 'start': 1788.559, 'duration': 2.161}
+{'text': 'control', 'start': 1790.08, 'duration': 2.16}
+{'text': 'as many buildings were converted to new', 'start': 1790.72, 'duration': 3.199}
+{'text': 'constructions or condos that are exempt', 'start': 1792.24, 'duration': 2.559}
+{'text': 'from rent control', 'start': 1793.919, 'duration': 2.321}
+{'text': 'this production and rental supply likely', 'start': 1794.799, 'duration': 3.201}
+{'text': 'increased rents in the long run', 'start': 1796.24, 'duration': 3.439}
+{'text': 'leading to a transfer between future san', 'start': 1798.0, 'duration': 3.039}
+{'text': 'francisco renters and renters living in', 'start': 1799.679, 'duration': 2.88}
+{'text': 'san francisco in 1994.', 'start': 1801.039, 'duration': 2.88}
+{'text': 'in addition the conversion of existing', 'start': 1802.559, 'duration': 2.801}
+{'text': 'rental properties to higher end', 'start': 1803.919, 'duration': 3.441}
+{'text': 'owner-occupied condominium housing', 'start': 1805.36, 'duration': 3.679}
+{'text': 'ultimately led to a housing stock', 'start': 1807.36, 'duration': 3.199}
+{'text': 'increasingly directed towards higher', 'start': 1809.039, 'duration': 2.801}
+{'text': 'income individuals', 'start': 1810.559, 'duration': 2.881}
+{'text': 'in this way rent control contributed to', 'start': 1811.84, 'duration': 3.28}
+{'text': 'the gentrification of san francisco', 'start': 1813.44, 'duration': 3.839}
+{'text': 'contrary to the stated policy goal rent', 'start': 1815.12, 'duration': 3.679}
+{'text': 'control appeared to have increased', 'start': 1817.279, 'duration': 3.201}
+{'text': 'income inequality in the city by both', 'start': 1818.799, 'duration': 3.281}
+{'text': 'limiting displacement of minorities and', 'start': 1820.48, 'duration': 3.6}
+{'text': 'attracting higher income residents', 'start': 1822.08, 'duration': 3.44}
+{'text': 'these results highlight that forcing', 'start': 1824.08, 'duration': 2.719}
+{'text': 'landlords to provide insurance against', 'start': 1825.52, 'duration': 3.039}
+{'text': 'rent con rent increases can ultimately', 'start': 1826.799, 'duration': 2.721}
+{'text': 'be counterproductive', 'start': 1828.559, 'duration': 2.561}
+{'text': 'if society desires to provide social', 'start': 1829.52, 'duration': 2.879}
+{'text': 'insurance against rent increase it may', 'start': 1831.12, 'duration': 1.919}
+{'text': 'be less', 'start': 1832.399, 'duration': 2.4}
+{'text': 'distortionary to offer this subsidy in', 'start': 1833.039, 'duration': 3.201}
+{'text': 'the form of government subsidies or tax', 'start': 1834.799, 'duration': 1.921}
+{'text': 'credits', 'start': 1836.24, 'duration': 1.84}
+{'text': 'this would remove landlords incentives', 'start': 1836.72, 'duration': 2.48}
+{'text': 'to decrease their housing supply and', 'start': 1838.08, 'duration': 2.0}
+{'text': 'could provide a lot', 'start': 1839.2, 'duration': 2.4}
+{'text': "i don't know why he would read this", 'start': 1840.08, 'duration': 3.36}
+{'text': 'paper and would conclude that they said', 'start': 1841.6, 'duration': 3.28}
+{'text': 'at the end it was a wash', 'start': 1843.44, 'duration': 4.88}
+{'text': "but okay that's that is very strange to", 'start': 1844.88, 'duration': 4.32}
+{'text': 'me', 'start': 1848.32, 'duration': 2.16}
+{'text': 'i found this paper quite confusing and', 'start': 1849.2, 'duration': 2.4}
+{'text': 'it seems to be a go-to reference for', 'start': 1850.48, 'duration': 2.559}
+{'text': 'opponents of ring control', 'start': 1851.6, 'duration': 2.88}
+{'text': 'with such a variety of competing effects', 'start': 1853.039, 'duration': 2.64}
+{'text': 'the authors eventually conclude that the', 'start': 1854.48, 'duration': 2.4}
+{'text': 'overall effects of rent controller are a', 'start': 1855.679, 'duration': 1.681}
+{'text': 'watch', 'start': 1856.88, 'duration': 2.0}
+{'text': 'but the important lesson here is that', 'start': 1857.36, 'duration': 3.199}
+{'text': "ultimately neither theory that's very", 'start': 1858.88, 'duration': 2.56}
+{'text': "it's", 'start': 1860.559, 'duration': 3.521}
+{'text': 'these kinds of conclusions make me not', 'start': 1861.44, 'duration': 4.64}
+{'text': '100 trust anything else that', 'start': 1864.08, 'duration': 3.599}
+{'text': "the person says i don't understand why", 'start': 1866.08, 'duration': 2.959}
+{'text': 'he would say that this paper is washed', 'start': 1867.679, 'duration': 2.641}
+{'text': "or why they say it's a wash", 'start': 1869.039, 'duration': 2.561}
+{'text': "i think that's a pretty misleading way", 'start': 1870.32, 'duration': 2.8}
+{'text': 'to state the conclusion i think the', 'start': 1871.6, 'duration': 3.199}
+{'text': 'conclusion of the paper clearly states', 'start': 1873.12, 'duration': 2.159}
+{'text': 'that', 'start': 1874.799, 'duration': 2.401}
+{'text': 'rent control leads to unintended policy', 'start': 1875.279, 'duration': 3.361}
+{'text': 'things that are counteractive in terms', 'start': 1877.2, 'duration': 2.56}
+{'text': "of what they're trying to achieve", 'start': 1878.64, 'duration': 4.0}
+{'text': 'but okay or empirical analysis are going', 'start': 1879.76, 'duration': 4.08}
+{'text': 'to make the issue of competing values', 'start': 1882.64, 'duration': 2.399}
+{'text': 'and perspectives go away', 'start': 1883.84, 'duration': 2.319}
+{'text': 'when considering the effects of rent', 'start': 1885.039, 'duration': 2.721}
+{'text': 'control do we prefer rented or owned', 'start': 1886.159, 'duration': 2.161}
+{'text': 'housing', 'start': 1887.76, 'duration': 1.84}
+{'text': 'do we want higher quality houses which', 'start': 1888.32, 'duration': 2.8}
+{'text': 'are more expensive do we want to favor', 'start': 1889.6, 'duration': 2.88}
+{'text': 'existing residents over new ones', 'start': 1891.12, 'duration': 2.399}
+{'text': "i don't have easy answers to these", 'start': 1892.48, 'duration': 2.72}
+{'text': 'questions but econ 101 leads people to', 'start': 1893.519, 'duration': 2.561}
+{'text': 'believe that they do', 'start': 1895.2, 'duration': 2.16}
+{'text': 'the economist josh mason argues that', 'start': 1896.08, 'duration': 2.56}
+{'text': 'rent control research is in a similar', 'start': 1897.36, 'duration': 2.48}
+{'text': 'place now to minimum wage research in', 'start': 1898.64, 'duration': 2.08}
+{'text': 'the 1990s', 'start': 1899.84, 'duration': 2.4}
+{'text': 'a few well-formulated studies are', 'start': 1900.72, 'duration': 2.959}
+{'text': 'displacing conventional wisdom and this', 'start': 1902.24, 'duration': 2.96}
+{'text': 'will likely expand as time goes on', 'start': 1903.679, 'duration': 2.88}
+{'text': 'he summarizes a few studies similar to', 'start': 1905.2, 'duration': 2.479}
+{'text': 'the diamond one which you can look at if', 'start': 1906.559, 'duration': 2.24}
+{'text': "you're interested in pursuing this topic", 'start': 1907.679, 'duration': 1.921}
+{'text': 'further', 'start': 1908.799, 'duration': 1.921}
+{'text': 'so here we have two of the most', 'start': 1909.6, 'duration': 2.959}
+{'text': 'important markets labor and housing', 'start': 1910.72, 'duration': 3.28}
+{'text': 'where the crude econ 101 approach has', 'start': 1912.559, 'duration': 2.801}
+{'text': 'failed to make sense of hotly debated', 'start': 1914.0, 'duration': 2.0}
+{'text': 'policies', 'start': 1915.36, 'duration': 2.24}
+{'text': 'but what about more generally where has', 'start': 1916.0, 'duration': 3.039}
+{'text': 'the influence of econ 101 come from', 'start': 1917.6, 'duration': 2.48}
+{'text': 'and how does it affect our understanding', 'start': 1919.039, 'duration': 2.401}
+{'text': 'of other policies like taxes and social', 'start': 1920.08, 'duration': 2.079}
+{'text': 'spending', 'start': 1921.44, 'duration': 2.0}
+{'text': "i don't think i can answer this one so", 'start': 1922.159, 'duration': 2.561}
+{'text': "i'm going to have to hand over to", 'start': 1923.44, 'duration': 2.71}
+{'text': 'someone else', 'start': 1924.72, 'duration': 2.959}
+{'text': '[Music]', 'start': 1926.15, 'duration': 3.29}
+{'text': 'the influence of basic economics is', 'start': 1927.679, 'duration': 3.12}
+{'text': 'everywhere both pervasive and perverse', 'start': 1929.44, 'duration': 2.64}
+{'text': 'it really is why we cannot have nice', 'start': 1930.799, 'duration': 2.561}
+{'text': 'things for every earnest call to make a', 'start': 1932.08, 'duration': 2.4}
+{'text': 'political economic system ever slightly', 'start': 1933.36, 'duration': 2.48}
+{'text': 'more just or livable for working people', 'start': 1934.48, 'duration': 2.079}
+{'text': 'or the planet', 'start': 1935.84, 'duration': 2.0}
+{'text': 'there is a capitalist an economist a', 'start': 1936.559, 'duration': 2.561}
+{'text': 'politician and a corporate news outlet', 'start': 1937.84, 'duration': 2.959}
+{'text': "or an average joe saying that's cute but", 'start': 1939.12, 'duration': 2.799}
+{'text': "that's just not how the economy works", 'start': 1940.799, 'duration': 2.321}
+{'text': 'james quack calls the reductive', 'start': 1941.919, 'duration': 2.88}
+{'text': 'invocation of basic economics to explain', 'start': 1943.12, 'duration': 2.96}
+{'text': 'all social phenomena in our society', 'start': 1944.799, 'duration': 2.561}
+{'text': 'economism economist relies on the', 'start': 1946.08, 'duration': 2.479}
+{'text': 'abstract concepts taught in economic', 'start': 1947.36, 'duration': 2.48}
+{'text': 'classes to explain why things are the', 'start': 1948.559, 'duration': 2.321}
+{'text': 'way they are and why any attempt to', 'start': 1949.84, 'duration': 2.319}
+{'text': 'redress the externalities of capitalism', 'start': 1950.88, 'duration': 2.639}
+{'text': 'is futile this is despite the fact that', 'start': 1952.159, 'duration': 4.081}
+{'text': 'many of the concepts taught', 'start': 1953.519, 'duration': 2.721}
+{'text': 'has to be increased by the distribution', 'start': 1958.32, 'duration': 4.16}
+{'text': 'whether', 'start': 1960.84, 'duration': 3.319}
+{'text': 'why is economics 101 so pervasive as a', 'start': 1962.48, 'duration': 3.28}
+{'text': "set of propositions it's kind of", 'start': 1964.159, 'duration': 2.721}
+{'text': 'an introductory diagram based on', 'start': 1965.76, 'duration': 2.399}
+{'text': 'obscenely unrealistic assumptions would', 'start': 1966.88, 'duration': 2.399}
+{'text': 'have so much influence right', 'start': 1968.159, 'duration': 2.24}
+{'text': 'well he often plays the rich and', 'start': 1969.279, 'duration': 2.24}
+{'text': 'powerful which has mexi pointed out', 'start': 1970.399, 'duration': 2.16}
+{'text': "isn't a bad feature for a theory to", 'start': 1971.519, 'duration': 1.601}
+{'text': 'happen', 'start': 1972.559, 'duration': 2.48}
+{'text': 'okay she is the same person on', 'start': 1973.12, 'duration': 3.52}
+{'text': 'philosophy tips horrible housing market', 'start': 1975.039, 'duration': 2.64}
+{'text': 'video gosh', 'start': 1976.64, 'duration': 2.32}
+{'text': 'remember to hit that like and subscribe', 'start': 1977.679, 'duration': 2.801}
+{'text': "and don't forget the notification bell", 'start': 1978.96, 'duration': 3.12}
+{'text': 'so that my videos show up', 'start': 1980.48, 'duration': 4.24}
+{'text': 'right in your feed no i missed one i', 'start': 1982.08, 'duration': 3.28}
+{'text': '[\xa0__\xa0] it', 'start': 1984.72, 'duration': 3.52}
+{'text': "i hate black people that's it it that", 'start': 1985.36, 'duration': 5.76}
+{'text': 'must be the case', 'start': 1988.24, 'duration': 2.88}

@@ -14,7 +14,8 @@ def search():
     if request.method == 'GET':
         print("the button is pressed")
         print(request.form.getlist("search"))
-        return render_template("home.html", data=db.get_first_row())
+        return render_template("home.html", data=db.get_full_table())
+
 
 
     

@@ -1,0 +1,818 @@
+{'text': 'i just want to find these guest', 'start': 0.0, 'duration': 3.199}
+{'text': 'campaigns', 'start': 2.48, 'duration': 4.72}
+{'text': 'eleven thousand seven hundred and eighty', 'start': 3.199, 'duration': 6.32}
+{'text': 'votes why did you just say this out loud', 'start': 7.2, 'duration': 5.439}
+{'text': "it's like it's so dumb", 'start': 9.519, 'duration': 3.12}
+{'text': "okay clean away i'm not asking you", 'start': 13.84, 'duration': 3.6}
+{'text': 'tolena honestly', 'start': 15.44, 'duration': 5.759}
+{'text': "i'm asking i'm asking brad squad w", 'start': 17.44, 'duration': 6.72}
+{'text': "i mean 100 no trump scuff tonight i'm", 'start': 21.199, 'duration': 5.281}
+{'text': 'sorry', 'start': 24.16, 'duration': 2.32}
+{'text': 'we can beat anybody nobody has our', 'start': 26.72, 'duration': 4.08}
+{'text': 'equipment nobody has our military nobody', 'start': 28.64, 'duration': 3.68}
+{'text': 'has our people', 'start': 30.8, 'duration': 4.24}
+{'text': "but we aren't over there to be policemen", 'start': 32.32, 'duration': 4.48}
+{'text': "we're not over there to be", 'start': 35.04, 'duration': 3.92}
+{'text': "policing they're warriors they're", 'start': 36.8, 'duration': 3.04}
+{'text': 'fighters', 'start': 38.96, 'duration': 2.8}
+{'text': "and that's what we want them for that's", 'start': 39.84, 'duration': 4.239}
+{'text': 'what we have to have them for but we', 'start': 41.76, 'duration': 4.639}
+{'text': 'brought a lot of them home', 'start': 44.079, 'duration': 5.761}
+{'text': 'we are finally protecting our nation', 'start': 46.399, 'duration': 5.201}
+{'text': 'rebuilding our cities just as a', 'start': 49.84, 'duration': 3.12}
+{'text': "clarification i don't know if anyone", 'start': 51.6, 'duration': 3.119}
+{'text': "knows that he hasn't ended a single war", 'start': 52.96, 'duration': 5.0}
+{'text': "like we're still in every single country", 'start': 54.719, 'duration': 6.961}
+{'text': '[Applause]', 'start': 57.96, 'duration': 6.519}
+{'text': 'i got along very well with kim jong-un i', 'start': 61.68, 'duration': 4.799}
+{'text': "don't think that joe's going to based on", 'start': 64.479, 'duration': 3.521}
+{'text': "what i've heard but", 'start': 66.479, 'duration': 4.401}
+{'text': 'but i got along very well with him and', 'start': 68.0, 'duration': 4.08}
+{'text': 'you know people say whatever', 'start': 70.88, 'duration': 2.96}
+{'text': 'happened with north korea we got along', 'start': 72.08, 'duration': 3.44}
+{'text': 'well but you know', 'start': 73.84, 'duration': 4.0}
+{'text': 'they all said that with my personality', 'start': 75.52, 'duration': 4.16}
+{'text': "i'll be in a big war very soon within", 'start': 77.84, 'duration': 3.2}
+{'text': 'the first two weeks right', 'start': 79.68, 'duration': 3.92}
+{'text': 'what happened what happened well we', 'start': 81.04, 'duration': 3.759}
+{'text': 'bombed syria', 'start': 83.6, 'duration': 3.28}
+{'text': 'we killed solemanu and iraqi soil david', 'start': 84.799, 'duration': 3.841}
+{'text': 'and kelly will protect social security', 'start': 86.88, 'duration': 3.44}
+{'text': 'for running oil fields in syria and they', 'start': 88.64, 'duration': 3.36}
+{'text': 'will always protect patients with', 'start': 90.32, 'duration': 3.6}
+{'text': 'pre-existing conditions', 'start': 92.0, 'duration': 3.439}
+{'text': 'more drone strikes under trump than i', 'start': 93.92, 'duration': 3.04}
+{'text': 'think even obama at least', 'start': 95.439, 'duration': 4.881}
+{'text': 'in his first term patriotic education', 'start': 96.96, 'duration': 7.04}
+{'text': 'to our school but', 'start': 100.32, 'duration': 6.64}
+{'text': 'okay we will teach our children to love', 'start': 104.0, 'duration': 4.079}
+{'text': 'our country', 'start': 106.96, 'duration': 4.159}
+{'text': 'honor our history and always respect', 'start': 108.079, 'duration': 6.161}
+{'text': 'our great american flag', 'start': 111.119, 'duration': 4.64}
+{'text': 'is it more in four years than eight', 'start': 114.24, 'duration': 3.519}
+{'text': 'years he might have did he beat obama', 'start': 115.759, 'duration': 5.121}
+{'text': 'by the words of our national motto in', 'start': 117.759, 'duration': 5.921}
+{'text': "god we trust and they don't stay that", 'start': 120.88, 'duration': 4.96}
+{'text': 'way', 'start': 123.68, 'duration': 2.16}
+{'text': 'the people of georgia are angry the', 'start': 126.479, 'duration': 3.28}
+{'text': 'people of the country are angry', 'start': 128.239, 'duration': 3.121}
+{'text': "and there's nothing wrong with saying", 'start': 129.759, 'duration': 4.241}
+{'text': 'that you know uh', 'start': 131.36, 'duration': 5.36}
+{'text': "that you've recalculated well mr", 'start': 134.0, 'duration': 4.8}
+{'text': 'president the challenge that you have', 'start': 136.72, 'duration': 6.4}
+{'text': 'is the data you have is wrong', 'start': 138.8, 'duration': 5.68}
+{'text': 'you should want to have an accurate', 'start': 143.12, 'duration': 3.119}
+{'text': 'election', 'start': 144.48, 'duration': 4.64}
+{'text': "and you're a republican we believe but", 'start': 146.239, 'duration': 4.881}
+{'text': 'we do have an accurate election', 'start': 149.12, 'duration': 4.64}
+{'text': "no i know you don't no no you know you", 'start': 151.12, 'duration': 3.199}
+{'text': "don't have", 'start': 153.76, 'duration': 2.72}
+{'text': "you don't have not even clothes going", 'start': 154.319, 'duration': 3.361}
+{'text': 'back', 'start': 156.48, 'duration': 3.2}
+{'text': "primarily what you're what you've talked", 'start': 157.68, 'duration': 3.12}
+{'text': 'about you focused in', 'start': 159.68, 'duration': 3.12}
+{'text': 'on primarily i believe is the absolute', 'start': 160.8, 'duration': 3.36}
+{'text': 'doubt process', 'start': 162.8, 'duration': 2.4}
+{'text': "i don't believe that you're really", 'start': 164.16, 'duration': 3.04}
+{'text': 'questioning the uh', 'start': 165.2, 'duration': 4.48}
+{'text': 'the dominion machines because we did a', 'start': 167.2, 'duration': 3.44}
+{'text': 'henry tally', 'start': 169.68, 'duration': 4.0}
+{'text': 'a 100 re-tally of all the', 'start': 170.64, 'duration': 4.72}
+{'text': 'ballots and compared that to what the', 'start': 173.68, 'duration': 3.36}
+{'text': 'machine said and it came up with', 'start': 175.36, 'duration': 3.04}
+{'text': 'virtually the same result', 'start': 177.04, 'duration': 3.36}
+{'text': 'then we did the recount we got virtually', 'start': 178.4, 'duration': 3.28}
+{'text': 'the same assault so', 'start': 180.4, 'duration': 3.04}
+{'text': 'i guess we could probably take that off', 'start': 181.68, 'duration': 3.44}
+{'text': "the table i don't think there's", 'start': 183.44, 'duration': 6.0}
+{'text': 'an issue about that um i think', 'start': 185.12, 'duration': 7.6}
+{'text': "brad not that there's not an issue", 'start': 189.44, 'duration': 5.84}
+{'text': 'but because i we have a big issue with', 'start': 192.72, 'duration': 3.28}
+{'text': 'dominion', 'start': 195.28, 'duration': 3.44}
+{'text': 'and other states and perhaps in yours', 'start': 196.0, 'duration': 4.64}
+{'text': "but we have we haven't felt we needed to", 'start': 198.72, 'duration': 2.96}
+{'text': 'go there', 'start': 200.64, 'duration': 3.76}
+{'text': 'and just to you know maybe put a little', 'start': 201.68, 'duration': 4.559}
+{'text': 'different spin on what mark is saying', 'start': 204.4, 'duration': 5.199}
+{'text': "mark meadows um yeah we'd", 'start': 206.239, 'duration': 5.28}
+{'text': "like to go further but we don't really", 'start': 209.599, 'duration': 3.601}
+{'text': 'need to we have all the votes we need', 'start': 211.519, 'duration': 3.041}
+{'text': 'you know we wanted to say', 'start': 213.2, 'duration': 3.759}
+{'text': 'if you took these are the most minimal', 'start': 214.56, 'duration': 3.039}
+{'text': 'numbers', 'start': 216.959, 'duration': 2.56}
+{'text': 'the numbers that i gave you those are', 'start': 217.599, 'duration': 4.241}
+{'text': 'numbers', 'start': 219.519, 'duration': 2.321}
+{'text': 'there is clear evidence of ballet', 'start': 222.879, 'duration': 3.92}
+{'text': 'tampering while the right exasperates it', 'start': 224.64, 'duration': 3.76}
+{'text': 'and the left denies it', 'start': 226.799, 'duration': 4.401}
+{'text': 'how can either side function like this i', 'start': 228.4, 'duration': 4.64}
+{'text': "think if you don't think there was fraud", 'start': 231.2, 'duration': 4.319}
+{'text': 'you are [\xa0__\xa0] dumb', 'start': 233.04, 'duration': 6.32}
+{'text': "where i mean like i'm sure that there", 'start': 235.519, 'duration': 6.401}
+{'text': 'must be just on a pure numbers game', 'start': 239.36, 'duration': 4.0}
+{'text': 'there must have been a few', 'start': 241.92, 'duration': 3.92}
+{'text': 'fraudulent ballots there must have been', 'start': 243.36, 'duration': 3.28}
+{'text': "i'm sure", 'start': 245.84, 'duration': 2.959}
+{'text': "like i bet my life there's at least like", 'start': 246.64, 'duration': 4.64}
+{'text': 'a dozen', 'start': 248.799, 'duration': 2.481}
+{'text': 'but enough to like have any meaningful', 'start': 251.439, 'duration': 3.201}
+{'text': 'impact on the election', 'start': 253.519, 'duration': 3.361}
+{'text': 'the tens of thousands the hundreds of', 'start': 254.64, 'duration': 3.839}
+{'text': 'thousands that trump is alleging', 'start': 256.88, 'duration': 5.12}
+{'text': "nah no way we're many times many many", 'start': 258.479, 'duration': 5.041}
+{'text': 'times above the', 'start': 262.0, 'duration': 4.56}
+{'text': "the margin and so we don't really have", 'start': 263.52, 'duration': 4.72}
+{'text': "to mark i don't think we have to go", 'start': 266.56, 'duration': 2.079}
+{'text': 'through', 'start': 268.24, 'duration': 3.36}
+{'text': "right because because what's the", 'start': 268.639, 'duration': 4.161}
+{'text': 'difference between', 'start': 271.6, 'duration': 4.08}
+{'text': 'winning the election by two two votes', 'start': 272.8, 'duration': 4.0}
+{'text': 'and winning it by', 'start': 275.68, 'duration': 2.88}
+{'text': 'a half a million voting i think i', 'start': 276.8, 'duration': 3.36}
+{'text': 'probably did win it', 'start': 278.56, 'duration': 5.28}
+{'text': 'about it something', 'start': 280.16, 'duration': 3.68}
+{'text': "all right bad partnerships that hasn't", 'start': 285.04, 'duration': 4.159}
+{'text': 'been substantiated like this idea that', 'start': 287.6, 'duration': 2.8}
+{'text': "they're like thousands of fraudulent", 'start': 289.199, 'duration': 1.601}
+{'text': 'votes', 'start': 290.4, 'duration': 1.84}
+{'text': "i don't think anybody has substantiated", 'start': 290.8, 'duration': 3.679}
+{'text': 'this anywhere', 'start': 292.24, 'duration': 4.239}
+{'text': "not not in court i mean i've heard like", 'start': 294.479, 'duration': 4.081}
+{'text': 'a lot of weird like oh affidavits but', 'start': 296.479, 'duration': 3.601}
+{'text': 'you know one of the things that happened', 'start': 298.56, 'duration': 3.52}
+{'text': 'brad is we have other people coming in', 'start': 300.08, 'duration': 3.92}
+{'text': 'now from alabama', 'start': 302.08, 'duration': 4.559}
+{'text': 'and from south carolina and from other', 'start': 304.0, 'duration': 3.68}
+{'text': 'states', 'start': 306.639, 'duration': 3.041}
+{'text': "and they're saying it's impossible for", 'start': 307.68, 'duration': 4.239}
+{'text': 'you to have lost georgia', 'start': 309.68, 'duration': 4.0}
+{'text': 'we won you know in alabama we set a', 'start': 311.919, 'duration': 4.241}
+{'text': 'record got the highest vote ever', 'start': 313.68, 'duration': 5.68}
+{'text': 'in uh georgia we set a record', 'start': 316.16, 'duration': 6.0}
+{'text': 'with a massive amount of votes and they', 'start': 319.36, 'duration': 4.72}
+{'text': "say it's not possible", 'start': 322.16, 'duration': 3.36}
+{'text': 'to have lost georgia and i could tell', 'start': 324.08, 'duration': 3.2}
+{'text': 'you by our rallies i could tell you by', 'start': 325.52, 'duration': 3.6}
+{'text': "the rally i'm having on monday night the", 'start': 327.28, 'duration': 3.52}
+{'text': 'place they already have lines of people', 'start': 329.12, 'duration': 3.2}
+{'text': 'standing out front waiting', 'start': 330.8, 'duration': 3.92}
+{'text': 'are we going to watch the ga point by', 'start': 332.32, 'duration': 4.0}
+{'text': 'point debunk the sos', 'start': 334.72, 'duration': 5.12}
+{'text': 'guys guided today', 'start': 336.32, 'duration': 3.52}
+{'text': "um maybe what maybe i don't know dude", 'start': 340.24, 'duration': 4.08}
+{'text': "we've seen like all these same debunks", 'start': 343.12, 'duration': 3.28}
+{'text': 'like a million times', 'start': 344.32, 'duration': 4.0}
+{'text': 'well mr president the challenge that you', 'start': 346.4, 'duration': 4.799}
+{'text': 'have is the data you have is wrong', 'start': 348.32, 'duration': 5.92}
+{'text': 'uh we we talked to the congressmen and', 'start': 351.199, 'duration': 4.401}
+{'text': 'they were surprised', 'start': 354.24, 'duration': 3.519}
+{'text': 'but they uh i guess there was a person', 'start': 355.6, 'duration': 4.24}
+{'text': 'named mr raynard that came to these', 'start': 357.759, 'duration': 2.72}
+{'text': 'meetings', 'start': 359.84, 'duration': 3.199}
+{'text': 'and presented data and he said that', 'start': 360.479, 'duration': 3.681}
+{'text': 'there was dead people', 'start': 363.039, 'duration': 2.72}
+{'text': 'i believe it was upward of five thousand', 'start': 364.16, 'duration': 4.159}
+{'text': 'the actual number were two', 'start': 365.759, 'duration': 5.681}
+{'text': 'two two people that were dead that voted', 'start': 368.319, 'duration': 4.801}
+{'text': "and so that's wrong that was two well", 'start': 371.44, 'duration': 3.52}
+{'text': 'plato how do you respond to that i mean', 'start': 373.12, 'duration': 2.48}
+{'text': 'you tell me', 'start': 374.96, 'duration': 3.04}
+{'text': 'what well i i will say mr secretary one', 'start': 375.6, 'duration': 4.8}
+{'text': 'of the things that we have requested', 'start': 378.0, 'duration': 4.96}
+{'text': 'and we did what we said was and if you', 'start': 380.4, 'duration': 3.04}
+{'text': 'look at', 'start': 382.96, 'duration': 3.76}
+{'text': 'this if you read our petition it said', 'start': 383.44, 'duration': 7.68}
+{'text': 'that we took the names and birth years', 'start': 386.72, 'duration': 7.199}
+{'text': 'and you know we had certain information', 'start': 391.12, 'duration': 4.4}
+{'text': 'available to us', 'start': 393.919, 'duration': 4.321}
+{'text': 'we have asked from your office for', 'start': 395.52, 'duration': 3.92}
+{'text': 'records that only', 'start': 398.24, 'duration': 4.88}
+{'text': "you have and so we said there's a", 'start': 399.44, 'duration': 5.52}
+{'text': 'universe', 'start': 403.12, 'duration': 4.48}
+{'text': 'of people who have the same name and', 'start': 404.96, 'duration': 5.84}
+{'text': 'same birth year and die', 'start': 407.6, 'duration': 5.92}
+{'text': "but we don't have the records that you", 'start': 410.8, 'duration': 3.679}
+{'text': 'have', 'start': 413.52, 'duration': 2.799}
+{'text': 'and one of the things that we have been', 'start': 414.479, 'duration': 3.201}
+{'text': 'suggesting', 'start': 416.319, 'duration': 4.801}
+{'text': 'formally and informally for', 'start': 417.68, 'duration': 7.68}
+{'text': 'weeks now is to try is for you to make', 'start': 421.12, 'duration': 5.6}
+{'text': 'available', 'start': 425.36, 'duration': 4.48}
+{'text': 'to us the records that would be', 'start': 426.72, 'duration': 4.4}
+{'text': 'necessary', 'start': 429.84, 'duration': 5.919}
+{'text': 'to confirm even before you do that', 'start': 431.12, 'duration': 4.639}
+{'text': "and not even including that that's why i", 'start': 437.44, 'duration': 3.12}
+{'text': 'hardly even included that number', 'start': 439.12, 'duration': 2.72}
+{'text': 'although in one state we have a', 'start': 440.56, 'duration': 3.039}
+{'text': 'tremendous amount of dead people so i', 'start': 441.84, 'duration': 3.6}
+{'text': "don't know i'm sure we do in georgia too", 'start': 443.599, 'duration': 5.44}
+{'text': "i'm sure we do enjoy you too but um", 'start': 445.44, 'duration': 6.8}
+{'text': "is that we're so far ahead", 'start': 449.039, 'duration': 5.44}
+{'text': "we're so far ahead of these numbers it", 'start': 452.24, 'duration': 4.72}
+{'text': 'was 18 000 ballots but they used each', 'start': 454.479, 'duration': 2.801}
+{'text': 'one', 'start': 456.96, 'duration': 2.639}
+{'text': "three times well i don't know about that", 'start': 457.28, 'duration': 3.28}
+{'text': 'but well', 'start': 459.599, 'duration': 2.801}
+{'text': "i do because we haven't we had ours", 'start': 460.56, 'duration': 4.56}
+{'text': 'magnified out so', 'start': 462.4, 'duration': 5.84}
+{'text': 'each one magnified out the entire right', 'start': 465.12, 'duration': 3.84}
+{'text': 'but', 'start': 468.24, 'duration': 2.959}
+{'text': 'but you know but nobody can make a case', 'start': 468.96, 'duration': 4.48}
+{'text': "for that brett nobody i mean look that's", 'start': 471.199, 'duration': 4.4}
+{'text': "you'd have to be a child to think", 'start': 473.44, 'duration': 3.439}
+{'text': 'anything other than that', 'start': 475.599, 'duration': 3.921}
+{'text': 'just a child i mean you have you never', 'start': 476.879, 'duration': 3.281}
+{'text': 'trump', 'start': 479.52, 'duration': 3.679}
+{'text': 'attorney dallas how many ballots which', 'start': 480.16, 'duration': 5.28}
+{'text': 'is right', 'start': 483.199, 'duration': 2.241}
+{'text': 'we had our this is ryan germany we had', 'start': 486.16, 'duration': 3.439}
+{'text': 'our law enforcement officers', 'start': 488.08, 'duration': 4.399}
+{'text': 'talk to everyone who was who was there', 'start': 489.599, 'duration': 4.961}
+{'text': 'after that event came to light', 'start': 492.479, 'duration': 5.12}
+{'text': 'the gbi was with them as well as um fbi', 'start': 494.56, 'duration': 4.24}
+{'text': 'agents', 'start': 497.599, 'duration': 2.561}
+{'text': "well there's there's no way they could", 'start': 498.8, 'duration': 3.519}
+{'text': "fight then they're incompetent", 'start': 500.16, 'duration': 4.64}
+{'text': "they're either designers okay there's", 'start': 502.319, 'duration': 4.241}
+{'text': 'only two answers dishonesty or', 'start': 504.8, 'duration': 2.56}
+{'text': 'incompetence', 'start': 506.56, 'duration': 3.359}
+{'text': "there's just no way look there's no way", 'start': 507.36, 'duration': 3.6}
+{'text': 'and on the other thing', 'start': 509.919, 'duration': 3.201}
+{'text': "i said too there's no way i mean there's", 'start': 510.96, 'duration': 4.879}
+{'text': 'no way that these things could have been', 'start': 513.12, 'duration': 4.32}
+{'text': "you know i couldn't have lost there's no", 'start': 515.839, 'duration': 3.76}
+{'text': "way that voted but they don't live in", 'start': 517.44, 'duration': 2.56}
+{'text': 'georgia', 'start': 519.599, 'duration': 2.24}
+{'text': 'anymore the color green island what was', 'start': 520.0, 'duration': 3.76}
+{'text': 'that number two that was a and then they', 'start': 521.839, 'duration': 3.521}
+{'text': 'came back in and they voted', 'start': 523.76, 'duration': 3.84}
+{'text': 'and voted no that was a large number', 'start': 525.36, 'duration': 4.159}
+{'text': 'though it was in the 20s', 'start': 527.6, 'duration': 5.2}
+{'text': 'and uh you know the point is going', 'start': 529.519, 'duration': 3.601}
+{'text': 'through', 'start': 532.8, 'duration': 2.719}
+{'text': 'each of those as well and and and those', 'start': 533.12, 'duration': 3.36}
+{'text': 'numbers that', 'start': 535.519, 'duration': 3.76}
+{'text': 'we got um that ms mitchell was just', 'start': 536.48, 'duration': 3.2}
+{'text': 'saying', 'start': 539.279, 'duration': 2.081}
+{'text': "they're not accurate everyone we've been", 'start': 539.68, 'duration': 3.12}
+{'text': 'through are people that', 'start': 541.36, 'duration': 3.52}
+{'text': 'lived in georgia moved to a different', 'start': 542.8, 'duration': 3.44}
+{'text': 'state but then', 'start': 544.88, 'duration': 3.68}
+{'text': 'moved back to georgia legitimately and', 'start': 546.24, 'duration': 3.12}
+{'text': 'in many cases', 'start': 548.56, 'duration': 2.399}
+{'text': 'how many people do that i mean they', 'start': 549.36, 'duration': 3.12}
+{'text': 'moved out and then they said how to help', 'start': 550.959, 'duration': 3.601}
+{'text': "with it i'll move back and you know", 'start': 552.48, 'duration': 4.64}
+{'text': 'sound like a very normal like you mean', 'start': 554.56, 'duration': 4.08}
+{'text': 'they moved out', 'start': 557.12, 'duration': 3.04}
+{'text': 'and what they missed it so much that', 'start': 558.64, 'duration': 3.28}
+{'text': "they wanted to move back in yeah it's", 'start': 560.16, 'duration': 2.64}
+{'text': 'like', 'start': 561.92, 'duration': 3.76}
+{'text': 'damn dude that was like low-key [\xa0__\xa0]', 'start': 562.8, 'duration': 4.64}
+{'text': 'savage as [\xa0__\xa0] like', 'start': 565.68, 'duration': 3.52}
+{'text': "who's telling who you who you're trying", 'start': 567.44, 'duration': 3.2}
+{'text': 'to fool here people leave your [\xa0__\xa0]', 'start': 569.2, 'duration': 2.8}
+{'text': 'state of georgia and ever want to go', 'start': 570.64, 'duration': 1.759}
+{'text': 'back', 'start': 572.0, 'duration': 2.16}
+{'text': "what is that what he's saying wait what", 'start': 572.399, 'duration': 4.241}
+{'text': 'the [\xa0__\xa0] oh my god that was like savage', 'start': 574.16, 'duration': 3.44}
+{'text': 'as [\xa0__\xa0]', 'start': 576.64, 'duration': 2.639}
+{'text': "it's great well and then this is they", 'start': 577.6, 'duration': 3.6}
+{'text': 'moved back in years ago this was not', 'start': 579.279, 'duration': 4.081}
+{'text': 'like something just before the election', 'start': 581.2, 'duration': 3.92}
+{'text': "so there's something about that data", 'start': 583.36, 'duration': 4.0}
+{'text': "it's just not accurate well i don't know", 'start': 585.12, 'duration': 3.12}
+{'text': 'we i mean', 'start': 587.36, 'duration': 3.44}
+{'text': 'all i know is that it is it is certified', 'start': 588.24, 'duration': 3.039}
+{'text': 'and', 'start': 590.8, 'duration': 4.159}
+{'text': 'they moved out of georgia and they voted', 'start': 591.279, 'duration': 5.521}
+{'text': 'i won this election by hundreds of', 'start': 594.959, 'duration': 4.081}
+{'text': "thousands of votes there's no way i lost", 'start': 596.8, 'duration': 3.76}
+{'text': "georgia there's no way", 'start': 599.04, 'duration': 4.239}
+{'text': 'we won by hundreds of thousands of votes', 'start': 600.56, 'duration': 5.04}
+{'text': "do you think it's possible that they uh", 'start': 603.279, 'duration': 3.041}
+{'text': 'shredded', 'start': 605.6, 'duration': 3.28}
+{'text': 'ballots in uh fulton county because', 'start': 606.32, 'duration': 4.079}
+{'text': "that's what the rumor is", 'start': 608.88, 'duration': 4.959}
+{'text': 'and also that dominion took out machines', 'start': 610.399, 'duration': 6.161}
+{'text': 'uh that dominion is really moving fast', 'start': 613.839, 'duration': 5.761}
+{'text': 'to get rid of their uh', 'start': 616.56, 'duration': 5.279}
+{'text': 'machinery do you know anything about', 'start': 619.6, 'duration': 4.239}
+{'text': 'that', 'start': 621.839, 'duration': 4.56}
+{'text': "because that's illegal ryan germany no", 'start': 623.839, 'duration': 3.601}
+{'text': 'dominion has not', 'start': 626.399, 'duration': 3.041}
+{'text': 'um moved any machinery out of fulton', 'start': 627.44, 'duration': 3.36}
+{'text': "county we're having", 'start': 629.44, 'duration': 4.48}
+{'text': 'but have they have they moved', 'start': 630.8, 'duration': 5.36}
+{'text': 'the inner parts of the machines and', 'start': 633.92, 'duration': 4.32}
+{'text': 'replaced them with other parts', 'start': 636.16, 'duration': 6.0}
+{'text': 'the brains no is yours', 'start': 638.24, 'duration': 7.039}
+{'text': "ryan i'm sure i'm sure mr president and", 'start': 642.16, 'duration': 4.56}
+{'text': 'what about what is ryan the', 'start': 645.279, 'duration': 3.68}
+{'text': 'uh who is is ryan here the governor or', 'start': 646.72, 'duration': 3.92}
+{'text': 'whatever shredding of the ballots', 'start': 648.959, 'duration': 4.481}
+{'text': 'have they been shredding ballots no the', 'start': 650.64, 'duration': 4.4}
+{'text': 'only investigation that we have into', 'start': 653.44, 'duration': 2.88}
+{'text': 'that they have not been shredding no', 'start': 655.04, 'duration': 2.32}
+{'text': "that's brian kemp", 'start': 656.32, 'duration': 3.12}
+{'text': 'who is that ryan is a lawyer republican', 'start': 657.36, 'duration': 4.0}
+{'text': 'party lawyer they were doing normal', 'start': 659.44, 'duration': 3.76}
+{'text': 'uh you know office threatening getting', 'start': 661.36, 'duration': 3.2}
+{'text': 'rid of old stuff', 'start': 663.2, 'duration': 3.36}
+{'text': 'and we investigated that and this is', 'start': 664.56, 'duration': 3.44}
+{'text': 'stuff from you know past', 'start': 666.56, 'duration': 5.279}
+{'text': "elections i don't know and that's what", 'start': 668.0, 'duration': 6.399}
+{'text': "it doesn't pass the smell tester mr", 'start': 671.839, 'duration': 3.921}
+{'text': 'president the problem', 'start': 674.399, 'duration': 3.361}
+{'text': 'you have with social media they can', 'start': 675.76, 'duration': 3.36}
+{'text': 'people can say you know', 'start': 677.76, 'duration': 3.36}
+{'text': "no this isn't social media this is trump", 'start': 679.12, 'duration': 4.24}
+{'text': 'media', 'start': 681.12, 'duration': 4.399}
+{'text': "what's that mean i'm not it's not social", 'start': 683.36, 'duration': 4.24}
+{'text': "media i don't care about social but", 'start': 685.519, 'duration': 4.88}
+{'text': "i couldn't care less social media is big", 'start': 687.6, 'duration': 3.2}
+{'text': 'tech', 'start': 690.399, 'duration': 2.241}
+{'text': 'big tech is on your side you know i', 'start': 690.8, 'duration': 3.279}
+{'text': "don't even know why you have a side", 'start': 692.64, 'duration': 2.16}
+{'text': 'because', 'start': 694.079, 'duration': 2.081}
+{'text': 'you should want to have an accurate', 'start': 694.8, 'duration': 3.12}
+{'text': 'election', 'start': 696.16, 'duration': 4.239}
+{'text': "and you're really i'm mad dude we", 'start': 697.92, 'duration': 3.84}
+{'text': 'believe but we do have an accurate', 'start': 700.399, 'duration': 2.321}
+{'text': 'election', 'start': 701.76, 'duration': 3.68}
+{'text': "no i know you don't no no you know you", 'start': 702.72, 'duration': 3.84}
+{'text': "don't have you don't have", 'start': 705.44, 'duration': 3.44}
+{'text': 'not even close we chose cobb county', 'start': 706.56, 'duration': 4.399}
+{'text': 'because that was the only county where', 'start': 708.88, 'duration': 3.84}
+{'text': "there's been any evidence submitted", 'start': 710.959, 'duration': 3.521}
+{'text': 'that the signature verification was not', 'start': 712.72, 'duration': 3.28}
+{'text': 'properly done no but', 'start': 714.48, 'duration': 3.84}
+{'text': "but i told you but we're not we're not", 'start': 716.0, 'duration': 3.44}
+{'text': 'saying that', 'start': 718.32, 'duration': 3.12}
+{'text': "we are going to say that we're the", 'start': 719.44, 'duration': 3.28}
+{'text': 'agreed party', 'start': 721.44, 'duration': 3.36}
+{'text': 'fulton county look is trump disagreeing', 'start': 722.72, 'duration': 3.2}
+{'text': 'with his own my opinion', 'start': 724.8, 'duration': 4.24}
+{'text': 'stacy is as dishonest as they come she', 'start': 725.92, 'duration': 4.08}
+{'text': 'has outplayed you', 'start': 729.04, 'duration': 3.76}
+{'text': 'at every heart at everything she got you', 'start': 730.0, 'duration': 5.839}
+{'text': 'to sign a totally unconstitutional', 'start': 732.8, 'duration': 6.159}
+{'text': 'uh agreement she is a', 'start': 735.839, 'duration': 5.841}
+{'text': "she's outsmarted you at every step and i", 'start': 738.959, 'duration': 4.721}
+{'text': "i hate to imagine what's going on stacey", 'start': 741.68, 'duration': 2.8}
+{'text': 'abrams', 'start': 743.68, 'duration': 3.92}
+{'text': "on tuesday but it's very scary to people", 'start': 744.48, 'duration': 5.68}
+{'text': 'you know where the ballots flow in out', 'start': 747.6, 'duration': 4.56}
+{'text': "of nowhere it's very scary to people", 'start': 750.16, 'duration': 5.119}
+{'text': "that consent decree is a disaster it's a", 'start': 752.16, 'duration': 4.479}
+{'text': 'disaster', 'start': 755.279, 'duration': 3.521}
+{'text': "they're going around playing you and", 'start': 756.639, 'duration': 5.041}
+{'text': 'laughing at you behind your back brad', 'start': 758.8, 'duration': 4.32}
+{'text': "whether you know it or not they're", 'start': 761.68, 'duration': 3.12}
+{'text': 'laughing at you come on brad', 'start': 763.12, 'duration': 3.279}
+{'text': "and you've taken a state that's a", 'start': 764.8, 'duration': 3.039}
+{'text': 'republican state', 'start': 766.399, 'duration': 3.68}
+{'text': "and you've made it almost impossible for", 'start': 767.839, 'duration': 3.44}
+{'text': 'a republican to win', 'start': 770.079, 'duration': 3.44}
+{'text': 'because of cheating because they cheated', 'start': 771.279, 'duration': 5.521}
+{'text': "like nobody's ever cheated before", 'start': 773.519, 'duration': 6.641}
+{'text': 'so look all i want to do is this i just', 'start': 776.8, 'duration': 4.88}
+{'text': 'want to find', 'start': 780.16, 'duration': 6.72}
+{'text': 'these guest campaigns 11 780', 'start': 781.68, 'duration': 8.48}
+{'text': 'votes which is one more that we have', 'start': 786.88, 'duration': 5.199}
+{'text': 'because we won the state and flipping', 'start': 790.16, 'duration': 3.44}
+{'text': 'the state', 'start': 792.079, 'duration': 3.921}
+{'text': 'is a great testament to our country', 'start': 793.6, 'duration': 3.359}
+{'text': 'because', 'start': 796.0, 'duration': 3.279}
+{'text': "you know and there's this there's just", 'start': 796.959, 'duration': 4.481}
+{'text': "it's a testament that they can admit to", 'start': 799.279, 'duration': 4.24}
+{'text': 'a mistake or why would you just say this', 'start': 801.44, 'duration': 3.28}
+{'text': "out loud it's like", 'start': 803.519, 'duration': 3.681}
+{'text': "it's so dumb people think it wasn't a", 'start': 804.72, 'duration': 4.239}
+{'text': 'mistake it was much more', 'start': 807.2, 'duration': 3.759}
+{'text': "uh criminal than that we'll keep looking", 'start': 808.959, 'duration': 3.281}
+{'text': 'at all these things well you better', 'start': 810.959, 'duration': 2.961}
+{'text': 'check on the balance because they are', 'start': 812.24, 'duration': 3.039}
+{'text': 'shredding ballots bro', 'start': 813.92, 'duration': 3.12}
+{'text': "i'm just telling you ryan they're", 'start': 815.279, 'duration': 3.92}
+{'text': 'spreading balance', 'start': 817.04, 'duration': 4.96}
+{'text': 'come on ryan is just getting set to', 'start': 819.199, 'duration': 3.44}
+{'text': 'watch', 'start': 822.0, 'duration': 2.8}
+{'text': 'but damn is he going to get a 10 tenths', 'start': 822.639, 'duration': 7.2}
+{'text': 'book deal for the content', 'start': 824.8, 'duration': 5.039}
+{'text': "because they think we're going to", 'start': 831.04, 'duration': 2.32}
+{'text': "eventually get there because we'll", 'start': 832.16, 'duration': 3.44}
+{'text': 'eventually get into fault', 'start': 833.36, 'duration': 5.68}
+{'text': "you know it's in my opinion it's my", 'start': 835.6, 'duration': 8.239}
+{'text': "opinion it's never too late", 'start': 839.04, 'duration': 4.799}
+{'text': 'trump won the military by a lot you know', 'start': 846.079, 'duration': 4.32}
+{'text': 'a tremendous amount', 'start': 848.8, 'duration': 5.039}
+{'text': 'but these ballots were 100 forbidden and', 'start': 850.399, 'duration': 5.361}
+{'text': 'you know about that a very substantial', 'start': 853.839, 'duration': 5.36}
+{'text': 'number came in all for bud', 'start': 855.76, 'duration': 3.439}
+{'text': 'does anybody know about it i know about', 'start': 861.6, 'duration': 5.44}
+{'text': 'it', 'start': 864.959, 'duration': 2.081}
+{'text': "okay clean away i'm not asking you", 'start': 867.279, 'duration': 3.601}
+{'text': 'tolena honestly', 'start': 868.959, 'duration': 4.961}
+{'text': "i'm asking i'm asking brad you know", 'start': 870.88, 'duration': 4.8}
+{'text': "about it wait it's clean", 'start': 873.92, 'duration': 3.44}
+{'text': "is cleta the one on trump's side about", 'start': 875.68, 'duration': 3.36}
+{'text': 'the military ballots that came in that', 'start': 877.36, 'duration': 2.96}
+{'text': 'were', 'start': 879.04, 'duration': 6.159}
+{'text': 'squad w i mean a hundred trump scuff', 'start': 880.32, 'duration': 4.879}
+{'text': "military ballots come in it's not just", 'start': 889.6, 'duration': 3.28}
+{'text': "military it's also military", 'start': 891.12, 'duration': 6.399}
+{'text': 'and um overseas citizens uh the military', 'start': 892.88, 'duration': 6.639}
+{'text': 'part of that does generally go', 'start': 897.519, 'duration': 4.481}
+{'text': 'republican the overseas citizen part of', 'start': 899.519, 'duration': 2.801}
+{'text': 'it', 'start': 902.0, 'duration': 3.12}
+{'text': 'uh generally goes uh very democrat but', 'start': 902.32, 'duration': 3.6}
+{'text': 'this was', 'start': 905.12, 'duration': 3.44}
+{'text': "your next one yeah that's okay but i get", 'start': 905.92, 'duration': 4.8}
+{'text': 'i got like 78', 'start': 908.56, 'duration': 4.079}
+{'text': 'in the military these ballots were all', 'start': 910.72, 'duration': 3.359}
+{'text': 'for this this they were', 'start': 912.639, 'duration': 2.721}
+{'text': "they didn't tell me overseas could be", 'start': 914.079, 'duration': 3.041}
+{'text': 'overseas too but i get votes overseas', 'start': 915.36, 'duration': 2.64}
+{'text': 'too ryan you know', 'start': 917.12, 'duration': 3.36}
+{'text': "in all fairness i don't know look brad i", 'start': 918.0, 'duration': 3.6}
+{'text': 'gotta get', 'start': 920.48, 'duration': 5.12}
+{'text': 'i have to find 12 000 votes and i have', 'start': 921.6, 'duration': 4.4}
+{'text': 'them', 'start': 925.6, 'duration': 3.84}
+{'text': 'times a lot and therefore i won the', 'start': 926.0, 'duration': 4.079}
+{'text': 'state', 'start': 929.44, 'duration': 2.639}
+{'text': "that's before we go [\xa0__\xa0] you just won", 'start': 930.079, 'duration': 3.361}
+{'text': 'the debate boys', 'start': 932.079, 'duration': 4.56}
+{'text': 'clappers in chat you know and', 'start': 933.44, 'duration': 5.399}
+{'text': 'i watched you this morning and you said', 'start': 936.639, 'duration': 4.081}
+{'text': 'uh well there was no', 'start': 938.839, 'duration': 3.8}
+{'text': 'criminality but i i mean all of this', 'start': 940.72, 'duration': 4.559}
+{'text': 'stuff is is very dangerous stuff', 'start': 942.639, 'duration': 4.481}
+{'text': 'when you talk about no criminality i', 'start': 945.279, 'duration': 3.441}
+{'text': "think it's very dangerous", 'start': 947.12, 'duration': 3.76}
+{'text': "he's got to find him i mean he won just", 'start': 948.72, 'duration': 3.2}
+{'text': "don't know why", 'start': 950.88, 'duration': 4.399}
+{'text': "you don't want to have the votes counted", 'start': 951.92, 'duration': 5.919}
+{'text': 'as they are like even you when you went', 'start': 955.279, 'duration': 4.321}
+{'text': 'and did that check and i was surprised', 'start': 957.839, 'duration': 2.081}
+{'text': 'because', 'start': 959.6, 'duration': 2.56}
+{'text': "you know i didn't consider the check and", 'start': 959.92, 'duration': 4.24}
+{'text': 'we found a few thousand votes that were', 'start': 962.16, 'duration': 4.799}
+{'text': 'against me so what so what are we going', 'start': 964.16, 'duration': 3.84}
+{'text': 'to do here folks i only', 'start': 966.959, 'duration': 4.24}
+{'text': 'need 11 000 votes fellas i need 11', 'start': 968.0, 'duration': 6.0}
+{'text': "000 votes give me a break uh god he's so", 'start': 971.199, 'duration': 3.601}
+{'text': 'transparent', 'start': 974.0, 'duration': 4.48}
+{'text': 'spades already or we can keep it going', 'start': 974.8, 'duration': 5.36}
+{'text': "but that's not fair to the voters of", 'start': 978.48, 'duration': 2.799}
+{'text': "georgia because they're going to see", 'start': 980.16, 'duration': 3.2}
+{'text': 'what happened', 'start': 981.279, 'duration': 4.081}
+{'text': "and they're going to see what happened i", 'start': 983.36, 'duration': 3.039}
+{'text': "mean i'll", 'start': 985.36, 'duration': 3.279}
+{'text': "i'll take on anybody you want with", 'start': 986.399, 'duration': 4.321}
+{'text': 'regard to ruby freeman', 'start': 988.639, 'duration': 4.241}
+{'text': 'and her lovely daughter a very lovely', 'start': 990.72, 'duration': 3.679}
+{'text': "young lady i'm sure", 'start': 992.88, 'duration': 3.44}
+{'text': 'do you know that every single ballot she', 'start': 994.399, 'duration': 5.041}
+{'text': 'did went to biden you know that right', 'start': 996.32, 'duration': 6.319}
+{'text': 'do you know that by the way brett', 'start': 999.44, 'duration': 5.68}
+{'text': 'every single ballot that she did through', 'start': 1002.639, 'duration': 4.161}
+{'text': 'the machine', 'start': 1005.12, 'duration': 5.36}
+{'text': 'at uh early early in the morning', 'start': 1006.8, 'duration': 8.159}
+{'text': 'went to biden did you know that ryan', 'start': 1010.48, 'duration': 8.08}
+{'text': "that's not accurate mr president huh", 'start': 1014.959, 'duration': 7.041}
+{'text': 'what is accurate not that', 'start': 1018.56, 'duration': 5.999}
+{'text': 'the numbers that we are showing are', 'start': 1022.0, 'duration': 3.76}
+{'text': 'accurate', 'start': 1024.559, 'duration': 2.801}
+{'text': "why don't you want to find this right", 'start': 1025.76, 'duration': 2.96}
+{'text': "what's wrong with you i heard that i", 'start': 1027.36, 'duration': 1.92}
+{'text': 'heard', 'start': 1028.72, 'duration': 2.64}
+{'text': 'your lawyer is very difficult actually', 'start': 1029.28, 'duration': 4.399}
+{'text': "but i'm sure you're a good lawyer", 'start': 1031.36, 'duration': 5.439}
+{'text': "you have a nice last name but but i'm", 'start': 1033.679, 'duration': 6.0}
+{'text': 'just curious', 'start': 1036.799, 'duration': 5.201}
+{'text': "why wouldn't why why do you keep", 'start': 1039.679, 'duration': 3.52}
+{'text': 'fighting this thing', 'start': 1042.0, 'duration': 3.36}
+{'text': "it just doesn't make sense i'm just", 'start': 1043.199, 'duration': 4.561}
+{'text': 'confused as to why the evms in india the', 'start': 1045.36, 'duration': 3.84}
+{'text': 'same use in the usa were proven to be', 'start': 1047.76, 'duration': 2.72}
+{'text': 'faulted but once in america were said to', 'start': 1049.2, 'duration': 2.719}
+{'text': 'not be faulty and a margin over two', 'start': 1050.48, 'duration': 2.079}
+{'text': "people sound like you're not really", 'start': 1051.919, 'duration': 1.521}
+{'text': 'employed', 'start': 1052.559, 'duration': 2.641}
+{'text': 'you sound you sound like the ultimate', 'start': 1053.44, 'duration': 3.76}
+{'text': 'like conservative in hiding', 'start': 1055.2, 'duration': 4.719}
+{'text': "um even if the machines are the same i'm", 'start': 1057.2, 'duration': 3.28}
+{'text': 'pretty sure there are different', 'start': 1059.919, 'duration': 1.841}
+{'text': 'configurations of said machines', 'start': 1060.48, 'duration': 2.48}
+{'text': 'different ways you can employ those', 'start': 1061.76, 'duration': 1.84}
+{'text': 'machines', 'start': 1062.96, 'duration': 2.4}
+{'text': 'so for instance like dominion makes a', 'start': 1063.6, 'duration': 2.88}
+{'text': "large variety of machines there's", 'start': 1065.36, 'duration': 2.0}
+{'text': 'different ways you can have these', 'start': 1066.48, 'duration': 1.68}
+{'text': 'machines where whether or not you want', 'start': 1067.36, 'duration': 2.319}
+{'text': 'like paper trails configured or not like', 'start': 1068.16, 'duration': 3.12}
+{'text': "there's like it's", 'start': 1069.679, 'duration': 2.88}
+{'text': 'just because like one brand of machine', 'start': 1071.28, 'duration': 2.24}
+{'text': "is used in one place another doesn't", 'start': 1072.559, 'duration': 2.081}
+{'text': 'mean like', 'start': 1073.52, 'duration': 2.24}
+{'text': "i'm pretty sure like that comment is", 'start': 1074.64, 'duration': 2.0}
+{'text': "like the equivalent like i don't", 'start': 1075.76, 'duration': 2.32}
+{'text': 'understand how your dell can be having', 'start': 1076.64, 'duration': 2.32}
+{'text': 'problems here', 'start': 1078.08, 'duration': 2.56}
+{'text': 'when the dell that i have in india like', 'start': 1078.96, 'duration': 2.88}
+{'text': 'has no problems like what do you mean', 'start': 1080.64, 'duration': 2.72}
+{'text': "you're dealt here like", 'start': 1081.84, 'duration': 4.0}
+{'text': "that doesn't you have people that submit", 'start': 1083.36, 'duration': 3.92}
+{'text': 'information', 'start': 1085.84, 'duration': 3.52}
+{'text': 'and we have our people that submit', 'start': 1087.28, 'duration': 3.12}
+{'text': 'information', 'start': 1089.36, 'duration': 2.64}
+{'text': 'and then it comes before the court and', 'start': 1090.4, 'duration': 3.04}
+{'text': 'the court then has to make a', 'start': 1092.0, 'duration': 2.64}
+{'text': 'determination', 'start': 1093.44, 'duration': 2.8}
+{'text': 'we have to stand by our numbers we', 'start': 1094.64, 'duration': 3.68}
+{'text': 'believe our numbers are right', 'start': 1096.24, 'duration': 3.76}
+{'text': "why do you say that though i don't know", 'start': 1098.32, 'duration': 3.359}
+{'text': 'i mean sure we can play this game with', 'start': 1100.0, 'duration': 2.48}
+{'text': 'the courts', 'start': 1101.679, 'duration': 2.481}
+{'text': 'but why do you say that first of all', 'start': 1102.48, 'duration': 4.079}
+{'text': "they don't even assign us a judge", 'start': 1104.16, 'duration': 5.44}
+{'text': "they don't even assign us a judge uh", 'start': 1106.559, 'duration': 6.48}
+{'text': "but why wouldn't you if hey brad", 'start': 1109.6, 'duration': 6.319}
+{'text': "why wouldn't you want to check out ruby", 'start': 1113.039, 'duration': 4.321}
+{'text': 'freeman', 'start': 1115.919, 'duration': 4.081}
+{'text': "and why wouldn't you want to say hey if", 'start': 1117.36, 'duration': 4.16}
+{'text': 'if in fact', 'start': 1120.0, 'duration': 4.0}
+{'text': 'president trump is right about that then', 'start': 1121.52, 'duration': 4.399}
+{'text': 'he wins the state of georgia just that', 'start': 1124.0, 'duration': 3.2}
+{'text': 'one incident', 'start': 1125.919, 'duration': 2.561}
+{'text': 'without going through hundreds of', 'start': 1127.2, 'duration': 3.68}
+{'text': 'thousands of drop ballots', 'start': 1128.48, 'duration': 3.84}
+{'text': "what are you doing brad you're dropping", 'start': 1130.88, 'duration': 3.2}
+{'text': "the ball i mean i've been watching you", 'start': 1132.32, 'duration': 2.32}
+{'text': 'for', 'start': 1134.08, 'duration': 2.24}
+{'text': "you know you don't care about anything", 'start': 1134.64, 'duration': 3.36}
+{'text': 'your numbers are right', 'start': 1136.32, 'duration': 3.28}
+{'text': "but your numbers aren't right they're", 'start': 1138.0, 'duration': 4.08}
+{'text': "really wrong and they're really wrong", 'start': 1139.6, 'duration': 4.48}
+{'text': "brad and i know this phone call's going", 'start': 1142.08, 'duration': 4.0}
+{'text': 'nowhere other than', 'start': 1144.08, 'duration': 5.44}
+{'text': 'other than ultimately you know', 'start': 1146.08, 'duration': 6.719}
+{'text': 'look ultimately i win okay because this', 'start': 1149.52, 'duration': 4.24}
+{'text': 'is the secretary', 'start': 1152.799, 'duration': 2.721}
+{'text': 'you guys are so wrong you and your', 'start': 1153.76, 'duration': 3.279}
+{'text': "governor who wouldn't", 'start': 1155.52, 'duration': 6.08}
+{'text': 'who was down at 21 he was down 21 points', 'start': 1157.039, 'duration': 6.481}
+{'text': 'and like a schmuck i endorsed him and', 'start': 1161.6, 'duration': 3.439}
+{'text': 'got he got elected', 'start': 1163.52, 'duration': 3.44}
+{'text': "one of the worst deals of all time it's", 'start': 1165.039, 'duration': 3.361}
+{'text': 'a disaster', 'start': 1166.96, 'duration': 4.24}
+{'text': 'we won georgia easily we want to buy', 'start': 1168.4, 'duration': 4.72}
+{'text': 'hundreds of thousands of votes', 'start': 1171.2, 'duration': 4.4}
+{'text': 'but if you go by basic simple numbers we', 'start': 1173.12, 'duration': 3.76}
+{'text': 'want it easily', 'start': 1175.6, 'duration': 4.56}
+{'text': "easily so we're not giving uh dominion a", 'start': 1176.88, 'duration': 5.2}
+{'text': 'pass on the record', 'start': 1180.16, 'duration': 4.399}
+{'text': "right exactly but we just don't you know", 'start': 1182.08, 'duration': 4.24}
+{'text': "we don't need dominion because we have", 'start': 1184.559, 'duration': 3.281}
+{'text': 'so many other votes', 'start': 1186.32, 'duration': 3.359}
+{'text': "that we don't need to prove it any more", 'start': 1187.84, 'duration': 3.839}
+{'text': 'than we are just trying so hard to make', 'start': 1189.679, 'duration': 3.12}
+{'text': 'his case sound like', 'start': 1191.679, 'duration': 3.681}
+{'text': 'reasonable it stands to reason that if', 'start': 1192.799, 'duration': 4.641}
+{'text': 'the information is not worth coming', 'start': 1195.36, 'duration': 4.0}
+{'text': "forthcoming there's something to hide", 'start': 1197.44, 'duration': 3.599}
+{'text': "that's the problem that we have", 'start': 1199.36, 'duration': 2.96}
+{'text': "well that's not the case there are", 'start': 1201.039, 'duration': 3.041}
+{'text': 'things that that you guys are', 'start': 1202.32, 'duration': 3.04}
+{'text': "are entitled to getting there's things", 'start': 1204.08, 'duration': 3.12}
+{'text': 'that under law we are not allowed', 'start': 1205.36, 'duration': 3.6}
+{'text': 'to give out well you have to well under', 'start': 1207.2, 'duration': 3.2}
+{'text': "law you're not allowed to give", 'start': 1208.96, 'duration': 3.92}
+{'text': "faulty election results okay you're not", 'start': 1210.4, 'duration': 3.92}
+{'text': "allowed to do that and that's what", 'start': 1212.88, 'duration': 2.32}
+{'text': "you've done", 'start': 1214.32, 'duration': 3.2}
+{'text': 'so many faulty election results and', 'start': 1215.2, 'duration': 3.359}
+{'text': 'honestly', 'start': 1217.52, 'duration': 2.8}
+{'text': 'this should go very fast you should meet', 'start': 1218.559, 'duration': 4.24}
+{'text': 'tomorrow because you have a big election', 'start': 1220.32, 'duration': 4.719}
+{'text': 'election coming up and because of what', 'start': 1222.799, 'duration': 3.681}
+{'text': "you've done to the president you know", 'start': 1225.039, 'duration': 2.801}
+{'text': 'the people of uh', 'start': 1226.48, 'duration': 3.679}
+{'text': 'georgia know that this was a scam and', 'start': 1227.84, 'duration': 3.68}
+{'text': "because of what you've done to the", 'start': 1230.159, 'duration': 2.801}
+{'text': "president a lot of people aren't going", 'start': 1231.52, 'duration': 2.639}
+{'text': 'out to vote', 'start': 1232.96, 'duration': 2.64}
+{'text': 'and a lot of republicans are going to', 'start': 1234.159, 'duration': 3.361}
+{'text': 'vote negative because they hate what you', 'start': 1235.6, 'duration': 3.199}
+{'text': 'did to the president', 'start': 1237.52, 'duration': 3.36}
+{'text': "amen okay they hate him and they're", 'start': 1238.799, 'duration': 3.12}
+{'text': 'going to vote and', 'start': 1240.88, 'duration': 4.24}
+{'text': 'if you would be respected if really', 'start': 1241.919, 'duration': 4.801}
+{'text': 'respected if this thing could be', 'start': 1245.12, 'duration': 2.96}
+{'text': 'straightened out', 'start': 1246.72, 'duration': 2.88}
+{'text': 'before the election you have a big', 'start': 1248.08, 'duration': 4.64}
+{'text': 'election coming up on tuesday', 'start': 1249.6, 'duration': 5.84}
+{'text': 'and therefore i think that it really is', 'start': 1252.72, 'duration': 4.319}
+{'text': 'important that you meet tomorrow and', 'start': 1255.44, 'duration': 3.2}
+{'text': 'work out on these numbers', 'start': 1257.039, 'duration': 4.64}
+{'text': 'because i know brad that if if you think', 'start': 1258.64, 'duration': 5.279}
+{'text': "we're right i think you're going to say", 'start': 1261.679, 'duration': 4.081}
+{'text': "and and i'm not looking to blame anybody", 'start': 1263.919, 'duration': 4.161}
+{'text': "i'm not i'm just saying that", 'start': 1265.76, 'duration': 5.2}
+{'text': 'you know you know under new counts and', 'start': 1268.08, 'duration': 4.4}
+{'text': 'under new uh', 'start': 1270.96, 'duration': 4.48}
+{'text': 'uh views of of the election results we', 'start': 1272.48, 'duration': 4.0}
+{'text': 'won the election', 'start': 1275.44, 'duration': 3.44}
+{'text': "it's all you know it's very simple we", 'start': 1276.48, 'duration': 4.48}
+{'text': 'won the election', 'start': 1278.88, 'duration': 4.24}
+{'text': 'as the governor of major states and the', 'start': 1280.96, 'duration': 3.839}
+{'text': 'surrounding states said', 'start': 1283.12, 'duration': 4.559}
+{'text': 'there is no way you lost georgia as the', 'start': 1284.799, 'duration': 4.401}
+{'text': 'georgia politicians', 'start': 1287.679, 'duration': 4.24}
+{'text': 'say there is no way you lost georgia', 'start': 1289.2, 'duration': 4.479}
+{'text': 'nobody everyone knows i want to buy', 'start': 1291.919, 'duration': 3.521}
+{'text': 'hundreds of thousands of votes', 'start': 1293.679, 'duration': 2.961}
+{'text': "but i'll tell you it's going to have a", 'start': 1295.44, 'duration': 3.2}
+{'text': "big impact on tuesday if you guys don't", 'start': 1296.64, 'duration': 4.56}
+{'text': 'get this thing straightened out fast', 'start': 1298.64, 'duration': 4.159}
+{'text': "i don't think we i don't think we can", 'start': 1301.2, 'duration': 3.12}
+{'text': 'give access to', 'start': 1302.799, 'duration': 3.841}
+{'text': "data that's protected by law but we can", 'start': 1304.32, 'duration': 3.44}
+{'text': 'sit down with them and say', 'start': 1306.64, 'duration': 3.6}
+{'text': "you're allowed to have a phony election", 'start': 1307.76, 'duration': 3.68}
+{'text': "you're allowed to have a phone call dude", 'start': 1310.24, 'duration': 2.799}
+{'text': "he's so cringe", 'start': 1311.44, 'duration': 3.599}
+{'text': 'no sir um is it possible that the', 'start': 1313.039, 'duration': 4.241}
+{'text': 'secretary of state could deputize the', 'start': 1315.039, 'duration': 4.0}
+{'text': 'lawyers for the president', 'start': 1317.28, 'duration': 3.92}
+{'text': 'so that we could access that information', 'start': 1319.039, 'duration': 3.76}
+{'text': 'that private information without you', 'start': 1321.2, 'duration': 2.0}
+{'text': 'having', 'start': 1322.799, 'duration': 3.601}
+{'text': "any kind of violation well i don't want", 'start': 1323.2, 'duration': 4.719}
+{'text': 'to know who it is you guys can do it', 'start': 1326.4, 'duration': 3.04}
+{'text': 'very confidentially you can sign a', 'start': 1327.919, 'duration': 3.12}
+{'text': 'confidentiality agreement', 'start': 1329.44, 'duration': 5.119}
+{'text': "that's okay i don't need to know names", 'start': 1331.039, 'duration': 6.241}
+{'text': 'all right but we got the information the', 'start': 1334.559, 'duration': 4.081}
+{'text': 'problem i think was giving the data over', 'start': 1337.28, 'duration': 2.56}
+{'text': 'to the federal government or handing it', 'start': 1338.64, 'duration': 2.0}
+{'text': 'out not like', 'start': 1339.84, 'duration': 2.4}
+{'text': 'not the guy personally knowing it right', 'start': 1340.64, 'duration': 2.96}
+{'text': 'or am i totally misunderstanding it', 'start': 1342.24, 'duration': 2.08}
+{'text': "eastwood's", 'start': 1343.6, 'duration': 3.76}
+{'text': "apple is gonna correct me i i don't on", 'start': 1344.32, 'duration': 4.96}
+{'text': "this stuff that we're talking about", 'start': 1347.36, 'duration': 3.76}
+{'text': 'we got all that information from the', 'start': 1349.28, 'duration': 4.399}
+{'text': 'secretary of state', 'start': 1351.12, 'duration': 5.12}
+{'text': 'like hey i need to figure i need you to', 'start': 1353.679, 'duration': 4.0}
+{'text': 'send me all the [\xa0__\xa0] data that you', 'start': 1356.24, 'duration': 3.52}
+{'text': 'have on these hospital pages like doug', 'start': 1357.679, 'duration': 3.521}
+{'text': "[\xa0__\xa0] hipaa i can't do that", 'start': 1359.76, 'duration': 3.279}
+{'text': "it's like no no no no i thought of a", 'start': 1361.2, 'duration': 3.12}
+{'text': 'sick [\xa0__\xa0] workaround', 'start': 1363.039, 'duration': 3.52}
+{'text': "for hipaa uh let's just sign ndas and", 'start': 1364.32, 'duration': 3.52}
+{'text': "then we're chill", 'start': 1366.559, 'duration': 4.721}
+{'text': "like what the [\xa0__\xa0] well why don't my", 'start': 1367.84, 'duration': 5.199}
+{'text': 'lawyer show you where you got the', 'start': 1371.28, 'duration': 4.0}
+{'text': "information it'll show the secretary of", 'start': 1373.039, 'duration': 2.801}
+{'text': 'state', 'start': 1375.28, 'duration': 2.16}
+{'text': "and you don't even have to look at any", 'start': 1375.84, 'duration': 4.0}
+{'text': "names we don't want names we don't care", 'start': 1377.44, 'duration': 3.92}
+{'text': 'but we got that in how are you going to', 'start': 1379.84, 'duration': 3.44}
+{'text': "verify the whether they're dead or not", 'start': 1381.36, 'duration': 3.439}
+{'text': 'then thank you president trump for your', 'start': 1383.28, 'duration': 2.24}
+{'text': 'time', 'start': 1384.799, 'duration': 2.641}
+{'text': 'okay thank you brad thank you ryan thank', 'start': 1385.52, 'duration': 3.36}
+{'text': 'you thank you everybody', 'start': 1387.44, 'duration': 3.28}
+{'text': 'thank you thank you thank you very much', 'start': 1388.88, 'duration': 4.08}
+{'text': 'bye', 'start': 1390.72, 'duration': 2.24}
+{'text': 'how frustrated do you think those guys', 'start': 1393.36, 'duration': 4.0}
+{'text': 'are hey real quick', 'start': 1394.88, 'duration': 5.12}
+{'text': "just as an aside don't feel sorry for", 'start': 1397.36, 'duration': 4.0}
+{'text': 'these [\xa0__\xa0] lawyers and [\xa0__\xa0] that have', 'start': 1400.0, 'duration': 2.48}
+{'text': 'to deal with trump okay these guys are', 'start': 1401.36, 'duration': 2.24}
+{'text': 'republican they supported him the whole', 'start': 1402.48, 'duration': 1.439}
+{'text': 'time', 'start': 1403.6, 'duration': 3.28}
+{'text': 'now they have to [\xa0__\xa0] lay in the bed', 'start': 1403.919, 'duration': 5.041}
+{'text': "they've made or whatever okay", 'start': 1406.88, 'duration': 3.2}
+{'text': 'the full call is particularly bad for', 'start': 1408.96, 'duration': 2.64}
+{'text': "georgia's secretary of state trump is", 'start': 1410.08, 'duration': 2.32}
+{'text': "wrong i'm many experienced with the", 'start': 1411.6, 'duration': 2.079}
+{'text': "georgia secretary second it's a very", 'start': 1412.4, 'duration': 2.56}
+{'text': 'serious question shorter versions', 'start': 1413.679, 'duration': 5.681}
+{'text': 'wait what wait what did we miss', 'start': 1414.96, 'duration': 7.04}
+{'text': 'what question could he not answer in the', 'start': 1419.36, 'duration': 3.199}
+{'text': 'call', 'start': 1422.0, 'duration': 1.679}
+{'text': 'georgia denies that they signed a', 'start': 1422.559, 'duration': 2.561}
+{'text': 'consent equipment even the ap fact check', 'start': 1423.679, 'duration': 2.961}
+{'text': 'of trump starts they did', 'start': 1425.12, 'duration': 3.12}
+{'text': "this isn't even like relevant this was", 'start': 1426.64, 'duration': 3.039}
+{'text': 'like some [\xa0__\xa0] about like the stacey', 'start': 1428.24, 'duration': 2.64}
+{'text': "abrams suit or whatever it's not it's", 'start': 1429.679, 'duration': 2.801}
+{'text': "not this wasn't even like material to", 'start': 1430.88, 'duration': 2.72}
+{'text': 'the actual', 'start': 1432.48, 'duration': 4.559}
+{'text': 'call who cares', 'start': 1433.6, 'duration': 4.64}
+{'text': 'medicine folks on trump and entering', 'start': 1437.039, 'duration': 2.161}
+{'text': "this from the perspective he's wrong", 'start': 1438.24, 'duration': 2.0}
+{'text': 'about everything george also confirmed', 'start': 1439.2, 'duration': 1.76}
+{'text': "they've recorded", 'start': 1440.24, 'duration': 2.72}
+{'text': "two dead voters but don't provide", 'start': 1440.96, 'duration': 3.12}
+{'text': 'information as to how they know', 'start': 1442.96, 'duration': 3.44}
+{'text': 'the other the other brought up by trump', 'start': 1444.08, 'duration': 3.199}
+{'text': 'are not legit', 'start': 1446.4, 'duration': 3.759}
+{'text': "trump didn't bring up any others i don't", 'start': 1447.279, 'duration': 4.321}
+{'text': "think so weren't they asking for data so", 'start': 1450.159, 'duration': 2.481}
+{'text': 'they could try to prove it', 'start': 1451.6, 'duration': 2.0}
+{'text': 'they also came about evidence that', 'start': 1452.64, 'duration': 2.48}
+{'text': 'people who moved out of state then voted', 'start': 1453.6, 'duration': 2.48}
+{'text': 'actually moved back', 'start': 1455.12, 'duration': 1.679}
+{'text': "how do you know it's not without", 'start': 1456.08, 'duration': 1.839}
+{'text': "evidence they're the ones that", 'start': 1456.799, 'duration': 3.921}
+{'text': 'investigated it', 'start': 1457.919, 'duration': 2.801}
+{'text': "george's response hey yeah is the", 'start': 1462.159, 'duration': 4.721}
+{'text': 'secretary of state or the state election', 'start': 1464.88, 'duration': 2.64}
+{'text': 'board', 'start': 1466.88, 'duration': 3.52}
+{'text': 'considering asking either the fulton d.a', 'start': 1467.52, 'duration': 3.2}
+{'text': 'or', 'start': 1470.4, 'duration': 2.24}
+{'text': 'the georgia attorney general to', 'start': 1470.72, 'duration': 3.76}
+{'text': 'investigate the call with the president', 'start': 1472.64, 'duration': 2.72}
+{'text': 'over the weekend', 'start': 1474.48, 'duration': 3.92}
+{'text': 'i do not know that that call is any', 'start': 1475.36, 'duration': 4.16}
+{'text': 'discussions of that', 'start': 1478.4, 'duration': 3.92}
+{'text': "not that i'm aware of", 'start': 1479.52, 'duration': 2.8}
+{'text': 'from all of you said there i mean do you', 'start': 1483.76, 'duration': 3.039}
+{'text': 'believe as some have said that what', 'start': 1485.12, 'duration': 3.2}
+{'text': 'happened in that phone call was an', 'start': 1486.799, 'duration': 2.961}
+{'text': "attack i'm having a really hard time", 'start': 1488.32, 'duration': 4.479}
+{'text': 'why are brit bongers', 'start': 1489.76, 'duration': 4.56}
+{'text': 'allowed to be having questions about', 'start': 1492.799, 'duration': 2.801}
+{'text': 'this this is foreign election', 'start': 1494.32, 'duration': 2.16}
+{'text': 'interference', 'start': 1495.6, 'duration': 3.92}
+{'text': 'i hear you i apologize bonkers oh we', 'start': 1496.48, 'duration': 4.72}
+{'text': 'listened to the whole call earlier bisco', 'start': 1499.52, 'duration': 2.96}
+{'text': 'i thought there were two really funny', 'start': 1501.2, 'duration': 2.8}
+{'text': "parts of the call that the media wasn't", 'start': 1502.48, 'duration': 2.319}
+{'text': 'tweeting about', 'start': 1504.0, 'duration': 3.44}
+{'text': 'the first one is when trump trump so', 'start': 1504.799, 'duration': 3.12}
+{'text': "trump's", 'start': 1507.44, 'duration': 2.0}
+{'text': "lawyer that's their clerda or whatever", 'start': 1507.919, 'duration': 3.281}
+{'text': 'is like trying to make his conversation', 'start': 1509.44, 'duration': 2.88}
+{'text': 'a little bit more understandable', 'start': 1511.2, 'duration': 3.44}
+{'text': 'and one of the points trump is like', 'start': 1512.32, 'duration': 3.68}
+{'text': 'trump is like clear to shut the [\xa0__\xa0] up', 'start': 1514.64, 'duration': 2.56}
+{'text': "like i'm trying to [\xa0__\xa0]", 'start': 1516.0, 'duration': 2.48}
+{'text': 'try to do my conspiracy [\xa0__\xa0] here when', 'start': 1517.2, 'duration': 2.32}
+{'text': "claire's like hold on wait wait wait", 'start': 1518.48, 'duration': 2.079}
+{'text': "this is actually what we're asking about", 'start': 1519.52, 'duration': 1.92}
+{'text': 'he like tells her like [\xa0__\xa0]', 'start': 1520.559, 'duration': 2.24}
+{'text': 'not explicitly like i thought it was', 'start': 1521.44, 'duration': 3.839}
+{'text': 'really funny um and then the second part', 'start': 1522.799, 'duration': 4.0}
+{'text': 'was um', 'start': 1525.279, 'duration': 3.28}
+{'text': 'the second part was when trump they were', 'start': 1526.799, 'duration': 3.281}
+{'text': 'talking trump is like there are these', 'start': 1528.559, 'duration': 3.761}
+{'text': 'issues with people are who are voting or', 'start': 1530.08, 'duration': 3.839}
+{'text': 'people who are moving out of georgia and', 'start': 1532.32, 'duration': 3.04}
+{'text': "then coming back and he's like what", 'start': 1533.919, 'duration': 2.64}
+{'text': "you're telling me people leave georgia", 'start': 1535.36, 'duration': 2.0}
+{'text': 'and want to go back', 'start': 1536.559, 'duration': 4.561}
+{'text': 'like come on that was funny as [\xa0__\xa0]', 'start': 1537.36, 'duration': 6.64}
+{'text': 'holy [\xa0__\xa0] i felt like he was [\xa0__\xa0]', 'start': 1541.12, 'duration': 5.2}
+{'text': 'rosie the [\xa0__\xa0] out of georgia', 'start': 1544.0, 'duration': 3.679}
+{'text': "and i'll ask you very quickly about the", 'start': 1546.32, 'duration': 2.959}
+{'text': "secretary's desire to have that phone", 'start': 1547.679, 'duration': 3.441}
+{'text': 'call recorded why did he want that call', 'start': 1549.279, 'duration': 2.64}
+{'text': 'recorded', 'start': 1551.12, 'duration': 2.4}
+{'text': 'was he concerned about anything improper', 'start': 1551.919, 'duration': 3.12}
+{'text': 'being said or that he may need to', 'start': 1553.52, 'duration': 2.72}
+{'text': 'release it later', 'start': 1555.039, 'duration': 2.64}
+{'text': "i think given the environment we're in", 'start': 1556.24, 'duration': 2.96}
+{'text': 'right now and political situation that', 'start': 1557.679, 'duration': 2.561}
+{'text': "we're in and the history of the", 'start': 1559.2, 'duration': 2.0}
+{'text': 'president', 'start': 1560.24, 'duration': 2.24}
+{'text': "knowing that he sometimes doesn't", 'start': 1561.2, 'duration': 3.92}
+{'text': 'necessarily', 'start': 1562.48, 'duration': 2.64}
+{'text': 'characterize things as it might have', 'start': 1565.6, 'duration': 3.28}
+{'text': 'actually occurred it was a', 'start': 1567.12, 'duration': 3.28}
+{'text': "abundance of caution but i'm sure many", 'start': 1568.88, 'duration': 3.039}
+{'text': "people i'm sure the president's side", 'start': 1570.4, 'duration': 2.56}
+{'text': 'recorded it too so', 'start': 1571.919, 'duration': 1.841}
+{'text': 'they might have been the ones that', 'start': 1572.96, 'duration': 2.56}
+{'text': 'leaked part of that as well thank you', 'start': 1573.76, 'duration': 3.519}
+{'text': 'what a good response', 'start': 1575.52, 'duration': 3.279}
+{'text': 'we get contacted by members of the', 'start': 1577.279, 'duration': 3.28}
+{'text': 'administration we get contacted by', 'start': 1578.799, 'duration': 3.76}
+{'text': 'democrats we can find out republicans', 'start': 1580.559, 'duration': 4.961}
+{'text': 'have um have you been contacted by on', 'start': 1582.559, 'duration': 4.081}
+{'text': 'the topic of these', 'start': 1585.52, 'duration': 2.56}
+{'text': 'some of these conspiracy theories that', 'start': 1586.64, 'duration': 3.44}
+{'text': "you've outlined today", 'start': 1588.08, 'duration': 4.079}
+{'text': 'i mean no more than my normal of having', 'start': 1590.08, 'duration': 4.0}
+{'text': 'to explain the ridiculousness of many', 'start': 1592.159, 'duration': 2.241}
+{'text': 'this', 'start': 1594.08, 'duration': 2.56}
+{'text': 'piece of disinformation so thank you all', 'start': 1594.4, 'duration': 4.08}
+{'text': 'very much remember to hit that like and', 'start': 1596.64, 'duration': 2.88}
+{'text': "subscribe and don't forget the", 'start': 1598.48, 'duration': 3.12}
+{'text': 'notification bell so that my videos show', 'start': 1599.52, 'duration': 2.48}
+{'text': 'up', 'start': 1601.6, 'duration': 4.959}
+{'text': 'right in your feed feels weird man', 'start': 1602.0, 'duration': 4.559}

@@ -1,0 +1,989 @@
+{'text': "it's cool", 'start': 0.0, 'duration': 4.08}
+{'text': '[Laughter]', 'start': 1.25, 'duration': 4.43}
+{'text': "i can't believe that tate was so fragile", 'start': 4.08, 'duration': 4.0}
+{'text': 'here he got like absolutely', 'start': 5.68, 'duration': 4.8}
+{'text': 'blasted like his mind is destroyed right', 'start': 8.08, 'duration': 4.4}
+{'text': 'now you know the vibe that i have right', 'start': 10.48, 'duration': 2.88}
+{'text': 'now', 'start': 12.48, 'duration': 3.279}
+{'text': "what's the vibe i think i can fix and", 'start': 13.36, 'duration': 4.72}
+{'text': 'ship you and hassan', 'start': 15.759, 'duration': 3.6}
+{'text': 'absolutely', 'start': 18.08, 'duration': 2.4}
+{'text': 'you believe earth is flat around', 'start': 19.359, 'duration': 3.041}
+{'text': 'spherical globe', 'start': 20.48, 'duration': 3.44}
+{'text': "you believe it's around right but when", 'start': 22.4, 'duration': 4.879}
+{'text': "you walk outside it feels like it's flat", 'start': 23.92, 'duration': 6.4}
+{'text': 'brother brother and i i it looks flat it', 'start': 27.279, 'duration': 4.641}
+{'text': "feels flat but you believe it's round", 'start': 30.32, 'duration': 4.399}
+{'text': 'why do you believe the earth is round', 'start': 31.92, 'duration': 4.72}
+{'text': 'because i have personal experience that', 'start': 34.719, 'duration': 3.601}
+{'text': 'would prove to me that the earth is', 'start': 36.64, 'duration': 4.0}
+{'text': 'around oh', 'start': 38.32, 'duration': 5.04}
+{'text': 'what a dumb', 'start': 40.64, 'duration': 2.72}
+{'text': 'epistemically tate is literally like', 'start': 43.44, 'duration': 4.16}
+{'text': "i know things are real because i've seen", 'start': 46.0, 'duration': 3.2}
+{'text': 'them unironically but he would say that', 'start': 47.6, 'duration': 4.56}
+{'text': "i think it's profound", 'start': 49.2, 'duration': 4.48}
+{'text': 'your personal experience what happened', 'start': 52.16, 'duration': 3.2}
+{'text': 'did you go up to the [\xa0__\xa0] moon is', 'start': 53.68, 'duration': 3.44}
+{'text': 'that how you figured it out actually i', 'start': 55.36, 'duration': 3.76}
+{'text': 'flew up into space and i looked down on', 'start': 57.12, 'duration': 5.279}
+{'text': "her and i just called it's crazy okay", 'start': 59.12, 'duration': 4.56}
+{'text': "you don't have to hey listen you don't", 'start': 62.399, 'duration': 2.4}
+{'text': 'have to concede on that point but i', 'start': 63.68, 'duration': 2.64}
+{'text': 'think you and i both understand the', 'start': 64.799, 'duration': 3.201}
+{'text': 'importance of scientific', 'start': 66.32, 'duration': 2.32}
+{'text': 'uh', 'start': 68.0, 'duration': 2.0}
+{'text': 'the importance of empirical evidence in', 'start': 68.64, 'duration': 5.2}
+{'text': 'that one right or or you know', 'start': 70.0, 'duration': 3.84}
+{'text': 'and i thought', 'start': 74.0, 'duration': 3.28}
+{'text': 'angela believe the earth is flat or', 'start': 75.6, 'duration': 4.48}
+{'text': 'round spherical', 'start': 77.28, 'duration': 4.159}
+{'text': 'i might watch this later tonight if we', 'start': 80.08, 'duration': 3.679}
+{'text': "have time we'll see", 'start': 81.439, 'duration': 3.36}
+{'text': 'i thought a son hated to debate', 'start': 83.759, 'duration': 2.081}
+{'text': "wrestling their videos he'll debate", 'start': 84.799, 'duration': 2.32}
+{'text': "anybody with more clout than him i'm", 'start': 85.84, 'duration': 2.4}
+{'text': 'surprised he debated andrew tate but', 'start': 87.119, 'duration': 2.161}
+{'text': 'apparently tate is actually', 'start': 88.24, 'duration': 2.96}
+{'text': 'exceptionally stupid', 'start': 89.28, 'duration': 5.44}
+{'text': "okay i'm watching this real quick okay", 'start': 91.2, 'duration': 3.52}
+{'text': 'well now that was just quite the', 'start': 96.0, 'duration': 2.64}
+{'text': 'conversation how do you feel about my', 'start': 97.36, 'duration': 3.36}
+{'text': 'guy tommy', 'start': 98.64, 'duration': 4.32}
+{'text': 'i oh sorry are you asking me or yeah', 'start': 100.72, 'duration': 3.039}
+{'text': 'yeah', 'start': 102.96, 'duration': 2.799}
+{'text': "on my way to nice he's i don't know him", 'start': 103.759, 'duration': 3.441}
+{'text': 'personally i have nothing against him', 'start': 105.759, 'duration': 3.921}
+{'text': "personally his he lives in he's a new", 'start': 107.2, 'duration': 4.32}
+{'text': 'age thinker he lives in the new think', 'start': 109.68, 'duration': 3.84}
+{'text': 'the idea that the way the world runs and', 'start': 111.52, 'duration': 4.0}
+{'text': 'has always run is a bad thing and that', 'start': 113.52, 'duration': 3.44}
+{'text': 'if we change everything from the ground', 'start': 115.52, 'duration': 2.559}
+{'text': "up it's somehow going to become a", 'start': 116.96, 'duration': 3.199}
+{'text': 'magically better place obviously he has', 'start': 118.079, 'duration': 4.161}
+{'text': 'no proof or any references for his way', 'start': 120.159, 'duration': 3.681}
+{'text': "of like his way of thinking because it's", 'start': 122.24, 'duration': 2.72}
+{'text': "never been tested before it's an", 'start': 123.84, 'duration': 3.44}
+{'text': 'untested theory i think that him for him', 'start': 124.96, 'duration': 3.519}
+{'text': 'to come along and say such blanket', 'start': 127.28, 'duration': 2.399}
+{'text': 'statements said', 'start': 128.479, 'duration': 2.241}
+{'text': 'we changed all the world leaders to', 'start': 129.679, 'duration': 2.801}
+{'text': "women there wouldn't be war is inane and", 'start': 130.72, 'duration': 3.68}
+{'text': 'asinine i think for him to say that a', 'start': 132.48, 'duration': 3.28}
+{'text': "man who's physically strong can't be", 'start': 134.4, 'duration': 3.28}
+{'text': 'mentally strong is also stupid but i', 'start': 135.76, 'duration': 3.199}
+{'text': "also understand why he's saying the", 'start': 137.68, 'duration': 2.88}
+{'text': "ideas he's saying because he has a", 'start': 138.959, 'duration': 3.121}
+{'text': 'natural insecurity based on the fact', 'start': 140.56, 'duration': 3.28}
+{'text': "that he's not physical he's the man and", 'start': 142.08, 'duration': 3.519}
+{'text': 'the way he gets around it is to pretend', 'start': 143.84, 'duration': 3.2}
+{'text': "that that's not important which is fine", 'start': 145.599, 'duration': 2.961}
+{'text': 'lots of people do it right stupid people', 'start': 147.04, 'duration': 2.96}
+{'text': "saying being smart it's not important", 'start': 148.56, 'duration': 3.2}
+{'text': 'poor people say me rich is not important', 'start': 150.0, 'duration': 3.12}
+{'text': "it's a common defense mechanism that", 'start': 151.76, 'duration': 2.4}
+{'text': 'everybody does and i completely', 'start': 153.12, 'duration': 3.199}
+{'text': 'understand it however most people with a', 'start': 154.16, 'duration': 4.0}
+{'text': 'basic grasp of economics and the way', 'start': 156.319, 'duration': 3.521}
+{'text': 'societies work would look at society and', 'start': 158.16, 'duration': 3.28}
+{'text': 'say you know what a society with brave', 'start': 159.84, 'duration': 3.6}
+{'text': 'strong men who are full of honor and', 'start': 161.44, 'duration': 3.92}
+{'text': 'duty is actually a better society than', 'start': 163.44, 'duration': 3.519}
+{'text': 'men who walk around saying i have no', 'start': 165.36, 'duration': 2.959}
+{'text': 'duty to protect anybody or protect', 'start': 166.959, 'duration': 2.64}
+{'text': 'anything and i just sit around and cry', 'start': 168.319, 'duration': 3.121}
+{'text': "all day and and we're and this theory is", 'start': 169.599, 'duration': 3.121}
+{'text': 'being tested in real time right', 'start': 171.44, 'duration': 2.799}
+{'text': "america's quickly turning into the", 'start': 172.72, 'duration': 3.12}
+{'text': 'latter and we can see crime rates going', 'start': 174.239, 'duration': 2.481}
+{'text': 'through the roof we can see all the', 'start': 175.84, 'duration': 2.16}
+{'text': '[\xa0__\xa0] schools shooting all this stupid', 'start': 176.72, 'duration': 2.239}
+{'text': "[\xa0__\xa0] that's happening because men have", 'start': 178.0, 'duration': 2.64}
+{'text': "no emotional control anymore and that's", 'start': 178.959, 'duration': 2.961}
+{'text': "what's going to happen because society's", 'start': 180.64, 'duration': 2.8}
+{'text': 'going to degrade and the countries where', 'start': 181.92, 'duration': 3.12}
+{'text': 'men still stick to their honor and their', 'start': 183.44, 'duration': 3.439}
+{'text': 'their age-old', 'start': 185.04, 'duration': 4.479}
+{'text': 'expected ways of of acting are there', 'start': 186.879, 'duration': 4.241}
+{'text': 'going to be a safer societies overall so', 'start': 189.519, 'duration': 2.8}
+{'text': 'time will prove me right but i have', 'start': 191.12, 'duration': 3.759}
+{'text': "nothing against a guy he's fine i think", 'start': 192.319, 'duration': 3.521}
+{'text': 'uh', 'start': 194.879, 'duration': 3.121}
+{'text': 'andrew and the previous person that was', 'start': 195.84, 'duration': 3.92}
+{'text': 'on the call are just two sides of the', 'start': 198.0, 'duration': 3.12}
+{'text': 'same coin', 'start': 199.76, 'duration': 3.44}
+{'text': "uh they're both wrong and they're both", 'start': 201.12, 'duration': 4.56}
+{'text': 'kind of right in different ways but', 'start': 203.2, 'duration': 4.0}
+{'text': 'thinking that this has anything to do', 'start': 205.68, 'duration': 4.32}
+{'text': "with gender is silly all right there's", 'start': 207.2, 'duration': 4.319}
+{'text': 'nothing to do with gender women can be', 'start': 210.0, 'duration': 3.599}
+{'text': 'just as oppressive and as brutal as men', 'start': 211.519, 'duration': 2.961}
+{'text': 'can be', 'start': 213.599, 'duration': 2.321}
+{'text': 'ultimately it has everything to do with', 'start': 214.48, 'duration': 3.119}
+{'text': 'capitalism and it has absolutely nothing', 'start': 215.92, 'duration': 3.52}
+{'text': 'to do with the gender islam has slammed', 'start': 217.599, 'duration': 2.881}
+{'text': 'the assumption that women are going to', 'start': 219.44, 'duration': 2.799}
+{'text': 'be like hysterical across the board that', 'start': 220.48, 'duration': 3.52}
+{'text': 'kind of generalization', 'start': 222.239, 'duration': 4.321}
+{'text': "is just incorrect and that's why andrew", 'start': 224.0, 'duration': 4.56}
+{'text': "i've seen some of your work", 'start': 226.56, 'duration': 3.599}
+{'text': "uh as you're doing the rounds on twitch", 'start': 228.56, 'duration': 3.36}
+{'text': 'here and uh a lot of the things that you', 'start': 230.159, 'duration': 2.961}
+{'text': "said that you've been called out on", 'start': 231.92, 'duration': 2.239}
+{'text': 'specifically in regards to like women', 'start': 233.12, 'duration': 2.8}
+{'text': 'driving as a matter of fact are just', 'start': 234.159, 'duration': 3.36}
+{'text': "generally untrue there's no empirical", 'start': 235.92, 'duration': 2.72}
+{'text': 'evidence to back up those claims which', 'start': 237.519, 'duration': 2.481}
+{'text': 'is why you resort to anecdotes quite', 'start': 238.64, 'duration': 2.799}
+{'text': 'frequently and say things like oh well', 'start': 240.0, 'duration': 3.12}
+{'text': "it's just common sense right but it's", 'start': 241.439, 'duration': 3.201}
+{'text': "not technically common sense it's just", 'start': 243.12, 'duration': 3.28}
+{'text': "your personal opinion completely it's my", 'start': 244.64, 'duration': 2.72}
+{'text': 'personal opinion based on my personal', 'start': 246.4, 'duration': 2.479}
+{'text': 'biases of my life experience when i say', 'start': 247.36, 'duration': 2.72}
+{'text': 'that yeah exactly when i say these', 'start': 248.879, 'duration': 2.08}
+{'text': 'things excellent people agree with me', 'start': 250.08, 'duration': 2.0}
+{'text': "excellent people disagree with me that's", 'start': 250.959, 'duration': 2.321}
+{'text': "fine that's the same of any statement in", 'start': 252.08, 'duration': 2.879}
+{'text': 'the world okay i can say the world is', 'start': 253.28, 'duration': 2.799}
+{'text': 'round and the people people disagree', 'start': 254.959, 'duration': 2.24}
+{'text': "with me that's totally not really fine i", 'start': 256.079, 'duration': 1.761}
+{'text': 'come on here and talk about my own', 'start': 257.199, 'duration': 3.6}
+{'text': 'personal experiences and my experiences', 'start': 257.84, 'duration': 2.959}
+{'text': "you're misunderstanding what i'm saying", 'start': 261.519, 'duration': 3.68}
+{'text': 'there is a truth and then there is your', 'start': 263.199, 'duration': 3.761}
+{'text': 'own personal experiences backed by', 'start': 265.199, 'duration': 3.601}
+{'text': 'anecdotes right or your own personal', 'start': 266.96, 'duration': 3.12}
+{'text': 'opinion back by anecdotes from your own', 'start': 268.8, 'duration': 2.64}
+{'text': 'personal experiences now your own', 'start': 270.08, 'duration': 3.28}
+{'text': 'personal experiences are oftentimes', 'start': 271.44, 'duration': 3.199}
+{'text': 'going to be incorrect', 'start': 273.36, 'duration': 3.2}
+{'text': "and and not close to the reality that's", 'start': 274.639, 'duration': 3.12}
+{'text': "why there's an entire field of", 'start': 276.56, 'duration': 2.8}
+{'text': "statistical analysis that's why we do", 'start': 277.759, 'duration': 3.121}
+{'text': "empirical uh that's why we rely on pure", 'start': 279.36, 'duration': 3.119}
+{'text': "evidence when we're making decisions why", 'start': 280.88, 'duration': 3.36}
+{'text': 'because we all carry a bunch of personal', 'start': 282.479, 'duration': 4.081}
+{'text': 'biases and when we analyze situations we', 'start': 284.24, 'duration': 4.32}
+{'text': 'do not have enough scope to grasp the', 'start': 286.56, 'duration': 3.6}
+{'text': 'entirety of the situation we cannot', 'start': 288.56, 'duration': 4.0}
+{'text': 'comprehend it with our human brains bro', 'start': 290.16, 'duration': 3.44}
+{'text': 'which is why when it comes to women', 'start': 292.56, 'duration': 3.28}
+{'text': "driving it's a funny point because the", 'start': 293.6, 'duration': 3.28}
+{'text': 'truth is different the truth is the', 'start': 295.84, 'duration': 3.359}
+{'text': 'exact opposite woman no no listen', 'start': 296.88, 'duration': 3.92}
+{'text': 'oh you should have finished that oh [\xa0__\xa0]', 'start': 299.199, 'duration': 2.72}
+{'text': 'that was a really really really good', 'start': 300.8, 'duration': 2.16}
+{'text': 'point he should have finished it but he', 'start': 301.919, 'duration': 2.321}
+{'text': "didn't i don't know why statistics can", 'start': 302.96, 'duration': 2.16}
+{'text': "trigger that from mark twain that's the", 'start': 304.24, 'duration': 1.6}
+{'text': 'first thing the second thing is that', 'start': 305.12, 'duration': 2.0}
+{'text': "you're you're right", 'start': 305.84, 'duration': 2.88}
+{'text': 'yeah you can massage a woman no no', 'start': 307.12, 'duration': 3.04}
+{'text': "listen first things first there's lies", 'start': 308.72, 'duration': 2.4}
+{'text': "there's analyzing their statistics and", 'start': 310.16, 'duration': 1.759}
+{'text': "triggered that from mark twain that's", 'start': 311.12, 'duration': 1.6}
+{'text': 'the first thing the second thing is that', 'start': 311.919, 'duration': 2.081}
+{'text': "you're you're right", 'start': 312.72, 'duration': 2.72}
+{'text': 'yeah you can massage numbers but you', 'start': 314.0, 'duration': 2.479}
+{'text': "drive you're deriving your truth from", 'start': 315.44, 'duration': 2.16}
+{'text': "internet study that's fine you can", 'start': 316.479, 'duration': 2.081}
+{'text': 'derive your truth from inner study on a', 'start': 317.6, 'duration': 2.319}
+{'text': 'bunch of different things the truth of', 'start': 318.56, 'duration': 3.12}
+{'text': 'life is the truth experience is', 'start': 319.919, 'duration': 2.881}
+{'text': 'individual that is the only truth that', 'start': 321.68, 'duration': 2.16}
+{'text': 'we all live within you live within your', 'start': 322.8, 'duration': 2.08}
+{'text': 'truth level with my truth because the', 'start': 323.84, 'duration': 2.32}
+{'text': 'truth of experience is individual if you', 'start': 324.88, 'duration': 2.24}
+{'text': 'certain things happen to you over and', 'start': 326.16, 'duration': 2.16}
+{'text': 'over and over and over and over again', 'start': 327.12, 'duration': 2.4}
+{'text': "but the truth on the internet says it's", 'start': 328.32, 'duration': 2.159}
+{'text': "not true that doesn't mean that your", 'start': 329.52, 'duration': 2.399}
+{'text': 'experiences are any less real if you', 'start': 330.479, 'duration': 2.641}
+{'text': 'come here and say that that says your', 'start': 331.919, 'duration': 2.881}
+{'text': 'experiences can be real you could be a', 'start': 333.12, 'duration': 3.2}
+{'text': 'statistical anomaly as a matter of fact', 'start': 334.8, 'duration': 2.56}
+{'text': 'you can be one of those people but more', 'start': 336.32, 'duration': 3.84}
+{'text': 'more often than not more often than that', 'start': 337.36, 'duration': 3.679}
+{'text': "because i keep letting you talk you're", 'start': 340.16, 'duration': 2.08}
+{'text': "finishing your point i'm trying to talk", 'start': 341.039, 'duration': 3.201}
+{'text': "so okay go ahead i'm going to definitely", 'start': 342.24, 'duration': 4.72}
+{'text': "oh my god he's so triggered already", 'start': 344.24, 'duration': 3.92}
+{'text': "you're going on the internet finding", 'start': 346.96, 'duration': 2.079}
+{'text': 'some study and saying that this is the', 'start': 348.16, 'duration': 2.08}
+{'text': 'truth especially after the age of coven', 'start': 349.039, 'duration': 2.481}
+{'text': 'and the [\xa0__\xa0] truth we were told with', 'start': 350.24, 'duration': 2.64}
+{'text': 'that garbage you want to sit here and', 'start': 351.52, 'duration': 2.56}
+{'text': "say oh the internet said x i'm sure the", 'start': 352.88, 'duration': 2.08}
+{'text': "internet did i'm talking about my", 'start': 354.08, 'duration': 1.679}
+{'text': 'personal experiences and some people', 'start': 354.96, 'duration': 2.48}
+{'text': 'agree some people do not', 'start': 355.759, 'duration': 3.28}
+{'text': 'real sciences the entirety of the', 'start': 357.44, 'duration': 3.36}
+{'text': 'insurance industry that relies on making', 'start': 359.039, 'duration': 3.361}
+{'text': 'these sorts of calculations to ensure', 'start': 360.8, 'duration': 2.88}
+{'text': 'that these quotes are as profitable as', 'start': 362.4, 'duration': 3.359}
+{'text': 'possible which ends up uh charging men', 'start': 363.68, 'duration': 3.84}
+{'text': 'higher rates than women is a statistical', 'start': 365.759, 'duration': 3.121}
+{'text': 'likelihood that men are more dangerous', 'start': 367.52, 'duration': 3.119}
+{'text': 'drivers than women across the board and', 'start': 368.88, 'duration': 3.12}
+{'text': 'get into more car accidents across the', 'start': 370.639, 'duration': 2.4}
+{'text': "board if you're gonna look at all of", 'start': 372.0, 'duration': 2.0}
+{'text': "that and say it doesn't matter because", 'start': 373.039, 'duration': 2.081}
+{'text': 'that does not correspond to my own', 'start': 374.0, 'duration': 3.44}
+{'text': 'personal uh my own personal experiences', 'start': 375.12, 'duration': 3.519}
+{'text': "then you're silly you're being silly", 'start': 377.44, 'duration': 2.4}
+{'text': "you're a silly person if everyone", 'start': 378.639, 'duration': 3.041}
+{'text': 'thought like you did right we would have', 'start': 379.84, 'duration': 2.96}
+{'text': 'no scientific achievements on this', 'start': 381.68, 'duration': 2.4}
+{'text': 'planet we would still be living inside', 'start': 382.8, 'duration': 3.119}
+{'text': 'of [\xa0__\xa0] caves and now as much as i', 'start': 384.08, 'duration': 3.6}
+{'text': "love liver king personally i don't think", 'start': 385.919, 'duration': 3.041}
+{'text': 'that uh that would be a good planet to', 'start': 387.68, 'duration': 2.56}
+{'text': "live on i'm pretty happy for i don't", 'start': 388.96, 'duration': 2.079}
+{'text': 'know all the medical achievements all', 'start': 390.24, 'duration': 2.32}
+{'text': "the scientific dreams that we've reached", 'start': 391.039, 'duration': 3.121}
+{'text': 'and at the heart of all of that all of', 'start': 392.56, 'duration': 2.96}
+{'text': 'those accomplishments lies five months', 'start': 394.16, 'duration': 2.879}
+{'text': 'an understanding of arriving at the', 'start': 395.52, 'duration': 5.119}
+{'text': 'truth through empirical evidence', 'start': 397.039, 'duration': 3.6}
+{'text': 'yeah oh cool', 'start': 401.84, 'duration': 6.52}
+{'text': "[\xa0__\xa0] i just realized what's", 'start': 403.84, 'duration': 4.52}
+{'text': 'hassan is going to [\xa0__\xa0] on him actually', 'start': 408.479, 'duration': 3.28}
+{'text': "i've heard different things back and", 'start': 410.0, 'duration': 4.56}
+{'text': 'forth about this conversation um about', 'start': 411.759, 'duration': 4.56}
+{'text': 'hassan shits on entertain or entertain', 'start': 414.56, 'duration': 3.52}
+{'text': 'shits on the sun but i just realized', 'start': 416.319, 'duration': 2.72}
+{'text': 'that hassan is going to shut on', 'start': 418.08, 'duration': 2.64}
+{'text': 'entertaining this conversation because', 'start': 419.039, 'duration': 3.041}
+{'text': 'andrew tate is actually far less', 'start': 420.72, 'duration': 2.8}
+{'text': "intelligent than i thought i don't think", 'start': 422.08, 'duration': 2.64}
+{'text': "he's ever talked to somebody with a", 'start': 423.52, 'duration': 3.04}
+{'text': 'semi-coherent worldview and even if', 'start': 424.72, 'duration': 3.28}
+{'text': 'assange is barely strung together by a', 'start': 426.56, 'duration': 2.8}
+{'text': "bunch of vocalisms it's probably still", 'start': 428.0, 'duration': 4.319}
+{'text': 'more coherent than whatever insane thing', 'start': 429.36, 'duration': 4.32}
+{'text': 'that while i see things so i know the', 'start': 432.319, 'duration': 2.801}
+{'text': "real [\xa0__\xa0] that entertain us that's just", 'start': 433.68, 'duration': 3.68}
+{'text': "a guess though i'm only who knows i mean", 'start': 435.12, 'duration': 4.0}
+{'text': "maybe i'll be totally wrong but he", 'start': 437.36, 'duration': 3.679}
+{'text': 'already seems ultra triggered and hassan', 'start': 439.12, 'duration': 3.28}
+{'text': "hasn't even challenged him that much yet", 'start': 441.039, 'duration': 2.16}
+{'text': "it doesn't seem like anything that", 'start': 442.4, 'duration': 2.72}
+{'text': "challenges even happened yet but let's", 'start': 443.199, 'duration': 3.761}
+{'text': 'see what happens', 'start': 445.12, 'duration': 3.199}
+{'text': 'my personal experiences all the car', 'start': 446.96, 'duration': 2.4}
+{'text': "crashes i've been involved in all the", 'start': 448.319, 'duration': 2.081}
+{'text': 'times my car was hit and all the', 'start': 449.36, 'duration': 3.36}
+{'text': 'negative experiences', 'start': 450.4, 'duration': 3.44}
+{'text': 'that is now you can sit here and say the', 'start': 452.72, 'duration': 2.8}
+{'text': 'insurance claims say that i never said', 'start': 453.84, 'duration': 3.04}
+{'text': "the insurance claims don't say that i'm", 'start': 455.52, 'duration': 2.399}
+{'text': 'saying that i am not comfortable with', 'start': 456.88, 'duration': 2.48}
+{'text': 'women driving because of my personal', 'start': 457.919, 'duration': 2.481}
+{'text': 'experience those are my personal', 'start': 459.36, 'duration': 2.959}
+{'text': 'experiences you can drag up all the', 'start': 460.4, 'duration': 2.88}
+{'text': 'empirical evidence in the world you want', 'start': 462.319, 'duration': 2.32}
+{'text': 'to try and drag up anyone with a brain', 'start': 463.28, 'duration': 2.96}
+{'text': 'knows how that aids the world agendas', 'start': 464.639, 'duration': 2.641}
+{'text': "anyway i don't wanna go to political on", 'start': 466.24, 'duration': 2.72}
+{'text': "a stream that's gonna get taken down so", 'start': 467.28, 'duration': 3.199}
+{'text': "i'm not saying that i can't find a", 'start': 468.96, 'duration': 2.799}
+{'text': "female race car driver i'm not saying", 'start': 470.479, 'duration': 2.72}
+{'text': "that that's not what i'm saying either", 'start': 471.759, 'duration': 2.88}
+{'text': "i'm not talking about i'm not talking", 'start': 473.199, 'duration': 3.84}
+{'text': "about like uh statistical anomalies i'm", 'start': 474.639, 'duration': 4.481}
+{'text': 'straight up talking about the', 'start': 477.039, 'duration': 4.081}
+{'text': 'overwhelming amount of evidence that', 'start': 479.12, 'duration': 3.44}
+{'text': 'suggests that women are more careful', 'start': 481.12, 'duration': 3.919}
+{'text': 'drivers than men okay and therefore', 'start': 482.56, 'duration': 4.4}
+{'text': 'better drivers than men', 'start': 485.039, 'duration': 2.72}
+{'text': 'now', 'start': 486.96, 'duration': 3.28}
+{'text': 'you keep resorting back to uh your', 'start': 487.759, 'duration': 4.641}
+{'text': 'personal anecdotes you under let so let', 'start': 490.24, 'duration': 3.359}
+{'text': 'me walk this let me walk you through', 'start': 492.4, 'duration': 2.239}
+{'text': 'this right', 'start': 493.599, 'duration': 2.72}
+{'text': "do you agree do you agree that's so god", 'start': 494.639, 'duration': 2.721}
+{'text': "doesn't let me walk you through this", 'start': 496.319, 'duration': 2.241}
+{'text': "he's probably getting super triggered", 'start': 497.36, 'duration': 3.2}
+{'text': 'right now the human beings have biases', 'start': 498.56, 'duration': 3.84}
+{'text': 'do me a favor do me a favor okay okay', 'start': 500.56, 'duration': 3.44}
+{'text': 'but hey i respected your time do you', 'start': 502.4, 'duration': 2.639}
+{'text': 'want to answer my question do you', 'start': 504.0, 'duration': 2.96}
+{'text': 'believe that human beings have biases', 'start': 505.039, 'duration': 3.121}
+{'text': "absolutely we're all biased okay", 'start': 506.96, 'duration': 2.48}
+{'text': 'completely do you think that those', 'start': 508.16, 'duration': 3.52}
+{'text': "biases might cloud your judgment it's", 'start': 509.44, 'duration': 3.279}
+{'text': 'not about clouding judgment not just', 'start': 511.68, 'duration': 2.479}
+{'text': 'your personal cloud not just your own', 'start': 512.719, 'duration': 2.56}
+{'text': 'personal judgment do you think our', 'start': 514.159, 'duration': 3.44}
+{'text': 'biases might cloud our personal judgment', 'start': 515.279, 'duration': 3.44}
+{'text': 'i think every single person on earth is', 'start': 517.599, 'duration': 2.8}
+{'text': 'biased and lives within the bible', 'start': 518.719, 'duration': 3.601}
+{'text': 'is absolutely true okay', 'start': 520.399, 'duration': 3.921}
+{'text': 'so if you if you agree with me on both', 'start': 522.32, 'duration': 3.6}
+{'text': "of those accounts look at he's like", 'start': 524.32, 'duration': 2.88}
+{'text': 'locked in like trying to find a', 'start': 525.92, 'duration': 2.56}
+{'text': "contradiction or something on his son's", 'start': 527.2, 'duration': 2.56}
+{'text': 'argument', 'start': 528.48, 'duration': 3.28}
+{'text': 'you understand that your anecdotes your', 'start': 529.76, 'duration': 4.32}
+{'text': 'own personal accumulation of information', 'start': 531.76, 'duration': 3.84}
+{'text': 'is going to be clouded by your own', 'start': 534.08, 'duration': 3.199}
+{'text': "personal biases so you're not going to", 'start': 535.6, 'duration': 3.6}
+{'text': 'be able to assess the information', 'start': 537.279, 'duration': 4.0}
+{'text': 'adequately in the same way that', 'start': 539.2, 'duration': 3.68}
+{'text': 'empirical evidence would this is', 'start': 541.279, 'duration': 4.24}
+{'text': 'precisely why we look at data rather', 'start': 542.88, 'duration': 4.639}
+{'text': 'than make arguments around our wait let', 'start': 545.519, 'duration': 3.361}
+{'text': 'me finish come on i understand what', 'start': 547.519, 'duration': 3.521}
+{'text': "you're saying", 'start': 548.88, 'duration': 2.16}
+{'text': "like five times here everyone's saying", 'start': 551.44, 'duration': 2.88}
+{'text': "kick you you're long in the point you're", 'start': 552.8, 'duration': 2.88}
+{'text': 'saying that the empirical evidence is', 'start': 554.32, 'duration': 2.24}
+{'text': "saying x so it doesn't matter my", 'start': 555.68, 'duration': 2.48}
+{'text': "personal experiences that's fine my", 'start': 556.56, 'duration': 3.2}
+{'text': "point is let me change it let's say that", 'start': 558.16, 'duration': 2.72}
+{'text': "i respect hate though because he's a", 'start': 559.76, 'duration': 3.6}
+{'text': 'fast talker he does talk fast circle', 'start': 560.88, 'duration': 4.16}
+{'text': 'evan says that pitbull is more likely to', 'start': 563.36, 'duration': 3.12}
+{'text': 'bite you than a dalmatian but in your', 'start': 565.04, 'duration': 2.4}
+{'text': 'life experience every time you went', 'start': 566.48, 'duration': 1.919}
+{'text': 'through a dalmatian that bit you and a', 'start': 567.44, 'duration': 2.32}
+{'text': 'pit bull never did are you going to go', 'start': 568.399, 'duration': 2.801}
+{'text': 'up to a dalmatian still completely and', 'start': 569.76, 'duration': 3.28}
+{'text': "go oh it's fine completely unbiased", 'start': 571.2, 'duration': 3.04}
+{'text': 'because the empirical evidence says x', 'start': 573.04, 'duration': 2.4}
+{'text': "when you're covered in scars no you're", 'start': 574.24, 'duration': 2.48}
+{'text': 'going to say dalmatians bite me for some', 'start': 575.44, 'duration': 2.24}
+{'text': "reason and i'm not comfortable around", 'start': 576.72, 'duration': 2.799}
+{'text': "dalmatians that's called this is where", 'start': 577.68, 'duration': 4.159}
+{'text': 'um', 'start': 579.519, 'duration': 2.32}
+{'text': "this is where that there's a saying that", 'start': 582.0, 'duration': 3.6}
+{'text': 'i use sometimes um', 'start': 583.36, 'duration': 4.479}
+{'text': 'that that shows the problems of using', 'start': 585.6, 'duration': 5.359}
+{'text': 'heuristics is um and the saying is that', 'start': 587.839, 'duration': 5.44}
+{'text': 'a cat that touches a hot stove will', 'start': 590.959, 'duration': 4.241}
+{'text': 'never touch a hot stove again but a cat', 'start': 593.279, 'duration': 4.081}
+{'text': 'will also never touch a cold stove again', 'start': 595.2, 'duration': 3.44}
+{'text': 'the issue being that like if you have', 'start': 597.36, 'duration': 2.8}
+{'text': 'one or two bad experiences you might cut', 'start': 598.64, 'duration': 2.48}
+{'text': 'off a whole bunch of potentially', 'start': 600.16, 'duration': 2.32}
+{'text': 'positive experiences because you formed', 'start': 601.12, 'duration': 3.279}
+{'text': 'a bad heuristic so even if you argue', 'start': 602.48, 'duration': 3.52}
+{'text': 'that you can live life using heuristics', 'start': 604.399, 'duration': 3.44}
+{'text': 'those could be maladaptive at some point', 'start': 606.0, 'duration': 3.12}
+{'text': "you're making", 'start': 607.839, 'duration': 3.841}
+{'text': 'bad choices or bad actions based on a', 'start': 609.12, 'duration': 3.68}
+{'text': "bad pattern that you think you've", 'start': 611.68, 'duration': 2.32}
+{'text': 'perceived', 'start': 612.8, 'duration': 2.64}
+{'text': "human nature so i'm telling you my", 'start': 614.0, 'duration': 2.8}
+{'text': "personal experiences and i don't care i", 'start': 615.44, 'duration': 2.8}
+{'text': 'understand your point empirical evidence', 'start': 616.8, 'duration': 3.039}
+{'text': 'says exactly women in this country can', 'start': 618.24, 'duration': 3.2}
+{'text': 'do acts i completely get that for a', 'start': 619.839, 'duration': 2.961}
+{'text': "second it's also country you're only", 'start': 621.44, 'duration': 2.16}
+{'text': "talking about america because you're", 'start': 622.8, 'duration': 1.84}
+{'text': "american you don't see outside of the", 'start': 623.6, 'duration': 2.88}
+{'text': "world that's fine i'm turkish actually i", 'start': 624.64, 'duration': 3.68}
+{'text': "grew up in turkey that's not the point", 'start': 626.48, 'duration': 2.96}
+{'text': "that's not the point i'm making point", 'start': 628.32, 'duration': 4.199}
+{'text': "i'm making", 'start': 629.44, 'duration': 3.079}
+{'text': "that's bad", 'start': 637.839, 'duration': 2.801}
+{'text': "listen bro you're all you americans are", 'start': 639.12, 'duration': 3.44}
+{'text': "the same i'm not american that was", 'start': 640.64, 'duration': 3.28}
+{'text': 'actually a very american thing for', 'start': 642.56, 'duration': 2.64}
+{'text': 'andrew to say', 'start': 643.92, 'duration': 3.2}
+{'text': "which is funny because i think isn't it", 'start': 645.2, 'duration': 3.84}
+{'text': 'from like england or whatever', 'start': 647.12, 'duration': 3.12}
+{'text': 'is to assume that every other person', 'start': 649.04, 'duration': 3.919}
+{'text': "he's talking to is american but", 'start': 650.24, 'duration': 3.839}
+{'text': "i'm uncomfortable with a woman driving", 'start': 652.959, 'duration': 2.481}
+{'text': 'and if you actually ask most women if it', 'start': 654.079, 'duration': 2.481}
+{'text': 'gets late at night or it starts getting', 'start': 655.44, 'duration': 2.72}
+{'text': 'dark or starts raining heavily or the', 'start': 656.56, 'duration': 3.12}
+{'text': 'parking gets difficult they usually ask', 'start': 658.16, 'duration': 2.72}
+{'text': 'the man to drive themselves i know many', 'start': 659.68, 'duration': 2.32}
+{'text': "women who do that they're not offended", 'start': 660.88, 'duration': 2.72}
+{'text': 'by my assumption i know those women go', 'start': 662.0, 'duration': 2.959}
+{'text': "oh i don't want to park you park it", 'start': 663.6, 'duration': 2.16}
+{'text': "there's not a bad thing about it who", 'start': 664.959, 'duration': 1.841}
+{'text': "gives a [\xa0__\xa0] right you're living a big", 'start': 665.76, 'duration': 2.639}
+{'text': "deal you've come on here deciding you", 'start': 666.8, 'duration': 2.719}
+{'text': 'really want to stick up for the chicks', 'start': 668.399, 'duration': 1.921}
+{'text': 'and maybe you know one of them will', 'start': 669.519, 'duration': 2.401}
+{'text': "drive over to your house it's cool we've", 'start': 670.32, 'duration': 3.92}
+{'text': "got better things i don't think", 'start': 671.92, 'duration': 4.0}
+{'text': "i don't think i need to be a male", 'start': 674.24, 'duration': 3.279}
+{'text': 'feminist to be able to attract women', 'start': 675.92, 'duration': 2.4}
+{'text': 'okay', 'start': 677.519, 'duration': 3.121}
+{'text': 'however having said that having said', 'start': 678.32, 'duration': 4.48}
+{'text': 'that that was a funny implication having', 'start': 680.64, 'duration': 5.439}
+{'text': 'said that you are failing to recognize', 'start': 682.8, 'duration': 4.8}
+{'text': 'on looks you could attack somebody like', 'start': 686.079, 'duration': 3.121}
+{'text': "me with that but that's why would you", 'start': 687.6, 'duration': 4.799}
+{'text': 'say that to something like hassan', 'start': 689.2, 'duration': 3.199}
+{'text': "it's kind of funny because i assume", 'start': 693.92, 'duration': 2.24}
+{'text': 'hassan would have gotten crushed in this', 'start': 694.959, 'duration': 2.88}
+{'text': 'conversation because tay could like', 'start': 696.16, 'duration': 5.239}
+{'text': 'threaten his masculinity', 'start': 697.839, 'duration': 3.56}
+{'text': "but i don't actually know how fragile", 'start': 702.64, 'duration': 3.6}
+{'text': "hassan's masculinity is hassan has a lot", 'start': 704.0, 'duration': 4.48}
+{'text': 'of fragility in his life related to his', 'start': 706.24, 'duration': 4.64}
+{'text': 'fame clout money all of that [\xa0__\xa0]', 'start': 708.48, 'duration': 4.159}
+{'text': "audience streaming i don't know if", 'start': 710.88, 'duration': 3.28}
+{'text': 'hassan has fragility about his', 'start': 712.639, 'duration': 5.041}
+{'text': 'masculinity though whereas kate', 'start': 714.16, 'duration': 4.96}
+{'text': 'i feel like a lot of these ideologies', 'start': 717.68, 'duration': 2.88}
+{'text': 'sometimes can be wrapped up in a lot of', 'start': 719.12, 'duration': 3.6}
+{'text': 'male fragility', 'start': 720.56, 'duration': 3.68}
+{'text': "so it's kind of funny to watch him throw", 'start': 722.72, 'duration': 3.84}
+{'text': "that like you're a virgin at like hassan", 'start': 724.24, 'duration': 4.48}
+{'text': "and it's like bro", 'start': 726.56, 'duration': 4.399}
+{'text': 'come on dude like even if it was true', 'start': 728.72, 'duration': 3.679}
+{'text': "just like look at him that's not an", 'start': 730.959, 'duration': 3.921}
+{'text': 'insult that you can use', 'start': 732.399, 'duration': 4.721}
+{'text': 'guys what i am trying to say i walk you', 'start': 734.88, 'duration': 4.72}
+{'text': 'through these steps slowly but surely', 'start': 737.12, 'duration': 3.92}
+{'text': 'the thing is the dalmatian example that', 'start': 739.6, 'duration': 3.039}
+{'text': 'you gave is great', 'start': 741.04, 'duration': 3.919}
+{'text': "why is it great he's also like his son", 'start': 742.639, 'duration': 3.76}
+{'text': 'is just like son looks almost like', 'start': 744.959, 'duration': 3.68}
+{'text': "artistically like bro i'm just trying to", 'start': 746.399, 'duration': 3.68}
+{'text': 'talk to you about this thing and i just', 'start': 748.639, 'duration': 2.64}
+{'text': "want to let you know blah blah blah it's", 'start': 750.079, 'duration': 2.161}
+{'text': "like i don't know i don't know what you", 'start': 751.279, 'duration': 2.721}
+{'text': 'said', 'start': 752.24, 'duration': 3.279}
+{'text': "like this guy's like losing he's like", 'start': 754.0, 'duration': 2.48}
+{'text': 'like', 'start': 755.519, 'duration': 3.361}
+{'text': "he's losing it too", 'start': 756.48, 'duration': 4.24}
+{'text': 'because', 'start': 758.88, 'duration': 4.079}
+{'text': 'you are creating now a hypothetical', 'start': 760.72, 'duration': 4.64}
+{'text': 'scenario in which you want your opponent', 'start': 762.959, 'duration': 4.721}
+{'text': 'to concede i can do the exact same thing', 'start': 765.36, 'duration': 4.4}
+{'text': 'and say well in my personal experience', 'start': 767.68, 'duration': 4.32}
+{'text': 'dalmatians never bite or pitbulls never', 'start': 769.76, 'duration': 3.28}
+{'text': 'bite whichever one you thought was the', 'start': 772.0, 'duration': 2.56}
+{'text': 'more aggressive breed right in my', 'start': 773.04, 'duration': 3.28}
+{'text': 'personal experience what if in a million', 'start': 774.56, 'duration': 3.6}
+{'text': 'times that i have bred pit bulls or been', 'start': 776.32, 'duration': 3.04}
+{'text': 'around pitbulls not a single one of them', 'start': 778.16, 'duration': 3.04}
+{'text': 'has ever been aggressive we will never', 'start': 779.36, 'duration': 3.84}
+{'text': 'be able to arrive at a meaningful', 'start': 781.2, 'duration': 3.199}
+{'text': 'solution or a resolution to this', 'start': 783.2, 'duration': 3.6}
+{'text': "conversation if we're both operating on", 'start': 784.399, 'duration': 4.24}
+{'text': 'personal anecdotes and hypotheticals', 'start': 786.8, 'duration': 3.839}
+{'text': 'that is not how you can conduct an', 'start': 788.639, 'duration': 3.921}
+{'text': "appropriate debate good so now you're", 'start': 790.639, 'duration': 3.2}
+{'text': 'saying the thing i just said i have my', 'start': 792.56, 'duration': 2.56}
+{'text': 'own biases my personal experiences and i', 'start': 793.839, 'duration': 2.401}
+{'text': 'say them some people disagree and some', 'start': 795.12, 'duration': 2.399}
+{'text': "people agree and i don't care you know", 'start': 796.24, 'duration': 2.399}
+{'text': 'come along', 'start': 797.519, 'duration': 2.401}
+{'text': "wrong though because i'm not operating", 'start': 798.639, 'duration': 2.481}
+{'text': 'on biases when i talk about women', 'start': 799.92, 'duration': 2.719}
+{'text': "driving i'm talking about the empirical", 'start': 801.12, 'duration': 2.959}
+{'text': 'evidence i might have personally thought', 'start': 802.639, 'duration': 2.801}
+{'text': 'women are worse at driving than men as', 'start': 804.079, 'duration': 3.44}
+{'text': 'well but once you arrive at once you', 'start': 805.44, 'duration': 4.079}
+{'text': 'look at the evidence and you realize', 'start': 807.519, 'duration': 3.76}
+{'text': 'that uh said evidence suggests something', 'start': 809.519, 'duration': 3.201}
+{'text': "else you're probably not going to", 'start': 811.279, 'duration': 2.721}
+{'text': 'continue believing the prior thing that', 'start': 812.72, 'duration': 2.48}
+{'text': 'you believed right', 'start': 814.0, 'duration': 2.88}
+{'text': 'we went over the same point like five', 'start': 815.2, 'duration': 3.439}
+{'text': "times i know but it's just it's just", 'start': 816.88, 'duration': 3.44}
+{'text': "weird because i can't like i can't break", 'start': 818.639, 'duration': 3.841}
+{'text': 'through uh', 'start': 820.32, 'duration': 3.519}
+{'text': 'this dude is like', 'start': 822.48, 'duration': 2.88}
+{'text': "now they're like both talking over them", 'start': 823.839, 'duration': 3.12}
+{'text': "and he's like trying to scream and get", 'start': 825.36, 'duration': 3.279}
+{'text': "some [\xa0__\xa0] word and he's so mad down", 'start': 826.959, 'duration': 4.0}
+{'text': "here andrew's uh wait wait watch", 'start': 828.639, 'duration': 3.76}
+{'text': 'watch watch when this guy starts talking', 'start': 830.959, 'duration': 2.641}
+{'text': "look at the evidence he's like no we're", 'start': 832.399, 'duration': 2.321}
+{'text': "not done i'm trying i'm trying to talk", 'start': 833.6, 'duration': 2.239}
+{'text': 'watch watch him down here look at how', 'start': 834.72, 'duration': 3.04}
+{'text': "mad he's going you realize that uh said", 'start': 835.839, 'duration': 3.841}
+{'text': "evidence suggests something else you're", 'start': 837.76, 'duration': 3.199}
+{'text': 'probably not going to continue believing', 'start': 839.68, 'duration': 3.519}
+{'text': 'the prior thing that you believed right', 'start': 840.959, 'duration': 3.521}
+{'text': 'we went over the same point like five', 'start': 843.199, 'duration': 2.0}
+{'text': 'times', 'start': 844.48, 'duration': 1.919}
+{'text': "i know but it's just it's just weird", 'start': 845.199, 'duration': 2.721}
+{'text': "because i can't like i can't break", 'start': 846.399, 'duration': 3.68}
+{'text': "through uh andrew's uh i understand your", 'start': 847.92, 'duration': 3.039}
+{'text': "point you're saying that you're always", 'start': 850.079, 'duration': 3.521}
+{'text': "here we're losing the girl no no exactly", 'start': 850.959, 'duration': 4.161}
+{'text': "i won't talk to her he's saying", 'start': 853.6, 'duration': 2.56}
+{'text': 'even if i thought women were worse', 'start': 855.12, 'duration': 2.48}
+{'text': "drivers i've seen oracle evidence and", 'start': 856.16, 'duration': 2.88}
+{'text': "i'm so smart that i ignore my own eyes", 'start': 857.6, 'duration': 2.32}
+{'text': 'and ears and believe what the internet', 'start': 859.04, 'duration': 1.919}
+{'text': "tells me that's weird that's not what", 'start': 859.92, 'duration': 2.479}
+{'text': "i'm asking you to do my friend i'm sure", 'start': 860.959, 'duration': 2.721}
+{'text': "you're double vaccinated it all makes", 'start': 862.399, 'duration': 2.401}
+{'text': "sense to me now you believe what you're", 'start': 863.68, 'duration': 2.24}
+{'text': "told to believe you don't believe your", 'start': 864.8, 'duration': 2.24}
+{'text': 'own patients', 'start': 865.92, 'duration': 1.919}
+{'text': "unless you're gonna sit here and talk", 'start': 867.04, 'duration': 1.76}
+{'text': 'about empirical evidence that you found', 'start': 867.839, 'duration': 2.24}
+{'text': 'on google cool if you believe everything', 'start': 868.8, 'duration': 2.32}
+{'text': "that's on google that is your", 'start': 870.079, 'duration': 2.241}
+{'text': 'prerogative my friend if you think what', 'start': 871.12, 'duration': 2.24}
+{'text': 'makes you sound smart in the modern', 'start': 872.32, 'duration': 2.16}
+{'text': "world after the three years you've just", 'start': 873.36, 'duration': 2.32}
+{'text': 'been through to say that i read a piece', 'start': 874.48, 'duration': 2.32}
+{'text': 'of paper that tells me to believe so i', 'start': 875.68, 'duration': 2.399}
+{'text': 'believe x and i ignore my own personal', 'start': 876.8, 'duration': 2.479}
+{'text': "experiences and you're going to i'm not", 'start': 878.079, 'duration': 2.401}
+{'text': 'asking you to ignore your own personal', 'start': 879.279, 'duration': 3.041}
+{'text': "experiences i'm simply asking you to", 'start': 880.48, 'duration': 3.12}
+{'text': 'look at the data', 'start': 882.32, 'duration': 2.4}
+{'text': "so let's change the subject because", 'start': 883.6, 'duration': 2.96}
+{'text': "you've just proven the point okay andrew", 'start': 884.72, 'duration': 3.76}
+{'text': "do you believe well i didn't i didn't", 'start': 886.56, 'duration': 3.2}
+{'text': "you didn't really prove anything but", 'start': 888.48, 'duration': 2.67}
+{'text': "it's cool", 'start': 889.76, 'duration': 6.08}
+{'text': '[Laughter]', 'start': 891.15, 'duration': 4.69}
+{'text': "you didn't really prove anything but", 'start': 896.16, 'duration': 3.039}
+{'text': "that's cool", 'start': 897.36, 'duration': 4.0}
+{'text': 'i need to steal that actually oh my god', 'start': 899.199, 'duration': 3.681}
+{'text': 'i think i just learned a debate tactic', 'start': 901.36, 'duration': 4.88}
+{'text': 'from hassan instead of saying okay', 'start': 902.88, 'duration': 5.199}
+{'text': "i'm gonna start saying that's cool and", 'start': 906.24, 'duration': 3.599}
+{'text': 'then move on to the next thing', 'start': 908.079, 'duration': 4.721}
+{'text': "that's a sick [\xa0__\xa0]", 'start': 909.839, 'duration': 4.881}
+{'text': "that's a sick [\xa0__\xa0] debate tactic", 'start': 912.8, 'duration': 4.479}
+{'text': "that's cool", 'start': 914.72, 'duration': 2.559}
+{'text': 'do you believe the earth is is spherical', 'start': 917.68, 'duration': 5.04}
+{'text': 'round', 'start': 920.32, 'duration': 2.4}
+{'text': 'two yes', 'start': 924.399, 'duration': 3.521}
+{'text': 'oh he took his headphones off he gets', 'start': 926.48, 'duration': 2.56}
+{'text': 'very stressed sometimes and you know', 'start': 927.92, 'duration': 2.8}
+{'text': "yeah yeah it's cool it's important you", 'start': 929.04, 'duration': 3.12}
+{'text': "know sometimes you can't take the heat", 'start': 930.72, 'duration': 2.479}
+{'text': "sometimes you can't take the heat so you", 'start': 932.16, 'duration': 3.2}
+{'text': 'gotta hold on how are you like an ultra', 'start': 933.199, 'duration': 4.08}
+{'text': 'manly manly manly man', 'start': 935.36, 'duration': 3.44}
+{'text': "and you're like", 'start': 937.279, 'duration': 3.521}
+{'text': "you're like stressed out and vaping and", 'start': 938.8, 'duration': 3.44}
+{'text': 'taking your headphones off in the in a', 'start': 940.8, 'duration': 4.56}
+{'text': '[\xa0__\xa0] internet debate', 'start': 942.24, 'duration': 3.12}
+{'text': "what's", 'start': 946.959, 'duration': 3.761}
+{'text': 'out of the kitchen a little bit', 'start': 949.12, 'duration': 2.8}
+{'text': 'um andrew do you believe the earth is', 'start': 950.72, 'duration': 3.679}
+{'text': 'flat around spherical globe', 'start': 951.92, 'duration': 3.359}
+{'text': "what time do you believe it's around", 'start': 954.399, 'duration': 2.88}
+{'text': 'right but when you walk outside it feels', 'start': 955.279, 'duration': 3.441}
+{'text': "like it's flat", 'start': 957.279, 'duration': 3.761}
+{'text': 'brother brother i i i it looks flat it', 'start': 958.72, 'duration': 3.6}
+{'text': "feels flat but you believe it's around", 'start': 961.04, 'duration': 3.599}
+{'text': 'why do you believe the earth is round', 'start': 962.32, 'duration': 3.92}
+{'text': 'because i have personal experience that', 'start': 964.639, 'duration': 2.801}
+{'text': 'would prove to me that the earth is', 'start': 966.24, 'duration': 2.8}
+{'text': 'around oh your personal experience what', 'start': 967.44, 'duration': 2.8}
+{'text': 'happened did you go up', 'start': 969.04, 'duration': 4.479}
+{'text': 'why would you do this', 'start': 970.24, 'duration': 3.279}
+{'text': "it's like", 'start': 974.32, 'duration': 2.4}
+{'text': 'hasano is like the 85 iq debater but', 'start': 978.24, 'duration': 5.68}
+{'text': 'like versus like a 65 iq debater where', 'start': 980.959, 'duration': 4.56}
+{'text': "as honestly i'm going to get him with", 'start': 983.92, 'duration': 3.359}
+{'text': 'this example and then i was like do you', 'start': 985.519, 'duration': 3.601}
+{'text': 'think the earth is round or not but tate', 'start': 987.279, 'duration': 3.041}
+{'text': 'is actually like', 'start': 989.12, 'duration': 2.0}
+{'text': 'well', 'start': 990.32, 'duration': 2.639}
+{'text': "i know it's round because i go i went up", 'start': 991.12, 'duration': 5.639}
+{'text': 'high enough to see it', 'start': 992.959, 'duration': 3.8}
+{'text': 'up to the [\xa0__\xa0] moon is that how you', 'start': 998.639, 'duration': 2.88}
+{'text': 'figured it out actually i flew up into', 'start': 999.92, 'duration': 4.159}
+{'text': 'space and i looked down over here', 'start': 1001.519, 'duration': 4.32}
+{'text': "it's crazy okay you don't have to hey", 'start': 1004.079, 'duration': 2.801}
+{'text': "listen you don't have to concede on that", 'start': 1005.839, 'duration': 2.0}
+{'text': 'point but i think you and i both', 'start': 1006.88, 'duration': 2.879}
+{'text': 'understand the importance of scientific', 'start': 1007.839, 'duration': 3.44}
+{'text': 'uh the importance of empirical evidence', 'start': 1009.759, 'duration': 4.64}
+{'text': 'in that one right or or you know', 'start': 1011.279, 'duration': 3.12}
+{'text': "and i thought wow this guy wow okay he's", 'start': 1014.56, 'duration': 3.04}
+{'text': 'going to ruin the stream we had a hot', 'start': 1016.32, 'duration': 2.72}
+{'text': "chick now we're here is that what you", 'start': 1017.6, 'duration': 2.239}
+{'text': 'thought', 'start': 1019.04, 'duration': 3.12}
+{'text': "just just just chill out like it's", 'start': 1019.839, 'duration': 3.521}
+{'text': "so what's up is it a little bit more", 'start': 1022.16, 'duration': 2.799}
+{'text': "difficult when i'm not like uh the", 'start': 1023.36, 'duration': 4.0}
+{'text': 'traditional like sjw looking person is', 'start': 1024.959, 'duration': 4.401}
+{'text': 'that why it feels like the stream is a', 'start': 1027.36, 'duration': 3.439}
+{'text': "little bit more ruined no it's not", 'start': 1029.36, 'duration': 2.479}
+{'text': "difficult as a professional i'll tell", 'start': 1030.799, 'duration': 1.921}
+{'text': 'you the conversation we just had yeah', 'start': 1031.839, 'duration': 2.161}
+{'text': "you dude you've been kicked in the face", 'start': 1032.72, 'duration': 2.719}
+{'text': "and stuff like i'm sure you can handle", 'start': 1034.0, 'duration': 2.64}
+{'text': 'little old me', 'start': 1035.439, 'duration': 3.921}
+{'text': 'exactly so dude this guy is getting', 'start': 1036.64, 'duration': 5.36}
+{'text': "[\xa0__\xa0] ultra mog he's getting so", 'start': 1039.36, 'duration': 5.28}
+{'text': "triggered right now holy [\xa0__\xa0] that's a", 'start': 1042.0, 'duration': 4.0}
+{'text': 'professional conversation we just had i', 'start': 1044.64, 'duration': 2.399}
+{'text': "said i'm biased and i don't believe", 'start': 1046.0, 'duration': 2.079}
+{'text': "women can drive that's my personal", 'start': 1047.039, 'duration': 2.241}
+{'text': "experience i don't care if anyone agrees", 'start': 1048.079, 'duration': 2.321}
+{'text': 'i came along', 'start': 1049.28, 'duration': 2.32}
+{'text': "don't interrupt me you came along and", 'start': 1050.4, 'duration': 3.04}
+{'text': "said no that's not true because of the", 'start': 1051.6, 'duration': 3.12}
+{'text': "evidence i came and said i don't care", 'start': 1053.44, 'duration': 2.32}
+{'text': 'what the evidence my personal experience', 'start': 1054.72, 'duration': 2.16}
+{'text': 'you said i also have personal', 'start': 1055.76, 'duration': 2.24}
+{'text': "experiences and we're all biased i", 'start': 1056.88, 'duration': 2.4}
+{'text': 'agreed then you said even if i had', 'start': 1058.0, 'duration': 2.559}
+{'text': 'personal experiences that said x i would', 'start': 1059.28, 'duration': 2.24}
+{'text': 'ignore them because the internet told me', 'start': 1060.559, 'duration': 2.081}
+{'text': "to believe why i believe what i'm saying", 'start': 1061.52, 'duration': 2.72}
+{'text': "that's not what i said i said that", 'start': 1062.64, 'duration': 3.6}
+{'text': 'regardless of my own personal biases', 'start': 1064.24, 'duration': 3.92}
+{'text': 'that i might have evidence is still more', 'start': 1066.24, 'duration': 4.96}
+{'text': 'important than my personal biases', 'start': 1068.16, 'duration': 4.399}
+{'text': "to senator hassan's arguments", 'start': 1071.2, 'duration': 3.839}
+{'text': 'philosophically here more what hassan is', 'start': 1072.559, 'duration': 3.521}
+{'text': 'saying is', 'start': 1075.039, 'duration': 3.041}
+{'text': 'tate is saying i have my own biases and', 'start': 1076.08, 'duration': 3.76}
+{'text': 'assange is saying yes and then saying', 'start': 1078.08, 'duration': 3.2}
+{'text': 'you have your own biases', 'start': 1079.84, 'duration': 3.76}
+{'text': "hassan is saying yes it's not he said", 'start': 1081.28, 'duration': 3.44}
+{'text': "this in the beginning but i don't think", 'start': 1083.6, 'duration': 2.959}
+{'text': 'he realized philosophically where what', 'start': 1084.72, 'duration': 3.199}
+{'text': 'he was actually getting at what hassan', 'start': 1086.559, 'duration': 4.081}
+{'text': 'shoulda said is independent of you or my', 'start': 1087.919, 'duration': 4.88}
+{'text': "mind's biases we agree that there is a", 'start': 1090.64, 'duration': 3.76}
+{'text': 'fact of the matter right', 'start': 1092.799, 'duration': 4.0}
+{'text': 'like there is objectively a correct', 'start': 1094.4, 'duration': 4.08}
+{'text': 'answer to the question who are better', 'start': 1096.799, 'duration': 3.441}
+{'text': 'drivers men or women there is this there', 'start': 1098.48, 'duration': 3.68}
+{'text': 'is an objective factor an objective fact', 'start': 1100.24, 'duration': 3.84}
+{'text': 'there independent of our own biases how', 'start': 1102.16, 'duration': 3.12}
+{'text': 'do we figure out that fact how do we', 'start': 1104.08, 'duration': 3.2}
+{'text': 'discover that fact', 'start': 1105.28, 'duration': 3.2}
+{'text': "philosophically that's where they're", 'start': 1107.28, 'duration': 2.88}
+{'text': "headed for zone isn't more correct here", 'start': 1108.48, 'duration': 3.6}
+{'text': "than tata's or hassan is completely", 'start': 1110.16, 'duration': 3.12}
+{'text': "correct he just doesn't know how to", 'start': 1112.08, 'duration': 4.32}
+{'text': 'verbalize it well but', 'start': 1113.28, 'duration': 3.12}
+{'text': "it's boring and you've lost and it's", 'start': 1116.799, 'duration': 2.801}
+{'text': "boring so let's just move on to the", 'start': 1118.32, 'duration': 2.239}
+{'text': 'subject', 'start': 1119.6, 'duration': 2.0}
+{'text': "is that what happens you just say i'm", 'start': 1120.559, 'duration': 2.48}
+{'text': 'boring and i lost and then you win is', 'start': 1121.6, 'duration': 3.199}
+{'text': 'that what it is paul do a poll in the', 'start': 1123.039, 'duration': 2.961}
+{'text': "chat if you won then we'll continue to", 'start': 1124.799, 'duration': 2.721}
+{'text': "talk it but i'm sure you've lost and i", 'start': 1126.0, 'duration': 3.039}
+{'text': 'think that', 'start': 1127.52, 'duration': 4.0}
+{'text': 'on the words if we were reading a text', 'start': 1129.039, 'duration': 4.561}
+{'text': 'of like both of those i might say that', 'start': 1131.52, 'duration': 6.08}
+{'text': 'the conversation is maybe even but um', 'start': 1133.6, 'duration': 7.68}
+{'text': "tate is like so unhinged he's so upset", 'start': 1137.6, 'duration': 6.8}
+{'text': "he's like so mad", 'start': 1141.28, 'duration': 6.88}
+{'text': 'i wonder i wonder if we missed something', 'start': 1144.4, 'duration': 3.76}
+{'text': 'i wonder if we missed something', 'start': 1149.039, 'duration': 3.361}
+{'text': 'that happened earlier because he was so', 'start': 1151.039, 'duration': 2.721}
+{'text': 'much more chill during the xqc', 'start': 1152.4, 'duration': 3.84}
+{'text': "conversation and he's like ultra ass mad", 'start': 1153.76, 'duration': 3.84}
+{'text': 'right now', 'start': 1156.24, 'duration': 2.24}
+{'text': 'do you do you want me to leave the', 'start': 1157.6, 'duration': 2.16}
+{'text': 'conversation that desperately andrew it', 'start': 1158.48, 'duration': 2.16}
+{'text': "seems like you're running away a little", 'start': 1159.76, 'duration': 1.68}
+{'text': 'bit', 'start': 1160.64, 'duration': 5.08}
+{'text': 'never any circle okay yeah', 'start': 1161.44, 'duration': 4.28}
+{'text': 'the importance of science and and', 'start': 1166.16, 'duration': 4.16}
+{'text': "andrew's personal biases andrew can you", 'start': 1168.24, 'duration': 3.36}
+{'text': 'tell me a little bit about uh the', 'start': 1170.32, 'duration': 3.12}
+{'text': 'hustlers university whatever that is not', 'start': 1171.6, 'duration': 3.199}
+{'text': 'in a promotional capacity i know that', 'start': 1173.44, 'duration': 2.72}
+{'text': "like you're doing the rounds on twitch i", 'start': 1174.799, 'duration': 3.201}
+{'text': 'wonder if tate has answered the question', 'start': 1176.16, 'duration': 3.759}
+{'text': 'about like the earth ship before like i', 'start': 1178.0, 'duration': 3.679}
+{'text': 'wonder if hassan has all this prepared', 'start': 1179.919, 'duration': 3.12}
+{'text': 'ahead of time too', 'start': 1181.679, 'duration': 2.481}
+{'text': "and i know that that's probably giving", 'start': 1183.039, 'duration': 2.88}
+{'text': 'you a big boost but i want to understand', 'start': 1184.16, 'duration': 3.6}
+{'text': 'you know because you are a businessman i', 'start': 1185.919, 'duration': 3.281}
+{'text': 'want to understand how you generate', 'start': 1187.76, 'duration': 3.2}
+{'text': 'revenue uh is it okay to get this', 'start': 1189.2, 'duration': 2.88}
+{'text': 'information for free or do i have to pay', 'start': 1190.96, 'duration': 2.8}
+{'text': '50 and then maybe get an affiliate link', 'start': 1192.08, 'duration': 3.44}
+{'text': 'and get other people to also join so i', 'start': 1193.76, 'duration': 3.36}
+{'text': 'can make a 10 cut off of them also', 'start': 1195.52, 'duration': 3.519}
+{'text': 'joining hustlers university you can find', 'start': 1197.12, 'duration': 2.72}
+{'text': 'everything on the website and you can', 'start': 1199.039, 'duration': 2.401}
+{'text': "join more information that's fine but", 'start': 1199.84, 'duration': 2.24}
+{'text': "you don't want to you don't want to", 'start': 1201.44, 'duration': 1.92}
+{'text': 'share this information for free right', 'start': 1202.08, 'duration': 2.64}
+{'text': "now you don't want to educate me on that", 'start': 1203.36, 'duration': 2.72}
+{'text': "i don't want to sit here and spend the", 'start': 1204.72, 'duration': 2.8}
+{'text': 'next hour are you trying to accuse me of', 'start': 1206.08, 'duration': 3.36}
+{'text': "some [\xa0__\xa0] i'm not i'm not i'm here", 'start': 1207.52, 'duration': 4.159}
+{'text': 'to learn andrew you are a brilliant mind', 'start': 1209.44, 'duration': 3.599}
+{'text': 'maybe a little rattled maybe a little', 'start': 1211.679, 'duration': 3.041}
+{'text': 'rattled from the the numerous', 'start': 1213.039, 'duration': 3.921}
+{'text': 'concussions but brilliant nonetheless so', 'start': 1214.72, 'duration': 3.68}
+{'text': 'i want to hear more about your business', 'start': 1216.96, 'duration': 3.04}
+{'text': "strategy if possible it's actually quite", 'start': 1218.4, 'duration': 2.48}
+{'text': 'interesting that people are too scared', 'start': 1220.0, 'duration': 1.76}
+{'text': 'to get in the ring try to make fun of', 'start': 1220.88, 'duration': 2.32}
+{'text': 'people who have bravery to try and make', 'start': 1221.76, 'duration': 2.799}
+{'text': "fun of them i do think it's very brave i", 'start': 1223.2, 'duration': 2.64}
+{'text': "do think i do think it's very great all", 'start': 1224.559, 'duration': 2.561}
+{'text': "right so let's not let's not let's not", 'start': 1225.84, 'duration': 2.56}
+{'text': 'detract the bravery of men who do things', 'start': 1227.12, 'duration': 2.16}
+{'text': "you're afraid to do that's the first", 'start': 1228.4, 'duration': 2.399}
+{'text': 'thing no no you you are absolutely', 'start': 1229.28, 'duration': 3.12}
+{'text': 'incredibly brave you still might have', 'start': 1230.799, 'duration': 3.681}
+{'text': 'cte but you are incredibly brave i i i', 'start': 1232.4, 'duration': 4.399}
+{'text': "appreciate it i mean whatever it's fine", 'start': 1234.48, 'duration': 4.0}
+{'text': "uh the point i'm trying to make he just", 'start': 1236.799, 'duration': 4.721}
+{'text': 'takes the l on it and moves on', 'start': 1238.48, 'duration': 4.319}
+{'text': "let's sit here and talk about hate you", 'start': 1241.52, 'duration': 2.24}
+{'text': "and try and break it down and you've", 'start': 1242.799, 'duration': 2.321}
+{'text': 'prepared a bunch of notes successfully i', 'start': 1243.76, 'duration': 3.2}
+{'text': "have no notes whatsoever i'm a dumbass i", 'start': 1245.12, 'duration': 3.36}
+{'text': "don't know anything i think he did have", 'start': 1246.96, 'duration': 3.36}
+{'text': "notes but this is talking about i'm", 'start': 1248.48, 'duration': 4.559}
+{'text': 'simply here to learn from you', 'start': 1250.32, 'duration': 4.08}
+{'text': "no i'm literally but that's the truth", 'start': 1253.039, 'duration': 3.52}
+{'text': "you're being so sarcastic though like oh", 'start': 1254.4, 'duration': 3.68}
+{'text': "he's trying to stick up for his poor", 'start': 1256.559, 'duration': 4.48}
+{'text': 'buddy he sees it like', 'start': 1258.08, 'duration': 2.959}
+{'text': "he sees that he's like [\xa0__\xa0] mogging", 'start': 1261.28, 'duration': 3.84}
+{'text': "the [\xa0__\xa0] out of his poor friend i've", 'start': 1263.52, 'duration': 3.68}
+{'text': "been so sarcastic i'm not i'm literally", 'start': 1265.12, 'duration': 3.439}
+{'text': 'oh come on come on come on come on come', 'start': 1267.2, 'duration': 4.08}
+{'text': "on come on i'm asking questions", 'start': 1268.559, 'duration': 4.161}
+{'text': 'like listen', 'start': 1271.28, 'duration': 2.879}
+{'text': "it's pretty clear", 'start': 1272.72, 'duration': 3.76}
+{'text': "that i was the better hassan so that's", 'start': 1274.159, 'duration': 3.841}
+{'text': 'agreed i agree with that one if you', 'start': 1276.48, 'duration': 2.559}
+{'text': 'could just', 'start': 1278.0, 'duration': 2.559}
+{'text': 'get out the call maybe it would fix the', 'start': 1279.039, 'duration': 3.12}
+{'text': 'stream uh-huh', 'start': 1280.559, 'duration': 2.881}
+{'text': 'would you guys if you guys would like me', 'start': 1282.159, 'duration': 2.4}
+{'text': "to leave the call i can do that i don't", 'start': 1283.44, 'duration': 2.0}
+{'text': "want to be i'm going to be really going", 'start': 1284.559, 'duration': 2.24}
+{'text': 'to get back to work', 'start': 1285.44, 'duration': 2.88}
+{'text': 'i do not want to be rude boys uh you', 'start': 1286.799, 'duration': 3.681}
+{'text': 'know this is your stream uh andrew uh', 'start': 1288.32, 'duration': 3.68}
+{'text': "i'd love to talk to you in more detail", 'start': 1290.48, 'duration': 3.36}
+{'text': "if you'd like to i hope that one day you", 'start': 1292.0, 'duration': 3.679}
+{'text': 'can uh educate me on your your revenue', 'start': 1293.84, 'duration': 4.24}
+{'text': "strategies uh i mean it's it's", 'start': 1295.679, 'duration': 3.441}
+{'text': 'it does look a little bad though if', 'start': 1298.08, 'duration': 2.4}
+{'text': "you're like if you feel as though i", 'start': 1299.12, 'duration': 2.799}
+{'text': 'should leave the call because you feel', 'start': 1300.48, 'duration': 3.28}
+{'text': "like i'm overpowering you a little bit", 'start': 1301.919, 'duration': 3.201}
+{'text': 'you should stay on the call but i think', 'start': 1303.76, 'duration': 3.68}
+{'text': 'you should be more socially aware', 'start': 1305.12, 'duration': 3.76}
+{'text': 'is that a bad question do you not', 'start': 1307.44, 'duration': 3.119}
+{'text': 'educate thousands of young men about', 'start': 1308.88, 'duration': 2.72}
+{'text': 'your business strategies i want to know', 'start': 1310.559, 'duration': 2.641}
+{'text': 'more around that okay i want you to be', 'start': 1311.6, 'duration': 2.88}
+{'text': 'more socially aware and understand that', 'start': 1313.2, 'duration': 2.24}
+{'text': "since you've joined the stream", 'start': 1314.48, 'duration': 2.4}
+{'text': "everyone's begging for you to leave the", 'start': 1315.44, 'duration': 3.359}
+{'text': "vibe's down it's boring it's it's late", 'start': 1316.88, 'duration': 3.279}
+{'text': 'at night for me i came here to have fun', 'start': 1318.799, 'duration': 2.401}
+{'text': "you're being boring no one thinks you're", 'start': 1320.159, 'duration': 1.921}
+{'text': "cool no things are intelligent don't", 'start': 1321.2, 'duration': 2.24}
+{'text': "think you're funny i don't think i'm", 'start': 1322.08, 'duration': 2.56}
+{'text': 'cool or intelligent i just have', 'start': 1323.44, 'duration': 2.239}
+{'text': "questions and you're not answering them", 'start': 1324.64, 'duration': 3.12}
+{'text': 'for some reason why are we derailing i', 'start': 1325.679, 'duration': 3.041}
+{'text': "don't have to answer your questions", 'start': 1327.76, 'duration': 2.159}
+{'text': "you're not the police i don't answer you", 'start': 1328.72, 'duration': 2.88}
+{'text': 'no no not at all no i am not the uk', 'start': 1329.919, 'duration': 3.361}
+{'text': "police nor the romanian one i'm simply", 'start': 1331.6, 'duration': 4.079}
+{'text': 'asking you questions about your business', 'start': 1333.28, 'duration': 4.0}
+{'text': 'strategy which you would you literally', 'start': 1335.679, 'duration': 2.88}
+{'text': 'educate people on i just want to know', 'start': 1337.28, 'duration': 2.879}
+{'text': 'how you [\xa0__\xa0] how you do growth and', 'start': 1338.559, 'duration': 3.521}
+{'text': "revenue why can't i be a hustler i want", 'start': 1340.159, 'duration': 3.441}
+{'text': 'to be a hustler like you i want to be a', 'start': 1342.08, 'duration': 4.24}
+{'text': 'top g a top bloke a proper blog', 'start': 1343.6, 'duration': 4.24}
+{'text': 'right you can find out more on the', 'start': 1346.32, 'duration': 2.88}
+{'text': 'website i would like to stream to get', 'start': 1347.84, 'duration': 2.719}
+{'text': 'fun again if you want to discuss this if', 'start': 1349.2, 'duration': 2.64}
+{'text': "you don't think your educational content", 'start': 1350.559, 'duration': 3.12}
+{'text': 'is fun for people to consume', 'start': 1351.84, 'duration': 3.199}
+{'text': "i think everyone's saying kick him read", 'start': 1353.679, 'duration': 2.321}
+{'text': 'the chat have you guys read the chat on', 'start': 1355.039, 'duration': 2.721}
+{'text': 'your stream', 'start': 1356.0, 'duration': 2.799}
+{'text': 'you want me to you want me to leave that', 'start': 1357.76, 'duration': 2.96}
+{'text': "bad i'll if you want me to be that bad", 'start': 1358.799, 'duration': 4.24}
+{'text': "i'll leave you're just being i mean it's", 'start': 1360.72, 'duration': 4.4}
+{'text': "like a weird [\xa0__\xa0] it's like i'm not", 'start': 1363.039, 'duration': 3.361}
+{'text': "telling you to leave it's like oh do you", 'start': 1365.12, 'duration': 2.48}
+{'text': 'want me to leave', 'start': 1366.4, 'duration': 3.12}
+{'text': "i'm not gonna no not saying i want you", 'start': 1367.6, 'duration': 3.6}
+{'text': 'to leave okay i want you to stay', 'start': 1369.52, 'duration': 3.519}
+{'text': 'actually oh okay but everyone else wants', 'start': 1371.2, 'duration': 4.4}
+{'text': "you to leave just i'm just a messenger", 'start': 1373.039, 'duration': 3.52}
+{'text': "but you're just kind of like being", 'start': 1375.6, 'duration': 2.959}
+{'text': "sarcastic i'm not i'm literally not i", 'start': 1376.559, 'duration': 4.561}
+{'text': 'promise you i swear to allah that i want', 'start': 1378.559, 'duration': 4.401}
+{'text': "to know just saying it wasn't sarcastic", 'start': 1381.12, 'duration': 3.28}
+{'text': "don't even you can't even communicate", 'start': 1382.96, 'duration': 2.64}
+{'text': 'none of what i have mentioned is', 'start': 1384.4, 'duration': 2.8}
+{'text': 'sarcastic i truly would like to know', 'start': 1385.6, 'duration': 3.199}
+{'text': 'more', 'start': 1387.2, 'duration': 3.76}
+{'text': "kick 85 no one thinks you're funny or", 'start': 1388.799, 'duration': 3.521}
+{'text': 'interesting or where your your little', 'start': 1390.96, 'duration': 2.56}
+{'text': "comeback's no one's interested i think", 'start': 1392.32, 'duration': 2.88}
+{'text': "this sounds funny it's okay it's okay", 'start': 1393.52, 'duration': 3.039}
+{'text': 'andrew if you want we can have a we can', 'start': 1395.2, 'duration': 3.04}
+{'text': 'have a conversation again', 'start': 1396.559, 'duration': 2.641}
+{'text': "it may be funny but didn't you miss an", 'start': 1398.24, 'duration': 2.08}
+{'text': 'opportunity of a real conversation or', 'start': 1399.2, 'duration': 2.32}
+{'text': "proof tate city is wrong i don't think", 'start': 1400.32, 'duration': 2.239}
+{'text': 'that was the goal i think i just wanted', 'start': 1401.52, 'duration': 4.399}
+{'text': "to mog him i can't believe that", 'start': 1402.559, 'duration': 5.041}
+{'text': "i can't believe that tate was so fragile", 'start': 1405.919, 'duration': 4.081}
+{'text': 'here he got like absolutely [\xa0__\xa0] ass', 'start': 1407.6, 'duration': 4.88}
+{'text': 'blasted like his mind is destroyed right', 'start': 1410.0, 'duration': 4.32}
+{'text': "now i don't know what i don't i don't", 'start': 1412.48, 'duration': 3.04}
+{'text': 'know if i missed like a lead up or a', 'start': 1414.32, 'duration': 4.239}
+{'text': 'setup to this or anything', 'start': 1415.52, 'duration': 3.039}
+{'text': 'did you have a conversation again in the', 'start': 1418.72, 'duration': 2.4}
+{'text': 'future if you would like if you if', 'start': 1419.84, 'duration': 3.36}
+{'text': "you're brave enough i guess you hate you", 'start': 1421.12, 'duration': 3.12}
+{'text': 'has an affiliate program some people', 'start': 1423.2, 'duration': 1.92}
+{'text': 'they want to affiliate like everything', 'start': 1424.24, 'duration': 2.24}
+{'text': 'else in the world we have over 100 000', 'start': 1425.12, 'duration': 2.64}
+{'text': 'students making more than they invest', 'start': 1426.48, 'duration': 2.4}
+{'text': "each month if they didn't make more than", 'start': 1427.76, 'duration': 2.24}
+{'text': "they invested they wouldn't sign up well", 'start': 1428.88, 'duration': 2.24}
+{'text': 'the most successful online educational', 'start': 1430.0, 'duration': 2.96}
+{'text': 'platforms is it is it are there multiple', 'start': 1431.12, 'duration': 3.6}
+{'text': 'layers how to make some money yourself', 'start': 1432.96, 'duration': 2.56}
+{'text': 'if you want to join and have more', 'start': 1434.72, 'duration': 1.92}
+{'text': "information it's all incorporated.com", 'start': 1435.52, 'duration': 2.24}
+{'text': "you can find out yourself if you're too", 'start': 1436.64, 'duration': 2.32}
+{'text': "cheap to pay fifty dollars and you're", 'start': 1437.76, 'duration': 2.0}
+{'text': 'broken nobody gives a [\xa0__\xa0] what you', 'start': 1438.96, 'duration': 2.0}
+{'text': "think anyway you've ruined the stream", 'start': 1439.76, 'duration': 2.48}
+{'text': 'everyone wants you out of it so either', 'start': 1440.96, 'duration': 2.64}
+{'text': 'change tune and get with the program and', 'start': 1442.24, 'duration': 2.799}
+{'text': 'be fun or keep sitting here and talking', 'start': 1443.6, 'duration': 2.559}
+{'text': 'sarcastic and really slowly and', 'start': 1445.039, 'duration': 2.0}
+{'text': 'repeating yourself and talking about how', 'start': 1446.159, 'duration': 1.601}
+{'text': 'you only believe what you see on the', 'start': 1447.039, 'duration': 1.76}
+{'text': 'internet because no one really gives a', 'start': 1447.76, 'duration': 2.64}
+{'text': "[\xa0__\xa0] and it's boring so let's move on to", 'start': 1448.799, 'duration': 2.961}
+{'text': "some fun let's get the tempo up i've", 'start': 1450.4, 'duration': 2.399}
+{'text': 'just told you i hate you we do an', 'start': 1451.76, 'duration': 2.0}
+{'text': 'affiliate program you can find out more', 'start': 1452.799, 'duration': 2.161}
+{'text': 'incorporated.', 'start': 1453.76, 'duration': 3.279}
+{'text': 'no it is so okay so it is a multi-level', 'start': 1454.96, 'duration': 3.52}
+{'text': 'marketing scheme got it i just wanted to', 'start': 1457.039, 'duration': 3.041}
+{'text': 'figure out if it was a truly a pyramid', 'start': 1458.48, 'duration': 3.12}
+{'text': 'scheme it would be inappropriate of me', 'start': 1460.08, 'duration': 3.12}
+{'text': "to assume that it's a pyramid scheme", 'start': 1461.6, 'duration': 4.959}
+{'text': 'without having you explain it uh in such', 'start': 1463.2, 'duration': 5.12}
+{'text': 'terms but thank you', 'start': 1466.559, 'duration': 2.881}
+{'text': 'all right whatever whatever you guys', 'start': 1468.32, 'duration': 2.64}
+{'text': "want to talk about i'm game", 'start': 1469.44, 'duration': 2.64}
+{'text': "you're welcome to affiliate anytime you", 'start': 1470.96, 'duration': 2.56}
+{'text': 'like friends no problem yeah all right', 'start': 1472.08, 'duration': 3.12}
+{'text': "so let's move on because this dude is", 'start': 1473.52, 'duration': 3.2}
+{'text': "he's lame my friends", 'start': 1475.2, 'duration': 3.04}
+{'text': "yeah i appreciate you coming we're gonna", 'start': 1476.72, 'duration': 2.72}
+{'text': 'bring in another guest though all right', 'start': 1478.24, 'duration': 3.2}
+{'text': "peace boys have fun andrew i'm always", 'start': 1479.44, 'duration': 3.28}
+{'text': 'open to talk to you my friend if you', 'start': 1481.44, 'duration': 2.239}
+{'text': 'would like to', 'start': 1482.72, 'duration': 2.0}
+{'text': 'conversation', 'start': 1483.679, 'duration': 3.281}
+{'text': 'thank you', 'start': 1484.72, 'duration': 2.24}
+{'text': 'that was [\xa0__\xa0] jesus christ', 'start': 1487.6, 'duration': 4.48}
+{'text': 'okay um', 'start': 1492.24, 'duration': 3.36}
+{'text': "i don't know what to say damn okay so", 'start': 1493.919, 'duration': 3.681}
+{'text': 'tate is actually super easy and it gets', 'start': 1495.6, 'duration': 5.92}
+{'text': "rattled incredibly easy but there's", 'start': 1497.6, 'duration': 7.439}
+{'text': 'that was pretty disappointing jesus', 'start': 1501.52, 'duration': 4.8}
+{'text': "i guess i shouldn't say disappointing as", 'start': 1505.039, 'duration': 2.961}
+{'text': 'much as i hate a song probably want him', 'start': 1506.32, 'duration': 3.52}
+{'text': 'to win over tate it was disappointing', 'start': 1508.0, 'duration': 3.2}
+{'text': "that it wasn't very entertaining i", 'start': 1509.84, 'duration': 2.719}
+{'text': 'thought we could see some fireworks', 'start': 1511.2, 'duration': 3.44}
+{'text': 'instead of just like a tank rolling over', 'start': 1512.559, 'duration': 3.36}
+{'text': 'some dude', 'start': 1514.64, 'duration': 3.76}
+{'text': 'oh dan wanted to say something', 'start': 1515.919, 'duration': 3.841}
+{'text': 'oh', 'start': 1518.4, 'duration': 2.48}
+{'text': 'hello', 'start': 1519.76, 'duration': 2.96}
+{'text': 'what up king', 'start': 1520.88, 'duration': 2.96}
+{'text': "i don't know if we can call each other", 'start': 1522.72, 'duration': 3.52}
+{'text': 'that feels like a black thing oh sorry', 'start': 1523.84, 'duration': 4.719}
+{'text': 'listen', 'start': 1526.24, 'duration': 4.88}
+{'text': 'i think i just i felt something just now', 'start': 1528.559, 'duration': 3.681}
+{'text': 'this last', 'start': 1531.12, 'duration': 3.76}
+{'text': 'half hour and i think chat felt it too', 'start': 1532.24, 'duration': 4.4}
+{'text': 'if you know you know the vibe that i', 'start': 1534.88, 'duration': 2.96}
+{'text': 'have right now', 'start': 1536.64, 'duration': 3.519}
+{'text': "what's the vibe i think that i can fix", 'start': 1537.84, 'duration': 4.88}
+{'text': 'and ship you and hassan', 'start': 1540.159, 'duration': 4.561}
+{'text': 'absolutely not you know what you know', 'start': 1542.72, 'duration': 4.88}
+{'text': 'why yeah because', 'start': 1544.72, 'duration': 4.959}
+{'text': "at the end of the day i think it's", 'start': 1547.6, 'duration': 5.52}
+{'text': 'possible you know i i think', 'start': 1549.679, 'duration': 5.441}
+{'text': 'you know what it comes down to okay you', 'start': 1553.12, 'duration': 4.159}
+{'text': 'just have to like recognize what hassan', 'start': 1555.12, 'duration': 4.08}
+{'text': "is good at and where he's funny at and", 'start': 1557.279, 'duration': 3.361}
+{'text': 'what he does really well and i think you', 'start': 1559.2, 'duration': 3.76}
+{'text': "can see that stuff and just don't you", 'start': 1560.64, 'duration': 4.32}
+{'text': "know i can't hold my tongue when people", 'start': 1562.96, 'duration': 4.24}
+{'text': 'say dumb [\xa0__\xa0] you gotta you have to you', 'start': 1564.96, 'duration': 4.56}
+{'text': 'do you say you hold your tongue you know', 'start': 1567.2, 'duration': 4.32}
+{'text': "you absolutely can't i absolutely can't", 'start': 1569.52, 'duration': 2.88}
+{'text': 'do that', 'start': 1571.52, 'duration': 2.96}
+{'text': "listen i'm not saying it's gonna be easy", 'start': 1572.4, 'duration': 5.279}
+{'text': "i'm just saying like i feel like", 'start': 1574.48, 'duration': 5.28}
+{'text': 'i feel like the foundations are still', 'start': 1577.679, 'duration': 5.201}
+{'text': 'there you know i', 'start': 1579.76, 'duration': 6.159}
+{'text': 'sometimes the best friendships', 'start': 1582.88, 'duration': 5.279}
+{'text': 'they go through these harsh periods of', 'start': 1585.919, 'duration': 4.64}
+{'text': 'inactivity i just i feel', 'start': 1588.159, 'duration': 3.841}
+{'text': 'like it could happen you know and', 'start': 1590.559, 'duration': 4.0}
+{'text': "hassan's funny you know and he has that", 'start': 1592.0, 'duration': 5.279}
+{'text': 'appeal and he', 'start': 1594.559, 'duration': 5.6}
+{'text': 'has moved the uh okay did you come here', 'start': 1597.279, 'duration': 4.081}
+{'text': 'for anything else are we playing this', 'start': 1600.159, 'duration': 2.961}
+{'text': "one all right i'm sorry i'm sorry too", 'start': 1601.36, 'duration': 3.52}
+{'text': 'much for too much for right now okay', 'start': 1603.12, 'duration': 4.08}
+{'text': 'just just keep it in the back your mind', 'start': 1604.88, 'duration': 4.32}
+{'text': 'entertains us somebody will call machine', 'start': 1607.2, 'duration': 4.16}
+{'text': 'is 18. you know like if you ever once', 'start': 1609.2, 'duration': 3.52}
+{'text': "you're 18", 'start': 1611.36, 'duration': 3.84}
+{'text': 'if you want to get yourself a real man', 'start': 1612.72, 'duration': 3.92}
+{'text': 'i know a guy', 'start': 1615.2, 'duration': 2.719}
+{'text': 'you do', 'start': 1616.64, 'duration': 4.72}
+{'text': 'i do yeah i do know a guy who is it what', 'start': 1617.919, 'duration': 4.801}
+{'text': "it's a it's a long story i can't tell", 'start': 1621.36, 'duration': 2.96}
+{'text': "you exactly who because there's bad", 'start': 1622.72, 'duration': 2.959}
+{'text': 'things about the [\xa0__\xa0] out of the room yo', 'start': 1624.32, 'duration': 2.8}
+{'text': "there's no [\xa0__\xa0] way you just said", 'start': 1625.679, 'duration': 2.88}
+{'text': 'that no no no i actually overheard that', 'start': 1627.12, 'duration': 3.2}
+{'text': 'the fact that you said that [\xa0__\xa0] is', 'start': 1628.559, 'duration': 3.761}
+{'text': "crazy that's up you were dead as being a", 'start': 1630.32, 'duration': 3.68}
+{'text': 'w [\xa0__\xa0] wingman and the fact that you', 'start': 1632.32, 'duration': 2.88}
+{'text': 'come in and say that [\xa0__\xa0] is actually', 'start': 1634.0, 'duration': 3.76}
+{'text': '[\xa0__\xa0] up like yo go ahead bro if you', 'start': 1635.2, 'duration': 4.24}
+{'text': 'want to go if you want to go 18 no', 'start': 1637.76, 'duration': 3.68}
+{'text': "that's weird that is pretty weird", 'start': 1639.44, 'duration': 4.08}
+{'text': 'this guy is so threatened this guy is', 'start': 1641.44, 'duration': 3.52}
+{'text': "creepy but this dude is like he's", 'start': 1643.52, 'duration': 3.68}
+{'text': 'actually like worried', 'start': 1644.96, 'duration': 4.319}
+{'text': 'oh no', 'start': 1647.2, 'duration': 4.079}
+{'text': "she's over here like you know what maybe", 'start': 1649.279, 'duration': 4.0}
+{'text': 'i will oh no', 'start': 1651.279, 'duration': 3.12}
+{'text': "because i know who you're talking about", 'start': 1653.279, 'duration': 2.64}
+{'text': 'right now you you said once you turned', 'start': 1654.399, 'duration': 3.28}
+{'text': '18 you would fly out to [\xa0__\xa0] romania', 'start': 1655.919, 'duration': 3.201}
+{'text': 'and [\xa0__\xa0] that is weird that is', 'start': 1657.679, 'duration': 2.961}
+{'text': '[\xa0__\xa0] weird because', 'start': 1659.12, 'duration': 3.12}
+{'text': 'listen listen listen', 'start': 1660.64, 'duration': 3.919}
+{'text': "i'll take your [\xa0__\xa0] on your stream you", 'start': 1662.24, 'duration': 4.08}
+{'text': 'messed it up my g you can have my', 'start': 1664.559, 'duration': 3.36}
+{'text': "[\xa0__\xa0] sex [\xa0__\xa0] there's no way", 'start': 1666.32, 'duration': 3.76}
+{'text': "you're talking about it", 'start': 1667.919, 'duration': 5.961}
+{'text': 'all right you know', 'start': 1670.08, 'duration': 3.8}

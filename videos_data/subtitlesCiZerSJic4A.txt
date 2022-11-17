@@ -1,0 +1,597 @@
+{'text': 'would it make sense in a get anywhere in', 'start': 0.0, 'duration': 3.84}
+{'text': "europa that you'd be storing like payout", 'start': 1.68, 'duration': 4.4}
+{'text': "information does that seem weird that's", 'start': 3.84, 'duration': 4.799}
+{'text': "the thing i don't understand that's like", 'start': 6.08, 'duration': 4.16}
+{'text': "it's basically impossible to get access", 'start': 8.639, 'duration': 3.281}
+{'text': 'to you have to go through so many layers', 'start': 10.24, 'duration': 5.12}
+{'text': 'of your organization to see that well', 'start': 11.92, 'duration': 6.08}
+{'text': "what we're looking at on 4chan is a post", 'start': 15.36, 'duration': 5.28}
+{'text': 'now from the apparent hacker here who', 'start': 18.0, 'duration': 4.56}
+{'text': 'seems to have been posting some red team', 'start': 20.64, 'duration': 4.16}
+{'text': 'details client information and even', 'start': 22.56, 'duration': 4.559}
+{'text': 'information on payouts to the creators', 'start': 24.8, 'duration': 4.479}
+{'text': 'that is the people who are posting video', 'start': 27.119, 'duration': 4.0}
+{'text': 'to the twitch service so you can see', 'start': 29.279, 'duration': 4.241}
+{'text': 'apparently uh how much each of these', 'start': 31.119, 'duration': 4.641}
+{'text': "creators has been paid here's what the", 'start': 33.52, 'duration': 4.8}
+{'text': 'crea the hackers said on social media', 'start': 35.76, 'duration': 4.88}
+{'text': "about why they did this they're saying", 'start': 38.32, 'duration': 4.239}
+{'text': 'the twitch community is a disgusting', 'start': 40.64, 'duration': 4.56}
+{'text': 'toxic cesspool so to foster more', 'start': 42.559, 'duration': 4.48}
+{'text': 'disruption and competition in the online', 'start': 45.2, 'duration': 4.4}
+{'text': 'video gaming space streaming space we', 'start': 47.039, 'duration': 4.241}
+{'text': 'have completely owned them and are', 'start': 49.6, 'duration': 4.24}
+{'text': 'releasing source code from almost 6 000', 'start': 51.28, 'duration': 5.68}
+{'text': 'internal repositories they also say', 'start': 53.84, 'duration': 5.199}
+{'text': 'sort of mocking jeff bezos here jeff', 'start': 56.96, 'duration': 4.96}
+{'text': 'bezos paid 970 million dollars for this', 'start': 59.039, 'duration': 5.84}
+{'text': "we're giving it away for free", 'start': 61.92, 'duration': 5.84}
+{'text': 'do better twitch so an apparent uh sort', 'start': 64.879, 'duration': 5.361}
+{'text': 'of ideological slash political slash', 'start': 67.76, 'duration': 4.399}
+{'text': 'anti-twitch motivation here although you', 'start': 70.24, 'duration': 3.44}
+{'text': 'always have to be careful with what', 'start': 72.159, 'duration': 2.721}
+{'text': "these hackers say about what they're", 'start': 73.68, 'duration': 2.88}
+{'text': "doing and why they're actually doing it", 'start': 74.88, 'duration': 4.8}
+{'text': 'do this twitch leak stuff cnbc was like', 'start': 76.56, 'duration': 4.48}
+{'text': 'running with it this morning and they', 'start': 79.68, 'duration': 2.96}
+{'text': 'were saying that like it leaked like', 'start': 81.04, 'duration': 3.04}
+{'text': "everybody's bank information and", 'start': 82.64, 'duration': 3.92}
+{'text': "everything else so i don't know if that", 'start': 84.08, 'duration': 4.399}
+{'text': 'was actually interesting anywhere or', 'start': 86.56, 'duration': 3.919}
+{'text': "i have no idea that's what they said uh", 'start': 88.479, 'duration': 3.28}
+{'text': "and that's what i got put in my work", 'start': 90.479, 'duration': 3.441}
+{'text': 'chat all right cake has all the uh stuff', 'start': 91.759, 'duration': 4.481}
+{'text': "but he says there's no piano so maybe we", 'start': 93.92, 'duration': 3.76}
+{'text': 'have uh', 'start': 96.24, 'duration': 3.76}
+{'text': 'they just had bad information but', 'start': 97.68, 'duration': 3.6}
+{'text': "there's a second part that's coming out", 'start': 100.0, 'duration': 3.439}
+{'text': 'too i guess', 'start': 101.28, 'duration': 3.119}
+{'text': 'yeah', 'start': 103.439, 'duration': 3.121}
+{'text': "what a i just can't believe you leaked", 'start': 104.399, 'duration': 5.281}
+{'text': "your entire company that's a disaster", 'start': 106.56, 'duration': 5.68}
+{'text': 'who even has access to this much [\xa0__\xa0]', 'start': 109.68, 'duration': 4.24}
+{'text': 'i mean it seems like they basically', 'start': 112.24, 'duration': 4.559}
+{'text': 'imaged everything kind of like uh how', 'start': 113.92, 'duration': 4.96}
+{'text': 'epic was uh taken down they just like', 'start': 116.799, 'duration': 4.0}
+{'text': 'copied everything off of every single', 'start': 118.88, 'duration': 3.04}
+{'text': 'hard drive', 'start': 120.799, 'duration': 2.481}
+{'text': "here we're uh", 'start': 121.92, 'duration': 3.28}
+{'text': 'talking about some twitch in here', 'start': 123.28, 'duration': 4.08}
+{'text': "yeah we're talking about uh git commits", 'start': 125.2, 'duration': 3.839}
+{'text': "that probably shouldn't have happened", 'start': 127.36, 'duration': 3.039}
+{'text': 'and uh', 'start': 129.039, 'duration': 3.601}
+{'text': "how the they lost everything i'm gonna", 'start': 130.399, 'duration': 4.081}
+{'text': 'see you ready oh god', 'start': 132.64, 'duration': 4.48}
+{'text': 'no just i this screams to me like', 'start': 134.48, 'duration': 4.399}
+{'text': 'someone was pissed left the company', 'start': 137.12, 'duration': 4.32}
+{'text': 'cloned all the repos and then just left', 'start': 138.879, 'duration': 3.681}
+{'text': "i don't think there's gonna be a part", 'start': 141.44, 'duration': 3.04}
+{'text': 'two', 'start': 142.56, 'duration': 4.0}
+{'text': 'yeah but why would you be able to clone', 'start': 144.48, 'duration': 3.36}
+{'text': 'all this and like not set off an', 'start': 146.56, 'duration': 3.2}
+{'text': 'internal audit yeah i feel like if i try', 'start': 147.84, 'duration': 4.08}
+{'text': 'to copy that much stuff it it feels like', 'start': 149.76, 'duration': 3.36}
+{'text': 'you learn all these things about like', 'start': 151.92, 'duration': 2.72}
+{'text': 'good practice or whatever is there any', 'start': 153.12, 'duration': 3.199}
+{'text': 'large company that actually maintains', 'start': 154.64, 'duration': 3.92}
+{'text': 'and like segments [\xa0__\xa0] appropriately and', 'start': 156.319, 'duration': 4.081}
+{'text': 'does like permissions and all that or', 'start': 158.56, 'duration': 3.52}
+{'text': 'is all of it just like a massive cluster', 'start': 160.4, 'duration': 3.76}
+{'text': 'everything in a repo like this i mean', 'start': 162.08, 'duration': 3.76}
+{'text': "especially when you're gonna have people", 'start': 164.16, 'duration': 3.2}
+{'text': 'that either need to touch different', 'start': 165.84, 'duration': 4.0}
+{'text': 'services all the time or understand how', 'start': 167.36, 'duration': 4.56}
+{'text': "services work i mean it's not", 'start': 169.84, 'duration': 4.88}
+{'text': 'too uncommon i mean especially for as', 'start': 171.92, 'duration': 4.72}
+{'text': 'startupy as twitch is', 'start': 174.72, 'duration': 3.439}
+{'text': 'i mean a lot of this stuff looks pretty', 'start': 176.64, 'duration': 3.2}
+{'text': 'old too a lot of it', 'start': 178.159, 'duration': 3.281}
+{'text': 'like there could have been older like', 'start': 179.84, 'duration': 3.84}
+{'text': 'servers that were kicking around or like', 'start': 181.44, 'duration': 4.48}
+{'text': 'older like hey this is all code from the', 'start': 183.68, 'duration': 4.32}
+{'text': 'justin days or something it looks at', 'start': 185.92, 'duration': 3.12}
+{'text': 'least like', 'start': 188.0, 'duration': 2.959}
+{'text': "uh the stuff that i've looked at is like", 'start': 189.04, 'duration': 4.4}
+{'text': 'pretty old', 'start': 190.959, 'duration': 2.481}
+{'text': 'huh welcome', 'start': 193.599, 'duration': 4.72}
+{'text': "i'm just hoping we get some info on like", 'start': 196.4, 'duration': 4.32}
+{'text': 'on bands i saw some small screenshots', 'start': 198.319, 'duration': 3.521}
+{'text': 'with some', 'start': 200.72, 'duration': 2.96}
+{'text': 'nothing really significant but it was', 'start': 201.84, 'duration': 3.52}
+{'text': "like a do not ban list but i'm really", 'start': 203.68, 'duration': 3.52}
+{'text': 'hoping some some juicy stuff comes out', 'start': 205.36, 'duration': 3.599}
+{'text': 'there like with reasons you know tags', 'start': 207.2, 'duration': 3.84}
+{'text': 'and stuff for why someone was banned or', 'start': 208.959, 'duration': 4.881}
+{'text': 'you know more so that i actually i', 'start': 211.04, 'duration': 5.279}
+{'text': 'actually went and found that um that was', 'start': 213.84, 'duration': 5.119}
+{'text': 'like a six-year-old admin panel it', 'start': 216.319, 'duration': 4.0}
+{'text': 'looked like', 'start': 218.959, 'duration': 4.161}
+{'text': 'like designed for twitch moderators', 'start': 220.319, 'duration': 3.761}
+{'text': 'um', 'start': 223.12, 'duration': 2.16}
+{'text': "i don't know", 'start': 224.08, 'duration': 2.96}
+{'text': 'it was there was some pretty funny stuff', 'start': 225.28, 'duration': 4.64}
+{'text': 'in there is it what is it is it normal', 'start': 227.04, 'duration': 4.559}
+{'text': 'that like all of that would be saved to', 'start': 229.92, 'duration': 3.519}
+{'text': "like a git repo and these wouldn't just", 'start': 231.599, 'duration': 3.761}
+{'text': "like reference other files that wouldn't", 'start': 233.439, 'duration': 3.36}
+{'text': 'be part of the repo does that make sense', 'start': 235.36, 'duration': 2.64}
+{'text': "what i'm asking", 'start': 236.799, 'duration': 2.401}
+{'text': 'like', 'start': 238.0, 'duration': 3.28}
+{'text': "that it's older st like that they're", 'start': 239.2, 'duration': 3.44}
+{'text': "keeping like let's say for instance", 'start': 241.28, 'duration': 2.72}
+{'text': "let's say that i was running a huge", 'start': 242.64, 'duration': 3.28}
+{'text': 'project on a site and i was like banning', 'start': 244.0, 'duration': 3.84}
+{'text': 'people um and i was recording those', 'start': 245.92, 'duration': 3.92}
+{'text': 'bannings or whatever like would it be', 'start': 247.84, 'duration': 3.759}
+{'text': 'typical for those bands to be recorded', 'start': 249.84, 'duration': 3.52}
+{'text': 'in a file that gets referenced by the', 'start': 251.599, 'duration': 3.521}
+{'text': 'repo or will the repo have that file', 'start': 253.36, 'duration': 3.599}
+{'text': 'itself they just it looked like debug', 'start': 255.12, 'duration': 4.0}
+{'text': 'logs that were like captured like by', 'start': 256.959, 'duration': 4.0}
+{'text': 'accident like just someone was doing', 'start': 259.12, 'duration': 4.72}
+{'text': 'testing or something like everything', 'start': 260.959, 'duration': 4.561}
+{'text': 'in that code looked like it was working', 'start': 263.84, 'duration': 4.48}
+{'text': 'off of a database and that log file was', 'start': 265.52, 'duration': 5.52}
+{'text': 'just incidentally there okay i mean', 'start': 268.32, 'duration': 4.56}
+{'text': 'there were only like 20 or 30 entries in', 'start': 271.04, 'duration': 3.36}
+{'text': 'it it really looked like someone was', 'start': 272.88, 'duration': 2.64}
+{'text': 'testing', 'start': 274.4, 'duration': 2.079}
+{'text': 'um', 'start': 275.52, 'duration': 2.56}
+{'text': "like testing it didn't it didn't look", 'start': 276.479, 'duration': 3.921}
+{'text': 'like production data', 'start': 278.08, 'duration': 5.32}
+{'text': 'hmm', 'start': 280.4, 'duration': 3.0}
+{'text': "yeah because i guess the thing i i don't", 'start': 283.52, 'duration': 3.52}
+{'text': 'understand why because it seems like', 'start': 284.8, 'duration': 4.0}
+{'text': 'would it make sense in a get anywhere in', 'start': 287.04, 'duration': 3.92}
+{'text': "europa you'd be storing like payout", 'start': 288.8, 'duration': 4.399}
+{'text': "information does that seem weird that's", 'start': 290.96, 'duration': 4.64}
+{'text': "the thing i don't understand that's like", 'start': 293.199, 'duration': 3.28}
+{'text': 'if', 'start': 295.6, 'duration': 2.96}
+{'text': 'because that should be a database', 'start': 296.479, 'duration': 3.761}
+{'text': "and that's usually pretty restricted", 'start': 298.56, 'duration': 3.6}
+{'text': 'like anything related to like payroll or', 'start': 300.24, 'duration': 4.88}
+{'text': 'financial is usually pretty', 'start': 302.16, 'duration': 5.28}
+{'text': "yeah like it's basically impossible to", 'start': 305.12, 'duration': 3.919}
+{'text': 'get access to you have to go through so', 'start': 307.44, 'duration': 3.36}
+{'text': 'many layers of your organization to see', 'start': 309.039, 'duration': 2.961}
+{'text': 'that well', 'start': 310.8, 'duration': 4.56}
+{'text': 'ideally right but', 'start': 312.0, 'duration': 3.36}
+{'text': 'yeah', 'start': 315.6, 'duration': 3.2}
+{'text': "man it's all supposed to be segmented", 'start': 316.8, 'duration': 3.2}
+{'text': "you're supposed to have all sorts of", 'start': 318.8, 'duration': 2.88}
+{'text': "access control and whoever's even like", 'start': 320.0, 'duration': 3.199}
+{'text': 'just looking at that stuff has to like', 'start': 321.68, 'duration': 4.239}
+{'text': "go on a list at least for us it's", 'start': 323.199, 'duration': 5.601}
+{'text': "yeah same it's crazy the amount of like", 'start': 325.919, 'duration': 4.481}
+{'text': 'checks on that around like financials', 'start': 328.8, 'duration': 3.44}
+{'text': 'and like employer data', 'start': 330.4, 'duration': 3.84}
+{'text': 'i mean or contractor', 'start': 332.24, 'duration': 4.16}
+{'text': "um i don't know i really still don't", 'start': 334.24, 'duration': 4.239}
+{'text': "think there's gonna be a part two like", 'start': 336.4, 'duration': 3.76}
+{'text': 'if somebody actually walked away with', 'start': 338.479, 'duration': 3.921}
+{'text': 'like that serious kind of like pii from', 'start': 340.16, 'duration': 3.759}
+{'text': "twitch like they're not just gonna go", 'start': 342.4, 'duration': 3.6}
+{'text': "unload it on 4chan they're they're gonna", 'start': 343.919, 'duration': 4.481}
+{'text': 'go take that to some like dark web form', 'start': 346.0, 'duration': 4.96}
+{'text': 'and go sell it or try to sell it', 'start': 348.4, 'duration': 4.4}
+{'text': 'well the scariest thing is just like if', 'start': 350.96, 'duration': 3.36}
+{'text': 'they have all the addresses if swatting', 'start': 352.8, 'duration': 3.04}
+{'text': 'you thought swatting was a problem now', 'start': 354.32, 'duration': 3.28}
+{'text': 'like not everybody has their own oh yeah', 'start': 355.84, 'duration': 3.359}
+{'text': "that's like that's like the biggest", 'start': 357.6, 'duration': 3.92}
+{'text': 'concern like if i think like twitch', 'start': 359.199, 'duration': 4.481}
+{'text': 'really needs to figure out what was', 'start': 361.52, 'duration': 3.04}
+{'text': 'taken', 'start': 363.68, 'duration': 2.72}
+{'text': 'yeah and be and like they should be', 'start': 364.56, 'duration': 3.919}
+{'text': 'really forthcoming like can you imagine', 'start': 366.4, 'duration': 3.84}
+{'text': 'like perverted like swatter harasser', 'start': 368.479, 'duration': 3.28}
+{'text': "dudes all of a sudden you've got like", 'start': 370.24, 'duration': 3.36}
+{'text': 'addresses to every single like girly', 'start': 371.759, 'duration': 3.201}
+{'text': 'streamer on [\xa0__\xa0] and you know how', 'start': 373.6, 'duration': 3.2}
+{'text': 'much money she makes yeah holy bank', 'start': 374.96, 'duration': 4.079}
+{'text': 'account yeah', 'start': 376.8, 'duration': 4.8}
+{'text': 'same levels of leverage there', 'start': 379.039, 'duration': 4.481}
+{'text': "i'm actually a little bit shocked wait", 'start': 381.6, 'duration': 4.64}
+{'text': 'when this went live last night right', 'start': 383.52, 'duration': 5.76}
+{'text': 'uh like early this morning i think like', 'start': 386.24, 'duration': 5.12}
+{'text': '3 4 eastern time', 'start': 389.28, 'duration': 4.4}
+{'text': 'a.m okay yeah i', 'start': 391.36, 'duration': 3.92}
+{'text': "mean maybe it's too soon or whatever i", 'start': 393.68, 'duration': 2.959}
+{'text': "guess i'm not a partner so i don't maybe", 'start': 395.28, 'duration': 2.16}
+{'text': "i don't even know if i would get an", 'start': 396.639, 'duration': 1.761}
+{'text': 'email like this but this feels like', 'start': 397.44, 'duration': 1.92}
+{'text': 'something that the company should', 'start': 398.4, 'duration': 3.04}
+{'text': 'probably be emailing out immediately', 'start': 399.36, 'duration': 4.0}
+{'text': "like hey we're working on this we don't", 'start': 401.44, 'duration': 3.28}
+{'text': "know the extent of the leak here's like", 'start': 403.36, 'duration': 2.88}
+{'text': 'some precautions you can take or if they', 'start': 404.72, 'duration': 2.8}
+{'text': "don't think that's necessary to be like", 'start': 406.24, 'duration': 3.04}
+{'text': 'hey yeah this sucks it got leaked', 'start': 407.52, 'duration': 3.04}
+{'text': 'however like this information is', 'start': 409.28, 'duration': 2.88}
+{'text': "separate we know that it's safe like i", 'start': 410.56, 'duration': 3.52}
+{'text': 'feel like that information should be out', 'start': 412.16, 'duration': 3.52}
+{'text': 'sooner rather than later because if it', 'start': 414.08, 'duration': 3.519}
+{'text': 'does come out that like if twitch puts', 'start': 415.68, 'duration': 4.239}
+{'text': "out an email in like six hours i'm like", 'start': 417.599, 'duration': 4.0}
+{'text': 'oh yeah like uh make sure to change your', 'start': 419.919, 'duration': 2.881}
+{'text': "passwords we're still figuring out and", 'start': 421.599, 'duration': 2.481}
+{'text': 'then like two or three days from now', 'start': 422.8, 'duration': 2.64}
+{'text': "they're radio's silent and we find out", 'start': 424.08, 'duration': 2.8}
+{'text': 'that like addresses and [\xa0__\xa0] are leaked', 'start': 425.44, 'duration': 2.56}
+{'text': 'a whole bunch of people could have been', 'start': 426.88, 'duration': 2.48}
+{'text': 'changing stuff in the meantime but they', 'start': 428.0, 'duration': 2.319}
+{'text': "just didn't have the opportunity to", 'start': 429.36, 'duration': 1.839}
+{'text': "because they didn't know the extent of", 'start': 430.319, 'duration': 2.0}
+{'text': 'the damage', 'start': 431.199, 'duration': 3.921}
+{'text': 'yeah so two things one uh gdpr is', 'start': 432.319, 'duration': 4.961}
+{'text': 'probably gonna force them to uh release', 'start': 435.12, 'duration': 4.4}
+{'text': 'all this information and then two maybe', 'start': 437.28, 'duration': 3.919}
+{'text': "that's what all the you know hey your", 'start': 439.52, 'duration': 4.0}
+{'text': "password is kind of weak uh when you're", 'start': 441.199, 'duration': 4.4}
+{'text': 'logging in was about', 'start': 443.52, 'duration': 4.16}
+{'text': "um people were saying that but there's a", 'start': 445.599, 'duration': 4.081}
+{'text': 'lot of services right now i know chrome', 'start': 447.68, 'duration': 4.0}
+{'text': 'does it and i think other ones that are', 'start': 449.68, 'duration': 4.079}
+{'text': 'i think they if i had to guess how they', 'start': 451.68, 'duration': 3.919}
+{'text': 'do this cake can get me wrong my guess', 'start': 453.759, 'duration': 3.761}
+{'text': 'is that like when you type in a password', 'start': 455.599, 'duration': 3.6}
+{'text': "it it does two things i think it's", 'start': 457.52, 'duration': 3.519}
+{'text': 'comparing hashes to like known leaked', 'start': 459.199, 'duration': 2.881}
+{'text': 'things and then i think it compares', 'start': 461.039, 'duration': 2.401}
+{'text': 'hashes to like weak passwords and i', 'start': 462.08, 'duration': 2.239}
+{'text': "think that's why it's telling you like", 'start': 463.44, 'duration': 2.479}
+{'text': "hey this password is show yeah i don't", 'start': 464.319, 'duration': 3.201}
+{'text': "think it's actually saying that like hey", 'start': 465.919, 'duration': 3.201}
+{'text': "your password's been compromised they're", 'start': 467.52, 'duration': 3.04}
+{'text': 'just doing like the standard check that', 'start': 469.12, 'duration': 2.96}
+{'text': "they've always done or that sites are", 'start': 470.56, 'duration': 2.8}
+{'text': "starting to do where they're just", 'start': 472.08, 'duration': 2.559}
+{'text': 'comparing hashes to known leaked', 'start': 473.36, 'duration': 3.279}
+{'text': 'passwords and then to weak passwords', 'start': 474.639, 'duration': 3.921}
+{'text': "there's um yeah a lot more places are", 'start': 476.639, 'duration': 3.601}
+{'text': 'starting to use like apis for that like', 'start': 478.56, 'duration': 3.359}
+{'text': "i think that's one of the money makers", 'start': 480.24, 'duration': 3.359}
+{'text': 'for like have i been pwned yeah i know', 'start': 481.919, 'duration': 3.921}
+{'text': 'at work we do this where like', 'start': 483.599, 'duration': 4.641}
+{'text': 'we when a user changes their password we', 'start': 485.84, 'duration': 4.079}
+{'text': "check it against like so you can't have", 'start': 488.24, 'duration': 2.88}
+{'text': 'like certain words in it and then we', 'start': 489.919, 'duration': 2.801}
+{'text': 'check it against like a known list of', 'start': 491.12, 'duration': 4.56}
+{'text': 'like really really like shitty passwords', 'start': 492.72, 'duration': 4.879}
+{'text': "um so everyone's just kind of been doing", 'start': 495.68, 'duration': 4.079}
+{'text': 'that i think like ios 15 did that when', 'start': 497.599, 'duration': 3.841}
+{'text': 'you upgraded mine was screaming at me', 'start': 499.759, 'duration': 3.361}
+{'text': 'about like some like decade old', 'start': 501.44, 'duration': 3.52}
+{'text': 'passwords yeah', 'start': 503.12, 'duration': 2.96}
+{'text': 'yeah and then my chrome every now and', 'start': 504.96, 'duration': 2.4}
+{'text': 'then if i log in like an old point like', 'start': 506.08, 'duration': 2.559}
+{'text': 'hey this password is on a thing or', 'start': 507.36, 'duration': 2.32}
+{'text': 'anything okay and then you have to', 'start': 508.639, 'duration': 2.96}
+{'text': 'change any [\xa0__\xa0] or it complains about', 'start': 509.68, 'duration': 3.68}
+{'text': 'like a saved router password from like', 'start': 511.599, 'duration': 3.521}
+{'text': '10 years ago when you just saved this', 'start': 513.36, 'duration': 4.239}
+{'text': 'admin oh router password routers used to', 'start': 515.12, 'duration': 5.52}
+{'text': 'be so easy to get into like 10 years ago', 'start': 517.599, 'duration': 4.961}
+{'text': '15 years ago if you like went on to', 'start': 520.64, 'duration': 3.519}
+{'text': "anybody's like wi-fi you just had to", 'start': 522.56, 'duration': 3.44}
+{'text': 'type an admin or like blank and it would', 'start': 524.159, 'duration': 3.521}
+{'text': 'always work and nowadays every password', 'start': 526.0, 'duration': 3.519}
+{'text': 'comes with like a 10-digit alphanumeric', 'start': 527.68, 'duration': 3.04}
+{'text': "randomized [\xa0__\xa0] you can't do it", 'start': 529.519, 'duration': 3.121}
+{'text': "anymore it's like dude didn't we do that", 'start': 530.72, 'duration': 4.0}
+{'text': 'like forever ago when driving around', 'start': 532.64, 'duration': 3.68}
+{'text': 'your neighborhood or something yes yeah', 'start': 534.72, 'duration': 3.44}
+{'text': 'when i was trying to figure out', 'start': 536.32, 'duration': 2.959}
+{'text': 'yeah i was trying to figure out if they', 'start': 538.16, 'duration': 2.4}
+{'text': 'were [\xa0__\xa0] me or if it was like if', 'start': 539.279, 'duration': 3.041}
+{'text': 'something was going on my my [\xa0__\xa0] so we', 'start': 540.56, 'duration': 2.959}
+{'text': 'drove around the neighborhood looking', 'start': 542.32, 'duration': 2.88}
+{'text': 'for unsecured routers or routers with', 'start': 543.519, 'duration': 3.041}
+{'text': 'the admin admin password so that i could', 'start': 545.2, 'duration': 3.12}
+{'text': 'turn on icmp request and put them on the', 'start': 546.56, 'duration': 4.16}
+{'text': 'uh smoke ping ping yeah that was some', 'start': 548.32, 'duration': 3.6}
+{'text': 'good [\xa0__\xa0] so', 'start': 550.72, 'duration': 2.32}
+{'text': "that's what i had to take to them to", 'start': 551.92, 'duration': 2.88}
+{'text': 'prove like hey my whole [\xa0__\xa0]', 'start': 553.04, 'duration': 3.44}
+{'text': 'neighborhood that all runs to the same', 'start': 554.8, 'duration': 3.2}
+{'text': '[\xa0__\xa0] note all seems to be lagging at', 'start': 556.48, 'duration': 3.12}
+{'text': 'the same time let me out of this goddamn', 'start': 558.0, 'duration': 3.36}
+{'text': '[\xa0__\xa0] contract [\xa0__\xa0] you guys yeah what', 'start': 559.6, 'duration': 4.239}
+{'text': 'a horrible', 'start': 561.36, 'duration': 2.479}
+{'text': "nothing they didn't do anything well", 'start': 564.0, 'duration': 2.48}
+{'text': 'they let me out of my contract without', 'start': 565.36, 'duration': 2.24}
+{'text': "charging me because it's technically i", 'start': 566.48, 'duration': 2.479}
+{'text': 'had like a business agreement for like', 'start': 567.6, 'duration': 2.799}
+{'text': 'two years they let me out without saying', 'start': 568.959, 'duration': 3.201}
+{'text': 'anything but it took me like two [\xa0__\xa0]', 'start': 570.399, 'duration': 3.921}
+{'text': 'fcc complaints plus this the smoke pink', 'start': 572.16, 'duration': 7.28}
+{'text': '[\xa0__\xa0] to do it yeah jesus full story bro', 'start': 574.32, 'duration': 5.12}
+{'text': 'you see how i got you there see how you', 'start': 580.08, 'duration': 2.64}
+{'text': 'got got', 'start': 581.6, 'duration': 4.32}
+{'text': "it wasn't the cool story", 'start': 582.72, 'duration': 3.2}
+{'text': 'good job dan thanks cake did their cicd', 'start': 586.08, 'duration': 5.759}
+{'text': 'get leaked was the pipeline', 'start': 588.8, 'duration': 5.28}
+{'text': 'so one of the things i guess like twitch', 'start': 591.839, 'duration': 3.041}
+{'text': 'like', 'start': 594.08, 'duration': 3.199}
+{'text': 'is is what i was expecting was to to', 'start': 594.88, 'duration': 5.68}
+{'text': 'look at these leaked you know code bases', 'start': 597.279, 'duration': 5.281}
+{'text': 'and developers are lazy especially in', 'start': 600.56, 'duration': 3.92}
+{'text': 'private repos they just hard code', 'start': 602.56, 'duration': 3.519}
+{'text': 'everything they put', 'start': 604.48, 'duration': 4.64}
+{'text': 'api keys tokens passwords you know', 'start': 606.079, 'duration': 5.281}
+{'text': 'commenting out passwords as you know', 'start': 609.12, 'duration': 4.24}
+{'text': "code comments okay i've seen this when", 'start': 611.36, 'duration': 3.68}
+{'text': 'you say let me so when i understand when', 'start': 613.36, 'duration': 3.2}
+{'text': 'you say this when you say hard coding', 'start': 615.04, 'duration': 3.52}
+{'text': 'things standard practice or good', 'start': 616.56, 'duration': 3.279}
+{'text': "practice is probably that like you're", 'start': 618.56, 'duration': 2.959}
+{'text': 'referencing some external thing but if', 'start': 619.839, 'duration': 2.801}
+{'text': "you're too lazy to want to do that you", 'start': 621.519, 'duration': 2.401}
+{'text': 'just put it right in the code itself so', 'start': 622.64, 'duration': 2.24}
+{'text': 'if someone has access to it they', 'start': 623.92, 'duration': 2.479}
+{'text': 'basically get', 'start': 624.88, 'duration': 3.199}
+{'text': 'yeah either putting it in some sort of', 'start': 626.399, 'duration': 3.521}
+{'text': 'secret manager or as like an environment', 'start': 628.079, 'duration': 3.601}
+{'text': 'variable or something i was expecting to', 'start': 629.92, 'duration': 4.159}
+{'text': 'see some of that but i mean most of it', 'start': 631.68, 'duration': 4.0}
+{'text': 'was pretty well', 'start': 634.079, 'duration': 3.841}
+{'text': 'pretty well handled um which is like i', 'start': 635.68, 'duration': 3.92}
+{'text': 'think will make this a little bit easier', 'start': 637.92, 'duration': 2.88}
+{'text': "on twitch because it's like okay you", 'start': 639.6, 'duration': 3.359}
+{'text': 'know how the infrastructure works', 'start': 640.8, 'duration': 3.52}
+{'text': "uh but it's not like you have like keys", 'start': 642.959, 'duration': 3.601}
+{'text': 'to like go open up a production database', 'start': 644.32, 'duration': 3.36}
+{'text': 'um', 'start': 646.56, 'duration': 2.8}
+{'text': "i think that's like one thing they did", 'start': 647.68, 'duration': 4.0}
+{'text': 'like a lot of their playbooks and stuff', 'start': 649.36, 'duration': 4.8}
+{'text': 'for like creating cloud infrastructure', 'start': 651.68, 'duration': 3.92}
+{'text': "were leaked liken like there's", 'start': 654.16, 'duration': 3.28}
+{'text': 'definitely a lot of like and i mean', 'start': 655.6, 'duration': 3.12}
+{'text': "there's like seven or eight different", 'start': 657.44, 'duration': 2.32}
+{'text': 'like', 'start': 658.72, 'duration': 3.92}
+{'text': 'infrastructure like ways so you know', 'start': 659.76, 'duration': 4.72}
+{'text': "there's a lot but i was wondering like", 'start': 662.64, 'duration': 4.0}
+{'text': "how plug and play they've this release", 'start': 664.48, 'duration': 3.919}
+{'text': 'is for uh anyone that wants to [\xa0__\xa0] with', 'start': 666.64, 'duration': 4.319}
+{'text': 'it oh finally i can also talk a little', 'start': 668.399, 'duration': 5.041}
+{'text': "bit of [\xa0__\xa0] on devon sorry devin oh i'm", 'start': 670.959, 'duration': 3.601}
+{'text': 'glad that these things have been leaked', 'start': 673.44, 'duration': 2.959}
+{'text': 'too publicly now um did you see this the', 'start': 674.56, 'duration': 4.08}
+{'text': 'do not ban [\xa0__\xa0]', 'start': 676.399, 'duration': 2.961}
+{'text': 'yeah', 'start': 678.64, 'duration': 2.56}
+{'text': 'earlier yeah so devin always maintained', 'start': 679.36, 'duration': 3.12}
+{'text': "he's like oh no these are totally", 'start': 681.2, 'duration': 2.8}
+{'text': 'distinct divisions that work totally', 'start': 682.48, 'duration': 2.96}
+{'text': 'separately like moderation and', 'start': 684.0, 'duration': 2.64}
+{'text': 'partnerships are totally different', 'start': 685.44, 'duration': 2.959}
+{'text': '[\xa0__\xa0] if you have a really good', 'start': 686.64, 'duration': 3.28}
+{'text': 'partner manager they know the people', 'start': 688.399, 'duration': 2.961}
+{'text': 'that work in moderation and they will', 'start': 689.92, 'duration': 2.88}
+{'text': 'get like first dibs on [\xa0__\xa0] coming', 'start': 691.36, 'duration': 2.96}
+{'text': 'through the pipeline and i see now when', 'start': 692.8, 'duration': 3.44}
+{'text': 'some of us do not ban leak [\xa0__\xa0] like', 'start': 694.32, 'duration': 3.6}
+{'text': 'rice gum do not suspend escalate', 'start': 696.24, 'duration': 3.68}
+{'text': 'violations to r kennedy at twitch i get', 'start': 697.92, 'duration': 3.28}
+{'text': "that's my guess is that this is either", 'start': 699.92, 'duration': 3.039}
+{'text': 'like a special person in moderation or', 'start': 701.2, 'duration': 3.28}
+{'text': 'like some sort of account manager that', 'start': 702.959, 'duration': 2.641}
+{'text': 'is like working especially with these', 'start': 704.48, 'duration': 2.799}
+{'text': 'people so you can see that there are', 'start': 705.6, 'duration': 3.919}
+{'text': 'people that are like uh uh absent the', 'start': 707.279, 'duration': 3.761}
+{'text': 'moderation and things are escalated', 'start': 709.519, 'duration': 2.721}
+{'text': 'instead to either different people', 'start': 711.04, 'duration': 3.039}
+{'text': 'within that department or over to uh', 'start': 712.24, 'duration': 4.64}
+{'text': 'account managers or partnerships yeah', 'start': 714.079, 'duration': 5.121}
+{'text': 'but yeah sorry i just felt indicated but', 'start': 716.88, 'duration': 4.24}
+{'text': 'go ahead', 'start': 719.2, 'duration': 3.28}
+{'text': "oh i mean there's a lot of interesting", 'start': 721.12, 'duration': 4.24}
+{'text': 'hard-coded stuff like that i think uh i', 'start': 722.48, 'duration': 4.64}
+{'text': 'saw a twitter screenshot going around of', 'start': 725.36, 'duration': 4.88}
+{'text': 'like uh their their uh chat service like', 'start': 727.12, 'duration': 4.8}
+{'text': 'certain bots have the ability to just', 'start': 730.24, 'duration': 3.92}
+{'text': 'connect to the quote fire hose which is', 'start': 731.92, 'duration': 3.84}
+{'text': 'just any', 'start': 734.16, 'duration': 3.919}
+{'text': 'you know chat message from anywhere not', 'start': 735.76, 'duration': 3.6}
+{'text': 'just like how you have to like normally', 'start': 738.079, 'duration': 3.041}
+{'text': 'log into a chat and like say like i want', 'start': 739.36, 'duration': 3.84}
+{'text': 'this like just giving like certain bot', 'start': 741.12, 'duration': 4.48}
+{'text': 'you know non-twitch bots you know like', 'start': 743.2, 'duration': 4.4}
+{'text': 'total access to like any', 'start': 745.6, 'duration': 3.76}
+{'text': 'you know any message sent on twitch at', 'start': 747.6, 'duration': 3.2}
+{'text': "any time at least that's my", 'start': 749.36, 'duration': 4.64}
+{'text': 'understanding of the fire hose', 'start': 750.8, 'duration': 3.2}
+{'text': 'do you see sarbandy a reason ceo staff', 'start': 754.399, 'duration': 5.281}
+{'text': 'do not ban for literally any reason', 'start': 757.2, 'duration': 4.0}
+{'text': 'first', 'start': 759.68, 'duration': 5.44}
+{'text': 'uh the username was sarbandia', 'start': 761.2, 'duration': 3.92}
+{'text': 'if i had to guess for stuff like that my', 'start': 765.519, 'duration': 3.521}
+{'text': 'guess is going to be that these were', 'start': 767.92, 'duration': 2.56}
+{'text': 'like test accounts or there was some', 'start': 769.04, 'duration': 2.96}
+{'text': "special it's not just like oh this is my", 'start': 770.48, 'duration': 2.88}
+{'text': 'best friend and let him be racing crazy', 'start': 772.0, 'duration': 2.639}
+{'text': '[\xa0__\xa0] there probably was some special', 'start': 773.36, 'duration': 3.76}
+{'text': "condition about it that'd be my guys", 'start': 774.639, 'duration': 3.601}
+{'text': "destiny this is not support what you're", 'start': 777.12, 'duration': 2.48}
+{'text': 'saying red carpet accounts are not', 'start': 778.24, 'duration': 3.12}
+{'text': 'necessarily staff connecting informally', 'start': 779.6, 'duration': 3.6}
+{'text': "between departments it doesn't connect", 'start': 781.36, 'duration': 4.159}
+{'text': 'it 100 on its own but i know it is the', 'start': 783.2, 'duration': 4.72}
+{'text': 'case personally um and then this is just', 'start': 785.519, 'duration': 3.681}
+{'text': 'like another thing that points in that', 'start': 787.92, 'duration': 2.32}
+{'text': "direction you don't have to bloom you", 'start': 789.2, 'duration': 2.319}
+{'text': "don't want to i don't give a [\xa0__\xa0] but i", 'start': 790.24, 'duration': 4.0}
+{'text': 'know for a fact that sometimes this is', 'start': 791.519, 'duration': 4.88}
+{'text': 'for instance this is why streamers know', 'start': 794.24, 'duration': 3.68}
+{'text': "that they're going to get banned before", 'start': 796.399, 'duration': 3.44}
+{'text': "it happens and why it's very rare that a", 'start': 797.92, 'duration': 4.56}
+{'text': 'big partner will get like an instant ban', 'start': 799.839, 'duration': 3.841}
+{'text': 'and usually they have a little bit of', 'start': 802.48, 'duration': 2.799}
+{'text': "heads-up notice it's because moderation", 'start': 803.68, 'duration': 2.959}
+{'text': 'and partnerships will work together', 'start': 805.279, 'duration': 3.12}
+{'text': 'there is a different process for bands', 'start': 806.639, 'duration': 3.281}
+{'text': 'for partnered streamers and then', 'start': 808.399, 'duration': 3.12}
+{'text': 'depending on how high up or important', 'start': 809.92, 'duration': 3.2}
+{'text': 'your account manager is and depending on', 'start': 811.519, 'duration': 3.12}
+{'text': 'the relationships that they have they', 'start': 813.12, 'duration': 3.12}
+{'text': 'absolutely can have some sway in terms', 'start': 814.639, 'duration': 3.281}
+{'text': 'of saving you from a van or getting', 'start': 816.24, 'duration': 2.88}
+{'text': 'something like to be like a little bit', 'start': 817.92, 'duration': 4.24}
+{'text': 'more chill absolutely', 'start': 819.12, 'duration': 3.04}
+{'text': "not that that's always a bad thing too", 'start': 823.839, 'duration': 3.68}
+{'text': 'right like there could be circumstances', 'start': 826.0, 'duration': 2.8}
+{'text': 'where this is like uh yeah this is', 'start': 827.519, 'duration': 4.32}
+{'text': 'probably okay you know', 'start': 828.8, 'duration': 3.039}
+{'text': "isn't this obvious i imagine all", 'start': 835.199, 'duration': 2.401}
+{'text': 'companies have some perforations yeah of', 'start': 836.32, 'duration': 2.56}
+{'text': "course yeah it's not necessarily a bad", 'start': 837.6, 'duration': 3.12}
+{'text': "thing i'm saying but yeah i got this", 'start': 838.88, 'duration': 2.88}
+{'text': "point that some am's going through", 'start': 840.72, 'duration': 2.32}
+{'text': "helping case but it's not to those", 'start': 841.76, 'duration': 3.36}
+{'text': 'extent t1 being on that list was because', 'start': 843.04, 'duration': 3.919}
+{'text': 'of spam reports he received uh because', 'start': 845.12, 'duration': 3.12}
+{'text': 'the og lol community hit him from', 'start': 846.959, 'duration': 3.761}
+{'text': 'running in mid right sometime', 'start': 848.24, 'duration': 4.399}
+{'text': 'still reporting him before in 2016 even', 'start': 850.72, 'duration': 3.04}
+{'text': "though he had already said that i'd be", 'start': 852.639, 'duration': 3.44}
+{'text': 'listening to the destination oh that', 'start': 853.76, 'duration': 4.16}
+{'text': 'could be true that it might be that the', 'start': 856.079, 'duration': 4.241}
+{'text': 'do not ban list whatever was listed on', 'start': 857.92, 'duration': 3.919}
+{'text': 'that file is literally just like this', 'start': 860.32, 'duration': 3.12}
+{'text': 'person could spam reported so before you', 'start': 861.839, 'duration': 2.961}
+{'text': 'pull the trigger check with somebody', 'start': 863.44, 'duration': 2.88}
+{'text': 'like higher moderation that could be', 'start': 864.8, 'duration': 3.599}
+{'text': 'true if this guy works internally i if', 'start': 866.32, 'duration': 3.44}
+{'text': 'assuming he was he would not better than', 'start': 868.399, 'duration': 4.641}
+{'text': 'i so screenshot earlier of like the test', 'start': 869.76, 'duration': 6.319}
+{'text': 'against you that one um', 'start': 873.04, 'duration': 5.599}
+{'text': 'i i like to think like that that looks', 'start': 876.079, 'duration': 5.12}
+{'text': 'like testing like api mocks but it makes', 'start': 878.639, 'duration': 4.401}
+{'text': 'me think that whenever you get banned it', 'start': 881.199, 'duration': 4.08}
+{'text': 'probably breaks like some code testing', 'start': 883.04, 'duration': 4.08}
+{'text': 'somewhere inside of twitch', 'start': 885.279, 'duration': 3.761}
+{'text': 'oh sometimes', 'start': 887.12, 'duration': 3.519}
+{'text': "like it's probably like any time like", 'start': 889.04, 'duration': 3.44}
+{'text': "the code's probably just tested like any", 'start': 890.639, 'duration': 4.161}
+{'text': 'time a change is made so that test', 'start': 892.48, 'duration': 4.0}
+{'text': 'probably fails whenever you get banned', 'start': 894.8, 'duration': 4.159}
+{'text': 'so nice good [\xa0__\xa0]', 'start': 896.48, 'duration': 3.76}
+{'text': "although we also don't know how old this", 'start': 898.959, 'duration': 2.641}
+{'text': 'is as well right', 'start': 900.24, 'duration': 4.399}
+{'text': 'yeah um i mean my or my friends editor', 'start': 901.6, 'duration': 4.96}
+{'text': "that's been looking at all of the code", 'start': 904.639, 'duration': 5.041}
+{'text': 'like shows the commit age', 'start': 906.56, 'duration': 5.519}
+{'text': "so i'd have to go find i bet this was", 'start': 909.68, 'duration': 6.32}
+{'text': 'committed back in like 2011 or some [\xa0__\xa0]', 'start': 912.079, 'duration': 5.601}
+{'text': "just by it's saying like day nine yeah", 'start': 916.0, 'duration': 3.12}
+{'text': "yeah yeah there's people like some", 'start': 917.68, 'duration': 2.32}
+{'text': "people looking there's like oh yeah it's", 'start': 919.12, 'duration': 2.159}
+{'text': 'which hit you so much but my guess is', 'start': 920.0, 'duration': 2.72}
+{'text': 'that like this was probably way back a', 'start': 921.279, 'duration': 2.8}
+{'text': 'long time ago i was like the biggest', 'start': 922.72, 'duration': 2.64}
+{'text': 'streamer on the site and then day nine', 'start': 924.079, 'duration': 2.481}
+{'text': 'was like really big too they probably', 'start': 925.36, 'duration': 2.479}
+{'text': 'just grabbed like two really big names', 'start': 926.56, 'duration': 2.719}
+{'text': 'and then they just that was their test', 'start': 927.839, 'duration': 3.601}
+{'text': "that'd be my guess yeah that's probably", 'start': 929.279, 'duration': 4.56}
+{'text': 'what happened', 'start': 931.44, 'duration': 2.399}
+{'text': "i made that screenshot it's from that", 'start': 934.16, 'duration': 6.44}
+{'text': 'commit is from 2017 really', 'start': 935.839, 'duration': 4.761}
+{'text': "what's this a league of twitchy source", 'start': 940.639, 'duration': 3.921}
+{'text': 'code as well as creator payouts west', 'start': 942.32, 'duration': 3.6}
+{'text': "linkedin for chance i'm going to pull", 'start': 944.56, 'duration': 4.719}
+{'text': 'the 10 000 highest paid creators dsp was', 'start': 945.92, 'duration': 5.839}
+{'text': 'on that list at 1392 with a total', 'start': 949.279, 'duration': 5.68}
+{'text': 'pre-tax payout of 430 thousand dollars', 'start': 951.759, 'duration': 6.161}
+{'text': "wait isn't that higher than rank 1392", 'start': 954.959, 'duration': 5.521}
+{'text': "i'm really surprised twitch has not gone", 'start': 957.92, 'duration': 3.839}
+{'text': 'and tried to get this like twitch', 'start': 960.48, 'duration': 3.52}
+{'text': 'earnings site taken down already', 'start': 961.759, 'duration': 4.32}
+{'text': "i'm surprised somebody like was brave", 'start': 964.0, 'duration': 4.24}
+{'text': 'enough to do that twitch is very very', 'start': 966.079, 'duration': 3.76}
+{'text': 'very legal friendly', 'start': 968.24, 'duration': 3.519}
+{'text': 'like in terms of getting lawyers yeah', 'start': 969.839, 'duration': 3.12}
+{'text': "but realistically they're just going to", 'start': 971.759, 'duration': 2.961}
+{'text': 'send a seasoned assistant season this is', 'start': 972.959, 'duration': 4.401}
+{'text': 'yeah sure', 'start': 974.72, 'duration': 2.64}
+{'text': "i imagine they're probably worried about", 'start': 979.279, 'duration': 4.24}
+{'text': 'other stuff right now too', 'start': 980.639, 'duration': 4.481}
+{'text': 'i think the interesting thing that', 'start': 983.519, 'duration': 3.68}
+{'text': "nobody's really looked at yet is i'm", 'start': 985.12, 'duration': 3.839}
+{'text': 'pretty sure doctor disrespects like', 'start': 987.199, 'duration': 3.681}
+{'text': 'payout data is in like the early months', 'start': 988.959, 'duration': 3.841}
+{'text': "of the leak but i don't think", 'start': 990.88, 'duration': 3.959}
+{'text': 'like the site categorizes it', 'start': 992.8, 'duration': 4.32}
+{'text': 'either hmm', 'start': 994.839, 'duration': 3.481}
+{'text': 'oh yeah because i was trying to find', 'start': 997.12, 'duration': 3.12}
+{'text': 'indie fox i was curious', 'start': 998.32, 'duration': 4.319}
+{'text': "but it's not on there either", 'start': 1000.24, 'duration': 3.519}
+{'text': 'way', 'start': 1002.639, 'duration': 3.281}
+{'text': 'oh any [\xa0__\xa0] oh lost the coomer wars', 'start': 1003.759, 'duration': 5.041}
+{'text': "remember that's right way back", 'start': 1005.92, 'duration': 6.0}
+{'text': "so here's what i i worry about", 'start': 1008.8, 'duration': 4.32}
+{'text': "well i don't really worry about it but", 'start': 1011.92, 'duration': 2.96}
+{'text': 'what if a bunch of streamers are able to', 'start': 1013.12, 'duration': 4.32}
+{'text': 'sue for this like for whatever you know', 'start': 1014.88, 'duration': 4.959}
+{'text': "i don't have breach of trust or whatnot", 'start': 1017.44, 'duration': 4.48}
+{'text': 'but um they get to sue break their', 'start': 1019.839, 'duration': 4.321}
+{'text': 'contracts and then youtube and facebook', 'start': 1021.92, 'duration': 3.68}
+{'text': 'come in and scoop up like the top', 'start': 1024.16, 'duration': 3.919}
+{'text': '[\xa0__\xa0] 50.', 'start': 1025.6, 'duration': 3.68}
+{'text': 'um', 'start': 1028.079, 'duration': 2.321}
+{'text': 'that would be pretty funny although', 'start': 1029.28, 'duration': 2.88}
+{'text': "don't you normally have time to", 'start': 1030.4, 'duration': 3.279}
+{'text': "remedy isn't there usually like a remedy", 'start': 1032.16, 'duration': 4.24}
+{'text': "period um apple doesn't know this better", 'start': 1033.679, 'duration': 5.041}
+{'text': "for i have a brilliant contract i don't", 'start': 1036.4, 'duration': 3.679}
+{'text': 'know how you could remedy something like', 'start': 1038.72, 'duration': 2.64}
+{'text': "this i didn't have a chance to remedy", 'start': 1040.079, 'duration': 3.6}
+{'text': 'when they [\xa0__\xa0] unpardon me so who', 'start': 1041.36, 'duration': 3.28}
+{'text': 'knows', 'start': 1043.679, 'duration': 2.88}
+{'text': "there's probably a mediation clause um", 'start': 1044.64, 'duration': 2.64}
+{'text': 'but', 'start': 1046.559, 'duration': 2.641}
+{'text': "i think you wave rights i'd have to go", 'start': 1047.28, 'duration': 3.519}
+{'text': "back and read i don't know but i think", 'start': 1049.2, 'duration': 3.44}
+{'text': 'you wave rights to third-party mediation', 'start': 1050.799, 'duration': 4.081}
+{'text': "don't you in this contract", 'start': 1052.64, 'duration': 4.24}
+{'text': 'there might be circumstances that like', 'start': 1054.88, 'duration': 3.44}
+{'text': "warrant it though i don't think it's", 'start': 1056.88, 'duration': 3.039}
+{'text': 'something that you can technically', 'start': 1058.32, 'duration': 3.44}
+{'text': 'mediate 100', 'start': 1059.919, 'duration': 3.521}
+{'text': 'like if there was such a flagrant but', 'start': 1061.76, 'duration': 3.36}
+{'text': "you know what's the word hold on i", 'start': 1063.44, 'duration': 3.52}
+{'text': "looked it up earlier yeah they're also", 'start': 1065.12, 'duration': 3.36}
+{'text': 'dumb as [\xa0__\xa0] but their agencies might', 'start': 1066.96, 'duration': 3.76}
+{'text': 'push to sue so who knows', 'start': 1068.48, 'duration': 4.319}
+{'text': "i think you don't you [\xa0__\xa0] i can't speak", 'start': 1070.72, 'duration': 3.199}
+{'text': "for most talent countries don't you", 'start': 1072.799, 'duration': 2.721}
+{'text': 'normally waive the right to third party', 'start': 1073.919, 'duration': 2.721}
+{'text': 'mediation', 'start': 1075.52, 'duration': 2.24}
+{'text': "isn't that what part of signing a", 'start': 1076.64, 'duration': 2.08}
+{'text': "contract because i don't want you to", 'start': 1077.76, 'duration': 2.24}
+{'text': 'bring in like third parties to try to', 'start': 1078.72, 'duration': 3.44}
+{'text': 'like figure out', 'start': 1080.0, 'duration': 3.679}
+{'text': "you do but there's like a stipulation to", 'start': 1082.16, 'duration': 3.2}
+{'text': "it usually like any contract i've ever", 'start': 1083.679, 'duration': 3.601}
+{'text': 'signed when um working for a company', 'start': 1085.36, 'duration': 4.48}
+{'text': "there's a mediation clause um", 'start': 1087.28, 'duration': 4.32}
+{'text': 'where like you wave you know for certain', 'start': 1089.84, 'duration': 3.36}
+{'text': 'things but you know every company makes', 'start': 1091.6, 'duration': 3.04}
+{'text': 'their employees sign that right and you', 'start': 1093.2, 'duration': 3.28}
+{'text': 'still have companies that sue for sexual', 'start': 1094.64, 'duration': 4.159}
+{'text': 'harassment racism whatever', 'start': 1096.48, 'duration': 3.36}
+{'text': 'it just', 'start': 1098.799, 'duration': 3.361}
+{'text': "it's like things of a certain nature um", 'start': 1099.84, 'duration': 5.36}
+{'text': "can't be covered by that clause", 'start': 1102.16, 'duration': 7.16}
+{'text': 'but i agree apples would know better', 'start': 1105.2, 'duration': 4.12}
+{'text': "isn't it the opposite uh you waived the", 'start': 1117.679, 'duration': 3.12}
+{'text': 'right to sue in court on our forced', 'start': 1119.44, 'duration': 2.88}
+{'text': "mediation i don't think you ever like", 'start': 1120.799, 'duration': 3.12}
+{'text': 'wave the right to sue right unless', 'start': 1122.32, 'duration': 3.28}
+{'text': "you're i mean you can have like you can", 'start': 1123.919, 'duration': 3.12}
+{'text': 'indemnify them against certain things', 'start': 1125.6, 'duration': 3.36}
+{'text': 'but if it gets too bad like a chord is', 'start': 1127.039, 'duration': 3.041}
+{'text': 'always', 'start': 1128.96, 'duration': 4.24}
+{'text': 'the chord is always an option', 'start': 1130.08, 'duration': 3.12}
+{'text': 'tweet all the twitch league showed me', 'start': 1133.679, 'duration': 2.561}
+{'text': 'that we need to keep pushing for', 'start': 1135.28, 'duration': 4.0}
+{'text': 'diversity oh god', 'start': 1136.24, 'duration': 3.04}

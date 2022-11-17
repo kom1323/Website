@@ -1,0 +1,674 @@
+{'text': "who are you typing to what's going on", 'start': 2.24, 'duration': 4.96}
+{'text': "is it serious no it's just every it's", 'start': 4.16, 'duration': 4.16}
+{'text': "kind of awkward because i don't normally", 'start': 7.2, 'duration': 2.08}
+{'text': 'like to like', 'start': 8.32, 'duration': 2.88}
+{'text': 'um for people that i like hook up with i', 'start': 9.28, 'duration': 3.439}
+{'text': "don't like to mediate between", 'start': 11.2, 'duration': 3.439}
+{'text': "like their family and them it's like", 'start': 12.719, 'duration': 3.04}
+{'text': 'really awkward', 'start': 14.639, 'duration': 2.4}
+{'text': 'but like every time you hop on stream', 'start': 15.759, 'duration': 2.321}
+{'text': 'like your mom starts messing with me', 'start': 17.039, 'duration': 2.4}
+{'text': 'like oh why does dan talk to you and not', 'start': 18.08, 'duration': 2.48}
+{'text': "me as much like i don't really", 'start': 19.439, 'duration': 2.401}
+{'text': "understand like what's the deal like can", 'start': 20.56, 'duration': 2.24}
+{'text': 'you tell my message', 'start': 21.84, 'duration': 3.199}
+{'text': "and it's just so sorry a lot of time you", 'start': 22.8, 'duration': 3.2}
+{'text': 'show up on screen she starts sending me', 'start': 25.039, 'duration': 6.08}
+{'text': 'messages and stuff', 'start': 26.0, 'duration': 7.84}
+{'text': "that's really funny", 'start': 31.119, 'duration': 2.721}
+{'text': 'thanks all right well i got some guy i', 'start': 34.399, 'duration': 2.801}
+{'text': "want to talk linguistics so i'm dragging", 'start': 35.76, 'duration': 3.119}
+{'text': 'him in', 'start': 37.2, 'duration': 4.72}
+{'text': 'hello a unix based', 'start': 38.879, 'duration': 6.081}
+{'text': "hello how's it going", 'start': 41.92, 'duration': 5.6}
+{'text': 'uh pretty good i was just gonna ask you', 'start': 44.96, 'duration': 4.56}
+{'text': 'some questions about', 'start': 47.52, 'duration': 4.559}
+{'text': 'linguistic taboos social taboos and kind', 'start': 49.52, 'duration': 3.76}
+{'text': 'of what your experience has been with', 'start': 52.079, 'duration': 1.921}
+{'text': 'those things', 'start': 53.28, 'duration': 3.439}
+{'text': '[\xa0__\xa0] ask away my dude all right well', 'start': 54.0, 'duration': 4.64}
+{'text': 'uh i guess first of all just to get a', 'start': 56.719, 'duration': 3.441}
+{'text': 'lay of the land i mean how do you feel', 'start': 58.64, 'duration': 2.239}
+{'text': 'about', 'start': 60.16, 'duration': 2.8}
+{'text': 'um like linguistic taboos do you', 'start': 60.879, 'duration': 4.0}
+{'text': 'generally not maybe not on stream but', 'start': 62.96, 'duration': 3.199}
+{'text': 'like personally', 'start': 64.879, 'duration': 4.081}
+{'text': 'like try to avoid saying slurs to people', 'start': 66.159, 'duration': 4.241}
+{'text': 'i mean i i know you have the whole', 'start': 68.96, 'duration': 3.36}
+{'text': "manifesto thing but that's not", 'start': 70.4, 'duration': 5.12}
+{'text': 'um personally do i avoid saying slurs to', 'start': 72.32, 'duration': 5.28}
+{'text': "people that's a really loaded question", 'start': 75.52, 'duration': 4.16}
+{'text': 'um that probably a little bit like am i', 'start': 77.6, 'duration': 4.08}
+{'text': 'gonna walk up to a rando on the street', 'start': 79.68, 'duration': 3.439}
+{'text': 'and start like going hard', 'start': 81.68, 'duration': 4.079}
+{'text': 'probably not um and like personal', 'start': 83.119, 'duration': 3.841}
+{'text': 'conversation if anyone were talking', 'start': 85.759, 'duration': 1.601}
+{'text': 'about i', 'start': 86.96, 'duration': 2.72}
+{'text': "don't really care that much okay do you", 'start': 87.36, 'duration': 4.0}
+{'text': 'think that your like stance on that has', 'start': 89.68, 'duration': 4.72}
+{'text': 'changed since you were younger', 'start': 91.36, 'duration': 3.04}
+{'text': 'um no actually i think my stance has', 'start': 94.88, 'duration': 4.8}
+{'text': 'been the same the only difference is um', 'start': 97.2, 'duration': 3.68}
+{'text': "socially i think there's a bit more", 'start': 99.68, 'duration': 3.28}
+{'text': 'responsibility being like a figure on', 'start': 100.88, 'duration': 3.44}
+{'text': 'like a larger platform when it comes to', 'start': 102.96, 'duration': 2.88}
+{'text': 'messaging about that', 'start': 104.32, 'duration': 3.759}
+{'text': "okay do do you think that there's been", 'start': 105.84, 'duration': 3.36}
+{'text': 'like more of a', 'start': 108.079, 'duration': 2.641}
+{'text': 'overall cultural change or do you think', 'start': 109.2, 'duration': 3.279}
+{'text': 'a lot of people yeah', 'start': 110.72, 'duration': 4.88}
+{'text': "you do what so like because i'm", 'start': 112.479, 'duration': 5.521}
+{'text': "27 right now we're about to be 27 so i", 'start': 115.6, 'duration': 3.6}
+{'text': 'just remember being in high school and', 'start': 118.0, 'duration': 1.84}
+{'text': 'people were', 'start': 119.2, 'duration': 3.68}
+{'text': 'like using the effsler dude you can', 'start': 119.84, 'duration': 3.959}
+{'text': 'there is a', 'start': 122.88, 'duration': 3.919}
+{'text': 'crazy keemstar video', 'start': 123.799, 'duration': 6.52}
+{'text': 'that was posted from i think 2015', 'start': 126.799, 'duration': 5.921}
+{'text': "where he's like so these guys they said", 'start': 130.319, 'duration': 3.841}
+{'text': 'that they wanted my daughter to die and', 'start': 132.72, 'duration': 2.96}
+{'text': "then i tweeted out that's really [\xa0__\xa0]", 'start': 134.16, 'duration': 3.6}
+{'text': 'up and then like the team', 'start': 135.68, 'duration': 4.08}
+{'text': "twitter account the team's official", 'start': 137.76, 'duration': 4.4}
+{'text': 'twitter account tweeted at keemstar', 'start': 139.76, 'duration': 5.839}
+{'text': 'get cancer and die effsler', 'start': 142.16, 'duration': 6.719}
+{'text': 'holy [\xa0__\xa0] in 2015. so yeah i know yeah', 'start': 145.599, 'duration': 3.841}
+{'text': 'things have', 'start': 148.879, 'duration': 2.161}
+{'text': 'definitely seemed like a lot over the', 'start': 149.44, 'duration': 3.28}
+{'text': 'course of five years how much like', 'start': 151.04, 'duration': 4.0}
+{'text': 'that would not fly today absolutely not', 'start': 152.72, 'duration': 4.0}
+{'text': 'you would be crucified you might get', 'start': 155.04, 'duration': 2.64}
+{'text': 'killed in real life', 'start': 156.72, 'duration': 2.4}
+{'text': "like that would be it's unbelievably", 'start': 157.68, 'duration': 3.12}
+{'text': 'unconsciousable', 'start': 159.12, 'duration': 3.36}
+{'text': 'yeah what like what kind of stuff do you', 'start': 160.8, 'duration': 3.519}
+{'text': 'think has has actually helped affect', 'start': 162.48, 'duration': 2.56}
+{'text': 'that change', 'start': 164.319, 'duration': 4.321}
+{'text': 'generally speaking um man the reason why', 'start': 165.04, 'duration': 4.72}
+{'text': 'wait real quick can you introduce', 'start': 168.64, 'duration': 2.239}
+{'text': 'yourself into your background over some', 'start': 169.76, 'duration': 2.559}
+{'text': "people know you're on that [\xa0__\xa0]", 'start': 170.879, 'duration': 4.72}
+{'text': "oh yeah um hey i'm i guess unix based is", 'start': 172.319, 'duration': 4.64}
+{'text': 'my name on discord um', 'start': 175.599, 'duration': 4.801}
+{'text': "i'm a a programmer by trade um i just", 'start': 176.959, 'duration': 4.801}
+{'text': 'have a', 'start': 180.4, 'duration': 2.88}
+{'text': "applied linguistics minor so i'm just", 'start': 181.76, 'duration': 2.8}
+{'text': 'interested in this stuff and read about', 'start': 183.28, 'duration': 2.72}
+{'text': 'it a lot so', 'start': 184.56, 'duration': 3.36}
+{'text': 'if any like sociolinguistic linguists or', 'start': 186.0, 'duration': 3.519}
+{'text': 'any linguist and chat want to correct me', 'start': 187.92, 'duration': 2.64}
+{'text': 'uh that would be', 'start': 189.519, 'duration': 4.401}
+{'text': 'much appreciated yeah okay um', 'start': 190.56, 'duration': 5.84}
+{'text': 'so the problem with analyzing a lot of', 'start': 193.92, 'duration': 4.56}
+{'text': 'these types of changes is that i believe', 'start': 196.4, 'duration': 3.839}
+{'text': 'that they very much work by like these', 'start': 198.48, 'duration': 3.6}
+{'text': 'like feedback loops', 'start': 200.239, 'duration': 3.521}
+{'text': 'um so for instance when you ask me a', 'start': 202.08, 'duration': 3.519}
+{'text': 'question like why are', 'start': 203.76, 'duration': 4.32}
+{'text': 'black people in media more now well i', 'start': 205.599, 'duration': 5.36}
+{'text': 'think that the reason why is because', 'start': 208.08, 'duration': 4.719}
+{'text': 'in media they decided to start putting', 'start': 210.959, 'duration': 3.041}
+{'text': 'more black people in', 'start': 212.799, 'duration': 2.561}
+{'text': 'but i think that the reason why they', 'start': 214.0, 'duration': 2.48}
+{'text': 'started putting more black people in is', 'start': 215.36, 'duration': 2.56}
+{'text': 'because there was like a cultural push', 'start': 216.48, 'duration': 1.92}
+{'text': 'for it', 'start': 217.92, 'duration': 2.319}
+{'text': 'and i think that that cultural push for', 'start': 218.4, 'duration': 4.24}
+{'text': 'it like comes from media and influences', 'start': 220.239, 'duration': 3.681}
+{'text': "media i think there's a big like push", 'start': 222.64, 'duration': 2.64}
+{'text': 'and pull when it comes to stuff like', 'start': 223.92, 'duration': 1.679}
+{'text': 'that', 'start': 225.28, 'duration': 2.08}
+{'text': "so it's really hard to identify like", 'start': 225.599, 'duration': 3.521}
+{'text': 'some singular push', 'start': 227.36, 'duration': 2.959}
+{'text': 'so when it comes to things like friends', 'start': 229.12, 'duration': 2.479}
+{'text': 'like the eff slur and stuff like that', 'start': 230.319, 'duration': 1.92}
+{'text': 'like', 'start': 231.599, 'duration': 3.041}
+{'text': 'like media has definitely had an', 'start': 232.239, 'duration': 3.761}
+{'text': 'influence on that like if you watch like', 'start': 234.64, 'duration': 3.76}
+{'text': 'clerks 2 they just say like f slurs like', 'start': 236.0, 'duration': 3.519}
+{'text': 'without even a second thought you and', 'start': 238.4, 'duration': 2.32}
+{'text': 'you even think about listening to it if', 'start': 239.519, 'duration': 2.401}
+{'text': 'you go back and watch that movie i', 'start': 240.72, 'duration': 2.64}
+{'text': 'watched that movie a year ago and then', 'start': 241.92, 'duration': 1.76}
+{'text': 'they', 'start': 243.36, 'duration': 1.76}
+{'text': 'somehow called somebody at f word i was', 'start': 243.68, 'duration': 3.52}
+{'text': "like holy [\xa0__\xa0] i didn't know that was in", 'start': 245.12, 'duration': 2.8}
+{'text': 'this movie', 'start': 247.2, 'duration': 2.56}
+{'text': 'um so i think that like i think that', 'start': 247.92, 'duration': 3.519}
+{'text': 'like popular media has definitely', 'start': 249.76, 'duration': 3.6}
+{'text': 'influenced that a lot', 'start': 251.439, 'duration': 3.36}
+{'text': 'um and then i also think that like', 'start': 253.36, 'duration': 2.879}
+{'text': 'cultures influence popular media a lot', 'start': 254.799, 'duration': 2.801}
+{'text': 'like what culture deems except and what', 'start': 256.239, 'duration': 2.641}
+{'text': 'not um yeah', 'start': 257.6, 'duration': 2.319}
+{'text': 'but in terms of like where does that', 'start': 258.88, 'duration': 2.479}
+{'text': 'originate or was it start from i mean', 'start': 259.919, 'duration': 2.801}
+{'text': 'broader acceptance of', 'start': 261.359, 'duration': 3.921}
+{'text': 'um you know different types of groups', 'start': 262.72, 'duration': 3.68}
+{'text': 'things like the legalization of gay', 'start': 265.28, 'duration': 2.32}
+{'text': "marriage like i'm sure there's like so", 'start': 266.4, 'duration': 1.68}
+{'text': 'much', 'start': 267.6, 'duration': 1.44}
+{'text': "there's like a million different", 'start': 268.08, 'duration': 3.119}
+{'text': 'variables influence out yes okay good', 'start': 269.04, 'duration': 3.36}
+{'text': 'right yeah i know that makes a lot of', 'start': 271.199, 'duration': 4.081}
+{'text': 'sense um do you think like', 'start': 272.4, 'duration': 4.32}
+{'text': 'the kind of discourse surrounding these', 'start': 275.28, 'duration': 3.04}
+{'text': 'things in online spaces has a', 'start': 276.72, 'duration': 4.32}
+{'text': 'has a role to play nowadays or like a', 'start': 278.32, 'duration': 4.0}
+{'text': 'significant role to play or do you think', 'start': 281.04, 'duration': 2.24}
+{'text': "that's more", 'start': 282.32, 'duration': 2.72}
+{'text': 'like encapsulated to online community', 'start': 283.28, 'duration': 3.28}
+{'text': 'drama do i', 'start': 285.04, 'duration': 4.08}
+{'text': 'do i think that online discourse plays a', 'start': 286.56, 'duration': 4.56}
+{'text': 'role in the influencing of', 'start': 289.12, 'duration': 4.16}
+{'text': 'like contemporary media yeah like like', 'start': 291.12, 'duration': 3.6}
+{'text': 'twitter canceling or like', 'start': 293.28, 'duration': 2.72}
+{'text': "people like yeah to some extent yeah i'm", 'start': 294.72, 'duration': 4.08}
+{'text': 'sure it does okay', 'start': 296.0, 'duration': 5.12}
+{'text': 'um and i guess my main question then is', 'start': 298.8, 'duration': 3.28}
+{'text': 'do you think that', 'start': 301.12, 'duration': 3.12}
+{'text': 'likes like those sort of socially', 'start': 302.08, 'duration': 3.76}
+{'text': 'marking certain words or like certain', 'start': 304.24, 'duration': 2.72}
+{'text': 'topics', 'start': 305.84, 'duration': 3.12}
+{'text': 'um does that have some sort of pushback', 'start': 306.96, 'duration': 3.519}
+{'text': 'effect from like more', 'start': 308.96, 'duration': 3.28}
+{'text': 'i guess typically would be like like', 'start': 310.479, 'duration': 3.521}
+{'text': 'right leaning groups or more edgy groups', 'start': 312.24, 'duration': 2.72}
+{'text': 'do you think that they would', 'start': 314.0, 'duration': 2.56}
+{'text': 'maybe use those words more when they see', 'start': 314.96, 'duration': 4.0}
+{'text': 'those words marked in a taboo way or', 'start': 316.56, 'duration': 3.84}
+{'text': 'does that maybe not happen', 'start': 318.96, 'duration': 4.72}
+{'text': "i think it's possible it's really hard", 'start': 320.4, 'duration': 3.6}
+{'text': 'to', 'start': 323.68, 'duration': 2.48}
+{'text': "know exactly it's also hard to know", 'start': 324.0, 'duration': 3.44}
+{'text': 'exactly like um', 'start': 326.16, 'duration': 4.24}
+{'text': 'like what is the overall like', 'start': 327.44, 'duration': 4.72}
+{'text': 'quantitative impact', 'start': 330.4, 'duration': 3.2}
+{'text': 'um so when i say that what i mean is', 'start': 332.16, 'duration': 3.039}
+{'text': "that like let's say that you put out", 'start': 333.6, 'duration': 3.039}
+{'text': 'like we need to stop saying the f slur', 'start': 335.199, 'duration': 2.481}
+{'text': "and let's say some crusaders get really", 'start': 336.639, 'duration': 1.761}
+{'text': 'mad and they', 'start': 337.68, 'duration': 2.72}
+{'text': "start saying it even more it's possible", 'start': 338.4, 'duration': 4.239}
+{'text': 'that like five percent of conservatives', 'start': 340.4, 'duration': 4.16}
+{'text': 'say it even more and then 95 stop saying', 'start': 342.639, 'duration': 3.201}
+{'text': 'it completely so even though some people', 'start': 344.56, 'duration': 2.56}
+{'text': 'like feel more emboldened other people', 'start': 345.84, 'duration': 2.48}
+{'text': 'just because of the social pressures', 'start': 347.12, 'duration': 2.24}
+{'text': "just like change you're like okay i'm", 'start': 348.32, 'duration': 2.56}
+{'text': 'not doing it anyway right', 'start': 349.36, 'duration': 3.2}
+{'text': "okay so yeah so generally you think it's", 'start': 350.88, 'duration': 3.44}
+{'text': "it's probably pretty effective", 'start': 352.56, 'duration': 5.12}
+{'text': 'gee probably i would imagine so yeah', 'start': 354.32, 'duration': 5.12}
+{'text': "but there's got to be like a limit to it", 'start': 357.68, 'duration': 3.28}
+{'text': 'as well like i imagine like', 'start': 359.44, 'duration': 3.52}
+{'text': 'if you push too hard social media wise', 'start': 360.96, 'duration': 3.12}
+{'text': "it's probably not going to work very", 'start': 362.96, 'duration': 1.6}
+{'text': 'well', 'start': 364.08, 'duration': 3.76}
+{'text': 'but if you um um', 'start': 364.56, 'duration': 4.72}
+{'text': 'but but like if you kind of follow the', 'start': 367.84, 'duration': 2.96}
+{'text': "culture like it'll change on its own", 'start': 369.28, 'duration': 2.639}
+{'text': "over time yeah i don't know that makes", 'start': 370.8, 'duration': 2.08}
+{'text': 'sense', 'start': 371.919, 'duration': 3.441}
+{'text': 'yeah no that makes sense i think um it', 'start': 372.88, 'duration': 3.599}
+{'text': 'it seems like', 'start': 375.36, 'duration': 3.279}
+{'text': 'a lot of people i think the more pc', 'start': 376.479, 'duration': 4.401}
+{'text': 'culture quote unquote gets', 'start': 378.639, 'duration': 4.641}
+{'text': 'like publicized at this sort of like', 'start': 380.88, 'duration': 4.56}
+{'text': 'screaming blue haired feminist idea', 'start': 383.28, 'duration': 4.08}
+{'text': 'um i think more conservative people will', 'start': 385.44, 'duration': 3.599}
+{'text': 'at least at least in like rural', 'start': 387.36, 'duration': 3.04}
+{'text': "communities that i'm that i'm used to", 'start': 389.039, 'duration': 2.641}
+{'text': 'being around like more conservative', 'start': 390.4, 'duration': 3.04}
+{'text': 'people are kind of like', 'start': 391.68, 'duration': 3.6}
+{'text': 'euphemize certain things and be like', 'start': 393.44, 'duration': 3.12}
+{'text': "he's he's kind of", 'start': 395.28, 'duration': 3.039}
+{'text': 'and like do the hand wavy thing to mean', 'start': 396.56, 'duration': 3.68}
+{'text': "he's gay and like", 'start': 398.319, 'duration': 3.44}
+{'text': "theaters be if it's okay and it seems", 'start': 400.24, 'duration': 3.679}
+{'text': "like they're they're people want to test", 'start': 401.759, 'duration': 3.44}
+{'text': 'the waters on that still', 'start': 403.919, 'duration': 3.361}
+{'text': "to see if it's okay to be yeah it's", 'start': 405.199, 'duration': 3.201}
+{'text': 'possible but the', 'start': 407.28, 'duration': 4.0}
+{'text': 'conversations have changed like so much', 'start': 408.4, 'duration': 3.519}
+{'text': 'like', 'start': 411.28, 'duration': 3.12}
+{'text': 'we went from five years ago arguing', 'start': 411.919, 'duration': 4.0}
+{'text': 'whether or not it was okay to call', 'start': 414.4, 'duration': 4.96}
+{'text': "gay people esslers into now we're like", 'start': 415.919, 'duration': 4.801}
+{'text': 'debating on like', 'start': 419.36, 'duration': 3.839}
+{'text': 'is it right that in cyberpunk like trans', 'start': 420.72, 'duration': 3.919}
+{'text': 'people are represented in a sexual way', 'start': 423.199, 'duration': 3.12}
+{'text': 'like the conversation has evolved', 'start': 424.639, 'duration': 2.56}
+{'text': 'dramatically', 'start': 426.319, 'duration': 2.72}
+{'text': 'in terms of moving i guess you would say', 'start': 427.199, 'duration': 4.161}
+{'text': 'towards the left on social issues so', 'start': 429.039, 'duration': 4.56}
+{'text': 'i mean it seems like if you consider', 'start': 431.36, 'duration': 3.36}
+{'text': 'that progress', 'start': 433.599, 'duration': 2.481}
+{'text': 'um which a lot of left-leaning people', 'start': 434.72, 'duration': 2.479}
+{'text': "say like you can say that progress it's", 'start': 436.08, 'duration': 2.32}
+{'text': 'like progress has been made pretty', 'start': 437.199, 'duration': 2.481}
+{'text': 'significantly', 'start': 438.4, 'duration': 3.199}
+{'text': 'yeah i would say that counts as progress', 'start': 439.68, 'duration': 3.68}
+{'text': 'people are talking more seriously about', 'start': 441.599, 'duration': 2.801}
+{'text': 'those things and like', 'start': 443.36, 'duration': 2.559}
+{'text': "you've got people like biden you know", 'start': 444.4, 'duration': 3.44}
+{'text': "who are who's like a [\xa0__\xa0]", 'start': 445.919, 'duration': 4.241}
+{'text': '9 000 year old dinosaur talking about', 'start': 447.84, 'duration': 3.6}
+{'text': 'like um', 'start': 450.16, 'duration': 2.879}
+{'text': 'like underage trans people being able to', 'start': 451.44, 'duration': 2.8}
+{'text': 'get like therapy and counseling and [\xa0__\xa0]', 'start': 453.039, 'duration': 1.681}
+{'text': "like that's", 'start': 454.24, 'duration': 2.239}
+{'text': "that's unbelievable to me even being", 'start': 454.72, 'duration': 3.28}
+{'text': 'like even saying that like buying a', 'start': 456.479, 'duration': 3.041}
+{'text': 'progressive i would never expect', 'start': 458.0, 'duration': 3.199}
+{'text': 'somebody that old to talk about like', 'start': 459.52, 'duration': 3.44}
+{'text': 'trans youth issues i would never expect', 'start': 461.199, 'duration': 2.801}
+{'text': 'that in a million years', 'start': 462.96, 'duration': 2.88}
+{'text': "it's crazy to me so yeah i mean it feels", 'start': 464.0, 'duration': 3.039}
+{'text': "like there's been a lot of progress", 'start': 465.84, 'duration': 3.759}
+{'text': 'made and i could be like way off base on', 'start': 467.039, 'duration': 4.081}
+{'text': "this one but i'm just curious like", 'start': 469.599, 'duration': 3.761}
+{'text': "wasn't obama at some point like anti-gay", 'start': 471.12, 'duration': 4.16}
+{'text': 'marriage or like had the stance that', 'start': 473.36, 'duration': 3.279}
+{'text': 'marriage is between a man and a woman', 'start': 475.28, 'duration': 3.44}
+{'text': 'even yeah initially he came in um but', 'start': 476.639, 'duration': 2.801}
+{'text': 'again like', 'start': 478.72, 'duration': 2.64}
+{'text': 'politicians try to like push but also', 'start': 479.44, 'duration': 3.84}
+{'text': 'stay with the current when obama came in', 'start': 481.36, 'duration': 3.6}
+{'text': 'initially he was like a', 'start': 483.28, 'duration': 4.96}
+{'text': 'pro a traditional marriage person um', 'start': 484.96, 'duration': 5.359}
+{'text': 'however ironically enough biden was the', 'start': 488.24, 'duration': 3.12}
+{'text': 'one that kind of like', 'start': 490.319, 'duration': 2.72}
+{'text': 'pushed the administration oh away on', 'start': 491.36, 'duration': 3.2}
+{'text': 'that i think in an interview when he did', 'start': 493.039, 'duration': 3.521}
+{'text': 'he just randomly came out with like', 'start': 494.56, 'duration': 2.96}
+{'text': 'yeah i think the gay people should be', 'start': 496.56, 'duration': 2.639}
+{'text': 'able to get married um and it actually', 'start': 497.52, 'duration': 3.2}
+{'text': 'like the whole administration like moved', 'start': 499.199, 'duration': 3.12}
+{'text': 'like pretty far after that interview i', 'start': 500.72, 'duration': 2.0}
+{'text': 'think', 'start': 502.319, 'duration': 3.6}
+{'text': 'obama said uh ordered yates from the doj', 'start': 502.72, 'duration': 4.0}
+{'text': "we said that they're not going to", 'start': 505.919, 'duration': 1.601}
+{'text': 'enforce', 'start': 506.72, 'duration': 2.64}
+{'text': 'um like anti-gay marriage stuff in the', 'start': 507.52, 'duration': 3.2}
+{'text': 'states anymore and then and then', 'start': 509.36, 'duration': 2.559}
+{'text': 'everything the dominoes started to fall', 'start': 510.72, 'duration': 2.4}
+{'text': 'until eventually the supreme court said', 'start': 511.919, 'duration': 2.721}
+{'text': 'that gay marriage is constitutional yeah', 'start': 513.12, 'duration': 2.32}
+{'text': 'or banning gay marriage is', 'start': 514.64, 'duration': 2.079}
+{'text': 'unconstitutional whatever', 'start': 515.44, 'duration': 3.2}
+{'text': "oh that's why then another biden had", 'start': 516.719, 'duration': 3.281}
+{'text': "such a role to play on that that's", 'start': 518.64, 'duration': 4.16}
+{'text': 'cool um i guess moving away from like', 'start': 520.0, 'duration': 3.519}
+{'text': 'slurs', 'start': 522.8, 'duration': 2.96}
+{'text': 'specifically um in terms of like taboo', 'start': 523.519, 'duration': 3.281}
+{'text': 'topics ranging', 'start': 525.76, 'duration': 3.44}
+{'text': 'from like sex and sex related stuff', 'start': 526.8, 'duration': 4.479}
+{'text': 'death politics religion', 'start': 529.2, 'duration': 4.079}
+{'text': 'um and then money is a big one too like', 'start': 531.279, 'duration': 3.601}
+{'text': 'talking about how much you get paid for', 'start': 533.279, 'duration': 2.641}
+{'text': 'example', 'start': 534.88, 'duration': 4.16}
+{'text': 'um do you do you personally think that', 'start': 535.92, 'duration': 4.479}
+{'text': 'any of those things', 'start': 539.04, 'duration': 3.359}
+{'text': "couldn't be as taboo as they are like do", 'start': 540.399, 'duration': 3.361}
+{'text': 'you wish people would talk more openly', 'start': 542.399, 'duration': 2.401}
+{'text': 'about', 'start': 543.76, 'duration': 2.4}
+{'text': 'um if you would have asked me five years', 'start': 544.8, 'duration': 2.64}
+{'text': 'ago i would say that nothing should be', 'start': 546.16, 'duration': 1.84}
+{'text': 'tapu', 'start': 547.44, 'duration': 2.64}
+{'text': 'everything should be talkable you should', 'start': 548.0, 'duration': 3.44}
+{'text': 'be able to talk about anything nowadays', 'start': 550.08, 'duration': 2.4}
+{'text': "i don't know i try to be a little bit", 'start': 551.44, 'duration': 1.36}
+{'text': 'more', 'start': 552.48, 'duration': 2.96}
+{'text': "sensitive to people's capabilities that", 'start': 552.8, 'duration': 3.36}
+{'text': 'sounds really', 'start': 555.44, 'duration': 3.44}
+{'text': 'um condescending to say but maybe maybe', 'start': 556.16, 'duration': 3.6}
+{'text': "that's not the case", 'start': 558.88, 'duration': 2.399}
+{'text': 'personally i think you should be able to', 'start': 559.76, 'duration': 3.12}
+{'text': 'talk about any of these things but i i', 'start': 561.279, 'duration': 2.641}
+{'text': "guess some people can't", 'start': 562.88, 'duration': 3.36}
+{'text': "i'm not sure i don't know okay i mean", 'start': 563.92, 'duration': 3.52}
+{'text': 'then my next question was gonna be is', 'start': 566.24, 'duration': 2.48}
+{'text': 'there anything that you think should be', 'start': 567.44, 'duration': 2.8}
+{'text': 'taboo like', 'start': 568.72, 'duration': 3.52}
+{'text': "that like is it good that we don't talk", 'start': 570.24, 'duration': 3.36}
+{'text': 'about religion around the dinner table', 'start': 572.24, 'duration': 2.32}
+{'text': 'or politics', 'start': 573.6, 'duration': 2.56}
+{'text': "i mean there's definitely like there's", 'start': 574.56, 'duration': 3.6}
+{'text': 'definitely a time and a place um', 'start': 576.16, 'duration': 4.0}
+{'text': "i don't think we should be debating like", 'start': 578.16, 'duration': 3.04}
+{'text': 'whether or not', 'start': 580.16, 'duration': 3.28}
+{'text': 'um maybe some women deserve to get hit', 'start': 581.2, 'duration': 3.28}
+{'text': 'by their husbands', 'start': 583.44, 'duration': 3.28}
+{'text': 'like in front of like a like a battered', 'start': 584.48, 'duration': 3.44}
+{'text': "women's shelter like that's not", 'start': 586.72, 'duration': 2.559}
+{'text': 'appropriate right', 'start': 587.92, 'duration': 3.84}
+{'text': 'i do think that like most conversations', 'start': 589.279, 'duration': 3.921}
+{'text': 'should have a place', 'start': 591.76, 'duration': 2.96}
+{'text': 'um to deal with them in a responsible', 'start': 593.2, 'duration': 3.199}
+{'text': 'manner though it makes me very scared', 'start': 594.72, 'duration': 3.04}
+{'text': 'that some people are completely', 'start': 596.399, 'duration': 3.521}
+{'text': 'unwilling to have certain conversations', 'start': 597.76, 'duration': 3.28}
+{'text': 'i feel like that led to a lot of', 'start': 599.92, 'duration': 3.359}
+{'text': 'confusion in 2016 when we', 'start': 601.04, 'duration': 5.2}
+{'text': 'like it feels to me like in the 60s when', 'start': 603.279, 'duration': 4.321}
+{'text': 'we talk about like civil rights', 'start': 606.24, 'duration': 3.279}
+{'text': 'like why should black people get the', 'start': 607.6, 'duration': 2.96}
+{'text': 'same rights as white people like these', 'start': 609.519, 'duration': 2.32}
+{'text': 'are questions that were like at the', 'start': 610.56, 'duration': 2.399}
+{'text': 'front of our minds and we had to', 'start': 611.839, 'duration': 2.56}
+{'text': 'actually think about these and wrestle', 'start': 612.959, 'duration': 1.921}
+{'text': 'with these', 'start': 614.399, 'duration': 1.68}
+{'text': 'but i feel like we kind of forgot the', 'start': 614.88, 'duration': 2.639}
+{'text': 'answer to a lot of these questions you', 'start': 616.079, 'duration': 2.241}
+{'text': 'know like what', 'start': 617.519, 'duration': 2.88}
+{'text': 'should women work with men like well why', 'start': 618.32, 'duration': 3.36}
+{'text': "i feel like a lot of people can't answer", 'start': 620.399, 'duration': 2.56}
+{'text': 'questions like this and that kind of', 'start': 621.68, 'duration': 2.399}
+{'text': 'bothers me', 'start': 622.959, 'duration': 2.401}
+{'text': 'yeah i think that kind of explains a', 'start': 624.079, 'duration': 2.88}
+{'text': 'little bit why why people like jordan', 'start': 625.36, 'duration': 3.44}
+{'text': 'peterson are able to like talk about', 'start': 626.959, 'duration': 3.281}
+{'text': 'things like women in the workplace and', 'start': 628.8, 'duration': 2.96}
+{'text': 'only state things like', 'start': 630.24, 'duration': 3.44}
+{'text': 'well people you know women wear lipstick', 'start': 631.76, 'duration': 3.759}
+{'text': 'to be more seductive', 'start': 633.68, 'duration': 3.279}
+{'text': "and enough people don't really know the", 'start': 635.519, 'duration': 3.361}
+{'text': 'reasons why women should be able to work', 'start': 636.959, 'duration': 3.041}
+{'text': 'in the same workplace as men that', 'start': 638.88, 'duration': 2.24}
+{'text': "they're like oh mm-hmm", 'start': 640.0, 'duration': 2.399}
+{'text': 'yeah for sure because you never you', 'start': 641.12, 'duration': 3.279}
+{'text': "don't really spend any time and part of", 'start': 642.399, 'duration': 3.201}
+{'text': 'the big problem is that a lot of these', 'start': 644.399, 'duration': 2.88}
+{'text': 'things are considered unquestionable', 'start': 645.6, 'duration': 3.359}
+{'text': "and i don't think that's healthy because", 'start': 647.279, 'duration': 3.281}
+{'text': 'if things are unquestionable and then', 'start': 648.959, 'duration': 2.961}
+{'text': 'somebody shows up and starts questioning', 'start': 650.56, 'duration': 1.76}
+{'text': 'them', 'start': 651.92, 'duration': 2.24}
+{'text': "you're going to be completely totally", 'start': 652.32, 'duration': 3.04}
+{'text': 'unsanitized', 'start': 654.16, 'duration': 3.6}
+{'text': 'against like these types of views like', 'start': 655.36, 'duration': 3.44}
+{'text': "what the [\xa0__\xa0] you're going to say like i", 'start': 657.76, 'duration': 2.24}
+{'text': "don't know i've i've never actually", 'start': 658.8, 'duration': 2.479}
+{'text': 'heard an argument for why women ought to', 'start': 660.0, 'duration': 1.68}
+{'text': 'work', 'start': 661.279, 'duration': 1.841}
+{'text': 'um alongside men you know like well we', 'start': 661.68, 'duration': 2.56}
+{'text': "are biologically different like that's", 'start': 663.12, 'duration': 2.159}
+{'text': 'true anybody can see that with their', 'start': 664.24, 'duration': 1.92}
+{'text': 'eyes you know', 'start': 665.279, 'duration': 2.161}
+{'text': 'i think that we need to spend more time', 'start': 666.16, 'duration': 3.76}
+{'text': 'working on like these conversations', 'start': 667.44, 'duration': 4.72}
+{'text': "yeah definitely i think that's again", 'start': 669.92, 'duration': 4.0}
+{'text': 'with the jordan peterson angle i i still', 'start': 672.16, 'duration': 2.239}
+{'text': "think that's", 'start': 673.92, 'duration': 2.64}
+{'text': 'like a major reason why a lot of like', 'start': 674.399, 'duration': 4.081}
+{'text': 'right-wing ideologues are able to come', 'start': 676.56, 'duration': 2.959}
+{'text': 'up and be like', 'start': 678.48, 'duration': 3.28}
+{'text': "well trans people can't exist because", 'start': 679.519, 'duration': 3.841}
+{'text': "obviously there's sexual differences and", 'start': 681.76, 'duration': 3.36}
+{'text': 'just say like really basic stuff that', 'start': 683.36, 'duration': 2.24}
+{'text': 'like', 'start': 685.12, 'duration': 1.6}
+{'text': "if you haven't thought about it very", 'start': 685.6, 'duration': 2.64}
+{'text': 'long at all you just yeah it seemed', 'start': 686.72, 'duration': 2.16}
+{'text': 'self-evident', 'start': 688.24, 'duration': 5.039}
+{'text': 'yeah okay um', 'start': 688.88, 'duration': 4.399}
+{'text': 'yeah so my last thing then i guess would', 'start': 694.0, 'duration': 2.88}
+{'text': 'be do you think like how do you think', 'start': 695.44, 'duration': 3.6}
+{'text': 'streaming has affected your', 'start': 696.88, 'duration': 4.8}
+{'text': 'uh i guess opinion on these types of', 'start': 699.04, 'duration': 3.68}
+{'text': 'taboo topics', 'start': 701.68, 'duration': 3.12}
+{'text': 'uh outside of streaming or do you think', 'start': 702.72, 'duration': 3.359}
+{'text': 'it has affected your life outside of', 'start': 704.8, 'duration': 2.88}
+{'text': 'streaming at all', 'start': 706.079, 'duration': 4.081}
+{'text': "uh i don't know my i don't know if my", 'start': 707.68, 'duration': 4.0}
+{'text': 'views have changed that much in the past', 'start': 710.16, 'duration': 2.56}
+{'text': 'like 15 years', 'start': 711.68, 'duration': 2.959}
+{'text': 'related to that like 12 years since i', 'start': 712.72, 'duration': 2.96}
+{'text': "got out of high school i'm not sure if", 'start': 714.639, 'duration': 2.481}
+{'text': 'they have', 'start': 715.68, 'duration': 4.0}
+{'text': "okay um yeah i mean that's pretty much", 'start': 717.12, 'duration': 4.08}
+{'text': 'all the questions i had for you on that', 'start': 719.68, 'duration': 3.44}
+{'text': 'um unless is there anything you wanted', 'start': 721.2, 'duration': 3.12}
+{'text': 'to ask me about or', 'start': 723.12, 'duration': 3.92}
+{'text': 'expand on more um not really what was', 'start': 724.32, 'duration': 3.759}
+{'text': 'your motivation for having this', 'start': 727.04, 'duration': 2.16}
+{'text': 'conversation', 'start': 728.079, 'duration': 2.801}
+{'text': 'i was just really interested i this is', 'start': 729.2, 'duration': 3.12}
+{'text': 'like a a', 'start': 730.88, 'duration': 3.44}
+{'text': 'like thing i want to research eventually', 'start': 732.32, 'duration': 3.519}
+{'text': 'in grad school and i just was', 'start': 734.32, 'duration': 2.959}
+{'text': 'really curious what you had to say about', 'start': 735.839, 'duration': 3.361}
+{'text': 'it since you have had exposure to a lot', 'start': 737.279, 'duration': 4.0}
+{'text': 'of online communities', 'start': 739.2, 'duration': 4.72}
+{'text': 'okay so yeah i appreciate it man yeah', 'start': 741.279, 'duration': 4.081}
+{'text': 'well hey have fun be careful', 'start': 743.92, 'duration': 3.599}
+{'text': 'hey you too but what the [\xa0__\xa0] is up you', 'start': 745.36, 'duration': 3.12}
+{'text': 'irish [\xa0__\xa0]', 'start': 747.519, 'duration': 2.32}
+{'text': 'good morning conor mcgregor i know', 'start': 748.48, 'duration': 2.64}
+{'text': "you're probably beating up old dudes in", 'start': 749.839, 'duration': 2.721}
+{'text': "a bar right now or maybe you're jacking", 'start': 751.12, 'duration': 2.56}
+{'text': "off because you're sick of [\xa0__\xa0] your", 'start': 752.56, 'duration': 2.48}
+{'text': "wife i mean she's a four counter you", 'start': 753.68, 'duration': 3.599}
+{'text': 'could do a lot better but happy monday', 'start': 755.04, 'duration': 4.0}
+{'text': 'my team sent you a 50 million dollar', 'start': 757.279, 'duration': 3.841}
+{'text': 'offer this morning 50 million dollars', 'start': 759.04, 'duration': 2.64}
+{'text': 'cash', 'start': 761.12, 'duration': 2.8}
+{'text': 'proof of funds the biggest fight offer', 'start': 761.68, 'duration': 3.599}
+{'text': "you've ever been offered but you're", 'start': 763.92, 'duration': 2.96}
+{'text': 'scared to fight me connor', 'start': 765.279, 'duration': 2.641}
+{'text': "you're ducking me because you don't want", 'start': 766.88, 'duration': 3.199}
+{'text': "to lose to a [\xa0__\xa0] youtuber you're on", 'start': 767.92, 'duration': 3.28}
+{'text': 'one as a boxer', 'start': 770.079, 'duration': 3.361}
+{'text': "i'm 2-0 as a boxer i just came off the", 'start': 771.2, 'duration': 3.199}
+{'text': 'eighth biggest', 'start': 773.44, 'duration': 2.959}
+{'text': 'pay-per-view event in history but you', 'start': 774.399, 'duration': 4.24}
+{'text': 'want to fight dustin prober who has less', 'start': 776.399, 'duration': 3.44}
+{'text': 'followers on instagram', 'start': 778.639, 'duration': 3.841}
+{'text': "than my [\xa0__\xa0] dog that's a fact and", 'start': 779.839, 'duration': 3.361}
+{'text': 'dana white', 'start': 782.48, 'duration': 3.28}
+{'text': "you're a [\xa0__\xa0] [\xa0__\xa0] too you ugly", 'start': 783.2, 'duration': 3.199}
+{'text': '[\xa0__\xa0]', 'start': 785.76, 'duration': 3.199}
+{'text': "bald [\xa0__\xa0] you said there's zero percent", 'start': 786.399, 'duration': 3.601}
+{'text': 'chances of this fight happening but', 'start': 788.959, 'duration': 2.241}
+{'text': "there's zero percent chance of you", 'start': 790.0, 'duration': 2.88}
+{'text': 'getting some [\xa0__\xa0] [\xa0__\xa0]', 'start': 791.2, 'duration': 4.56}
+{'text': "connor you're scared dana you're scared", 'start': 792.88, 'duration': 5.04}
+{'text': 'sign the [\xa0__\xa0] contract you idiots', 'start': 795.76, 'duration': 7.36}
+{'text': 'jesus [\xa0__\xa0] christ irish [\xa0__\xa0]', 'start': 797.92, 'duration': 7.44}
+{'text': '[\xa0__\xa0] this guy what the [\xa0__\xa0] is up you', 'start': 803.12, 'duration': 4.0}
+{'text': 'irish khan people make fun of logan paul', 'start': 805.36, 'duration': 2.8}
+{'text': 'for this [\xa0__\xa0]', 'start': 807.12, 'duration': 2.399}
+{'text': "or jake paul sorry they're all the same", 'start': 808.16, 'duration': 3.2}
+{'text': "people i mean but i'm pretty sure this", 'start': 809.519, 'duration': 3.44}
+{'text': 'is a large part of like why conor', 'start': 811.36, 'duration': 3.599}
+{'text': 'mcgregor got as popular', 'start': 812.959, 'duration': 3.521}
+{'text': 'for like ufc [\xa0__\xa0] right was all the', 'start': 814.959, 'duration': 3.361}
+{'text': 'trash talk and everything like', 'start': 816.48, 'duration': 3.12}
+{'text': "you guys can try to pretend it's not the", 'start': 818.32, 'duration': 3.92}
+{'text': 'case but it definitely was', 'start': 819.6, 'duration': 5.28}
+{'text': 'oh i got two lawyer people emailing me', 'start': 822.24, 'duration': 3.44}
+{'text': 'one guy', 'start': 824.88, 'duration': 4.399}
+{'text': 'asked his mom questions about um', 'start': 825.68, 'duration': 4.8}
+{'text': 'affidavits and then another guy just', 'start': 829.279, 'duration': 3.521}
+{'text': 'sent me like an angry email um', 'start': 830.48, 'duration': 5.28}
+{'text': 'so supposedly', 'start': 832.8, 'duration': 2.96}
+{'text': 'affidavits are like jack [\xa0__\xa0] so the big', 'start': 836.16, 'duration': 3.76}
+{'text': 'problem with that david is that one', 'start': 838.16, 'duration': 4.799}
+{'text': 'um even if even if somebody lies on an', 'start': 839.92, 'duration': 3.919}
+{'text': 'affidavit', 'start': 842.959, 'duration': 2.56}
+{'text': "um one it's incredibly difficult to", 'start': 843.839, 'duration': 3.36}
+{'text': 'prove that they knowingly lied', 'start': 845.519, 'duration': 3.281}
+{'text': "and then two it's very rare that anybody", 'start': 847.199, 'duration': 3.121}
+{'text': 'actually gets like prosecuted for lying', 'start': 848.8, 'duration': 3.52}
+{'text': 'on an affidavit like worse is like a 500', 'start': 850.32, 'duration': 4.4}
+{'text': 'fine or something stupid like that um', 'start': 852.32, 'duration': 3.519}
+{'text': 'and the second thing is that just', 'start': 854.72, 'duration': 2.239}
+{'text': "because you're an affidavit doesn't mean", 'start': 855.839, 'duration': 2.401}
+{'text': 'the affidavit is proof', 'start': 856.959, 'duration': 3.521}
+{'text': 'of like any type of wrongdoing like most', 'start': 858.24, 'duration': 3.599}
+{'text': 'of these are like hearsay by like a', 'start': 860.48, 'duration': 2.719}
+{'text': 'third party like oh i heard him say', 'start': 861.839, 'duration': 2.641}
+{'text': 'something to somebody else or whatever', 'start': 863.199, 'duration': 3.681}
+{'text': 'which is like in and of itself is', 'start': 864.48, 'duration': 4.0}
+{'text': 'already kind of like shitty testimony', 'start': 866.88, 'duration': 4.24}
+{'text': 'um like these would mean more if it was', 'start': 868.48, 'duration': 4.08}
+{'text': 'like somebody told me to do something', 'start': 871.12, 'duration': 2.8}
+{'text': 'bad or i told somebody else to do', 'start': 872.56, 'duration': 2.32}
+{'text': 'something bad but a lot of this', 'start': 873.92, 'duration': 2.08}
+{'text': 'literally was like i heard him say to', 'start': 874.88, 'duration': 2.079}
+{'text': 'somebody else or blah blah blah blah', 'start': 876.0, 'duration': 1.839}
+{'text': 'blah blah blah blah yeah', 'start': 876.959, 'duration': 1.601}
+{'text': 'what do you think about that one guy', 'start': 877.839, 'duration': 1.761}
+{'text': "saying jill biden shouldn't use the", 'start': 878.56, 'duration': 2.719}
+{'text': 'doctor title i read part of the article', 'start': 879.6, 'duration': 3.359}
+{'text': 'that dude was deranged', 'start': 881.279, 'duration': 4.24}
+{'text': 'um pretty sure doctor meant like [\xa0__\xa0]', 'start': 882.959, 'duration': 3.921}
+{'text': 'doctor of philosophy or something before', 'start': 885.519, 'duration': 2.481}
+{'text': 'it had anything to do with medical', 'start': 886.88, 'duration': 3.36}
+{'text': 'doctor dude if you went to school', 'start': 888.0, 'duration': 4.32}
+{'text': 'have you got a [\xa0__\xa0] phd call yourself', 'start': 890.24, 'duration': 5.12}
+{'text': 'a doctor what the [\xa0__\xa0]', 'start': 892.32, 'duration': 3.04}
+{'text': 'you love me i love my mommy oh', 'start': 895.6, 'duration': 7.599}
+{'text': 'baby you want me yes what are you doing', 'start': 899.279, 'duration': 7.201}
+{'text': 'whoa what are you doing', 'start': 903.199, 'duration': 5.121}
+{'text': "it's just for snapchat why are you", 'start': 906.48, 'duration': 3.039}
+{'text': 'recording though', 'start': 908.32, 'duration': 3.44}
+{'text': "what's the issue all my homies see that", 'start': 909.519, 'duration': 3.921}
+{'text': "you're not going to roll me down no more", 'start': 911.76, 'duration': 4.639}
+{'text': "why not they don't think i wrote like", 'start': 913.44, 'duration': 4.16}
+{'text': 'that bro delete that', 'start': 916.399, 'duration': 11.44}
+{'text': 'oh my gosh', 'start': 917.6, 'duration': 10.239}
+{'text': "what's your conference call for uh", 'start': 928.72, 'duration': 6.44}
+{'text': 'for redacted or redact.dev', 'start': 931.759, 'duration': 4.561}
+{'text': 'www.redact.dev', 'start': 935.16, 'duration': 2.44}
+{'text': 'you should check it out very good', 'start': 936.32, 'duration': 3.92}
+{'text': 'website for signing up for alerts yeah', 'start': 937.6, 'duration': 6.239}
+{'text': 'wow how long until you have uh that all', 'start': 940.24, 'duration': 5.279}
+{'text': 'figured out', 'start': 943.839, 'duration': 4.8}
+{'text': "um well i mean it's mostly figured out", 'start': 945.519, 'duration': 3.68}
+{'text': "i'm just", 'start': 948.639, 'duration': 3.841}
+{'text': 'working on things like uh', 'start': 949.199, 'duration': 3.281}
+{'text': "well let's see doing the trademark", 'start': 953.44, 'duration': 3.6}
+{'text': 'tomorrow', 'start': 956.399, 'duration': 2.081}
+{'text': "today i'm getting all the terms of", 'start': 957.04, 'duration': 3.039}
+{'text': 'service and legal stuff', 'start': 958.48, 'duration': 3.68}
+{'text': "started that's gonna be a long process", 'start': 960.079, 'duration': 3.281}
+{'text': "and then i'm", 'start': 962.16, 'duration': 2.799}
+{'text': 'working on fundraising and things like', 'start': 963.36, 'duration': 3.76}
+{'text': "that so we'll see how much funds do you", 'start': 964.959, 'duration': 3.44}
+{'text': 'need raised', 'start': 967.12, 'duration': 3.6}
+{'text': "it's not i don't need any at all i'm i'm", 'start': 968.399, 'duration': 4.081}
+{'text': 'fine finding it myself', 'start': 970.72, 'duration': 4.08}
+{'text': 'because if you want to get like really', 'start': 972.48, 'duration': 3.279}
+{'text': 'smart people', 'start': 974.8, 'duration': 3.599}
+{'text': 'that are going to help you like um work', 'start': 975.759, 'duration': 3.681}
+{'text': "well so you have the money you don't", 'start': 978.399, 'duration': 4.0}
+{'text': 'have the smarts no', 'start': 979.44, 'duration': 4.56}
+{'text': "that's not what it is if you wanna you", 'start': 982.399, 'duration': 3.521}
+{'text': "can't just get people to help you you", 'start': 984.0, 'duration': 3.199}
+{'text': 'need to make them pay you', 'start': 985.92, 'duration': 4.08}
+{'text': "for the privilege it's stupid but it", 'start': 987.199, 'duration': 4.401}
+{'text': "unironically works that way like i can't", 'start': 990.0, 'duration': 2.8}
+{'text': 'just go like hey uh', 'start': 991.6, 'duration': 2.32}
+{'text': "well they're not it sounds like it's", 'start': 992.8, 'duration': 2.479}
+{'text': 'less than paying you for the privilege', 'start': 993.92, 'duration': 2.64}
+{'text': "it's more that they're buying an equity", 'start': 995.279, 'duration': 1.841}
+{'text': 'stake in', 'start': 996.56, 'duration': 1.68}
+{'text': 'their your company and you think that', 'start': 997.12, 'duration': 2.399}
+{'text': 'they can give like meaningful input', 'start': 998.24, 'duration': 2.48}
+{'text': 'while they have an equity stake because', 'start': 999.519, 'duration': 2.401}
+{'text': 'why would they give you input without it', 'start': 1000.72, 'duration': 2.32}
+{'text': 'right', 'start': 1001.92, 'duration': 2.96}
+{'text': "yeah basically but you know it's it's", 'start': 1003.04, 'duration': 3.76}
+{'text': "difficult just to say hey i'm happy to", 'start': 1004.88, 'duration': 2.56}
+{'text': 'give you', 'start': 1006.8, 'duration': 2.479}
+{'text': 'a percentage if you want to advise us', 'start': 1007.44, 'duration': 3.36}
+{'text': "because that's", 'start': 1009.279, 'duration': 4.641}
+{'text': 'supplies surprisingly more like uh', 'start': 1010.8, 'duration': 7.839}
+{'text': 'like difficult to have happen so yeah um', 'start': 1013.92, 'duration': 4.719}
+{'text': "well i i could be wrong but i'm willing", 'start': 1018.8, 'duration': 3.52}
+{'text': 'to bet that them buying', 'start': 1020.639, 'duration': 5.361}
+{'text': 'shares probably also helps in the future', 'start': 1022.32, 'duration': 5.28}
+{'text': 'because you can kind of sort of point to', 'start': 1026.0, 'duration': 3.199}
+{'text': 'a valuation of a company based on what', 'start': 1027.6, 'duration': 2.079}
+{'text': 'people were', 'start': 1029.199, 'duration': 2.401}
+{'text': 'buying and selling shares of it before', 'start': 1029.679, 'duration': 3.12}
+{'text': 'right', 'start': 1031.6, 'duration': 3.359}
+{'text': "i guess i mean it's been so so long", 'start': 1032.799, 'duration': 3.361}
+{'text': "since i've done anything this and i've", 'start': 1034.959, 'duration': 3.041}
+{'text': "just started the process so we'll see if", 'start': 1036.16, 'duration': 4.24}
+{'text': 'you want shark tank dan', 'start': 1038.0, 'duration': 6.88}
+{'text': "um no i don't think that's for me", 'start': 1040.4, 'duration': 6.08}
+{'text': 'although i do think mr wonderful is a', 'start': 1044.88, 'duration': 3.199}
+{'text': "pretty cool guy he's my favorite", 'start': 1046.48, 'duration': 2.72}
+{'text': 'character on that show', 'start': 1048.079, 'duration': 5.761}
+{'text': 'by far what what a chat', 'start': 1049.2, 'duration': 4.64}
+{'text': 'what do you think what does he do wrong', 'start': 1056.24, 'duration': 4.559}
+{'text': 'here why do you think he goes off-road', 'start': 1057.6, 'duration': 4.4}
+{'text': 'does he need to break does he just need', 'start': 1060.799, 'duration': 4.041}
+{'text': 'to break a little bit first or', 'start': 1062.0, 'duration': 7.36}
+{'text': 'no [\xa0__\xa0] this looks like so much fun', 'start': 1064.84, 'duration': 4.52}
+{'text': 'he just said it was just too fast he', 'start': 1070.0, 'duration': 5.919}
+{'text': 'needs to turn harder', 'start': 1072.88, 'duration': 4.64}
+{'text': 'you have to be really careful with the', 'start': 1075.919, 'duration': 3.041}
+{'text': 'way that your wheels are on the road if', 'start': 1077.52, 'duration': 3.36}
+{'text': 'your wheels are ever too far aligned', 'start': 1078.96, 'duration': 3.68}
+{'text': "off of where like your car is headed i'm", 'start': 1080.88, 'duration': 2.96}
+{'text': 'pretty sure you just skid and lose', 'start': 1082.64, 'duration': 2.48}
+{'text': "control completely i don't think you can", 'start': 1083.84, 'duration': 1.76}
+{'text': 'do that', 'start': 1085.12, 'duration': 1.84}
+{'text': 'i think your wheels always have to be', 'start': 1085.6, 'duration': 2.72}
+{'text': 'pointed like about like where you want', 'start': 1086.96, 'duration': 1.76}
+{'text': 'to go', 'start': 1088.32, 'duration': 3.84}
+{'text': 'and like relatively in line with the car', 'start': 1088.72, 'duration': 3.44}
+{'text': 'right', 'start': 1092.84, 'duration': 3.0}
+{'text': 'when people do these types of track', 'start': 1098.08, 'duration': 3.599}
+{'text': 'racings do they turn off', 'start': 1099.679, 'duration': 4.961}
+{'text': "um i don't it's called esp and", 'start': 1101.679, 'duration': 4.24}
+{'text': "volkswagen cars what's like the", 'start': 1104.64, 'duration': 2.64}
+{'text': 'electronic string protection the', 'start': 1105.919, 'duration': 2.64}
+{'text': 'automatic wheel [\xa0__\xa0] did they turn all', 'start': 1107.28, 'duration': 4.0}
+{'text': 'that stuff off', 'start': 1108.559, 'duration': 2.721}
+{'text': 'four-wheel drive means lots of', 'start': 1120.559, 'duration': 3.281}
+{'text': 'understeer so too much speed with entry', 'start': 1121.84, 'duration': 4.24}
+{'text': "a lot of understeer don't a lot of these", 'start': 1123.84, 'duration': 3.839}
+{'text': 'cars these little racer cars do like', 'start': 1126.08, 'duration': 4.08}
+{'text': 'rear wheel drive', 'start': 1127.679, 'duration': 4.24}
+{'text': 'like i know my little focus rs if i turn', 'start': 1130.16, 'duration': 3.44}
+{'text': 'on like the sport mode of the track mode', 'start': 1131.919, 'duration': 3.521}
+{'text': 'most of the uh power is sent to the rear', 'start': 1133.6, 'duration': 4.24}
+{'text': 'wheels', 'start': 1135.44, 'duration': 2.4}
+{'text': "but i don't know about like type r or", 'start': 1138.64, 'duration': 2.56}
+{'text': "civics or anything i'm not sure if they", 'start': 1140.0, 'duration': 2.48}
+{'text': 'do that or not i thought that was pretty', 'start': 1141.2, 'duration': 4.719}
+{'text': 'common though but it could be one', 'start': 1142.48, 'duration': 3.439}
+{'text': 'the type r is four wheel drive only ooh', 'start': 1148.64, 'duration': 5.44}
+{'text': 'interesting okay', 'start': 1151.2, 'duration': 2.88}
+{'text': 'one thing that i am so spoiled by my', 'start': 1154.16, 'duration': 3.6}
+{'text': 'all-wheel drive car', 'start': 1156.64, 'duration': 2.32}
+{'text': "i don't think i could ever drive", 'start': 1157.76, 'duration': 2.56}
+{'text': 'somebody told me that a long time ago', 'start': 1158.96, 'duration': 2.48}
+{'text': "before i got my focus you're like dude", 'start': 1160.32, 'duration': 2.239}
+{'text': 'if you start driving all-wheel drive', 'start': 1161.44, 'duration': 2.4}
+{'text': "cars you'll never want to drive anything", 'start': 1162.559, 'duration': 1.921}
+{'text': 'different', 'start': 1163.84, 'duration': 3.28}
+{'text': 'and they like they drive themselves dude', 'start': 1164.48, 'duration': 3.84}
+{'text': "it's like it's like if you get like an", 'start': 1167.12, 'duration': 3.52}
+{'text': 'air 15 with like a little red dot', 'start': 1168.32, 'duration': 5.359}
+{'text': 'it becomes unironically video game tier', 'start': 1170.64, 'duration': 3.44}
+{'text': 'level', 'start': 1173.679, 'duration': 2.0}
+{'text': "of shooting at [\xa0__\xa0] it's actually", 'start': 1174.08, 'duration': 4.56}
+{'text': 'unbelievable like you could', 'start': 1175.679, 'duration': 2.961}
+{'text': 'like literally unbelievable with a red', 'start': 1191.039, 'duration': 4.241}
+{'text': 'dot and then the all-wheel drive cars', 'start': 1193.52, 'duration': 4.56}
+{'text': "also feel similar like they're so", 'start': 1195.28, 'duration': 5.92}
+{'text': 'amazing you never spin your tires maybe', 'start': 1198.08, 'duration': 4.64}
+{'text': 'on really powerful cars you do', 'start': 1201.2, 'duration': 4.0}
+{'text': 'like the handling is unreal like oh my', 'start': 1202.72, 'duration': 4.24}
+{'text': 'god yeah you can drive and snow with', 'start': 1205.2, 'duration': 3.2}
+{'text': 'them like jesus', 'start': 1206.96, 'duration': 2.719}
+{'text': 'remember to hit that like and subscribe', 'start': 1208.4, 'duration': 2.8}
+{'text': "and don't forget the notification bell", 'start': 1209.679, 'duration': 3.12}
+{'text': 'so that my videos show up', 'start': 1211.2, 'duration': 10.64}
+{'text': 'right in your feed maybe', 'start': 1212.799, 'duration': 9.041}
+{'text': 'you', 'start': 1222.48, 'duration': 2.079}

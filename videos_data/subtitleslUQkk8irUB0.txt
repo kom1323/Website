@@ -1,0 +1,1120 @@
+{'text': "we're spending a thousand dollars a day", 'start': 0.0, 'duration': 2.399}
+{'text': "here that means you're gonna like it", 'start': 1.199, 'duration': 2.961}
+{'text': 'okay you understand', 'start': 2.399, 'duration': 3.121}
+{'text': "you're gonna have fun you're gonna enjoy", 'start': 4.16, 'duration': 2.88}
+{'text': "it you're gonna make memories here", 'start': 5.52, 'duration': 3.039}
+{'text': "you're gonna make memories you're gonna", 'start': 7.04, 'duration': 3.28}
+{'text': "have fun you're gonna go home and you're", 'start': 8.559, 'duration': 3.12}
+{'text': 'gonna tell mom that you like being here', 'start': 10.32, 'duration': 3.92}
+{'text': "okay you're also gonna kick your ass do", 'start': 11.679, 'duration': 6.241}
+{'text': 'you understand', 'start': 14.24, 'duration': 3.68}
+{'text': 'yeah say yes yes dad yes father say yes', 'start': 20.0, 'duration': 6.24}
+{'text': "father oh i'm gonna say your father", 'start': 23.279, 'duration': 5.281}
+{'text': 'after', 'start': 26.24, 'duration': 2.32}
+{'text': 'do you think you can um me off the', 'start': 29.279, 'duration': 2.881}
+{'text': 'building yeah remember that time we were', 'start': 30.16, 'duration': 2.48}
+{'text': 'playing', 'start': 32.16, 'duration': 3.04}
+{'text': 'um the zombie game and you fell off the', 'start': 32.64, 'duration': 4.56}
+{'text': 'building because i tricked you', 'start': 35.2, 'duration': 3.12}
+{'text': "i'm gonna show you something really cool", 'start': 37.2, 'duration': 3.519}
+{'text': 'okay ready', 'start': 38.32, 'duration': 5.28}
+{'text': 'okay on your keyboard push f and hold it', 'start': 40.719, 'duration': 4.881}
+{'text': 'down are you holding down f', 'start': 43.6, 'duration': 5.119}
+{'text': 'yeah okay now hold down d', 'start': 45.6, 'duration': 5.32}
+{'text': 'okay yeah', 'start': 48.719, 'duration': 7.121}
+{'text': '[Laughter]', 'start': 50.92, 'duration': 6.44}
+{'text': 'do you think you can throw me off coming', 'start': 55.84, 'duration': 3.92}
+{'text': "yeah i don't think so", 'start': 57.36, 'duration': 4.72}
+{'text': 'okay say yes sir to the tower', 'start': 59.76, 'duration': 5.51}
+{'text': '[Music]', 'start': 62.08, 'duration': 3.19}
+{'text': 'what do you say yes sir nathan no sir', 'start': 65.36, 'duration': 7.6}
+{'text': 'what do you say anything yes', 'start': 68.88, 'duration': 4.08}
+{'text': 'what do you say yes sir', 'start': 73.439, 'duration': 3.841}
+{'text': 'this year so far has literally just been', 'start': 78.32, 'duration': 3.439}
+{'text': 'back to back drama', 'start': 80.32, 'duration': 4.64}
+{'text': 'for like 20 consecutive days so who are', 'start': 81.759, 'duration': 4.641}
+{'text': 'the winners and the losers', 'start': 84.96, 'duration': 3.44}
+{'text': 'of this whole situation if you had to', 'start': 86.4, 'duration': 3.359}
+{'text': 'really give you know', 'start': 88.4, 'duration': 3.12}
+{'text': 'awards here super depends on you', 'start': 89.759, 'duration': 3.441}
+{'text': 'consider a winner or a loser right', 'start': 91.52, 'duration': 3.68}
+{'text': 'well you can really determine that', 'start': 93.2, 'duration': 3.68}
+{'text': 'yourself right now i mean i can say from', 'start': 95.2, 'duration': 2.959}
+{'text': 'my perspective', 'start': 96.88, 'duration': 2.96}
+{'text': "sure let's do that from years i mean i", 'start': 98.159, 'duration': 3.041}
+{'text': 'feel like i won because i', 'start': 99.84, 'duration': 3.44}
+{'text': 'cut out some toxic influence in my life', 'start': 101.2, 'duration': 4.879}
+{'text': 'um i would argue that molina and erica', 'start': 103.28, 'duration': 3.76}
+{'text': 'won because they', 'start': 106.079, 'duration': 2.4}
+{'text': 'discovered and cut out a snake but i', 'start': 107.04, 'duration': 2.719}
+{'text': "mean from their perspective i'm sure", 'start': 108.479, 'duration': 2.881}
+{'text': "they feel like they've lost something", 'start': 109.759, 'duration': 4.081}
+{'text': "right mm-hmm um but that's so it's hard", 'start': 111.36, 'duration': 3.92}
+{'text': 'to evaluate that like is that a win or a', 'start': 113.84, 'duration': 2.879}
+{'text': "loss you know like you've lost a friend", 'start': 115.28, 'duration': 4.4}
+{'text': "but the friend didn't really exist like", 'start': 116.719, 'duration': 4.481}
+{'text': "yeah were they there at all that's true", 'start': 119.68, 'duration': 3.119}
+{'text': "that's true um", 'start': 121.2, 'duration': 2.879}
+{'text': "how's it going with book smarts", 'start': 122.799, 'duration': 2.481}
+{'text': "apparently he's another winner out of", 'start': 124.079, 'duration': 3.441}
+{'text': 'this his viewership is way up up up', 'start': 125.28, 'duration': 5.759}
+{'text': 'which is great um yeah have you seen', 'start': 127.52, 'duration': 4.719}
+{'text': "he's doing really well", 'start': 131.039, 'duration': 4.881}
+{'text': 'yeah so um yeah i saw him too', 'start': 132.239, 'duration': 5.601}
+{'text': 'i feel like i have a lot of ways of like', 'start': 135.92, 'duration': 3.679}
+{'text': 'understanding how people act', 'start': 137.84, 'duration': 3.52}
+{'text': "but i don't have these are grounded in", 'start': 139.599, 'duration': 4.0}
+{'text': 'like just a lot of personal observation', 'start': 141.36, 'duration': 3.76}
+{'text': "and it's much harder to argue these", 'start': 143.599, 'duration': 3.36}
+{'text': "things so i don't know", 'start': 145.12, 'duration': 3.199}
+{'text': "i don't know what to do when i run into", 'start': 146.959, 'duration': 3.681}
+{'text': "people that disagree because i don't", 'start': 148.319, 'duration': 3.601}
+{'text': 'know how to argue them', 'start': 150.64, 'duration': 3.44}
+{'text': 'like when i see somebody like um if i', 'start': 151.92, 'duration': 3.52}
+{'text': 'know somebody that has like a set', 'start': 154.08, 'duration': 3.04}
+{'text': 'pattern of behavior and they break that', 'start': 155.44, 'duration': 2.879}
+{'text': 'pattern for something', 'start': 157.12, 'duration': 4.96}
+{'text': 'that is like that like screams', 'start': 158.319, 'duration': 6.081}
+{'text': 'something at me but for a lot of people', 'start': 162.08, 'duration': 3.519}
+{'text': 'what does it scream at you that', 'start': 164.4, 'duration': 2.8}
+{'text': "something has changed that they're doing", 'start': 165.599, 'duration': 2.64}
+{'text': "something they don't want you to know", 'start': 167.2, 'duration': 1.6}
+{'text': 'about', 'start': 168.239, 'duration': 2.08}
+{'text': "or that something but he's forced him to", 'start': 168.8, 'duration': 2.799}
+{'text': "do something different or there's some", 'start': 170.319, 'duration': 2.481}
+{'text': 'dramatic depart like', 'start': 171.599, 'duration': 2.321}
+{'text': "there's like like there's like little", 'start': 172.8, 'duration': 2.799}
+{'text': 'observations like that and some people', 'start': 173.92, 'duration': 2.88}
+{'text': 'seem to think like oh no like that', 'start': 175.599, 'duration': 2.161}
+{'text': "doesn't mean anything at all like it", 'start': 176.8, 'duration': 2.159}
+{'text': "could just be the same as like i don't", 'start': 177.76, 'duration': 2.96}
+{'text': 'know it feels like a big thing to me', 'start': 178.959, 'duration': 2.881}
+{'text': "so i don't know there's like a lot of", 'start': 180.72, 'duration': 2.799}
+{'text': 'small personal inspirations like that', 'start': 181.84, 'duration': 2.479}
+{'text': 'and i notice', 'start': 183.519, 'duration': 2.401}
+{'text': 'i guess generally these types of things', 'start': 184.319, 'duration': 2.56}
+{'text': "don't matter because usually when i'm", 'start': 185.92, 'duration': 3.28}
+{'text': "arguing it's like policy or politics or", 'start': 186.879, 'duration': 3.921}
+{'text': 'something that happened or whatever that', 'start': 189.2, 'duration': 3.28}
+{'text': 'like not personal life stuff but for', 'start': 190.8, 'duration': 3.04}
+{'text': "personal stuff it's very frustrating", 'start': 192.48, 'duration': 3.28}
+{'text': 'because um', 'start': 193.84, 'duration': 3.2}
+{'text': 'yeah because people disagree like oh i', 'start': 195.76, 'duration': 2.32}
+{'text': "don't think that means anything so okay", 'start': 197.04, 'duration': 2.88}
+{'text': "well i don't know how to argue against", 'start': 198.08, 'duration': 4.239}
+{'text': 'like our intuitions you know dustin', 'start': 199.92, 'duration': 4.0}
+{'text': "you're thinking of people as adversarial", 'start': 202.319, 'duration': 3.041}
+{'text': "by default that's pretty [\xa0__\xa0] no i don't", 'start': 203.92, 'duration': 2.72}
+{'text': "view people's adversarial i view", 'start': 205.36, 'duration': 2.799}
+{'text': "people's selfish and through your", 'start': 206.64, 'duration': 2.319}
+{'text': 'selfishness', 'start': 208.159, 'duration': 3.201}
+{'text': 'adversary arises because if there come', 'start': 208.959, 'duration': 3.84}
+{'text': 'becomes a conflict of interest between', 'start': 211.36, 'duration': 2.56}
+{'text': "what's better for you or what's better", 'start': 212.799, 'duration': 2.881}
+{'text': 'for me you will 99 of the time too so', 'start': 213.92, 'duration': 2.64}
+{'text': "it's better for you", 'start': 215.68, 'duration': 2.559}
+{'text': 'so i view people as adversarial because', 'start': 216.56, 'duration': 3.12}
+{'text': 'generally people will seek to fulfill', 'start': 218.239, 'duration': 2.64}
+{'text': "like what makes them happy and they'll", 'start': 219.68, 'duration': 2.4}
+{'text': 'do it at your expense', 'start': 220.879, 'duration': 2.481}
+{'text': 'so in that sense i view people as', 'start': 222.08, 'duration': 2.32}
+{'text': "adversarial but i don't think they're", 'start': 223.36, 'duration': 2.159}
+{'text': 'adversarial that like they got your way', 'start': 224.4, 'duration': 2.32}
+{'text': 'to [\xa0__\xa0] with you i just think they', 'start': 225.519, 'duration': 2.8}
+{'text': 'usually maximize their own things', 'start': 226.72, 'duration': 3.519}
+{'text': "um it's very very very very very rare", 'start': 228.319, 'duration': 3.84}
+{'text': 'one out of 100 million people', 'start': 230.239, 'duration': 3.441}
+{'text': 'actually will ever consider like how', 'start': 232.159, 'duration': 2.881}
+{'text': 'somebody else feels about a particular', 'start': 233.68, 'duration': 2.96}
+{'text': 'thing before they act it is incredibly', 'start': 235.04, 'duration': 2.24}
+{'text': 'rare', 'start': 236.64, 'duration': 2.0}
+{'text': 'the thing that really surprised me the', 'start': 237.28, 'duration': 2.8}
+{'text': 'book smart the one thing that i walked', 'start': 238.64, 'duration': 2.239}
+{'text': 'away with was', 'start': 240.08, 'duration': 2.079}
+{'text': 'the example you brought up of like', 'start': 240.879, 'duration': 3.201}
+{'text': 'tilting your phone and he disagreed that', 'start': 242.159, 'duration': 3.681}
+{'text': "that meant somebody's hiding something", 'start': 244.08, 'duration': 4.48}
+{'text': 'i i refuse to believe that he honestly', 'start': 245.84, 'duration': 4.0}
+{'text': 'thinks that', 'start': 248.56, 'duration': 2.879}
+{'text': 'nobody [\xa0__\xa0] kills the phone unless', 'start': 249.84, 'duration': 3.759}
+{'text': "it's porn or some kind", 'start': 251.439, 'duration': 5.04}
+{'text': "like that yeah what's your impression of", 'start': 253.599, 'duration': 4.32}
+{'text': 'uh mr book smarts there', 'start': 256.479, 'duration': 4.081}
+{'text': 'uh the scrub king and just let it all', 'start': 257.919, 'duration': 4.16}
+{'text': 'out', 'start': 260.56, 'duration': 4.0}
+{'text': "what you're such a [\xa0__\xa0] drama frog oh", 'start': 262.079, 'duration': 4.001}
+{'text': "i'm sorry if you can't give a real man", 'start': 264.56, 'duration': 3.04}
+{'text': "no [\xa0__\xa0] that's what he does if you're a", 'start': 266.08, 'duration': 2.559}
+{'text': 'coward', 'start': 267.6, 'duration': 3.44}
+{'text': "um that's fine too should we just start", 'start': 268.639, 'duration': 4.801}
+{'text': 'call you the coward king from now on or', 'start': 271.04, 'duration': 4.24}
+{'text': "no just because they don't hate every", 'start': 273.44, 'duration': 3.199}
+{'text': "single i didn't say you had to hate him", 'start': 275.28, 'duration': 2.72}
+{'text': 'i asked what your opinion was and you', 'start': 276.639, 'duration': 2.401}
+{'text': "would yeah but you're", 'start': 278.0, 'duration': 2.16}
+{'text': 'feeding it with just like you got to', 'start': 279.04, 'duration': 3.2}
+{'text': 'give us an honest take you know a real', 'start': 280.16, 'duration': 3.039}
+{'text': 'opinion', 'start': 282.24, 'duration': 4.399}
+{'text': 'what does that mean uh that what what', 'start': 283.199, 'duration': 5.041}
+{'text': 'if i just say if you need me to define', 'start': 286.639, 'duration': 2.881}
+{'text': 'honesty to you have you been like so', 'start': 288.24, 'duration': 2.88}
+{'text': "full of [\xa0__\xa0] if i just say i think he's", 'start': 289.52, 'duration': 3.04}
+{'text': "a cool dude you're gonna say well that's", 'start': 291.12, 'duration': 2.88}
+{'text': 'not a real answer no i', 'start': 292.56, 'duration': 2.72}
+{'text': 'i mean you can say what your honest', 'start': 294.0, 'duration': 2.479}
+{'text': "opinion was i mean if you don't know", 'start': 295.28, 'duration': 2.96}
+{'text': 'what honesty is i say do what you', 'start': 296.479, 'duration': 3.761}
+{'text': 'normally do but the opposite of that', 'start': 298.24, 'duration': 3.6}
+{'text': 'um because it sounds like normally or', 'start': 300.24, 'duration': 3.28}
+{'text': 'not honesty so yeah', 'start': 301.84, 'duration': 3.52}
+{'text': "i think he's all right oh he's all", 'start': 303.52, 'duration': 3.92}
+{'text': "that's my full honest opinion that's all", 'start': 305.36, 'duration': 2.8}
+{'text': 'you give him', 'start': 307.44, 'duration': 2.88}
+{'text': 'all right like a table is all right a', 'start': 308.16, 'duration': 3.52}
+{'text': "chair is all right it's just because", 'start': 310.32, 'duration': 1.68}
+{'text': 'this', 'start': 311.68, 'duration': 2.32}
+{'text': 'is all right in the words of me and moo', 'start': 312.0, 'duration': 3.52}
+{'text': "it's it's not good it's not bad", 'start': 314.0, 'duration': 3.84}
+{'text': "that's the rating that you give to him", 'start': 315.52, 'duration': 4.16}
+{'text': "i'd say it's like slightly above", 'start': 317.84, 'duration': 4.079}
+{'text': "not good but not bad wow all right it's", 'start': 319.68, 'duration': 3.84}
+{'text': 'like a six out of ten', 'start': 321.919, 'duration': 4.881}
+{'text': 'interesting okay yeah all right', 'start': 323.52, 'duration': 5.84}
+{'text': "wow i think he's a slightly advanced", 'start': 326.8, 'duration': 3.52}
+{'text': 'clout chasing', 'start': 329.36, 'duration': 3.92}
+{'text': "[\xa0__\xa0] who's on his way out really why do", 'start': 330.32, 'duration': 3.92}
+{'text': 'you say that', 'start': 333.28, 'duration': 3.12}
+{'text': "i just got a feeling i'm usually pretty", 'start': 334.24, 'duration': 3.36}
+{'text': 'good for these things', 'start': 336.4, 'duration': 2.639}
+{'text': "i haven't talked to him much but you", 'start': 337.6, 'duration': 3.52}
+{'text': "know what i'm calling it how i see it", 'start': 339.039, 'duration': 4.481}
+{'text': 'hmm i mean i take personal offense to', 'start': 341.12, 'duration': 4.48}
+{'text': "that because i'm a proud clout chasing", 'start': 343.52, 'duration': 2.48}
+{'text': '[\xa0__\xa0]', 'start': 345.6, 'duration': 4.24}
+{'text': "so yeah but you're ineffective at it", 'start': 346.0, 'duration': 5.68}
+{'text': "so it's okay all right so don't worry", 'start': 349.84, 'duration': 3.76}
+{'text': "about that that's fine", 'start': 351.68, 'duration': 3.76}
+{'text': "i think i don't think smarts is a piece", 'start': 353.6, 'duration': 3.599}
+{'text': 'of [\xa0__\xa0] i got banned for asking for', 'start': 355.44, 'duration': 3.28}
+{'text': "league and he'll do it again and target", 'start': 357.199, 'duration': 3.601}
+{'text': 'myself bonus', 'start': 358.72, 'duration': 5.919}
+{'text': 'what else is new wait what is this', 'start': 360.8, 'duration': 5.92}
+{'text': "post wait this doesn't make sense i'm", 'start': 364.639, 'duration': 3.441}
+{'text': 'pretty sure sending your kid to school', 'start': 366.72, 'duration': 3.28}
+{'text': 'with healthier snacks is probably a lot', 'start': 368.08, 'duration': 2.88}
+{'text': '[\xa0__\xa0] cheaper', 'start': 370.0, 'duration': 3.12}
+{'text': 'than like candy bars and [\xa0__\xa0] like the', 'start': 370.96, 'duration': 3.679}
+{'text': "mom can't afford it", 'start': 373.12, 'duration': 3.12}
+{'text': "what is it caught [\xa0__\xa0] i'm trying to", 'start': 374.639, 'duration': 3.761}
+{'text': 'think is an apple even a dollar at the', 'start': 376.24, 'duration': 4.72}
+{'text': 'store how much does an apple cost', 'start': 378.4, 'duration': 4.0}
+{'text': 'i know that some apples are a little bit', 'start': 380.96, 'duration': 3.12}
+{'text': 'more expensive than others summarize the', 'start': 382.4, 'duration': 2.079}
+{'text': 'post', 'start': 384.08, 'duration': 1.839}
+{'text': 'this lady says that she sends her son to', 'start': 384.479, 'duration': 2.961}
+{'text': 'school with healthy snacks and the other', 'start': 385.919, 'duration': 2.321}
+{'text': 'moms got', 'start': 387.44, 'duration': 2.4}
+{'text': 'jealous because all the other kids like', 'start': 388.24, 'duration': 2.88}
+{'text': "their snacks none of the moms say you're", 'start': 389.84, 'duration': 3.28}
+{'text': "showing us up because we can't afford it", 'start': 391.12, 'duration': 4.72}
+{'text': 'but candy bars and [\xa0__\xa0] and chips and', 'start': 393.12, 'duration': 4.88}
+{'text': 'all that are gonna be way more expensive', 'start': 395.84, 'duration': 3.68}
+{'text': 'than like just buying some like', 'start': 398.0, 'duration': 3.759}
+{'text': 'vegetables and and fruits', 'start': 399.52, 'duration': 4.88}
+{'text': 'bananas are what like 60 70 80 cents for', 'start': 401.759, 'duration': 3.921}
+{'text': 'a whole banana', 'start': 404.4, 'duration': 2.56}
+{'text': 'you can give a kid like what like a', 'start': 405.68, 'duration': 3.6}
+{'text': 'banana and some sliced up celery i feel', 'start': 406.96, 'duration': 4.079}
+{'text': 'like this is i feel like this is not', 'start': 409.28, 'duration': 3.52}
+{'text': 'real the other kids are getting ketchup', 'start': 411.039, 'duration': 3.521}
+{'text': "ketchup packs for mcdonald's", 'start': 412.8, 'duration': 4.959}
+{'text': 'what about minecraft socks wait your dad', 'start': 414.56, 'duration': 7.68}
+{'text': 'still plays minecraft yeah with months', 'start': 417.759, 'duration': 8.961}
+{'text': 'with mods yeah what does that mean', 'start': 422.24, 'duration': 4.48}
+{'text': 'sorry nathan', 'start': 428.96, 'duration': 3.04}
+{'text': 'ask another dumb question', 'start': 433.84, 'duration': 6.96}
+{'text': 'just please do do it ask another dumb', 'start': 437.039, 'duration': 4.401}
+{'text': 'question', 'start': 440.8, 'duration': 3.679}
+{'text': 'see what happens', 'start': 441.44, 'duration': 5.92}
+{'text': 'how do you get nathan to try new foods', 'start': 444.479, 'duration': 5.361}
+{'text': 'my son sucks at trying anything new', 'start': 447.36, 'duration': 3.8}
+{'text': 'starve them', 'start': 449.84, 'duration': 4.799}
+{'text': 'unironically starve your [\xa0__\xa0] kid', 'start': 451.16, 'duration': 6.759}
+{'text': 'people give in way too quickly to', 'start': 454.639, 'duration': 3.84}
+{'text': 'children', 'start': 457.919, 'duration': 4.0}
+{'text': 'okay no kid will actually die from', 'start': 458.479, 'duration': 3.921}
+{'text': 'hunger', 'start': 461.919, 'duration': 2.72}
+{'text': 'it is an excruciating process of', 'start': 462.4, 'duration': 4.0}
+{'text': 'actually dying from hunger', 'start': 464.639, 'duration': 4.321}
+{'text': 'okay parents i know parents that will', 'start': 466.4, 'duration': 3.44}
+{'text': 'get scared', 'start': 468.96, 'duration': 2.72}
+{'text': 'when their kid is like 20 minutes late', 'start': 469.84, 'duration': 3.199}
+{'text': "for dinner in terms of eating it they're", 'start': 471.68, 'duration': 2.72}
+{'text': "like oh no i can't i have to feed him a", 'start': 473.039, 'duration': 2.241}
+{'text': 'cheeseburger', 'start': 474.4, 'duration': 2.799}
+{'text': "if they don't want to eat the food then", 'start': 475.28, 'duration': 3.68}
+{'text': "they ain't [\xa0__\xa0] hungry okay", 'start': 477.199, 'duration': 3.761}
+{'text': "say hey listen this is what's for dinner", 'start': 478.96, 'duration': 3.2}
+{'text': "oh you don't want to eat it", 'start': 480.96, 'duration': 2.959}
+{'text': "okay well i'll put it in the fridge you", 'start': 482.16, 'duration': 3.039}
+{'text': 'can come back in an hour or two', 'start': 483.919, 'duration': 3.601}
+{'text': 'they will eat this strategy has', 'start': 485.199, 'duration': 4.081}
+{'text': 'absolutely [\xa0__\xa0] never ever ever', 'start': 487.52, 'duration': 3.28}
+{'text': 'failed me in terms of getting nathan to', 'start': 489.28, 'duration': 2.72}
+{'text': 'try new foods', 'start': 490.8, 'duration': 3.76}
+{'text': 'do not give in and [\xa0__\xa0] feed your kid', 'start': 492.0, 'duration': 4.08}
+{'text': '[\xa0__\xa0] food [\xa0__\xa0] food [\xa0__\xa0] food [\xa0__\xa0] food', 'start': 494.56, 'duration': 2.4}
+{'text': '[\xa0__\xa0] food just', 'start': 496.08, 'duration': 2.32}
+{'text': 'make them wait a little bit until', 'start': 496.96, 'duration': 2.639}
+{'text': "they're a little bit hungry and they'll", 'start': 498.4, 'duration': 2.639}
+{'text': "come through and they'll [\xa0__\xa0] eat", 'start': 499.599, 'duration': 3.681}
+{'text': "as long as you're not trying to serve", 'start': 501.039, 'duration': 3.681}
+{'text': "them nasty [\xa0__\xa0] food okay don't", 'start': 503.28, 'duration': 3.68}
+{'text': 'suffer from gross food all right', 'start': 504.72, 'duration': 4.879}
+{'text': 'but like there should be food that most', 'start': 506.96, 'duration': 3.679}
+{'text': 'children', 'start': 509.599, 'duration': 3.041}
+{'text': "like will be okay eating i'm not saying", 'start': 510.639, 'duration': 3.2}
+{'text': 'you have to do this to feed them like', 'start': 512.64, 'duration': 3.199}
+{'text': '[\xa0__\xa0] live octopus or some [\xa0__\xa0]', 'start': 513.839, 'duration': 3.601}
+{'text': 'okay but like there are so many kids', 'start': 515.839, 'duration': 3.12}
+{'text': 'that are like hell-bent on only eating', 'start': 517.44, 'duration': 3.039}
+{'text': 'chicken nuggets and cheeseburgers and', 'start': 518.959, 'duration': 2.88}
+{'text': "it's because parents will give in", 'start': 520.479, 'duration': 2.641}
+{'text': 'and they just like [\xa0__\xa0] feed them as', 'start': 521.839, 'duration': 2.721}
+{'text': "soon as they start to cry it's like dude", 'start': 523.12, 'duration': 1.839}
+{'text': 'chill', 'start': 524.56, 'duration': 2.399}
+{'text': 'the kid is not gonna starve themselves', 'start': 524.959, 'duration': 3.521}
+{'text': 'nobody wants to die that way', 'start': 526.959, 'duration': 3.44}
+{'text': 'okay send them off to their room and', 'start': 528.48, 'duration': 3.6}
+{'text': 'when they come back and they try to pull', 'start': 530.399, 'duration': 2.721}
+{'text': 'that trick in you because this is what', 'start': 532.08, 'duration': 1.759}
+{'text': 'kids will do', 'start': 533.12, 'duration': 1.68}
+{'text': "sometimes because they're like oh i'm", 'start': 533.839, 'duration': 2.161}
+{'text': "not hungry i'll come by glitter and then", 'start': 534.8, 'duration': 2.08}
+{'text': "they'll go to their room and then", 'start': 536.0, 'duration': 1.6}
+{'text': "they'll come back in two hours and", 'start': 536.88, 'duration': 1.28}
+{'text': "they're like", 'start': 537.6, 'duration': 3.2}
+{'text': 'so um um that food from earlier is no', 'start': 538.16, 'duration': 4.08}
+{'text': 'good can you make me a blah blah blah', 'start': 540.8, 'duration': 2.56}
+{'text': 'can we get cheeseburgers now', 'start': 542.24, 'duration': 2.8}
+{'text': 'and you know what you do like oh my', 'start': 543.36, 'duration': 3.28}
+{'text': 'wonderful child we have this great event', 'start': 545.04, 'duration': 3.2}
+{'text': "called the refrigerator look it's", 'start': 546.64, 'duration': 4.0}
+{'text': 'leftovers that food you want earlier oh', 'start': 548.24, 'duration': 4.0}
+{'text': 'we still have it you can eat it if you', 'start': 550.64, 'duration': 2.639}
+{'text': 'want yeah and then they get', 'start': 552.24, 'duration': 4.32}
+{'text': 'real ass mad at that but um yeah like', 'start': 553.279, 'duration': 4.321}
+{'text': 'you just you', 'start': 556.56, 'duration': 4.959}
+{'text': 'feed them like um yeah', 'start': 557.6, 'duration': 6.56}
+{'text': "they'll eat did your parents do that to", 'start': 561.519, 'duration': 4.481}
+{'text': "you no my parents always gave in that's", 'start': 564.16, 'duration': 4.0}
+{'text': 'why i was insanely [\xa0__\xa0] picky', 'start': 566.0, 'duration': 11.839}
+{'text': 'until like my early 20s like holy [\xa0__\xa0]', 'start': 568.16, 'duration': 9.679}
+{'text': 'you have to establish a pattern though', 'start': 583.12, 'duration': 3.68}
+{'text': 'one of the biggest things that you can', 'start': 585.36, 'duration': 2.08}
+{'text': 'do', 'start': 586.8, 'duration': 2.8}
+{'text': 'is um one of the biggest things you can', 'start': 587.44, 'duration': 3.28}
+{'text': 'do is', 'start': 589.6, 'duration': 3.52}
+{'text': 'not give in to your child because', 'start': 590.72, 'duration': 3.52}
+{'text': 'children', 'start': 593.12, 'duration': 3.92}
+{'text': "when you're a child like less than 13", 'start': 594.24, 'duration': 4.48}
+{'text': 'you have no stresses in life', 'start': 597.04, 'duration': 2.96}
+{'text': "the only thing you're ever going to be", 'start': 598.72, 'duration': 3.119}
+{'text': 'fighting about is your parent', 'start': 600.0, 'duration': 4.399}
+{'text': 'so you can dedicate 100 of your mental', 'start': 601.839, 'duration': 3.281}
+{'text': 'faculty', 'start': 604.399, 'duration': 1.841}
+{'text': 'to fighting with your parent and when', 'start': 605.12, 'duration': 3.2}
+{'text': "you're a parent you got [\xa0__\xa0] bills", 'start': 606.24, 'duration': 4.08}
+{'text': 'you got a job you got your relationship', 'start': 608.32, 'duration': 3.759}
+{'text': 'you got friendships you got to [\xa0__\xa0]', 'start': 610.32, 'duration': 3.36}
+{'text': 'manage the how you got all sorts of [\xa0__\xa0]', 'start': 612.079, 'duration': 3.681}
+{'text': 'so your kid is waging war against you', 'start': 613.68, 'duration': 3.52}
+{'text': 'psychologically and they can dedicate', 'start': 615.76, 'duration': 3.44}
+{'text': '100 of their [\xa0__\xa0] mental resources to', 'start': 617.2, 'duration': 2.48}
+{'text': '[\xa0__\xa0]', 'start': 619.2, 'duration': 2.879}
+{'text': 'hating you and being like [\xa0__\xa0]', 'start': 619.68, 'duration': 3.12}
+{'text': 'terrible', 'start': 622.079, 'duration': 2.561}
+{'text': 'and like blah blah blah so often times', 'start': 622.8, 'duration': 3.76}
+{'text': 'parents will give in if the child thinks', 'start': 624.64, 'duration': 2.8}
+{'text': 'that you will give in', 'start': 626.56, 'duration': 3.44}
+{'text': "they'll hold out kids are patient but a", 'start': 627.44, 'duration': 4.0}
+{'text': "kid might be patient but a kid won't", 'start': 630.0, 'duration': 2.64}
+{'text': 'starve themselves to death', 'start': 631.44, 'duration': 3.2}
+{'text': 'so just know that if you start to give', 'start': 632.64, 'duration': 3.68}
+{'text': 'in to your kid they will never ever ever', 'start': 634.64, 'duration': 2.319}
+{'text': 'ever ever', 'start': 636.32, 'duration': 2.16}
+{'text': 'listen to you because why the [\xa0__\xa0] would', 'start': 636.959, 'duration': 3.281}
+{'text': 'they kids hold on', 'start': 638.48, 'duration': 5.44}
+{'text': 'not only that but from the age of zero', 'start': 640.24, 'duration': 4.719}
+{'text': 'years old', 'start': 643.92, 'duration': 3.44}
+{'text': 'all the way up until they die people are', 'start': 644.959, 'duration': 4.241}
+{'text': 'incredibly [\xa0__\xa0] intelligent', 'start': 647.36, 'duration': 4.0}
+{'text': 'one of the dumbest [\xa0__\xa0] things that i', 'start': 649.2, 'duration': 3.28}
+{'text': 'see people do', 'start': 651.36, 'duration': 3.12}
+{'text': "is treat kids like they're stupid", 'start': 652.48, 'duration': 3.84}
+{'text': "they're not stupid they're incredibly", 'start': 654.48, 'duration': 2.479}
+{'text': 'intelligent', 'start': 656.32, 'duration': 2.8}
+{'text': 'their brains are you have to figure a', 'start': 656.959, 'duration': 4.241}
+{'text': 'kid okay a [\xa0__\xa0] kid', 'start': 659.12, 'duration': 4.24}
+{'text': 'learns an entire [\xa0__\xa0] language before', 'start': 661.2, 'duration': 3.04}
+{'text': 'they can even [\xa0__\xa0]', 'start': 663.36, 'duration': 3.12}
+{'text': 'like do anything with their body okay', 'start': 664.24, 'duration': 3.68}
+{'text': "they're like by the time a kid is like", 'start': 666.48, 'duration': 2.64}
+{'text': "one and a half two years old they're", 'start': 667.92, 'duration': 2.88}
+{'text': "speaking fluently and they've never even", 'start': 669.12, 'duration': 3.279}
+{'text': 'known a word before okay', 'start': 670.8, 'duration': 3.2}
+{'text': 'philosophically we would argue if the', 'start': 672.399, 'duration': 3.201}
+{'text': 'concept of language even exists in their', 'start': 674.0, 'duration': 2.88}
+{'text': "mind before we've even started", 'start': 675.6, 'duration': 3.52}
+{'text': 'right kids are very very very smart they', 'start': 676.88, 'duration': 3.519}
+{'text': 'pick up things very quickly', 'start': 679.12, 'duration': 3.04}
+{'text': 'they pick up subtle things very quickly', 'start': 680.399, 'duration': 3.281}
+{'text': "so don't sit here", 'start': 682.16, 'duration': 2.96}
+{'text': 'and expect that you can treat a kid', 'start': 683.68, 'duration': 3.44}
+{'text': 'worse than a dog because if you give in', 'start': 685.12, 'duration': 2.88}
+{'text': 'to a dog guess what', 'start': 687.12, 'duration': 2.32}
+{'text': 'the dog is going to be bad and bad and', 'start': 688.0, 'duration': 2.72}
+{'text': "bad about don't expect that you can give", 'start': 689.44, 'duration': 2.32}
+{'text': 'in to your kid over and over and over', 'start': 690.72, 'duration': 2.32}
+{'text': "again and the kid's not going to learn", 'start': 691.76, 'duration': 2.639}
+{'text': 'exactly what they need to do to', 'start': 693.04, 'duration': 2.16}
+{'text': 'manipulate you', 'start': 694.399, 'duration': 1.841}
+{'text': "it's like you should like watch the", 'start': 695.2, 'duration': 3.04}
+{'text': 'movie ex-machina right like the', 'start': 696.24, 'duration': 4.24}
+{'text': "the ai has one has one goal and that's", 'start': 698.24, 'duration': 3.76}
+{'text': 'to escape the facility well the kid', 'start': 700.48, 'duration': 2.96}
+{'text': "has one goal and that's to extract", 'start': 702.0, 'duration': 2.64}
+{'text': 'whatever the [\xa0__\xa0] they want out of their', 'start': 703.44, 'duration': 2.639}
+{'text': 'parents and they can put 100 of their', 'start': 704.64, 'duration': 3.12}
+{'text': "mind to it but you're the adult", 'start': 706.079, 'duration': 2.88}
+{'text': "okay you've got to be better than the", 'start': 707.76, 'duration': 2.72}
+{'text': 'kid the kid thinks that they can sit', 'start': 708.959, 'duration': 3.201}
+{'text': 'there and like [\xa0__\xa0] cry or go back', 'start': 710.48, 'duration': 2.56}
+{'text': "and blah blah blah and then you'll", 'start': 712.16, 'duration': 1.679}
+{'text': 'eventually give in', 'start': 713.04, 'duration': 2.16}
+{'text': "they're never ever ever going to eat", 'start': 713.839, 'duration': 2.481}
+{'text': 'anything that you give them again', 'start': 715.2, 'duration': 2.24}
+{'text': "they're always just gonna wait for you", 'start': 716.32, 'duration': 2.0}
+{'text': "to give in because they know they're", 'start': 717.44, 'duration': 1.76}
+{'text': 'gonna get what they want at the end of', 'start': 718.32, 'duration': 1.36}
+{'text': 'the day', 'start': 719.2, 'duration': 1.84}
+{'text': 'do not give in you cannot give in to', 'start': 719.68, 'duration': 3.279}
+{'text': "your kid and you're [\xa0__\xa0] their", 'start': 721.04, 'duration': 3.359}
+{'text': 'programming mentally because what', 'start': 722.959, 'duration': 2.56}
+{'text': "they're gonna learn is a pattern of", 'start': 724.399, 'duration': 2.641}
+{'text': 'behavior where like oh well [\xa0__\xa0]', 'start': 725.519, 'duration': 2.961}
+{'text': 'if i make a big enough [\xa0__\xa0] tantrum', 'start': 727.04, 'duration': 2.32}
+{'text': "about something i'm always gonna get", 'start': 728.48, 'duration': 2.32}
+{'text': 'what i want eventually so [\xa0__\xa0] it i', 'start': 729.36, 'duration': 2.159}
+{'text': 'might as well', 'start': 730.8, 'duration': 3.68}
+{'text': 'right i when i see nasty rotten spoiled', 'start': 731.519, 'duration': 4.401}
+{'text': '[\xa0__\xa0] kids that are six seven', 'start': 734.48, 'duration': 3.68}
+{'text': "eight nine years old i don't hold the", 'start': 735.92, 'duration': 3.359}
+{'text': 'kid responsible at all', 'start': 738.16, 'duration': 2.88}
+{'text': "that's just a kid that's had somebody", 'start': 739.279, 'duration': 3.441}
+{'text': 'give in to them a million times growing', 'start': 741.04, 'duration': 2.16}
+{'text': 'up like', 'start': 742.72, 'duration': 2.16}
+{'text': 'i would expect the kidnap like that like', 'start': 743.2, 'duration': 2.96}
+{'text': "yeah you're nine years old and you're", 'start': 744.88, 'duration': 2.399}
+{'text': 'still throwing temper tantrums and', 'start': 746.16, 'duration': 1.76}
+{'text': 'crying', 'start': 747.279, 'duration': 2.641}
+{'text': "probably because it works like you're", 'start': 747.92, 'duration': 3.919}
+{'text': 'smart kids that do that are intelligent', 'start': 749.92, 'duration': 3.039}
+{'text': "they're just doing as you'd expect", 'start': 751.839, 'duration': 2.401}
+{'text': 'humans to do because they know that if', 'start': 752.959, 'duration': 2.161}
+{'text': "they cry enough they'll make a big", 'start': 754.24, 'duration': 1.76}
+{'text': 'enough stink their parents are going to', 'start': 755.12, 'duration': 2.08}
+{'text': 'give in to them um', 'start': 756.0, 'duration': 4.0}
+{'text': 'yeah the the dumbest thing that has ever', 'start': 757.2, 'duration': 3.759}
+{'text': 'happened', 'start': 760.0, 'duration': 2.24}
+{'text': 'are parents treating children like', 'start': 760.959, 'duration': 3.12}
+{'text': "they're stupid children are so", 'start': 762.24, 'duration': 3.36}
+{'text': "incredibly [\xa0__\xa0] smart they're so", 'start': 764.079, 'duration': 2.241}
+{'text': 'intelligent', 'start': 765.6, 'duration': 2.239}
+{'text': "don't treat them like idiots if you", 'start': 766.32, 'duration': 2.56}
+{'text': "treat them like idiots then they're", 'start': 767.839, 'duration': 3.201}
+{'text': 'gonna play you', 'start': 768.88, 'duration': 3.72}
+{'text': 'hold on one second', 'start': 771.04, 'duration': 9.989}
+{'text': '[Music]', 'start': 772.6, 'duration': 8.429}
+{'text': 'our logo is getting worse', 'start': 786.639, 'duration': 3.281}
+{'text': 'we need a complete shutdown of graphic', 'start': 790.72, 'duration': 2.239}
+{'text': 'design until we can figure out what the', 'start': 792.0, 'duration': 2.079}
+{'text': 'hell is going on', 'start': 792.959, 'duration': 4.161}
+{'text': 'um logos first of all is this is this', 'start': 794.079, 'duration': 4.801}
+{'text': 'actually the new warner brothers logo', 'start': 797.12, 'duration': 3.92}
+{'text': "um like there's different thoughts in", 'start': 798.88, 'duration': 4.0}
+{'text': 'terms of like how design works and', 'start': 801.04, 'duration': 3.52}
+{'text': "everything and there's different needs", 'start': 802.88, 'duration': 2.8}
+{'text': "based on the level design that you're", 'start': 804.56, 'duration': 1.839}
+{'text': 'working', 'start': 805.68, 'duration': 3.2}
+{'text': "um this is a really this isn't really", 'start': 806.399, 'duration': 3.44}
+{'text': 'the best logo', 'start': 808.88, 'duration': 2.959}
+{'text': "because this text is unreadable i'm like", 'start': 809.839, 'duration': 3.281}
+{'text': 'one of the important things to consider', 'start': 811.839, 'duration': 2.56}
+{'text': 'about logos is like how they work on', 'start': 813.12, 'duration': 2.719}
+{'text': 'other platforms and how they scale at', 'start': 814.399, 'duration': 2.24}
+{'text': 'different sizes', 'start': 815.839, 'duration': 2.481}
+{'text': 'like if you put a little thing like this', 'start': 816.639, 'duration': 3.76}
+{'text': 'on um on a on anything actually it might', 'start': 818.32, 'duration': 3.28}
+{'text': 'even be recognizable also look at the', 'start': 820.399, 'duration': 1.921}
+{'text': 'colors', 'start': 821.6, 'duration': 1.76}
+{'text': "like there's so much like little", 'start': 822.32, 'duration': 2.16}
+{'text': 'difference in color between the [\xa0__\xa0]', 'start': 823.36, 'duration': 2.08}
+{'text': "here too i don't know if", 'start': 824.48, 'duration': 2.08}
+{'text': "this is just i don't think this is like", 'start': 825.44, 'duration': 2.56}
+{'text': 'the greatest like logo that would look', 'start': 826.56, 'duration': 2.399}
+{'text': "like on a small thing i don't think it", 'start': 828.0, 'duration': 1.76}
+{'text': 'would work', 'start': 828.959, 'duration': 2.56}
+{'text': 'um like i think when people think of', 'start': 829.76, 'duration': 2.639}
+{'text': "logos they're trying to think of like", 'start': 831.519, 'duration': 1.281}
+{'text': 'how', 'start': 832.399, 'duration': 1.841}
+{'text': 'how do they work as like an icon on a', 'start': 832.8, 'duration': 3.039}
+{'text': '[\xa0__\xa0] phone or how would it look is', 'start': 834.24, 'duration': 2.88}
+{'text': 'like a small sticker or like a small', 'start': 835.839, 'duration': 2.8}
+{'text': 'thing or whatever like yeah', 'start': 837.12, 'duration': 3.719}
+{'text': 'this looks really good like on a big', 'start': 838.639, 'duration': 4.161}
+{'text': 'screen or like i feel like i remember', 'start': 840.839, 'duration': 3.481}
+{'text': 'this when i say like the batman cartoon', 'start': 842.8, 'duration': 2.32}
+{'text': 'would start the wonder', 'start': 844.32, 'duration': 2.24}
+{'text': 'like it would work here but like this', 'start': 845.12, 'duration': 2.64}
+{'text': 'thing on the right probably looks better', 'start': 846.56, 'duration': 2.48}
+{'text': 'as like a', 'start': 847.76, 'duration': 2.96}
+{'text': 'resizable logo and everything and like', 'start': 849.04, 'duration': 2.799}
+{'text': 'instantly like being instantly', 'start': 850.72, 'duration': 3.28}
+{'text': 'recognizable', 'start': 851.839, 'duration': 3.521}
+{'text': 'gradients are no no yeah you would never', 'start': 854.0, 'duration': 3.04}
+{'text': 'use like gradient for like a logo design', 'start': 855.36, 'duration': 2.88}
+{'text': "or whatever but i don't think that like", 'start': 857.04, 'duration': 2.479}
+{'text': 'warner brothers and their cartoons or', 'start': 858.24, 'duration': 2.32}
+{'text': 'whatever are going to have like this', 'start': 859.519, 'duration': 2.721}
+{'text': '[\xa0__\xa0] thing on the right showing up', 'start': 860.56, 'duration': 4.32}
+{'text': "well it's possible but nathan thinks i'm", 'start': 862.24, 'duration': 3.599}
+{'text': 'asking him dumb', 'start': 864.88, 'duration': 2.319}
+{'text': "questions so he's going to push me off", 'start': 865.839, 'duration': 3.201}
+{'text': "the plane and he's going to push past", 'start': 867.199, 'duration': 2.801}
+{'text': "the what he's going to push", 'start': 869.04, 'duration': 4.479}
+{'text': 'me off the plane damn', 'start': 870.0, 'duration': 5.199}
+{'text': 'so somebody tweets about me organizing', 'start': 873.519, 'duration': 3.12}
+{'text': 'and mike says i want nothing to do with', 'start': 875.199, 'duration': 3.2}
+{'text': 'that [\xa0__\xa0] lying creep if he organized', 'start': 876.639, 'duration': 3.121}
+{'text': 'for the next five years of his life he', 'start': 878.399, 'duration': 2.56}
+{'text': "might come close to doing what i've", 'start': 879.76, 'duration': 3.079}
+{'text': 'already done in organizing people', 'start': 880.959, 'duration': 5.361}
+{'text': 'what what has he done', 'start': 882.839, 'duration': 4.841}
+{'text': 'okay sorry hold on [\xa0__\xa0] i just want the', 'start': 886.32, 'duration': 4.4}
+{'text': 'clip if you go into mutual aid stuff', 'start': 887.68, 'duration': 8.0}
+{'text': 'that is inherently a very local', 'start': 890.72, 'duration': 8.239}
+{'text': 'action if i go', 'start': 895.68, 'duration': 3.279}
+{'text': 'my audience will go from thousands of', 'start': 899.199, 'duration': 5.121}
+{'text': 'people to 50 people', 'start': 901.199, 'duration': 5.76}
+{'text': "what because they're gonna all be in", 'start': 904.32, 'duration': 4.24}
+{'text': 'their own communities doing local', 'start': 906.959, 'duration': 3.041}
+{'text': "actions and not doing anything that's", 'start': 908.56, 'duration': 2.399}
+{'text': 'oriented towards', 'start': 910.0, 'duration': 3.519}
+{'text': 'national politics what this is a', 'start': 910.959, 'duration': 3.521}
+{'text': 'defeating', 'start': 913.519, 'duration': 3.68}
+{'text': "and also can be we re be right who's", 'start': 914.48, 'duration': 3.44}
+{'text': 'gonna turn', 'start': 917.199, 'duration': 3.601}
+{'text': 'can you show me the mutual aid streamers', 'start': 917.92, 'duration': 4.479}
+{'text': 'of people that just sit there discussing', 'start': 920.8, 'duration': 3.599}
+{'text': 'mutual aid all day what are you talking', 'start': 922.399, 'duration': 3.601}
+{'text': 'about you can do you can diversify', 'start': 924.399, 'duration': 3.041}
+{'text': 'your content you can talk about more', 'start': 926.0, 'duration': 3.12}
+{'text': 'than just that', 'start': 927.44, 'duration': 4.0}
+{'text': 'what', 'start': 929.12, 'duration': 2.32}
+{'text': 'okay guys i i mean am i the [\xa0__\xa0] for', 'start': 932.16, 'duration': 5.2}
+{'text': 'saving a child from a burning building', 'start': 935.199, 'duration': 4.56}
+{'text': 'throw away because i frequent ardesh my', 'start': 937.36, 'duration': 4.24}
+{'text': 'little nanners on my main account and i', 'start': 939.759, 'duration': 3.601}
+{'text': "can't have people tracking me down", 'start': 941.6, 'duration': 4.239}
+{'text': 'i know it sounds bad but hear me out', 'start': 943.36, 'duration': 4.24}
+{'text': 'earlier today i was walking home from', 'start': 945.839, 'duration': 2.961}
+{'text': 'class as usual', 'start': 947.6, 'duration': 3.52}
+{'text': 'i began smelling a faint burning smell', 'start': 948.8, 'duration': 4.399}
+{'text': 'and heard muffled shouting ahead', 'start': 951.12, 'duration': 3.68}
+{'text': 'i picked up the pace to discover the', 'start': 953.199, 'duration': 3.921}
+{'text': 'commotion a building was on fire and a', 'start': 954.8, 'duration': 4.0}
+{'text': 'small child was standing in a second', 'start': 957.12, 'duration': 2.639}
+{'text': 'story window', 'start': 958.8, 'duration': 3.12}
+{'text': 'shrieking for help as flames rose behind', 'start': 959.759, 'duration': 3.52}
+{'text': 'him luckily', 'start': 961.92, 'duration': 2.96}
+{'text': 'i had been doing parkour ever since i', 'start': 963.279, 'duration': 3.441}
+{'text': 'could walk so i scaled the building with', 'start': 964.88, 'duration': 3.68}
+{'text': 'ease and reached a hand to grab his poor', 'start': 966.72, 'duration': 2.559}
+{'text': 'child', 'start': 968.56, 'duration': 2.719}
+{'text': 'he reached as well and i hoisted him on', 'start': 969.279, 'duration': 4.0}
+{'text': 'my back just as i did', 'start': 971.279, 'duration': 4.401}
+{'text': 'a roaring flame shot out had i not', 'start': 973.279, 'duration': 3.441}
+{'text': 'gotten there when i did', 'start': 975.68, 'duration': 3.12}
+{'text': 'he would have been decimated i climbed', 'start': 976.72, 'duration': 3.6}
+{'text': 'down the building and everyone was', 'start': 978.8, 'duration': 2.24}
+{'text': 'cheering', 'start': 980.32, 'duration': 2.639}
+{'text': 'the child hugged my leg and ran to his', 'start': 981.04, 'duration': 4.159}
+{'text': 'parents who were crying tears of joy', 'start': 982.959, 'duration': 4.481}
+{'text': 'however recently i was visiting a friend', 'start': 985.199, 'duration': 4.241}
+{'text': 'in prison who happens to be serving a', 'start': 987.44, 'duration': 3.839}
+{'text': 'sentence for attempted murder of many', 'start': 989.44, 'duration': 2.639}
+{'text': 'children', 'start': 991.279, 'duration': 2.48}
+{'text': "he said i was an [\xa0__\xa0] i shouldn't", 'start': 992.079, 'duration': 3.12}
+{'text': 'have saved the kid from the burning', 'start': 993.759, 'duration': 2.241}
+{'text': 'building', 'start': 995.199, 'duration': 2.88}
+{'text': "ever since i can't help but feel like", 'start': 996.0, 'duration': 3.36}
+{'text': 'kind of an [\xa0__\xa0]', 'start': 998.079, 'duration': 3.711}
+{'text': 'so reddit am i the [\xa0__\xa0]', 'start': 999.36, 'duration': 4.64}
+{'text': '[Music]', 'start': 1001.79, 'duration': 3.89}
+{'text': "i'm gonna go against the grain here and", 'start': 1004.0, 'duration': 3.04}
+{'text': 'say not the [\xa0__\xa0]', 'start': 1005.68, 'duration': 4.0}
+{'text': 'good on uop for saving that child not', 'start': 1007.04, 'duration': 3.599}
+{'text': 'the [\xa0__\xa0]', 'start': 1009.68, 'duration': 2.88}
+{'text': "you're so brave i can see why you're", 'start': 1010.639, 'duration': 3.76}
+{'text': 'confused on this being the [\xa0__\xa0] but', 'start': 1012.56, 'duration': 3.04}
+{'text': 'you did the right thing', 'start': 1014.399, 'duration': 3.36}
+{'text': 'i know down votes are coming but not the', 'start': 1015.6, 'duration': 4.4}
+{'text': '[\xa0__\xa0] you did a great thing opie and', 'start': 1017.759, 'duration': 3.921}
+{'text': 'was completely justifiable', 'start': 1020.0, 'duration': 3.6}
+{'text': "not the [\xa0__\xa0] i noticed you didn't", 'start': 1021.68, 'duration': 3.759}
+{'text': 'mention a significant other praising you', 'start': 1023.6, 'duration': 3.359}
+{'text': 'for your courageous act', 'start': 1025.439, 'duration': 3.52}
+{'text': "but that's a huge red flag and if you", 'start': 1026.959, 'duration': 3.921}
+{'text': 'have one you should break up with them', 'start': 1028.959, 'duration': 3.921}
+{'text': "this is above reddit's pay grade you", 'start': 1030.88, 'duration': 3.439}
+{'text': 'need to seek therapy', 'start': 1032.88, 'duration': 4.88}
+{'text': 'but not the [\xa0__\xa0] edit wow this blew', 'start': 1034.319, 'duration': 3.921}
+{'text': 'up', 'start': 1037.76, 'duration': 2.64}
+{'text': 'thanks for all the input i was really', 'start': 1038.24, 'duration': 3.679}
+{'text': 'struggling to figure out if i was the', 'start': 1040.4, 'duration': 2.159}
+{'text': '[\xa0__\xa0]', 'start': 1041.919, 'duration': 3.12}
+{'text': "but you guys made me realize i wasn't", 'start': 1042.559, 'duration': 3.28}
+{'text': 'also', 'start': 1045.039, 'duration': 3.121}
+{'text': 'thank you kind strangers for the 300', 'start': 1045.839, 'duration': 3.041}
+{'text': 'silver', 'start': 1048.16, 'duration': 5.68}
+{'text': 'gold and platinum', 'start': 1048.88, 'duration': 4.96}
+{'text': "stream it's your fault i already", 'start': 1055.2, 'duration': 5.359}
+{'text': 'remember this', 'start': 1058.64, 'duration': 3.52}
+{'text': "you're gonna get [\xa0__\xa0] banned as well", 'start': 1060.559, 'duration': 3.201}
+{'text': 'when he [\xa0__\xa0] does it', 'start': 1062.16, 'duration': 4.16}
+{'text': "and it all goes on stream and you're", 'start': 1063.76, 'duration': 4.88}
+{'text': 'gonna get banned as well can you costing', 'start': 1066.32, 'duration': 6.8}
+{'text': "i didn't cause i tried [\xa0__\xa0]", 'start': 1068.64, 'duration': 4.48}
+{'text': '[\xa0__\xa0] we should have went apparent man we', 'start': 1076.0, 'duration': 4.08}
+{'text': 'could have done that baron we would have', 'start': 1078.88, 'duration': 3.039}
+{'text': 'all [\xa0__\xa0] ran there we had two timers', 'start': 1080.08, 'duration': 3.92}
+{'text': "[\xa0__\xa0] flying dude he's [\xa0__\xa0] crying", 'start': 1081.919, 'duration': 3.601}
+{'text': 'look at this stream look at this [\xa0__\xa0]', 'start': 1084.0, 'duration': 3.44}
+{'text': 'stream you did that you piece of [\xa0__\xa0]', 'start': 1085.52, 'duration': 4.399}
+{'text': "look at him he's [\xa0__\xa0] crying it's", 'start': 1087.44, 'duration': 4.239}
+{'text': 'your [\xa0__\xa0] fault', 'start': 1089.919, 'duration': 4.481}
+{'text': 'listen okay he was literally [\xa0__\xa0]', 'start': 1091.679, 'duration': 4.0}
+{'text': 'crying', 'start': 1094.4, 'duration': 4.88}
+{'text': "you're such a [\xa0__\xa0] dick", 'start': 1095.679, 'duration': 3.601}
+{'text': "he's gonna end stream dude", 'start': 1102.64, 'duration': 3.36}
+{'text': "seriously who are these kids playing i'm", 'start': 1107.36, 'duration': 3.04}
+{'text': '[\xa0__\xa0] done man', 'start': 1109.36, 'duration': 4.16}
+{'text': 'like i i i i i see', 'start': 1110.4, 'duration': 6.05}
+{'text': "like i'm starting to think i'm mentally", 'start': 1113.52, 'duration': 7.32}
+{'text': '[Laughter]', 'start': 1116.45, 'duration': 7.39}
+{'text': '[\xa0__\xa0]', 'start': 1120.84, 'duration': 3.0}
+{'text': '[Laughter]', 'start': 1125.13, 'duration': 4.23}
+{'text': 'okay if you want to call me sociopathic', 'start': 1127.679, 'duration': 3.521}
+{'text': "me playing league i'll buy i'll give you", 'start': 1129.36, 'duration': 2.88}
+{'text': 'that one okay', 'start': 1131.2, 'duration': 3.359}
+{'text': "i'll give you that one that's the only", 'start': 1132.24, 'duration': 3.6}
+{'text': 'time right', 'start': 1134.559, 'duration': 2.48}
+{'text': "it's where it all comes out but", 'start': 1135.84, 'duration': 3.44}
+{'text': "everyone's a sociopath on the rift", 'start': 1137.039, 'duration': 3.76}
+{'text': "all right it's a different world out", 'start': 1139.28, 'duration': 4.24}
+{'text': "there that's not meant for normal humans", 'start': 1140.799, 'duration': 6.24}
+{'text': 'okay dad um stand', 'start': 1143.52, 'duration': 5.62}
+{'text': 'right here do you see', 'start': 1147.039, 'duration': 5.22}
+{'text': '[Music]', 'start': 1149.14, 'duration': 3.119}
+{'text': 'alt and f4 that will give you', 'start': 1153.52, 'duration': 6.64}
+{'text': 'commands to actually hack this game', 'start': 1156.559, 'duration': 8.801}
+{'text': 'really yeah hold on', 'start': 1160.16, 'duration': 8.639}
+{'text': 'whoa it actually worked no wait yeah', 'start': 1165.36, 'duration': 5.439}
+{'text': 'hold on i just had a crazy menu pop up', 'start': 1168.799, 'duration': 2.481}
+{'text': 'right now', 'start': 1170.799, 'duration': 3.76}
+{'text': "look yeah i've got flares right now i", 'start': 1171.28, 'duration': 7.36}
+{'text': 'i learned from my mistakes from', 'start': 1174.559, 'duration': 6.641}
+{'text': 'scam no wait this is actually crazy wait', 'start': 1178.64, 'duration': 4.48}
+{'text': 'have you have you tried pushing this', 'start': 1181.2, 'duration': 4.64}
+{'text': 'hold on wait try try pushing alt f3 and', 'start': 1183.12, 'duration': 4.0}
+{'text': 'then see if that brings up a menu for', 'start': 1185.84, 'duration': 4.0}
+{'text': 'you does it work', 'start': 1187.12, 'duration': 2.72}
+{'text': 'all in f3', 'start': 1190.0, 'duration': 3.84}
+{'text': "you make me laugh oh it's gonna be this", 'start': 1200.0, 'duration': 4.08}
+{'text': "car over here that's gonna be the", 'start': 1202.88, 'duration': 2.0}
+{'text': "problem isn't it", 'start': 1204.08, 'duration': 3.28}
+{'text': 'is he gonna try to skip it oh no wait', 'start': 1204.88, 'duration': 4.96}
+{'text': "it's this one", 'start': 1207.36, 'duration': 3.6}
+{'text': "i think we've seen haven't we seen this", 'start': 1209.84, 'duration': 4.56}
+{'text': "one before we've seen this a long time", 'start': 1210.96, 'duration': 3.44}
+{'text': 'ago', 'start': 1218.84, 'duration': 3.0}
+{'text': 'that was a streamer one was this', 'start': 1224.72, 'duration': 3.28}
+{'text': 'different the date is at the bottom', 'start': 1226.0, 'duration': 3.36}
+{'text': 'right oh january 4th', 'start': 1228.0, 'duration': 3.679}
+{'text': 'oh this is new oh why is everyone', 'start': 1229.36, 'duration': 3.679}
+{'text': "chatting we've seen it before then you", 'start': 1231.679, 'duration': 3.041}
+{'text': 'guys are gaslighting me you guys are', 'start': 1233.039, 'duration': 3.12}
+{'text': 'abusers', 'start': 1234.72, 'duration': 3.32}
+{'text': 'you guys are abusive', 'start': 1236.159, 'duration': 4.64}
+{'text': '[Music]', 'start': 1238.04, 'duration': 5.879}
+{'text': 'this is what dude this is why when i', 'start': 1240.799, 'duration': 4.321}
+{'text': 'drive anywhere', 'start': 1243.919, 'duration': 3.76}
+{'text': 'i have to [\xa0__\xa0] get a car i cannot', 'start': 1245.12, 'duration': 3.2}
+{'text': 'ride', 'start': 1247.679, 'duration': 3.841}
+{'text': 'with people okay people when they drive', 'start': 1248.32, 'duration': 5.599}
+{'text': "i don't understand why but people have", 'start': 1251.52, 'duration': 3.68}
+{'text': 'the biggest', 'start': 1253.919, 'duration': 5.12}
+{'text': '[\xa0__\xa0] egos when they [\xa0__\xa0] drive why', 'start': 1255.2, 'duration': 7.44}
+{'text': 'dude [\xa0__\xa0] let him go let this guy go', 'start': 1259.039, 'duration': 5.361}
+{'text': 'why would you look at how this guy like', 'start': 1262.64, 'duration': 4.0}
+{'text': 'moves out to like [\xa0__\xa0] this guy', 'start': 1264.4, 'duration': 3.759}
+{'text': "you want to run the stop sign i'm gonna", 'start': 1266.64, 'duration': 3.039}
+{'text': '[\xa0__\xa0] die for it like', 'start': 1268.159, 'duration': 4.161}
+{'text': 'dude like why are you sitting here like', 'start': 1269.679, 'duration': 4.081}
+{'text': "going forward while you're smashing your", 'start': 1272.32, 'duration': 3.04}
+{'text': 'horn like just stop', 'start': 1273.76, 'duration': 4.0}
+{'text': 'just stop just let him go let him have', 'start': 1275.36, 'duration': 4.4}
+{'text': 'it let the dumb [\xa0__\xa0] in the suv just', 'start': 1277.76, 'duration': 3.12}
+{'text': 'keep going like', 'start': 1279.76, 'duration': 2.799}
+{'text': 'why the [\xa0__\xa0] would you why the [\xa0__\xa0]', 'start': 1280.88, 'duration': 4.96}
+{'text': 'would you fight for your lane here', 'start': 1282.559, 'duration': 6.641}
+{'text': "oh my god you're so", 'start': 1285.84, 'duration': 6.959}
+{'text': "you're such a huge ego", 'start': 1289.2, 'duration': 3.599}
+{'text': "cry like imagine dying i don't think you", 'start': 1292.88, 'duration': 5.6}
+{'text': "would die because they're going slowly", 'start': 1295.6, 'duration': 4.959}
+{'text': 'imagine though dying this close to the', 'start': 1298.48, 'duration': 4.16}
+{'text': 'store because your honor was on the line', 'start': 1300.559, 'duration': 5.041}
+{'text': 'for who had right-of-way oh my god like', 'start': 1302.64, 'duration': 4.56}
+{'text': 'stand your ground is about self-defense', 'start': 1305.6, 'duration': 2.959}
+{'text': 'in your house with a firearm not with', 'start': 1307.2, 'duration': 2.8}
+{'text': 'your [\xa0__\xa0] vehicle in the middle of a', 'start': 1308.559, 'duration': 3.36}
+{'text': '[\xa0__\xa0] lane', 'start': 1310.0, 'duration': 4.72}
+{'text': "ever driven in boston it's a giant long", 'start': 1311.919, 'duration': 3.361}
+{'text': 'battle', 'start': 1314.72, 'duration': 3.28}
+{'text': 'nice oh you know something else that i', 'start': 1315.28, 'duration': 3.36}
+{'text': 'wonder', 'start': 1318.0, 'duration': 3.6}
+{'text': 'is i wonder if this guy i wonder if this', 'start': 1318.64, 'duration': 4.72}
+{'text': "guy didn't have his blinker on and the", 'start': 1321.6, 'duration': 4.079}
+{'text': 'other guy just thought he could go', 'start': 1323.36, 'duration': 5.6}
+{'text': "i'm so curious because it could be that", 'start': 1325.679, 'duration': 8.161}
+{'text': 'the the indicator noise is out', 'start': 1328.96, 'duration': 7.12}
+{'text': 'but', 'start': 1333.84, 'duration': 2.24}
+{'text': 'no you can hear it no he has it on he', 'start': 1340.24, 'duration': 2.88}
+{'text': "has i'm pretty sure you can hear it in", 'start': 1341.6, 'duration': 4.4}
+{'text': 'the background if you listen', 'start': 1343.12, 'duration': 4.32}
+{'text': "he's in the turning lane who doesn't", 'start': 1346.0, 'duration': 3.12}
+{'text': 'matter you should you should always', 'start': 1347.44, 'duration': 3.599}
+{'text': 'signal you should over signal', 'start': 1349.12, 'duration': 3.439}
+{'text': 'you should signal everything you do i', 'start': 1351.039, 'duration': 4.081}
+{'text': 'still have parking lots', 'start': 1352.559, 'duration': 5.841}
+{'text': 'but he has a second one you can hear it', 'start': 1355.12, 'duration': 3.28}
+{'text': 'roundabouts would actually make that', 'start': 1358.799, 'duration': 3.76}
+{'text': 'intersection less bad wrong', 'start': 1360.0, 'duration': 4.64}
+{'text': 'as much as i love roundabouts americans', 'start': 1362.559, 'duration': 3.841}
+{'text': 'have no [\xa0__\xa0] idea how they work and', 'start': 1364.64, 'duration': 2.8}
+{'text': "anytime there's a", 'start': 1366.4, 'duration': 2.8}
+{'text': '[\xa0__\xa0] roundabout in american traffic', 'start': 1367.44, 'duration': 4.16}
+{'text': 'people get insanely [\xa0__\xa0] confused', 'start': 1369.2, 'duration': 4.8}
+{'text': 'it is not worth it okay [\xa0__\xa0]', 'start': 1371.6, 'duration': 4.0}
+{'text': 'will stop to let other people into the', 'start': 1374.0, 'duration': 3.28}
+{'text': "[\xa0__\xa0] roundabout i'm sorry they work", 'start': 1375.6, 'duration': 2.16}
+{'text': 'really well', 'start': 1377.28, 'duration': 3.6}
+{'text': 'in other countries um but generally', 'start': 1377.76, 'duration': 4.48}
+{'text': "because we don't have them very much in", 'start': 1380.88, 'duration': 2.24}
+{'text': 'america', 'start': 1382.24, 'duration': 3.04}
+{'text': "like when there's like just one like", 'start': 1383.12, 'duration': 4.0}
+{'text': 'people have a very very hard time', 'start': 1385.28, 'duration': 3.2}
+{'text': 'navigating them', 'start': 1387.12, 'duration': 4.559}
+{'text': 'um in at least in the united states yeah', 'start': 1388.48, 'duration': 4.559}
+{'text': "there's literally a roundabout near me", 'start': 1391.679, 'duration': 2.48}
+{'text': 'with stop signs on one side of the', 'start': 1393.039, 'duration': 2.241}
+{'text': 'entrance yeah', 'start': 1394.159, 'duration': 3.041}
+{'text': "it's weird because like in america we", 'start': 1395.28, 'duration': 3.44}
+{'text': 'have the least amount of drivers', 'start': 1397.2, 'duration': 3.359}
+{'text': 'training but we give you the most amount', 'start': 1398.72, 'duration': 2.64}
+{'text': 'of credit', 'start': 1400.559, 'duration': 3.041}
+{'text': 'and it feels like in europe they have um', 'start': 1401.36, 'duration': 3.76}
+{'text': 'in europe they have a ton of training', 'start': 1403.6, 'duration': 2.8}
+{'text': 'but they treat every driver like a', 'start': 1405.12, 'duration': 2.559}
+{'text': '[\xa0__\xa0] [\xa0__\xa0]', 'start': 1406.4, 'duration': 4.56}
+{'text': "my favorite thing about i don't know", 'start': 1407.679, 'duration': 5.681}
+{'text': 'why this is but my favorite thing about', 'start': 1410.96, 'duration': 3.92}
+{'text': 'european roads', 'start': 1413.36, 'duration': 3.199}
+{'text': "i think in most of the countries i've", 'start': 1414.88, 'duration': 3.039}
+{'text': 'been in', 'start': 1416.559, 'duration': 5.201}
+{'text': 'um on every on every [\xa0__\xa0] street', 'start': 1417.919, 'duration': 5.841}
+{'text': 'you guys have little signs with arrows', 'start': 1421.76, 'duration': 4.0}
+{'text': 'pointing like make sure to drive here', 'start': 1423.76, 'duration': 5.44}
+{'text': 'like past every single intersection like', 'start': 1425.76, 'duration': 5.039}
+{'text': "every time you turn it goes it's like oh", 'start': 1429.2, 'duration': 3.12}
+{'text': "here's the sign this is where your car", 'start': 1430.799, 'duration': 2.961}
+{'text': 'goes', 'start': 1432.32, 'duration': 3.359}
+{'text': "it's just this is [\xa0__\xa0] hilarious i", 'start': 1433.76, 'duration': 4.24}
+{'text': "don't know why but like in america", 'start': 1435.679, 'duration': 3.761}
+{'text': "dude if you're like you could you could", 'start': 1438.0, 'duration': 3.279}
+{'text': 'go to like some [\xa0__\xa0] intersection', 'start': 1439.44, 'duration': 2.96}
+{'text': 'and like there will be like [\xa0__\xa0]', 'start': 1441.279, 'duration': 2.961}
+{'text': 'lines here and like [\xa0__\xa0] here and', 'start': 1442.4, 'duration': 3.2}
+{'text': 'then like things here blah blah blah', 'start': 1444.24, 'duration': 2.48}
+{'text': "blah and then there'll be like a road", 'start': 1445.6, 'duration': 2.64}
+{'text': "like here and you're just expected to", 'start': 1446.72, 'duration': 2.48}
+{'text': 'just [\xa0__\xa0]', 'start': 1448.24, 'duration': 3.2}
+{'text': 'drive out and like figure out like where', 'start': 1449.2, 'duration': 3.76}
+{'text': 'the [\xa0__\xa0] you just supposed to know it', 'start': 1451.44, 'duration': 2.64}
+{'text': 'they have like no', 'start': 1452.96, 'duration': 3.28}
+{'text': 'there are no guiding arrows there are no', 'start': 1454.08, 'duration': 3.44}
+{'text': 'signs we do have', 'start': 1456.24, 'duration': 3.439}
+{'text': 'big red wrong way signs if you', 'start': 1457.52, 'duration': 3.2}
+{'text': "accidentally go down a row that you're", 'start': 1459.679, 'duration': 2.24}
+{'text': 'not supposed to', 'start': 1460.72, 'duration': 4.24}
+{'text': "um but yeah that's something that", 'start': 1461.919, 'duration': 4.401}
+{'text': 'every time i used to be really scared', 'start': 1464.96, 'duration': 2.24}
+{'text': 'sometimes about driving in other', 'start': 1466.32, 'duration': 2.08}
+{'text': 'countries like oh there might be other', 'start': 1467.2, 'duration': 2.719}
+{'text': 'rules blah blah blah blah but i think in', 'start': 1468.4, 'duration': 2.639}
+{'text': 'most i know in new zealand', 'start': 1469.919, 'duration': 3.041}
+{'text': 'i know in sweden i think in poland like', 'start': 1471.039, 'duration': 3.12}
+{'text': 'when you drive', 'start': 1472.96, 'duration': 2.8}
+{'text': "and most of the places i've been there's", 'start': 1474.159, 'duration': 3.12}
+{'text': 'just like signs like oh your car goes', 'start': 1475.76, 'duration': 2.96}
+{'text': "here and i'm like oh cool", 'start': 1477.279, 'duration': 2.64}
+{'text': 'i just got to stay in that area because', 'start': 1478.72, 'duration': 2.319}
+{'text': "no matter where i drive there's always", 'start': 1479.919, 'duration': 2.161}
+{'text': 'going to be a little arrow pointing to', 'start': 1481.039, 'duration': 2.801}
+{'text': 'where my where my car goes', 'start': 1482.08, 'duration': 4.88}
+{'text': 'which is just funny as [\xa0__\xa0] um', 'start': 1483.84, 'duration': 4.64}
+{'text': 'i wonder if i can find an example of', 'start': 1486.96, 'duration': 2.959}
+{'text': "this oh like look this is what i'm", 'start': 1488.48, 'duration': 2.079}
+{'text': 'talking about look', 'start': 1489.919, 'duration': 1.841}
+{'text': 'there are these little arrows like', 'start': 1490.559, 'duration': 3.36}
+{'text': 'everywhere these little arrows so if', 'start': 1491.76, 'duration': 3.279}
+{'text': "you're ever driving around you're not", 'start': 1493.919, 'duration': 2.561}
+{'text': "exactly sure like where the [\xa0__\xa0] you're", 'start': 1495.039, 'duration': 2.721}
+{'text': 'supposed to be these little arrows will', 'start': 1496.48, 'duration': 2.319}
+{'text': 'always point to where your car is', 'start': 1497.76, 'duration': 2.64}
+{'text': 'supposed to go like oh put your car here', 'start': 1498.799, 'duration': 2.961}
+{'text': 'oh cool okay thanks', 'start': 1500.4, 'duration': 2.96}
+{'text': 'look put your car here oh it like', 'start': 1501.76, 'duration': 3.2}
+{'text': 'reminds you like every like', 'start': 1503.36, 'duration': 3.199}
+{'text': "every like 50 meters there'll be like", 'start': 1504.96, 'duration': 2.959}
+{'text': "another arrow like make sure your car's", 'start': 1506.559, 'duration': 2.641}
+{'text': "still right here it's like oh thank you", 'start': 1507.919, 'duration': 1.921}
+{'text': "science you're", 'start': 1509.2, 'duration': 4.4}
+{'text': 'so helpful destiny this is in my town', 'start': 1509.84, 'duration': 4.88}
+{'text': 'yeah in america', 'start': 1513.6, 'duration': 2.8}
+{'text': 'we got intersections like this and', 'start': 1514.72, 'duration': 3.04}
+{'text': "you're just supposed to know", 'start': 1516.4, 'duration': 3.2}
+{'text': "you're just supposed to you're just", 'start': 1517.76, 'duration': 3.68}
+{'text': 'supposed to know where to go', 'start': 1519.6, 'duration': 2.959}
+{'text': 'people aggressively driving in', 'start': 1521.44, 'duration': 2.64}
+{'text': 'california is way better than the meek', 'start': 1522.559, 'duration': 2.881}
+{'text': 'driving in the midwest', 'start': 1524.08, 'duration': 3.92}
+{'text': 'um in some ways it is and in some ways', 'start': 1525.44, 'duration': 3.28}
+{'text': "it isn't", 'start': 1528.0, 'duration': 2.24}
+{'text': 'the thing that i like the most about', 'start': 1528.72, 'duration': 3.12}
+{'text': 'cities with aggressive drivers', 'start': 1530.24, 'duration': 3.919}
+{'text': "we've saw this before stream the thing i", 'start': 1531.84, 'duration': 3.839}
+{'text': 'like the most about cities with', 'start': 1534.159, 'duration': 3.281}
+{'text': 'aggressive drivers is that everybody', 'start': 1535.679, 'duration': 5.161}
+{'text': 'knows that everybody is', 'start': 1537.44, 'duration': 6.64}
+{'text': "aggressive so like if i'm in la", 'start': 1540.84, 'duration': 4.92}
+{'text': "and there's like a line of [\xa0__\xa0] cars", 'start': 1544.08, 'duration': 3.68}
+{'text': 'next to me i can just [\xa0__\xa0] throw my', 'start': 1545.76, 'duration': 3.919}
+{'text': 'signal on and turn into the [\xa0__\xa0] lane', 'start': 1547.76, 'duration': 3.84}
+{'text': "and i know that they'll make room for me", 'start': 1549.679, 'duration': 3.841}
+{'text': "because they know that i'm merging", 'start': 1551.6, 'duration': 3.84}
+{'text': 'because if i put my signal on and my car', 'start': 1553.52, 'duration': 3.2}
+{'text': "is moving i'm [\xa0__\xa0]", 'start': 1555.44, 'duration': 3.28}
+{'text': "gonna be over there and they won't at", 'start': 1556.72, 'duration': 4.4}
+{'text': 'least in my personal experience', 'start': 1558.72, 'duration': 4.72}
+{'text': "when i'm driving in busy areas people", 'start': 1561.12, 'duration': 4.159}
+{'text': 'tend or at least in la', 'start': 1563.44, 'duration': 3.599}
+{'text': "people don't fight you for your lane if", 'start': 1565.279, 'duration': 3.601}
+{'text': "you put your signal on you're merging", 'start': 1567.039, 'duration': 3.441}
+{'text': "like when people are like i don't see", 'start': 1568.88, 'duration': 3.44}
+{'text': 'people on the five usually like fighting', 'start': 1570.48, 'duration': 2.96}
+{'text': 'for their lanes', 'start': 1572.32, 'duration': 3.2}
+{'text': "but when you're in the midwest and you", 'start': 1573.44, 'duration': 3.92}
+{'text': "[\xa0__\xa0] turn that signal on it's like", 'start': 1575.52, 'duration': 3.84}
+{'text': 'the boss music starts and the guy behind', 'start': 1577.36, 'duration': 2.72}
+{'text': 'you [\xa0__\xa0]', 'start': 1579.36, 'duration': 2.559}
+{'text': 'slams his accelerators like no [\xa0__\xa0]', 'start': 1580.08, 'duration': 2.959}
+{'text': 'way are you getting in front of me you', 'start': 1581.919, 'duration': 2.24}
+{'text': 'little piece of [\xa0__\xa0]', 'start': 1583.039, 'duration': 3.201}
+{'text': "not my [\xa0__\xa0] silverado i'm not letting", 'start': 1584.159, 'duration': 3.601}
+{'text': 'you in this goddamn lane', 'start': 1586.24, 'duration': 3.28}
+{'text': "and it's like oh my what the [\xa0__\xa0] is", 'start': 1587.76, 'duration': 3.279}
+{'text': 'wrong with you dude when you', 'start': 1589.52, 'duration': 3.68}
+{'text': 'when you put a signal on in a midwestern', 'start': 1591.039, 'duration': 3.601}
+{'text': 'state in my experience', 'start': 1593.2, 'duration': 4.0}
+{'text': 'people will are ready to ride or die for', 'start': 1594.64, 'duration': 3.36}
+{'text': 'like the [\xa0__\xa0]', 'start': 1597.2, 'duration': 2.479}
+{'text': "200 yards in front of them it's", 'start': 1598.0, 'duration': 4.4}
+{'text': "unbelievable i don't even know why", 'start': 1599.679, 'duration': 5.12}
+{'text': 'but um i noticed that because i almost', 'start': 1602.4, 'duration': 4.0}
+{'text': 'got a [\xa0__\xa0] accident', 'start': 1604.799, 'duration': 3.36}
+{'text': 'the last time i rented a car when i was', 'start': 1606.4, 'duration': 3.04}
+{'text': 'in nebraska', 'start': 1608.159, 'duration': 2.321}
+{'text': 'or it might have been the time before', 'start': 1609.44, 'duration': 2.479}
+{'text': "because melina wasn't with me but i", 'start': 1610.48, 'duration': 3.12}
+{'text': 'remember i was driving on i-80 it was', 'start': 1611.919, 'duration': 2.801}
+{'text': 'going i-80 east', 'start': 1613.6, 'duration': 3.12}
+{'text': 'um west coming back into the city and i', 'start': 1614.72, 'duration': 3.36}
+{'text': 'went to merge and i turned my signal and', 'start': 1616.72, 'duration': 1.68}
+{'text': 'i went', 'start': 1618.08, 'duration': 1.839}
+{'text': 'and then the guy behind me like [\xa0__\xa0]', 'start': 1618.4, 'duration': 2.8}
+{'text': "hits his horn and i'm like what the [\xa0__\xa0]", 'start': 1619.919, 'duration': 2.961}
+{'text': "is wrong with i'm [\xa0__\xa0] merging", 'start': 1621.2, 'duration': 3.44}
+{'text': 'what is wrong with you oh you see and', 'start': 1622.88, 'duration': 3.2}
+{'text': "then i had to remember oh i'm in the", 'start': 1624.64, 'duration': 2.32}
+{'text': 'midwest like', 'start': 1626.08, 'duration': 2.32}
+{'text': 'these [\xa0__\xa0] will die for their', 'start': 1626.96, 'duration': 2.959}
+{'text': "[\xa0__\xa0] i can't just turn my signal on", 'start': 1628.4, 'duration': 2.72}
+{'text': 'and expect the guy is gonna like', 'start': 1629.919, 'duration': 2.481}
+{'text': 'actually let me in', 'start': 1631.12, 'duration': 4.24}
+{'text': 'holy [\xa0__\xa0] you have to gotta be careful', 'start': 1632.4, 'duration': 4.96}
+{'text': 'jesus christ', 'start': 1635.36, 'duration': 3.28}
+{'text': "there's no democratic party there's a", 'start': 1637.36, 'duration': 2.559}
+{'text': 'republican party in the diet republican', 'start': 1638.64, 'duration': 3.759}
+{'text': "yeah [\xa0__\xa0] this guy's so stupid", 'start': 1639.919, 'duration': 3.76}
+{'text': "could you give some examples why he's", 'start': 1642.399, 'duration': 3.601}
+{'text': 'dumber than pool um as of recently the', 'start': 1643.679, 'duration': 3.441}
+{'text': 'klobuchar thing', 'start': 1646.0, 'duration': 4.399}
+{'text': 'exactly how not to respond to a rogue', 'start': 1647.12, 'duration': 5.679}
+{'text': "president trump who's offering people", 'start': 1650.399, 'duration': 3.121}
+{'text': 'more money', 'start': 1652.799, 'duration': 2.561}
+{'text': "and now he's saying that he's going to", 'start': 1653.52, 'duration': 3.759}
+{'text': 'veto it there is some nuance to it with', 'start': 1655.36, 'duration': 4.08}
+{'text': 'him saying that he wants a larger size', 'start': 1657.279, 'duration': 3.76}
+{'text': 'payment to the american people which is', 'start': 1659.44, 'duration': 3.119}
+{'text': 'something that democrats', 'start': 1661.039, 'duration': 3.12}
+{'text': 'argued for at every step of the process', 'start': 1662.559, 'duration': 3.36}
+{'text': 'and now house democrats say okay well if', 'start': 1664.159, 'duration': 2.721}
+{'text': "that's what he wants", 'start': 1665.919, 'duration': 3.521}
+{'text': "we'll provide him with that um i wonder", 'start': 1666.88, 'duration': 3.36}
+{'text': 'just', 'start': 1669.44, 'duration': 4.0}
+{'text': 'what you what you make of this very last', 'start': 1670.24, 'duration': 4.0}
+{'text': 'minute', 'start': 1673.44, 'duration': 3.52}
+{'text': 'um scramble of of what we thought was', 'start': 1674.24, 'duration': 4.08}
+{'text': 'going to proceed here with this relief', 'start': 1676.96, 'duration': 2.64}
+{'text': 'bill', 'start': 1678.32, 'duration': 2.8}
+{'text': 'i kept thinking tonight while these', 'start': 1679.6, 'duration': 3.52}
+{'text': 'pardons are an attack on our very', 'start': 1681.12, 'duration': 3.76}
+{'text': 'democracy', 'start': 1683.12, 'duration': 6.32}
+{'text': 'this is an attack on every american', 'start': 1684.88, 'duration': 4.56}
+{'text': 'she says this is an attack on', 'start': 1694.159, 'duration': 3.921}
+{'text': "all-american so this guy's thing is", 'start': 1695.6, 'duration': 4.16}
+{'text': 'amy klobuchar just wanted msnbc to call', 'start': 1698.08, 'duration': 3.199}
+{'text': 'raising the stimulus to 2000 per person', 'start': 1699.76, 'duration': 3.039}
+{'text': 'an attack on every american and suggest', 'start': 1701.279, 'duration': 2.961}
+{'text': "congress override trump's veto", 'start': 1702.799, 'duration': 2.88}
+{'text': 'well i wonder what amy klobuchar', 'start': 1704.24, 'duration': 3.28}
+{'text': "actually said let's listen and now he's", 'start': 1705.679, 'duration': 2.48}
+{'text': 'saying', 'start': 1707.52, 'duration': 2.32}
+{'text': "that he's going to veto it there is some", 'start': 1708.159, 'duration': 3.361}
+{'text': 'nuance to it with him saying that he', 'start': 1709.84, 'duration': 3.12}
+{'text': 'wants a larger size', 'start': 1711.52, 'duration': 3.12}
+{'text': 'payment to the american people which is', 'start': 1712.96, 'duration': 3.12}
+{'text': 'something that democrats', 'start': 1714.64, 'duration': 3.12}
+{'text': 'argued for at every step of the process', 'start': 1716.08, 'duration': 3.44}
+{'text': 'and now house democrats say okay well if', 'start': 1717.76, 'duration': 2.639}
+{'text': "that's what he wants", 'start': 1719.52, 'duration': 3.519}
+{'text': "we'll provide him with that um i wonder", 'start': 1720.399, 'duration': 3.361}
+{'text': 'just', 'start': 1723.039, 'duration': 4.0}
+{'text': 'what you what you make of this very last', 'start': 1723.76, 'duration': 4.0}
+{'text': 'minute', 'start': 1727.039, 'duration': 3.601}
+{'text': 'um scramble of of what we thought trump', 'start': 1727.76, 'duration': 4.72}
+{'text': 'is trying to do the right thing but the', 'start': 1730.64, 'duration': 3.919}
+{'text': 'democrats will stall him out and', 'start': 1732.48, 'duration': 3.76}
+{'text': "wrong and you're stupid as [\xa0__\xa0] if trump", 'start': 1734.559, 'duration': 3.201}
+{'text': 'wanted to do the right thing trump has', 'start': 1736.24, 'duration': 3.12}
+{'text': 'had four years to do that trump has had', 'start': 1737.76, 'duration': 3.039}
+{'text': '70-some years of his life to do the', 'start': 1739.36, 'duration': 2.72}
+{'text': "right thing and he's never made that", 'start': 1740.799, 'duration': 1.76}
+{'text': 'choice', 'start': 1742.08, 'duration': 2.0}
+{'text': "he doesn't give a [\xa0__\xa0] about you and you", 'start': 1742.559, 'duration': 2.961}
+{'text': "should know that it's obvious he's a", 'start': 1744.08, 'duration': 3.28}
+{'text': '[\xa0__\xa0] billionaire that he inherited', 'start': 1745.52, 'duration': 3.12}
+{'text': 'his [\xa0__\xa0] wealth he never [\xa0__\xa0]', 'start': 1747.36, 'duration': 2.08}
+{'text': 'cared about you', 'start': 1748.64, 'duration': 2.88}
+{'text': "all he's done is cut more in taxes for", 'start': 1749.44, 'duration': 3.599}
+{'text': 'people like me than people like you even', 'start': 1751.52, 'duration': 2.8}
+{'text': "make an income that's it trump never", 'start': 1753.039, 'duration': 2.64}
+{'text': 'gave a [\xa0__\xa0] about you and he helped', 'start': 1754.32, 'duration': 2.56}
+{'text': "people like me when he'll ever help", 'start': 1755.679, 'duration': 2.641}
+{'text': 'anybody like you or anybody that you', 'start': 1756.88, 'duration': 1.76}
+{'text': 'know', 'start': 1758.32, 'duration': 2.079}
+{'text': "okay you're delusional but get high off", 'start': 1758.64, 'duration': 2.88}
+{'text': 'that [\xa0__\xa0] trump kool-aid because i', 'start': 1760.399, 'duration': 2.241}
+{'text': 'made a lot of money for the past four', 'start': 1761.52, 'duration': 1.92}
+{'text': 'years at least', 'start': 1762.64, 'duration': 2.32}
+{'text': '[\xa0__\xa0] [\xa0__\xa0] thought was going to', 'start': 1763.44, 'duration': 3.92}
+{'text': 'proceed here with this relief bill', 'start': 1764.96, 'duration': 3.92}
+{'text': 'i kept thinking tonight while these', 'start': 1767.36, 'duration': 3.52}
+{'text': 'pardons are an attack on our very', 'start': 1768.88, 'duration': 3.279}
+{'text': 'democracy', 'start': 1770.88, 'duration': 4.64}
+{'text': 'uh this is an attack on every american', 'start': 1772.159, 'duration': 5.12}
+{'text': 'people who are struggling to get by', 'start': 1775.52, 'duration': 3.039}
+{'text': 'right now out of work', 'start': 1777.279, 'duration': 3.441}
+{'text': 'whose unemployment the unemployment is', 'start': 1778.559, 'duration': 3.921}
+{'text': 'going to basically end the day', 'start': 1780.72, 'duration': 3.92}
+{'text': "after christmas if this doesn't pass", 'start': 1782.48, 'duration': 3.84}
+{'text': 'people who are out of work', 'start': 1784.64, 'duration': 5.44}
+{'text': 'uh people who need the help the vaccine', 'start': 1786.32, 'duration': 4.959}
+{'text': 'distribution rachel', 'start': 1790.08, 'duration': 3.12}
+{'text': 'is in this 30 billion dollars these', 'start': 1791.279, 'duration': 3.841}
+{'text': 'vaccines are not going to just', 'start': 1793.2, 'duration': 4.4}
+{'text': 'parachute into a small town in the', 'start': 1795.12, 'duration': 4.159}
+{'text': 'middle of minnesota', 'start': 1797.6, 'duration': 3.6}
+{'text': 'we need the help for the states to get', 'start': 1799.279, 'duration': 3.441}
+{'text': 'the vaccines out', 'start': 1801.2, 'duration': 3.599}
+{'text': 'and he is literally undermining our', 'start': 1802.72, 'duration': 3.92}
+{'text': 'entire effort on testing', 'start': 1804.799, 'duration': 4.0}
+{'text': 'and vaccine distribution this was a', 'start': 1806.64, 'duration': 4.08}
+{'text': "hard-fought negotiation of course you're", 'start': 1808.799, 'duration': 2.401}
+{'text': 'right', 'start': 1810.72, 'duration': 3.04}
+{'text': 'uh democrats were pushing uh for more', 'start': 1811.2, 'duration': 3.12}
+{'text': 'funds', 'start': 1813.76, 'duration': 2.48}
+{'text': 'uh for the individual payments but in', 'start': 1814.32, 'duration': 4.56}
+{'text': 'the end this was a negotiation', 'start': 1816.24, 'duration': 4.72}
+{'text': "and he knows very well we're reaching", 'start': 1818.88, 'duration': 3.84}
+{'text': 'the end here with the unemployment', 'start': 1820.96, 'duration': 3.76}
+{'text': "with our small businesses can't take it", 'start': 1822.72, 'duration': 4.319}
+{'text': 'anymore one yelp study early in the year', 'start': 1824.72, 'duration': 4.0}
+{'text': 'showed we were having 800', 'start': 1827.039, 'duration': 4.401}
+{'text': "small businesses close a day and there's", 'start': 1828.72, 'duration': 5.12}
+{'text': 'over 300 billion dollars to help small', 'start': 1831.44, 'duration': 3.28}
+{'text': 'businesses', 'start': 1833.84, 'duration': 4.16}
+{'text': 'in this bill it is the second biggest', 'start': 1834.72, 'duration': 4.16}
+{'text': 'stimulus', 'start': 1838.0, 'duration': 3.12}
+{'text': 'uh in the history of america and for him', 'start': 1838.88, 'duration': 3.36}
+{'text': 'to turn this down', 'start': 1841.12, 'duration': 2.96}
+{'text': 'obviously we have the votes to override', 'start': 1842.24, 'duration': 4.0}
+{'text': 'his veto in the houses we have those', 'start': 1844.08, 'duration': 2.88}
+{'text': 'votes', 'start': 1846.24, 'duration': 2.48}
+{'text': 'but he should not be doing this right', 'start': 1846.96, 'duration': 3.28}
+{'text': 'now when his own', 'start': 1848.72, 'duration': 4.4}
+{'text': 'treasury secretary steve mnuchin was', 'start': 1850.24, 'duration': 3.6}
+{'text': 'involved', 'start': 1853.12, 'duration': 3.6}
+{'text': 'in the negotiations from beginning to', 'start': 1853.84, 'duration': 3.439}
+{'text': 'end', 'start': 1856.72, 'duration': 2.72}
+{'text': 'he is literally trying to burn this', 'start': 1857.279, 'duration': 3.76}
+{'text': 'country down on his way out', 'start': 1859.44, 'duration': 4.0}
+{'text': 'as i said at the beginning imagine being', 'start': 1861.039, 'duration': 3.681}
+{'text': 'such a [\xa0__\xa0] idiot', 'start': 1863.44, 'duration': 2.719}
+{'text': 'that you think that trump is just going', 'start': 1864.72, 'duration': 3.439}
+{'text': 'to give the thumbs up to a to a stimulus', 'start': 1866.159, 'duration': 2.321}
+{'text': 'that', 'start': 1868.159, 'duration': 2.561}
+{'text': 'uh all else equal is just 2 000 per', 'start': 1868.48, 'duration': 4.079}
+{'text': 'person like', 'start': 1870.72, 'duration': 4.24}
+{'text': "how stupid are you like you're just as", 'start': 1872.559, 'duration': 4.72}
+{'text': 'bad as any [\xa0__\xa0] guzzling [\xa0__\xa0] [\xa0__\xa0]', 'start': 1874.96, 'duration': 3.12}
+{'text': 'republican', 'start': 1877.279, 'duration': 2.4}
+{'text': 'that is just [\xa0__\xa0] worshiping daddy', 'start': 1878.08, 'duration': 3.28}
+{'text': "trump you're just as stupid as every", 'start': 1879.679, 'duration': 2.561}
+{'text': 'single one of them', 'start': 1881.36, 'duration': 2.159}
+{'text': 'like you might have even bought the', 'start': 1882.24, 'duration': 3.679}
+{'text': 'propaganda harder than they did like how', 'start': 1883.519, 'duration': 4.241}
+{'text': "[\xa0__\xa0] naive are you i can't even", 'start': 1885.919, 'duration': 3.76}
+{'text': 'believe that people like this like have', 'start': 1887.76, 'duration': 2.799}
+{'text': 'a following', 'start': 1889.679, 'duration': 2.24}
+{'text': 'and actually like disseminate their', 'start': 1890.559, 'duration': 2.641}
+{'text': 'stupid [\xa0__\xa0] information on the', 'start': 1891.919, 'duration': 3.041}
+{'text': "internet like it's disgusting", 'start': 1893.2, 'duration': 4.64}
+{'text': 'holy [\xa0__\xa0] how [\xa0__\xa0] stupid are you', 'start': 1894.96, 'duration': 4.16}
+{'text': 'jordan has no idea how legislation has', 'start': 1897.84, 'duration': 2.4}
+{'text': "passed nobody that's", 'start': 1899.12, 'duration': 2.64}
+{'text': 'left of [\xa0__\xa0] bernie sanders in this', 'start': 1900.24, 'duration': 2.96}
+{'text': 'country has any idea how anything in', 'start': 1901.76, 'duration': 4.48}
+{'text': "congress is passed it's unreal dude", 'start': 1903.2, 'duration': 4.319}
+{'text': 'i never thought i would see people on', 'start': 1906.24, 'duration': 3.279}
+{'text': 'the left eating up [\xa0__\xa0] republican', 'start': 1907.519, 'duration': 3.121}
+{'text': 'propaganda', 'start': 1909.519, 'duration': 4.321}
+{'text': 'unbelievable and look at all these', 'start': 1910.64, 'duration': 4.72}
+{'text': '[\xa0__\xa0] fifteen thousand like look at', 'start': 1913.84, 'duration': 2.8}
+{'text': 'the people eating this up', 'start': 1915.36, 'duration': 2.799}
+{'text': 'amazing updates we could get them to', 'start': 1916.64, 'duration': 3.36}
+{'text': 'very publicly fight religious', 'start': 1918.159, 'duration': 5.36}
+{'text': 'money how stupid', 'start': 1920.0, 'duration': 6.48}
+{'text': 'what an adult what an adult in the room', 'start': 1923.519, 'duration': 4.64}
+{'text': 'being serious and reasonable and', 'start': 1926.48, 'duration': 2.72}
+{'text': 'rational', 'start': 1928.159, 'duration': 5.12}
+{'text': 'what a victory for bipartisanship trump', 'start': 1929.2, 'duration': 7.44}
+{'text': 'trump did not suggest raising the', 'start': 1933.279, 'duration': 4.481}
+{'text': 'stimulus', 'start': 1936.64, 'duration': 3.36}
+{'text': 'from six hundred dollars to two thousand', 'start': 1937.76, 'duration': 3.36}
+{'text': 'dollars', 'start': 1940.0, 'duration': 4.88}
+{'text': 'okay [\xa0__\xa0] off with that [\xa0__\xa0]', 'start': 1941.12, 'duration': 6.48}
+{'text': 'trump suggested raising the stimulus', 'start': 1944.88, 'duration': 4.56}
+{'text': 'from six hundred dollars to two thousand', 'start': 1947.6, 'duration': 2.48}
+{'text': 'dollars', 'start': 1949.44, 'duration': 3.68}
+{'text': 'and trim unnecessary spending', 'start': 1950.08, 'duration': 5.12}
+{'text': 'there is a world of difference between', 'start': 1953.12, 'duration': 3.6}
+{'text': 'those two suggestions', 'start': 1955.2, 'duration': 3.76}
+{'text': 'and you are monumentally [\xa0__\xa0] stupid', 'start': 1956.72, 'duration': 3.679}
+{'text': "you're running right into the republican", 'start': 1958.96, 'duration': 2.24}
+{'text': 'propaganda', 'start': 1960.399, 'duration': 2.16}
+{'text': "if you're gonna sit there and blame the", 'start': 1961.2, 'duration': 2.719}
+{'text': 'democrats for having issues with the', 'start': 1962.559, 'duration': 2.401}
+{'text': 'revised build because', 'start': 1963.919, 'duration': 3.841}
+{'text': "that's what trump wants right trump", 'start': 1964.96, 'duration': 3.599}
+{'text': 'wants to say', 'start': 1967.76, 'duration': 2.56}
+{'text': 'hey we should raise the stimulus and cut', 'start': 1968.559, 'duration': 3.041}
+{'text': 'the extra spending and then when you go', 'start': 1970.32, 'duration': 2.32}
+{'text': "to negotiate the bill and they're like", 'start': 1971.6, 'duration': 2.16}
+{'text': 'we want to cut this and this and this', 'start': 1972.64, 'duration': 2.32}
+{'text': 'and this and this and like wait hold on', 'start': 1973.76, 'duration': 2.24}
+{'text': "what the [\xa0__\xa0] we're not cutting all that", 'start': 1974.96, 'duration': 2.0}
+{'text': "then you'll be like look", 'start': 1976.0, 'duration': 2.399}
+{'text': 'democrats are holding up the bill we', 'start': 1976.96, 'duration': 2.719}
+{'text': "wanted to give you two grand they're not", 'start': 1978.399, 'duration': 2.4}
+{'text': 'coming to the table to negotiate like', 'start': 1979.679, 'duration': 2.561}
+{'text': 'well hold on [\xa0__\xa0] you one we already had', 'start': 1980.799, 'duration': 2.48}
+{'text': 'a bill and then two', 'start': 1982.24, 'duration': 2.159}
+{'text': "you're trying to make a two thousand", 'start': 1983.279, 'duration': 3.28}
+{'text': 'dollar like stimulus now contingent on', 'start': 1984.399, 'duration': 3.12}
+{'text': 'other budget cuts', 'start': 1986.559, 'duration': 2.561}
+{'text': 'okay [\xa0__\xa0] out of that [\xa0__\xa0] stop', 'start': 1987.519, 'duration': 3.361}
+{'text': 'being four years four [\xa0__\xa0] years old', 'start': 1989.12, 'duration': 3.679}
+{'text': 'have a brain like trump even tweeted', 'start': 1990.88, 'duration': 3.36}
+{'text': 'this that he that he wanted to', 'start': 1992.799, 'duration': 3.201}
+{'text': 'cut extraneous can somebody find the', 'start': 1994.24, 'duration': 3.2}
+{'text': 'original trump tweet actually', 'start': 1996.0, 'duration': 3.76}
+{'text': 'where is the trump tweet two thousand', 'start': 1997.44, 'duration': 3.599}
+{'text': 'dollars can somebody find it he even', 'start': 1999.76, 'duration': 2.96}
+{'text': 'says it in the original tweet', 'start': 2001.039, 'duration': 3.841}
+{'text': "i'm asking congress to amend this bill", 'start': 2002.72, 'duration': 3.199}
+{'text': 'and increase the', 'start': 2004.88, 'duration': 4.56}
+{'text': 'ridiculously low six hundred dollars', 'start': 2005.919, 'duration': 6.401}
+{'text': 'to two thousand dollars or four thousand', 'start': 2009.44, 'duration': 3.52}
+{'text': 'dollars', 'start': 2012.32, 'duration': 4.079}
+{'text': "for a couple i'm also asking congress to", 'start': 2012.96, 'duration': 5.439}
+{'text': 'immediately get rid of the wasteful and', 'start': 2016.399, 'duration': 3.52}
+{'text': 'unnecessary items', 'start': 2018.399, 'duration': 4.88}
+{'text': "there you go it's not just an increase", 'start': 2019.919, 'duration': 4.88}
+{'text': "um i'm pretty sure he was on the force", 'start': 2023.279, 'duration': 3.041}
+{'text': "the medicare vote thing i'm almost", 'start': 2024.799, 'duration': 3.281}
+{'text': "positive i don't remember specifically", 'start': 2026.32, 'duration': 2.88}
+{'text': "tweet i could be wrong and then i'm open", 'start': 2028.08, 'duration': 2.16}
+{'text': 'to being around that but', 'start': 2029.2, 'duration': 2.56}
+{'text': 'almost positive on that force the vote', 'start': 2030.24, 'duration': 4.159}
+{'text': '[\xa0__\xa0] thing for medicare um for all', 'start': 2031.76, 'duration': 4.799}
+{'text': "um that's just like what i can think of", 'start': 2034.399, 'duration': 4.081}
+{'text': 'like immediately', 'start': 2036.559, 'duration': 3.441}
+{'text': "um i know that he's given like econ", 'start': 2038.48, 'duration': 3.439}
+{'text': 'takes that are unbelievably stupid', 'start': 2040.0, 'duration': 3.6}
+{'text': 'but like yeah when that when the', 'start': 2041.919, 'duration': 3.041}
+{'text': 'iranians accidentally shot down their', 'start': 2043.6, 'duration': 3.12}
+{'text': 'own plane and kalinski blamed [\xa0__\xa0]', 'start': 2044.96, 'duration': 3.28}
+{'text': 'america for doing it', 'start': 2046.72, 'duration': 5.119}
+{'text': "oh god dude oh yeah i can't i can't with", 'start': 2048.24, 'duration': 4.08}
+{'text': 'that guy', 'start': 2051.839, 'duration': 2.56}
+{'text': "i can't [\xa0__\xa0] with that guy remember to", 'start': 2052.32, 'duration': 3.2}
+{'text': "hit that like and subscribe and don't", 'start': 2054.399, 'duration': 2.801}
+{'text': 'forget the notification bell so that my', 'start': 2055.52, 'duration': 2.879}
+{'text': 'videos show up', 'start': 2057.2, 'duration': 4.639}
+{'text': 'right in your feed', 'start': 2058.399, 'duration': 3.44}
+{'text': 'bad time today', 'start': 2063.919, 'duration': 3.121}
+{'text': "i didn't know you can hear me turn into", 'start': 2070.399, 'duration': 4.641}
+{'text': 'a nathan', 'start': 2072.24, 'duration': 2.8}

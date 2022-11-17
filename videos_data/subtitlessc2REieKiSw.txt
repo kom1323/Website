@@ -1,0 +1,1771 @@
+{'text': "i'm so surprised i we actually have", 'start': 0.16, 'duration': 4.32}
+{'text': 'something we really disagree about and i', 'start': 2.56, 'duration': 3.279}
+{'text': "can't argue with you about it because", 'start': 4.48, 'duration': 2.96}
+{'text': "you're giving up that's very interesting", 'start': 5.839, 'duration': 3.601}
+{'text': 'to me like an idealized pause obviously', 'start': 7.44, 'duration': 4.319}
+{'text': 'this is so bad faith it is plainly', 'start': 9.44, 'duration': 4.56}
+{'text': "obvious what he's asking notice how she", 'start': 11.759, 'duration': 4.08}
+{'text': 'starts to dance a lot here because of', 'start': 14.0, 'duration': 3.6}
+{'text': "what he asked she knew what she'd", 'start': 15.839, 'duration': 3.6}
+{'text': 'committed herself to and it was a bad', 'start': 17.6, 'duration': 3.839}
+{'text': 'argument logically and it was a loser of', 'start': 19.439, 'duration': 3.6}
+{'text': 'an argument rhetorically and optically', 'start': 21.439, 'duration': 3.201}
+{'text': 'when i heard this in the video i think i', 'start': 23.039, 'duration': 4.48}
+{'text': 'said at this moment they are never', 'start': 24.64, 'duration': 4.399}
+{'text': 'yeah hi', 'start': 27.519, 'duration': 4.08}
+{'text': 'hello', 'start': 29.039, 'duration': 4.321}
+{'text': 'so people said you wanted to talk about', 'start': 31.599, 'duration': 5.041}
+{'text': 'that hans and demon mama debate', 'start': 33.36, 'duration': 4.719}
+{'text': 'oh no people told me you wanted to talk', 'start': 36.64, 'duration': 3.68}
+{'text': 'about it oh apparently we had very', 'start': 38.079, 'duration': 3.921}
+{'text': 'different conclusions what was your', 'start': 40.32, 'duration': 3.759}
+{'text': 'takeaway', 'start': 42.0, 'duration': 3.84}
+{'text': 'um i thought the demon mama looked', 'start': 44.079, 'duration': 3.521}
+{'text': 'really really really bad hansa is a', 'start': 45.84, 'duration': 3.6}
+{'text': 'little loud but i think that', 'start': 47.6, 'duration': 3.04}
+{'text': 'yeah', 'start': 49.44, 'duration': 3.2}
+{'text': 'and why do you think uh d mum looked', 'start': 50.64, 'duration': 4.079}
+{'text': 'really really really bad', 'start': 52.64, 'duration': 3.919}
+{'text': "um she almost didn't engage on a single", 'start': 54.719, 'duration': 3.601}
+{'text': 'point and i think it became pretty clear', 'start': 56.559, 'duration': 3.84}
+{'text': 'that some of her like analogies or', 'start': 58.32, 'duration': 5.2}
+{'text': 'stories were like obviously in bad faith', 'start': 60.399, 'duration': 5.281}
+{'text': 'and when she was pushed to like defend', 'start': 63.52, 'duration': 3.84}
+{'text': 'an argument she would immediately pivot', 'start': 65.68, 'duration': 3.04}
+{'text': 'and change the topic and i think that', 'start': 67.36, 'duration': 3.6}
+{'text': 'was like pretty readily apparent', 'start': 68.72, 'duration': 4.719}
+{'text': 'okay um and you saw that happening more', 'start': 70.96, 'duration': 3.6}
+{'text': 'than a couple of times in the', 'start': 73.439, 'duration': 2.801}
+{'text': 'conversation', 'start': 74.56, 'duration': 2.8}
+{'text': 'i mean it was a short conversation it', 'start': 76.24, 'duration': 4.0}
+{'text': 'was like 20 or 30 minutes yeah', 'start': 77.36, 'duration': 4.24}
+{'text': "so you didn't see it more than a couple", 'start': 80.24, 'duration': 2.879}
+{'text': 'of times', 'start': 81.6, 'duration': 3.12}
+{'text': "um i don't know if i saw anything more", 'start': 83.119, 'duration': 3.04}
+{'text': 'than a couple times maybe if i think', 'start': 84.72, 'duration': 2.64}
+{'text': 'about it but there are a couple things', 'start': 86.159, 'duration': 4.241}
+{'text': 'that like stand out to me but', 'start': 87.36, 'duration': 3.04}
+{'text': 'and how much of an obligation do you put', 'start': 91.36, 'duration': 4.0}
+{'text': 'on hans to then refocus that', 'start': 93.439, 'duration': 4.32}
+{'text': 'conversation because there was one main', 'start': 95.36, 'duration': 5.439}
+{'text': 'pivot that i pointed out where he brings', 'start': 97.759, 'duration': 5.201}
+{'text': 'up two main points for why he supports', 'start': 100.799, 'duration': 4.64}
+{'text': 'the idea of mandates and then she goes', 'start': 102.96, 'duration': 5.6}
+{'text': 'on telling a some long story and then he', 'start': 105.439, 'duration': 5.521}
+{'text': 'instead of refocusing on those two', 'start': 108.56, 'duration': 3.839}
+{'text': 'points that he made', 'start': 110.96, 'duration': 3.36}
+{'text': "interrupts her and says that what she's", 'start': 112.399, 'duration': 3.68}
+{'text': 'describing is not abolition and then', 'start': 114.32, 'duration': 3.52}
+{'text': 'they go into a whole tangent on that', 'start': 116.079, 'duration': 3.36}
+{'text': 'rather than focusing on the two points', 'start': 117.84, 'duration': 4.16}
+{'text': 'that he gave', 'start': 119.439, 'duration': 4.161}
+{'text': 'um i think he brings the conversation', 'start': 122.0, 'duration': 3.28}
+{'text': 'back a couple times well but then other', 'start': 123.6, 'duration': 3.68}
+{'text': 'times he lets her kind of like lead them', 'start': 125.28, 'duration': 4.399}
+{'text': 'around like on some dumb points yeah', 'start': 127.28, 'duration': 3.599}
+{'text': 'okay', 'start': 129.679, 'duration': 2.161}
+{'text': 'and', 'start': 130.879, 'duration': 2.72}
+{'text': "my understanding then is you're putting", 'start': 131.84, 'duration': 3.68}
+{'text': 'much more of an onus on demon mama for', 'start': 133.599, 'duration': 3.521}
+{'text': 'dodging on those points from your', 'start': 135.52, 'duration': 3.76}
+{'text': 'perspective rather than on hans for like', 'start': 137.12, 'duration': 5.04}
+{'text': 'choosing not to pursue those points yeah', 'start': 139.28, 'duration': 4.24}
+{'text': "i think it's really hard to like get", 'start': 142.16, 'duration': 3.2}
+{'text': 'people in real time on stuff like that', 'start': 143.52, 'duration': 3.04}
+{'text': 'hans could have probably done a better', 'start': 145.36, 'duration': 2.4}
+{'text': 'job at refocusing but i think he', 'start': 146.56, 'duration': 2.64}
+{'text': 'refocused pretty well a couple of times', 'start': 147.76, 'duration': 2.559}
+{'text': 'given the', 'start': 149.2, 'duration': 2.8}
+{'text': 'um how like', 'start': 150.319, 'duration': 2.961}
+{'text': 'uh', 'start': 152.0, 'duration': 3.12}
+{'text': 'bombastic the conversation was but i', 'start': 153.28, 'duration': 3.2}
+{'text': 'mean like you can always do better what', 'start': 155.12, 'duration': 4.8}
+{'text': 'do you think you refocused on to', 'start': 156.48, 'duration': 4.64}
+{'text': 'um', 'start': 159.92, 'duration': 2.56}
+{'text': 'oh god i have to go back and watch my', 'start': 161.12, 'duration': 3.119}
+{'text': 'review of it but like', 'start': 162.48, 'duration': 3.2}
+{'text': "oh i'm not gonna remember the specific", 'start': 164.239, 'duration': 2.881}
+{'text': 'examples', 'start': 165.68, 'duration': 2.4}
+{'text': "i don't know if somebody in check", 'start': 167.12, 'duration': 2.0}
+{'text': 'remember but there were a couple times i', 'start': 168.08, 'duration': 2.0}
+{'text': 'was watching was like oh it was good', 'start': 169.12, 'duration': 2.16}
+{'text': 'that hans brought it back to this', 'start': 170.08, 'duration': 2.32}
+{'text': 'question or that he brought it he was', 'start': 171.28, 'duration': 2.4}
+{'text': 'able to bring this question back up', 'start': 172.4, 'duration': 2.24}
+{'text': 'again', 'start': 173.68, 'duration': 2.88}
+{'text': "it's probably how can you make school", 'start': 174.64, 'duration': 4.0}
+{'text': 'better than all other options available', 'start': 176.56, 'duration': 4.88}
+{'text': 'to parents or students', 'start': 178.64, 'duration': 5.12}
+{'text': 'uh maybe oh and then it was the it was', 'start': 181.44, 'duration': 4.4}
+{'text': 'the thing where demon mama would keep', 'start': 183.76, 'duration': 3.759}
+{'text': 'playing this thing where she would say', 'start': 185.84, 'duration': 3.84}
+{'text': 'like oh like school is really bad um so', 'start': 187.519, 'duration': 3.281}
+{'text': "we shouldn't force people to do it and", 'start': 189.68, 'duration': 2.24}
+{'text': 'honest did a good job of like reminding', 'start': 190.8, 'duration': 2.079}
+{'text': "her well we said that that point didn't", 'start': 191.92, 'duration': 2.8}
+{'text': "matter so let's move to the next thing", 'start': 192.879, 'duration': 3.521}
+{'text': 'um', 'start': 194.72, 'duration': 2.799}
+{'text': 'yeah', 'start': 196.4, 'duration': 3.839}
+{'text': 'yeah that was one part', 'start': 197.519, 'duration': 5.121}
+{'text': 'um', 'start': 200.239, 'duration': 3.601}
+{'text': "yeah i don't i don't remember anything", 'start': 202.64, 'duration': 3.28}
+{'text': 'more specific on that', 'start': 203.84, 'duration': 3.039}
+{'text': 'okay', 'start': 205.92, 'duration': 2.08}
+{'text': 'because', 'start': 206.879, 'duration': 2.961}
+{'text': 'when we went through the line by line it', 'start': 208.0, 'duration': 5.2}
+{'text': 'did seem like hans really failed to ever', 'start': 209.84, 'duration': 5.6}
+{'text': 'get this conversation to focus on things', 'start': 213.2, 'duration': 3.039}
+{'text': 'and', 'start': 215.44, 'duration': 2.4}
+{'text': 'the one question that he continued to', 'start': 216.239, 'duration': 3.92}
+{'text': 'bring up which was can we make school', 'start': 217.84, 'duration': 4.64}
+{'text': 'better than all other options i think is', 'start': 220.159, 'duration': 5.681}
+{'text': 'a really like hyperbolic question like', 'start': 222.48, 'duration': 5.6}
+{'text': "it's it's like she's not going to have", 'start': 225.84, 'duration': 3.92}
+{'text': "an answer to this and nobody's going to", 'start': 228.08, 'duration': 3.519}
+{'text': "have an answer to this and this isn't", 'start': 229.76, 'duration': 3.6}
+{'text': 'really tackling the main question that', 'start': 231.599, 'duration': 4.081}
+{'text': 'he wanted to focus on which is around', 'start': 233.36, 'duration': 3.68}
+{'text': 'mandates and whether or not we could', 'start': 235.68, 'duration': 3.68}
+{'text': 'mandate something so for my problem', 'start': 237.04, 'duration': 4.399}
+{'text': 'though was that like demon mama opened', 'start': 239.36, 'duration': 4.079}
+{'text': 'this up she said multiple times this is', 'start': 241.439, 'duration': 3.52}
+{'text': 'the point i think that book smarts or', 'start': 243.439, 'duration': 3.041}
+{'text': 'that um hans did a good job at like', 'start': 244.959, 'duration': 3.521}
+{'text': 'bringing her back to was um what would', 'start': 246.48, 'duration': 3.759}
+{'text': 'you do to incentivize school because', 'start': 248.48, 'duration': 4.0}
+{'text': 'when he first posed that question um', 'start': 250.239, 'duration': 4.161}
+{'text': 'demon mama stalled for time and she said', 'start': 252.48, 'duration': 3.2}
+{'text': "multiple times oh there's a million", 'start': 254.4, 'duration': 2.399}
+{'text': "things that oh there's so there's an", 'start': 255.68, 'duration': 2.72}
+{'text': 'infinite number of things and then when', 'start': 256.799, 'duration': 3.201}
+{'text': 'she started rattling off stuff it was', 'start': 258.4, 'duration': 2.959}
+{'text': 'like a little bit of nonsense and then i', 'start': 260.0, 'duration': 3.68}
+{'text': 'think she said yummy food and um i think', 'start': 261.359, 'duration': 3.84}
+{'text': 'she gives that answer like two or three', 'start': 263.68, 'duration': 3.04}
+{'text': "times oh there's a million ways that we", 'start': 265.199, 'duration': 3.28}
+{'text': 'can incentivize those but when hans', 'start': 266.72, 'duration': 4.0}
+{'text': 'pushes her every single time she never', 'start': 268.479, 'duration': 4.561}
+{'text': 'actually gives a single thing and then i', 'start': 270.72, 'duration': 3.919}
+{'text': 'think later on her argument kind of like', 'start': 273.04, 'duration': 3.68}
+{'text': 'devolves into well', 'start': 274.639, 'duration': 4.0}
+{'text': 'children would never choose not to go to', 'start': 276.72, 'duration': 5.12}
+{'text': 'school which is kind of ridiculous um', 'start': 278.639, 'duration': 5.041}
+{'text': 'yeah i mean like hans could have done a', 'start': 281.84, 'duration': 3.28}
+{'text': 'better job like doing the conversation', 'start': 283.68, 'duration': 3.12}
+{'text': 'if i was analyzing this i would be more', 'start': 285.12, 'duration': 3.04}
+{'text': 'harsh towards hands if i was analyzing', 'start': 286.8, 'duration': 2.8}
+{'text': 'this as like parent child or like', 'start': 288.16, 'duration': 2.88}
+{'text': 'teacher special education student or', 'start': 289.6, 'duration': 2.879}
+{'text': 'whatever where like one person is', 'start': 291.04, 'duration': 2.719}
+{'text': 'clearly like in control of everything', 'start': 292.479, 'duration': 2.401}
+{'text': 'and the other person is just like a', 'start': 293.759, 'duration': 2.88}
+{'text': "screeching banshee and it's like okay", 'start': 294.88, 'duration': 3.2}
+{'text': 'yeah sure like hans maybe could have', 'start': 296.639, 'duration': 2.881}
+{'text': 'done a better job here you know maybe he', 'start': 298.08, 'duration': 2.399}
+{'text': 'could put the straight jacket on the', 'start': 299.52, 'duration': 2.08}
+{'text': 'person here like that would have made', 'start': 300.479, 'duration': 2.56}
+{'text': "more sense but i'm not going into this", 'start': 301.6, 'duration': 3.039}
+{'text': 'conversation like with with assuming', 'start': 303.039, 'duration': 3.6}
+{'text': 'that hans has to like be playing both', 'start': 304.639, 'duration': 3.28}
+{'text': 'ends like with the ultimate level of', 'start': 306.639, 'duration': 2.241}
+{'text': 'maturity he could have done some', 'start': 307.919, 'duration': 2.321}
+{'text': 'something better to pull it back but i', 'start': 308.88, 'duration': 2.879}
+{'text': 'think my mom was like clearly acting in', 'start': 310.24, 'duration': 2.56}
+{'text': 'bad faith for the majority of this', 'start': 311.759, 'duration': 3.28}
+{'text': 'conversation', 'start': 312.8, 'duration': 4.56}
+{'text': "like i okay so i'm i mean", 'start': 315.039, 'duration': 4.401}
+{'text': 'what would you point to as being bad', 'start': 317.36, 'duration': 4.0}
+{'text': 'faith so you can you can think that her', 'start': 319.44, 'duration': 4.08}
+{'text': 'arguments are silly um you could think', 'start': 321.36, 'duration': 4.48}
+{'text': 'that she pivoted but', 'start': 323.52, 'duration': 4.16}
+{'text': "where are you seeing bad faith i'm not", 'start': 325.84, 'duration': 3.44}
+{'text': "saying it didn't happen sure there's a", 'start': 327.68, 'duration': 3.359}
+{'text': 'few points so one is', 'start': 329.28, 'duration': 3.759}
+{'text': "when somebody says so i don't know if", 'start': 331.039, 'duration': 4.16}
+{'text': "you you're an essay writer okay anytime", 'start': 333.039, 'duration': 3.761}
+{'text': "somebody puts etc it means that they're", 'start': 335.199, 'duration': 3.601}
+{'text': 'out of things to say right so like for', 'start': 336.8, 'duration': 3.839}
+{'text': "instance when you're like oh well this", 'start': 338.8, 'duration': 3.36}
+{'text': 'is a good idea because of you know this', 'start': 340.639, 'duration': 2.881}
+{'text': 'and that and that et cetera et cetera', 'start': 342.16, 'duration': 2.479}
+{'text': "you say etc when you're out of things to", 'start': 343.52, 'duration': 2.0}
+{'text': "say it's not because you have way more", 'start': 344.639, 'duration': 3.041}
+{'text': 'things to list up right um so i guess', 'start': 345.52, 'duration': 3.519}
+{'text': "it's kind of like an analogy of that or", 'start': 347.68, 'duration': 2.56}
+{'text': 'whatever like demon mom is saying in the', 'start': 349.039, 'duration': 2.641}
+{'text': "beginning of that conversation there's a", 'start': 350.24, 'duration': 3.12}
+{'text': 'million ways that we can incentivize uh', 'start': 351.68, 'duration': 2.959}
+{'text': 'going to school she never gave a single', 'start': 353.36, 'duration': 2.959}
+{'text': 'one of that entire conversation which', 'start': 354.639, 'duration': 2.961}
+{'text': 'was kind of like the biggest part of her', 'start': 356.319, 'duration': 2.32}
+{'text': "argument well if you don't want to do", 'start': 357.6, 'duration': 3.039}
+{'text': 'mandates how else can you incentivize it', 'start': 358.639, 'duration': 3.28}
+{'text': "and demon mama didn't give a single", 'start': 360.639, 'duration': 3.12}
+{'text': 'thing even asked multiple times for that', 'start': 361.919, 'duration': 3.601}
+{'text': "so you keep repeating she didn't give a", 'start': 363.759, 'duration': 4.081}
+{'text': 'single thing but you noted things that', 'start': 365.52, 'duration': 4.16}
+{'text': 'she gave you may disagree may say that', 'start': 367.84, 'duration': 3.68}
+{'text': "they're not like good points she said", 'start': 369.68, 'duration': 4.32}
+{'text': 'she gave one thing and she ran away from', 'start': 371.52, 'duration': 3.519}
+{'text': 'it instantly because she realized how', 'start': 374.0, 'duration': 2.639}
+{'text': 'ridiculous it sounded she said yummy', 'start': 375.039, 'duration': 4.241}
+{'text': "food that's not the only thing i know i", 'start': 376.639, 'duration': 4.161}
+{'text': "feel like you're being hyperbolic but i", 'start': 379.28, 'duration': 3.039}
+{'text': 'want to be like really specific because', 'start': 380.8, 'duration': 2.56}
+{'text': "i'm sure", 'start': 382.319, 'duration': 2.081}
+{'text': "what other things did she say i'm", 'start': 383.36, 'duration': 3.2}
+{'text': 'curious that you can entice students by', 'start': 384.4, 'duration': 3.519}
+{'text': 'making the learning experience', 'start': 386.56, 'duration': 2.8}
+{'text': 'interesting', 'start': 387.919, 'duration': 3.041}
+{'text': "oh that's not that's not an answer to", 'start': 389.36, 'duration': 3.119}
+{'text': 'anything', 'start': 390.96, 'duration': 4.4}
+{'text': "oh boy we're we're getting into this so", 'start': 392.479, 'duration': 4.56}
+{'text': 'that is an answer though like you may', 'start': 395.36, 'duration': 4.32}
+{'text': 'not find that to be a good answer and i', 'start': 397.039, 'duration': 5.841}
+{'text': "would agree like it's it's vague and i'd", 'start': 399.68, 'duration': 4.959}
+{'text': 'say that', 'start': 402.88, 'duration': 3.759}
+{'text': "it's literally begging the question", 'start': 404.639, 'duration': 3.761}
+{'text': 'right like if you could design a', 'start': 406.639, 'duration': 3.601}
+{'text': "curriculum fair enough that's so", 'start': 408.4, 'duration': 3.76}
+{'text': 'interesting that kids would naturally be', 'start': 410.24, 'duration': 3.359}
+{'text': 'drawn to want to learn it i mean then', 'start': 412.16, 'duration': 4.0}
+{'text': "you've solved the question with your own", 'start': 413.599, 'duration': 4.0}
+{'text': 'with your own question right like how do', 'start': 416.16, 'duration': 3.599}
+{'text': 'we get kids to go to school oh by making', 'start': 417.599, 'duration': 3.44}
+{'text': 'the curriculum so good that kids want to', 'start': 419.759, 'duration': 2.88}
+{'text': 'go and learn it well okay well wait how', 'start': 421.039, 'duration': 2.961}
+{'text': "do you do that like that's like yeah", 'start': 422.639, 'duration': 2.721}
+{'text': "that's it's kind of like saying like how", 'start': 424.0, 'duration': 2.639}
+{'text': 'do you act like a good person like oh', 'start': 425.36, 'duration': 2.88}
+{'text': "we'll just be like incredibly virtuous", 'start': 426.639, 'duration': 5.041}
+{'text': 'like we yeah of course what yeah', 'start': 428.24, 'duration': 7.04}
+{'text': 'sure um then why then did he never', 'start': 431.68, 'duration': 5.76}
+{'text': 'bounce on that or jump on top of that', 'start': 435.28, 'duration': 4.08}
+{'text': "and say that that's begging the question", 'start': 437.44, 'duration': 4.879}
+{'text': 'though because i think he tried to well', 'start': 439.36, 'duration': 4.559}
+{'text': 'first of all i think identifying like', 'start': 442.319, 'duration': 2.961}
+{'text': 'fallacies in the middle of whatever is', 'start': 443.919, 'duration': 2.641}
+{'text': 'cringe now he could have said in other', 'start': 445.28, 'duration': 3.52}
+{'text': 'words but i think he tried to play off', 'start': 446.56, 'duration': 4.16}
+{'text': 'of that but every time he did she backed', 'start': 448.8, 'duration': 4.239}
+{'text': 'into some really weird um so for', 'start': 450.72, 'duration': 3.28}
+{'text': 'instance', 'start': 453.039, 'duration': 2.0}
+{'text': "i don't remember the specific part's", 'start': 454.0, 'duration': 2.16}
+{'text': 'going to write down', 'start': 455.039, 'duration': 2.16}
+{'text': 'when i was listening to this but as they', 'start': 456.16, 'duration': 2.4}
+{'text': 'were talking about like the curriculum', 'start': 457.199, 'duration': 3.041}
+{'text': "thing i'm pretty sure that she started", 'start': 458.56, 'duration': 3.199}
+{'text': 'going off on the like well me and my', 'start': 460.24, 'duration': 3.92}
+{'text': 'siblings we there was never a single day', 'start': 461.759, 'duration': 3.681}
+{'text': "that we didn't want to go to school we", 'start': 464.16, 'duration': 2.96}
+{'text': 'love learning me and my siblings love it', 'start': 465.44, 'duration': 2.8}
+{'text': "i've never heard of a kid not want to go", 'start': 467.12, 'duration': 3.199}
+{'text': 'to school before which is unbelievably', 'start': 468.24, 'duration': 3.2}
+{'text': 'like as soon as i would hear that i', 'start': 470.319, 'duration': 2.481}
+{'text': 'would probably start chimping out in the', 'start': 471.44, 'duration': 2.4}
+{'text': 'conversation because like this is the', 'start': 472.8, 'duration': 2.56}
+{'text': 'dumbest thing about my life you just', 'start': 473.84, 'duration': 3.68}
+{'text': "said she said that there is she doesn't", 'start': 475.36, 'duration': 3.519}
+{'text': "know any kids that didn't want to go to", 'start': 477.52, 'duration': 3.04}
+{'text': 'school am i hearing you right because i', 'start': 478.879, 'duration': 3.841}
+{'text': "don't remember well she said she said", 'start': 480.56, 'duration': 4.0}
+{'text': 'there was never a single day where her', 'start': 482.72, 'duration': 3.12}
+{'text': "and her siblings didn't want to go to", 'start': 484.56, 'duration': 2.4}
+{'text': "school and learn right i'm almost", 'start': 485.84, 'duration': 2.4}
+{'text': 'positive that was like a word for word', 'start': 486.96, 'duration': 3.04}
+{'text': 'almost like what she said okay but not', 'start': 488.24, 'duration': 3.6}
+{'text': "other kids right because i thought i'd", 'start': 490.0, 'duration': 4.08}
+{'text': 'heard you say other kids why are you', 'start': 491.84, 'duration': 3.6}
+{'text': 'getting so much value she might not have', 'start': 494.08, 'duration': 2.48}
+{'text': 'said other people but she might have', 'start': 495.44, 'duration': 2.96}
+{'text': 'seen it she might have been realized', 'start': 496.56, 'duration': 3.6}
+{'text': 'after that like kids', 'start': 498.4, 'duration': 4.479}
+{'text': "i don't remember 100.", 'start': 500.16, 'duration': 2.719}
+{'text': 'and she might have your nose oh kids', 'start': 503.599, 'duration': 3.6}
+{'text': 'really like to learn but that that was', 'start': 505.039, 'duration': 4.56}
+{'text': 'the implication right the kids trust', 'start': 507.199, 'duration': 4.801}
+{'text': 'adults and the if adults sell it well to', 'start': 509.599, 'duration': 4.081}
+{'text': 'them then kids will be excited to go and', 'start': 512.0, 'duration': 3.68}
+{'text': 'a law may not even be necessary to make', 'start': 513.68, 'duration': 5.239}
+{'text': 'them go', 'start': 515.68, 'duration': 3.239}
+{'text': 'but', 'start': 520.88, 'duration': 2.32}
+{'text': 'which is very different from what you', 'start': 521.599, 'duration': 2.8}
+{'text': 'said', 'start': 523.2, 'duration': 3.6}
+{'text': "okay sure let's back up there was no law", 'start': 524.399, 'duration': 4.321}
+{'text': 'in place or whatever when she said her', 'start': 526.8, 'duration': 3.44}
+{'text': 'and her siblings never wanted to miss a', 'start': 528.72, 'duration': 3.04}
+{'text': 'day of school this is like another kind', 'start': 530.24, 'duration': 3.599}
+{'text': 'of thing that she does um she does this', 'start': 531.76, 'duration': 4.0}
+{'text': 'later when hans asks her if she would', 'start': 533.839, 'duration': 3.68}
+{'text': 'prevent a kid from suiciding or have the', 'start': 535.76, 'duration': 3.6}
+{'text': 'state prevent a kid from suiciding and', 'start': 537.519, 'duration': 4.32}
+{'text': 'demon mama does the well personally when', 'start': 539.36, 'duration': 4.08}
+{'text': 'she gives that answer like the', 'start': 541.839, 'duration': 3.041}
+{'text': "implication is that you're either not", 'start': 543.44, 'duration': 3.44}
+{'text': "tackling a question head on or you're", 'start': 544.88, 'duration': 3.519}
+{'text': 'trying to do some slight thing if i ask', 'start': 546.88, 'duration': 4.399}
+{'text': 'you if i say something like hey um', 'start': 548.399, 'duration': 4.721}
+{'text': 'we need to like make school interesting', 'start': 551.279, 'duration': 4.081}
+{'text': 'to go to and you respond with well me', 'start': 553.12, 'duration': 4.08}
+{'text': 'and my siblings always wanted to go to', 'start': 555.36, 'duration': 3.84}
+{'text': 'school the implication is that like most', 'start': 557.2, 'duration': 3.36}
+{'text': 'kids always want to go to school even if', 'start': 559.2, 'duration': 2.96}
+{'text': "you don't say it verbally that's heavily", 'start': 560.56, 'duration': 4.48}
+{'text': 'implied right', 'start': 562.16, 'duration': 6.16}
+{'text': 'um i think that would hurt her like um i', 'start': 565.04, 'duration': 4.56}
+{'text': "i understand where you're going with", 'start': 568.32, 'duration': 2.72}
+{'text': "this it's just it's not what was said in", 'start': 569.6, 'duration': 3.6}
+{'text': 'the conversation um', 'start': 571.04, 'duration': 4.4}
+{'text': "we're not just going by like the strict", 'start': 573.2, 'duration': 3.52}
+{'text': 'what were the words like what are you', 'start': 575.44, 'duration': 2.399}
+{'text': 'implying', 'start': 576.72, 'duration': 2.559}
+{'text': "okay but then then you're not even", 'start': 577.839, 'duration': 2.56}
+{'text': "listening to the conversation i don't", 'start': 579.279, 'duration': 1.921}
+{'text': "know i don't even know what you're", 'start': 580.399, 'duration': 2.081}
+{'text': "listening to then i'm listening to the", 'start': 581.2, 'duration': 2.96}
+{'text': 'words that the people are saying like i', 'start': 582.48, 'duration': 4.16}
+{'text': "i know that's not the conversation no", 'start': 584.16, 'duration': 4.0}
+{'text': "you're parsing code like a computer", 'start': 586.64, 'duration': 3.04}
+{'text': "right you're totally you're missing half", 'start': 588.16, 'duration': 3.04}
+{'text': "the conversation at that point if that's", 'start': 589.68, 'duration': 3.599}
+{'text': "like you we can't read like we can't", 'start': 591.2, 'duration': 4.0}
+{'text': 'parse language like a computer program', 'start': 593.279, 'duration': 3.441}
+{'text': 'right like when somebody sends me to the', 'start': 595.2, 'duration': 2.96}
+{'text': 'store to get 12 eggs and a carton of', 'start': 596.72, 'duration': 3.6}
+{'text': 'milk and i go and i get 12 eggs and like', 'start': 598.16, 'duration': 3.76}
+{'text': "12 cartons of milk it's like we don't", 'start': 600.32, 'duration': 3.36}
+{'text': 'parse language that way if i were to', 'start': 601.92, 'duration': 3.2}
+{'text': "tell you because she doesn't even do", 'start': 603.68, 'duration': 3.04}
+{'text': "what you said like i've been holding", 'start': 605.12, 'duration': 4.08}
+{'text': 'back on this but in the same', 'start': 606.72, 'duration': 4.559}
+{'text': "line where she's talking about the law", 'start': 609.2, 'duration': 4.079}
+{'text': 'may not even be necessary kids are', 'start': 611.279, 'duration': 4.321}
+{'text': 'excited to go she also says that for the', 'start': 613.279, 'duration': 3.921}
+{'text': "kids that don't like to go there's", 'start': 615.6, 'duration': 3.44}
+{'text': 'likely an issue and then she provides', 'start': 617.2, 'duration': 4.319}
+{'text': "solutions to that so it's like your", 'start': 619.04, 'duration': 4.08}
+{'text': 'recollection of this is not matching', 'start': 621.519, 'duration': 3.281}
+{'text': 'like the way that the conversation went', 'start': 623.12, 'duration': 4.32}
+{'text': 'even if we what is her interpretations', 'start': 624.8, 'duration': 4.159}
+{'text': 'what is her so what were the solutions', 'start': 627.44, 'duration': 4.24}
+{'text': "that she prevented or i'm sorry provided", 'start': 628.959, 'duration': 4.641}
+{'text': 'she said that they could get a tutor for', 'start': 631.68, 'duration': 3.44}
+{'text': 'at home they could enroll them in', 'start': 633.6, 'duration': 3.84}
+{'text': 'special education which i assume that', 'start': 635.12, 'duration': 5.44}
+{'text': 'she means homeschooling to some extent', 'start': 637.44, 'duration': 5.12}
+{'text': 'so get it get a tutor and enroll them in', 'start': 640.56, 'duration': 3.519}
+{'text': 'special ed these are things that already', 'start': 642.56, 'duration': 2.8}
+{'text': 'exist in the current system yeah for', 'start': 644.079, 'duration': 2.401}
+{'text': 'sure', 'start': 645.36, 'duration': 2.159}
+{'text': "so these aren't these aren't", 'start': 646.48, 'duration': 2.24}
+{'text': 'contradictions to anything hans is', 'start': 647.519, 'duration': 2.801}
+{'text': 'saying', 'start': 648.72, 'duration': 3.52}
+{'text': 'there are contradictions', 'start': 650.32, 'duration': 3.759}
+{'text': "like i'm just pointing out that what you", 'start': 652.24, 'duration': 3.44}
+{'text': 'just said is not matching up with the', 'start': 654.079, 'duration': 3.281}
+{'text': 'way that the conversation went and your', 'start': 655.68, 'duration': 4.08}
+{'text': 'inferences are are like clouding your', 'start': 657.36, 'duration': 4.0}
+{'text': 'ability to understand what what happened', 'start': 659.76, 'duration': 4.72}
+{'text': "the conversation but you're not so", 'start': 661.36, 'duration': 5.2}
+{'text': 'pulling back the broad overview is hans', 'start': 664.48, 'duration': 3.359}
+{'text': 'believes that education should be', 'start': 666.56, 'duration': 3.12}
+{'text': 'mandatory demon mama is saying that it', 'start': 667.839, 'duration': 2.881}
+{'text': "shouldn't be mandatory there should be", 'start': 669.68, 'duration': 2.8}
+{'text': 'some other way to incentivize this right', 'start': 670.72, 'duration': 3.92}
+{'text': "now you're telling me the ideas that", 'start': 672.48, 'duration': 5.039}
+{'text': 'demon mama says that already applied to', 'start': 674.64, 'duration': 4.56}
+{'text': "hans's argument right now you can", 'start': 677.519, 'duration': 3.361}
+{'text': 'already get a tutor right now you can', 'start': 679.2, 'duration': 3.6}
+{'text': 'already be enrolled in special education', 'start': 680.88, 'duration': 3.6}
+{'text': 'none of this has anything to do with', 'start': 682.8, 'duration': 3.2}
+{'text': 'whether education should be mandatory or', 'start': 684.48, 'duration': 3.599}
+{'text': "not in fact when you say if you can't", 'start': 686.0, 'duration': 4.399}
+{'text': 'participate in school no if you say that', 'start': 688.079, 'duration': 3.76}
+{'text': "you can't participate in school well so", 'start': 690.399, 'duration': 2.88}
+{'text': 'you should either get a tutor or enroll', 'start': 691.839, 'duration': 3.201}
+{'text': 'in special education that still sounds', 'start': 693.279, 'duration': 2.8}
+{'text': "like you're implying that there's a", 'start': 695.04, 'duration': 2.799}
+{'text': "mandate to learn it doesn't it doesn't", 'start': 696.079, 'duration': 3.44}
+{'text': "okay let's respond to the argument at", 'start': 697.839, 'duration': 2.881}
+{'text': "all let's", 'start': 699.519, 'duration': 2.961}
+{'text': "let's take a let's take a breather for a", 'start': 700.72, 'duration': 3.359}
+{'text': 'second um', 'start': 702.48, 'duration': 3.44}
+{'text': "there's another big problem another", 'start': 704.079, 'duration': 3.681}
+{'text': 'criticism i had with hans is he', 'start': 705.92, 'duration': 3.76}
+{'text': 'constantly frames everything in terms of', 'start': 707.76, 'duration': 4.56}
+{'text': 'making a kid go to school but as you', 'start': 709.68, 'duration': 5.36}
+{'text': 'just said and as you just changed in in', 'start': 712.32, 'duration': 4.8}
+{'text': 'your description of this education is', 'start': 715.04, 'duration': 3.44}
+{'text': "different and i think that that's what", 'start': 717.12, 'duration': 3.2}
+{'text': 'the point of the law is is that we want', 'start': 718.48, 'duration': 4.08}
+{'text': "kids to be educated but that's not a", 'start': 720.32, 'duration': 4.079}
+{'text': 'clarification that hans makes instead', 'start': 722.56, 'duration': 3.68}
+{'text': 'hans chooses to focus on making the kids', 'start': 724.399, 'duration': 4.44}
+{'text': 'go to school i agree with', 'start': 726.24, 'duration': 6.719}
+{'text': 'you again implication right this is like', 'start': 728.839, 'duration': 5.721}
+{'text': "this is like i'm doing what you want me", 'start': 732.959, 'duration': 3.68}
+{'text': "to do i'm taking the application", 'start': 734.56, 'duration': 3.839}
+{'text': "no no no no no no you're you're you're", 'start': 736.639, 'duration': 3.44}
+{'text': "reading the actual word hans doesn't", 'start': 738.399, 'duration': 3.12}
+{'text': 'care about people going to school he', 'start': 740.079, 'duration': 2.641}
+{'text': 'obviously cares about people getting an', 'start': 741.519, 'duration': 3.201}
+{'text': "education but that's not ever what he", 'start': 742.72, 'duration': 5.2}
+{'text': 'says and it focuses on literally', 'start': 744.72, 'duration': 5.119}
+{'text': "doesn't he literally say later on that", 'start': 747.92, 'duration': 3.2}
+{'text': 'like yeah getting a tutor and all of', 'start': 749.839, 'duration': 2.401}
+{'text': 'that is okay i thought there was a point', 'start': 751.12, 'duration': 2.56}
+{'text': 'we actually said that you can call it a', 'start': 752.24, 'duration': 3.36}
+{'text': 'concession', 'start': 753.68, 'duration': 3.839}
+{'text': "yeah so it's this is like saying that", 'start': 755.6, 'duration': 3.52}
+{'text': 'like oh like i went to bed last night at', 'start': 757.519, 'duration': 3.521}
+{'text': '10. well why did you wake up at 2 p.m oh', 'start': 759.12, 'duration': 3.04}
+{'text': "i went to bed at 10 but i didn't go to", 'start': 761.04, 'duration': 2.96}
+{'text': 'sleep until 2. like wait what to be', 'start': 762.16, 'duration': 3.04}
+{'text': 'clear', 'start': 764.0, 'duration': 2.88}
+{'text': 'therapy', 'start': 765.2, 'duration': 3.28}
+{'text': 'sure but these are all part of like a', 'start': 766.88, 'duration': 3.28}
+{'text': 'mandatory educationism nothing here is', 'start': 768.48, 'duration': 4.479}
+{'text': 'breaking the mandatory part but hold on', 'start': 770.16, 'duration': 4.96}
+{'text': "let's be really really specific because", 'start': 772.959, 'duration': 4.401}
+{'text': 'he says that the therapy would be the', 'start': 775.12, 'duration': 3.68}
+{'text': "required thing and that's what triggered", 'start': 777.36, 'duration': 3.44}
+{'text': "d mama to say you're saying my what i'm", 'start': 778.8, 'duration': 4.159}
+{'text': "saying back to me he didn't say tutoring", 'start': 780.8, 'duration': 4.08}
+{'text': 'or homeschooling he said the therapy', 'start': 782.959, 'duration': 2.721}
+{'text': 'would be', 'start': 784.88, 'duration': 2.959}
+{'text': 'the therapy would be required in order', 'start': 785.68, 'duration': 4.24}
+{'text': "to get back into school yeah and that's", 'start': 787.839, 'duration': 4.721}
+{'text': "what he said but that it's school again", 'start': 789.92, 'duration': 4.96}
+{'text': 'destiny this is my point is like he', 'start': 792.56, 'duration': 4.16}
+{'text': 'always couches this in school and not', 'start': 794.88, 'duration': 3.68}
+{'text': 'education which was a failure of his in', 'start': 796.72, 'duration': 2.88}
+{'text': 'the debate', 'start': 798.56, 'duration': 2.719}
+{'text': 'because school and education are like', 'start': 799.6, 'duration': 3.28}
+{'text': 'synonymous in this conversation', 'start': 801.279, 'duration': 4.081}
+{'text': 'evidently', 'start': 802.88, 'duration': 2.48}
+{'text': 'um', 'start': 806.639, 'duration': 2.64}
+{'text': 'okay', 'start': 807.519, 'duration': 4.961}
+{'text': 'i i i would venture a guess that like 98', 'start': 809.279, 'duration': 5.761}
+{'text': 'of people like school education in this', 'start': 812.48, 'duration': 4.159}
+{'text': 'conversation are like synonymous like', 'start': 815.04, 'duration': 3.039}
+{'text': 'when you say like oh people need to go', 'start': 816.639, 'duration': 3.44}
+{'text': "to school and you're like oh really well", 'start': 818.079, 'duration': 3.2}
+{'text': 'what if i just got private tutors for', 'start': 820.079, 'duration': 2.401}
+{'text': 'all of my classes and i go to school', 'start': 821.279, 'duration': 2.8}
+{'text': "okay yeah that's fine i mean yeah but do", 'start': 822.48, 'duration': 2.4}
+{'text': "you like going to school you're getting", 'start': 824.079, 'duration': 2.241}
+{'text': "education right that's most people would", 'start': 824.88, 'duration': 3.199}
+{'text': 'immediately make that conception to', 'start': 826.32, 'duration': 3.68}
+{'text': 'build a bridge when she immediately', 'start': 828.079, 'duration': 4.56}
+{'text': 'after the the point is of therapy is to', 'start': 830.0, 'duration': 5.04}
+{'text': 'get them to go to school she countered', 'start': 832.639, 'duration': 4.801}
+{'text': 'with no i think that the point of the', 'start': 835.04, 'duration': 4.159}
+{'text': 'therapy would for them to be happy and', 'start': 837.44, 'duration': 4.24}
+{'text': 'liberated and then to become educated', 'start': 839.199, 'duration': 4.241}
+{'text': "and he didn't try to build a bridge here", 'start': 841.68, 'duration': 4.32}
+{'text': 'which leads me to believe that his focus', 'start': 843.44, 'duration': 4.399}
+{'text': "was on school it's not necessarily on", 'start': 846.0, 'duration': 3.68}
+{'text': 'the education because he fails to make', 'start': 847.839, 'duration': 3.281}
+{'text': "that bridge anytime he's given the", 'start': 849.68, 'duration': 3.92}
+{'text': 'opportunity which is why he got so much', 'start': 851.12, 'duration': 5.36}
+{'text': 'flack in my review of him so stepping', 'start': 853.6, 'duration': 4.56}
+{'text': "back then i'm just curious and i'm just", 'start': 856.48, 'duration': 2.96}
+{'text': 'on a personal level you think that', 'start': 858.16, 'duration': 3.76}
+{'text': "hans's major focus was that he just", 'start': 859.44, 'duration': 4.8}
+{'text': 'wanted children to go to school he', 'start': 861.92, 'duration': 4.159}
+{'text': "didn't care about the education", 'start': 864.24, 'duration': 3.279}
+{'text': "okay i don't know if he didn't care", 'start': 866.079, 'duration': 3.2}
+{'text': 'about the education but he always', 'start': 867.519, 'duration': 4.961}
+{'text': 'couches us in school', 'start': 869.279, 'duration': 3.201}
+{'text': "okay do you think i'm crazy for that he", 'start': 872.8, 'duration': 3.839}
+{'text': "does never say anything different that's", 'start': 874.959, 'duration': 3.44}
+{'text': 'one of the most unreal interpretations', 'start': 876.639, 'duration': 4.241}
+{'text': 'that i could possibly how is it', 'start': 878.399, 'duration': 4.321}
+{'text': 'literally what he [\xa0__\xa0] says like', 'start': 880.88, 'duration': 4.639}
+{'text': 'throughout the whole conversation', 'start': 882.72, 'duration': 3.6}
+{'text': 'like', 'start': 885.519, 'duration': 1.76}
+{'text': 'no', 'start': 886.32, 'duration': 3.92}
+{'text': "i i don't even", 'start': 887.279, 'duration': 2.961}
+{'text': 'like if i have to do the line by line if', 'start': 893.199, 'duration': 3.921}
+{'text': 'i have to look at all of their words he', 'start': 895.199, 'duration': 4.161}
+{'text': "doesn't ever make the bridge anywhere", 'start': 897.12, 'duration': 4.079}
+{'text': 'where he can to the education and if he', 'start': 899.36, 'duration': 2.88}
+{'text': 'would have it would have been a very', 'start': 901.199, 'duration': 2.961}
+{'text': "different conversation but he doesn't", 'start': 902.24, 'duration': 3.52}
+{'text': 'now no no it was it would have been a', 'start': 904.16, 'duration': 3.2}
+{'text': 'different conversation if demon mama had', 'start': 905.76, 'duration': 4.4}
+{'text': 'anything to actually give encounter to a', 'start': 907.36, 'duration': 4.719}
+{'text': 'mandate instead of talking around it and', 'start': 910.16, 'duration': 4.08}
+{'text': 'providing like other solutions that just', 'start': 912.079, 'duration': 4.401}
+{'text': 'get you to school that could also be', 'start': 914.24, 'duration': 4.56}
+{'text': 'mandated', 'start': 916.48, 'duration': 3.52}
+{'text': 'no', 'start': 918.8, 'duration': 3.12}
+{'text': "it's not about being wait so do you", 'start': 920.0, 'duration': 4.0}
+{'text': "think that hold on i'm okay now i'm", 'start': 921.92, 'duration': 4.479}
+{'text': 'fascinated do you think that hans was', 'start': 924.0, 'duration': 4.8}
+{'text': 'arguing in favor of mandating school but', 'start': 926.399, 'duration': 4.0}
+{'text': 'demon mama was arguing in favor of', 'start': 928.8, 'duration': 3.52}
+{'text': 'mandating education', 'start': 930.399, 'duration': 3.521}
+{'text': "no because she's against mandates for", 'start': 932.32, 'duration': 3.84}
+{'text': 'this in general', 'start': 933.92, 'duration': 5.2}
+{'text': 'okay but you think demon mama was', 'start': 936.16, 'duration': 4.4}
+{'text': 'then what does demon mama talk about', 'start': 939.12, 'duration': 3.12}
+{'text': "when she's just getting a tutor to get", 'start': 940.56, 'duration': 2.88}
+{'text': 'educated', 'start': 942.24, 'duration': 2.64}
+{'text': 'and how is that making concession or', 'start': 943.44, 'duration': 2.399}
+{'text': 'building a bridge how does that connect', 'start': 944.88, 'duration': 3.12}
+{'text': 'can you connect that for me yeah so what', 'start': 945.839, 'duration': 5.12}
+{'text': "i'm saying is that right after han says", 'start': 948.0, 'duration': 4.8}
+{'text': 'that we should get them therapy so they', 'start': 950.959, 'duration': 4.88}
+{'text': 'can go to school she says no no i think', 'start': 952.8, 'duration': 4.8}
+{'text': 'that the point of the therapy is that', 'start': 955.839, 'duration': 3.761}
+{'text': 'they could be happy liberated and then', 'start': 957.6, 'duration': 4.56}
+{'text': "become educated i'm saying that what", 'start': 959.6, 'duration': 4.88}
+{'text': 'hans failed to do there if his focus was', 'start': 962.16, 'duration': 4.799}
+{'text': 'on education and not on school was to', 'start': 964.48, 'duration': 4.479}
+{'text': "build a bridge at education they're like", 'start': 966.959, 'duration': 4.161}
+{'text': 'oh okay so you want them to have therapy', 'start': 968.959, 'duration': 4.8}
+{'text': "to be educated well that's my goal too", 'start': 971.12, 'duration': 4.24}
+{'text': "isn't both of our goal at the end to", 'start': 973.759, 'duration': 4.32}
+{'text': 'make sure every kid is educated then', 'start': 975.36, 'duration': 4.64}
+{'text': 'that could be very different', 'start': 978.079, 'duration': 4.161}
+{'text': 'go ahead what did he say afterwards he', 'start': 980.0, 'duration': 5.68}
+{'text': 'said what if no kid wants to go', 'start': 982.24, 'duration': 5.68}
+{'text': 'okay', 'start': 985.68, 'duration': 2.24}
+{'text': 'and what was her follow-up after that', 'start': 989.92, 'duration': 4.32}
+{'text': "then it's a failed system and that you", 'start': 992.72, 'duration': 4.239}
+{'text': 'need to start over', 'start': 994.24, 'duration': 5.2}
+{'text': 'okay so', 'start': 996.959, 'duration': 2.481}
+{'text': 'so how is she how is she providing any', 'start': 1000.32, 'duration': 3.68}
+{'text': 'solution or anything here it sounds like', 'start': 1002.48, 'duration': 2.32}
+{'text': "she's just saying like if they don't", 'start': 1004.0, 'duration': 2.0}
+{'text': "want to go then the system doesn't work", 'start': 1004.8, 'duration': 2.719}
+{'text': 'but she never gave away to make kids', 'start': 1006.0, 'duration': 2.72}
+{'text': 'want to go to school or want to get', 'start': 1007.519, 'duration': 3.041}
+{'text': 'educated i totally agree with you on', 'start': 1008.72, 'duration': 3.679}
+{'text': "that point like that that's not my point", 'start': 1010.56, 'duration': 3.76}
+{'text': 'here my point here is that if hans had', 'start': 1012.399, 'duration': 3.44}
+{'text': 'meant to talk specifically about', 'start': 1014.32, 'duration': 2.879}
+{'text': 'education he had a really good', 'start': 1015.839, 'duration': 2.961}
+{'text': 'opportunity to build a bridge here when', 'start': 1017.199, 'duration': 4.0}
+{'text': 'she explicitly stated that and instead', 'start': 1018.8, 'duration': 4.24}
+{'text': 'he chose to go to a very hyperbolic', 'start': 1021.199, 'duration': 4.561}
+{'text': 'question of well what if no kid wants to', 'start': 1023.04, 'duration': 3.6}
+{'text': 'go', 'start': 1025.76, 'duration': 2.559}
+{'text': "and then because that's that's the point", 'start': 1026.64, 'duration': 3.12}
+{'text': "of the conversation it's not this", 'start': 1028.319, 'duration': 3.36}
+{'text': 'whatever weird education school divide', 'start': 1029.76, 'duration': 3.52}
+{'text': "you're talking about the point was how", 'start': 1031.679, 'duration': 3.601}
+{'text': 'do you get a kid to go and participate', 'start': 1033.28, 'duration': 3.84}
+{'text': "in education whether that's the tutor", 'start': 1035.28, 'duration': 3.279}
+{'text': "we're talking about or whatever if the", 'start': 1037.12, 'duration': 3.839}
+{'text': "kid super doesn't want to", 'start': 1038.559, 'duration': 4.721}
+{'text': "yep that's what hans wanted to set out", 'start': 1040.959, 'duration': 3.681}
+{'text': "to do and i don't think he did a very", 'start': 1043.28, 'duration': 3.279}
+{'text': 'good job of getting answers to that at', 'start': 1044.64, 'duration': 2.88}
+{'text': 'all', 'start': 1046.559, 'duration': 2.48}
+{'text': 'well because he i think he asked the', 'start': 1047.52, 'duration': 3.039}
+{'text': "right questions but demon mama didn't", 'start': 1049.039, 'duration': 4.241}
+{'text': 'have any answers', 'start': 1050.559, 'duration': 4.0}
+{'text': 'like how do you have a conversation with', 'start': 1053.28, 'duration': 2.48}
+{'text': 'someone that says like oh well me and my', 'start': 1054.559, 'duration': 2.721}
+{'text': 'siblings every single day we wanted to', 'start': 1055.76, 'duration': 3.2}
+{'text': 'go to school or when did my momma say', 'start': 1057.28, 'duration': 2.8}
+{'text': 'what do you do when a kid breaks out of', 'start': 1058.96, 'duration': 2.48}
+{'text': 'the car what are you doing when a kid', 'start': 1060.08, 'duration': 2.24}
+{'text': 'breaks out of your house what are you', 'start': 1061.44, 'duration': 1.76}
+{'text': 'doing when the kid breaks out of the', 'start': 1062.32, 'duration': 2.8}
+{'text': 'school like', 'start': 1063.2, 'duration': 5.12}
+{'text': 'how are you supposed to engage with that', 'start': 1065.12, 'duration': 4.96}
+{'text': 'you you engage with the solution that', 'start': 1068.32, 'duration': 3.2}
+{'text': "he's putting forward right which is that", 'start': 1070.08, 'duration': 3.52}
+{'text': 'the the mandate like okay well if the', 'start': 1071.52, 'duration': 3.519}
+{'text': "parent can't find a way to get to the", 'start': 1073.6, 'duration': 2.959}
+{'text': 'the kid to school then they would be in', 'start': 1075.039, 'duration': 2.801}
+{'text': 'trouble with the law or something and', 'start': 1076.559, 'duration': 2.561}
+{'text': 'then you force it yeah but what was', 'start': 1077.84, 'duration': 3.199}
+{'text': "demon mom's alternative to that what was", 'start': 1079.12, 'duration': 4.08}
+{'text': 'her alternative', 'start': 1081.039, 'duration': 5.041}
+{'text': "um she doesn't give one like um", 'start': 1083.2, 'duration': 4.88}
+{'text': 'like she fails to do her side of the', 'start': 1086.08, 'duration': 3.04}
+{'text': 'argument for the entirety of the', 'start': 1088.08, 'duration': 1.92}
+{'text': "conversation it's a 30-minute", 'start': 1089.12, 'duration': 2.48}
+{'text': 'conversation yeah', 'start': 1090.0, 'duration': 4.559}
+{'text': "i like okay let's be super duper clear i", 'start': 1091.6, 'duration': 4.959}
+{'text': "don't agree with demon mama's position i", 'start': 1094.559, 'duration': 3.921}
+{'text': "don't think she performed well i just", 'start': 1096.559, 'duration': 3.681}
+{'text': 'think that when we look at', 'start': 1098.48, 'duration': 3.28}
+{'text': 'the what was the potential of this', 'start': 1100.24, 'duration': 2.799}
+{'text': 'conversation what could have been', 'start': 1101.76, 'duration': 2.4}
+{'text': "accomplished what's the kind of", 'start': 1103.039, 'duration': 2.721}
+{'text': 'conversation the conversation should', 'start': 1104.16, 'duration': 3.6}
+{'text': 'have it should have went like this han', 'start': 1105.76, 'duration': 3.6}
+{'text': 'should have said what are things that we', 'start': 1107.76, 'duration': 4.08}
+{'text': 'could do for an alternative of a mandate', 'start': 1109.36, 'duration': 4.88}
+{'text': 'for education okay and then what demon', 'start': 1111.84, 'duration': 4.88}
+{'text': 'mama should have said was education', 'start': 1114.24, 'duration': 4.48}
+{'text': "shouldn't actually be mandated she could", 'start': 1116.72, 'duration': 3.199}
+{'text': 'have said for instance there should be', 'start': 1118.72, 'duration': 2.8}
+{'text': 'alternative paths in society for', 'start': 1119.919, 'duration': 2.721}
+{'text': "children to take if they don't want to", 'start': 1121.52, 'duration': 3.2}
+{'text': 'go to school or she could have said we', 'start': 1122.64, 'duration': 3.68}
+{'text': 'need a radically redesigned system of', 'start': 1124.72, 'duration': 2.88}
+{'text': 'education where different paths that', 'start': 1126.32, 'duration': 2.4}
+{'text': 'people can take through the education', 'start': 1127.6, 'duration': 1.92}
+{'text': "system that doesn't look like", 'start': 1128.72, 'duration': 2.8}
+{'text': 'traditional school um or maybe should', 'start': 1129.52, 'duration': 3.279}
+{'text': 'have said like homeschooling or', 'start': 1131.52, 'duration': 2.32}
+{'text': 'something should be like more of an', 'start': 1132.799, 'duration': 2.561}
+{'text': 'option available or even [\xa0__\xa0] child', 'start': 1133.84, 'duration': 2.64}
+{'text': 'labor can come back and that should be', 'start': 1135.36, 'duration': 2.72}
+{'text': 'an alternative to education well maybe', 'start': 1136.48, 'duration': 2.8}
+{'text': "education should be delayed until you're", 'start': 1138.08, 'duration': 2.4}
+{'text': "an adult and there's something i don't", 'start': 1139.28, 'duration': 3.12}
+{'text': "know these are all i'm just to be clear", 'start': 1140.48, 'duration': 2.96}
+{'text': "i'm not defending any of those arguments", 'start': 1142.4, 'duration': 2.72}
+{'text': 'you should argue back and forth but any', 'start': 1143.44, 'duration': 3.119}
+{'text': 'of those things would have been a path', 'start': 1145.12, 'duration': 3.28}
+{'text': 'towards more conversation but instead', 'start': 1146.559, 'duration': 3.681}
+{'text': 'she vaguely alluded to having millions', 'start': 1148.4, 'duration': 3.44}
+{'text': 'of ways to do it but the only thing she', 'start': 1150.24, 'duration': 3.6}
+{'text': 'ever really said was yummy food and then', 'start': 1151.84, 'duration': 3.28}
+{'text': 'she started saying a bunch of irrelevant', 'start': 1153.84, 'duration': 2.16}
+{'text': '[\xa0__\xa0] like oh well they could go to', 'start': 1155.12, 'duration': 2.32}
+{'text': 'therapy first you can you already', 'start': 1156.0, 'duration': 2.559}
+{'text': 'managed to go to therapy first your', 'start': 1157.44, 'duration': 2.8}
+{'text': "problems going to school like that's not", 'start': 1158.559, 'duration': 4.561}
+{'text': "that's not anything about the mandate", 'start': 1160.24, 'duration': 2.88}
+{'text': 'yeah right', 'start': 1163.12, 'duration': 2.48}
+{'text': 'yeah yeah', 'start': 1163.12, 'duration': 3.919}
+{'text': "so who do you think i'm curious who do", 'start': 1165.6, 'duration': 2.4}
+{'text': 'you think perform better in this', 'start': 1167.039, 'duration': 3.361}
+{'text': 'conversation', 'start': 1168.0, 'duration': 4.4}
+{'text': "like it depends on how you're defining", 'start': 1170.4, 'duration': 3.84}
+{'text': "performance so from my perspective i'm", 'start': 1172.4, 'duration': 4.24}
+{'text': 'looking at who was less of an obstacle', 'start': 1174.24, 'duration': 4.4}
+{'text': 'to the conversation moving forward and i', 'start': 1176.64, 'duration': 4.399}
+{'text': "would say that's hans because hans had", 'start': 1178.64, 'duration': 4.0}
+{'text': 'many more options that he could have', 'start': 1181.039, 'duration': 3.681}
+{'text': 'used to get this conversation on track', 'start': 1182.64, 'duration': 4.8}
+{'text': 'and refuse to do that at many points uh', 'start': 1184.72, 'duration': 4.16}
+{'text': 'her defending her argument if she', 'start': 1187.44, 'duration': 3.28}
+{'text': 'chooses to be slimy and whatever which', 'start': 1188.88, 'duration': 3.679}
+{'text': "she definitely was i just don't think", 'start': 1190.72, 'duration': 4.48}
+{'text': 'that outweighs all of the failures on', 'start': 1192.559, 'duration': 4.721}
+{'text': "hans's part to get this", 'start': 1195.2, 'duration': 4.08}
+{'text': 'to get this point across like even the', 'start': 1197.28, 'duration': 3.759}
+{'text': 'question that he continued to reiterate', 'start': 1199.28, 'duration': 3.6}
+{'text': 'how can we make school better than all', 'start': 1201.039, 'duration': 4.721}
+{'text': 'other options is hyperbolic and not not', 'start': 1202.88, 'duration': 4.56}
+{'text': 'which you asked just now which could', 'start': 1205.76, 'duration': 4.0}
+{'text': 'have been way better um', 'start': 1207.44, 'duration': 4.32}
+{'text': 'you know like oh but that but', 'start': 1209.76, 'duration': 4.159}
+{'text': "i i shouldn't have to what i did right", 'start': 1211.76, 'duration': 4.24}
+{'text': "there is i'm treating the opponent like", 'start': 1213.919, 'duration': 4.481}
+{'text': "a dumb [\xa0__\xa0] what i just did i i'll do", 'start': 1216.0, 'duration': 4.88}
+{'text': 'what i just did as a as a mode of', 'start': 1218.4, 'duration': 4.159}
+{'text': 'condescension when i get to the end of', 'start': 1220.88, 'duration': 2.72}
+{'text': 'an argument and i realize the other', 'start': 1222.559, 'duration': 2.401}
+{'text': 'person is close i might say you could', 'start': 1223.6, 'duration': 2.72}
+{'text': "argue this way or you could i've done", 'start': 1224.96, 'duration': 2.64}
+{'text': 'this to a lot of socialists you could', 'start': 1226.32, 'duration': 2.64}
+{'text': 'say that a co-op could work like this', 'start': 1227.6, 'duration': 2.8}
+{'text': 'you could do this you could do that i', 'start': 1228.96, 'duration': 3.04}
+{'text': 'should i would never expect myself or', 'start': 1230.4, 'duration': 3.279}
+{'text': 'anybody else to actually walk my', 'start': 1232.0, 'duration': 3.6}
+{'text': 'adversary through the the entire like', 'start': 1233.679, 'duration': 4.081}
+{'text': "conversation though that's that's insane", 'start': 1235.6, 'duration': 4.72}
+{'text': 'to me like', 'start': 1237.76, 'duration': 3.84}
+{'text': 'are you do it do you acknowledge that', 'start': 1240.32, 'duration': 3.599}
+{'text': "you're like putting way more onus on", 'start': 1241.6, 'duration': 3.84}
+{'text': 'hans in this conversation to like', 'start': 1243.919, 'duration': 3.041}
+{'text': 'conduct it in a reasonable way than you', 'start': 1245.44, 'duration': 3.2}
+{'text': 'are on demon mama', 'start': 1246.96, 'duration': 3.12}
+{'text': 'sure', 'start': 1248.64, 'duration': 3.039}
+{'text': "i think i think if that's like a", 'start': 1250.08, 'duration': 3.599}
+{'text': "criticism that you want to make that's", 'start': 1251.679, 'duration': 4.081}
+{'text': "that's fine um", 'start': 1253.679, 'duration': 3.681}
+{'text': 'why should why should hans be the one', 'start': 1255.76, 'duration': 3.039}
+{'text': 'that has to act like the adult and demon', 'start': 1257.36, 'duration': 2.64}
+{'text': 'mama can act like a child and the', 'start': 1258.799, 'duration': 4.0}
+{'text': 'expectations for her so much lower', 'start': 1260.0, 'duration': 4.32}
+{'text': 'i like', 'start': 1262.799, 'duration': 3.601}
+{'text': "because i feel like she's doing like", 'start': 1264.32, 'duration': 3.76}
+{'text': 'much better with her position like if', 'start': 1266.4, 'duration': 4.0}
+{'text': 'she chooses to to oh man this is so', 'start': 1268.08, 'duration': 3.76}
+{'text': 'difficult to explain', 'start': 1270.4, 'duration': 2.639}
+{'text': "what's difficult she doesn't defend her", 'start': 1271.84, 'duration': 2.959}
+{'text': 'position ever a single time how is she', 'start': 1273.039, 'duration': 3.441}
+{'text': 'doing much better', 'start': 1274.799, 'duration': 3.601}
+{'text': 'but she does because she says that you', 'start': 1276.48, 'duration': 3.52}
+{'text': 'could be doing other things other than', 'start': 1278.4, 'duration': 3.44}
+{'text': "school the problem is that he's focusing", 'start': 1280.0, 'duration': 4.64}
+{'text': 'on school i already told you destiny', 'start': 1281.84, 'duration': 5.04}
+{'text': 'special education tutoring home school', 'start': 1284.64, 'duration': 4.32}
+{'text': "don't tell me people don't school it's", 'start': 1286.88, 'duration': 4.32}
+{'text': 'not [\xa0__\xa0] school dude these are', 'start': 1288.96, 'duration': 4.48}
+{'text': 'different [\xa0__\xa0] things', 'start': 1291.2, 'duration': 4.719}
+{'text': 'like are you for real i i i thought', 'start': 1293.44, 'duration': 4.96}
+{'text': "you're [\xa0__\xa0] meaning on me no i can't", 'start': 1295.919, 'duration': 4.081}
+{'text': "tell if you're for real right now i feel", 'start': 1298.4, 'duration': 3.68}
+{'text': "like i'm getting brain blasted", 'start': 1300.0, 'duration': 3.84}
+{'text': 'having to go to having to go to tutoring', 'start': 1302.08, 'duration': 2.64}
+{'text': 'forced to be around the tutoring because', 'start': 1303.84, 'duration': 1.76}
+{'text': "you can't go to school so that you can", 'start': 1304.72, 'duration': 2.72}
+{'text': "go to school it's like school because", 'start': 1305.6, 'duration': 3.6}
+{'text': "you can't go to school you said it in", 'start': 1307.44, 'duration': 4.239}
+{'text': "your own statement that's its own thing", 'start': 1309.2, 'duration': 4.88}
+{'text': 'tutoring is different than school', 'start': 1311.679, 'duration': 4.561}
+{'text': 'but the implication is there a mandate', 'start': 1314.08, 'duration': 4.079}
+{'text': 'there is a mandate to get tutored so', 'start': 1316.24, 'duration': 4.64}
+{'text': 'that you could go to get educated to get', 'start': 1318.159, 'duration': 5.921}
+{'text': 'educated is the point there is a big', 'start': 1320.88, 'duration': 5.039}
+{'text': 'difference between these two things and', 'start': 1324.08, 'duration': 2.8}
+{'text': 'part of the reason that this', 'start': 1325.919, 'duration': 3.281}
+{'text': "conversation didn't go well is because", 'start': 1326.88, 'duration': 6.44}
+{'text': "hans didn't make this distinction", 'start': 1329.2, 'duration': 4.12}
+{'text': 'if he did they could have agreed much', 'start': 1333.44, 'duration': 2.96}
+{'text': 'sooner', 'start': 1335.28, 'duration': 2.72}
+{'text': "i disagree they wouldn't have agreed", 'start': 1336.4, 'duration': 2.72}
+{'text': 'because demon mama would have continued', 'start': 1338.0, 'duration': 2.559}
+{'text': "to dance around it because she didn't", 'start': 1339.12, 'duration': 2.799}
+{'text': 'defend a single one of her points in', 'start': 1340.559, 'duration': 2.881}
+{'text': 'this conversation', 'start': 1341.919, 'duration': 3.361}
+{'text': "you said she doesn't defend a single one", 'start': 1343.44, 'duration': 3.52}
+{'text': 'of her points but she does and i walked', 'start': 1345.28, 'duration': 3.759}
+{'text': "you through that don't be hyperbolic", 'start': 1346.96, 'duration': 3.599}
+{'text': 'because i cannot what does she do when', 'start': 1349.039, 'duration': 3.52}
+{'text': "you're hyperbole what does she defend", 'start': 1350.559, 'duration': 3.12}
+{'text': "wait i'm sorry walk me through it again", 'start': 1352.559, 'duration': 3.041}
+{'text': 'because i lost the plot what point did', 'start': 1353.679, 'duration': 3.441}
+{'text': 'she defend', 'start': 1355.6, 'duration': 3.439}
+{'text': 'the solutions part that you said she had', 'start': 1357.12, 'duration': 3.919}
+{'text': 'no solutions for she gave you two of', 'start': 1359.039, 'duration': 3.921}
+{'text': 'them you may not think that one of them', 'start': 1361.039, 'duration': 3.601}
+{'text': 'was good or both of them were good but', 'start': 1362.96, 'duration': 3.28}
+{'text': 'you have to acknowledge that she gave', 'start': 1364.64, 'duration': 3.36}
+{'text': "those like i you're putting me in a", 'start': 1366.24, 'duration': 3.36}
+{'text': 'position where i have to keep repeating', 'start': 1368.0, 'duration': 3.919}
+{'text': 'like she gave her let me rephrase okay', 'start': 1369.6, 'duration': 3.68}
+{'text': "let me rephrase then you're what you're", 'start': 1371.919, 'duration': 3.681}
+{'text': 'saying to understand so', 'start': 1373.28, 'duration': 3.92}
+{'text': 'the argument is whether or not we should', 'start': 1375.6, 'duration': 4.319}
+{'text': 'mandate school very specific the', 'start': 1377.2, 'duration': 4.719}
+{'text': "building and you're telling me she's", 'start': 1379.919, 'duration': 4.24}
+{'text': "defending mandating or she's defending", 'start': 1381.919, 'duration': 4.081}
+{'text': 'getting kids to become educated because', 'start': 1384.159, 'duration': 3.441}
+{'text': "she's in favor of them being forced to", 'start': 1386.0, 'duration': 4.4}
+{'text': "have tutors they can't get educated", 'start': 1387.6, 'duration': 4.72}
+{'text': "she's not in favor of forcing anybody to", 'start': 1390.4, 'duration': 3.92}
+{'text': 'do anything but she is in favor of', 'start': 1392.32, 'duration': 3.68}
+{'text': 'getting kids educated and she thinks all', 'start': 1394.32, 'duration': 3.92}
+{'text': 'the kids should be educated like okay', 'start': 1396.0, 'duration': 4.24}
+{'text': 'and you think hans was not arguing in', 'start': 1398.24, 'duration': 3.52}
+{'text': 'favor of education he just wanted kids', 'start': 1400.24, 'duration': 3.76}
+{'text': 'to go to the building', 'start': 1401.76, 'duration': 3.919}
+{'text': "he doesn't say the building but he says", 'start': 1404.0, 'duration': 4.799}
+{'text': 'go to school yes', 'start': 1405.679, 'duration': 3.12}
+{'text': 'what do you think most people mean when', 'start': 1411.12, 'duration': 3.84}
+{'text': 'they say go to school i love your focus', 'start': 1412.32, 'duration': 5.68}
+{'text': 'on this i love it it is actually it is i', 'start': 1414.96, 'duration': 4.719}
+{'text': 'mean you can pull every', 'start': 1418.0, 'duration': 2.72}
+{'text': 'all the chats because i might actually', 'start': 1419.679, 'duration': 2.801}
+{'text': 'be just lost from this conversation this', 'start': 1420.72, 'duration': 3.439}
+{'text': "is like unreal to me i don't actually", 'start': 1422.48, 'duration': 2.799}
+{'text': 'know', 'start': 1424.159, 'duration': 4.321}
+{'text': "i almost feel like i'm being trolled", 'start': 1425.279, 'duration': 3.201}
+{'text': "like i i i i don't like when when", 'start': 1428.84, 'duration': 4.68}
+{'text': "somebody's arguing we should mandate", 'start': 1432.0, 'duration': 2.72}
+{'text': "going to school they're talking about", 'start': 1433.52, 'duration': 3.039}
+{'text': "mandating education right like i'm", 'start': 1434.72, 'duration': 4.16}
+{'text': 'pretty sure well maybe personal biases', 'start': 1436.559, 'duration': 3.681}
+{'text': 'aside like if you say like we should', 'start': 1438.88, 'duration': 2.96}
+{'text': 'mandate school some people will be okay', 'start': 1440.24, 'duration': 3.52}
+{'text': "with like homeschooling like i'm okay", 'start': 1441.84, 'duration': 3.12}
+{'text': 'with homeschooling as long as you pass a', 'start': 1443.76, 'duration': 2.399}
+{'text': 'curriculum does that count as going to', 'start': 1444.96, 'duration': 2.64}
+{'text': "school if you're homeschooled because", 'start': 1446.159, 'duration': 2.801}
+{'text': 'your home becomes a school or is that', 'start': 1447.6, 'duration': 2.959}
+{'text': 'just getting an education uh somebody', 'start': 1448.96, 'duration': 2.88}
+{'text': "that's home school wouldn't say that", 'start': 1450.559, 'duration': 2.641}
+{'text': 'they went to school would they they', 'start': 1451.84, 'duration': 3.28}
+{'text': 'would say they were homeschooled but', 'start': 1453.2, 'duration': 3.359}
+{'text': "that's a type of schooling that's a", 'start': 1455.12, 'duration': 3.76}
+{'text': 'school right it is a type of schooling', 'start': 1456.559, 'duration': 3.12}
+{'text': 'sure', 'start': 1458.88, 'duration': 2.56}
+{'text': "but you're not going to [\xa0__\xa0] school", 'start': 1459.679, 'duration': 4.0}
+{'text': "like that's why she that's why she gets", 'start': 1461.44, 'duration': 3.52}
+{'text': "to say the [\xa0__\xa0] that she's saying", 'start': 1463.679, 'duration': 3.201}
+{'text': 'throughout so much of this conversation', 'start': 1464.96, 'duration': 3.36}
+{'text': "that's why it would have been important", 'start': 1466.88, 'duration': 3.6}
+{'text': 'to make that distinction like you had to', 'start': 1468.32, 'duration': 3.68}
+{'text': "remember that my goal when i'm watching", 'start': 1470.48, 'duration': 2.88}
+{'text': 'this is different than your goal when', 'start': 1472.0, 'duration': 2.96}
+{'text': "you're watching this i'm looking for a", 'start': 1473.36, 'duration': 3.04}
+{'text': 'way that these two people could have', 'start': 1474.96, 'duration': 3.839}
+{'text': 'easily connected and by redefining this', 'start': 1476.4, 'duration': 4.72}
+{'text': 'as education and not going to school', 'start': 1478.799, 'duration': 4.721}
+{'text': 'which she constantly focuses on they', 'start': 1481.12, 'duration': 3.919}
+{'text': 'could have probably moved forward', 'start': 1483.52, 'duration': 3.759}
+{'text': 'because she offers alternatives and if', 'start': 1485.039, 'duration': 3.841}
+{'text': "he could have said oh yeah i'm cool with", 'start': 1487.279, 'duration': 4.241}
+{'text': "these alternatives and i'm just in it to", 'start': 1488.88, 'duration': 4.799}
+{'text': 'get kids educated then they could have', 'start': 1491.52, 'duration': 3.84}
+{'text': 'agreed because she said as much in the', 'start': 1493.679, 'duration': 3.441}
+{'text': 'middle of the conversation', 'start': 1495.36, 'duration': 3.679}
+{'text': 'but every opportunity that he has to', 'start': 1497.12, 'duration': 4.08}
+{'text': 'build that bridge with her he fails to', 'start': 1499.039, 'duration': 3.841}
+{'text': "or he chooses to say something that's", 'start': 1501.2, 'duration': 4.0}
+{'text': 'silly like what if no kid ever wants to', 'start': 1502.88, 'duration': 4.56}
+{'text': 'go to school right like', 'start': 1505.2, 'duration': 3.92}
+{'text': "that's not a silly thing he's trying to", 'start': 1507.44, 'duration': 2.96}
+{'text': 'get to the meat of the matter what do', 'start': 1509.12, 'duration': 2.48}
+{'text': "you do if a child doesn't want to go to", 'start': 1510.4, 'duration': 3.36}
+{'text': "school but you're saying he means going", 'start': 1511.6, 'duration': 6.24}
+{'text': 'to the building and not not get educated', 'start': 1513.76, 'duration': 7.519}
+{'text': "yes because that's not what he says", 'start': 1517.84, 'duration': 4.88}
+{'text': 'okay', 'start': 1521.279, 'duration': 4.0}
+{'text': 'like i i have to stick to like what he', 'start': 1522.72, 'duration': 5.28}
+{'text': 'says in the in the conversation like i', 'start': 1525.279, 'duration': 4.88}
+{'text': 'know that the inference thing is an easy', 'start': 1528.0, 'duration': 4.4}
+{'text': "leap to make for you i can't make that", 'start': 1530.159, 'duration': 4.0}
+{'text': "when i'm doing the review or when i'm", 'start': 1532.4, 'duration': 4.24}
+{'text': 'doing the analysis of it because that', 'start': 1534.159, 'duration': 4.961}
+{'text': 'leap not being made is part of why this', 'start': 1536.64, 'duration': 4.399}
+{'text': 'conversation is not going well why these', 'start': 1539.12, 'duration': 3.76}
+{'text': 'people are not connecting no i', 'start': 1541.039, 'duration': 3.76}
+{'text': 'absolutely disagree', 'start': 1542.88, 'duration': 3.679}
+{'text': "there's such a wrong the problem is your", 'start': 1544.799, 'duration': 4.801}
+{'text': 'analysis is like corrupted by the the', 'start': 1546.559, 'duration': 5.041}
+{'text': 'inability to parse the inference right', 'start': 1549.6, 'duration': 3.439}
+{'text': "the reason why this conversation didn't", 'start': 1551.6, 'duration': 2.72}
+{'text': 'connect is because', 'start': 1553.039, 'duration': 3.12}
+{'text': 'is it because hans assumed that school', 'start': 1554.32, 'duration': 3.12}
+{'text': "and education were the same thing it's", 'start': 1556.159, 'duration': 2.88}
+{'text': "because demon mama couldn't defend any", 'start': 1557.44, 'duration': 3.76}
+{'text': 'of the arguments related to like what do', 'start': 1559.039, 'duration': 4.561}
+{'text': 'we do as opposed to mandating it by law', 'start': 1561.2, 'duration': 4.4}
+{'text': "so you don't think that part of the", 'start': 1563.6, 'duration': 4.079}
+{'text': 'disconnect is coming from her inability', 'start': 1565.6, 'duration': 3.84}
+{'text': "to parse that same inference that you're", 'start': 1567.679, 'duration': 4.0}
+{'text': 'expecting me and her both to make you', 'start': 1569.44, 'duration': 3.76}
+{'text': "don't think absolutely any part of the", 'start': 1571.679, 'duration': 3.761}
+{'text': 'single part absolutely not no way', 'start': 1573.2, 'duration': 3.76}
+{'text': 'because why would she say that like one', 'start': 1575.44, 'duration': 3.2}
+{'text': 'of the alternatives then is yummy', 'start': 1576.96, 'duration': 3.68}
+{'text': "lunches doesn't that imply going to a", 'start': 1578.64, 'duration': 4.24}
+{'text': 'school building to like to incentivize', 'start': 1580.64, 'duration': 4.48}
+{'text': 'it right because he asks about school', 'start': 1582.88, 'duration': 3.919}
+{'text': 'yeah if you want a kid to go out of the', 'start': 1585.12, 'duration': 3.52}
+{'text': "house and go to school that's definitely", 'start': 1586.799, 'duration': 4.641}
+{'text': 'one of the things for school right', 'start': 1588.64, 'duration': 4.08}
+{'text': 'like why would she talk about', 'start': 1591.44, 'duration': 2.96}
+{'text': 'incentivizing going to school instead of', 'start': 1592.72, 'duration': 3.12}
+{'text': "just incentivizing getting because he's", 'start': 1594.4, 'duration': 5.68}
+{'text': "talking about school that's my point", 'start': 1595.84, 'duration': 5.439}
+{'text': 'like do you okay', 'start': 1600.08, 'duration': 2.079}
+{'text': 'like', 'start': 1601.279, 'duration': 3.121}
+{'text': "i i don't want you to think like", 'start': 1602.159, 'duration': 3.921}
+{'text': 'like i want you to at least see where', 'start': 1604.4, 'duration': 3.6}
+{'text': "i'm coming from on this like do you see", 'start': 1606.08, 'duration': 3.28}
+{'text': "how when she's talking about the free", 'start': 1608.0, 'duration': 2.799}
+{'text': 'lunches thing this is coming from the', 'start': 1609.36, 'duration': 3.84}
+{'text': 'focus on school and not on the focus on', 'start': 1610.799, 'duration': 5.041}
+{'text': "education right like it it's it's", 'start': 1613.2, 'duration': 5.359}
+{'text': 'couched into exactly what you just said', 'start': 1615.84, 'duration': 5.839}
+{'text': 'why would she say free lunch', 'start': 1618.559, 'duration': 5.201}
+{'text': "if she doesn't believe that students", 'start': 1621.679, 'duration': 4.0}
+{'text': 'should be going to school then why is it', 'start': 1623.76, 'duration': 4.48}
+{'text': 'that when he asks her for examples of', 'start': 1625.679, 'duration': 4.0}
+{'text': 'how you can incentivize kids to go to', 'start': 1628.24, 'duration': 3.039}
+{'text': 'school why would she start answering', 'start': 1629.679, 'duration': 3.12}
+{'text': 'that why would she just say hold on i', 'start': 1631.279, 'duration': 2.481}
+{'text': "don't want to talk about kids going to", 'start': 1632.799, 'duration': 2.081}
+{'text': 'school i just want to talk about kids', 'start': 1633.76, 'duration': 2.88}
+{'text': 'getting educated why would she jump in', 'start': 1634.88, 'duration': 3.6}
+{'text': 'and entertain that idea then unless they', 'start': 1636.64, 'duration': 3.519}
+{'text': 'both had an understanding that education', 'start': 1638.48, 'duration': 2.72}
+{'text': 'in school were synonymous in this', 'start': 1640.159, 'duration': 2.561}
+{'text': 'conversation', 'start': 1641.2, 'duration': 3.12}
+{'text': "because he's talking about mandating", 'start': 1642.72, 'duration': 3.36}
+{'text': "kids to go to school and she's staying", 'start': 1644.32, 'duration': 3.44}
+{'text': 'within that like', 'start': 1646.08, 'duration': 2.959}
+{'text': "i don't understand that's not an", 'start': 1647.76, 'duration': 2.799}
+{'text': "argument what do you what but that's not", 'start': 1649.039, 'duration': 3.041}
+{'text': 'her argument her argument is you', 'start': 1650.559, 'duration': 3.281}
+{'text': "shouldn't mandate kids to go to school", 'start': 1652.08, 'duration': 3.12}
+{'text': 'that was what that was laid out in the', 'start': 1653.84, 'duration': 3.36}
+{'text': 'very beginning wait no no you said that', 'start': 1655.2, 'duration': 2.959}
+{'text': "her argument was that you shouldn't be", 'start': 1657.2, 'duration': 2.079}
+{'text': "able to mandate she doesn't believe you", 'start': 1658.159, 'duration': 4.081}
+{'text': 'should mandate education or school', 'start': 1659.279, 'duration': 5.52}
+{'text': 'um let me see yeah i do have education', 'start': 1662.24, 'duration': 4.4}
+{'text': 'right in my bed my bed okay so not', 'start': 1664.799, 'duration': 3.921}
+{'text': 'educational so if so if somebody were', 'start': 1666.64, 'duration': 3.279}
+{'text': "asking me let's say somebody would have", 'start': 1668.72, 'duration': 2.559}
+{'text': 'a debate on me on how we can improve', 'start': 1669.919, 'duration': 2.961}
+{'text': "dating and i'm like okay let's talk", 'start': 1671.279, 'duration': 2.481}
+{'text': 'about how we can approve dating and they', 'start': 1672.88, 'duration': 2.48}
+{'text': 'say okay so what do you think is the', 'start': 1673.76, 'duration': 4.0}
+{'text': 'best way to get all black people off of', 'start': 1675.36, 'duration': 4.16}
+{'text': 'tinder do you think i would engage with', 'start': 1677.76, 'duration': 3.2}
+{'text': "that argument i would say wait that's", 'start': 1679.52, 'duration': 2.96}
+{'text': "not what i'm here to talk about what the", 'start': 1680.96, 'duration': 3.68}
+{'text': '[\xa0__\xa0] so if she believed that she was', 'start': 1682.48, 'duration': 4.079}
+{'text': 'having a conversation about mandating', 'start': 1684.64, 'duration': 3.84}
+{'text': 'education and then han said okay well', 'start': 1686.559, 'duration': 3.201}
+{'text': "what's the best way we can like", 'start': 1688.48, 'duration': 2.4}
+{'text': 'incentivize kids to go to school without', 'start': 1689.76, 'duration': 2.88}
+{'text': 'a mandate why would she go down that', 'start': 1690.88, 'duration': 3.12}
+{'text': 'conversation path of talking about how', 'start': 1692.64, 'duration': 2.639}
+{'text': 'to get kids to go to school if what', 'start': 1694.0, 'duration': 2.559}
+{'text': "she's really there is talk about like", 'start': 1695.279, 'duration': 3.921}
+{'text': "education it doesn't make any sense", 'start': 1696.559, 'duration': 4.161}
+{'text': "because i really don't think that her", 'start': 1699.2, 'duration': 3.28}
+{'text': 'focus is on education so much as the', 'start': 1700.72, 'duration': 3.6}
+{'text': "mandates themselves like if i'm being", 'start': 1702.48, 'duration': 3.199}
+{'text': 'honest like if i were to give you an', 'start': 1704.32, 'duration': 2.959}
+{'text': 'answer it would be because her focus is', 'start': 1705.679, 'duration': 3.841}
+{'text': 'on the mandates more so than it is on on', 'start': 1707.279, 'duration': 4.081}
+{'text': 'the education and when he asks about', 'start': 1709.52, 'duration': 3.84}
+{'text': 'school and the mandating for school', 'start': 1711.36, 'duration': 4.0}
+{'text': "she's going to focus on school like does", 'start': 1713.36, 'duration': 3.76}
+{'text': 'that make sense', 'start': 1715.36, 'duration': 3.36}
+{'text': "then why didn't she", 'start': 1717.12, 'duration': 2.799}
+{'text': 'uh okay', 'start': 1718.72, 'duration': 3.439}
+{'text': 'my mind is blessed is there any other', 'start': 1719.919, 'duration': 3.36}
+{'text': 'part of the conversation want to talk', 'start': 1722.159, 'duration': 3.281}
+{'text': 'about', 'start': 1723.279, 'duration': 3.921}
+{'text': 'i feel like i really want to argue with', 'start': 1725.44, 'duration': 3.04}
+{'text': 'you about this because i feel like', 'start': 1727.2, 'duration': 2.64}
+{'text': "you're you're not understanding that", 'start': 1728.48, 'duration': 3.04}
+{'text': "that there's a significance difference", 'start': 1729.84, 'duration': 3.12}
+{'text': 'significant difference between these two', 'start': 1731.52, 'duration': 3.279}
+{'text': "things like there's not i absolutely", 'start': 1732.96, 'duration': 3.439}
+{'text': "reject that i just hope you really don't", 'start': 1734.799, 'duration': 3.76}
+{'text': 'think if he would have said education', 'start': 1736.399, 'duration': 3.841}
+{'text': 'throughout this entire conversation and', 'start': 1738.559, 'duration': 3.921}
+{'text': 'focus on education more broadly in the', 'start': 1740.24, 'duration': 4.159}
+{'text': 'spirit of the law being about education', 'start': 1742.48, 'duration': 3.919}
+{'text': "that this wouldn't have gone differently", 'start': 1744.399, 'duration': 3.681}
+{'text': 'not even close of course not not only', 'start': 1746.399, 'duration': 2.88}
+{'text': 'would you change a single thing in this', 'start': 1748.08, 'duration': 2.319}
+{'text': 'no it would have been one sentence at', 'start': 1749.279, 'duration': 2.161}
+{'text': 'the beginning uttered and forgotten', 'start': 1750.399, 'duration': 3.76}
+{'text': 'immediately yeah', 'start': 1751.44, 'duration': 4.4}
+{'text': "i i just can't believe that you think", 'start': 1754.159, 'duration': 3.76}
+{'text': 'that like demon mama', 'start': 1755.84, 'duration': 3.52}
+{'text': "not well i mean like unless you're", 'start': 1757.919, 'duration': 3.441}
+{'text': 'assuming that demon mama is like like 45', 'start': 1759.36, 'duration': 4.0}
+{'text': "iq and that like she's getting stuck and", 'start': 1761.36, 'duration': 3.039}
+{'text': "she can't realize they're interested in", 'start': 1763.36, 'duration': 2.4}
+{'text': 'school education either in the', 'start': 1764.399, 'duration': 3.041}
+{'text': "conversation like why wouldn't she just", 'start': 1765.76, 'duration': 2.799}
+{'text': "say oh hold on let's clarify we're", 'start': 1767.44, 'duration': 2.4}
+{'text': 'talking about sending a kid to school or', 'start': 1768.559, 'duration': 2.881}
+{'text': 'getting a kid educated why would she', 'start': 1769.84, 'duration': 2.719}
+{'text': 'start immediately talking about ways to', 'start': 1771.44, 'duration': 2.479}
+{'text': 'incentivize kids to go to the building', 'start': 1772.559, 'duration': 3.36}
+{'text': 'instead of being educated like it', 'start': 1773.919, 'duration': 3.681}
+{'text': "absolutely doesn't make any sense", 'start': 1775.919, 'duration': 3.601}
+{'text': "she's on the defense about mandates in", 'start': 1777.6, 'duration': 3.84}
+{'text': 'particular and mandates about going to', 'start': 1779.52, 'duration': 3.44}
+{'text': "school that's why so from her", 'start': 1781.44, 'duration': 3.68}
+{'text': "perspective she's on the defense", 'start': 1782.96, 'duration': 4.319}
+{'text': 'no school and education you said not', 'start': 1785.12, 'duration': 3.52}
+{'text': "just school she doesn't want mandates", 'start': 1787.279, 'duration': 3.441}
+{'text': 'for school or education', 'start': 1788.64, 'duration': 4.0}
+{'text': 'that was a concession that she gave at', 'start': 1790.72, 'duration': 3.92}
+{'text': 'the very beginning or a reframing that', 'start': 1792.64, 'duration': 3.44}
+{'text': 'she gave at the very beginning but we', 'start': 1794.64, 'duration': 3.2}
+{'text': 'never ever build off of that instead we', 'start': 1796.08, 'duration': 3.76}
+{'text': 'continue to focus on school which is why', 'start': 1797.84, 'duration': 3.68}
+{'text': "i'm saying the education thing is always", 'start': 1799.84, 'duration': 3.12}
+{'text': 'there and we could talk about in terms', 'start': 1801.52, 'duration': 3.12}
+{'text': 'of education but the talking about it on', 'start': 1802.96, 'duration': 3.599}
+{'text': 'school is making our job harder than it', 'start': 1804.64, 'duration': 5.039}
+{'text': 'even needs to be', 'start': 1806.559, 'duration': 4.961}
+{'text': 'okay um i', 'start': 1809.679, 'duration': 3.281}
+{'text': "i don't know where we go from i i don't", 'start': 1811.52, 'duration': 2.48}
+{'text': "think i'm ever going to discover i don't", 'start': 1812.96, 'duration': 2.24}
+{'text': "think i'm ever going to agree with that", 'start': 1814.0, 'duration': 2.72}
+{'text': 'right because you think that if we', 'start': 1815.2, 'duration': 3.359}
+{'text': "didn't change the terminology from", 'start': 1816.72, 'duration': 3.679}
+{'text': "school to education or if hans didn't", 'start': 1818.559, 'duration': 3.6}
+{'text': 'focus on like that we should get kids', 'start': 1820.399, 'duration': 3.121}
+{'text': "educated that they wouldn't have been", 'start': 1822.159, 'duration': 3.76}
+{'text': 'able to to agree or at least to come to', 'start': 1823.52, 'duration': 4.159}
+{'text': 'some kind of compromise', 'start': 1825.919, 'duration': 3.601}
+{'text': 'like i would agree', 'start': 1827.679, 'duration': 4.0}
+{'text': 'to give you like some', 'start': 1829.52, 'duration': 4.08}
+{'text': "i don't know like an olive branch i", 'start': 1831.679, 'duration': 3.441}
+{'text': "don't think that he would have flipped", 'start': 1833.6, 'duration': 4.16}
+{'text': 'her opinion necessarily on mandates but', 'start': 1835.12, 'duration': 5.12}
+{'text': 'i think he could establish with her and', 'start': 1837.76, 'duration': 5.12}
+{'text': 'make it clear how much they both want to', 'start': 1840.24, 'duration': 6.08}
+{'text': 'like improve education and improve maybe', 'start': 1842.88, 'duration': 5.44}
+{'text': 'access to education', 'start': 1846.32, 'duration': 3.76}
+{'text': "this conversation wasn't about improving", 'start': 1848.32, 'duration': 3.28}
+{'text': 'education or improving access to', 'start': 1850.08, 'duration': 2.719}
+{'text': 'education that had nothing to do with', 'start': 1851.6, 'duration': 2.559}
+{'text': 'this conversation', 'start': 1852.799, 'duration': 3.041}
+{'text': 'but that gets closer to the topic of', 'start': 1854.159, 'duration': 3.441}
+{'text': 'mandates at least nope', 'start': 1855.84, 'duration': 3.28}
+{'text': 'not only is it irrelevant they', 'start': 1857.6, 'duration': 3.76}
+{'text': 'specifically address this because hans', 'start': 1859.12, 'duration': 4.799}
+{'text': 'specifically asks demon mama if they got', 'start': 1861.36, 'duration': 3.439}
+{'text': 'rid of', 'start': 1863.919, 'duration': 2.321}
+{'text': 'yeah if school was perfect would you', 'start': 1864.799, 'duration': 2.72}
+{'text': 'still be okay with a mandate and she', 'start': 1866.24, 'duration': 3.52}
+{'text': "still said no so it's that's totally all", 'start': 1867.519, 'duration': 3.04}
+{'text': 'of what you just said was totally', 'start': 1869.76, 'duration': 2.72}
+{'text': "relevant but he doesn't say if you had a", 'start': 1870.559, 'duration': 4.401}
+{'text': 'perfect education system like this may', 'start': 1872.48, 'duration': 6.4}
+{'text': 'be this maybe this may be super', 'start': 1874.96, 'duration': 3.92}
+{'text': "all right listen i hope you're having", 'start': 1880.48, 'duration': 3.76}
+{'text': 'fun man okay good luck is there any', 'start': 1882.32, 'duration': 3.52}
+{'text': 'other parts of this conversation', 'start': 1884.24, 'duration': 3.84}
+{'text': 'go over are we good', 'start': 1885.84, 'duration': 4.64}
+{'text': "i'm so surprised i we actually have", 'start': 1888.08, 'duration': 4.319}
+{'text': 'something we really disagree about and i', 'start': 1890.48, 'duration': 3.28}
+{'text': "can't argue with you about it because", 'start': 1892.399, 'duration': 2.961}
+{'text': "you're giving up it's very interesting", 'start': 1893.76, 'duration': 3.84}
+{'text': "to me i guess it's frustrating but this", 'start': 1895.36, 'duration': 4.319}
+{'text': "is like a big difference we can't we", 'start': 1897.6, 'duration': 3.76}
+{'text': "can't we can't but we're at an impasse", 'start': 1899.679, 'duration': 3.84}
+{'text': 'like if somebody comes in to argue over', 'start': 1901.36, 'duration': 3.76}
+{'text': 'like should school be mandatory like the', 'start': 1903.519, 'duration': 2.64}
+{'text': 'assumption is of course think about', 'start': 1905.12, 'duration': 2.88}
+{'text': 'school slash education right', 'start': 1906.159, 'duration': 3.52}
+{'text': "like that's just that's a given like i", 'start': 1908.0, 'duration': 3.36}
+{'text': "wouldn't even think twice about that i", 'start': 1909.679, 'duration': 2.72}
+{'text': "can't even imagine that somebody would", 'start': 1911.36, 'duration': 3.919}
+{'text': 'try to like argue against that so', 'start': 1912.399, 'duration': 4.64}
+{'text': "but but we we can't but if we don't get", 'start': 1915.279, 'duration': 3.12}
+{'text': 'past this point obviously none of the', 'start': 1917.039, 'duration': 2.48}
+{'text': 'rest of the conversation matters so i', 'start': 1918.399, 'duration': 3.841}
+{'text': "don't know what else we can talk about", 'start': 1919.519, 'duration': 4.081}
+{'text': 'okay', 'start': 1922.24, 'duration': 3.12}
+{'text': 'did you have any other opinions in this', 'start': 1923.6, 'duration': 3.76}
+{'text': "conversation i'm just still blown away", 'start': 1925.36, 'duration': 3.12}
+{'text': "that you don't think it would have made", 'start': 1927.36, 'duration': 2.4}
+{'text': 'a difference if we would have talked', 'start': 1928.48, 'duration': 3.76}
+{'text': 'about education like', 'start': 1929.76, 'duration': 4.399}
+{'text': 'no i think that demon mama like pivoting', 'start': 1932.24, 'duration': 4.24}
+{'text': 'to giving silly answers like doing the', 'start': 1934.159, 'duration': 4.081}
+{'text': 'well me personally thing i think is a', 'start': 1936.48, 'duration': 3.36}
+{'text': 'show of bad faith', 'start': 1938.24, 'duration': 3.84}
+{'text': 'um why is it bad faith to talk about her', 'start': 1939.84, 'duration': 4.079}
+{'text': 'personal experience', 'start': 1942.08, 'duration': 4.16}
+{'text': "when we're having a conversation about", 'start': 1943.919, 'duration': 3.6}
+{'text': "whether the state should or shouldn't do", 'start': 1946.24, 'duration': 3.12}
+{'text': "something and you're like committing", 'start': 1947.519, 'duration': 4.4}
+{'text': 'yourself down a bad path and then i ask', 'start': 1949.36, 'duration': 4.08}
+{'text': 'you a question about it and you start', 'start': 1951.919, 'duration': 4.161}
+{'text': 'giving well me personally then you have', 'start': 1953.44, 'duration': 3.839}
+{'text': 'stopped engaging with a hypothetical', 'start': 1956.08, 'duration': 2.24}
+{'text': "because you realize you've committed", 'start': 1957.279, 'duration': 3.041}
+{'text': 'yourself to bad answers um for another', 'start': 1958.32, 'duration': 3.92}
+{'text': 'good example', 'start': 1960.32, 'duration': 3.76}
+{'text': 'him asking a question though', 'start': 1962.24, 'duration': 4.159}
+{'text': 'it absolutely was in response to him', 'start': 1964.08, 'duration': 4.64}
+{'text': 'asking if your kid was like suicidal', 'start': 1966.399, 'duration': 3.441}
+{'text': 'like do you think that somebody should', 'start': 1968.72, 'duration': 2.319}
+{'text': 'do something to stop that or whatever', 'start': 1969.84, 'duration': 3.199}
+{'text': 'she was like well me personally i would', 'start': 1971.039, 'duration': 3.281}
+{'text': 'do something to stop that and then as', 'start': 1973.039, 'duration': 2.401}
+{'text': 'soon as he tried to reframe it back to', 'start': 1974.32, 'duration': 2.719}
+{'text': 'what the obvious question was is should', 'start': 1975.44, 'duration': 3.68}
+{'text': 'the state be involved and then she said', 'start': 1977.039, 'duration': 3.841}
+{'text': 'no and then i think he reframed it again', 'start': 1979.12, 'duration': 3.12}
+{'text': "he's like okay so if there's a suicidal", 'start': 1980.88, 'duration': 2.799}
+{'text': 'kid being neglected by their parents', 'start': 1982.24, 'duration': 2.88}
+{'text': 'should the state be involved in this she', 'start': 1983.679, 'duration': 3.12}
+{'text': "shut down the convo because she couldn't", 'start': 1985.12, 'duration': 3.52}
+{'text': 'take the logical bite or the rhetorical', 'start': 1986.799, 'duration': 3.281}
+{'text': 'or optical bite of owning that', 'start': 1988.64, 'duration': 2.879}
+{'text': 'hypothetical because it sounds [\xa0__\xa0]', 'start': 1990.08, 'duration': 2.719}
+{'text': 'horrible because it is pretty horrible', 'start': 1991.519, 'duration': 2.4}
+{'text': "so and that's and that's when the whole", 'start': 1992.799, 'duration': 2.401}
+{'text': "conversation shut down that's that's", 'start': 1993.919, 'duration': 3.041}
+{'text': 'exactly what happened okay', 'start': 1995.2, 'duration': 4.079}
+{'text': 'can we walk through that part just real', 'start': 1996.96, 'duration': 4.559}
+{'text': 'quick that that last part uh because i', 'start': 1999.279, 'duration': 3.52}
+{'text': 'thought you were talking about the the', 'start': 2001.519, 'duration': 3.04}
+{'text': 'previous thing um', 'start': 2002.799, 'duration': 2.961}
+{'text': 'sure okay', 'start': 2004.559, 'duration': 2.561}
+{'text': 'so', 'start': 2005.76, 'duration': 3.919}
+{'text': 'they established that if something like', 'start': 2007.12, 'duration': 4.48}
+{'text': 'a cancer needed to be removed from a kid', 'start': 2009.679, 'duration': 3.441}
+{'text': "it's okay to force them to remove the", 'start': 2011.6, 'duration': 4.16}
+{'text': 'cancer right and then they move on to', 'start': 2013.12, 'duration': 5.76}
+{'text': 'um i would uh they say i would like to', 'start': 2015.76, 'duration': 5.519}
+{'text': 'build the system without force except as', 'start': 2018.88, 'duration': 5.519}
+{'text': 'a last resort right and then he asks', 'start': 2021.279, 'duration': 5.201}
+{'text': 'what if your kid wanted to roblox', 'start': 2024.399, 'duration': 3.441}
+{'text': 'themselves what if they wanted to commit', 'start': 2026.48, 'duration': 3.12}
+{'text': 'suicide would you stop your kid from', 'start': 2027.84, 'duration': 4.88}
+{'text': 'committing suicide and she said yes but', 'start': 2029.6, 'duration': 6.16}
+{'text': "not other kids so when she's responding", 'start': 2032.72, 'duration': 4.559}
+{'text': "here and i'm going to be good faith", 'start': 2035.76, 'duration': 3.279}
+{'text': 'because i hold myself to be good faith', 'start': 2037.279, 'duration': 3.28}
+{'text': "because i especially don't like this", 'start': 2039.039, 'duration': 3.76}
+{'text': 'person and i really just want to go out', 'start': 2040.559, 'duration': 4.321}
+{'text': 'of my way to be good faith with her i', 'start': 2042.799, 'duration': 3.441}
+{'text': "think that she's meaning to you", 'start': 2044.88, 'duration': 3.199}
+{'text': 'personally would you personally involve', 'start': 2046.24, 'duration': 4.8}
+{'text': "yourself with some other kid's suicide", 'start': 2048.079, 'duration': 4.881}
+{'text': "and she said that she wouldn't if it's", 'start': 2051.04, 'duration': 3.44}
+{'text': "somebody else's kid but she would", 'start': 2052.96, 'duration': 3.52}
+{'text': 'personally if it were her kid but this', 'start': 2054.48, 'duration': 5.76}
+{'text': 'is different from this state or there', 'start': 2056.48, 'duration': 6.0}
+{'text': 'being some use of force by the state as', 'start': 2060.24, 'duration': 4.24}
+{'text': 'a last resort right because then when', 'start': 2062.48, 'duration': 3.76}
+{'text': 'they get into a screaming match after', 'start': 2064.48, 'duration': 3.84}
+{'text': 'this i think she says that you pull the', 'start': 2066.24, 'duration': 3.679}
+{'text': "switcheroo on me because we're talking", 'start': 2068.32, 'duration': 3.759}
+{'text': 'about me personally in my actions when', 'start': 2069.919, 'duration': 3.76}
+{'text': 'before we were talking about the state', 'start': 2072.079, 'duration': 2.721}
+{'text': 'and whether the state would use it', 'start': 2073.679, 'duration': 2.561}
+{'text': "because it's not it's not a switcheroo", 'start': 2074.8, 'duration': 3.92}
+{'text': "he's obviously like doing a like a line", 'start': 2076.24, 'duration': 3.76}
+{'text': 'of questioning to figure out like where', 'start': 2078.72, 'duration': 3.28}
+{'text': "the thing would stop right like let's", 'start': 2080.0, 'duration': 3.599}
+{'text': "say for instance like your kid won't eat", 'start': 2082.0, 'duration': 2.639}
+{'text': "because he's a picky eater well would", 'start': 2083.599, 'duration': 2.32}
+{'text': 'you force your kid to eat lunch if he', 'start': 2084.639, 'duration': 3.04}
+{'text': "wasn't it's like yeah i could of course", 'start': 2085.919, 'duration': 2.96}
+{'text': 'would the school force the kid to eat', 'start': 2087.679, 'duration': 2.321}
+{'text': "lunch no that's totally different why", 'start': 2088.879, 'duration': 2.161}
+{'text': "are you pulling the switcharoo it's not", 'start': 2090.0, 'duration': 2.24}
+{'text': "a switcheroo you're just trying to", 'start': 2091.04, 'duration': 2.639}
+{'text': 'figure out like where the line is but as', 'start': 2092.24, 'duration': 2.639}
+{'text': "soon as she realized what she'd", 'start': 2093.679, 'duration': 2.4}
+{'text': 'committed herself to with her previous', 'start': 2094.879, 'duration': 2.801}
+{'text': 'answers and i even said this when i', 'start': 2096.079, 'duration': 3.04}
+{'text': 'listened to it i said as soon as that', 'start': 2097.68, 'duration': 2.88}
+{'text': "came up i said i bet the conversation's", 'start': 2099.119, 'duration': 2.641}
+{'text': "gonna stop here and they're never gonna", 'start': 2100.56, 'duration': 2.799}
+{'text': "revisit it and they didn't because every", 'start': 2101.76, 'duration': 2.8}
+{'text': 'time he tried to bounce back to that', 'start': 2103.359, 'duration': 2.48}
+{'text': 'point she started screaming shut the', 'start': 2104.56, 'duration': 2.48}
+{'text': 'conversation down and said she was done', 'start': 2105.839, 'duration': 2.561}
+{'text': 'talking about it it was absolutely', 'start': 2107.04, 'duration': 2.88}
+{'text': 'impossible to move at that point because', 'start': 2108.4, 'duration': 2.959}
+{'text': "she realized she'd committed herself to", 'start': 2109.92, 'duration': 4.32}
+{'text': 'something that just sounded really bad', 'start': 2111.359, 'duration': 4.401}
+{'text': 'i think that she committed herself at', 'start': 2114.24, 'duration': 3.119}
+{'text': "the point where she said she's okay with", 'start': 2115.76, 'duration': 3.839}
+{'text': 'building a system without force except', 'start': 2117.359, 'duration': 4.24}
+{'text': "as a last resort i think that's the", 'start': 2119.599, 'duration': 4.561}
+{'text': 'point where no hold on no no no no force', 'start': 2121.599, 'duration': 4.801}
+{'text': 'as a last resort is still enforced by', 'start': 2124.16, 'duration': 3.679}
+{'text': "force that's still by force that doesn't", 'start': 2126.4, 'duration': 2.56}
+{'text': 'mean anything', 'start': 2127.839, 'duration': 2.481}
+{'text': "that that's what i'm saying i think that", 'start': 2128.96, 'duration': 3.76}
+{'text': 'was the point where she doomed herself', 'start': 2130.32, 'duration': 4.56}
+{'text': "it wasn't on this answer about suicide", 'start': 2132.72, 'duration': 4.0}
+{'text': 'with kids oh it was but she was saying', 'start': 2134.88, 'duration': 3.52}
+{'text': 'that she would never want the state to', 'start': 2136.72, 'duration': 3.2}
+{'text': 'intervene if the kid was suicidal and', 'start': 2138.4, 'duration': 2.959}
+{'text': "neglected that's what she had committed", 'start': 2139.92, 'duration': 2.48}
+{'text': "herself to and that's what she didn't", 'start': 2141.359, 'duration': 2.24}
+{'text': 'want to follow to the end of that', 'start': 2142.4, 'duration': 3.04}
+{'text': 'conversation no because the question was', 'start': 2143.599, 'duration': 3.681}
+{'text': 'about her personally and if she would', 'start': 2145.44, 'duration': 3.76}
+{'text': "get involved unless i'm remembering this", 'start': 2147.28, 'duration': 3.12}
+{'text': 'incorrectly', 'start': 2149.2, 'duration': 2.72}
+{'text': 'but the next question was going to be', 'start': 2150.4, 'duration': 3.6}
+{'text': "what if another kid's uh what if another", 'start': 2151.92, 'duration': 3.28}
+{'text': 'kid was like being neglected right', 'start': 2154.0, 'duration': 2.4}
+{'text': 'should the state and her that was the', 'start': 2155.2, 'duration': 2.48}
+{'text': "next question i don't know she saw that", 'start': 2156.4, 'duration': 2.48}
+{'text': "coming and didn't want to go and didn't", 'start': 2157.68, 'duration': 2.399}
+{'text': "want to go forward with it i i don't", 'start': 2158.88, 'duration': 2.16}
+{'text': "think you're seeing where i'm saying", 'start': 2160.079, 'duration': 2.721}
+{'text': "that there's a difference here so", 'start': 2161.04, 'duration': 3.36}
+{'text': "i know there's a difference but i'm just", 'start': 2162.8, 'duration': 2.96}
+{'text': "telling you it's going to go from one to", 'start': 2164.4, 'duration': 3.04}
+{'text': "the other hold on of course it's obvious", 'start': 2165.76, 'duration': 2.96}
+{'text': "i don't think that you do that's why i'm", 'start': 2167.44, 'duration': 3.04}
+{'text': "saying this and you know i'm good faith", 'start': 2168.72, 'duration': 4.16}
+{'text': 'i try to be good faith with you dude um', 'start': 2170.48, 'duration': 3.359}
+{'text': 'so', 'start': 2172.88, 'duration': 3.6}
+{'text': 'the first question was about a system', 'start': 2173.839, 'duration': 5.121}
+{'text': 'with force by the government right the', 'start': 2176.48, 'duration': 4.32}
+{'text': 'second question is about if you', 'start': 2178.96, 'duration': 3.92}
+{'text': 'personally would get involved i think', 'start': 2180.8, 'duration': 4.48}
+{'text': "that is the disconnect here unless i'm", 'start': 2182.88, 'duration': 4.719}
+{'text': 'remembering this wrong one was about her', 'start': 2185.28, 'duration': 5.04}
+{'text': 'personally as her own personal being if', 'start': 2187.599, 'duration': 4.321}
+{'text': 'she would get involved and then the', 'start': 2190.32, 'duration': 4.4}
+{'text': 'first question was about a system and a', 'start': 2191.92, 'duration': 4.96}
+{'text': 'system where i hope we could both make', 'start': 2194.72, 'duration': 3.92}
+{'text': "the inference here that we're talking", 'start': 2196.88, 'duration': 4.0}
+{'text': 'about like the legal system where force', 'start': 2198.64, 'duration': 4.64}
+{'text': 'is used as the last resort right like', 'start': 2200.88, 'duration': 4.0}
+{'text': 'these two things are different if you', 'start': 2203.28, 'duration': 2.799}
+{'text': 'personally would get involved is', 'start': 2204.88, 'duration': 3.12}
+{'text': 'different from like should the state', 'start': 2206.079, 'duration': 4.481}
+{'text': 'require force as a last resort to get', 'start': 2208.0, 'duration': 4.48}
+{'text': 'involved right', 'start': 2210.56, 'duration': 4.16}
+{'text': "sure but i'm just saying that like the", 'start': 2212.48, 'duration': 6.08}
+{'text': 'one is going to lead to the next right', 'start': 2214.72, 'duration': 5.76}
+{'text': "like like you asked well if you let's", 'start': 2218.56, 'duration': 2.88}
+{'text': "say you asked the first one he's like", 'start': 2220.48, 'duration': 2.16}
+{'text': 'would you get involved if your kid was', 'start': 2221.44, 'duration': 2.639}
+{'text': "suicidal or whatever and she's like no i", 'start': 2222.64, 'duration': 2.56}
+{'text': "wouldn't do anything to change that and", 'start': 2224.079, 'duration': 2.0}
+{'text': "i was like oh well then you're done with", 'start': 2225.2, 'duration': 2.08}
+{'text': 'the conversation but if you would', 'start': 2226.079, 'duration': 2.881}
+{'text': 'personally do something to intercede', 'start': 2227.28, 'duration': 2.96}
+{'text': "i'll be happy to keep being so okay well", 'start': 2228.96, 'duration': 2.48}
+{'text': 'do you think that the state should if', 'start': 2230.24, 'duration': 2.72}
+{'text': "there's not another parent willing to do", 'start': 2231.44, 'duration': 3.52}
+{'text': "so for another child that's being uh", 'start': 2232.96, 'duration': 4.24}
+{'text': "that's the obvious next question no okay", 'start': 2234.96, 'duration': 4.08}
+{'text': "that's weird no no no no no that's where", 'start': 2237.2, 'duration': 3.84}
+{'text': "hans went it's not where i'm going that", 'start': 2239.04, 'duration': 3.36}
+{'text': 'was his next question', 'start': 2241.04, 'duration': 3.52}
+{'text': 'did he ask that did he get to ask that', 'start': 2242.4, 'duration': 4.24}
+{'text': 'because i think he was barely starting', 'start': 2244.56, 'duration': 3.76}
+{'text': 'to i said well we can go back and listen', 'start': 2246.64, 'duration': 2.56}
+{'text': "to that if you want because it's barely", 'start': 2248.32, 'duration': 2.4}
+{'text': 'a second but demon mama saw where that', 'start': 2249.2, 'duration': 3.2}
+{'text': 'was going and then the conversation', 'start': 2250.72, 'duration': 3.92}
+{'text': "shuts down it's not necessarily that", 'start': 2252.4, 'duration': 3.6}
+{'text': 'because i have written down that his', 'start': 2254.64, 'duration': 4.32}
+{'text': 'next question was are you sure', 'start': 2256.0, 'duration': 5.119}
+{'text': "so i don't listen do you want to start", 'start': 2258.96, 'duration': 3.52}
+{'text': 'do you want to start the conversation at', 'start': 2261.119, 'duration': 2.801}
+{'text': 'that time stamp and we can listen and', 'start': 2262.48, 'duration': 2.8}
+{'text': 'see if we can both figure out what we', 'start': 2263.92, 'duration': 3.76}
+{'text': "think is going on yeah i'm happy to", 'start': 2265.28, 'duration': 4.079}
+{'text': 'okay can you link me the vod with that', 'start': 2267.68, 'duration': 2.88}
+{'text': 'timestamp or the youtube video with that', 'start': 2269.359, 'duration': 2.48}
+{'text': 'timestamp', 'start': 2270.56, 'duration': 3.279}
+{'text': 'uh can you ask your thousands of', 'start': 2271.839, 'duration': 3.52}
+{'text': 'chatters', 'start': 2273.839, 'duration': 3.921}
+{'text': "let's go", 'start': 2275.359, 'duration': 2.401}
+{'text': "and like while they're doing that and", 'start': 2278.32, 'duration': 4.16}
+{'text': "because i feel like i'm always in this", 'start': 2280.64, 'duration': 4.4}
+{'text': 'crazy [\xa0__\xa0] position because what i want', 'start': 2282.48, 'duration': 5.359}
+{'text': 'to do on the platform is like to look at', 'start': 2285.04, 'duration': 4.88}
+{'text': 'word by word what are people saying try', 'start': 2287.839, 'duration': 3.841}
+{'text': "to control for biases like i don't", 'start': 2289.92, 'duration': 3.919}
+{'text': 'believe in her stupid [\xa0__\xa0] position i', 'start': 2291.68, 'duration': 4.08}
+{'text': "think that she's a bad interlocutor i", 'start': 2293.839, 'duration': 3.52}
+{'text': "think that she's bad faith and i'm", 'start': 2295.76, 'duration': 2.96}
+{'text': 'always trying to [\xa0__\xa0] correct for', 'start': 2297.359, 'duration': 3.521}
+{'text': 'this by being super technical and like', 'start': 2298.72, 'duration': 4.0}
+{'text': 'super to the point with her with bob', 'start': 2300.88, 'duration': 4.0}
+{'text': 'seven with these other people and i feel', 'start': 2302.72, 'duration': 4.879}
+{'text': "like like it's easy for you to just make", 'start': 2304.88, 'duration': 4.8}
+{'text': "it seem like i'm crazy for doing this", 'start': 2307.599, 'duration': 3.681}
+{'text': "but i feel like it's it's like what i", 'start': 2309.68, 'duration': 3.36}
+{'text': 'have to do i have to go off of like the', 'start': 2311.28, 'duration': 3.68}
+{'text': 'nuts and bolts of what happened', 'start': 2313.04, 'duration': 3.68}
+{'text': 'and yeah because you i mean like part of', 'start': 2314.96, 'duration': 3.2}
+{'text': 'human speech is like looking into', 'start': 2316.72, 'duration': 4.16}
+{'text': 'inferences and stuff like that like 99', 'start': 2318.16, 'duration': 4.88}
+{'text': "of what we say is unsaid there's a it's", 'start': 2320.88, 'duration': 3.68}
+{'text': 'like a theory of language that has to do', 'start': 2323.04, 'duration': 4.96}
+{'text': 'with this but like like very very few', 'start': 2324.56, 'duration': 6.24}
+{'text': 'sentences that we say actually make much', 'start': 2328.0, 'duration': 4.72}
+{'text': 'sense like for instance if i ask you', 'start': 2330.8, 'duration': 4.0}
+{'text': 'like are you hungry', 'start': 2332.72, 'duration': 3.28}
+{'text': "like if you just look at me it's like", 'start': 2334.8, 'duration': 2.96}
+{'text': "yeah and then i walk away you're gonna", 'start': 2336.0, 'duration': 5.839}
+{'text': "think i'm a [\xa0__\xa0] [\xa0__\xa0] right", 'start': 2337.76, 'duration': 4.079}
+{'text': 'hello why', 'start': 2342.96, 'duration': 2.879}
+{'text': 'wait', 'start': 2346.4, 'duration': 3.92}
+{'text': "if i walk into let's say i'm your dad", 'start': 2347.92, 'duration': 3.84}
+{'text': "okay and you're on your computer i'm", 'start': 2350.32, 'duration': 3.36}
+{'text': "sorry i shouldn't be this is not the", 'start': 2351.76, 'duration': 4.16}
+{'text': 'time to be i understand i understand', 'start': 2353.68, 'duration': 4.64}
+{'text': 'yeah okay the vast majority or i could', 'start': 2355.92, 'duration': 4.0}
+{'text': 'even ask more specifically like hey do', 'start': 2358.32, 'duration': 2.48}
+{'text': 'you want to go get something to eat with', 'start': 2359.92, 'duration': 3.52}
+{'text': "me and you say yeah or i'm like hey um", 'start': 2360.8, 'duration': 3.6}
+{'text': 'do you want to get ready so you can go', 'start': 2363.44, 'duration': 2.8}
+{'text': "get something like yeah and i don't", 'start': 2364.4, 'duration': 2.719}
+{'text': 'actually take it i was like oh i was', 'start': 2366.24, 'duration': 2.32}
+{'text': "just asking right i didn't actually", 'start': 2367.119, 'duration': 3.281}
+{'text': "right there's like half of not even half", 'start': 2368.56, 'duration': 3.68}
+{'text': "like there's this huge iceberg", 'start': 2370.4, 'duration': 3.199}
+{'text': "underneath the water of [\xa0__\xa0] that's", 'start': 2372.24, 'duration': 2.72}
+{'text': "implied when we speak that we don't", 'start': 2373.599, 'duration': 3.921}
+{'text': 'actually say like 100 percent um yeah so', 'start': 2374.96, 'duration': 4.159}
+{'text': "it's it's just weird to just try to like", 'start': 2377.52, 'duration': 3.76}
+{'text': 'look at like the actual verbal thing and', 'start': 2379.119, 'duration': 3.761}
+{'text': 'not like what is actually being said or', 'start': 2381.28, 'duration': 3.44}
+{'text': 'argued or debated in this conversation', 'start': 2382.88, 'duration': 6.36}
+{'text': 'um did anybody have a link hold on', 'start': 2384.72, 'duration': 4.52}
+{'text': 'should be sometime shortly after 23', 'start': 2396.24, 'duration': 3.119}
+{'text': 'minutes', 'start': 2398.32, 'duration': 4.72}
+{'text': 'sure and then just real quick so when', 'start': 2399.359, 'duration': 5.361}
+{'text': 'when hans is saying like education', 'start': 2403.04, 'duration': 4.0}
+{'text': 'system here is it not on demon mama to', 'start': 2404.72, 'duration': 3.52}
+{'text': 'did you do you have this written down at', 'start': 2407.04, 'duration': 2.4}
+{'text': "all that he's literally saying like", 'start': 2408.24, 'duration': 3.599}
+{'text': 'education system', 'start': 2409.44, 'duration': 6.159}
+{'text': 'um whereabouts', 'start': 2411.839, 'duration': 3.76}
+{'text': "i'd like you on discord", 'start': 2415.76, 'duration': 3.92}
+{'text': "let's see here", 'start': 2417.68, 'duration': 3.52}
+{'text': 'location system or the new one like the', 'start': 2419.68, 'duration': 3.6}
+{'text': 'good one that we made', 'start': 2421.2, 'duration': 3.68}
+{'text': 'over literally anything and everything', 'start': 2423.28, 'duration': 2.72}
+{'text': 'else they can do', 'start': 2424.88, 'duration': 2.56}
+{'text': "yeah i mean there's like five and a half", 'start': 2426.0, 'duration': 2.88}
+{'text': "minutes in the conversation so what i'm", 'start': 2427.44, 'duration': 3.679}
+{'text': 'asking is how do we ensure that we get', 'start': 2428.88, 'duration': 3.199}
+{'text': "enough of society does you agree that's", 'start': 2431.119, 'duration': 2.0}
+{'text': "a terrible thing that's like if you have", 'start': 2432.079, 'duration': 2.401}
+{'text': "like a portion can't read or write how", 'start': 2433.119, 'duration': 3.041}
+{'text': 'do we get them to voluntarily choose', 'start': 2434.48, 'duration': 2.96}
+{'text': 'this like education system or the new', 'start': 2436.16, 'duration': 3.04}
+{'text': 'one like the good one that we made um oh', 'start': 2437.44, 'duration': 3.44}
+{'text': 'fair enough yeah i did i did not get', 'start': 2439.2, 'duration': 4.08}
+{'text': "this that's my that's my bad", 'start': 2440.88, 'duration': 4.4}
+{'text': "okay so that didn't", 'start': 2443.28, 'duration': 3.2}
+{'text': "that didn't change how any of this", 'start': 2445.28, 'duration': 2.88}
+{'text': 'conversation went but regardless okay', 'start': 2446.48, 'duration': 3.92}
+{'text': "here's the next thing he continues", 'start': 2448.16, 'duration': 4.56}
+{'text': 'on school to be fair but yes sure but', 'start': 2450.4, 'duration': 3.919}
+{'text': "it's i still think it's pretty obvious", 'start': 2452.72, 'duration': 3.28}
+{'text': "what is being said but okay i'm gonna", 'start': 2454.319, 'duration': 3.52}
+{'text': 'start this at um', 'start': 2456.0, 'duration': 3.28}
+{'text': "normal speed and i'm gonna listen okay", 'start': 2457.839, 'duration': 3.041}
+{'text': "let me know when you're ready okay yep", 'start': 2459.28, 'duration': 3.039}
+{'text': 'uh ready three', 'start': 2460.88, 'duration': 2.239}
+{'text': 'two', 'start': 2462.319, 'duration': 3.441}
+{'text': "one go what if they're gonna", 'start': 2463.119, 'duration': 3.761}
+{'text': "what if they're going to roblox", 'start': 2465.76, 'duration': 2.72}
+{'text': 'themselves like would you be okay with', 'start': 2466.88, 'duration': 3.199}
+{'text': 'force then', 'start': 2468.48, 'duration': 2.96}
+{'text': 'i mean', 'start': 2470.079, 'duration': 3.601}
+{'text': 'me personally i would okay hold on', 'start': 2471.44, 'duration': 5.12}
+{'text': 'actually [\xa0__\xa0] excuse me hold on', 'start': 2473.68, 'duration': 5.12}
+{'text': "we're gonna go back to 26 minutes okay", 'start': 2476.56, 'duration': 3.759}
+{'text': "let me know when you're ready okay back", 'start': 2478.8, 'duration': 4.559}
+{'text': 'to 2016. okay', 'start': 2480.319, 'duration': 3.04}
+{'text': 'let me know', 'start': 2483.599, 'duration': 2.401}
+{'text': "i'm slow", 'start': 2484.56, 'duration': 3.039}
+{'text': "okay i'm ready", 'start': 2486.0, 'duration': 5.359}
+{'text': 'three two one go i said you seem to take', 'start': 2487.599, 'duration': 5.201}
+{'text': "a lot of issue when i said use force's", 'start': 2491.359, 'duration': 2.96}
+{'text': 'last effort with the super child who', 'start': 2492.8, 'duration': 3.519}
+{'text': "like cannot function society they're", 'start': 2494.319, 'duration': 3.76}
+{'text': 'willingly uh making choices yeah because', 'start': 2496.319, 'duration': 2.721}
+{'text': 'you said that they should be', 'start': 2498.079, 'duration': 2.481}
+{'text': 'institutionalized', 'start': 2499.04, 'duration': 3.44}
+{'text': 'to get them what they need absolutely if', 'start': 2500.56, 'duration': 2.96}
+{'text': "they're danger to themselves they're", 'start': 2502.48, 'duration': 2.96}
+{'text': "endangered i don't know well then i", 'start': 2503.52, 'duration': 3.12}
+{'text': 'guess you and i just have different', 'start': 2505.44, 'duration': 3.36}
+{'text': 'positions on on on no but this is the', 'start': 2506.64, 'duration': 3.92}
+{'text': 'last one', 'start': 2508.8, 'duration': 2.96}
+{'text': "what if they're gonna", 'start': 2510.56, 'duration': 2.96}
+{'text': "what if they're gonna roblox themselves", 'start': 2511.76, 'duration': 4.4}
+{'text': 'like would you be okay with force then', 'start': 2513.52, 'duration': 3.92}
+{'text': 'i mean', 'start': 2516.16, 'duration': 4.08}
+{'text': 'me personally i would i would take', 'start': 2517.44, 'duration': 4.09}
+{'text': 'excuse me', 'start': 2520.24, 'duration': 3.28}
+{'text': '[Music]', 'start': 2521.53, 'duration': 2.95}
+{'text': 'in this conversation i should be', 'start': 2523.52, 'duration': 2.0}
+{'text': "listening through all of this as we're", 'start': 2524.48, 'duration': 3.599}
+{'text': 'talking about it he did not ask her if', 'start': 2525.52, 'duration': 4.24}
+{'text': 'she personally would be okay it is', 'start': 2528.079, 'duration': 3.441}
+{'text': 'obvious in the context that he is', 'start': 2529.76, 'duration': 3.359}
+{'text': 'talking about using the force of the', 'start': 2531.52, 'duration': 4.94}
+{'text': 'state to intervene not if she would', 'start': 2533.119, 'duration': 4.641}
+{'text': '[Music]', 'start': 2536.46, 'duration': 2.82}
+{'text': 'do you acknowledge that that is not what', 'start': 2537.76, 'duration': 3.28}
+{'text': "he asked it wasn't would you personally", 'start': 2539.28, 'duration': 3.36}
+{'text': 'do this with your personal child they', 'start': 2541.04, 'duration': 3.279}
+{'text': 'were still having a conversation about', 'start': 2542.64, 'duration': 3.199}
+{'text': 'public policy and what the government', 'start': 2544.319, 'duration': 3.441}
+{'text': 'should do right', 'start': 2545.839, 'duration': 6.881}
+{'text': "in context yes yes okay i'm at 23 or 26", 'start': 2547.76, 'duration': 5.92}
+{'text': "30. okay and then i'm gonna start it", 'start': 2552.72, 'duration': 4.639}
+{'text': 'again okay okay three two one go', 'start': 2553.68, 'duration': 6.399}
+{'text': 'me personally i would i would take', 'start': 2557.359, 'duration': 3.921}
+{'text': 'excuse me hold on a second wait wait', 'start': 2560.079, 'duration': 2.401}
+{'text': 'wait wait wait wait', 'start': 2561.28, 'duration': 4.16}
+{'text': "whoa don't oh wow we're going to do the", 'start': 2562.48, 'duration': 4.8}
+{'text': "performative thing let's do it all right", 'start': 2565.44, 'duration': 4.0}
+{'text': 'listen you want to hear me personally if', 'start': 2567.28, 'duration': 4.319}
+{'text': 'my kid was going to if my purse if my', 'start': 2569.44, 'duration': 4.32}
+{'text': 'child was going to like kill themselves', 'start': 2571.599, 'duration': 4.401}
+{'text': 'or was eminently in physical danger then', 'start': 2573.76, 'duration': 3.92}
+{'text': 'yes i would tackle them i would be like', 'start': 2576.0, 'duration': 4.16}
+{'text': "look let's get you out of the danger i", 'start': 2577.68, 'duration': 3.6}
+{'text': "know you'll see through this on the", 'start': 2580.16, 'duration': 2.64}
+{'text': "other side what about other people's", 'start': 2581.28, 'duration': 3.12}
+{'text': 'kids would you force them would you like', 'start': 2582.8, 'duration': 2.319}
+{'text': 'no', 'start': 2584.4, 'duration': 2.08}
+{'text': "you wouldn't let this wait you wouldn't", 'start': 2585.119, 'duration': 3.121}
+{'text': 'let the state take children from parents', 'start': 2586.48, 'duration': 3.04}
+{'text': "when the kid says they're going to kill", 'start': 2588.24, 'duration': 2.32}
+{'text': "themselves and the parents aren't doing", 'start': 2589.52, 'duration': 2.16}
+{'text': "anything you're really going to let that", 'start': 2590.56, 'duration': 2.0}
+{'text': 'happen', 'start': 2591.68, 'duration': 2.159}
+{'text': "really that's that's what you're dying", 'start': 2592.56, 'duration': 2.24}
+{'text': 'on right now', 'start': 2593.839, 'duration': 2.881}
+{'text': "hold on a second hold on a second you're", 'start': 2594.8, 'duration': 4.08}
+{'text': 'saying that like are we talking about', 'start': 2596.72, 'duration': 4.48}
+{'text': 'like it like it like an idealized pause', 'start': 2598.88, 'duration': 4.64}
+{'text': 'this is so bad faith it is plainly', 'start': 2601.2, 'duration': 4.56}
+{'text': "obvious what he's asking notice how she", 'start': 2603.52, 'duration': 4.16}
+{'text': 'starts to dance a lot here because of', 'start': 2605.76, 'duration': 3.76}
+{'text': "what he asked she knew what she'd", 'start': 2607.68, 'duration': 3.6}
+{'text': 'committed herself to and it was a bad', 'start': 2609.52, 'duration': 3.76}
+{'text': 'argument logically and it was a loser of', 'start': 2611.28, 'duration': 3.6}
+{'text': 'an argument rhetorically and optically', 'start': 2613.28, 'duration': 3.28}
+{'text': 'when i heard this in the video i think i', 'start': 2614.88, 'duration': 3.199}
+{'text': 'said at this moment they are never going', 'start': 2616.56, 'duration': 3.279}
+{'text': 'to actually address this question and d', 'start': 2618.079, 'duration': 2.961}
+{'text': 'my mom is going to rage quit and that is', 'start': 2619.839, 'duration': 2.881}
+{'text': "exactly what happened i didn't pre-watch", 'start': 2621.04, 'duration': 2.96}
+{'text': "but it's obvious with the way that she's", 'start': 2622.72, 'duration': 2.639}
+{'text': "dancing that she doesn't want to answer", 'start': 2624.0, 'duration': 3.359}
+{'text': 'it how can you read this any other way', 'start': 2625.359, 'duration': 4.401}
+{'text': 'fair enough my apologies i can see it on', 'start': 2627.359, 'duration': 5.361}
+{'text': 'this one for sure um he was very very', 'start': 2629.76, 'duration': 5.04}
+{'text': 'specific here and she was clearly going', 'start': 2632.72, 'duration': 4.399}
+{'text': "to weasel out of it and she's forced to", 'start': 2634.8, 'duration': 3.76}
+{'text': 'deal with her personally', 'start': 2637.119, 'duration': 3.041}
+{'text': 'prior to this when he brought up like', 'start': 2638.56, 'duration': 3.92}
+{'text': 'the force as a last resort thing notice', 'start': 2640.16, 'duration': 4.48}
+{'text': 'how her position is changing as well', 'start': 2642.48, 'duration': 4.4}
+{'text': 'when earlier he said we should use force', 'start': 2644.64, 'duration': 3.84}
+{'text': 'as a last resort and she was like oh so', 'start': 2646.88, 'duration': 3.12}
+{'text': 'you would institutionalize kids that are', 'start': 2648.48, 'duration': 3.2}
+{'text': "a danger to themselves that's what they", 'start': 2650.0, 'duration': 2.96}
+{'text': 'were talking about he said yeah of', 'start': 2651.68, 'duration': 2.72}
+{'text': 'course but now all of a sudden she', 'start': 2652.96, 'duration': 2.879}
+{'text': "doesn't want to use force there so what", 'start': 2654.4, 'duration': 3.28}
+{'text': 'the [\xa0__\xa0] is her position actually if you', 'start': 2655.839, 'duration': 3.361}
+{'text': "can't institutionalize somebody then you", 'start': 2657.68, 'duration': 3.2}
+{'text': 'have no for what is your force sending', 'start': 2659.2, 'duration': 3.919}
+{'text': 'them like a a meanly worded letter', 'start': 2660.88, 'duration': 3.84}
+{'text': 'giving them a phone call like what where', 'start': 2663.119, 'duration': 5.2}
+{'text': 'is your force at um okay', 'start': 2664.72, 'duration': 3.599}
+{'text': 'yeah i would agree on this last part for', 'start': 2669.76, 'duration': 3.92}
+{'text': 'sure um', 'start': 2671.599, 'duration': 3.281}
+{'text': 'okay and then also he did say', 'start': 2673.68, 'duration': 2.72}
+{'text': 'educationism earlier and it made zero', 'start': 2674.88, 'duration': 4.64}
+{'text': 'difference in this conversation well', 'start': 2676.4, 'duration': 4.959}
+{'text': 'i will i will admit that he did say the', 'start': 2679.52, 'duration': 3.36}
+{'text': 'education system in the very beginning', 'start': 2681.359, 'duration': 3.121}
+{'text': 'this may seem pedantic but then we', 'start': 2682.88, 'duration': 4.08}
+{'text': 'continue to do school throughout right', 'start': 2684.48, 'duration': 4.72}
+{'text': 'so i think this is but demon mama never', 'start': 2686.96, 'duration': 3.68}
+{'text': 'like clarifies from the two so i think', 'start': 2689.2, 'duration': 2.879}
+{'text': "it's safe to assume that she's assuming", 'start': 2690.64, 'duration': 3.12}
+{'text': 'both are synonymous with one another as', 'start': 2692.079, 'duration': 3.441}
+{'text': "99 of people would if you're talking", 'start': 2693.76, 'duration': 3.359}
+{'text': 'about school versus education system', 'start': 2695.52, 'duration': 4.24}
+{'text': "nobody's talking about the building", 'start': 2697.119, 'duration': 6.121}
+{'text': 'you know what destiny', 'start': 2699.76, 'duration': 3.48}
+{'text': "i don't like this lady", 'start': 2704.4, 'duration': 4.719}
+{'text': "and i think i'm done defending her okay", 'start': 2706.24, 'duration': 5.68}
+{'text': 'okay if if we want to make the inference', 'start': 2709.119, 'duration': 4.72}
+{'text': 'jump that uh', 'start': 2711.92, 'duration': 3.439}
+{'text': 'that these two things are the same thing', 'start': 2713.839, 'duration': 3.201}
+{'text': 'school and education are the same thing', 'start': 2715.359, 'duration': 3.041}
+{'text': 'then i retract', 'start': 2717.04, 'duration': 3.12}
+{'text': "i admit that i'm wrong", 'start': 2718.4, 'duration': 3.52}
+{'text': 'i admit that uh', 'start': 2720.16, 'duration': 3.199}
+{'text': 'it may not have made a difference this', 'start': 2721.92, 'duration': 4.48}
+{'text': "person doesn't seem to necessarily care", 'start': 2723.359, 'duration': 5.841}
+{'text': 'um fair enough', 'start': 2726.4, 'duration': 5.12}
+{'text': "wow okay well you've done it you've", 'start': 2729.2, 'duration': 3.68}
+{'text': 'convinced me', 'start': 2731.52, 'duration': 3.44}
+{'text': "and you've made me tired", 'start': 2732.88, 'duration': 3.36}
+{'text': 'what else do you wanna what else you', 'start': 2734.96, 'duration': 3.92}
+{'text': 'wanna scream about', 'start': 2736.24, 'duration': 2.64}
+{'text': 'have you played any 4x games', 'start': 2739.839, 'duration': 3.921}
+{'text': "no what's that", 'start': 2742.16, 'duration': 3.52}
+{'text': "oh it's i honestly got i couldn't even", 'start': 2743.76, 'duration': 3.44}
+{'text': "explain it even if i wanted to it's just", 'start': 2745.68, 'duration': 3.04}
+{'text': 'games with lots and lots of menus like', 'start': 2747.2, 'duration': 3.44}
+{'text': 'oh like civilization or whatever oh yeah', 'start': 2748.72, 'duration': 3.44}
+{'text': 'yeah yeah', 'start': 2750.64, 'duration': 2.8}
+{'text': "oh okay then you have i'm trying to", 'start': 2752.16, 'duration': 3.12}
+{'text': 'learn to play tonight', 'start': 2753.44, 'duration': 4.8}
+{'text': 'lost but you earned it buddy', 'start': 2755.28, 'duration': 5.76}
+{'text': 'okay well hans probably wants to shadow', 'start': 2758.24, 'duration': 4.0}
+{'text': 'you so you can go argue with him too if', 'start': 2761.04, 'duration': 3.36}
+{'text': "you want next oh god that's not gonna be", 'start': 2762.24, 'duration': 3.2}
+{'text': 'fun', 'start': 2764.4, 'duration': 3.36}
+{'text': 'um', 'start': 2765.44, 'duration': 2.32}
+{'text': 'i need your advice', 'start': 2767.839, 'duration': 5.48}
+{'text': 'i need your advice', 'start': 2769.76, 'duration': 3.559}
+{'text': "no never mind i'm not going to ask you", 'start': 2774.16, 'duration': 2.959}
+{'text': 'this', 'start': 2775.68, 'duration': 3.2}
+{'text': 'now you kind of have to now you have to', 'start': 2777.119, 'duration': 4.161}
+{'text': 'what do you mean', 'start': 2778.88, 'duration': 3.6}
+{'text': 'uh', 'start': 2781.28, 'duration': 4.319}
+{'text': "i'm getting sick of having a [\xa0__\xa0]", 'start': 2782.48, 'duration': 6.4}
+{'text': 'so okay i have a problem all right and', 'start': 2785.599, 'duration': 6.24}
+{'text': "it's that i'm biased okay when i start a", 'start': 2788.88, 'duration': 5.04}
+{'text': 'conversation like this i really really', 'start': 2791.839, 'duration': 3.441}
+{'text': 'really dislike', 'start': 2793.92, 'duration': 2.96}
+{'text': 'like demon mama and i really really', 'start': 2795.28, 'duration': 3.36}
+{'text': 'really dislike her stupid [\xa0__\xa0]', 'start': 2796.88, 'duration': 5.199}
+{'text': 'argument and so i like twist and contort', 'start': 2798.64, 'duration': 5.28}
+{'text': 'my brain in any way that i could', 'start': 2802.079, 'duration': 3.601}
+{'text': "possibly see that like she's getting", 'start': 2803.92, 'duration': 4.32}
+{'text': "confused or she doesn't understand or", 'start': 2805.68, 'duration': 4.8}
+{'text': 'how the other person could help her and', 'start': 2808.24, 'duration': 4.24}
+{'text': "i'm clearly over correcting and this is", 'start': 2810.48, 'duration': 4.96}
+{'text': 'a good example of that but like', 'start': 2812.48, 'duration': 4.8}
+{'text': "i i don't know what to do about this", 'start': 2815.44, 'duration': 4.32}
+{'text': "like i i don't know how to walk this", 'start': 2817.28, 'duration': 3.839}
+{'text': 'line or to', 'start': 2819.76, 'duration': 5.44}
+{'text': 'to like be not biased or be charitable', 'start': 2821.119, 'duration': 6.24}
+{'text': 'to to the one side without like', 'start': 2825.2, 'duration': 6.639}
+{'text': 'necessarily over correcting in this way', 'start': 2827.359, 'duration': 4.48}
+{'text': "like i agree i don't know i guess i try", 'start': 2832.96, 'duration': 4.24}
+{'text': 'to like follow as many inferences as i', 'start': 2835.44, 'duration': 3.36}
+{'text': 'can in the ways it makes sense to me but', 'start': 2837.2, 'duration': 2.96}
+{'text': 'i mean like there are times when i miss', 'start': 2838.8, 'duration': 2.48}
+{'text': 'them i mean there are probably times', 'start': 2840.16, 'duration': 2.8}
+{'text': 'when you miss them i mean that', 'start': 2841.28, 'duration': 3.36}
+{'text': "like that's a really really complicated", 'start': 2842.96, 'duration': 3.2}
+{'text': 'nuance like how do you', 'start': 2844.64, 'duration': 2.8}
+{'text': 'listen to an argument and figure out', 'start': 2846.16, 'duration': 2.88}
+{'text': 'what both sides are trying to say and', 'start': 2847.44, 'duration': 2.48}
+{'text': 'then', 'start': 2849.04, 'duration': 2.559}
+{'text': "like you know figure out who's doing a", 'start': 2849.92, 'duration': 3.04}
+{'text': "better worst job that's a really", 'start': 2851.599, 'duration': 2.801}
+{'text': 'complicated thing right we all kind of', 'start': 2852.96, 'duration': 3.2}
+{'text': "do that on the fly in real time and it's", 'start': 2854.4, 'duration': 5.76}
+{'text': 'different for every situation hmm', 'start': 2856.16, 'duration': 4.0}
+{'text': 'a disappointing answer', 'start': 2860.319, 'duration': 4.8}
+{'text': "well i mean like you're asking me for", 'start': 2863.119, 'duration': 3.44}
+{'text': 'like the key question of all debates', 'start': 2865.119, 'duration': 2.881}
+{'text': 'like how do you remove your bias when', 'start': 2866.559, 'duration': 2.721}
+{'text': 'interpreting a situation if i had the', 'start': 2868.0, 'duration': 2.559}
+{'text': 'answer to that i would be like the best', 'start': 2869.28, 'duration': 3.12}
+{'text': 'supreme court justice i would be like', 'start': 2870.559, 'duration': 3.921}
+{'text': 'the best legislator the best judge the', 'start': 2872.4, 'duration': 3.52}
+{'text': 'best like jury like in the world right', 'start': 2874.48, 'duration': 3.44}
+{'text': "that's a really hard thing to do right", 'start': 2875.92, 'duration': 4.399}
+{'text': "she's so slimy and dishonest yourself", 'start': 2877.92, 'duration': 5.199}
+{'text': 'trying to be charitable toward her', 'start': 2880.319, 'duration': 4.881}
+{'text': 'okay okay', 'start': 2883.119, 'duration': 3.601}
+{'text': 'because i feel like i do this for other', 'start': 2885.2, 'duration': 3.119}
+{'text': 'people like vosh and stuff too and their', 'start': 2886.72, 'duration': 3.92}
+{'text': "communities still think i'm like super", 'start': 2888.319, 'duration': 4.161}
+{'text': '[\xa0__\xa0] mean to them and unreasonable', 'start': 2890.64, 'duration': 3.28}
+{'text': "against them and it's like i don't know", 'start': 2892.48, 'duration': 3.119}
+{'text': 'it feels like a [\xa0__\xa0] uphill battle', 'start': 2893.92, 'duration': 3.28}
+{'text': "i'm getting sick of", 'start': 2895.599, 'duration': 3.361}
+{'text': "everybody here's the way that i learned", 'start': 2897.2, 'duration': 3.119}
+{'text': 'it okay if you go into a community and', 'start': 2898.96, 'duration': 2.879}
+{'text': "everybody's making personal insults at", 'start': 2900.319, 'duration': 3.601}
+{'text': "you they're calling you short fat gnome", 'start': 2901.839, 'duration': 4.081}
+{'text': "dumb [\xa0__\xa0] whatever [\xa0__\xa0] you're probably", 'start': 2903.92, 'duration': 3.52}
+{'text': "pretty correct in what you're saying if", 'start': 2905.92, 'duration': 2.88}
+{'text': 'people are tearing you apart on like', 'start': 2907.44, 'duration': 3.04}
+{'text': 'some factual basis or like actually', 'start': 2908.8, 'duration': 2.88}
+{'text': 'attacking or taking arguments that are', 'start': 2910.48, 'duration': 2.8}
+{'text': 'like founded in like reality then you', 'start': 2911.68, 'duration': 2.72}
+{'text': 'probably like made a bad argument or', 'start': 2913.28, 'duration': 2.16}
+{'text': "[\xa0__\xa0] up or something that's how i", 'start': 2914.4, 'duration': 2.4}
+{'text': 'figure so when i go through and i read', 'start': 2915.44, 'duration': 2.399}
+{'text': 'feedback at the end of the day and', 'start': 2916.8, 'duration': 2.88}
+{'text': 'everybody is um calling me a [\xa0__\xa0] you', 'start': 2917.839, 'duration': 3.681}
+{'text': 'know virgin whatever crazy random [\xa0__\xa0]', 'start': 2919.68, 'duration': 3.28}
+{'text': 'people say about me then i probably said', 'start': 2921.52, 'duration': 2.4}
+{'text': "something's pretty correct and that's", 'start': 2922.96, 'duration': 2.32}
+{'text': "why they are lashing out and they're", 'start': 2923.92, 'duration': 2.399}
+{'text': "upset and they don't have anything else", 'start': 2925.28, 'duration': 2.64}
+{'text': 'to say but if i say something like oh', 'start': 2926.319, 'duration': 2.961}
+{'text': "jesse didn't know about this or that or", 'start': 2927.92, 'duration': 2.399}
+{'text': "he didn't even know this thing and it", 'start': 2929.28, 'duration': 2.16}
+{'text': 'was like oh [\xa0__\xa0] well maybe i missed', 'start': 2930.319, 'duration': 3.52}
+{'text': 'some factual stuff um all criticism', 'start': 2931.44, 'duration': 4.72}
+{'text': 'comes from a place that makes sense um', 'start': 2933.839, 'duration': 4.401}
+{'text': 'it might just not be like immediately', 'start': 2936.16, 'duration': 4.72}
+{'text': 'sensible right like um like like a', 'start': 2938.24, 'duration': 4.64}
+{'text': "republic i don't see a republican a guy", 'start': 2940.88, 'duration': 3.439}
+{'text': 'that is constantly homophobic throughout', 'start': 2942.88, 'duration': 3.679}
+{'text': "his entire life who's secretly gay like", 'start': 2944.319, 'duration': 4.721}
+{'text': 'his homophobia can make sense and that', 'start': 2946.559, 'duration': 4.161}
+{'text': "we can understand where it's coming from", 'start': 2949.04, 'duration': 3.2}
+{'text': 'but it might not seem like a super', 'start': 2950.72, 'duration': 2.96}
+{'text': "logical thing but like that doesn't mean", 'start': 2952.24, 'duration': 3.839}
+{'text': "it's like beyond the pale of", 'start': 2953.68, 'duration': 4.96}
+{'text': 'comprehension does that make sense', 'start': 2956.079, 'duration': 4.401}
+{'text': 'yeah', 'start': 2958.64, 'duration': 3.76}
+{'text': 'to be fair your community sometimes', 'start': 2960.48, 'duration': 3.44}
+{'text': "gives arguments and they're just really", 'start': 2962.4, 'duration': 3.84}
+{'text': 'dumb or they hyper focus on one specific', 'start': 2963.92, 'duration': 3.52}
+{'text': 'thing to the detriment of the whole', 'start': 2966.24, 'duration': 3.359}
+{'text': "thing so i don't know if that i agree", 'start': 2967.44, 'duration': 3.36}
+{'text': 'like does it matter if you have one', 'start': 2969.599, 'duration': 2.881}
+{'text': "styrofoam cup or a thousand it's not", 'start': 2970.8, 'duration': 3.36}
+{'text': 'much of a difference right if anything', 'start': 2972.48, 'duration': 2.96}
+{'text': 'buying a thousand one is probably better', 'start': 2974.16, 'duration': 2.159}
+{'text': "because you're not going to the store", 'start': 2975.44, 'duration': 1.919}
+{'text': "every time you're getting them in", 'start': 2976.319, 'duration': 2.961}
+{'text': 'different 20 and 20 styrofoam cup packs', 'start': 2977.359, 'duration': 4.0}
+{'text': 'i agree even my community makes a lot of', 'start': 2979.28, 'duration': 4.48}
+{'text': 'dumb [\xa0__\xa0] arguments 100 of happiness you', 'start': 2981.359, 'duration': 3.921}
+{'text': 'know a lot of my community here are', 'start': 2983.76, 'duration': 3.28}
+{'text': 'still eating out of sugar cones instead', 'start': 2985.28, 'duration': 3.44}
+{'text': 'of eating uh or waffle cone instead of', 'start': 2987.04, 'duration': 3.2}
+{'text': 'the superior sugar cones you know no', 'start': 2988.72, 'duration': 3.76}
+{'text': "community is perfect um yeah it's", 'start': 2990.24, 'duration': 3.68}
+{'text': "impossible it's really really really", 'start': 2992.48, 'duration': 2.96}
+{'text': 'hard because you either have communities', 'start': 2993.92, 'duration': 2.639}
+{'text': 'that will circle jerk the [\xa0__\xa0] out of', 'start': 2995.44, 'duration': 2.72}
+{'text': 'you which mine does to me sometimes or', 'start': 2996.559, 'duration': 2.641}
+{'text': 'you have communities that will like', 'start': 2998.16, 'duration': 2.399}
+{'text': 'relentlessly attack you in every single', 'start': 2999.2, 'duration': 3.2}
+{'text': 'thing which might sometimes or other', 'start': 3000.559, 'duration': 4.401}
+{'text': "people do all the time so it's a it's an", 'start': 3002.4, 'duration': 5.12}
+{'text': 'impossible terrain to navigate or', 'start': 3004.96, 'duration': 4.08}
+{'text': 'landscape to navigate like a lot of', 'start': 3007.52, 'duration': 3.28}
+{'text': "larger content creators don't engage", 'start': 3009.04, 'duration': 3.279}
+{'text': "with public feedback at all because it's", 'start': 3010.8, 'duration': 3.039}
+{'text': "so difficult to do it that's probably", 'start': 3012.319, 'duration': 2.881}
+{'text': "the norm when you're a larger content", 'start': 3013.839, 'duration': 2.961}
+{'text': "creator you just don't engage with any", 'start': 3015.2, 'duration': 2.639}
+{'text': "of it you don't read any of it you've", 'start': 3016.8, 'duration': 2.48}
+{'text': 'got a person that manages it you tweet', 'start': 3017.839, 'duration': 2.401}
+{'text': 'and then you turn your phone off you', 'start': 3019.28, 'duration': 3.52}
+{'text': 'never look back', 'start': 3020.24, 'duration': 2.56}
+{'text': 'okay all right', 'start': 3024.839, 'duration': 5.801}
+{'text': 'okay [\xa0__\xa0]', 'start': 3027.68, 'duration': 2.96}
+{'text': "well i'm happy we had this conversation", 'start': 3030.72, 'duration': 4.72}
+{'text': "i'm happy we okay we got", 'start': 3032.88, 'duration': 5.6}
+{'text': 'feisty and then i conceded so you would', 'start': 3035.44, 'duration': 5.28}
+{'text': 'be quiet no', 'start': 3038.48, 'duration': 3.68}
+{'text': "i don't care i don't care if you can see", 'start': 3040.72, 'duration': 2.72}
+{'text': "tonight that's never the care if you", 'start': 3042.16, 'duration': 2.399}
+{'text': 'want to see me going through the same', 'start': 3043.44, 'duration': 2.32}
+{'text': "thing because i've had to think a lot", 'start': 3044.559, 'duration': 3.681}
+{'text': 'about this um my analysis of things that', 'start': 3045.76, 'duration': 4.48}
+{'text': 'lauren southern says has been super', 'start': 3048.24, 'duration': 3.92}
+{'text': 'tested because for that whole like two', 'start': 3050.24, 'duration': 3.359}
+{'text': "month period before we'd actually had", 'start': 3052.16, 'duration': 2.959}
+{'text': 'like any formal debates my whole queen', 'start': 3053.599, 'duration': 3.52}
+{'text': 'is like oh this is obviously white', 'start': 3055.119, 'duration': 3.601}
+{'text': 'nationalist dog whistle she went through', 'start': 3057.119, 'duration': 3.281}
+{'text': 'her left eye hitler was known for doing', 'start': 3058.72, 'duration': 3.359}
+{'text': "that oh my god she's secretly blah blah", 'start': 3060.4, 'duration': 2.64}
+{'text': 'blah blah blah blah blah every [\xa0__\xa0]', 'start': 3062.079, 'duration': 2.641}
+{'text': 'day anytime i would say anything oh my', 'start': 3063.04, 'duration': 2.96}
+{'text': "god league of legends didn't you hear", 'start': 3064.72, 'duration': 2.56}
+{'text': 'when she was hooking with thrash she was', 'start': 3066.0, 'duration': 2.48}
+{'text': 'saying this is just like one of my', 'start': 3067.28, 'duration': 2.88}
+{'text': 'ancestors owned the slave blah blah blah', 'start': 3068.48, 'duration': 3.359}
+{'text': 'like every [\xa0__\xa0] post there were like', 'start': 3070.16, 'duration': 2.959}
+{'text': '20 of them and i had to think for a long', 'start': 3071.839, 'duration': 2.48}
+{'text': 'time i was like okay [\xa0__\xa0] am i being', 'start': 3073.119, 'duration': 3.2}
+{'text': 'overly charitable to lauren southern uh', 'start': 3074.319, 'duration': 3.681}
+{'text': 'am i actually like missing like a ton of', 'start': 3076.319, 'duration': 3.04}
+{'text': '[\xa0__\xa0] or like are people just really', 'start': 3078.0, 'duration': 3.2}
+{'text': "[\xa0__\xa0] mad like it's it is almost it is", 'start': 3079.359, 'duration': 4.321}
+{'text': 'an inhumane task to try to sort through', 'start': 3081.2, 'duration': 4.96}
+{'text': 'um that type of public feedback and try', 'start': 3083.68, 'duration': 3.919}
+{'text': 'to like discern like okay well what', 'start': 3086.16, 'duration': 3.04}
+{'text': 'criticism here i found in reality that', 'start': 3087.599, 'duration': 3.441}
+{'text': 'demand my attention and what criticisms', 'start': 3089.2, 'duration': 3.2}
+{'text': 'are just people being mad and then can i', 'start': 3091.04, 'duration': 2.48}
+{'text': 'do something to alleviate that or should', 'start': 3092.4, 'duration': 2.56}
+{'text': "i just ignore it it's really really", 'start': 3093.52, 'duration': 4.319}
+{'text': 'really difficult to do', 'start': 3094.96, 'duration': 2.879}
+{'text': "okay i'm crying", 'start': 3098.16, 'duration': 4.32}
+{'text': 'okay', 'start': 3100.559, 'duration': 3.601}
+{'text': 'where are you at now where do you live', 'start': 3102.48, 'duration': 3.92}
+{'text': 'now', 'start': 3104.16, 'duration': 2.24}
+{'text': "i'm in such a shitty [\xa0__\xa0] place dude", 'start': 3106.559, 'duration': 5.04}
+{'text': 'romania is so gross', 'start': 3109.2, 'duration': 5.119}
+{'text': 'romania holy [\xa0__\xa0]', 'start': 3111.599, 'duration': 4.24}
+{'text': 'what are you damn you have fiber', 'start': 3114.319, 'duration': 2.531}
+{'text': 'internet at least right', 'start': 3115.839, 'duration': 3.041}
+{'text': '[Laughter]', 'start': 3116.85, 'duration': 3.07}
+{'text': 'no', 'start': 3118.88, 'duration': 2.64}
+{'text': 'i think i do', 'start': 3119.92, 'duration': 3.6}
+{'text': 'yeah', 'start': 3121.52, 'duration': 4.64}
+{'text': 'um oh your [\xa0__\xa0] subreddit thinks that', 'start': 3123.52, 'duration': 4.4}
+{'text': 'we hate each other or something like', 'start': 3126.16, 'duration': 4.56}
+{'text': 'that can you like alleviate their thing', 'start': 3127.92, 'duration': 4.399}
+{'text': 'is that like any time anybody makes a', 'start': 3130.72, 'duration': 3.119}
+{'text': 'mean comment about anybody they think', 'start': 3132.319, 'duration': 2.721}
+{'text': 'that because your clip was like oh', 'start': 3133.839, 'duration': 3.76}
+{'text': "destiny's opinions are [\xa0__\xa0] stupid", 'start': 3135.04, 'duration': 3.76}
+{'text': 'you see stuff like that i just assume', 'start': 3137.599, 'duration': 2.321}
+{'text': "people are talking [\xa0__\xa0] i don't really", 'start': 3138.8, 'duration': 2.48}
+{'text': 'care that much and i think somebody even', 'start': 3139.92, 'duration': 2.56}
+{'text': "asked me like oh i'm assuming he's like", 'start': 3141.28, 'duration': 2.4}
+{'text': '[\xa0__\xa0] around or whatever but like', 'start': 3142.48, 'duration': 2.48}
+{'text': 'people will see that sometimes like oh', 'start': 3143.68, 'duration': 2.56}
+{'text': 'my god he thinks that every single', 'start': 3144.96, 'duration': 3.2}
+{'text': 'opinion is really [\xa0__\xa0] bad dan was', 'start': 3146.24, 'duration': 3.2}
+{'text': 'right burn the brit like people will go', 'start': 3148.16, 'duration': 2.72}
+{'text': "like crazy like hardcore i don't know", 'start': 3149.44, 'duration': 3.44}
+{'text': "just people do what they do so that's", 'start': 3150.88, 'duration': 4.08}
+{'text': 'always gonna be a good thing', 'start': 3152.88, 'duration': 3.439}
+{'text': 'of course i read all my subreddit of', 'start': 3154.96, 'duration': 4.159}
+{'text': 'course what do you mean okay okay oh i', 'start': 3156.319, 'duration': 4.321}
+{'text': 'know', 'start': 3159.119, 'duration': 2.641}
+{'text': 'yeah', 'start': 3160.64, 'duration': 3.36}
+{'text': 'huh okay', 'start': 3161.76, 'duration': 3.68}
+{'text': 'just wanted to confirm that because', 'start': 3164.0, 'duration': 3.599}
+{'text': "people get crazy it's good to know that", 'start': 3165.44, 'duration': 3.679}
+{'text': 'you know', 'start': 3167.599, 'duration': 4.0}
+{'text': 'oh yeah 100 yeah people do it the only', 'start': 3169.119, 'duration': 4.081}
+{'text': "thing that bothers me and you've never", 'start': 3171.599, 'duration': 2.96}
+{'text': 'done this before but the only thing is', 'start': 3173.2, 'duration': 2.399}
+{'text': 'when somebody takes a lot of shots', 'start': 3174.559, 'duration': 2.321}
+{'text': 'publicly but then they get mad when you', 'start': 3175.599, 'duration': 2.48}
+{'text': 'shoot back that was one of the big', 'start': 3176.88, 'duration': 2.959}
+{'text': "issues i've had with other not political", 'start': 3178.079, 'duration': 3.04}
+{'text': 'people but other large content creators', 'start': 3179.839, 'duration': 2.72}
+{'text': 'on twitch will like constantly make', 'start': 3181.119, 'duration': 3.44}
+{'text': 'jokes about me or they used to like oh', 'start': 3182.559, 'duration': 3.28}
+{'text': 'those two triple moments like okay well', 'start': 3184.559, 'duration': 2.8}
+{'text': 'you know well this guy does this thing', 'start': 3185.839, 'duration': 2.881}
+{'text': 'but then whenever i would like fire back', 'start': 3187.359, 'duration': 2.641}
+{'text': "it'd be like what the [\xa0__\xa0] dude that's", 'start': 3188.72, 'duration': 2.48}
+{'text': "so mean why would you do that they'd", 'start': 3190.0, 'duration': 2.96}
+{'text': 'like it really like ask matt about it', 'start': 3191.2, 'duration': 3.28}
+{'text': "and dm me and she's like okay [\xa0__\xa0] you", 'start': 3192.96, 'duration': 3.28}
+{'text': 'but um yeah i mean as long as that i', 'start': 3194.48, 'duration': 3.2}
+{'text': "mean but we don't do that so it's all", 'start': 3196.24, 'duration': 3.599}
+{'text': 'good it is what it is so the next time i', 'start': 3197.68, 'duration': 3.6}
+{'text': 'hear you say something mean about me i', 'start': 3199.839, 'duration': 3.28}
+{'text': 'have to be like well you know we did say', 'start': 3201.28, 'duration': 3.68}
+{'text': 'some [\xa0__\xa0] about destiny so you gotta let', 'start': 3203.119, 'duration': 3.121}
+{'text': 'it go', 'start': 3204.96, 'duration': 2.24}
+{'text': "i don't think i say mean things about", 'start': 3206.24, 'duration': 2.64}
+{'text': "you that often do i i don't think you do", 'start': 3207.2, 'duration': 4.32}
+{'text': 'really at all um yeah okay especially', 'start': 3208.88, 'duration': 4.4}
+{'text': "because like if there's like a jerk wave", 'start': 3211.52, 'duration': 3.2}
+{'text': 'where my sub is like being hating', 'start': 3213.28, 'duration': 2.4}
+{'text': "towards you because you're giving a take", 'start': 3214.72, 'duration': 2.399}
+{'text': "that you don't like if i were to say", 'start': 3215.68, 'duration': 2.96}
+{'text': 'something like oh yeah book smarts is', 'start': 3217.119, 'duration': 3.041}
+{'text': 'just really dumb here or whatever then i', 'start': 3218.64, 'duration': 3.76}
+{'text': 'would like dramatically empower every', 'start': 3220.16, 'duration': 3.76}
+{'text': 'negative commenter in that threat and', 'start': 3222.4, 'duration': 2.8}
+{'text': 'they would be like [\xa0__\xa0] super', 'start': 3223.92, 'duration': 3.52}
+{'text': 'energized and like holy [\xa0__\xa0] destiny', 'start': 3225.2, 'duration': 3.6}
+{'text': 'agreed with us book smarts is the', 'start': 3227.44, 'duration': 3.44}
+{'text': '[\xa0__\xa0] demon hell spawn like oh and', 'start': 3228.8, 'duration': 3.519}
+{'text': "then it's gonna be like a million times", 'start': 3230.88, 'duration': 3.28}
+{'text': 'worse so i try not to like piggyback', 'start': 3232.319, 'duration': 3.361}
+{'text': 'onto like feedback like that that would', 'start': 3234.16, 'duration': 3.28}
+{'text': 'be like really [\xa0__\xa0] up i think damn', 'start': 3235.68, 'duration': 3.84}
+{'text': "well thanks good to know you don't do it", 'start': 3237.44, 'duration': 4.24}
+{'text': 'for money', 'start': 3239.52, 'duration': 4.16}
+{'text': "well everybody all right i'll talk to", 'start': 3241.68, 'duration': 3.2}
+{'text': 'you later', 'start': 3243.68, 'duration': 3.6}
+{'text': "okay stay safe okay i will i'll try not", 'start': 3244.88, 'duration': 6.4}
+{'text': 'to be a dumb [\xa0__\xa0] bye', 'start': 3247.28, 'duration': 4.0}

@@ -1,0 +1,894 @@
+{'text': 'i will suck the meat off your cup if you', 'start': 0.08, 'duration': 3.44}
+{'text': 'can get', 'start': 2.96, 'duration': 2.72}
+{'text': "richard wolff to say that he didn't mean", 'start': 3.52, 'duration': 5.119}
+{'text': 'dividends when he said dividends', 'start': 5.68, 'duration': 4.8}
+{'text': 'he he literally says it during the', 'start': 8.639, 'duration': 4.08}
+{'text': 'debate he literally says it like a', 'start': 10.48, 'duration': 3.6}
+{'text': 'couple minutes later', 'start': 12.719, 'duration': 2.96}
+{'text': 'did you not listen to the conversation', 'start': 14.08, 'duration': 3.6}
+{'text': "doesn't say it", 'start': 15.679, 'duration': 3.6}
+{'text': 'can somebody pull up the video the', 'start': 17.68, 'duration': 4.4}
+{'text': "company's responsible to run the company", 'start': 19.279, 'duration': 5.121}
+{'text': 'they are not responsible to give money', 'start': 22.08, 'duration': 4.56}
+{'text': "back whether it's dividend return of", 'start': 24.4, 'duration': 3.039}
+{'text': 'capital or', 'start': 26.64, 'duration': 3.84}
+{'text': 'any other way boom done okay', 'start': 27.439, 'duration': 4.24}
+{'text': "you know i'll see you at twitchcon okay", 'start': 30.48, 'duration': 2.56}
+{'text': 'wait wait wait wait wait so he literally', 'start': 31.679, 'duration': 1.921}
+{'text': 'says', 'start': 33.04, 'duration': 4.32}
+{'text': 'weather you had some big thoughts', 'start': 33.6, 'duration': 6.56}
+{'text': "big faults yesterday's debate thanks for", 'start': 37.36, 'duration': 4.64}
+{'text': 'the good youtube content yeah i mean', 'start': 40.16, 'duration': 2.16}
+{'text': 'like', 'start': 42.0, 'duration': 3.12}
+{'text': 'did you hear about', 'start': 42.32, 'duration': 2.8}
+{'text': "i'm not sure i agree with a good portion", 'start': 48.64, 'duration': 3.759}
+{'text': 'of it um we can talk about it if you', 'start': 50.399, 'duration': 3.281}
+{'text': "want a lot of lefties don't understand", 'start': 52.399, 'duration': 3.041}
+{'text': 'capital markets at all so be glad to', 'start': 53.68, 'duration': 3.359}
+{'text': 'explain it if i need to', 'start': 55.44, 'duration': 3.2}
+{'text': 'um i think the primary problem was that', 'start': 57.039, 'duration': 3.04}
+{'text': 'you you', 'start': 58.64, 'duration': 3.919}
+{'text': 'made the claim that dividends are', 'start': 60.079, 'duration': 4.001}
+{'text': 'something that companies have to pay out', 'start': 62.559, 'duration': 2.721}
+{'text': "and it's not the way", 'start': 64.08, 'duration': 3.52}
+{'text': 'that currently companies work public', 'start': 65.28, 'duration': 4.96}
+{'text': 'companies anyways', 'start': 67.6, 'duration': 2.64}
+{'text': 'yeah so i addressed this later on in the', 'start': 71.119, 'duration': 3.68}
+{'text': 'debate right like', 'start': 73.119, 'duration': 2.881}
+{'text': "dividends aren't the only way to return", 'start': 74.799, 'duration': 3.281}
+{'text': 'capital shareholders right oh yeah of', 'start': 76.0, 'duration': 3.92}
+{'text': "course i'm specifically critiquing the", 'start': 78.08, 'duration': 2.8}
+{'text': 'dividend point', 'start': 79.92, 'duration': 3.04}
+{'text': "okay that's like a literal non-point i", 'start': 80.88, 'duration': 3.52}
+{'text': "mean i guess but it's like", 'start': 82.96, 'duration': 2.88}
+{'text': "not it's non-point like i literally", 'start': 84.4, 'duration': 2.64}
+{'text': 'clarify later on like you have an', 'start': 85.84, 'duration': 2.16}
+{'text': 'obligation to return value to', 'start': 87.04, 'duration': 2.079}
+{'text': 'shareholders i think i said dividends', 'start': 88.0, 'duration': 2.159}
+{'text': "the first time but obviously there's", 'start': 89.119, 'duration': 2.561}
+{'text': 'like multiple ways to do that', 'start': 90.159, 'duration': 3.761}
+{'text': 'okay cool so we agree about that um so', 'start': 91.68, 'duration': 3.28}
+{'text': 'the other ways to pay out to', 'start': 93.92, 'duration': 2.48}
+{'text': 'shareholders', 'start': 94.96, 'duration': 2.72}
+{'text': 'which are the other ways which you that', 'start': 96.4, 'duration': 3.12}
+{'text': 'you want to discuss', 'start': 97.68, 'duration': 3.36}
+{'text': 'um anyways i mean you can grow the', 'start': 99.52, 'duration': 2.959}
+{'text': 'evaluation of the company um as a', 'start': 101.04, 'duration': 2.48}
+{'text': 'company grows your shares with when you', 'start': 102.479, 'duration': 1.92}
+{'text': 'can sell it uh', 'start': 103.52, 'duration': 2.239}
+{'text': 'you can increase the price of patrol by', 'start': 104.399, 'duration': 3.281}
+{'text': 'doing a stock buyback', 'start': 105.759, 'duration': 4.081}
+{'text': "um there's probably more exotic ways to", 'start': 107.68, 'duration': 3.52}
+{'text': 'turn return value to shareholders as', 'start': 109.84, 'duration': 2.319}
+{'text': "well but those are the two that i'm most", 'start': 111.2, 'duration': 2.879}
+{'text': 'familiar with', 'start': 112.159, 'duration': 5.121}
+{'text': 'and so i think in the debate richard', 'start': 114.079, 'duration': 4.961}
+{'text': 'wolff states this he says that like a', 'start': 117.28, 'duration': 4.08}
+{'text': 'co-op can have multiple different ways', 'start': 119.04, 'duration': 4.48}
+{'text': 'for wanting or sorry multiple different', 'start': 121.36, 'duration': 4.48}
+{'text': 'goals one of which can be profit', 'start': 123.52, 'duration': 4.239}
+{'text': 'a worker co-op can continue to want to', 'start': 125.84, 'duration': 4.88}
+{'text': 'be profitable and continue to expand', 'start': 127.759, 'duration': 4.241}
+{'text': 'um and that would be in line with what', 'start': 130.72, 'duration': 3.28}
+{'text': "shareholders would want it's just one of", 'start': 132.0, 'duration': 4.16}
+{'text': 'many goals', 'start': 134.0, 'duration': 5.36}
+{'text': 'no um so the problem is that the goal', 'start': 136.16, 'duration': 5.439}
+{'text': 'of workers within a worker co-op is', 'start': 139.36, 'duration': 4.08}
+{'text': 'going to be to maximize for themselves', 'start': 141.599, 'duration': 3.601}
+{'text': "it's not going to generate profit for an", 'start': 143.44, 'duration': 3.84}
+{'text': 'external investor we could theoretically', 'start': 145.2, 'duration': 3.679}
+{'text': 'come up with a co-op model', 'start': 147.28, 'duration': 3.52}
+{'text': 'where an external investor is able to', 'start': 148.879, 'duration': 3.041}
+{'text': 'buy in and gain', 'start': 150.8, 'duration': 3.36}
+{'text': 'equity and then when the company grows', 'start': 151.92, 'duration': 3.84}
+{'text': 'that shareholder can sell off their', 'start': 154.16, 'duration': 2.24}
+{'text': 'equity', 'start': 155.76, 'duration': 2.8}
+{'text': "but then we don't really have like the", 'start': 156.4, 'duration': 3.68}
+{'text': 'prop like we have the exploitation of', 'start': 158.56, 'duration': 2.319}
+{'text': 'the worker again', 'start': 160.08, 'duration': 3.2}
+{'text': "like we're just back at capitalism okay", 'start': 160.879, 'duration': 3.041}
+{'text': 'so i want to', 'start': 163.28, 'duration': 3.36}
+{'text': 'say something just because the profit', 'start': 163.92, 'duration': 3.28}
+{'text': 'motivation', 'start': 166.64, 'duration': 2.16}
+{'text': "motivation isn't necessarily for the", 'start': 167.2, 'duration': 3.28}
+{'text': "shareholders doesn't mean that", 'start': 168.8, 'duration': 4.159}
+{'text': "the workers don't want more profit more", 'start': 170.48, 'duration': 3.839}
+{'text': 'profit for the company means that the', 'start': 172.959, 'duration': 2.961}
+{'text': 'workers all get paid out more', 'start': 174.319, 'duration': 3.441}
+{'text': "it's definitely in line with the workers", 'start': 175.92, 'duration': 3.679}
+{'text': 'goals to want the company to be more', 'start': 177.76, 'duration': 2.559}
+{'text': 'profitable', 'start': 179.599, 'duration': 3.201}
+{'text': "but the problem is is that if if it's", 'start': 180.319, 'duration': 4.961}
+{'text': "worker man so if it's a privately run", 'start': 182.8, 'duration': 3.12}
+{'text': 'firm', 'start': 185.28, 'duration': 2.48}
+{'text': "you need profit because it's the only", 'start': 185.92, 'duration': 3.44}
+{'text': 'way that you can get anything out of it', 'start': 187.76, 'duration': 3.52}
+{'text': "if it's a work or run firm there are", 'start': 189.36, 'duration': 3.12}
+{'text': 'ways to return', 'start': 191.28, 'duration': 3.679}
+{'text': "money to the workers that don't or other", 'start': 192.48, 'duration': 4.0}
+{'text': "value to the workers that don't involve", 'start': 194.959, 'duration': 2.481}
+{'text': 'profit at all', 'start': 196.48, 'duration': 3.36}
+{'text': 'so for instance one way could be to just', 'start': 197.44, 'duration': 3.92}
+{'text': 'increase the wages of every single', 'start': 199.84, 'duration': 3.039}
+{'text': 'worker which would leave any like', 'start': 201.36, 'duration': 3.2}
+{'text': 'private holder like completely [\xa0__\xa0]', 'start': 202.879, 'duration': 2.961}
+{'text': "because they're not working there um", 'start': 204.56, 'duration': 2.64}
+{'text': 'another way might be to', 'start': 205.84, 'duration': 3.039}
+{'text': 'um make it so that the workers have to', 'start': 207.2, 'duration': 2.88}
+{'text': "work less it'd be a way of giving them", 'start': 208.879, 'duration': 1.92}
+{'text': "more value they don't", 'start': 210.08, 'duration': 1.76}
+{'text': 'they can take certain days off which', 'start': 210.799, 'duration': 2.561}
+{'text': "wouldn't grow the value of the company", 'start': 211.84, 'duration': 3.039}
+{'text': 'um those are just two ways that you', 'start': 213.36, 'duration': 3.04}
+{'text': 'could return a lot of value to the', 'start': 214.879, 'duration': 2.481}
+{'text': 'worker owners', 'start': 216.4, 'duration': 2.479}
+{'text': 'that would leave like private investors', 'start': 217.36, 'duration': 2.56}
+{'text': "just completely [\xa0__\xa0] and they'd be", 'start': 218.879, 'duration': 3.041}
+{'text': 'totally valid ways for for worker owners', 'start': 219.92, 'duration': 3.2}
+{'text': 'to return value to themselves', 'start': 221.92, 'duration': 2.319}
+{'text': "yeah of course of course i don't", 'start': 223.12, 'duration': 3.36}
+{'text': 'disagree um the reality is', 'start': 224.239, 'duration': 3.601}
+{'text': 'these are just some of the things that', 'start': 226.48, 'duration': 3.039}
+{'text': 'the workers can choose to vote on the', 'start': 227.84, 'duration': 2.959}
+{'text': 'workers very likely', 'start': 229.519, 'duration': 3.92}
+{'text': 'could choose to vote to use the extra', 'start': 230.799, 'duration': 4.321}
+{'text': 'profits generated in that quarter', 'start': 233.439, 'duration': 3.841}
+{'text': 'to expand it and like a new sector', 'start': 235.12, 'duration': 3.839}
+{'text': "because they know it'll be profitable", 'start': 237.28, 'duration': 3.039}
+{'text': 'which will lead to better returns for', 'start': 238.959, 'duration': 3.681}
+{'text': 'them or some better investment plans for', 'start': 240.319, 'duration': 3.521}
+{'text': "them well i don't know how you use", 'start': 242.64, 'duration': 2.64}
+{'text': 'profit to expand', 'start': 243.84, 'duration': 2.479}
+{'text': "i don't know what that means i don't", 'start': 245.28, 'duration': 3.2}
+{'text': 'know how you would do that with a co-op', 'start': 246.319, 'duration': 5.84}
+{'text': 'you would generate profit from your', 'start': 248.48, 'duration': 5.839}
+{'text': 'businesses you would pay that profit out', 'start': 252.159, 'duration': 4.241}
+{'text': 'maybe to through dividends if you wanted', 'start': 254.319, 'duration': 3.121}
+{'text': 'to get investors', 'start': 256.4, 'duration': 2.799}
+{'text': 'wait can you explain to me how you', 'start': 257.44, 'duration': 3.68}
+{'text': 'generate profit as a co-op and expand', 'start': 259.199, 'duration': 3.921}
+{'text': 'with the profit', 'start': 261.12, 'duration': 3.76}
+{'text': "so let's say you're selling a good as a", 'start': 263.12, 'duration': 3.84}
+{'text': 'co-op your worker co-op', 'start': 264.88, 'duration': 4.64}
+{'text': 'produces cranberry juice okay your', 'start': 266.96, 'duration': 5.12}
+{'text': 'cranberry juice the labor that it costs', 'start': 269.52, 'duration': 5.84}
+{'text': 'to create that is', 'start': 272.08, 'duration': 5.52}
+{'text': 'cheaper than what it costs to sell it', 'start': 275.36, 'duration': 3.04}
+{'text': 'you can choose', 'start': 277.6, 'duration': 3.28}
+{'text': 'whatever extra generated profit that is', 'start': 278.4, 'duration': 4.32}
+{'text': 'created that quarter can be chosen to be', 'start': 280.88, 'duration': 2.8}
+{'text': 'paid back', 'start': 282.72, 'duration': 4.4}
+{'text': 'into the company or it can be chosen to', 'start': 283.68, 'duration': 5.44}
+{'text': "i'm asking more investments okay let me", 'start': 287.12, 'duration': 3.2}
+{'text': 'get to the meat of my question', 'start': 289.12, 'duration': 3.2}
+{'text': 'so if you generate additional capital or', 'start': 290.32, 'duration': 3.84}
+{'text': 'if you generate a lot of profit in a', 'start': 292.32, 'duration': 3.12}
+{'text': 'company you want to expand', 'start': 294.16, 'duration': 2.88}
+{'text': 'usually the way that that expansion goes', 'start': 295.44, 'duration': 3.36}
+{'text': 'is by hiring more workers but in a co-op', 'start': 297.04, 'duration': 3.12}
+{'text': "you can't hire workers workers have to", 'start': 298.8, 'duration': 3.36}
+{'text': "buy in right you're not paying workers", 'start': 300.16, 'duration': 3.2}
+{'text': 'um they have to get a share of your', 'start': 302.16, 'duration': 3.52}
+{'text': "company so i i don't know with the idea", 'start': 303.36, 'duration': 2.8}
+{'text': 'of like', 'start': 305.68, 'duration': 1.76}
+{'text': 'a company generating profit and then', 'start': 306.16, 'duration': 2.64}
+{'text': "using it to hire new workers i don't", 'start': 307.44, 'duration': 2.96}
+{'text': "think a co-op does that but you don't", 'start': 308.8, 'duration': 4.32}
+{'text': 'believe in like automation', 'start': 310.4, 'duration': 4.32}
+{'text': "that's totally not related to this at", 'start': 313.12, 'duration': 3.519}
+{'text': 'all no i mean the workers can very much', 'start': 314.72, 'duration': 2.8}
+{'text': 'so choose', 'start': 316.639, 'duration': 3.681}
+{'text': 'to use the extra profits and put that', 'start': 317.52, 'duration': 4.72}
+{'text': 'into automation that will have', 'start': 320.32, 'duration': 4.4}
+{'text': 'the cranberry bottles close through', 'start': 322.24, 'duration': 3.679}
+{'text': "machinery you don't have to pay those", 'start': 324.72, 'duration': 2.08}
+{'text': 'workers or', 'start': 325.919, 'duration': 2.72}
+{'text': 'give them extra shares or whatever you', 'start': 326.8, 'duration': 3.36}
+{'text': 'can generate profit', 'start': 328.639, 'duration': 3.041}
+{'text': 'and use that profit in ways where you', 'start': 330.16, 'duration': 3.039}
+{'text': "don't necessarily have to hire more", 'start': 331.68, 'duration': 4.4}
+{'text': 'workers to do so', 'start': 333.199, 'duration': 2.881}
+{'text': "um i guess theoretically that's possible", 'start': 336.16, 'duration': 7.599}
+{'text': "um it's also possible for a business to", 'start': 340.32, 'duration': 5.599}
+{'text': 'be really a worker co-op to be run', 'start': 343.759, 'duration': 3.121}
+{'text': 'really', 'start': 345.919, 'duration': 3.28}
+{'text': 'idiotically and well the problem the pro', 'start': 346.88, 'duration': 3.84}
+{'text': 'so the problem with the initial thing', 'start': 349.199, 'duration': 2.481}
+{'text': 'that i said is that like', 'start': 350.72, 'duration': 2.88}
+{'text': "when you tell me that it's possible that", 'start': 351.68, 'duration': 3.84}
+{'text': 'workers could return a profit', 'start': 353.6, 'duration': 3.2}
+{'text': 'um and then i tell you that there are', 'start': 355.52, 'duration': 2.64}
+{'text': 'other possible ways that they can return', 'start': 356.8, 'duration': 2.56}
+{'text': 'value to themselves', 'start': 358.16, 'duration': 3.2}
+{'text': "as an investor i don't want to invest in", 'start': 359.36, 'duration': 3.6}
+{'text': 'a company where one of the possibilities', 'start': 361.36, 'duration': 2.72}
+{'text': 'is all the private industries get', 'start': 362.96, 'duration': 2.959}
+{'text': 'totally [\xa0__\xa0] by the people management', 'start': 364.08, 'duration': 3.76}
+{'text': 'so so this would be you would only make', 'start': 365.919, 'duration': 3.521}
+{'text': 'informed decisions as an investor', 'start': 367.84, 'duration': 2.96}
+{'text': 'so you could very easily look at their', 'start': 369.44, 'duration': 2.72}
+{'text': 'financial statements and see what they', 'start': 370.8, 'duration': 2.239}
+{'text': 'choose to do with their', 'start': 372.16, 'duration': 2.64}
+{'text': 'profits the informed decision you would', 'start': 373.039, 'duration': 3.361}
+{'text': 'make as an investor is to never ever', 'start': 374.8, 'duration': 3.36}
+{'text': 'ever invest in a work or run business', 'start': 376.4, 'duration': 2.96}
+{'text': "that's your informed decision because", 'start': 378.16, 'duration': 2.0}
+{'text': 'they have no obligation', 'start': 379.36, 'duration': 2.0}
+{'text': 'to return any profit to you their', 'start': 380.16, 'duration': 3.12}
+{'text': "obligation is to the workers yes that's", 'start': 381.36, 'duration': 4.559}
+{'text': "they manage the co-op it's their choice", 'start': 383.28, 'duration': 5.359}
+{'text': "here's the thing though the worker co-op", 'start': 385.919, 'duration': 4.321}
+{'text': 'and the workers in that co-op', 'start': 388.639, 'duration': 3.28}
+{'text': 'have shared interest and aligned', 'start': 390.24, 'duration': 3.04}
+{'text': 'interest with the shareholders', 'start': 391.919, 'duration': 3.441}
+{'text': 'they want their company to be profitable', 'start': 393.28, 'duration': 3.44}
+{'text': 'let me finish they want their company to', 'start': 395.36, 'duration': 3.119}
+{'text': 'be profitable', 'start': 396.72, 'duration': 3.12}
+{'text': "why wouldn't they want their company to", 'start': 398.479, 'duration': 3.121}
+{'text': 'be profitable when you say profitable', 'start': 399.84, 'duration': 4.479}
+{'text': 'what do you mean by that', 'start': 401.6, 'duration': 2.719}
+{'text': 'the business generates more revenue than', 'start': 404.56, 'duration': 4.0}
+{'text': 'it costs okay', 'start': 407.12, 'duration': 2.4}
+{'text': 'so this is like a fundamental', 'start': 408.56, 'duration': 3.199}
+{'text': 'misunderstanding so labor is a cost', 'start': 409.52, 'duration': 4.56}
+{'text': 'of doing business the reason why the', 'start': 411.759, 'duration': 4.081}
+{'text': "shareholders aren't aligned with labor", 'start': 414.08, 'duration': 2.559}
+{'text': 'is because', 'start': 415.84, 'duration': 2.56}
+{'text': 'labor while managing the company is', 'start': 416.639, 'duration': 4.0}
+{'text': 'actively trying to increase the cost of', 'start': 418.4, 'duration': 3.04}
+{'text': 'doing business', 'start': 420.639, 'duration': 2.321}
+{'text': 'which takes away from profits one of', 'start': 421.44, 'duration': 3.44}
+{'text': "those costs is labor that's why the", 'start': 422.96, 'duration': 3.679}
+{'text': 'interest is not aligned a private', 'start': 424.88, 'duration': 3.599}
+{'text': 'owner of a business wants to minimize', 'start': 426.639, 'duration': 3.201}
+{'text': 'costs which is labor', 'start': 428.479, 'duration': 3.28}
+{'text': "but if it's work or managed their goal", 'start': 429.84, 'duration': 3.68}
+{'text': 'is probably going to be to increase that', 'start': 431.759, 'duration': 2.241}
+{'text': 'cost', 'start': 433.52, 'duration': 1.84}
+{'text': "which is why you don't have an alignment", 'start': 434.0, 'duration': 3.36}
+{'text': 'here between private interest and worker', 'start': 435.36, 'duration': 2.64}
+{'text': 'owned interest', 'start': 437.36, 'duration': 3.36}
+{'text': 'wait this is this is just not the case', 'start': 438.0, 'duration': 3.36}
+{'text': 'um', 'start': 440.72, 'duration': 2.16}
+{'text': 'absolutely wait wait wait wait wait wait', 'start': 441.36, 'duration': 3.92}
+{'text': 'and we can look at like a micro scale of', 'start': 442.88, 'duration': 3.759}
+{'text': 'a business', 'start': 445.28, 'duration': 2.96}
+{'text': 'if there are plenty of businesses that', 'start': 446.639, 'duration': 3.041}
+{'text': 'are small startups', 'start': 448.24, 'duration': 3.6}
+{'text': 'and they choose to that the extra', 'start': 449.68, 'duration': 3.28}
+{'text': 'revenue that they', 'start': 451.84, 'duration': 3.12}
+{'text': 'have that they generate they choose to', 'start': 452.96, 'duration': 4.239}
+{'text': 'invest it and grow their operations you', 'start': 454.96, 'duration': 3.679}
+{'text': "don't think that like multiple people in", 'start': 457.199, 'duration': 2.881}
+{'text': 'a worker co-op could also make this', 'start': 458.639, 'duration': 2.96}
+{'text': 'decision that they would always choose', 'start': 460.08, 'duration': 2.32}
+{'text': 'to pay', 'start': 461.599, 'duration': 4.081}
+{'text': 'their themselves consistently they', 'start': 462.4, 'duration': 5.84}
+{'text': 'could do that or they could not do that', 'start': 465.68, 'duration': 4.56}
+{'text': 'they could do whatever they could do', 'start': 468.24, 'duration': 3.28}
+{'text': 'but the difference is but the difference', 'start': 470.24, 'duration': 2.56}
+{'text': "is that what i'm telling you is there", 'start': 471.52, 'duration': 2.32}
+{'text': 'are options there', 'start': 472.8, 'duration': 2.959}
+{'text': "if i'm investing in a private company", 'start': 473.84, 'duration': 3.359}
+{'text': 'with the fiduciary responsibility there', 'start': 475.759, 'duration': 2.801}
+{'text': "isn't an option i don't have to worry", 'start': 477.199, 'duration': 1.761}
+{'text': 'that', 'start': 478.56, 'duration': 1.759}
+{'text': 'maybe everybody that runs a company is', 'start': 478.96, 'duration': 2.639}
+{'text': 'going to vote to just give all of', 'start': 480.319, 'duration': 2.801}
+{'text': 'themselves a massive payout', 'start': 481.599, 'duration': 2.961}
+{'text': "and sure and that's why you would make", 'start': 483.12, 'duration': 4.32}
+{'text': 'the informed decision on whether or not', 'start': 484.56, 'duration': 4.72}
+{'text': 'i agree with you whether or not the', 'start': 487.44, 'duration': 3.68}
+{'text': 'financial statements seem to show', 'start': 489.28, 'duration': 3.359}
+{'text': 'that they care about expanding their', 'start': 491.12, 'duration': 2.88}
+{'text': "business if they don't don't put your", 'start': 492.639, 'duration': 3.84}
+{'text': 'money into that worker co-op', 'start': 494.0, 'duration': 4.639}
+{'text': "okay um you're just wrong but i don't", 'start': 496.479, 'duration': 3.361}
+{'text': 'know how else to explain it', 'start': 498.639, 'duration': 3.041}
+{'text': "i mean you fundamentally don't", 'start': 499.84, 'duration': 3.28}
+{'text': 'understand like', 'start': 501.68, 'duration': 3.04}
+{'text': "or you didn't earlier understand", 'start': 503.12, 'duration': 4.479}
+{'text': "dividends so i don't", 'start': 504.72, 'duration': 4.4}
+{'text': "i don't know if you genuinely believe", 'start': 507.599, 'duration': 2.72}
+{'text': "that or you just didn't listen to the", 'start': 509.12, 'duration': 2.639}
+{'text': 'entirety of the conversation or you', 'start': 510.319, 'duration': 2.72}
+{'text': "haven't heard me argue about stuff", 'start': 511.759, 'duration': 2.96}
+{'text': 'related to like stock buybacks like a', 'start': 513.039, 'duration': 2.8}
+{'text': 'million times in the past', 'start': 514.719, 'duration': 3.281}
+{'text': 'stephen you you thought that you thought', 'start': 515.839, 'duration': 3.68}
+{'text': 'that all public companies have to pay', 'start': 518.0, 'duration': 2.399}
+{'text': 'out dividends', 'start': 519.519, 'duration': 2.561}
+{'text': "they don't obviously all public", 'start': 520.399, 'duration': 2.721}
+{'text': 'companies understand dividends but they', 'start': 522.08, 'duration': 3.04}
+{'text': 'have an obligation to return', 'start': 523.12, 'duration': 3.92}
+{'text': 'you in the middle of a conversation i', 'start': 525.12, 'duration': 3.279}
+{'text': 'said dividends instead of returning', 'start': 527.04, 'duration': 2.72}
+{'text': 'value to shareholders', 'start': 528.399, 'duration': 4.0}
+{'text': 'you did do you like i have investments', 'start': 529.76, 'duration': 3.04}
+{'text': 'do you', 'start': 532.399, 'duration': 1.681}
+{'text': 'do you think that i believe that the', 'start': 532.8, 'duration': 2.88}
+{'text': 'only way my investments make money is', 'start': 534.08, 'duration': 2.64}
+{'text': 'with dividends like', 'start': 535.68, 'duration': 2.4}
+{'text': "you understand how uncharitable you're", 'start': 536.72, 'duration': 3.04}
+{'text': "being right i'm not being uncharted well", 'start': 538.08, 'duration': 2.96}
+{'text': "i'm repeating to you what you said in", 'start': 539.76, 'duration': 1.759}
+{'text': 'the debate', 'start': 541.04, 'duration': 2.239}
+{'text': "yeah but you didn't say it no it's not", 'start': 541.519, 'duration': 3.681}
+{'text': "about it's not about whether or not i", 'start': 543.279, 'duration': 2.481}
+{'text': 'said it no', 'start': 545.2, 'duration': 2.24}
+{'text': "i'm i'm actually i'm genuinely curious", 'start': 545.76, 'duration': 3.44}
+{'text': 'do you believe that i thought', 'start': 547.44, 'duration': 4.32}
+{'text': 'that literally the only possible way so', 'start': 549.2, 'duration': 4.0}
+{'text': "i'm somebody that's argued", 'start': 551.76, 'duration': 3.36}
+{'text': 'extensively about stock buybacks in the', 'start': 553.2, 'duration': 3.6}
+{'text': 'past right do you think that i believe', 'start': 555.12, 'duration': 2.64}
+{'text': "maybe you didn't know that even though", 'start': 556.8, 'duration': 2.159}
+{'text': 'it was like a [\xa0__\xa0] two-month argument', 'start': 557.76, 'duration': 2.639}
+{'text': 'stream do you think that i believe that', 'start': 558.959, 'duration': 3.121}
+{'text': 'the only possible way', 'start': 560.399, 'duration': 3.201}
+{'text': 'a privately run business can return', 'start': 562.08, 'duration': 2.8}
+{'text': 'value to shareholders with a dividend do', 'start': 563.6, 'duration': 2.4}
+{'text': 'you think that i believe that', 'start': 564.88, 'duration': 2.8}
+{'text': 'or are you being bad faith as [\xa0__\xa0] right', 'start': 566.0, 'duration': 2.88}
+{'text': 'now what do you think this this', 'start': 567.68, 'duration': 2.56}
+{'text': 'hyperbole is extreme', 'start': 568.88, 'duration': 3.68}
+{'text': 'and obviously there is no hyperbole what', 'start': 570.24, 'duration': 3.44}
+{'text': 'is that', 'start': 572.56, 'duration': 2.279}
+{'text': 'let me finish the question that you', 'start': 573.68, 'duration': 3.68}
+{'text': 'asked', 'start': 574.839, 'duration': 5.56}
+{'text': 'the hyperbole is extreme but', 'start': 577.36, 'duration': 6.0}
+{'text': "obviously you don't you can't possibly", 'start': 580.399, 'duration': 4.0}
+{'text': 'be', 'start': 583.36, 'duration': 2.56}
+{'text': "idiotic enough to think that that's the", 'start': 584.399, 'duration': 3.041}
+{'text': 'only way a company', 'start': 585.92, 'duration': 4.0}
+{'text': "pays its shareholders i i don't care", 'start': 587.44, 'duration': 3.519}
+{'text': 'then why are you trying to', 'start': 589.92, 'duration': 2.72}
+{'text': 'why are you trying to pretend that', 'start': 590.959, 'duration': 4.481}
+{'text': 'earlier that i believed that', 'start': 592.64, 'duration': 4.4}
+{'text': "because it's what you said during the", 'start': 595.44, 'duration': 3.68}
+{'text': "debate do you think it's more likely", 'start': 597.04, 'duration': 4.0}
+{'text': 'that i either misspoke or was repeating', 'start': 599.12, 'duration': 3.68}
+{'text': 'what wolf said back to him rather than i', 'start': 601.04, 'duration': 3.76}
+{'text': 'genuinely believe the only way like', 'start': 602.8, 'duration': 3.12}
+{'text': 'if somebody were to say go back and', 'start': 604.8, 'duration': 3.36}
+{'text': 'watch the clip if you want', 'start': 605.92, 'duration': 3.76}
+{'text': "i can't tell if you're actually [\xa0__\xa0]", 'start': 608.16, 'duration': 3.52}
+{'text': "[\xa0__\xa0] holy [\xa0__\xa0] it's actually like", 'start': 609.68, 'duration': 3.2}
+{'text': 'blowing my mind right now', 'start': 611.68, 'duration': 3.44}
+{'text': 'so okay so just to be clear do you', 'start': 612.88, 'duration': 3.36}
+{'text': 'genuinely believe', 'start': 615.12, 'duration': 2.88}
+{'text': 'i think the answer is no you genuinely', 'start': 616.24, 'duration': 3.039}
+{'text': 'believe that i thought that the', 'start': 618.0, 'duration': 2.64}
+{'text': 'only possible way that you can return', 'start': 619.279, 'duration': 3.281}
+{'text': 'value to shareholders with dividends it', 'start': 620.64, 'duration': 3.04}
+{'text': "seems like you said that you don't think", 'start': 622.56, 'duration': 2.32}
+{'text': "that's the case right so then why are", 'start': 623.68, 'duration': 2.64}
+{'text': "you saying well that's what you said", 'start': 624.88, 'duration': 2.56}
+{'text': "like you sound like you're in fourth", 'start': 626.32, 'duration': 2.48}
+{'text': "grade like somebody misspoke and you're", 'start': 627.44, 'duration': 3.12}
+{'text': 'like oh well you said that so that must', 'start': 628.8, 'duration': 3.36}
+{'text': 'have been what you believed like', 'start': 630.56, 'duration': 4.32}
+{'text': "sorry i'll explain it again richard", 'start': 632.16, 'duration': 3.28}
+{'text': 'wolff', 'start': 634.88, 'duration': 3.199}
+{'text': 'said that a public company does not have', 'start': 635.44, 'duration': 4.16}
+{'text': 'to pay out dividends', 'start': 638.079, 'duration': 3.601}
+{'text': 'to its shareholders and your response', 'start': 639.6, 'duration': 3.359}
+{'text': 'was no no', 'start': 641.68, 'duration': 3.279}
+{'text': 'no no absolutely not this is markets', 'start': 642.959, 'duration': 3.361}
+{'text': '101. what do you think', 'start': 644.959, 'duration': 3.281}
+{'text': 'what do you think wolfe meant when he', 'start': 646.32, 'duration': 3.199}
+{'text': 'said that though', 'start': 648.24, 'duration': 3.12}
+{'text': 'he said what did he mean when you said', 'start': 649.519, 'duration': 3.121}
+{'text': 'dividends yeah what do you think he', 'start': 651.36, 'duration': 1.76}
+{'text': 'missed', 'start': 652.64, 'duration': 3.28}
+{'text': 'dividends what else could he have meant', 'start': 653.12, 'duration': 3.76}
+{'text': "it's okay because lefties don't", 'start': 655.92, 'duration': 2.08}
+{'text': 'understand anything about finance so', 'start': 656.88, 'duration': 3.12}
+{'text': "that's not what richard wolff said or", 'start': 658.0, 'duration': 3.12}
+{'text': "that's not what richard will", 'start': 660.0, 'duration': 2.64}
+{'text': 'meant if you want you can go back and', 'start': 661.12, 'duration': 3.04}
+{'text': "you're gonna tell me what richard wolff", 'start': 662.64, 'duration': 3.199}
+{'text': "meant yeah you're in his head now", 'start': 664.16, 'duration': 2.48}
+{'text': "do you want to bet that's what you're", 'start': 665.839, 'duration': 3.12}
+{'text': "trying to tell i'll i'll put 25 000", 'start': 666.64, 'duration': 3.439}
+{'text': 'on this so we can get an independent', 'start': 668.959, 'duration': 2.241}
+{'text': 'panel of three people to review it if', 'start': 670.079, 'duration': 2.801}
+{'text': "you want or i'm sorry i can put 20", 'start': 671.2, 'duration': 3.36}
+{'text': "on this i don't want a posture if you go", 'start': 672.88, 'duration': 2.72}
+{'text': 'back and listen to the rest of the', 'start': 674.56, 'duration': 1.519}
+{'text': 'debate', 'start': 675.6, 'duration': 2.88}
+{'text': 'what wolf was trying to make as a point', 'start': 676.079, 'duration': 4.401}
+{'text': "was that private companies don't have an", 'start': 678.48, 'duration': 3.44}
+{'text': 'obligation to return value to', 'start': 680.48, 'duration': 2.16}
+{'text': 'shareholders', 'start': 681.92, 'duration': 2.88}
+{'text': 'now he used the word dividends so i use', 'start': 682.64, 'duration': 4.0}
+{'text': 'the word dividends back to him but as', 'start': 684.8, 'duration': 2.88}
+{'text': 'you go on for the rest of the', 'start': 686.64, 'duration': 2.24}
+{'text': "conversation that's why i said i can", 'start': 687.68, 'duration': 1.92}
+{'text': 'show you 15', 'start': 688.88, 'duration': 2.399}
+{'text': '000 examples of private companies not', 'start': 689.6, 'duration': 2.88}
+{'text': 'returning value to shareholders blah', 'start': 691.279, 'duration': 3.041}
+{'text': 'blah blah blah blah and i even clarified', 'start': 692.48, 'duration': 3.039}
+{'text': "like two minutes later it's like okay", 'start': 694.32, 'duration': 2.72}
+{'text': "yeah it doesn't have to be dividends", 'start': 695.519, 'duration': 3.281}
+{'text': 'i think i even asked wolf explicitly i', 'start': 697.04, 'duration': 2.88}
+{'text': 'think i even expected to say you know', 'start': 698.8, 'duration': 2.56}
+{'text': 'there are other ways to return values to', 'start': 699.92, 'duration': 2.4}
+{'text': 'shareholders rather than dividends and', 'start': 701.36, 'duration': 2.4}
+{'text': 'then he said yes but he said privately', 'start': 702.32, 'duration': 3.04}
+{'text': "owned firms don't have an obligation to", 'start': 703.76, 'duration': 2.72}
+{'text': 'do that', 'start': 705.36, 'duration': 2.479}
+{'text': "okay stephen i'm gonna tell you what all", 'start': 706.48, 'duration': 3.039}
+{'text': 'right i', 'start': 707.839, 'duration': 3.761}
+{'text': 'will suck the meat off your [\xa0__\xa0] if you', 'start': 709.519, 'duration': 3.521}
+{'text': 'can get richard wolff', 'start': 711.6, 'duration': 3.2}
+{'text': "to say that he didn't mean dividends", 'start': 713.04, 'duration': 4.16}
+{'text': 'when he said dividends', 'start': 714.8, 'duration': 4.24}
+{'text': 'he he literally says it during the', 'start': 717.2, 'duration': 4.079}
+{'text': 'debate he literally says it like a', 'start': 719.04, 'duration': 4.32}
+{'text': 'couple minutes later did you not listen', 'start': 721.279, 'duration': 3.041}
+{'text': 'to the conversation', 'start': 723.36, 'duration': 4.0}
+{'text': "doesn't say it can somebody pull up the", 'start': 724.32, 'duration': 3.519}
+{'text': 'video', 'start': 727.36, 'duration': 2.08}
+{'text': 'actually um i just want to listen to it', 'start': 727.839, 'duration': 2.961}
+{'text': 'we can just we can listen to it together', 'start': 729.44, 'duration': 3.839}
+{'text': 'if you want', 'start': 730.8, 'duration': 2.479}
+{'text': "[\xa0__\xa0] holy [\xa0__\xa0] i can't believe that", 'start': 734.959, 'duration': 3.041}
+{'text': 'comprehension is so lacking', 'start': 736.48, 'duration': 3.2}
+{'text': "wait i don't understand you listen you", 'start': 738.0, 'duration': 3.76}
+{'text': 'just told me that you just told me that', 'start': 739.68, 'duration': 4.64}
+{'text': "richard wolff didn't mean dividends when", 'start': 741.76, 'duration': 3.68}
+{'text': 'he said dividends', 'start': 744.32, 'duration': 3.12}
+{'text': "that's correct that because he didn't", 'start': 745.44, 'duration': 3.6}
+{'text': 'mean dividends he meant returning value', 'start': 747.44, 'duration': 3.44}
+{'text': "to shareholders i can't believe you're", 'start': 749.04, 'duration': 3.28}
+{'text': 'actually going to tell me what he meant', 'start': 750.88, 'duration': 2.639}
+{'text': 'with his own words', 'start': 752.32, 'duration': 2.959}
+{'text': 'well i had like a two-hour conversation', 'start': 753.519, 'duration': 3.361}
+{'text': 'with him and he clarifies like in the', 'start': 755.279, 'duration': 3.041}
+{'text': 'future', 'start': 756.88, 'duration': 4.399}
+{'text': "but um hold on yeah let's find it give", 'start': 758.32, 'duration': 4.0}
+{'text': "me a second i'll find it during the", 'start': 761.279, 'duration': 1.921}
+{'text': 'conversation', 'start': 762.32, 'duration': 2.4}
+{'text': 'does anybody remember at what point of', 'start': 763.2, 'duration': 3.28}
+{'text': 'this conversation um the dividends', 'start': 764.72, 'duration': 9.119}
+{'text': 'conversation starts', 'start': 766.48, 'duration': 7.359}
+{'text': 'destiny here', 'start': 774.639, 'duration': 2.88}
+{'text': 'okay send you a link let me know when', 'start': 780.72, 'duration': 7.119}
+{'text': 'you want to start this', 'start': 782.72, 'duration': 5.119}
+{'text': "okay i'm ready whenever okay three two", 'start': 792.399, 'duration': 3.041}
+{'text': 'one', 'start': 794.959, 'duration': 3.041}
+{'text': "go there's many companies i'm listed on", 'start': 795.44, 'duration': 4.32}
+{'text': 'the stock exchange right now that pay no', 'start': 798.0, 'duration': 3.44}
+{'text': 'dividends to their investors', 'start': 799.76, 'duration': 3.84}
+{'text': "here in the united states it's a normal", 'start': 801.44, 'duration': 4.0}
+{'text': 'part of our no absolutely not', 'start': 803.6, 'duration': 4.56}
+{'text': "they might not pay i'm talking about", 'start': 805.44, 'duration': 4.0}
+{'text': 'capital markets 101.', 'start': 808.16, 'duration': 3.359}
+{'text': 'they might not pay a dividend but they', 'start': 809.44, 'duration': 3.92}
+{'text': "are then you're badly missing i'm not", 'start': 811.519, 'duration': 2.161}
+{'text': 'bad', 'start': 813.36, 'duration': 2.24}
+{'text': 'i promise you the foundation of the', 'start': 813.68, 'duration': 3.52}
+{'text': 'stock market in the united states is a', 'start': 815.6, 'duration': 2.4}
+{'text': 'returning', 'start': 817.2, 'duration': 2.72}
+{'text': 'of capital to the people that are the', 'start': 818.0, 'duration': 3.279}
+{'text': 'ones doing the investment in companies', 'start': 819.92, 'duration': 2.479}
+{'text': 'now it might be the case as you', 'start': 821.279, 'duration': 2.081}
+{'text': 'correctly point out', 'start': 822.399, 'duration': 3.201}
+{'text': 'it might absolutely it might be so stop', 'start': 823.36, 'duration': 3.279}
+{'text': 'pause right now', 'start': 825.6, 'duration': 3.599}
+{'text': 'so i said a returning of capital to', 'start': 826.639, 'duration': 4.801}
+{'text': 'investors and he just said not at all', 'start': 829.199, 'duration': 4.32}
+{'text': "he wasn't talking about just dividends", 'start': 831.44, 'duration': 3.36}
+{'text': 'we can resume if you want to listen to', 'start': 833.519, 'duration': 1.841}
+{'text': 'more', 'start': 834.8, 'duration': 3.12}
+{'text': 'about 43 30. saying not at all to what', 'start': 835.36, 'duration': 5.279}
+{'text': "do you think he's saying not at all to", 'start': 837.92, 'duration': 4.64}
+{'text': "your claim about dividends i wasn't", 'start': 840.639, 'duration': 3.281}
+{'text': 'talking about dividends i said returning', 'start': 842.56, 'duration': 4.48}
+{'text': 'capital to shareholders', 'start': 843.92, 'duration': 3.12}
+{'text': "that's not what he says that's okay", 'start': 848.48, 'duration': 4.96}
+{'text': 'go back and refresh it on the exact same', 'start': 851.68, 'duration': 3.04}
+{'text': 'point and we can listen to him say', 'start': 853.44, 'duration': 2.639}
+{'text': 'exactly what he just said one more time', 'start': 854.72, 'duration': 2.799}
+{'text': "okay i'm at 43 or nine let me know when", 'start': 856.079, 'duration': 2.88}
+{'text': "you're ready to uh", 'start': 857.519, 'duration': 4.56}
+{'text': "resume sure let's go three two one", 'start': 858.959, 'duration': 5.601}
+{'text': "go there's many companies i'm listed on", 'start': 862.079, 'duration': 4.241}
+{'text': 'the stock exchange right now that pay no', 'start': 864.56, 'duration': 3.36}
+{'text': 'dividends to their investors', 'start': 866.32, 'duration': 3.759}
+{'text': "here in the united states it's a normal", 'start': 867.92, 'duration': 3.039}
+{'text': 'part of our no', 'start': 870.079, 'duration': 4.081}
+{'text': 'absolutely not they might not pay you', 'start': 870.959, 'duration': 5.041}
+{'text': "i'm talking about capital markets 101.", 'start': 874.16, 'duration': 3.6}
+{'text': 'they might not pay a dividend', 'start': 876.0, 'duration': 4.399}
+{'text': "but they are then you're badly missing i", 'start': 877.76, 'duration': 3.36}
+{'text': 'promise you', 'start': 880.399, 'duration': 2.401}
+{'text': 'the foundation of the stock market in', 'start': 881.12, 'duration': 3.44}
+{'text': 'the united states is a returning', 'start': 882.8, 'duration': 3.599}
+{'text': 'of capital to the people that are the', 'start': 884.56, 'duration': 3.279}
+{'text': 'ones doing the investment in companies', 'start': 886.399, 'duration': 2.481}
+{'text': 'now it might be the case as you', 'start': 887.839, 'duration': 2.081}
+{'text': 'correctly point out', 'start': 888.88, 'duration': 2.72}
+{'text': 'it might it absolutely it might be the', 'start': 889.92, 'duration': 3.44}
+{'text': 'case really yeah', 'start': 891.6, 'duration': 3.679}
+{'text': "interrupts so much unaware you're you're", 'start': 893.36, 'duration': 3.279}
+{'text': 'not most of the', 'start': 895.279, 'duration': 3.281}
+{'text': 'money okay so i literally say return', 'start': 896.639, 'duration': 3.361}
+{'text': "count i'm trying to say like three times", 'start': 898.56, 'duration': 2.719}
+{'text': 'it might not be the case that they pay a', 'start': 900.0, 'duration': 2.639}
+{'text': 'dividend but they have to return capital', 'start': 901.279, 'duration': 4.0}
+{'text': 'to shareholders and he literally said no', 'start': 902.639, 'duration': 6.081}
+{'text': "yeah because that's not the case", 'start': 905.279, 'duration': 5.92}
+{'text': 'it what is not the case you can tell', 'start': 908.72, 'duration': 4.239}
+{'text': 'from what richard wolf is saying earlier', 'start': 911.199, 'duration': 2.961}
+{'text': "he's talking about", 'start': 912.959, 'duration': 3.281}
+{'text': 'the reason the majority of corporations', 'start': 914.16, 'duration': 3.76}
+{'text': 'buy stock into other companies and the', 'start': 916.24, 'duration': 2.399}
+{'text': 'reason why', 'start': 917.92, 'duration': 2.64}
+{'text': 'people buy stock into companies the', 'start': 918.639, 'duration': 3.361}
+{'text': 'reason that they do this', 'start': 920.56, 'duration': 2.959}
+{'text': "is because they're looking forward to", 'start': 922.0, 'duration': 3.36}
+{'text': 'capital gains in fact when he highlights', 'start': 923.519, 'duration': 2.56}
+{'text': 'this idea', 'start': 925.36, 'duration': 2.4}
+{'text': "he's predicting capital gains so", 'start': 926.079, 'duration': 3.281}
+{'text': 'returning capital', 'start': 927.76, 'duration': 3.12}
+{'text': "no he's talking about predominantly and", 'start': 929.36, 'duration': 2.399}
+{'text': 'he explains it he talks about', 'start': 930.88, 'duration': 2.24}
+{'text': 'predominantly buying', 'start': 931.759, 'duration': 2.64}
+{'text': 'stock and then selling it at a later', 'start': 933.12, 'duration': 3.76}
+{'text': 'time for a profit', 'start': 934.399, 'duration': 4.401}
+{'text': 'yes if the company grows and the value', 'start': 936.88, 'duration': 3.12}
+{'text': "of the stock increases it's called", 'start': 938.8, 'duration': 2.959}
+{'text': 'returning value to shareholders', 'start': 940.0, 'duration': 3.519}
+{'text': "yeah i don't disagree with this point", 'start': 941.759, 'duration': 3.601}
+{'text': 'then what what do you disagree with me', 'start': 943.519, 'duration': 2.56}
+{'text': 'about', 'start': 945.36, 'duration': 2.399}
+{'text': "i'm just disagreeing with the fact that", 'start': 946.079, 'duration': 3.361}
+{'text': 'you tried to pivot in this conversation', 'start': 947.759, 'duration': 3.2}
+{'text': 'and pretend like you meant dividends the', 'start': 949.44, 'duration': 2.0}
+{'text': 'entire', 'start': 950.959, 'duration': 2.0}
+{'text': "you didn't mean dividends he's the one", 'start': 951.44, 'duration': 3.04}
+{'text': 'that brought up dividends you hear me in', 'start': 952.959, 'duration': 3.521}
+{'text': 'this clip three times try to say it', 'start': 954.48, 'duration': 3.44}
+{'text': 'might not be the case for dividends it', 'start': 956.48, 'duration': 2.88}
+{'text': 'might not be dividends it might not be', 'start': 957.92, 'duration': 2.479}
+{'text': "i'm literally saying it", 'start': 959.36, 'duration': 2.32}
+{'text': "he's the one that doesn't understand", 'start': 960.399, 'duration': 2.721}
+{'text': 'financial markets and he thinks that a', 'start': 961.68, 'duration': 2.64}
+{'text': 'dividend might be the only way to pay', 'start': 963.12, 'duration': 1.6}
+{'text': 'back', 'start': 964.32, 'duration': 2.4}
+{'text': "a [\xa0__\xa0] stockholder he's literally the", 'start': 964.72, 'duration': 3.039}
+{'text': "one that brought it up and you're trying", 'start': 966.72, 'duration': 2.479}
+{'text': 'to pin it on me', 'start': 967.759, 'duration': 2.801}
+{'text': 'you realize you bring up dividends', 'start': 969.199, 'duration': 2.56}
+{'text': 'earlier on in this conversation and', 'start': 970.56, 'duration': 3.199}
+{'text': "that's why he's talking about it right", 'start': 971.759, 'duration': 3.2}
+{'text': 'okay what time stamp do you want to go', 'start': 973.759, 'duration': 3.921}
+{'text': 'back to we can go back as far as you', 'start': 974.959, 'duration': 4.88}
+{'text': "want stephen three okay i'm going to 40", 'start': 977.68, 'duration': 4.32}
+{'text': "i'm going to go to 42 i'm gonna go to 42", 'start': 979.839, 'duration': 3.44}
+{'text': "minutes okay and i'll just listen from", 'start': 982.0, 'duration': 3.839}
+{'text': 'here [\xa0__\xa0] it', 'start': 983.279, 'duration': 2.56}
+{'text': "let me know when you're ready", 'start': 986.56, 'duration': 2.639}
+{'text': 'okay go ahead three two one go quickly', 'start': 994.399, 'duration': 8.081}
+{'text': 'to raise capital for their business', 'start': 998.639, 'duration': 6.481}
+{'text': 'by selling shares of course they could', 'start': 1002.48, 'duration': 3.919}
+{'text': 'do that', 'start': 1005.12, 'duration': 3.279}
+{'text': 'those shares would not allow the people', 'start': 1006.399, 'duration': 5.041}
+{'text': 'who owned them to do the steps that they', 'start': 1008.399, 'duration': 4.56}
+{'text': 'can in capitalism', 'start': 1011.44, 'duration': 3.839}
+{'text': 'they would not for example be able to', 'start': 1012.959, 'duration': 4.56}
+{'text': "dictate who's the board of directors", 'start': 1015.279, 'duration': 4.321}
+{'text': 'because the workers themselves are their', 'start': 1017.519, 'duration': 3.76}
+{'text': 'own board of directors', 'start': 1019.6, 'duration': 3.44}
+{'text': "but there's no problem with private", 'start': 1021.279, 'duration': 3.841}
+{'text': 'investment there never was', 'start': 1023.04, 'duration': 4.72}
+{'text': "and my question is i don't need an", 'start': 1025.12, 'duration': 3.04}
+{'text': 'example', 'start': 1027.76, 'duration': 2.559}
+{'text': 'no example we we have the we have this', 'start': 1028.16, 'duration': 3.36}
+{'text': 'definition i just want to', 'start': 1030.319, 'duration': 2.561}
+{'text': 'hone in on this definition okay my', 'start': 1031.52, 'duration': 4.08}
+{'text': 'question is why would any individual', 'start': 1032.88, 'duration': 4.72}
+{'text': 'ever invest in a company that does not', 'start': 1035.6, 'duration': 4.079}
+{'text': 'have a fiduciary responsibility to their', 'start': 1037.6, 'duration': 2.88}
+{'text': 'investors', 'start': 1039.679, 'duration': 2.481}
+{'text': 'so for instance in your world if i were', 'start': 1040.48, 'duration': 3.839}
+{'text': 'to buy twenty percent of a co-op oh', 'start': 1042.16, 'duration': 5.519}
+{'text': 'could you pay their workers tomorrow', 'start': 1044.319, 'duration': 3.36}
+{'text': 'this specific point as well is the idea', 'start': 1048.4, 'duration': 4.8}
+{'text': "that a co-op wouldn't have a fiduciary", 'start': 1051.36, 'duration': 3.12}
+{'text': 'responsibility', 'start': 1053.2, 'duration': 3.04}
+{'text': 'to its workers or sorry to its', 'start': 1054.48, 'duration': 4.319}
+{'text': 'shareholders', 'start': 1056.24, 'duration': 2.559}
+{'text': 'you recognize that worker co-ops still', 'start': 1060.96, 'duration': 3.12}
+{'text': 'have a fiduciary responsibility to their', 'start': 1062.559, 'duration': 3.041}
+{'text': 'shareholders right', 'start': 1064.08, 'duration': 4.8}
+{'text': 'no not to private investors yes they', 'start': 1065.6, 'duration': 5.52}
+{'text': 'do', 'start': 1068.88, 'duration': 2.24}
+{'text': "why wouldn't they have a i", 'start': 1078.4, 'duration': 3.44}
+{'text': 'okay if you own a firm', 'start': 1082.48, 'duration': 6.48}
+{'text': 'that firm produces goods or services', 'start': 1086.96, 'duration': 3.76}
+{'text': "okay there's a cost that goes into", 'start': 1088.96, 'duration': 3.28}
+{'text': 'producing the goods and services', 'start': 1090.72, 'duration': 4.56}
+{'text': 'okay one of those costs is labor', 'start': 1092.24, 'duration': 4.88}
+{'text': 'okay the money that you make at the end', 'start': 1095.28, 'duration': 3.68}
+{'text': 'of the day from selling a good or', 'start': 1097.12, 'duration': 2.4}
+{'text': 'service', 'start': 1098.96, 'duration': 3.28}
+{'text': 'is your revenue okay the profit is your', 'start': 1099.52, 'duration': 3.519}
+{'text': 'revenue', 'start': 1102.24, 'duration': 3.52}
+{'text': 'less the costs your goal as a private', 'start': 1103.039, 'duration': 3.281}
+{'text': 'owner', 'start': 1105.76, 'duration': 3.52}
+{'text': 'is to minimize your cost in order to', 'start': 1106.32, 'duration': 4.8}
+{'text': 'maximize your revenue and thus hopefully', 'start': 1109.28, 'duration': 3.279}
+{'text': 'your profits', 'start': 1111.12, 'duration': 4.32}
+{'text': 'if you run something as a worker you are', 'start': 1112.559, 'duration': 5.12}
+{'text': 'now voting on the policies of that firm', 'start': 1115.44, 'duration': 4.239}
+{'text': 'but you represent a cost of doing', 'start': 1117.679, 'duration': 3.201}
+{'text': 'business the', 'start': 1119.679, 'duration': 3.521}
+{'text': 'private shareholder comes in private', 'start': 1120.88, 'duration': 4.08}
+{'text': 'shareholder wants to maximize the', 'start': 1123.2, 'duration': 2.64}
+{'text': 'revenue slash', 'start': 1124.96, 'duration': 3.92}
+{'text': 'profits but you as a worker manager want', 'start': 1125.84, 'duration': 5.6}
+{'text': 'to maximize one of the costs', 'start': 1128.88, 'duration': 5.84}
+{'text': 'the interests are not aligned this is', 'start': 1131.44, 'duration': 5.76}
+{'text': 'why ceos of companies are compensated in', 'start': 1134.72, 'duration': 3.199}
+{'text': 'stock', 'start': 1137.2, 'duration': 3.04}
+{'text': "it's to align the interest of the ceo", 'start': 1137.919, 'duration': 4.561}
+{'text': 'with the shareholders', 'start': 1140.24, 'duration': 4.08}
+{'text': 'this has nothing first off this has', 'start': 1142.48, 'duration': 3.04}
+{'text': 'nothing to do with fiduciary', 'start': 1144.32, 'duration': 2.16}
+{'text': 'responsibility', 'start': 1145.52, 'duration': 4.0}
+{'text': "second off we've already agreed earlier", 'start': 1146.48, 'duration': 5.92}
+{'text': 'that there are plenty of private owned', 'start': 1149.52, 'duration': 4.159}
+{'text': 'privately owned businesses', 'start': 1152.4, 'duration': 3.04}
+{'text': 'that choose instead to pay instead of', 'start': 1153.679, 'duration': 3.201}
+{'text': 'paying themselves more', 'start': 1155.44, 'duration': 4.32}
+{'text': 'choose to invest in other things and', 'start': 1156.88, 'duration': 4.72}
+{'text': 'expand their business', 'start': 1159.76, 'duration': 4.32}
+{'text': 'yeah of course', 'start': 1161.6, 'duration': 2.48}
+{'text': 'that a worker co-op can either choose to', 'start': 1168.72, 'duration': 4.88}
+{'text': 'pay back into their own labor', 'start': 1170.88, 'duration': 5.28}
+{'text': 'or they can choose to make future', 'start': 1173.6, 'duration': 3.199}
+{'text': 'investments', 'start': 1176.16, 'duration': 2.48}
+{'text': 'i understand that but the difference is', 'start': 1176.799, 'duration': 3.841}
+{'text': 'that a privately run firm has an', 'start': 1178.64, 'duration': 4.72}
+{'text': 'obligation to look for those net present', 'start': 1180.64, 'duration': 3.279}
+{'text': 'value', 'start': 1183.36, 'duration': 2.88}
+{'text': 'positive investments okay it might be', 'start': 1183.919, 'duration': 3.441}
+{'text': 'the case that a co-op', 'start': 1186.24, 'duration': 3.36}
+{'text': 'invests in these npv plus projects but', 'start': 1187.36, 'duration': 3.6}
+{'text': 'it might also be the case that they just', 'start': 1189.6, 'duration': 2.959}
+{'text': 'pay everybody a massive [\xa0__\xa0] bonus', 'start': 1190.96, 'duration': 2.719}
+{'text': "and walk away with the money we've", 'start': 1192.559, 'duration': 2.881}
+{'text': 'already agreed on this you can just look', 'start': 1193.679, 'duration': 4.401}
+{'text': "at these people's financial sheets", 'start': 1195.44, 'duration': 5.119}
+{'text': "looking at their okay here okay let's", 'start': 1198.08, 'duration': 3.68}
+{'text': "say we do that let's say that i look at", 'start': 1200.559, 'duration': 2.401}
+{'text': 'the financial streets of two companies', 'start': 1201.76, 'duration': 1.6}
+{'text': 'okay', 'start': 1202.96, 'duration': 2.24}
+{'text': 'one is co-op foods and the other is', 'start': 1203.36, 'duration': 3.36}
+{'text': "private foods let's say that i have 10", 'start': 1205.2, 'duration': 2.4}
+{'text': 'million dollars', 'start': 1206.72, 'duration': 2.56}
+{'text': 'if i go and invest 10 million dollars in', 'start': 1207.6, 'duration': 3.6}
+{'text': 'private foods they have a fiduciary', 'start': 1209.28, 'duration': 2.8}
+{'text': 'responsibility', 'start': 1211.2, 'duration': 2.8}
+{'text': 'to manage my money and to manage their', 'start': 1212.08, 'duration': 3.2}
+{'text': 'business in such a way that hopefully i', 'start': 1214.0, 'duration': 2.24}
+{'text': 'get a profit they have to make a good', 'start': 1215.28, 'duration': 2.24}
+{'text': 'faith effort to do that if i go and', 'start': 1216.24, 'duration': 3.2}
+{'text': 'invest 10 million dollars in co-op foods', 'start': 1217.52, 'duration': 3.76}
+{'text': 'they might say holy [\xa0__\xa0] look at this', 'start': 1219.44, 'duration': 3.52}
+{'text': "huge investment we're gonna actually pay", 'start': 1221.28, 'duration': 3.84}
+{'text': 'all of ourselves like a 250 000', 'start': 1222.96, 'duration': 3.599}
+{'text': "bonus and then walk and now you're", 'start': 1225.12, 'duration': 4.08}
+{'text': '[\xa0__\xa0] like you would still be held in a', 'start': 1226.559, 'duration': 3.841}
+{'text': 'court for that because', 'start': 1229.2, 'duration': 2.56}
+{'text': 'you still have a fiduciary', 'start': 1230.4, 'duration': 3.04}
+{'text': "responsibility it doesn't matter who's", 'start': 1231.76, 'duration': 3.36}
+{'text': 'running the company okay okay okay okay', 'start': 1233.44, 'duration': 2.88}
+{'text': "i think i know more so you're saying", 'start': 1235.12, 'duration': 2.559}
+{'text': 'that the co-op workers would have some', 'start': 1236.32, 'duration': 2.479}
+{'text': 'fiduciary responsibility to the', 'start': 1237.679, 'duration': 2.641}
+{'text': 'investors', 'start': 1238.799, 'duration': 4.88}
+{'text': "yes okay that's not a [\xa0__\xa0] co-op then", 'start': 1240.32, 'duration': 5.12}
+{'text': "that's not a co-op co-op it's not the", 'start': 1243.679, 'duration': 3.681}
+{'text': 'only thing the whole point of a', 'start': 1245.44, 'duration': 4.16}
+{'text': "co-op is that the the shareholders can't", 'start': 1247.36, 'duration': 3.76}
+{'text': "vote that's the only difference this is", 'start': 1249.6, 'duration': 2.559}
+{'text': 'not a difficult point', 'start': 1251.12, 'duration': 3.039}
+{'text': "no you just don't understand you still", 'start': 1252.159, 'duration': 3.76}
+{'text': 'have to be responsible with their money', 'start': 1254.159, 'duration': 4.241}
+{'text': "no you just don't the whole point of a", 'start': 1255.919, 'duration': 3.521}
+{'text': 'co-op is that the', 'start': 1258.4, 'duration': 3.04}
+{'text': 'workers are voting on the conditions and', 'start': 1259.44, 'duration': 3.44}
+{'text': "they aren't beholden to private", 'start': 1261.44, 'duration': 2.16}
+{'text': 'shareholders', 'start': 1262.88, 'duration': 2.56}
+{'text': 'that are trying to enact an extractive', 'start': 1263.6, 'duration': 3.12}
+{'text': 'policy on the labor', 'start': 1265.44, 'duration': 3.04}
+{'text': 'the whole reason why somebody might', 'start': 1266.72, 'duration': 3.6}
+{'text': 'advocate for a co-op as a marxist is', 'start': 1268.48, 'duration': 3.76}
+{'text': 'because a marxist believes that somebody', 'start': 1270.32, 'duration': 3.44}
+{'text': 'a capital owner will come in with', 'start': 1272.24, 'duration': 3.28}
+{'text': 'private investment and extract value', 'start': 1273.76, 'duration': 3.76}
+{'text': 'extract surplus value from labor but if', 'start': 1275.52, 'duration': 2.96}
+{'text': 'you are a worker', 'start': 1277.52, 'duration': 2.56}
+{'text': 'and a private investor comes in and now', 'start': 1278.48, 'duration': 3.199}
+{'text': 'is now saying hey hold on the types of', 'start': 1280.08, 'duration': 2.959}
+{'text': 'decisions that you make need to return', 'start': 1281.679, 'duration': 2.961}
+{'text': "value to me now you've got a capitalist", 'start': 1283.039, 'duration': 3.361}
+{'text': 'that is extracting surplus value off you', 'start': 1284.64, 'duration': 3.279}
+{'text': 'again if you are a worker car why the', 'start': 1286.4, 'duration': 2.8}
+{'text': '[\xa0__\xa0] would you vote that way', 'start': 1287.919, 'duration': 2.401}
+{'text': "denims you don't know what the [\xa0__\xa0] is", 'start': 1289.2, 'duration': 3.44}
+{'text': 'going on you generate more profit', 'start': 1290.32, 'duration': 4.239}
+{'text': "how is this complicated you don't want", 'start': 1292.64, 'duration': 3.36}
+{'text': "to generate profit though you're going", 'start': 1294.559, 'duration': 2.801}
+{'text': 'to do because if you generate more', 'start': 1296.0, 'duration': 2.48}
+{'text': 'profit that is', 'start': 1297.36, 'duration': 4.08}
+{'text': 'more money that can go into the laborers', 'start': 1298.48, 'duration': 4.72}
+{'text': 'later down the road this is not you', 'start': 1301.44, 'duration': 2.64}
+{'text': "don't need", 'start': 1303.2, 'duration': 3.12}
+{'text': 'copies of scale is a real thing what is', 'start': 1304.08, 'duration': 3.2}
+{'text': 'an economy', 'start': 1306.32, 'duration': 3.68}
+{'text': 'for you what an economy is nothing to do', 'start': 1307.28, 'duration': 3.44}
+{'text': 'with this', 'start': 1310.0, 'duration': 2.08}
+{'text': 'yes it does if you can expand your', 'start': 1310.72, 'duration': 3.04}
+{'text': 'business to a point where the costs not', 'start': 1312.08, 'duration': 3.44}
+{'text': 'including labor are significantly', 'start': 1313.76, 'duration': 3.279}
+{'text': 'cheaper that means you are increasing', 'start': 1315.52, 'duration': 2.72}
+{'text': 'increasing the amount of profit', 'start': 1317.039, 'duration': 3.361}
+{'text': "that you're going to need to do this if", 'start': 1318.24, 'duration': 4.0}
+{'text': 'you want investments', 'start': 1320.4, 'duration': 3.2}
+{'text': 'in that company means that each of the', 'start': 1322.24, 'duration': 3.36}
+{'text': 'laborers could potentially', 'start': 1323.6, 'duration': 5.36}
+{'text': 'get more revenue if you wanted to as a', 'start': 1325.6, 'duration': 4.079}
+{'text': 'co-op', 'start': 1328.96, 'duration': 2.719}
+{'text': 'you could literally pay out every', 'start': 1329.679, 'duration': 4.081}
+{'text': 'investment as wages to your employees', 'start': 1331.679, 'duration': 3.441}
+{'text': 'and your private investors would be', 'start': 1333.76, 'duration': 3.6}
+{'text': '[\xa0__\xa0] do you understand that that is a', 'start': 1335.12, 'duration': 4.64}
+{'text': 'possibility', 'start': 1337.36, 'duration': 4.4}
+{'text': "i'm not disagreeing okay then do you", 'start': 1339.76, 'duration': 3.6}
+{'text': 'understand that in a private firm', 'start': 1341.76, 'duration': 3.2}
+{'text': "you aren't allowed to do that you would", 'start': 1343.36, 'duration': 3.439}
+{'text': 'get [\xa0__\xa0] [\xa0__\xa0] by the sec for', 'start': 1344.96, 'duration': 2.88}
+{'text': 'pilfering or for', 'start': 1346.799, 'duration': 2.401}
+{'text': '[\xa0__\xa0] embezzling fun you would get', 'start': 1347.84, 'duration': 3.36}
+{'text': '[\xa0__\xa0] for that you understand that', 'start': 1349.2, 'duration': 3.2}
+{'text': "there's a difference recognize that", 'start': 1351.2, 'duration': 3.839}
+{'text': "there's you recognize that like", 'start': 1352.4, 'duration': 5.36}
+{'text': 'companies make money and then they', 'start': 1355.039, 'duration': 4.481}
+{'text': 'choose to pay their workers more', 'start': 1357.76, 'duration': 4.56}
+{'text': 'in a capitalist system today to make', 'start': 1359.52, 'duration': 4.159}
+{'text': 'their workers', 'start': 1362.32, 'duration': 3.599}
+{'text': 'more productive this is something that', 'start': 1363.679, 'duration': 4.88}
+{'text': 'happens in capitalism already', 'start': 1365.919, 'duration': 4.801}
+{'text': "you what you i'll say this i don't", 'start': 1368.559, 'duration': 3.281}
+{'text': 'expect you to conceive during the', 'start': 1370.72, 'duration': 2.8}
+{'text': "conversation that's fine okay", 'start': 1371.84, 'duration': 3.6}
+{'text': "the thing that you're misunderstanding", 'start': 1373.52, 'duration': 3.92}
+{'text': 'is that labor is a cost of doing', 'start': 1375.44, 'duration': 2.88}
+{'text': 'business', 'start': 1377.44, 'duration': 4.239}
+{'text': 'the goal of a private owner is to', 'start': 1378.32, 'duration': 4.08}
+{'text': 'extract', 'start': 1381.679, 'duration': 3.601}
+{'text': 'as much value out of labor as possible', 'start': 1382.4, 'duration': 4.72}
+{'text': 'meaning as much work for as little', 'start': 1385.28, 'duration': 2.879}
+{'text': 'compensation', 'start': 1387.12, 'duration': 2.4}
+{'text': 'for you to try to counter that point say', 'start': 1388.159, 'duration': 3.121}
+{'text': 'well they still pay their workers yeah', 'start': 1389.52, 'duration': 2.0}
+{'text': 'no', 'start': 1391.28, 'duration': 1.92}
+{'text': 'do you know that there are other costs', 'start': 1391.52, 'duration': 4.159}
+{'text': 'other than labor do not yeah', 'start': 1393.2, 'duration': 4.16}
+{'text': 'this concept wait that has nothing to do', 'start': 1395.679, 'duration': 2.961}
+{'text': "with what we're talking about here you", 'start': 1397.36, 'duration': 2.319}
+{'text': 'can extract', 'start': 1398.64, 'duration': 4.32}
+{'text': 'you can extract more value from your', 'start': 1399.679, 'duration': 4.0}
+{'text': 'company', 'start': 1402.96, 'duration': 2.719}
+{'text': 'without getting it from your labor', 'start': 1403.679, 'duration': 3.36}
+{'text': "there's nothing to do what we're talking", 'start': 1405.679, 'duration': 2.48}
+{'text': "about wait that is what we're talking", 'start': 1407.039, 'duration': 1.841}
+{'text': 'about', 'start': 1408.159, 'duration': 2.561}
+{'text': 'like listen how can you expect the', 'start': 1408.88, 'duration': 3.44}
+{'text': 'laborers to ever', 'start': 1410.72, 'duration': 3.439}
+{'text': 'be able to generate a higher profit if', 'start': 1412.32, 'duration': 2.64}
+{'text': "they're going to continue paying", 'start': 1414.159, 'duration': 2.081}
+{'text': 'themselves because they are the biggest', 'start': 1414.96, 'duration': 1.839}
+{'text': 'cost', 'start': 1416.24, 'duration': 2.64}
+{'text': "like that's not relevant because there", 'start': 1416.799, 'duration': 3.521}
+{'text': 'are other costs and other things', 'start': 1418.88, 'duration': 3.36}
+{'text': 'that can generate revenue for a company', 'start': 1420.32, 'duration': 5.12}
+{'text': 'beyond their laborers', 'start': 1422.24, 'duration': 3.2}
+{'text': 'um', 'start': 1426.08, 'duration': 2.32}
+{'text': 'anyways you let me know when richard', 'start': 1429.76, 'duration': 3.6}
+{'text': 'wolff replies to you', 'start': 1431.6, 'duration': 3.84}
+{'text': 'and lets you know that uh when he said', 'start': 1433.36, 'duration': 4.08}
+{'text': 'dividends he meant dividends', 'start': 1435.44, 'duration': 3.68}
+{'text': 'i i mean like he literally says in this', 'start': 1437.44, 'duration': 3.52}
+{'text': 'conversation that they that the company', 'start': 1439.12, 'duration': 3.6}
+{'text': 'has no responsibility to any of its', 'start': 1440.96, 'duration': 2.64}
+{'text': 'investors', 'start': 1442.72, 'duration': 2.319}
+{'text': "then i'm sure he wouldn't mind giving", 'start': 1443.6, 'duration': 3.28}
+{'text': 'you a a message where he says that the', 'start': 1445.039, 'duration': 3.041}
+{'text': 'dividends', 'start': 1446.88, 'duration': 2.64}
+{'text': "weren't actually the dividends he meant", 'start': 1448.08, 'duration': 3.839}
+{'text': 'he meant something else okay', 'start': 1449.52, 'duration': 4.88}
+{'text': 'okay hold on let me listen for a second', 'start': 1451.919, 'duration': 3.12}
+{'text': "i mean like he's", 'start': 1454.4, 'duration': 2.0}
+{'text': 'like to anybody that is actually', 'start': 1455.039, 'duration': 2.88}
+{'text': "listening to the conversation and isn't", 'start': 1456.4, 'duration': 3.2}
+{'text': 'like just desperately looking to like', 'start': 1457.919, 'duration': 3.281}
+{'text': 'slurp his dick or like looking for owns', 'start': 1459.6, 'duration': 2.64}
+{'text': "like it's pretty obvious what he's", 'start': 1461.2, 'duration': 1.52}
+{'text': 'implying', 'start': 1462.24, 'duration': 1.52}
+{'text': "i'll try to find out exactly what i'm", 'start': 1462.72, 'duration': 3.199}
+{'text': "saying that's not the point", 'start': 1463.76, 'duration': 4.56}
+{'text': 'that absolutely is the point you made no', 'start': 1465.919, 'duration': 4.24}
+{'text': 'you made the point what is the company', 'start': 1468.32, 'duration': 3.12}
+{'text': 'responsible for', 'start': 1470.159, 'duration': 3.361}
+{'text': "the company's responsible to run the", 'start': 1471.44, 'duration': 3.04}
+{'text': 'company', 'start': 1473.52, 'duration': 3.279}
+{'text': 'they are not responsible to give money', 'start': 1474.48, 'duration': 4.559}
+{'text': "back whether it's dividend return of", 'start': 1476.799, 'duration': 3.041}
+{'text': 'capital or', 'start': 1479.039, 'duration': 4.081}
+{'text': 'any other okay go to 44.', 'start': 1479.84, 'duration': 8.0}
+{'text': 'all right here go to this timestamp', 'start': 1483.12, 'duration': 4.72}
+{'text': 'nope wait hold on not that time stamp', 'start': 1488.88, 'duration': 3.919}
+{'text': 'one sec', 'start': 1490.4, 'duration': 2.399}
+{'text': "i'm at 4358 let me know when you're", 'start': 1493.84, 'duration': 8.0}
+{'text': 'there okay', 'start': 1495.52, 'duration': 6.32}
+{'text': "okay let's go three two one go", 'start': 1511.679, 'duration': 5.441}
+{'text': "little to shareholders that's not the", 'start': 1514.88, 'duration': 4.32}
+{'text': 'point that absolutely is the point', 'start': 1517.12, 'duration': 4.0}
+{'text': 'you made no you made the point what is', 'start': 1519.2, 'duration': 3.839}
+{'text': 'the company responsible for', 'start': 1521.12, 'duration': 3.919}
+{'text': 'the company is responsible to run the', 'start': 1523.039, 'duration': 4.88}
+{'text': 'company they are not responsible to give', 'start': 1525.039, 'duration': 3.841}
+{'text': 'money back', 'start': 1527.919, 'duration': 3.12}
+{'text': "whether it's dividend return of capital", 'start': 1528.88, 'duration': 3.76}
+{'text': 'or any other way', 'start': 1531.039, 'duration': 5.12}
+{'text': 'boom done okay you know okay wait wait', 'start': 1532.64, 'duration': 3.76}
+{'text': 'so', 'start': 1536.159, 'duration': 2.561}
+{'text': 'he literally says whether he says', 'start': 1536.4, 'duration': 3.36}
+{'text': 'dividends and then', 'start': 1538.72, 'duration': 3.28}
+{'text': 'capital investments or returns rather', 'start': 1539.76, 'duration': 3.12}
+{'text': 'than making it', 'start': 1542.0, 'duration': 2.96}
+{'text': 'one category he literally lifted them', 'start': 1542.88, 'duration': 3.84}
+{'text': 'off as two different things', 'start': 1544.96, 'duration': 4.16}
+{'text': 'how are you being this obtuse just admit', 'start': 1546.72, 'duration': 3.52}
+{'text': "when you're wrong does", 'start': 1549.12, 'duration': 2.559}
+{'text': "it i have i can't tell if you're", 'start': 1550.24, 'duration': 3.76}
+{'text': 'legitimately like 85', 'start': 1551.679, 'duration': 4.721}
+{'text': "i don't know if you're literally 85 iq", 'start': 1554.0, 'duration': 3.36}
+{'text': "or like i just don't", 'start': 1556.4, 'duration': 3.68}
+{'text': "i don't believe this oh [\xa0__\xa0] dude", 'start': 1557.36, 'duration': 3.52}
+{'text': 'ironically', 'start': 1560.08, 'duration': 3.199}
+{'text': 'thought that like the reason robin hood', 'start': 1560.88, 'duration': 3.36}
+{'text': 'pulled', 'start': 1563.279, 'duration': 3.28}
+{'text': 'their their trading was to protect the', 'start': 1564.24, 'duration': 3.28}
+{'text': 'little guys', 'start': 1566.559, 'duration': 3.201}
+{'text': "you're just not you just don't know this", 'start': 1567.52, 'duration': 4.639}
+{'text': 'stuff', 'start': 1569.76, 'duration': 4.799}
+{'text': 'i dude i wish that i could [\xa0__\xa0] get', 'start': 1572.159, 'duration': 3.281}
+{'text': 'people to listen to me talk about', 'start': 1574.559, 'duration': 2.24}
+{'text': 'politics just because i was a cute girl', 'start': 1575.44, 'duration': 2.8}
+{'text': 'holy [\xa0__\xa0] because it must be awesome', 'start': 1576.799, 'duration': 2.88}
+{'text': 'being this [\xa0__\xa0] stupid', 'start': 1578.24, 'duration': 2.559}
+{'text': 'and still get people that actually', 'start': 1579.679, 'duration': 4.801}
+{'text': 'listen to you just because you look hot', 'start': 1580.799, 'duration': 5.921}
+{'text': 'i like the model i respect it more than', 'start': 1584.48, 'duration': 3.199}
+{'text': 'the hot tub hustle', 'start': 1586.72, 'duration': 2.559}
+{'text': "that's great okay good luck with your", 'start': 1587.679, 'duration': 3.36}
+{'text': "[\xa0__\xa0] i'm playing my [\xa0__\xa0] starship", 'start': 1589.279, 'duration': 2.961}
+{'text': 'spaceship games', 'start': 1591.039, 'duration': 4.161}
+{'text': 'um yo go far okay good luck buddy', 'start': 1592.24, 'duration': 4.24}
+{'text': 'remember to hit that like and subscribe', 'start': 1595.2, 'duration': 2.8}
+{'text': "and don't forget the notification bell", 'start': 1596.48, 'duration': 3.679}
+{'text': 'so that my videos show up right in your', 'start': 1598.0, 'duration': 3.76}
+{'text': 'feed what did he mean when he said', 'start': 1600.159, 'duration': 2.88}
+{'text': 'dividends yeah what do you think he', 'start': 1601.76, 'duration': 3.68}
+{'text': 'meant dividends what else could he have', 'start': 1603.039, 'duration': 5.601}
+{'text': "usb connor i've heard so much about you", 'start': 1605.44, 'duration': 5.52}
+{'text': 'just wanted to say thank you guys so', 'start': 1608.64, 'duration': 3.68}
+{'text': 'much for being so', 'start': 1610.96, 'duration': 3.92}
+{'text': 'warm and well', 'start': 1612.32, 'duration': 2.56}

@@ -1,0 +1,656 @@
+{'text': "nobody's gonna dare push back on this", 'start': 0.0, 'duration': 4.08}
+{'text': "there's gonna be some critical mass", 'start': 1.92, 'duration': 5.6}
+{'text': 'where too many trans women athletes are', 'start': 4.08, 'duration': 5.519}
+{'text': "winning too many events and it's either", 'start': 7.52, 'duration': 3.52}
+{'text': 'just gonna cause people to become way', 'start': 9.599, 'duration': 3.441}
+{'text': "more transphobic and it's gonna cause a", 'start': 11.04, 'duration': 4.0}
+{'text': 'lot of erosion for trans stuff or people', 'start': 13.04, 'duration': 2.96}
+{'text': 'are gonna finally be like okay well', 'start': 15.04, 'duration': 2.079}
+{'text': 'maybe we need to change something but', 'start': 16.0, 'duration': 2.32}
+{'text': 'the problem is like nobody knows what', 'start': 17.119, 'duration': 2.961}
+{'text': 'that critical mass is gonna be like how', 'start': 18.32, 'duration': 4.08}
+{'text': 'many trans women need to dominate uh', 'start': 20.08, 'duration': 4.64}
+{'text': 'women events for that to change and then', 'start': 22.4, 'duration': 3.68}
+{'text': 'also continually keeping in line with', 'start': 24.72, 'duration': 3.12}
+{'text': 'how society works nobody gives a [\xa0__\xa0]', 'start': 26.08, 'duration': 3.359}
+{'text': 'about men but the fact that trans men', 'start': 27.84, 'duration': 3.92}
+{'text': "aren't competitive like anywhere uh will", 'start': 29.439, 'duration': 3.761}
+{'text': 'never be a problem to anybody nobody', 'start': 31.76, 'duration': 4.4}
+{'text': 'will give a [\xa0__\xa0] about it at all', 'start': 33.2, 'duration': 2.96}
+{'text': "hassan's take on trans athletes oh boy", 'start': 37.84, 'duration': 4.239}
+{'text': 'and even if trans women specifically uh', 'start': 42.719, 'duration': 6.561}
+{'text': 'because they are in like the starting', 'start': 46.719, 'duration': 4.48}
+{'text': 'process of their transition or whatever', 'start': 49.28, 'duration': 4.08}
+{'text': 'have significant competitive advantages', 'start': 51.199, 'duration': 4.321}
+{'text': "let's say they do in ninety nine percent", 'start': 53.36, 'duration': 3.359}
+{'text': "of the businesses they don't there's", 'start': 55.52, 'duration': 2.64}
+{'text': 'plenty of empirical evidence to suggest', 'start': 56.719, 'duration': 3.52}
+{'text': "that they don't but even if they do it", 'start': 58.16, 'duration': 4.559}
+{'text': 'does not matter it does not matter', 'start': 60.239, 'duration': 5.121}
+{'text': "because it's not unnatural it's not", 'start': 62.719, 'duration': 4.961}
+{'text': 'unnatural to be trans unless you think', 'start': 65.36, 'duration': 4.32}
+{'text': "it's unnatural to be trans in which case", 'start': 67.68, 'duration': 4.96}
+{'text': "you are transphobic that's it", 'start': 69.68, 'duration': 5.68}
+{'text': "that's the take", 'start': 72.64, 'duration': 2.72}
+{'text': 'your arguments on the transports panel', 'start': 78.4, 'duration': 2.719}
+{'text': 'pissed me off every time you compared', 'start': 79.92, 'duration': 2.239}
+{'text': 'the strength of men and women i thought', 'start': 81.119, 'duration': 2.721}
+{'text': 'it was stupid and seeing bad faith it', 'start': 82.159, 'duration': 3.28}
+{'text': 'dodges the actual serious question which', 'start': 83.84, 'duration': 4.08}
+{'text': 'is does hrt attenuate the difference by', 'start': 85.439, 'duration': 4.241}
+{'text': 'enough to make things fair the reason', 'start': 87.92, 'duration': 3.6}
+{'text': 'why the conversation has to start here', 'start': 89.68, 'duration': 5.6}
+{'text': "is because most people don't have um", 'start': 91.52, 'duration': 3.76}
+{'text': "like most people don't acknowledge this", 'start': 95.439, 'duration': 3.36}
+{'text': 'i i think most of the trans community', 'start': 97.2, 'duration': 3.2}
+{'text': "and most people that argue online don't", 'start': 98.799, 'duration': 3.121}
+{'text': "think there's that big of a difference", 'start': 100.4, 'duration': 2.96}
+{'text': 'so i think the conversation has to start', 'start': 101.92, 'duration': 3.04}
+{'text': 'with people acknowledging how big the', 'start': 103.36, 'duration': 2.88}
+{'text': 'difference is because i think people', 'start': 104.96, 'duration': 2.799}
+{'text': "just don't understand it and then from", 'start': 106.24, 'duration': 2.8}
+{'text': 'there you can have a conversation about', 'start': 107.759, 'duration': 2.72}
+{'text': 'like does hatred tear whatever change', 'start': 109.04, 'duration': 3.039}
+{'text': 'things but the reality is', 'start': 110.479, 'duration': 3.68}
+{'text': 'is like all of the long-term research', 'start': 112.079, 'duration': 4.08}
+{'text': 'says no and even like the most staunch', 'start': 114.159, 'duration': 3.521}
+{'text': 'advocates that i was arguing against', 'start': 116.159, 'duration': 2.881}
+{'text': 'conceded as much like okay yeah it', 'start': 117.68, 'duration': 2.96}
+{'text': "doesn't but they but their cop-out was", 'start': 119.04, 'duration': 2.88}
+{'text': 'always like but we need to control for', 'start': 120.64, 'duration': 3.28}
+{'text': 'height in all these studies which is', 'start': 121.92, 'duration': 3.92}
+{'text': 'ridiculous because height is one of the', 'start': 123.92, 'duration': 3.68}
+{'text': 'big genetic advantages conferred on men', 'start': 125.84, 'duration': 3.52}
+{'text': 'from women', 'start': 127.6, 'duration': 3.999}
+{'text': 'if average cis women traits are', 'start': 129.36, 'duration': 4.16}
+{'text': 'clustered around here', 'start': 131.599, 'duration': 4.241}
+{'text': 'and then like average um', 'start': 133.52, 'duration': 4.079}
+{'text': 'cis male traits are clustered around', 'start': 135.84, 'duration': 3.119}
+{'text': 'here', 'start': 137.599, 'duration': 2.481}
+{'text': "it's like", 'start': 138.959, 'duration': 2.881}
+{'text': "you're trying to make this argument that", 'start': 140.08, 'duration': 3.12}
+{'text': 'like um', 'start': 141.84, 'duration': 3.6}
+{'text': 'once people transition they shift down', 'start': 143.2, 'duration': 3.44}
+{'text': 'this curve', 'start': 145.44, 'duration': 2.48}
+{'text': "maybe we'll say that they're like at", 'start': 146.64, 'duration': 2.8}
+{'text': 'this point they shift down to below', 'start': 147.92, 'duration': 3.84}
+{'text': 'average um whatever the male performance', 'start': 149.44, 'duration': 3.36}
+{'text': 'will be or we can even shift it down', 'start': 151.76, 'duration': 2.479}
+{'text': 'more we can even shut down more', 'start': 152.8, 'duration': 3.439}
+{'text': 'regardless wherever you shift this curve', 'start': 154.239, 'duration': 4.321}
+{'text': 'down at the the distribution is going to', 'start': 156.239, 'duration': 4.64}
+{'text': "be totally [\xa0__\xa0] because you're taking", 'start': 158.56, 'duration': 4.0}
+{'text': 'a trans woman that can be a wholly', 'start': 160.879, 'duration': 3.681}
+{'text': 'average cis male prior to transitioning', 'start': 162.56, 'duration': 3.759}
+{'text': 'and as now as a trans woman just by', 'start': 164.56, 'duration': 3.44}
+{'text': "virtue being trans women they're already", 'start': 166.319, 'duration': 5.681}
+{'text': 'way ahead of 98 99 of women before we', 'start': 168.0, 'duration': 5.28}
+{'text': "even start to talk about like well who's", 'start': 172.0, 'duration': 2.879}
+{'text': "competing in sports who's doing whatever", 'start': 173.28, 'duration': 3.28}
+{'text': 'like', 'start': 174.879, 'duration': 3.36}
+{'text': 'like like like are we are we just', 'start': 176.56, 'duration': 3.12}
+{'text': 'specifically talking about like height', 'start': 178.239, 'duration': 2.881}
+{'text': 'here', 'start': 179.68, 'duration': 2.559}
+{'text': 'well if we want to talk about the', 'start': 181.12, 'duration': 2.24}
+{'text': 'problem is when we try to talk about', 'start': 182.239, 'duration': 2.321}
+{'text': 'other things like lean body mass or', 'start': 183.36, 'duration': 2.32}
+{'text': 'whatever you want to throw away all', 'start': 184.56, 'duration': 2.24}
+{'text': 'those studies because you say well they', 'start': 185.68, 'duration': 2.8}
+{'text': "didn't control for height", 'start': 186.8, 'duration': 3.2}
+{'text': "oh well no i don't want to throw away", 'start': 188.48, 'duration': 2.88}
+{'text': 'them actually actually i actually like', 'start': 190.0, 'duration': 2.879}
+{'text': 'uh with uh for example the one that you', 'start': 191.36, 'duration': 4.32}
+{'text': 'posted the joanna harper uh british', 'start': 192.879, 'duration': 4.72}
+{'text': 'review of 24 studies i actually that', 'start': 195.68, 'duration': 3.68}
+{'text': "that's actually something that i that i", 'start': 197.599, 'duration': 3.761}
+{'text': 'that i do like i do like criticize like', 'start': 199.36, 'duration': 3.12}
+{'text': 'like i do have the criticism that', 'start': 201.36, 'duration': 3.36}
+{'text': "doesn't control for height but like the", 'start': 202.48, 'duration': 4.319}
+{'text': 'study itself at like the conclusions', 'start': 204.72, 'duration': 3.519}
+{'text': "from the study say that they're like we", 'start': 206.799, 'duration': 3.681}
+{'text': 'cannot make any uh conclusions based on', 'start': 208.239, 'duration': 3.761}
+{'text': 'based on the evidence that we have like', 'start': 210.48, 'duration': 3.119}
+{'text': 'more research needs to be done and that', 'start': 212.0, 'duration': 3.28}
+{'text': 'research would control for height', 'start': 213.599, 'duration': 2.801}
+{'text': "because if you're going to if you want", 'start': 215.28, 'duration': 3.679}
+{'text': 'to talk about the effects of hrt on', 'start': 216.4, 'duration': 4.479}
+{'text': 'stuff like lean body mass stuff like uh', 'start': 218.959, 'duration': 4.64}
+{'text': 'st uh on the stuff that like matters uh', 'start': 220.879, 'duration': 4.321}
+{'text': 'like because again like lean body mass', 'start': 223.599, 'duration': 3.681}
+{'text': 'is one of the biggest factors for uh', 'start': 225.2, 'duration': 3.44}
+{'text': 'like the discrepancy between male and', 'start': 227.28, 'duration': 3.519}
+{'text': 'female sports performance is that well', 'start': 228.64, 'duration': 4.64}
+{'text': 'you would want to compare a trans woman', 'start': 230.799, 'duration': 5.121}
+{'text': 'to a cis woman who has similar like', 'start': 233.28, 'duration': 4.72}
+{'text': "stats like let's say", 'start': 235.92, 'duration': 3.76}
+{'text': 'similar height because because that way', 'start': 238.0, 'duration': 2.959}
+{'text': 'because then you can see the effect of', 'start': 239.68, 'duration': 3.6}
+{'text': 'hrt and if hrt you know brings the', 'start': 240.959, 'duration': 4.161}
+{'text': "transwomen's lean body mass down to cyst", 'start': 243.28, 'duration': 4.4}
+{'text': 'levels or like slightly above which is', 'start': 245.12, 'duration': 4.72}
+{'text': 'this study um', 'start': 247.68, 'duration': 3.6}
+{'text': "seems like it's", 'start': 249.84, 'duration': 4.56}
+{'text': 'almost exclusively looking at um', 'start': 251.28, 'duration': 4.799}
+{'text': 'like bone mass and bone density that', 'start': 254.4, 'duration': 2.88}
+{'text': 'seems like the most important thing that', 'start': 256.079, 'duration': 3.521}
+{'text': 'this study was focusing on and', 'start': 257.28, 'duration': 4.639}
+{'text': "lean mass it's both of them", 'start': 259.6, 'duration': 3.84}
+{'text': 'wait', 'start': 261.919, 'duration': 3.28}
+{'text': "is it or is it just this it's only", 'start': 263.44, 'duration': 5.96}
+{'text': 'talking about appendicular lean mass', 'start': 265.199, 'duration': 4.201}
+{'text': 'yes', 'start': 270.479, 'duration': 3.121}
+{'text': "that's that's only appendicular is uh", 'start': 271.36, 'duration': 3.839}
+{'text': "your that's only your arms and legs", 'start': 273.6, 'duration': 3.44}
+{'text': 'right', 'start': 275.199, 'duration': 4.161}
+{'text': "so i i don't know what the i i don't", 'start': 277.04, 'duration': 4.32}
+{'text': 'know why i would take that', 'start': 279.36, 'duration': 3.68}
+{'text': 'as being more important like looking at', 'start': 281.36, 'duration': 3.36}
+{'text': 'overall like', 'start': 283.04, 'duration': 3.36}
+{'text': 'well because because we have a because', 'start': 284.72, 'duration': 5.36}
+{'text': 'we have very uh little uh data on on on', 'start': 286.4, 'duration': 4.72}
+{'text': 'on', 'start': 290.08, 'duration': 3.839}
+{'text': 'on lean maps and such uh', 'start': 291.12, 'duration': 4.639}
+{'text': 'like this is just like one like one', 'start': 293.919, 'duration': 4.0}
+{'text': 'example uh like i said uh', 'start': 295.759, 'duration': 4.241}
+{'text': 'like like the hud like the harper', 'start': 297.919, 'duration': 3.28}
+{'text': 'um', 'start': 300.0, 'duration': 3.68}
+{'text': 'the harper view uh which is the the the', 'start': 301.199, 'duration': 5.44}
+{'text': 'best review that we have uh to date um', 'start': 303.68, 'duration': 4.88}
+{'text': 'uh shows that like hemoglobin levels are', 'start': 306.639, 'duration': 4.641}
+{'text': 'the same sure yeah so some some we okay', 'start': 308.56, 'duration': 4.24}
+{'text': 'so some blood stuff can be like very', 'start': 311.28, 'duration': 3.28}
+{'text': 'responsive to hormones i understand that', 'start': 312.8, 'duration': 3.679}
+{'text': 'yeah exactly which i was just i was just', 'start': 314.56, 'duration': 3.359}
+{'text': 'going through the yeah yeah sure hold on', 'start': 316.479, 'duration': 3.44}
+{'text': 'just focusing sure but just focusing on', 'start': 317.919, 'duration': 3.921}
+{'text': 'this one thing right so this study looks', 'start': 319.919, 'duration': 3.361}
+{'text': 'like that it was taken', 'start': 321.84, 'duration': 2.72}
+{'text': 'three months', 'start': 323.28, 'duration': 2.88}
+{'text': 'or the study was done three months after', 'start': 324.56, 'duration': 3.04}
+{'text': 'treatment right', 'start': 326.16, 'duration': 3.44}
+{'text': 'so three months after treatment think', 'start': 327.6, 'duration': 4.48}
+{'text': "let's think effect size for our study", 'start': 329.6, 'duration': 4.48}
+{'text': 'are you telling me that this study after', 'start': 332.08, 'duration': 4.64}
+{'text': 'three months saw no difference in lean', 'start': 334.08, 'duration': 5.36}
+{'text': 'body mass between trans women and cis', 'start': 336.72, 'duration': 4.0}
+{'text': "women you know that's not true based on", 'start': 339.44, 'duration': 2.24}
+{'text': 'everything else you read right so this', 'start': 340.72, 'duration': 2.479}
+{'text': 'study was clearly focusing on something', 'start': 341.68, 'duration': 3.04}
+{'text': "else like bone density is what it's", 'start': 343.199, 'duration': 3.28}
+{'text': "looking at otherwise that's what that's", 'start': 344.72, 'duration': 3.759}
+{'text': "an appendicular mass it didn't it didn't", 'start': 346.479, 'duration': 4.321}
+{'text': "uh it didn't uh go for like like total", 'start': 348.479, 'duration': 3.601}
+{'text': "sure but i'm just saying that like we", 'start': 350.8, 'duration': 2.959}
+{'text': "would never you you shouldn't be citing", 'start': 352.08, 'duration': 3.52}
+{'text': 'this to me as an example of how similar', 'start': 353.759, 'duration': 4.081}
+{'text': 'they are um trans women and cis women', 'start': 355.6, 'duration': 6.159}
+{'text': 'because the the effect here is insane', 'start': 357.84, 'duration': 3.919}
+{'text': 'again the average male height is like', 'start': 362.4, 'duration': 4.72}
+{'text': 'five nine and a half and a five nine and', 'start': 364.72, 'duration': 6.08}
+{'text': 'a half male is taller than 98 of women', 'start': 367.12, 'duration': 6.48}
+{'text': 'of cis women so i mean like', 'start': 370.8, 'duration': 4.0}
+{'text': "it's just but i think it's like one of", 'start': 373.6, 'duration': 4.24}
+{'text': 'those arguments like super', 'start': 374.8, 'duration': 3.04}
+{'text': "i think it's just super obvious i don't", 'start': 379.36, 'duration': 3.119}
+{'text': "know i don't think anybody engages in", 'start': 380.8, 'duration': 3.36}
+{'text': 'good faith the whole conversation seems', 'start': 382.479, 'duration': 2.881}
+{'text': 'painfully partisan for every party', 'start': 384.16, 'duration': 2.64}
+{'text': 'involved yeah because conservatives just', 'start': 385.36, 'duration': 2.32}
+{'text': 'want to jump on the other end and', 'start': 386.8, 'duration': 3.36}
+{'text': "dogpile too so it's just but i mean like", 'start': 387.68, 'duration': 4.16}
+{'text': 'i think i think every conversation in', 'start': 390.16, 'duration': 3.2}
+{'text': 'the internet is dog [\xa0__\xa0] because nobody', 'start': 391.84, 'duration': 3.12}
+{'text': "again nobody's actually invested in any", 'start': 393.36, 'duration': 3.04}
+{'text': "of these topics i think that it's just", 'start': 394.96, 'duration': 3.12}
+{'text': 'an ability for you to virtue signal i', 'start': 396.4, 'duration': 3.359}
+{'text': "think that's all they become and then if", 'start': 398.08, 'duration': 2.88}
+{'text': 'you look if you view it through that', 'start': 399.759, 'duration': 3.601}
+{'text': 'lens like everything kind of makes sense', 'start': 400.96, 'duration': 3.84}
+{'text': 'right on the trans side they want to be', 'start': 403.36, 'duration': 3.52}
+{'text': 'as extreme as possible you know get like', 'start': 404.8, 'duration': 3.76}
+{'text': 'who people on that panel were saying ban', 'start': 406.88, 'duration': 3.12}
+{'text': "women's sports", 'start': 408.56, 'duration': 2.72}
+{'text': "who gives a [\xa0__\xa0] before you can't", 'start': 410.0, 'duration': 3.44}
+{'text': 'compete at the top level', 'start': 411.28, 'duration': 3.6}
+{'text': "i mean that's essentially the argument", 'start': 413.44, 'duration': 4.159}
+{'text': 'who watches women', 'start': 414.88, 'duration': 4.96}
+{'text': 'a ranking system based on skill is', 'start': 417.599, 'duration': 4.401}
+{'text': 'completely fine and that you have', 'start': 419.84, 'duration': 4.68}
+{'text': 'classes for like the 800 to', 'start': 422.0, 'duration': 6.56}
+{'text': '1600 to you know 7.99 [\xa0__\xa0] like that', 'start': 424.52, 'duration': 6.28}
+{'text': 'sounds completely reasonable to me and', 'start': 428.56, 'duration': 5.28}
+{'text': "if it eliminates uh women's spaces from", 'start': 430.8, 'duration': 6.16}
+{'text': 'sports and makes it so that', 'start': 433.84, 'duration': 4.88}
+{'text': "i mean keep in mind it'd be eliminating", 'start': 436.96, 'duration': 4.48}
+{'text': "men's spaces from sports as well and i", 'start': 438.72, 'duration': 6.16}
+{'text': 'have absolutely no issue with that um', 'start': 441.44, 'duration': 5.44}
+{'text': 'the turfs are completely right i do want', 'start': 444.88, 'duration': 5.12}
+{'text': 'to actually get rid of gendered spaces', 'start': 446.88, 'duration': 5.52}
+{'text': 'uh in the sports arena and that they are', 'start': 450.0, 'duration': 5.36}
+{'text': "100 right and i don't base my opinions", 'start': 452.4, 'duration': 5.76}
+{'text': 'off of what the most radical turfs you', 'start': 455.36, 'duration': 4.959}
+{'text': "know fear that i'm going to do", 'start': 458.16, 'duration': 3.52}
+{'text': "or like just get rid of women's sports", 'start': 460.319, 'duration': 2.72}
+{'text': "but on the conservative side it's like", 'start': 461.68, 'duration': 2.799}
+{'text': '[\xa0__\xa0] all trans people this is all evil', 'start': 463.039, 'duration': 2.72}
+{'text': 'horrible [\xa0__\xa0] anyway we should never', 'start': 464.479, 'duration': 3.601}
+{'text': "have trans people so it's like everybody", 'start': 465.759, 'duration': 3.921}
+{'text': 'just uses all of these issues just', 'start': 468.08, 'duration': 2.72}
+{'text': 'become like a vehicle through which', 'start': 469.68, 'duration': 2.4}
+{'text': 'people can channel whatever virtually', 'start': 470.8, 'duration': 2.48}
+{'text': 'signal they want', 'start': 472.08, 'duration': 3.76}
+{'text': 'for um', 'start': 473.28, 'duration': 2.56}
+{'text': "for whether they like or don't like", 'start': 476.639, 'duration': 4.4}
+{'text': 'trans people i guess yeah', 'start': 478.0, 'duration': 3.039}
+{'text': 'are there any trans men in the politics', 'start': 483.28, 'duration': 2.88}
+{'text': 'space i feel like everyone is a trans', 'start': 484.639, 'duration': 4.0}
+{'text': "woman uh woman um they're i think in", 'start': 486.16, 'duration': 3.52}
+{'text': 'real life the numbers are a little bit', 'start': 488.639, 'duration': 2.321}
+{'text': 'closer but on the internet you get way', 'start': 489.68, 'duration': 2.48}
+{'text': 'more attention for being a woman than', 'start': 490.96, 'duration': 2.639}
+{'text': 'you do for being a man so trans men', 'start': 492.16, 'duration': 2.479}
+{'text': "probably just don't get much attention", 'start': 493.599, 'duration': 2.241}
+{'text': 'even if they are out there you get way', 'start': 494.639, 'duration': 2.641}
+{'text': 'more validation and attention being a', 'start': 495.84, 'duration': 3.919}
+{'text': 'woman in these conversations', 'start': 497.28, 'duration': 4.24}
+{'text': 'one thing that is kind of frustrating is', 'start': 499.759, 'duration': 3.84}
+{'text': "that like it wouldn't surprise me if", 'start': 501.52, 'duration': 5.6}
+{'text': "there's just not like that much research", 'start': 503.599, 'duration': 5.521}
+{'text': 'um because all of it is so new and i', 'start': 507.12, 'duration': 3.84}
+{'text': 'think that um', 'start': 509.12, 'duration': 3.2}
+{'text': 'i think that a lot of the people that', 'start': 510.96, 'duration': 3.04}
+{'text': 'advocate for trans athletes to be', 'start': 512.32, 'duration': 3.36}
+{'text': 'included with cis athletes of the', 'start': 514.0, 'duration': 3.919}
+{'text': 'genders that they identify with kind of', 'start': 515.68, 'duration': 4.88}
+{'text': 'like thrive in this gray zone', 'start': 517.919, 'duration': 4.8}
+{'text': 'where i feel like a long time ago it was', 'start': 520.56, 'duration': 2.959}
+{'text': 'like', 'start': 522.719, 'duration': 2.001}
+{'text': "show me one trans athlete that's", 'start': 523.519, 'duration': 3.281}
+{'text': "dominating and then it's like now it's", 'start': 524.72, 'duration': 3.76}
+{'text': 'like show me a million trans athletes', 'start': 526.8, 'duration': 2.96}
+{'text': "that are dominating and it's like", 'start': 528.48, 'duration': 3.12}
+{'text': 'basically the the goal post has moved to', 'start': 529.76, 'duration': 2.88}
+{'text': "where like if you can't show the trans", 'start': 531.6, 'duration': 2.48}
+{'text': 'athletes are dominating the top of every', 'start': 532.64, 'duration': 3.44}
+{'text': "like women's sport then it's not a real", 'start': 534.08, 'duration': 4.24}
+{'text': "problem or something um which i don't", 'start': 536.08, 'duration': 5.439}
+{'text': 'know if i buy that explanation', 'start': 538.32, 'duration': 4.079}
+{'text': 'um', 'start': 541.519, 'duration': 2.32}
+{'text': "i think there's also like there i think", 'start': 542.399, 'duration': 3.921}
+{'text': 'there is some fringe work around like', 'start': 543.839, 'duration': 4.801}
+{'text': 'researching like oxygen like lung', 'start': 546.32, 'duration': 4.32}
+{'text': 'capacity and bone structure and then', 'start': 548.64, 'duration': 3.199}
+{'text': 'people will go on to say like oh well', 'start': 550.64, 'duration': 2.639}
+{'text': "look there's no research showing that", 'start': 551.839, 'duration': 3.361}
+{'text': 'like greater lung capacity or like', 'start': 553.279, 'duration': 3.841}
+{'text': 'bigger you know skeletal muscular', 'start': 555.2, 'duration': 3.04}
+{'text': 'structures are going to actually help', 'start': 557.12, 'duration': 2.96}
+{'text': "you athletically and it's like man you", 'start': 558.24, 'duration': 3.52}
+{'text': 'know there might not be the research but', 'start': 560.08, 'duration': 3.759}
+{'text': "that feels so intuitively wrong i don't", 'start': 561.76, 'duration': 3.68}
+{'text': 'know if i actually believe it which is', 'start': 563.839, 'duration': 3.12}
+{'text': 'maybe a little bit of an anti-scientific', 'start': 565.44, 'duration': 4.24}
+{'text': "thing to say that it's like obama newly", 'start': 566.959, 'duration': 4.56}
+{'text': 'dark what are you talking about scrub', 'start': 569.68, 'duration': 2.8}
+{'text': 'king', 'start': 571.519, 'duration': 2.641}
+{'text': 'i think the thing that people jangles', 'start': 572.48, 'duration': 4.32}
+{'text': 'might be able to talk with you yeah i i', 'start': 574.16, 'duration': 4.72}
+{'text': "saw some of the video like obama i don't", 'start': 576.8, 'duration': 3.12}
+{'text': 'know maybe', 'start': 578.88, 'duration': 2.8}
+{'text': 'um i think the thing that i have the', 'start': 579.92, 'duration': 2.96}
+{'text': "hardest time i don't know jingle's", 'start': 581.68, 'duration': 3.279}
+{'text': 'address is this the thing that i think', 'start': 582.88, 'duration': 3.92}
+{'text': 'is the hardest to address is like the', 'start': 584.959, 'duration': 4.081}
+{'text': 'fact that you can train', 'start': 586.8, 'duration': 4.88}
+{'text': 'as a biological male through puberty', 'start': 589.04, 'duration': 5.12}
+{'text': 'and then switch over and then compete as', 'start': 591.68, 'duration': 3.12}
+{'text': 'a', 'start': 594.16, 'duration': 2.799}
+{'text': "as a woman in like a woman sport i don't", 'start': 594.8, 'duration': 4.159}
+{'text': "know how you can ever say that that's", 'start': 596.959, 'duration': 3.761}
+{'text': 'fair or how you ever overcome that', 'start': 598.959, 'duration': 2.961}
+{'text': 'difference', 'start': 600.72, 'duration': 2.0}
+{'text': 'um', 'start': 601.92, 'duration': 3.84}
+{'text': "i've never heard a good response to that", 'start': 602.72, 'duration': 4.239}
+{'text': 'has nobody made theoretical new', 'start': 605.76, 'duration': 2.88}
+{'text': 'categories for sports the problem is', 'start': 606.959, 'duration': 4.241}
+{'text': 'that um', 'start': 608.64, 'duration': 2.56}
+{'text': 'the problem is that', 'start': 611.519, 'duration': 4.081}
+{'text': 'people see the battle as a moral one and', 'start': 613.12, 'duration': 3.76}
+{'text': "they don't really care about the sport", 'start': 615.6, 'duration': 3.679}
+{'text': 'itself so when you suggest a new sport', 'start': 616.88, 'duration': 3.92}
+{'text': "people aren't really thinking of like oh", 'start': 619.279, 'duration': 3.441}
+{'text': 'well is this good for athletic whatever', 'start': 620.8, 'duration': 3.52}
+{'text': 'or not what instead they think is like', 'start': 622.72, 'duration': 2.88}
+{'text': "oh you think trans people aren't real", 'start': 624.32, 'duration': 2.639}
+{'text': "women or you think it's always trans", 'start': 625.6, 'duration': 3.2}
+{'text': 'women also nobody cares about men ever', 'start': 626.959, 'duration': 3.601}
+{'text': 'nobody nobody goes about trans men or', 'start': 628.8, 'duration': 4.0}
+{'text': "cis men are gay um so this this it's not", 'start': 630.56, 'duration': 3.44}
+{'text': "even trans athletes in sports we're", 'start': 632.8, 'duration': 2.719}
+{'text': 'really only talking about trans women in', 'start': 634.0, 'duration': 2.64}
+{'text': "sports because trans men aren't", 'start': 635.519, 'duration': 2.56}
+{'text': 'competitive for the same reasons why', 'start': 636.64, 'duration': 3.68}
+{'text': 'trans women are super competitive um', 'start': 638.079, 'duration': 3.681}
+{'text': "there's a reason why is because you", 'start': 640.32, 'duration': 3.519}
+{'text': "can't like if you went through puberty", 'start': 641.76, 'duration': 4.4}
+{'text': "as a female and now you've gotten some", 'start': 643.839, 'duration': 4.321}
+{'text': 'hrt and now your hormone profile looks', 'start': 646.16, 'duration': 3.119}
+{'text': "similar to a male you're not gonna be", 'start': 648.16, 'duration': 2.64}
+{'text': "competitive ever trans men don't compete", 'start': 649.279, 'duration': 3.841}
+{'text': 'with cis men in like any sport except', 'start': 650.8, 'duration': 4.32}
+{'text': "for there's like two like athletes that", 'start': 653.12, 'duration': 4.24}
+{'text': "people want to link and they're the only", 'start': 655.12, 'duration': 4.24}
+{'text': 'sports where cis women are', 'start': 657.36, 'duration': 3.12}
+{'text': 'semi-competitive', 'start': 659.36, 'duration': 3.2}
+{'text': "and one is like i'm not even making this", 'start': 660.48, 'duration': 3.76}
+{'text': 'responded to me in check yesterday until', 'start': 662.56, 'duration': 3.44}
+{'text': 'watching the video but you said i was', 'start': 664.24, 'duration': 3.52}
+{'text': 'virtue signaling but telling you cat as', 'start': 666.0, 'duration': 3.2}
+{'text': 'a woman is a reasonable answer to', 'start': 667.76, 'duration': 3.12}
+{'text': "whether she's non-binary or not you owe", 'start': 669.2, 'duration': 2.96}
+{'text': 'me an apology because i will never', 'start': 670.88, 'duration': 3.92}
+{'text': 'recover otherwise reread', 'start': 672.16, 'duration': 3.52}
+{'text': 'cool', 'start': 674.8, 'duration': 2.24}
+{'text': 'um', 'start': 675.68, 'duration': 3.04}
+{'text': "[\xa0__\xa0] i don't remember what i was saying", 'start': 677.04, 'duration': 3.919}
+{'text': 'uh', 'start': 678.72, 'duration': 2.239}
+{'text': "i don't remember what i was saying", 'start': 681.2, 'duration': 2.96}
+{'text': 'obama true', 'start': 684.959, 'duration': 3.88}
+{'text': 'oh the only things that people are', 'start': 691.04, 'duration': 3.039}
+{'text': 'competitive in are like [\xa0__\xa0] um power', 'start': 692.32, 'duration': 4.16}
+{'text': 'walking like that sport that', 'start': 694.079, 'duration': 4.32}
+{'text': 'um and then the only sports that women', 'start': 696.48, 'duration': 3.359}
+{'text': 'tend to be competitive with men in are', 'start': 698.399, 'duration': 4.56}
+{'text': 'endurance sports so i think that like', 'start': 699.839, 'duration': 5.201}
+{'text': 'for ultra marathons and stuff i think', 'start': 702.959, 'duration': 4.88}
+{'text': 'that women get closer to immense times', 'start': 705.04, 'duration': 4.239}
+{'text': 'there than they would like in sprinting', 'start': 707.839, 'duration': 3.761}
+{'text': 'or something', 'start': 709.279, 'duration': 3.761}
+{'text': 'you say elbow power wang but apparently', 'start': 711.6, 'duration': 2.72}
+{'text': "it's an olympic sport i didn't know it", 'start': 713.04, 'duration': 3.12}
+{'text': 'until somebody linked trans athletes to', 'start': 714.32, 'duration': 3.92}
+{'text': 'me on in a debate one time to own me and', 'start': 716.16, 'duration': 3.44}
+{'text': 'then i looked up like oh well what does', 'start': 718.24, 'duration': 3.68}
+{'text': "this person compete in and it it's", 'start': 719.6, 'duration': 4.16}
+{'text': "it's power it's i guess i don't know if", 'start': 721.92, 'duration': 3.28}
+{'text': 'it was olympic or not was it olympic i', 'start': 723.76, 'duration': 3.519}
+{'text': "think it was but it was it's it's called", 'start': 725.2, 'duration': 3.36}
+{'text': "um i don't think it's called power", 'start': 727.279, 'duration': 3.281}
+{'text': "walking i think it's called race walking", 'start': 728.56, 'duration': 3.76}
+{'text': 'where you but one foot has to be on the', 'start': 730.56, 'duration': 3.68}
+{'text': "ground the whole time and it's yeah it", 'start': 732.32, 'duration': 3.44}
+{'text': 'is olympic okay yeah it was i looked at', 'start': 734.24, 'duration': 2.56}
+{'text': "it i was like okay yeah i don't think", 'start': 735.76, 'duration': 4.16}
+{'text': 'this is helping your argument chief', 'start': 736.8, 'duration': 5.36}
+{'text': "but the um yeah it's just like the thing", 'start': 739.92, 'duration': 5.2}
+{'text': 'is you foster like so many or so you', 'start': 742.16, 'duration': 4.72}
+{'text': 'foster so much bad will', 'start': 745.12, 'duration': 3.44}
+{'text': 'do you think that trans athletes that', 'start': 746.88, 'duration': 3.36}
+{'text': 'transitioned before early puberty should', 'start': 748.56, 'duration': 3.2}
+{'text': 'be allowed to compete in sports with sis', 'start': 750.24, 'duration': 3.92}
+{'text': 'athletes um if you transition before', 'start': 751.76, 'duration': 4.4}
+{'text': "puberty i think there's stronger", 'start': 754.16, 'duration': 6.239}
+{'text': 'arguments for it for sure um', 'start': 756.16, 'duration': 7.679}
+{'text': 'but but post puberty is really hard like', 'start': 760.399, 'duration': 5.281}
+{'text': "i'm an older person who got into", 'start': 763.839, 'duration': 3.761}
+{'text': 'weightlifting seriously as an older', 'start': 765.68, 'duration': 4.08}
+{'text': 'person so i say that okay knowing that', 'start': 767.6, 'duration': 2.96}
+{'text': 'like', 'start': 769.76, 'duration': 2.639}
+{'text': "okay i'm not trying to sound disparaging", 'start': 770.56, 'duration': 4.56}
+{'text': 'or anything all right you should try the', 'start': 772.399, 'duration': 4.161}
+{'text': 'hardest you can', 'start': 775.12, 'duration': 3.04}
+{'text': 'in all of your life for everything you', 'start': 776.56, 'duration': 4.079}
+{'text': "do all right always because it's good to", 'start': 778.16, 'duration': 5.119}
+{'text': 'self-improve and all that', 'start': 780.639, 'duration': 7.2}
+{'text': 'however tabor will agree with me here', 'start': 783.279, 'duration': 4.56}
+{'text': 'nobody goes from like being not that', 'start': 788.16, 'duration': 5.44}
+{'text': 'involved in sports to being like a d1', 'start': 790.399, 'duration': 5.761}
+{'text': "athlete like i'm pretty sure that you", 'start': 793.6, 'duration': 5.2}
+{'text': 'can pick these people out if not in', 'start': 796.16, 'duration': 4.96}
+{'text': 'middle school in like the freshman year', 'start': 798.8, 'duration': 3.599}
+{'text': 'of high school', 'start': 801.12, 'duration': 4.64}
+{'text': 'nobody goes from being like oh you know', 'start': 802.399, 'duration': 4.88}
+{'text': "i don't know if i want to try a sport or", 'start': 805.76, 'duration': 4.56}
+{'text': "not when they're like 20 and then by 22", 'start': 807.279, 'duration': 4.641}
+{'text': "they're like star players on their", 'start': 810.32, 'duration': 3.04}
+{'text': 'college teams', 'start': 811.92, 'duration': 4.159}
+{'text': "i i just i don't think that happens", 'start': 813.36, 'duration': 4.479}
+{'text': 'so when people are saying things like oh', 'start': 816.079, 'duration': 3.12}
+{'text': 'well this person transitioned you know', 'start': 817.839, 'duration': 2.56}
+{'text': 'when they were like 20 or whatever and', 'start': 819.199, 'duration': 3.121}
+{'text': "it's like okay so", 'start': 820.399, 'duration': 3.521}
+{'text': "what like they've already gotten to", 'start': 822.32, 'duration': 4.639}
+{'text': 'train a hardcore amount like as a', 'start': 823.92, 'duration': 6.159}
+{'text': 'different sex um', 'start': 826.959, 'duration': 5.201}
+{'text': "like you can't tell me that this person", 'start': 830.079, 'duration': 3.521}
+{'text': 'is on the same playing field as', 'start': 832.16, 'duration': 2.72}
+{'text': "everybody else it just doesn't that's", 'start': 833.6, 'duration': 2.96}
+{'text': "there's no way it's just it's not how", 'start': 834.88, 'duration': 3.759}
+{'text': 'that works', 'start': 836.56, 'duration': 3.519}
+{'text': 'is there any place to put blame the', 'start': 838.639, 'duration': 2.721}
+{'text': 'trans females themselves continue to', 'start': 840.079, 'duration': 2.721}
+{'text': 'play in these sports while knowing they', 'start': 841.36, 'duration': 3.44}
+{'text': "have an unfair advantage um i don't know", 'start': 842.8, 'duration': 3.2}
+{'text': 'if i would saddle the blame on an', 'start': 844.8, 'duration': 2.32}
+{'text': 'individual i mean if you want to compete', 'start': 846.0, 'duration': 2.959}
+{'text': 'and play sports i mean like', 'start': 847.12, 'duration': 3.12}
+{'text': "i can understand the person's desire to", 'start': 848.959, 'duration': 2.961}
+{'text': "do so i don't know if i would blame the", 'start': 850.24, 'duration': 3.2}
+{'text': 'individual also you got to consider', 'start': 851.92, 'duration': 2.719}
+{'text': 'these people in some of these sporting', 'start': 853.44, 'duration': 3.44}
+{'text': 'events are like what how old is this the', 'start': 854.639, 'duration': 4.0}
+{'text': "tally or whatever person it's like 20 or", 'start': 856.88, 'duration': 3.44}
+{'text': 'something like am i am i really going to', 'start': 858.639, 'duration': 3.361}
+{'text': 'say like you have [\xa0__\xa0] up all these', 'start': 860.32, 'duration': 3.12}
+{'text': "social issues like i wouldn't i was a", 'start': 862.0, 'duration': 3.6}
+{'text': "[\xa0__\xa0] [\xa0__\xa0] at 20. i don't know dude i", 'start': 863.44, 'duration': 4.959}
+{'text': "don't think i would um", 'start': 865.6, 'duration': 4.64}
+{'text': 'like [\xa0__\xa0] yeah [\xa0__\xa0] it if the rules say', 'start': 868.399, 'duration': 3.44}
+{'text': 'you compete then [\xa0__\xa0] compete dude', 'start': 870.24, 'duration': 2.88}
+{'text': 'who cares', 'start': 871.839, 'duration': 3.521}
+{'text': 'like [\xa0__\xa0] [\xa0__\xa0] everybody else dude hey', 'start': 873.12, 'duration': 3.44}
+{'text': 'if the rules say you could do it then', 'start': 875.36, 'duration': 3.2}
+{'text': "[\xa0__\xa0] go for it that ain't on you", 'start': 876.56, 'duration': 4.24}
+{'text': 'but', 'start': 878.56, 'duration': 2.24}
+{'text': 'the basketball rankings in middle school', 'start': 881.44, 'duration': 2.72}
+{'text': "are usually pretty accurate but who's", 'start': 883.12, 'duration': 2.079}
+{'text': 'going to be the nba is that true is it', 'start': 884.16, 'duration': 2.239}
+{'text': "really that soon yeah i don't know if", 'start': 885.199, 'duration': 2.561}
+{'text': "it's necessarily middle school but i", 'start': 886.399, 'duration': 2.481}
+{'text': 'know like by freshman year of high', 'start': 887.76, 'duration': 2.48}
+{'text': 'school like you can pick you can pick', 'start': 888.88, 'duration': 2.959}
+{'text': 'the winners', 'start': 890.24, 'duration': 3.12}
+{'text': 'is this not sort of comparable to people', 'start': 891.839, 'duration': 3.601}
+{'text': 'being popped for ped usage then allowed', 'start': 893.36, 'duration': 4.24}
+{'text': 'back into the sport after some time they', 'start': 895.44, 'duration': 3.36}
+{'text': 'would still have the advantage of', 'start': 897.6, 'duration': 3.2}
+{'text': 'training with ped yeah basically but', 'start': 898.8, 'duration': 4.159}
+{'text': "it's like it's like super like", 'start': 900.8, 'duration': 5.599}
+{'text': 'male puberty is like a super ultra ped', 'start': 902.959, 'duration': 4.32}
+{'text': 'um', 'start': 906.399, 'duration': 3.281}
+{'text': 'another thing that bothers me about this', 'start': 907.279, 'duration': 4.401}
+{'text': 'is that', 'start': 909.68, 'duration': 4.8}
+{'text': 'puberty as a male is a very important', 'start': 911.68, 'duration': 5.2}
+{'text': 'thing to your overall physiology and to', 'start': 914.48, 'duration': 5.52}
+{'text': 'deny that also kind of deny trans people', 'start': 916.88, 'duration': 5.44}
+{'text': 'that are pushing for um puberty blockers', 'start': 920.0, 'duration': 3.68}
+{'text': "for children because if you're telling", 'start': 922.32, 'duration': 3.36}
+{'text': 'me that you can erase every major like', 'start': 923.68, 'duration': 3.76}
+{'text': 'physiological or biological difference', 'start': 925.68, 'duration': 3.36}
+{'text': 'with just some hormone therapy why do we', 'start': 927.44, 'duration': 2.639}
+{'text': 'care so much about preventing people', 'start': 929.04, 'duration': 2.239}
+{'text': 'from going through puberty for the wrong', 'start': 930.079, 'duration': 3.281}
+{'text': 'sex right that but that would be a', 'start': 931.279, 'duration': 5.041}
+{'text': "that's kind of a hardcore", 'start': 933.36, 'duration': 2.96}
+{'text': 'that would be kind of a hardcore tweet', 'start': 937.68, 'duration': 4.56}
+{'text': 'this redditer wants to talk about it um', 'start': 939.839, 'duration': 4.161}
+{'text': "yeah i don't know these conversations", 'start': 942.24, 'duration': 3.599}
+{'text': 'legitimately gonna kill myself um if', 'start': 944.0, 'duration': 4.079}
+{'text': 'somebody wants to i mean', 'start': 945.839, 'duration': 3.521}
+{'text': "if anybody's around to drag people in", 'start': 948.079, 'duration': 2.88}
+{'text': 'maybe', 'start': 949.36, 'duration': 2.719}
+{'text': "i answer that aesthetically it's", 'start': 950.959, 'duration': 2.56}
+{'text': "different and it doesn't have much of an", 'start': 952.079, 'duration': 2.88}
+{'text': 'effect on sports i mean like how can', 'start': 953.519, 'duration': 2.801}
+{'text': 'things like your lung capacity how can', 'start': 954.959, 'duration': 2.961}
+{'text': 'like the structure of your body not have', 'start': 956.32, 'duration': 3.36}
+{'text': 'an impact on like athletic events i', 'start': 957.92, 'duration': 4.88}
+{'text': "don't understand or the ability to train", 'start': 959.68, 'duration': 4.88}
+{'text': 'basically with performance-enhancing', 'start': 962.8, 'duration': 3.839}
+{'text': 'drugs for like a decent chunk of your', 'start': 964.56, 'duration': 3.6}
+{'text': 'life how do we how can we possibly say', 'start': 966.639, 'duration': 4.56}
+{'text': 'that has no impact on your', 'start': 968.16, 'duration': 4.16}
+{'text': 'really we really know that the impact of', 'start': 971.199, 'duration': 2.56}
+{'text': 'people from male to female trans women', 'start': 972.32, 'duration': 2.72}
+{'text': 'is really that much more of a physique', 'start': 973.759, 'duration': 3.681}
+{'text': 'than the physiologist between cis women', 'start': 975.04, 'duration': 5.12}
+{'text': 'um almost certainly but i mean like', 'start': 977.44, 'duration': 4.16}
+{'text': "what's gonna happen is because of like", 'start': 980.16, 'duration': 3.76}
+{'text': 'the direction of the culture is nobody', 'start': 981.6, 'duration': 4.799}
+{'text': "is nobody's gonna dare push back on this", 'start': 983.92, 'duration': 5.44}
+{'text': "and there's gonna be some critical mass", 'start': 986.399, 'duration': 6.401}
+{'text': 'where too many trans women athletes are', 'start': 989.36, 'duration': 5.44}
+{'text': "winning too many events and it's either", 'start': 992.8, 'duration': 3.52}
+{'text': 'just going to cause people to become way', 'start': 994.8, 'duration': 3.36}
+{'text': "more transphobic and it's going to cause", 'start': 996.32, 'duration': 3.68}
+{'text': 'a lot of erosion for trans stuff or', 'start': 998.16, 'duration': 3.039}
+{'text': 'people are going to finally be like okay', 'start': 1000.0, 'duration': 2.24}
+{'text': 'well maybe we need to change something', 'start': 1001.199, 'duration': 2.32}
+{'text': 'but the problem is like nobody knows', 'start': 1002.24, 'duration': 2.719}
+{'text': 'what that critical mass is going to be', 'start': 1003.519, 'duration': 2.641}
+{'text': 'like how many', 'start': 1004.959, 'duration': 3.921}
+{'text': 'trans women need to dominate um', 'start': 1006.16, 'duration': 5.84}
+{'text': 'women events for that to change', 'start': 1008.88, 'duration': 4.56}
+{'text': 'and then also continually keeping in', 'start': 1012.0, 'duration': 3.04}
+{'text': 'line with how society works nobody gives', 'start': 1013.44, 'duration': 3.839}
+{'text': 'a [\xa0__\xa0] about men um so the fact that', 'start': 1015.04, 'duration': 3.599}
+{'text': "trans men aren't competitive like", 'start': 1017.279, 'duration': 3.68}
+{'text': 'anywhere uh will never be a problem to', 'start': 1018.639, 'duration': 3.601}
+{'text': 'anybody nobody will give a [\xa0__\xa0] about it', 'start': 1020.959, 'duration': 3.921}
+{'text': 'at all', 'start': 1022.24, 'duration': 3.92}
+{'text': 'i did', 'start': 1024.88, 'duration': 4.88}
+{'text': "wt sold and i don't know what w t", 'start': 1026.16, 'duration': 5.36}
+{'text': "stilled i don't know what the [\xa0__\xa0] that", 'start': 1029.76, 'duration': 4.079}
+{'text': 'means', 'start': 1031.52, 'duration': 2.319}
+{'text': 'w-t-e-e-s led and weight lifted in', 'start': 1035.88, 'duration': 4.439}
+{'text': 'college can confirm the top athlete', 'start': 1038.88, 'duration': 3.6}
+{'text': 'potential can be seen at 10 or 11 like', 'start': 1040.319, 'duration': 5.681}
+{'text': 'age 10 or 11 or grade 10 or 11.', 'start': 1042.48, 'duration': 6.079}
+{'text': 'i think that for a lot of people', 'start': 1046.0, 'duration': 4.08}
+{'text': 'this is just kind of like basic psych', 'start': 1048.559, 'duration': 3.041}
+{'text': 'stuff i think that if you have a history', 'start': 1050.08, 'duration': 3.2}
+{'text': 'of being misunderstood or not seriously', 'start': 1051.6, 'duration': 3.68}
+{'text': 'engaged in with', 'start': 1053.28, 'duration': 3.759}
+{'text': 'with anybody you probably are a little', 'start': 1055.28, 'duration': 3.36}
+{'text': 'bit warmer to people that are willing to', 'start': 1057.039, 'duration': 3.76}
+{'text': 'engage with you seriously', 'start': 1058.64, 'duration': 5.2}
+{'text': 'if that would be my guess', 'start': 1060.799, 'duration': 4.041}
+{'text': 'are', 'start': 1063.84, 'duration': 5.25}
+{'text': 'you 14 15.', 'start': 1064.84, 'duration': 5.719}
+{'text': '[Music]', 'start': 1069.09, 'duration': 3.79}
+{'text': "chromosomes then what's expected the", 'start': 1070.559, 'duration': 4.721}
+{'text': 'only way we can have a bimodal graph is', 'start': 1072.88, 'duration': 4.32}
+{'text': 'to have two different', 'start': 1075.28, 'duration': 3.6}
+{'text': "things that we're studying right what", 'start': 1077.2, 'duration': 3.359}
+{'text': 'the places where it overlaps', 'start': 1078.88, 'duration': 3.679}
+{'text': "aren't they don't constitute a new", 'start': 1080.559, 'duration': 4.401}
+{'text': "category they aren't a new category", 'start': 1082.559, 'duration': 4.161}
+{'text': "there aren't even two categories it's", 'start': 1084.96, 'duration': 4.16}
+{'text': 'males and no there are listen listen we', 'start': 1086.72, 'duration': 3.76}
+{'text': 'have the concept', 'start': 1089.12, 'duration': 3.04}
+{'text': 'of male 1 even if there were even if', 'start': 1090.48, 'duration': 3.6}
+{'text': 'only half of the people on earth were', 'start': 1092.16, 'duration': 3.44}
+{'text': 'males and females', 'start': 1094.08, 'duration': 3.36}
+{'text': 'we would still have the concept', 'start': 1095.6, 'duration': 3.52}
+{'text': 'of males and females the social', 'start': 1097.44, 'duration': 2.56}
+{'text': 'consciousness', 'start': 1099.12, 'duration': 2.799}
+{'text': 'employment people if you talk to', 'start': 1100.0, 'duration': 3.919}
+{'text': 'human biology researchers i just want to', 'start': 1101.919, 'duration': 4.801}
+{'text': 'point out human biological researchers', 'start': 1103.919, 'duration': 5.76}
+{'text': 'do not quote only study two things males', 'start': 1106.72, 'duration': 4.959}
+{'text': "and females they don't think in terms of", 'start': 1109.679, 'duration': 4.081}
+{'text': 'males and females they think in terms of', 'start': 1111.679, 'duration': 4.321}
+{'text': 'the thousands of genetic variations that', 'start': 1113.76, 'duration': 3.84}
+{'text': 'humans experience okay hold on this is', 'start': 1116.0, 'duration': 4.64}
+{'text': 'just not true um it is true that things', 'start': 1117.6, 'duration': 6.16}
+{'text': 'like sex can get very very very fuzzy', 'start': 1120.64, 'duration': 4.64}
+{'text': 'when you start to get like really into', 'start': 1123.76, 'duration': 3.36}
+{'text': 'the weeds on certain things like', 'start': 1125.28, 'duration': 3.44}
+{'text': 'different genetic diseases can make', 'start': 1127.12, 'duration': 3.28}
+{'text': 'things weird um and then there are', 'start': 1128.72, 'duration': 3.199}
+{'text': 'different species that will flip some', 'start': 1130.4, 'duration': 2.72}
+{'text': 'things around like who mates with who or', 'start': 1131.919, 'duration': 2.961}
+{'text': 'who gives birth to whatever or things', 'start': 1133.12, 'duration': 3.76}
+{'text': "like there's definitely things around", 'start': 1134.88, 'duration': 4.08}
+{'text': 'the borders when you get really into it', 'start': 1136.88, 'duration': 4.48}
+{'text': 'they get very fuzzy they can definitely', 'start': 1138.96, 'duration': 4.88}
+{'text': 'challenge a hardcore concept of like', 'start': 1141.36, 'duration': 4.16}
+{'text': 'male and female as rigid as', 'start': 1143.84, 'duration': 4.0}
+{'text': 'conservatives would like it but', 'start': 1145.52, 'duration': 4.56}
+{'text': "to say that like well researchers don't", 'start': 1147.84, 'duration': 3.76}
+{'text': 'even think in terms of male or female', 'start': 1150.08, 'duration': 2.8}
+{'text': "that's just", 'start': 1151.6, 'duration': 3.76}
+{'text': 'absolutely not true that is', 'start': 1152.88, 'duration': 4.24}
+{'text': 'i would be shocked if you found like', 'start': 1155.36, 'duration': 4.4}
+{'text': 'anybody that studied anything related to', 'start': 1157.12, 'duration': 4.24}
+{'text': 'anything having to do with biology that', 'start': 1159.76, 'duration': 3.2}
+{'text': "didn't like generally think in terms of", 'start': 1161.36, 'duration': 2.72}
+{'text': "male female unless you're getting into", 'start': 1162.96, 'duration': 3.04}
+{'text': 'very specific like sex research i', 'start': 1164.08, 'duration': 4.16}
+{'text': 'noticed your title says chili i am just', 'start': 1166.0, 'duration': 4.08}
+{'text': 'mean you are actually chilly yeah you', 'start': 1168.24, 'duration': 4.48}
+{'text': "don't seem very cold please clarify", 'start': 1170.08, 'duration': 4.24}
+{'text': 'thank you bonus meme', 'start': 1172.72, 'duration': 3.76}
+{'text': "oh bam now you'd agree that the solution", 'start': 1174.32, 'duration': 3.76}
+{'text': 'to trans question sports is dependent on', 'start': 1176.48, 'duration': 3.68}
+{'text': 'the sport itself right um maybe i kind', 'start': 1178.08, 'duration': 3.28}
+{'text': 'of think you probably should just create', 'start': 1180.16, 'duration': 2.48}
+{'text': 'like a different like you have like an', 'start': 1181.36, 'duration': 2.559}
+{'text': 'open category where everybody could', 'start': 1182.64, 'duration': 2.32}
+{'text': 'compete and then you have like a', 'start': 1183.919, 'duration': 3.041}
+{'text': 'protected cis women category probably', 'start': 1184.96, 'duration': 6.2}
+{'text': 'should be the way for almost every sport', 'start': 1186.96, 'duration': 4.2}
+{'text': 'the muscular advantage enjoyed by', 'start': 1193.2, 'duration': 2.08}
+{'text': 'transgender women is only minimally', 'start': 1194.24, 'duration': 2.559}
+{'text': "reduced when testosterone yeah i don't", 'start': 1195.28, 'duration': 3.2}
+{'text': 'it feels shitty because like i guess', 'start': 1196.799, 'duration': 2.88}
+{'text': 'like i can start digging through papers', 'start': 1198.48, 'duration': 2.48}
+{'text': "i've seen a lot of people but i think", 'start': 1199.679, 'duration': 2.641}
+{'text': "there's evidence there might be equal", 'start': 1200.96, 'duration': 2.719}
+{'text': 'evidence on both sides of this or i know', 'start': 1202.32, 'duration': 2.56}
+{'text': "there's some evidence on both side of", 'start': 1203.679, 'duration': 2.48}
+{'text': "this every time i've watched somebody do", 'start': 1204.88, 'duration': 2.72}
+{'text': "like a big review of it usually it's", 'start': 1206.159, 'duration': 3.361}
+{'text': 'overwhelmingly in favor of trans women', 'start': 1207.6, 'duration': 4.64}
+{'text': 'tend to retain some strength um', 'start': 1209.52, 'duration': 4.399}
+{'text': 'from being a cis man but like if you', 'start': 1212.24, 'duration': 4.48}
+{'text': 'could ask any professional athlete like', 'start': 1213.919, 'duration': 4.88}
+{'text': 'any professional woman athlete hey if', 'start': 1216.72, 'duration': 3.6}
+{'text': 'you had the opportunity to train as a', 'start': 1218.799, 'duration': 3.841}
+{'text': 'male from the ages of like 13 to 21 like', 'start': 1220.32, 'duration': 3.12}
+{'text': "they would they wouldn't even you", 'start': 1222.64, 'duration': 2.159}
+{'text': "wouldn't even finish the sentence like", 'start': 1223.44, 'duration': 3.28}
+{'text': 'yeah obviously duh wait what the [\xa0__\xa0]', 'start': 1224.799, 'duration': 4.0}
+{'text': "yeah obviously like it's not even a", 'start': 1226.72, 'duration': 4.48}
+{'text': 'question and the idea that like and then', 'start': 1228.799, 'duration': 3.601}
+{'text': "when people say things like oh you don't", 'start': 1231.2, 'duration': 3.04}
+{'text': "retain anything like i don't know what", 'start': 1232.4, 'duration': 3.519}
+{'text': 'that means like do you think your muscle', 'start': 1234.24, 'duration': 3.679}
+{'text': 'just melts off like it all just falls', 'start': 1235.919, 'duration': 3.441}
+{'text': 'apart like when these people are', 'start': 1237.919, 'duration': 2.721}
+{'text': "transitioning they're still strength", 'start': 1239.36, 'duration': 2.48}
+{'text': "training they're still conditioning", 'start': 1240.64, 'duration': 2.32}
+{'text': "they're still doing like all their other", 'start': 1241.84, 'duration': 2.48}
+{'text': "athletic training the muscle doesn't", 'start': 1242.96, 'duration': 3.12}
+{'text': "just go away it doesn't just disappear", 'start': 1244.32, 'duration': 3.28}
+{'text': 'right and then you get like all of the', 'start': 1246.08, 'duration': 2.56}
+{'text': 'um', 'start': 1247.6, 'duration': 2.959}
+{'text': 'you get like all of the', 'start': 1248.64, 'duration': 4.32}
+{'text': 'benefits of training for a cis person', 'start': 1250.559, 'duration': 3.681}
+{'text': 'for what about for transgender', 'start': 1252.96, 'duration': 2.32}
+{'text': 'transition it really took puberty', 'start': 1254.24, 'duration': 2.96}
+{'text': 'lockers um if you want to do the puberty', 'start': 1255.28, 'duration': 3.12}
+{'text': "blocker thing that's probably fine", 'start': 1257.2, 'duration': 2.64}
+{'text': 'puberty seems to be the big thing that', 'start': 1258.4, 'duration': 2.96}
+{'text': 'gives the', 'start': 1259.84, 'duration': 4.0}
+{'text': 'advantages', 'start': 1261.36, 'duration': 2.48}

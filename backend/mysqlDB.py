@@ -21,9 +21,8 @@ class MySQLDataBase(IDataBase):
         self.mycursor = self.mydb.cursor()
 
         self.mycursor.execute("SELECT * FROM cats")
-
         for x in self.mycursor:
-            print(x)
+            print(type(x))
 
 
         super().__init__()
@@ -39,6 +38,8 @@ class MySQLDataBase(IDataBase):
 
     def get_full_table(self) -> dict:
         pass
+
+
 
 
 

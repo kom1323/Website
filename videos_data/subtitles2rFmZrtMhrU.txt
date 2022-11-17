@@ -1,0 +1,639 @@
+{'text': 'hi sam my name is corey i live in eau', 'start': 0.0, 'duration': 3.76}
+{'text': 'claire wisconsin my question for you is', 'start': 2.0, 'duration': 3.2}
+{'text': "more of a vote than a question i'd", 'start': 3.76, 'duration': 3.36}
+{'text': 'really love to hear you discuss the eric', 'start': 5.2, 'duration': 3.68}
+{'text': 'topel podcast with brett weinstein on a', 'start': 7.12, 'duration': 3.84}
+{'text': 'future podcast i know that you have', 'start': 8.88, 'duration': 3.52}
+{'text': 'considered that and can rule it out at', 'start': 10.96, 'duration': 3.28}
+{'text': 'this point but love for your reconsider', 'start': 12.4, 'duration': 2.96}
+{'text': 'my sense is that there is a lot more', 'start': 14.24, 'duration': 2.32}
+{'text': 'common ground to land on than', 'start': 15.36, 'duration': 2.64}
+{'text': 'disagreement', 'start': 16.56, 'duration': 2.879}
+{'text': 'oh no they actually learn from the other', 'start': 18.0, 'duration': 3.68}
+{'text': 'about their own sense of reality', 'start': 19.439, 'duration': 4.0}
+{'text': 'surrounding the coveted issues i think', 'start': 21.68, 'duration': 3.519}
+{'text': "we're all a bit confused and we would", 'start': 23.439, 'duration': 3.281}
+{'text': 'all learn from the two of you learning', 'start': 25.199, 'duration': 3.681}
+{'text': 'from each other thank you', 'start': 26.72, 'duration': 4.24}
+{'text': 'hey corey thanks for the question', 'start': 28.88, 'duration': 4.32}
+{'text': 'yeah this is um this is a hard one for', 'start': 30.96, 'duration': 5.439}
+{'text': 'me actually and i get that it seems', 'start': 33.2, 'duration': 5.28}
+{'text': 'crazy not to just flip on the microphone', 'start': 36.399, 'duration': 4.241}
+{'text': 'and talk to the guy or talk to him and', 'start': 38.48, 'duration': 4.0}
+{'text': "heather who's also been his partner in", 'start': 40.64, 'duration': 3.599}
+{'text': "crime it's hard to put this in a way", 'start': 42.48, 'duration': 3.599}
+{'text': "that doesn't sound", 'start': 44.239, 'duration': 4.561}
+{'text': 'like a personal attack but the reason', 'start': 46.079, 'duration': 4.401}
+{'text': "why i don't want to do a podcast", 'start': 48.8, 'duration': 4.079}
+{'text': 'with bretton heather is the same as why', 'start': 50.48, 'duration': 4.16}
+{'text': "i wouldn't do a podcast with a 911 truth", 'start': 52.879, 'duration': 3.441}
+{'text': 'conspiracy theorist or', 'start': 54.64, 'duration': 4.719}
+{'text': 'alex jones or anyone in that world', 'start': 56.32, 'duration': 5.28}
+{'text': "because there's a basic asymmetry", 'start': 59.359, 'duration': 4.081}
+{'text': "which is very hard to overcome it's so", 'start': 61.6, 'duration': 3.44}
+{'text': 'much easier to make a mess than to clean', 'start': 63.44, 'duration': 3.679}
+{'text': "it up it's so much easier to light", 'start': 65.04, 'duration': 4.32}
+{'text': 'several small fires than to put them out', 'start': 67.119, 'duration': 4.481}
+{'text': "it's like a ten to one advantage to put", 'start': 69.36, 'duration': 3.759}
+{'text': 'it that way it sounds like my concern is', 'start': 71.6, 'duration': 2.96}
+{'text': "not losing a debate and that's", 'start': 73.119, 'duration': 3.121}
+{'text': 'absolutely not my concern', 'start': 74.56, 'duration': 2.8}
+{'text': "if you're going to view this as a debate", 'start': 76.24, 'duration': 3.68}
+{'text': "it's won almost immediately but i worry", 'start': 77.36, 'duration': 4.56}
+{'text': 'about what people take from the', 'start': 79.92, 'duration': 4.0}
+{'text': "encounter and i just don't want to do", 'start': 81.92, 'duration': 3.44}
+{'text': 'additional harm to our public', 'start': 83.92, 'duration': 2.8}
+{'text': 'conversation about', 'start': 85.36, 'duration': 2.64}
+{'text': 'what is in fact an important public', 'start': 86.72, 'duration': 2.399}
+{'text': 'health concern', 'start': 88.0, 'duration': 3.6}
+{'text': 'and a growing political one', 'start': 89.119, 'duration': 3.36}
+{'text': 'first day of symmetry the reason why', 'start': 91.6, 'duration': 1.92}
+{'text': "there's such a new imagery here is that", 'start': 92.479, 'duration': 3.921}
+{'text': 'it is just impossible to debunk most', 'start': 93.52, 'duration': 5.68}
+{'text': 'things in real time and even if the', 'start': 96.4, 'duration': 4.8}
+{'text': 'point being made is in fact spurious it', 'start': 99.2, 'duration': 4.48}
+{'text': "won't seem spurious to 99 of you yeah", 'start': 101.2, 'duration': 4.239}
+{'text': "and if you don't have like all every", 'start': 103.68, 'duration': 4.32}
+{'text': 'single obscure random fact at your', 'start': 105.439, 'duration': 4.401}
+{'text': 'fingertips and somebody will bring up', 'start': 108.0, 'duration': 4.079}
+{'text': 'some [\xa0__\xa0] that like oh well [\xa0__\xa0] i i', 'start': 109.84, 'duration': 3.36}
+{'text': "don't know i don't and then it looks", 'start': 112.079, 'duration': 2.161}
+{'text': "like you've lost the debate the other", 'start': 113.2, 'duration': 2.559}
+{'text': 'person is like this huge high ground', 'start': 114.24, 'duration': 3.44}
+{'text': 'that they can stand on', 'start': 115.759, 'duration': 3.521}
+{'text': 'right uh pretty pretty disgusting that', 'start': 117.68, 'duration': 3.36}
+{'text': 'sam harris here is literally', 'start': 119.28, 'duration': 4.159}
+{'text': 'mean jacking my take with no credit but', 'start': 121.04, 'duration': 4.719}
+{'text': "glad to see that he's a an adamant dger", 'start': 123.439, 'duration': 4.401}
+{'text': 'only being made in fact pardon dg i', 'start': 125.759, 'duration': 4.0}
+{'text': "should say hurry us it won't seem", 'start': 127.84, 'duration': 4.8}
+{'text': 'spurious to 99 of an audience right so', 'start': 129.759, 'duration': 4.801}
+{'text': 'the person on the conspiracy theory side', 'start': 132.64, 'duration': 3.84}
+{'text': 'of things can say well what about the 14', 'start': 134.56, 'duration': 4.399}
+{'text': 'cdc officials who resigned last week and', 'start': 136.48, 'duration': 4.08}
+{'text': "wouldn't give reasons when asked what do", 'start': 138.959, 'duration': 3.601}
+{'text': "you make of that right now there's", 'start': 140.56, 'duration': 3.12}
+{'text': 'probably nothing to be made of that', 'start': 142.56, 'duration': 2.24}
+{'text': "right i didn't even hear about it and", 'start': 143.68, 'duration': 2.96}
+{'text': 'the truth is i just made that up but', 'start': 144.8, 'duration': 3.519}
+{'text': 'when delivered in the context of a quote', 'start': 146.64, 'duration': 3.76}
+{'text': 'debate about these things with someone', 'start': 148.319, 'duration': 4.0}
+{'text': "who whose whole angle is there's", 'start': 150.4, 'duration': 3.919}
+{'text': 'conspiracy everywhere it can seem like', 'start': 152.319, 'duration': 3.041}
+{'text': "oh you didn't know about that well", 'start': 154.319, 'duration': 2.161}
+{'text': "that's really a problem you should look", 'start': 155.36, 'duration': 2.48}
+{'text': 'into that what about the paper that just', 'start': 156.48, 'duration': 3.119}
+{'text': 'came out of micronesia that showed', 'start': 157.84, 'duration': 4.24}
+{'text': "ivermectin was 100 effective i didn't", 'start': 159.599, 'duration': 4.64}
+{'text': 'see that paper out of micronesia oh you', 'start': 162.08, 'duration': 3.28}
+{'text': "didn't well okay you should really do", 'start': 164.239, 'duration': 3.521}
+{'text': 'your homework yeah possible every time', 'start': 165.36, 'duration': 3.84}
+{'text': 'scatter a lot of dust in the eyes and', 'start': 167.76, 'duration': 3.759}
+{'text': 'ears of the audience and make it seem', 'start': 169.2, 'duration': 4.8}
+{'text': "like there's the problem is that", 'start': 171.519, 'duration': 4.08}
+{'text': "honestly harris shouldn't even be saying", 'start': 174.0, 'duration': 2.959}
+{'text': "this he shouldn't be saying anything", 'start': 175.599, 'duration': 2.481}
+{'text': 'because to the people that are on the', 'start': 176.959, 'duration': 3.28}
+{'text': "other side all they're hearing is huh", 'start': 178.08, 'duration': 4.48}
+{'text': "he's scared debate dodger he's dodging", 'start': 180.239, 'duration': 3.841}
+{'text': "he knows that he's wrong he can't even", 'start': 182.56, 'duration': 3.12}
+{'text': 'argue against basic fact he knows that', 'start': 184.08, 'duration': 2.879}
+{'text': "he's wrong listen to these excuses", 'start': 185.68, 'duration': 2.8}
+{'text': 'making oh you think that every study', 'start': 186.959, 'duration': 2.881}
+{'text': "that doesn't agree with you is fake oh", 'start': 188.48, 'duration': 2.479}
+{'text': 'you think that every study is supported', 'start': 189.84, 'duration': 3.039}
+{'text': 'by big pharma and big government and big', 'start': 190.959, 'duration': 4.241}
+{'text': 'hospital and big tech is fake okay sam', 'start': 192.879, 'duration': 3.28}
+{'text': "good to see you you're the one being", 'start': 195.2, 'duration': 2.399}
+{'text': 'intellectually honest here time to go', 'start': 196.159, 'duration': 4.241}
+{'text': 'back to the dark horse podcast', 'start': 197.599, 'duration': 4.321}
+{'text': 'so many you know matter a lot of dust in', 'start': 200.4, 'duration': 3.199}
+{'text': 'the eyes and ears of the audience and', 'start': 201.92, 'duration': 4.0}
+{'text': "make it seem like there's so many", 'start': 203.599, 'duration': 3.521}
+{'text': "anomalies out there there's so many", 'start': 205.92, 'duration': 2.959}
+{'text': 'things that need to be explained and if', 'start': 207.12, 'duration': 2.88}
+{'text': "you're not gonna explain those things if", 'start': 208.879, 'duration': 2.481}
+{'text': "you're not gonna connect this particular", 'start': 210.0, 'duration': 3.519}
+{'text': "pattern of dots well then you're just", 'start': 211.36, 'duration': 3.68}
+{'text': 'not doing the work', 'start': 213.519, 'duration': 3.201}
+{'text': 'and that need not necessarily be done in', 'start': 215.04, 'duration': 3.04}
+{'text': 'bad faith of course it can be right it', 'start': 216.72, 'duration': 3.36}
+{'text': "gets a tactic but that's not what i'm", 'start': 218.08, 'duration': 4.159}
+{'text': "alleging brett and heather would do i'm", 'start': 220.08, 'duration': 3.439}
+{'text': "just saying that's the way they think", 'start': 222.239, 'duration': 3.521}
+{'text': "now it's such a scatter shot approach to", 'start': 223.519, 'duration': 4.72}
+{'text': "this there's so little quality control", 'start': 225.76, 'duration': 3.92}
+{'text': "around the kind of information they're", 'start': 228.239, 'duration': 2.56}
+{'text': 'putting forward', 'start': 229.68, 'duration': 2.88}
+{'text': 'and it takes such an effort to chase it', 'start': 230.799, 'duration': 3.121}
+{'text': 'all down and debunk it and anything that', 'start': 232.56, 'duration': 3.28}
+{'text': "shows up that's new in the conversation", 'start': 233.92, 'duration': 4.239}
+{'text': "can't be tracked down in real time so i", 'start': 235.84, 'duration': 3.599}
+{'text': "don't have much hope that a conversation", 'start': 238.159, 'duration': 3.041}
+{'text': 'would wind up producing a document that', 'start': 239.439, 'duration': 3.281}
+{'text': 'would be good for the world the truth is', 'start': 241.2, 'duration': 2.72}
+{'text': "i'm not the best person to have the", 'start': 242.72, 'duration': 2.719}
+{'text': 'conversation either it would be good to', 'start': 243.92, 'duration': 4.0}
+{'text': 'have an immunologist or a virologist or', 'start': 245.439, 'duration': 4.08}
+{'text': "someone who's much closer to this type", 'start': 247.92, 'duration': 3.28}
+{'text': 'of research who could really get into', 'start': 249.519, 'duration': 3.201}
+{'text': 'the weeds with them more', 'start': 251.2, 'duration': 2.64}
+{'text': "and through this they're obviously the", 'start': 252.72, 'duration': 2.48}
+{'text': "wrong people to be doing what they're", 'start': 253.84, 'duration': 3.519}
+{'text': "doing and it shows but it's not obvious", 'start': 255.2, 'duration': 3.279}
+{'text': "to their audience apparently it's not", 'start': 257.359, 'duration': 2.961}
+{'text': 'obvious to them so you know i would', 'start': 258.479, 'duration': 3.201}
+{'text': 'welcome an encounter between them and', 'start': 260.32, 'duration': 2.879}
+{'text': "somebody who's truly professionally", 'start': 261.68, 'duration': 3.92}
+{'text': 'qualified to talk about all the details', 'start': 263.199, 'duration': 4.161}
+{'text': 'and perhaps that will happen i mean in', 'start': 265.6, 'duration': 3.28}
+{'text': 'fact i just reached out to joe rogan', 'start': 267.36, 'duration': 2.559}
+{'text': 'telling him what i thought of his latest', 'start': 268.88, 'duration': 2.8}
+{'text': 'podcast with brett heather and', 'start': 269.919, 'duration': 3.041}
+{'text': 'recommended that he figure out how to', 'start': 271.68, 'duration': 3.04}
+{'text': 'unring that bell uh and maybe he will', 'start': 272.96, 'duration': 3.6}
+{'text': 'bring bread and heather on with someone', 'start': 274.72, 'duration': 4.16}
+{'text': 'like eric topel or someone even closer', 'start': 276.56, 'duration': 4.079}
+{'text': 'to the topic at hand', 'start': 278.88, 'duration': 3.52}
+{'text': 'and that could be useful but even then', 'start': 280.639, 'duration': 2.961}
+{'text': "i think that in front of rogan's", 'start': 282.4, 'duration': 2.799}
+{'text': "audience it's", 'start': 283.6, 'duration': 3.76}
+{'text': 'questionable whether that will actually', 'start': 285.199, 'duration': 3.681}
+{'text': "work for the reason it's already given", 'start': 287.36, 'duration': 4.0}
+{'text': "it's just so easy to be misleading and", 'start': 288.88, 'duration': 4.4}
+{'text': "again i'm not suggesting bad faith on", 'start': 291.36, 'duration': 3.119}
+{'text': 'their part i think they probably really', 'start': 293.28, 'duration': 3.359}
+{'text': "believe everything they're saying but", 'start': 294.479, 'duration': 3.841}
+{'text': 'there is just an asymmetry here in how', 'start': 296.639, 'duration': 3.761}
+{'text': 'difficult it is to close every loophole', 'start': 298.32, 'duration': 4.8}
+{'text': 'to conspiracy and the influx of the', 'start': 300.4, 'duration': 4.239}
+{'text': 'incredible as they get opened in the', 'start': 303.12, 'duration': 2.72}
+{'text': 'conversation', 'start': 304.639, 'duration': 2.4}
+{'text': "i'll give you one example of the kind of", 'start': 305.84, 'duration': 4.24}
+{'text': 'thing i found implausible in brett and', 'start': 307.039, 'duration': 4.321}
+{'text': "heather's last appearance with joel", 'start': 310.08, 'duration': 2.72}
+{'text': "rogan and it's the kind of thing that", 'start': 311.36, 'duration': 3.2}
+{'text': 'they too should find impossible the', 'start': 312.8, 'duration': 3.6}
+{'text': 'moment these words escape their mouths', 'start': 314.56, 'duration': 3.6}
+{'text': "oh no and it's still mysterious to me", 'start': 316.4, 'duration': 3.519}
+{'text': "why this isn't happening but for", 'start': 318.16, 'duration': 3.44}
+{'text': 'instance they were talking about the', 'start': 319.919, 'duration': 3.441}
+{'text': 'evolutionary logic of', 'start': 321.6, 'duration': 4.8}
+{'text': 'immune escape right so we get vaccines', 'start': 323.36, 'duration': 5.279}
+{'text': 'and the moment tens of millions of', 'start': 326.4, 'duration': 3.76}
+{'text': 'people start getting vaccinated that', 'start': 328.639, 'duration': 3.761}
+{'text': 'begins to select for variants that can', 'start': 330.16, 'duration': 4.4}
+{'text': "evade the vaccine right so it's a it's a", 'start': 332.4, 'duration': 4.0}
+{'text': "fool's errand to be thinking that you're", 'start': 334.56, 'duration': 3.68}
+{'text': 'going to get out of this pandemic by', 'start': 336.4, 'duration': 3.28}
+{'text': "vaccinating everyone because you're just", 'start': 338.24, 'duration': 3.76}
+{'text': 'going to create more transmissible and', 'start': 339.68, 'duration': 3.6}
+{'text': 'yeah but that would happen with natural', 'start': 342.0, 'duration': 2.8}
+{'text': 'immunity anyway right', 'start': 343.28, 'duration': 3.12}
+{'text': 'possibly even more dangerous variants', 'start': 344.8, 'duration': 3.52}
+{'text': "now there's a lot wrong with this not to", 'start': 346.4, 'duration': 3.12}
+{'text': 'mention wait what about like polio and', 'start': 348.32, 'duration': 2.56}
+{'text': 'smallpox and other diseases that have', 'start': 349.52, 'duration': 2.959}
+{'text': 'been like almost eliminated or radicated', 'start': 350.88, 'duration': 3.12}
+{'text': 'in large part due to vaccines like was', 'start': 352.479, 'duration': 3.44}
+{'text': 'that a mistake like that public health', 'start': 354.0, 'duration': 3.12}
+{'text': 'point of view and from an evolutionary', 'start': 355.919, 'duration': 2.961}
+{'text': 'point of view right from an evolutionary', 'start': 357.12, 'duration': 3.359}
+{'text': "point of view it's just half the story", 'start': 358.88, 'duration': 3.52}
+{'text': 'right yes the immunity conferred through', 'start': 360.479, 'duration': 4.961}
+{'text': 'vaccination can select for variants that', 'start': 362.4, 'duration': 4.96}
+{'text': 'can defeat the vaccine but the immunity', 'start': 365.44, 'duration': 3.92}
+{'text': 'conferred by having caught covered and', 'start': 367.36, 'duration': 4.24}
+{'text': 'recovered also selects for variants that', 'start': 369.36, 'duration': 3.839}
+{'text': 'can escape that immunity', 'start': 371.6, 'duration': 3.2}
+{'text': 'and your likelihood of getting sick or', 'start': 373.199, 'duration': 3.12}
+{'text': 'getting infected is lower with a vaccine', 'start': 374.8, 'duration': 3.76}
+{'text': "so it's a self-defeating argument right", 'start': 376.319, 'duration': 3.681}
+{'text': 'vaccination is on all fours with natural', 'start': 378.56, 'duration': 3.199}
+{'text': 'immunity there think of how worried we', 'start': 380.0, 'duration': 2.72}
+{'text': 'need to be about a variant that can', 'start': 381.759, 'duration': 2.88}
+{'text': 'defeat natural immunity', 'start': 382.72, 'duration': 3.44}
+{'text': "also that's an argument against all", 'start': 384.639, 'duration': 4.0}
+{'text': 'vaccination yeah right because oh [\xa0__\xa0]', 'start': 386.16, 'duration': 5.68}
+{'text': "oh [\xa0__\xa0] pre-watched oh [\xa0__\xa0] i'm sorry i", 'start': 388.639, 'duration': 5.921}
+{'text': 'pre-wiped re-watched it i pre-watched it', 'start': 391.84, 'duration': 3.919}
+{'text': 'my brain', 'start': 394.56, 'duration': 3.359}
+{'text': 'my brain pre-watches into the future to', 'start': 395.759, 'duration': 4.321}
+{'text': 'my knowledge are 100 effective', 'start': 397.919, 'duration': 4.161}
+{'text': 'regardless of exposure', 'start': 400.08, 'duration': 4.32}
+{'text': 'regardless of possible genetic changes', 'start': 402.08, 'duration': 4.64}
+{'text': 'in a virus right and i believe that the', 'start': 404.4, 'duration': 4.56}
+{'text': 'mrna vaccines for covet are among the', 'start': 406.72, 'duration': 4.319}
+{'text': "most effective vaccines we have we're", 'start': 408.96, 'duration': 3.6}
+{'text': 'just in the middle of a pandemic which', 'start': 411.039, 'duration': 3.28}
+{'text': "is an extreme circumstance i'm not quite", 'start': 412.56, 'duration': 3.12}
+{'text': 'sure how our measles vaccines would be', 'start': 414.319, 'duration': 2.641}
+{'text': "performing if we're in the middle of a", 'start': 415.68, 'duration': 3.28}
+{'text': 'measles pandemic if everywhere you went', 'start': 416.96, 'duration': 3.12}
+{'text': 'you were confronted by somebody who had', 'start': 418.96, 'duration': 2.799}
+{'text': "measles i don't know how often measles", 'start': 420.08, 'duration': 3.6}
+{'text': 'mutates but i think we probably find', 'start': 421.759, 'duration': 3.601}
+{'text': "that there's some breakthrough infection", 'start': 423.68, 'duration': 3.76}
+{'text': 'so if you follow his argument he seem to', 'start': 425.36, 'duration': 4.0}
+{'text': 'land in a true anti-vax position yeah', 'start': 427.44, 'duration': 2.96}
+{'text': "right don't vaccinate against anything", 'start': 429.36, 'duration': 2.16}
+{'text': "because you're selecting for dangerous", 'start': 430.4, 'duration': 2.72}
+{'text': 'variants yep and again ignoring the fact', 'start': 431.52, 'duration': 3.76}
+{'text': 'that natural immunity is also doing that', 'start': 433.12, 'duration': 3.44}
+{'text': 'i was curious to bread and heather if', 'start': 435.28, 'duration': 2.639}
+{'text': 'you wanted to be someone in chat said', 'start': 436.56, 'duration': 3.12}
+{'text': 'this if you wanted to be ultra [\xa0__\xa0]', 'start': 437.919, 'duration': 3.84}
+{'text': 'charitable you could argue that because', 'start': 439.68, 'duration': 4.799}
+{'text': 'the mrna vaccines only use that spike', 'start': 441.759, 'duration': 4.88}
+{'text': "protein that maybe it's easier to evolve", 'start': 444.479, 'duration': 4.961}
+{'text': 'around the mrna vaccines than the um', 'start': 446.639, 'duration': 4.96}
+{'text': 'then the entire virus because the', 'start': 449.44, 'duration': 4.24}
+{'text': 'immunity is different but i mean the', 'start': 451.599, 'duration': 3.761}
+{'text': 'argument still more or less works you', 'start': 453.68, 'duration': 3.6}
+{'text': 'can even if you have natural immunity to', 'start': 455.36, 'duration': 3.76}
+{'text': 'a virus it can mutate sufficiently', 'start': 457.28, 'duration': 3.359}
+{'text': "enough that it's different right this", 'start': 459.12, 'duration': 2.639}
+{'text': 'happens with things all the times like', 'start': 460.639, 'duration': 3.601}
+{'text': 'influenza or the cold or whatever right', 'start': 461.759, 'duration': 3.521}
+{'text': "we're not seeing that because again they", 'start': 464.24, 'duration': 2.399}
+{'text': 'run everything through the logic of', 'start': 465.28, 'duration': 3.52}
+{'text': "evolution there's another glaring error", 'start': 466.639, 'duration': 4.321}
+{'text': 'here you know just i will say one thing', 'start': 468.8, 'duration': 3.6}
+{'text': 'you have to be really really careful now', 'start': 470.96, 'duration': 3.12}
+{'text': "i'm not writing these off completely but", 'start': 472.4, 'duration': 3.28}
+{'text': 'anytime you argue with somebody and they', 'start': 474.08, 'duration': 3.28}
+{'text': 'bring up either neuroscience or', 'start': 475.68, 'duration': 5.04}
+{'text': "evolutionary anything you're more often", 'start': 477.36, 'duration': 5.519}
+{'text': "than not you're about to get a huge load", 'start': 480.72, 'duration': 4.159}
+{'text': 'of [\xa0__\xa0] you have to be very very', 'start': 482.879, 'duration': 4.16}
+{'text': 'very careful when either those two words', 'start': 484.879, 'duration': 4.16}
+{'text': 'are uttered okay', 'start': 487.039, 'duration': 4.88}
+{'text': 'neuroscience or evolutionarily speaking', 'start': 489.039, 'duration': 4.16}
+{'text': 'evolutionary biology evolutionary', 'start': 491.919, 'duration': 2.881}
+{'text': "psychology you'd be really careful", 'start': 493.199, 'duration': 3.361}
+{'text': 'because these are', 'start': 494.8, 'duration': 3.28}
+{'text': 'these are like', 'start': 496.56, 'duration': 4.319}
+{'text': "they're like wagons for garbage dog [\xa0__\xa0]", 'start': 498.08, 'duration': 5.519}
+{'text': "takes that aren't even falsifiable okay", 'start': 500.879, 'duration': 4.88}
+{'text': 'they will just wagon in the most dog', 'start': 503.599, 'duration': 4.0}
+{'text': '[\xa0__\xa0] takes ever under the guise of', 'start': 505.759, 'duration': 4.481}
+{'text': "evolutionary xyz and they're just so", 'start': 507.599, 'duration': 3.761}
+{'text': "stories that you can't even say that", 'start': 510.24, 'duration': 4.4}
+{'text': "they're wrong right like", 'start': 511.36, 'duration': 3.28}
+{'text': 'women develop breasts to fight off like', 'start': 515.12, 'duration': 4.719}
+{'text': "um rapists and that's why that you know", 'start': 517.039, 'duration': 4.161}
+{'text': "that's why women can smack them in the", 'start': 519.839, 'duration': 2.961}
+{'text': 'face of what like you can make up any', 'start': 521.2, 'duration': 3.199}
+{'text': "story you want and it's like", 'start': 522.8, 'duration': 2.8}
+{'text': "that's not true and it's like yeah", 'start': 524.399, 'duration': 2.721}
+{'text': "actually it is that's how you know like", 'start': 525.6, 'duration': 2.88}
+{'text': 'why else would some breast be bigger', 'start': 527.12, 'duration': 4.48}
+{'text': "than others but to fight and it's like", 'start': 528.48, 'duration': 4.4}
+{'text': "i don't know i can't even tell you the", 'start': 531.6, 'duration': 2.64}
+{'text': "argument isn't wrong because i don't", 'start': 532.88, 'duration': 2.959}
+{'text': 'even know how to respond right every', 'start': 534.24, 'duration': 4.0}
+{'text': 'single evolutionary x take is some', 'start': 535.839, 'duration': 5.12}
+{'text': 'variation of like a just uh is a just so', 'start': 538.24, 'duration': 4.8}
+{'text': "story where you're taking a whole", 'start': 540.959, 'duration': 3.201}
+{'text': "set of facts and you're trying to", 'start': 543.04, 'duration': 2.64}
+{'text': 'develop a story for why they are the way', 'start': 544.16, 'duration': 3.52}
+{'text': 'that they are but you never really truly', 'start': 545.68, 'duration': 4.32}
+{'text': "know that right you don't really truly", 'start': 547.68, 'duration': 3.12}
+{'text': 'know', 'start': 550.0, 'duration': 2.64}
+{'text': 'why anything developed the way that it', 'start': 550.8, 'duration': 3.68}
+{'text': "did you don't really truly know why", 'start': 552.64, 'duration': 3.44}
+{'text': 'something evolved the way that it did', 'start': 554.48, 'duration': 3.44}
+{'text': "it's incredibly arrogant to say it", 'start': 556.08, 'duration': 3.52}
+{'text': 'happened because of this it could be a', 'start': 557.92, 'duration': 3.28}
+{'text': 'byproduct of some other trait that was', 'start': 559.6, 'duration': 3.2}
+{'text': 'selected for it could have happened just', 'start': 561.2, 'duration': 2.88}
+{'text': 'through [\xa0__\xa0] genetic drift and', 'start': 562.8, 'duration': 2.88}
+{'text': 'something appeared it could actually be', 'start': 564.08, 'duration': 3.6}
+{'text': 'like detrimental but it was like a', 'start': 565.68, 'duration': 4.0}
+{'text': 'necessary thing uh because it because of', 'start': 567.68, 'duration': 3.36}
+{'text': "some other like there's like a million", 'start': 569.68, 'duration': 2.96}
+{'text': 'different reasons for why things can', 'start': 571.04, 'duration': 2.96}
+{'text': 'evolve the way that they did yeah', 'start': 572.64, 'duration': 2.319}
+{'text': 'especially when people try to use', 'start': 574.0, 'duration': 2.8}
+{'text': 'evolutionary xyz to explain some complex', 'start': 574.959, 'duration': 3.761}
+{'text': "social interaction it's like ah i don't", 'start': 576.8, 'duration': 2.8}
+{'text': "know if you can say that like let's", 'start': 578.72, 'duration': 2.239}
+{'text': 'stick to more data-driven arguments', 'start': 579.6, 'duration': 4.64}
+{'text': 'because this is kind of some meme [\xa0__\xa0]', 'start': 580.959, 'duration': 4.641}
+{'text': 'just that our current problem with', 'start': 584.24, 'duration': 2.64}
+{'text': 'variants has anything to do with', 'start': 585.6, 'duration': 2.88}
+{'text': 'vaccination seems a little bonkers', 'start': 586.88, 'duration': 3.44}
+{'text': 'because the biggest problem the delta', 'start': 588.48, 'duration': 4.0}
+{'text': 'variant emerged in india and became', 'start': 590.32, 'duration': 3.92}
+{'text': 'prevalent there under conditions where', 'start': 592.48, 'duration': 3.68}
+{'text': 'exactly no one was vaccinated true we', 'start': 594.24, 'duration': 3.12}
+{'text': 'know that the emergence of delta has', 'start': 596.16, 'duration': 2.799}
+{'text': 'nothing to do with our vaccination', 'start': 597.36, 'duration': 4.0}
+{'text': 'regime the whole thrust of their', 'start': 598.959, 'duration': 5.041}
+{'text': 'comments there is confused right and', 'start': 601.36, 'duration': 4.4}
+{'text': 'once again these subtext to everything', 'start': 604.0, 'duration': 3.76}
+{'text': "they're saying no matter how reasonable", 'start': 605.76, 'duration': 4.96}
+{'text': 'and attentive to caveats they can seem', 'start': 607.76, 'duration': 4.16}
+{'text': 'and i will grant you they can seem', 'start': 610.72, 'duration': 2.4}
+{'text': 'incredibly reasonable they do not seem', 'start': 611.92, 'duration': 2.88}
+{'text': 'like alex jones and this is why what', 'start': 613.12, 'duration': 3.68}
+{'text': "they're doing is so insidious but the", 'start': 614.8, 'duration': 4.24}
+{'text': 'basic message the basic implication of', 'start': 616.8, 'duration': 3.92}
+{'text': 'everything they say and the apparent', 'start': 619.04, 'duration': 3.6}
+{'text': "reason behind everything they're saying", 'start': 620.72, 'duration': 3.44}
+{'text': 'is the belief that these coveted', 'start': 622.64, 'duration': 3.36}
+{'text': 'vaccines are dangerous and you should be', 'start': 624.16, 'duration': 3.44}
+{'text': 'worried about them you should be', 'start': 626.0, 'duration': 4.64}
+{'text': 'profoundly hesitant to take', 'start': 627.6, 'duration': 5.52}
+{'text': "hold on apparently there's a twitter", 'start': 630.64, 'duration': 5.6}
+{'text': 'called evo psych googling', 'start': 633.12, 'duration': 5.36}
+{'text': 'cunning linguists cunning lingus may be', 'start': 636.24, 'duration': 4.48}
+{'text': 'a way to taste or smell rival semen', 'start': 638.48, 'duration': 3.76}
+{'text': 'although there is no empirical work on', 'start': 640.72, 'duration': 3.119}
+{'text': 'this there is evidence that men who had', 'start': 642.24, 'duration': 3.279}
+{'text': 'greater risk of infidelity and sperm', 'start': 643.839, 'duration': 3.281}
+{'text': 'competition report spending more time', 'start': 645.519, 'duration': 3.361}
+{'text': 'performing cunnilingus engaging', 'start': 647.12, 'duration': 2.959}
+{'text': 'cunnilingus can also be used to', 'start': 648.88, 'duration': 3.92}
+{'text': "manipulate one's partner for example", 'start': 650.079, 'duration': 4.481}
+{'text': 'both men oh and then it cuts off', 'start': 652.8, 'duration': 3.84}
+{'text': 'conclusion cunnilingus can be a tool to', 'start': 654.56, 'duration': 3.44}
+{'text': 'facilitate satisfaction within the', 'start': 656.64, 'duration': 2.72}
+{'text': 'relationship it can be a tool to combat', 'start': 658.0, 'duration': 3.04}
+{'text': "sperm competition and retain one's", 'start': 659.36, 'duration': 3.44}
+{'text': 'partner future research should examine', 'start': 661.04, 'duration': 3.2}
+{'text': 'how women manipulate men into performing', 'start': 662.8, 'duration': 2.64}
+{'text': 'kind of linguists and how engaging and', 'start': 664.24, 'duration': 2.719}
+{'text': 'kind of like similarly benefits', 'start': 665.44, 'duration': 4.16}
+{'text': 'non-heterosexual couples', 'start': 666.959, 'duration': 4.481}
+{'text': 'is this actually published or is this', 'start': 669.6, 'duration': 4.56}
+{'text': 'just like a', 'start': 671.44, 'duration': 4.399}
+{'text': 'but okay', 'start': 674.16, 'duration': 3.52}
+{'text': 'these are not normal vaccines and in', 'start': 675.839, 'duration': 4.321}
+{'text': 'fact the pushing of these vaccines on', 'start': 677.68, 'duration': 5.12}
+{'text': 'the public is colossally unethical that', 'start': 680.16, 'duration': 4.0}
+{'text': "is what they are messaging right they've", 'start': 682.8, 'duration': 2.56}
+{'text': 'said as much explicitly on their own', 'start': 684.16, 'duration': 3.2}
+{'text': 'podcast i think brett called it the', 'start': 685.36, 'duration': 3.52}
+{'text': 'greatest crime of the century or', 'start': 687.36, 'duration': 3.68}
+{'text': 'something insane like that i should get', 'start': 688.88, 'duration': 3.92}
+{'text': 'the actual language all right hold on', 'start': 691.04, 'duration': 3.84}
+{'text': "okay now i've taken a few minutes and", 'start': 692.8, 'duration': 3.84}
+{'text': "found the transcript of brett's", 'start': 694.88, 'duration': 3.76}
+{'text': "confabulation on this topic he's talking", 'start': 696.64, 'duration': 5.68}
+{'text': 'about the absolute scandal of um the uh', 'start': 698.64, 'duration': 5.52}
+{'text': 'suppression of the life-saving knowledge', 'start': 702.32, 'duration': 3.6}
+{'text': 'of ivermectin and the portion of the', 'start': 704.16, 'duration': 3.44}
+{'text': "vaccines on his own podcast where he's", 'start': 705.92, 'duration': 3.52}
+{'text': 'talking to a doctor corey who is that', 'start': 707.6, 'duration': 4.32}
+{'text': "wait oh dr corey the one guy this isn't", 'start': 709.44, 'duration': 3.6}
+{'text': 'the first time that corey and his', 'start': 711.92, 'duration': 3.12}
+{'text': 'colleagues at flccc have been accused of', 'start': 713.04, 'duration': 3.28}
+{'text': 'making unsubstantiated claims about', 'start': 715.04, 'duration': 3.28}
+{'text': 'ivermectin in december koi gave a', 'start': 716.32, 'duration': 3.36}
+{'text': 'statement at a u.s senate hearing on', 'start': 718.32, 'duration': 2.72}
+{'text': 'covet 19 treatments in which he called', 'start': 719.68, 'duration': 3.44}
+{'text': 'ivermectin effectively a miracle drug', 'start': 721.04, 'duration': 3.12}
+{'text': 'that could obliterate disease', 'start': 723.12, 'duration': 2.8}
+{'text': 'transmission to prevent illness claims', 'start': 724.16, 'duration': 3.28}
+{'text': 'that the associated press fact checkers', 'start': 725.92, 'duration': 3.359}
+{'text': 'labeled false at the time', 'start': 727.44, 'duration': 4.48}
+{'text': 'uh we should probably read this', 'start': 729.279, 'duration': 4.641}
+{'text': 'corey who formerly oversaw critical care', 'start': 731.92, 'duration': 4.08}
+{'text': 'at the uw health in wisconsin tells a', 'start': 733.92, 'duration': 3.84}
+{'text': 'scientist that he now regrets using', 'start': 736.0, 'duration': 5.04}
+{'text': 'miracle and other hyperbolic terminology', 'start': 737.76, 'duration': 4.48}
+{'text': 'based on the evidence scripting news is', 'start': 741.04, 'duration': 2.32}
+{'text': 'collected we believe the majority of the', 'start': 742.24, 'duration': 2.64}
+{'text': 'introduction section of the pro', 'start': 743.36, 'duration': 3.919}
+{'text': 'ivermectin l gazar at all 2020 studies', 'start': 744.88, 'duration': 3.759}
+{'text': 'plagiarized some paragraphs appeared', 'start': 747.279, 'duration': 3.281}
+{'text': 'have been run through a thesaurus on', 'start': 748.639, 'duration': 3.361}
+{'text': 'occasions where an accurate citation is', 'start': 750.56, 'duration': 2.399}
+{'text': "offered the others don't make it clear", 'start': 752.0, 'duration': 1.92}
+{'text': 'that the preceding sentence was a', 'start': 752.959, 'duration': 3.201}
+{'text': 'verbatim slash near every bit of quote', 'start': 753.92, 'duration': 4.88}
+{'text': 'most telling example of this is of the', 'start': 756.16, 'duration': 4.479}
+{'text': 'the thesaurus technique is the line when', 'start': 758.8, 'duration': 3.839}
+{'text': 'the authors accidentally change severe', 'start': 760.639, 'duration': 3.841}
+{'text': 'acute respiratory syndrome to extreme', 'start': 762.639, 'duration': 6.2}
+{'text': 'intense respiratory syndrome', 'start': 764.48, 'duration': 4.359}
+{'text': 'what', 'start': 772.72, 'duration': 2.559}
+{'text': 'so', 'start': 775.36, 'duration': 3.919}
+{'text': 'severe acute so secure abu respiratory', 'start': 776.399, 'duration': 5.361}
+{'text': "syndrome is sars that's so the the the", 'start': 779.279, 'duration': 4.721}
+{'text': 'virus is called sars kobe 2. so if you', 'start': 781.76, 'duration': 4.0}
+{'text': "don't know where the name comes from", 'start': 784.0, 'duration': 3.76}
+{'text': "sars severe meaning it's a severe", 'start': 785.76, 'duration': 3.759}
+{'text': "disease acute meaning it's short it's", 'start': 787.76, 'duration': 3.12}
+{'text': "not a long-term disease it's a short", 'start': 789.519, 'duration': 3.041}
+{'text': 'disease respiratory syndrome meaning it', 'start': 790.88, 'duration': 3.92}
+{'text': 'affects the respiration system cov', 'start': 792.56, 'duration': 3.92}
+{'text': "stands for coronavirus and then two it's", 'start': 794.8, 'duration': 3.2}
+{'text': 'the second coronary so this has been', 'start': 796.48, 'duration': 3.68}
+{'text': 'identified or whatever right but they', 'start': 798.0, 'duration': 4.079}
+{'text': 'but they used a thesaurus so instead of', 'start': 800.16, 'duration': 3.28}
+{'text': 'saying severe acute respiratory syndrome', 'start': 802.079, 'duration': 3.681}
+{'text': 'so sars they change it to extreme', 'start': 803.44, 'duration': 4.0}
+{'text': 'intense', 'start': 805.76, 'duration': 5.04}
+{'text': 'respiratory syndrome', 'start': 807.44, 'duration': 3.36}
+{'text': 'so chances of any one of these', 'start': 810.88, 'duration': 2.32}
+{'text': 'duplications occurring by chance a', 'start': 812.079, 'duration': 2.721}
+{'text': 'little all of them are astronomical', 'start': 813.2, 'duration': 4.16}
+{'text': 'uh-oh dream the dream study', 'start': 814.8, 'duration': 3.52}
+{'text': 'it is also unlikely that these', 'start': 817.36, 'duration': 2.56}
+{'text': 'repetitions of data are due in innocent', 'start': 818.32, 'duration': 2.8}
+{'text': 'copy and paste error when rearranging', 'start': 819.92, 'duration': 2.96}
+{'text': 'records in the file as some columns', 'start': 821.12, 'duration': 2.959}
+{'text': 'contain identical patterns of data with', 'start': 822.88, 'duration': 2.959}
+{'text': 'minor adjustments to one or two numbers', 'start': 824.079, 'duration': 3.44}
+{'text': 'possibly to make the fabrication less', 'start': 825.839, 'duration': 2.641}
+{'text': 'obvious', 'start': 827.519, 'duration': 2.56}
+{'text': "copy my homework but like don't make it", 'start': 828.48, 'duration': 4.0}
+{'text': 'obvious', 'start': 830.079, 'duration': 2.401}
+{'text': 'brown also discovered that many other', 'start': 832.72, 'duration': 2.72}
+{'text': 'numbers between the original data and', 'start': 834.079, 'duration': 2.961}
+{'text': 'the paper do not match in some cases', 'start': 835.44, 'duration': 2.88}
+{'text': 'numbers are only a couple percent while', 'start': 837.04, 'duration': 3.919}
+{'text': 'in others numbers are off by over 10', 'start': 838.32, 'duration': 5.12}
+{'text': "i can't believe this paper", 'start': 840.959, 'duration': 4.32}
+{'text': "i just i don't understand how one of the", 'start': 843.44, 'duration': 4.16}
+{'text': 'studies that corey cited that i think i', 'start': 845.279, 'duration': 3.36}
+{'text': "don't know if this was the one that", 'start': 847.6, 'duration': 2.56}
+{'text': 'turned out to be just', 'start': 848.639, 'duration': 3.121}
+{'text': 'fabricated or if it was a different one', 'start': 850.16, 'duration': 2.799}
+{'text': 'there was one study that came out of', 'start': 851.76, 'duration': 2.0}
+{'text': 'like', 'start': 852.959, 'duration': 2.641}
+{'text': '[\xa0__\xa0] was it indonesia but it was', 'start': 853.76, 'duration': 4.36}
+{'text': 'something where ivermectin had a', 'start': 855.6, 'duration': 7.28}
+{'text': '100 prophylactic success rate 100', 'start': 858.12, 'duration': 6.92}
+{'text': 'efficacy rate', 'start': 862.88, 'duration': 4.639}
+{'text': "like you don't see something like ah", 'start': 865.04, 'duration': 3.52}
+{'text': 'really', 'start': 867.519, 'duration': 3.76}
+{'text': "every single one really 100 doesn't seem", 'start': 868.56, 'duration': 5.04}
+{'text': 'like a little bit maybe too good like', 'start': 871.279, 'duration': 3.92}
+{'text': "you don't even stop for a second like", 'start': 873.6, 'duration': 3.919}
+{'text': 'okay', 'start': 875.199, 'duration': 2.32}
+{'text': 'the podcast itself is titled the crime', 'start': 877.68, 'duration': 3.599}
+{'text': "of the century and they're going back", 'start': 879.68, 'duration': 2.8}
+{'text': 'and forth about how nefarious the', 'start': 881.279, 'duration': 2.721}
+{'text': 'imaginations must be to have produced', 'start': 882.48, 'duration': 3.84}
+{'text': 'this policy dr corey says all the', 'start': 884.0, 'duration': 3.44}
+{'text': "pipeline molecules the stuff that's", 'start': 886.32, 'duration': 2.24}
+{'text': 'coming that they want to bring to market', 'start': 887.44, 'duration': 3.04}
+{'text': 'are also there right and then brett says', 'start': 888.56, 'duration': 3.36}
+{'text': "we've had a tremendous investment made", 'start': 890.48, 'duration': 2.88}
+{'text': "in them the thing i think we're almost", 'start': 891.92, 'duration': 3.12}
+{'text': 'certain to get wrong is that as', 'start': 893.36, 'duration': 3.599}
+{'text': 'outsiders we have no idea what these', 'start': 895.04, 'duration': 3.44}
+{'text': 'conversations sound like on the inside', 'start': 896.959, 'duration': 2.481}
+{'text': "there's a temptation to imagine that", 'start': 898.48, 'duration': 1.84}
+{'text': 'people are somehow sitting around', 'start': 899.44, 'duration': 1.68}
+{'text': 'comfortable with the fact that their', 'start': 900.32, 'duration': 2.4}
+{'text': 'behavior is going to cause hundreds of', 'start': 901.12, 'duration': 3.2}
+{'text': 'thousands possibly millions of deaths', 'start': 902.72, 'duration': 2.64}
+{'text': 'that may stick humanity with a', 'start': 904.32, 'duration': 2.48}
+{'text': 'relationship with a pathogen that will', 'start': 905.36, 'duration': 2.64}
+{'text': "not be able to shake because we'll", 'start': 906.8, 'duration': 2.32}
+{'text': 'prevent us from taking the appropriate', 'start': 908.0, 'duration': 2.48}
+{'text': "action until it's too late we imagine", 'start': 909.12, 'duration': 2.32}
+{'text': 'that people are saying these things out', 'start': 910.48, 'duration': 2.159}
+{'text': "loud when i'm sure there's some", 'start': 911.44, 'duration': 2.48}
+{'text': 'sociopaths in the system who are', 'start': 912.639, 'duration': 2.241}
+{'text': 'probably capable of having those', 'start': 913.92, 'duration': 2.159}
+{'text': "discussions but there aren't enough", 'start': 914.88, 'duration': 2.639}
+{'text': 'sociopaths to account for this behavior', 'start': 916.079, 'duration': 2.481}
+{'text': 'there is some way that people who are', 'start': 917.519, 'duration': 3.281}
+{'text': "doing a harm great enough i've called it", 'start': 918.56, 'duration': 3.6}
+{'text': 'the crime of the century and i realized', 'start': 920.8, 'duration': 2.399}
+{'text': 'the century is young but this is going', 'start': 922.16, 'duration': 2.479}
+{'text': "to be hard to top it's going to be hard", 'start': 923.199, 'duration': 3.2}
+{'text': "to talk there's some way that people who", 'start': 924.639, 'duration': 2.88}
+{'text': 'are engaged in something worthy of a', 'start': 926.399, 'duration': 2.721}
+{'text': 'claim like the crime of the century are', 'start': 927.519, 'duration': 2.88}
+{'text': 'comfortable with what they are doing or', 'start': 929.12, 'duration': 2.959}
+{'text': 'worse are convinced this the right thing', 'start': 930.399, 'duration': 2.961}
+{'text': 'that somehow the greater good is being', 'start': 932.079, 'duration': 4.0}
+{'text': 'served okay here you have it in fairly', 'start': 933.36, 'duration': 4.159}
+{'text': 'crystalline form the conspiratorial', 'start': 936.079, 'duration': 4.961}
+{'text': 'thinking the outrageous claims about', 'start': 937.519, 'duration': 5.521}
+{'text': 'death and destruction due to these', 'start': 941.04, 'duration': 3.84}
+{'text': 'vaccines and the suppression of', 'start': 943.04, 'duration': 4.479}
+{'text': 'ivermectin for purely mercenary reasons', 'start': 944.88, 'duration': 4.319}
+{'text': "the problem of course is that there's no", 'start': 947.519, 'duration': 3.361}
+{'text': 'reason to think this is true right there', 'start': 949.199, 'duration': 4.64}
+{'text': 'is no reason to think that ivermectin is', 'start': 950.88, 'duration': 5.04}
+{'text': 'a surrogate for getting vaccinated and', 'start': 953.839, 'duration': 3.44}
+{'text': "there's no reason to think that people", 'start': 955.92, 'duration': 2.4}
+{'text': 'should be terrified of getting these', 'start': 957.279, 'duration': 2.56}
+{'text': 'vaccines and that is the message the', 'start': 958.32, 'duration': 4.319}
+{'text': 'bread is spreading hour by hour by hour', 'start': 959.839, 'duration': 4.0}
+{'text': 'whereas the truth is we have a', 'start': 962.639, 'duration': 2.961}
+{'text': 'head-to-head comparison between what', 'start': 963.839, 'duration': 3.601}
+{'text': "here's a question even joe rogan did", 'start': 965.6, 'duration': 3.44}
+{'text': 'this okay', 'start': 967.44, 'duration': 3.839}
+{'text': 'why the [\xa0__\xa0] is it that everybody that', 'start': 969.04, 'duration': 3.2}
+{'text': 'is', 'start': 971.279, 'duration': 2.641}
+{'text': "or or i shouldn't generalize because", 'start': 972.24, 'duration': 3.36}
+{'text': "i've only heard i've only heard rogan do", 'start': 973.92, 'duration': 3.279}
+{'text': 'this', 'start': 975.6, 'duration': 3.12}
+{'text': 'why is it that some people are afraid of', 'start': 977.199, 'duration': 2.961}
+{'text': 'the vaccine and they say this is', 'start': 978.72, 'duration': 3.359}
+{'text': '[\xa0__\xa0] it was rushed emergency use', 'start': 980.16, 'duration': 4.16}
+{'text': 'authorization this is [\xa0__\xa0] but then', 'start': 982.079, 'duration': 4.161}
+{'text': "they'll take the monoclonal antibodies", 'start': 984.32, 'duration': 3.759}
+{'text': 'which are also an eua', 'start': 986.24, 'duration': 3.76}
+{'text': 'from the fda like', 'start': 988.079, 'duration': 3.601}
+{'text': 'why why are the monoclonal antibodies', 'start': 990.0, 'duration': 2.88}
+{'text': 'safe', 'start': 991.68, 'duration': 2.24}
+{'text': 'but not', 'start': 992.88, 'duration': 3.519}
+{'text': 'the vaccine like', 'start': 993.92, 'duration': 4.08}
+{'text': 'curious how that works you know what', 'start': 996.399, 'duration': 2.721}
+{'text': 'whatever', 'start': 998.0, 'duration': 2.88}
+{'text': 'maybe joe rogan is just really scared of', 'start': 999.12, 'duration': 3.279}
+{'text': "needles maybe that's what this all comes", 'start': 1000.88, 'duration': 3.199}
+{'text': 'down to actually', 'start': 1002.399, 'duration': 4.321}
+{'text': 'three cohorts of people tens of millions', 'start': 1004.079, 'duration': 4.961}
+{'text': 'hundreds of millions in some cases those', 'start': 1006.72, 'duration': 3.679}
+{'text': "who've been vaccinated those who've", 'start': 1009.04, 'duration': 2.96}
+{'text': 'caught covet without being vaccinated', 'start': 1010.399, 'duration': 2.961}
+{'text': 'those who have caught covered having', 'start': 1012.0, 'duration': 3.759}
+{'text': 'been vaccinated and we know the outcomes', 'start': 1013.36, 'duration': 4.159}
+{'text': 'we know them well enough to know that', 'start': 1015.759, 'duration': 3.601}
+{'text': "you're far better off being vaccinated", 'start': 1017.519, 'duration': 3.521}
+{'text': 'and eventually catching covered as you', 'start': 1019.36, 'duration': 3.279}
+{'text': 'will than catching it without having', 'start': 1021.04, 'duration': 3.999}
+{'text': 'been vaccinated catching kovid is not a', 'start': 1022.639, 'duration': 4.721}
+{'text': 'strategy for becoming immune to covet', 'start': 1025.039, 'duration': 4.081}
+{'text': "it's just catching covet right and those", 'start': 1027.36, 'duration': 3.36}
+{'text': 'who survive will have some natural', 'start': 1029.12, 'duration': 3.439}
+{'text': 'immunity the jury is no longer out on', 'start': 1030.72, 'duration': 3.76}
+{'text': 'that score now it may be true that in', 'start': 1032.559, 'duration': 3.841}
+{'text': 'certain populations it is rational to', 'start': 1034.48, 'duration': 4.16}
+{'text': 'worry that the potential side effects of', 'start': 1036.4, 'duration': 4.399}
+{'text': 'vaccination are greater than the risk of', 'start': 1038.64, 'duration': 3.679}
+{'text': 'covid for instance i believe there are', 'start': 1040.799, 'duration': 4.481}
+{'text': 'some data about teenage boys having a', 'start': 1042.319, 'duration': 5.441}
+{'text': 'higher risk of myocarditis than teenage', 'start': 1045.28, 'duration': 4.08}
+{'text': "girls certainly i think that's a tenfold", 'start': 1047.76, 'duration': 2.88}
+{'text': 'difference and the risk may be high', 'start': 1049.36, 'duration': 2.64}
+{'text': "enough that it it's in fact greater than", 'start': 1050.64, 'duration': 2.64}
+{'text': 'the risk of becoming severely ill with', 'start': 1052.0, 'duration': 3.2}
+{'text': 'covet the data i saw suggested it was', 'start': 1053.28, 'duration': 4.0}
+{'text': 'kind of a coin toss there but slightly', 'start': 1055.2, 'duration': 4.08}
+{'text': 'in favor of not getting vaccinated if', 'start': 1057.28, 'duration': 3.6}
+{'text': 'those data hold up with any ice it may', 'start': 1059.28, 'duration': 3.2}
+{'text': 'be rational to decide that 12 year old', 'start': 1060.88, 'duration': 3.36}
+{'text': "boys shouldn't be vaccinated but the", 'start': 1062.48, 'duration': 4.0}
+{'text': 'general picture here is fairly well', 'start': 1064.24, 'duration': 4.72}
+{'text': 'established we know catching kovid is', 'start': 1066.48, 'duration': 4.559}
+{'text': 'worse in almost every case that has thus', 'start': 1068.96, 'duration': 4.0}
+{'text': 'far been tried than getting vaccinated', 'start': 1071.039, 'duration': 3.921}
+{'text': "for covet and from what i've seen", 'start': 1072.96, 'duration': 4.079}
+{'text': 'recently the data in favor of iremectin', 'start': 1074.96, 'duration': 4.32}
+{'text': 'seems increasingly dubious so parsing', 'start': 1077.039, 'duration': 3.921}
+{'text': 'all this should be left to the', 'start': 1079.28, 'duration': 4.16}
+{'text': 'professionals right again i come back to', 'start': 1080.96, 'duration': 4.719}
+{'text': 'my basic mystification around what brett', 'start': 1083.44, 'duration': 3.44}
+{'text': 'and heather are doing', 'start': 1085.679, 'duration': 2.88}
+{'text': "why do this publicly if you're gonna", 'start': 1086.88, 'duration': 2.64}
+{'text': 'make the personal choice not to get', 'start': 1088.559, 'duration': 2.881}
+{'text': 'vaccinated based on your scrutiny of the', 'start': 1089.52, 'duration': 4.56}
+{'text': 'data great make that choice but why', 'start': 1091.44, 'duration': 4.64}
+{'text': 'spend the better part of a year', 'start': 1094.08, 'duration': 3.68}
+{'text': "convincing people that they shouldn't", 'start': 1096.08, 'duration': 3.28}
+{'text': "get vaccinated you can say that's not", 'start': 1097.76, 'duration': 3.12}
+{'text': "what you're doing but that is in fact", 'start': 1099.36, 'duration': 2.559}
+{'text': "what you're doing yep and that's what", 'start': 1100.88, 'duration': 3.039}
+{'text': 'seems so irresponsible the us is now one', 'start': 1101.919, 'duration': 3.441}
+{'text': 'of the least vaccinated countries in the', 'start': 1103.919, 'duration': 3.12}
+{'text': 'developed world we got these life-saving', 'start': 1105.36, 'duration': 2.72}
+{'text': 'vaccines', 'start': 1107.039, 'duration': 3.441}
+{'text': "first everyone what the [\xa0__\xa0] now we're", 'start': 1108.08, 'duration': 5.92}
+{'text': "the 37th most vaccinated country we're", 'start': 1110.48, 'duration': 5.68}
+{'text': 'behind the uae and portugal and', 'start': 1114.0, 'duration': 5.12}
+{'text': 'singapore and spain and denmark portugal', 'start': 1116.16, 'duration': 5.28}
+{'text': 'disgusting belgium ireland canada', 'start': 1119.12, 'duration': 4.96}
+{'text': "bahrain the uk mongolia we're behind", 'start': 1121.44, 'duration': 5.52}
+{'text': 'mongolia norway italy france the', 'start': 1124.08, 'duration': 4.64}
+{'text': 'netherlands germany from behind', 'start': 1126.96, 'duration': 3.839}
+{'text': "mauritius and cyprus but we're also", 'start': 1128.72, 'duration': 4.56}
+{'text': 'behind cambodia lithuania malaysia the', 'start': 1130.799, 'duration': 5.201}
+{'text': 'czech republic greece eastern europe', 'start': 1133.28, 'duration': 4.32}
+{'text': 'unbelievable because of', 'start': 1136.0, 'duration': 3.039}
+{'text': "misinformation and the way it's", 'start': 1137.6, 'duration': 2.64}
+{'text': 'interacting with our hyper-partisan', 'start': 1139.039, 'duration': 2.801}
+{'text': "political landscape that's why we're", 'start': 1140.24, 'duration': 4.319}
+{'text': "here and there's no question that uh", 'start': 1141.84, 'duration': 4.0}
+{'text': 'three hours of the breton heather show', 'start': 1144.559, 'duration': 3.681}
+{'text': 'on joe rogan is having an effect', 'start': 1145.84, 'duration': 4.079}
+{'text': "and that'll sound as sensorious as it", 'start': 1148.24, 'duration': 2.559}
+{'text': 'does', 'start': 1149.919, 'duration': 2.401}
+{'text': "i just think it's irresponsible and i'm", 'start': 1150.799, 'duration': 3.601}
+{'text': 'not quite sure why how to grab hold of', 'start': 1152.32, 'duration': 5.12}
+{'text': 'this increasingly unbalanced object so', 'start': 1154.4, 'duration': 5.279}
+{'text': 'as to set it right but perhaps rogan', 'start': 1157.44, 'duration': 4.4}
+{'text': 'will do something to unring that bell', 'start': 1159.679, 'duration': 4.721}
+{'text': 'okay next question oh', 'start': 1161.84, 'duration': 4.719}
+{'text': 'make sure to subscribe to sam harrison', 'start': 1164.4, 'duration': 4.8}
+{'text': 'guys', 'start': 1166.559, 'duration': 2.641}

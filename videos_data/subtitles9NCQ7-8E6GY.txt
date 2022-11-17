@@ -1,0 +1,1804 @@
+{'text': 'no no no no no no no no no no hold on', 'start': 0.0, 'duration': 4.16}
+{'text': 'that if you want to talk about dark', 'start': 2.399, 'duration': 2.88}
+{'text': "money that's great but now you're in", 'start': 4.16, 'duration': 3.28}
+{'text': 'conspiracy land so from what we do know', 'start': 5.279, 'duration': 3.921}
+{'text': "you're talking about the overall money", 'start': 7.44, 'duration': 3.84}
+{'text': 'that certain corporations and employers', 'start': 9.2, 'duration': 4.559}
+{'text': 'of those corporations are donating to', 'start': 11.28, 'duration': 4.96}
+{'text': 'the campaigns of these senators not just', 'start': 13.759, 'duration': 3.921}
+{'text': 'money going into their pockets that', 'start': 16.24, 'duration': 2.56}
+{'text': "they're running around buying hookers", 'start': 17.68, 'duration': 2.4}
+{'text': 'with i thought that like if you wanted', 'start': 18.8, 'duration': 2.639}
+{'text': 'to be like a petroleum engineer or', 'start': 20.08, 'duration': 2.64}
+{'text': 'somebody that goes and works out on like', 'start': 21.439, 'duration': 2.561}
+{'text': 'one of those rigs i thought those jobs', 'start': 22.72, 'duration': 3.12}
+{'text': "paid like crazy because they're", 'start': 24.0, 'duration': 4.08}
+{'text': 'unionized', 'start': 25.84, 'duration': 3.519}
+{'text': 'okay then why are we even talking about', 'start': 28.08, 'duration': 3.119}
+{'text': 'these jobs so wait so every employer', 'start': 29.359, 'duration': 3.2}
+{'text': 'that works for like exxon mobil or', 'start': 31.199, 'duration': 2.801}
+{'text': 'whatever these guys are all union', 'start': 32.559, 'duration': 3.441}
+{'text': 'employees or whatever or', 'start': 34.0, 'duration': 4.32}
+{'text': "i'm sure what like yeah they're laborers", 'start': 36.0, 'duration': 4.239}
+{'text': 'so they probably have a union that can', 'start': 38.32, 'duration': 3.52}
+{'text': 'represent them', 'start': 40.239, 'duration': 3.041}
+{'text': "that's usually how", 'start': 41.84, 'duration': 2.879}
+{'text': 'labor is historically one of the most', 'start': 43.28, 'duration': 3.2}
+{'text': 'represented sectors', 'start': 44.719, 'duration': 3.601}
+{'text': 'wait then if labor is one of the most', 'start': 46.48, 'duration': 3.04}
+{'text': 'representative sectors then how do we', 'start': 48.32, 'duration': 2.78}
+{'text': 'live in an oligarch', 'start': 49.52, 'duration': 2.8}
+{'text': '[Music]', 'start': 51.1, 'duration': 2.099}
+{'text': 'pardon', 'start': 52.32, 'duration': 2.879}
+{'text': 'the government is not choosing not to', 'start': 53.199, 'duration': 3.84}
+{'text': "act on behalf of the oligarchy that's", 'start': 55.199, 'duration': 3.84}
+{'text': 'not what an oligarchy is if the', 'start': 57.039, 'duration': 3.2}
+{'text': 'government has the ability to not do', 'start': 59.039, 'duration': 2.32}
+{'text': 'that based on what people are voting on', 'start': 60.239, 'duration': 2.561}
+{'text': 'how how can you say you live in an', 'start': 61.359, 'duration': 3.681}
+{'text': "oligarchy and number two what you're", 'start': 62.8, 'duration': 4.88}
+{'text': 'describing is exactly the opposite the', 'start': 65.04, 'duration': 4.96}
+{'text': 'more developed an economy becomes the', 'start': 67.68, 'duration': 4.799}
+{'text': 'harder it is for a startup to come and', 'start': 70.0, 'duration': 4.08}
+{'text': "be competitive because once you've", 'start': 72.479, 'duration': 3.361}
+{'text': 'reached something the term is an economy', 'start': 74.08, 'duration': 4.0}
+{'text': 'of scale all of the costs of doing', 'start': 75.84, 'duration': 3.919}
+{'text': 'business decrease such that it becomes', 'start': 78.08, 'duration': 3.28}
+{'text': 'incredibly hard for a startup or a new', 'start': 79.759, 'duration': 4.0}
+{'text': 'company to compete with you', 'start': 81.36, 'duration': 3.84}
+{'text': 'can you explain what an oligarchy', 'start': 83.759, 'duration': 2.72}
+{'text': 'actually is', 'start': 85.2, 'duration': 2.16}
+{'text': 'so', 'start': 86.479, 'duration': 3.121}
+{'text': 'in russia', 'start': 87.36, 'duration': 5.04}
+{'text': 'many people that are close to putin are', 'start': 89.6, 'duration': 4.879}
+{'text': 'literally these same leaders a lot of', 'start': 92.4, 'duration': 4.16}
+{'text': 'industries in russia a lot of the power', 'start': 94.479, 'duration': 4.401}
+{'text': 'has been consolidated under a few select', 'start': 96.56, 'duration': 4.4}
+{'text': 'people these people are either personal', 'start': 98.88, 'duration': 3.599}
+{'text': 'friends with putin or members of the', 'start': 100.96, 'duration': 4.159}
+{'text': "government that's an oligarchy you have", 'start': 102.479, 'duration': 5.68}
+{'text': "a you have a government that's ran by", 'start': 105.119, 'duration': 6.481}
+{'text': 'people that are owners of large swathes', 'start': 108.159, 'duration': 4.801}
+{'text': 'of the industry', 'start': 111.6, 'duration': 3.36}
+{'text': "inside of your country that's an", 'start': 112.96, 'duration': 4.799}
+{'text': 'oligarchy so when you say things like', 'start': 114.96, 'duration': 4.96}
+{'text': "bezos and musk what you're telling me is", 'start': 117.759, 'duration': 5.281}
+{'text': "that you're 17 years old white and you", 'start': 119.92, 'duration': 5.12}
+{'text': 'probably live in a household that earns', 'start': 123.04, 'duration': 4.399}
+{'text': 'at least 300 400 000 a year you have no', 'start': 125.04, 'duration': 4.96}
+{'text': 'idea what the [\xa0__\xa0] an oligarchy is okay', 'start': 127.439, 'duration': 5.201}
+{'text': 'in an oligarchy you would never get', 'start': 130.0, 'duration': 5.36}
+{'text': 'people like um zuckerberg in front of', 'start': 132.64, 'duration': 4.48}
+{'text': 'congress pleading and begging not to', 'start': 135.36, 'duration': 3.36}
+{'text': 'have a [\xa0__\xa0] nuked or trying to explain', 'start': 137.12, 'duration': 3.44}
+{'text': 'why their website does what it does or', 'start': 138.72, 'duration': 3.84}
+{'text': 'you would never have politicians like', 'start': 140.56, 'duration': 5.28}
+{'text': 'bernie sanders or aoc saying bezos you', 'start': 142.56, 'duration': 4.88}
+{'text': 'need to uh', 'start': 145.84, 'duration': 3.28}
+{'text': 'you need to pay your workers more money', 'start': 147.44, 'duration': 3.84}
+{'text': 'or you would never have people like like', 'start': 149.12, 'duration': 4.0}
+{'text': 'elon musk trying to compete for', 'start': 151.28, 'duration': 2.8}
+{'text': "government contracts because it'll be", 'start': 153.12, 'duration': 3.44}
+{'text': 'given automatically right you have like', 'start': 154.08, 'duration': 4.799}
+{'text': 'you have no idea what what an oligarchy', 'start': 156.56, 'duration': 4.24}
+{'text': 'is if you think an oligarchy is just', 'start': 158.879, 'duration': 4.161}
+{'text': 'rich people that also lobby', 'start': 160.8, 'duration': 3.519}
+{'text': 'hello', 'start': 163.04, 'duration': 2.72}
+{'text': "hey how's it going", 'start': 164.319, 'duration': 3.441}
+{'text': 'good', 'start': 165.76, 'duration': 4.64}
+{'text': "i i've got a cam if you want to put that", 'start': 167.76, 'duration': 4.8}
+{'text': "on i don't know if you care um no that's", 'start': 170.4, 'duration': 3.199}
+{'text': 'not good', 'start': 172.56, 'duration': 3.28}
+{'text': 'cool', 'start': 173.599, 'duration': 2.241}
+{'text': 'so', 'start': 176.16, 'duration': 3.2}
+{'text': 'yeah', 'start': 177.04, 'duration': 2.32}
+{'text': "anyways how's it going", 'start': 179.84, 'duration': 4.24}
+{'text': 'uh okay just', 'start': 181.36, 'duration': 4.72}
+{'text': "doing what i'm doing", 'start': 184.08, 'duration': 3.36}
+{'text': 'um', 'start': 186.08, 'duration': 4.159}
+{'text': 'okay so you think that', 'start': 187.44, 'duration': 3.92}
+{'text': 'do you want to started you want me to', 'start': 190.239, 'duration': 3.36}
+{'text': 'start', 'start': 191.36, 'duration': 3.12}
+{'text': 'um', 'start': 193.599, 'duration': 2.72}
+{'text': 'i i did want to ask you what your', 'start': 194.48, 'duration': 3.839}
+{'text': 'definition of an oligarchy is before', 'start': 196.319, 'duration': 3.2}
+{'text': 'anything', 'start': 198.319, 'duration': 3.521}
+{'text': "sure so especially when we're talking in", 'start': 199.519, 'duration': 5.121}
+{'text': 'terms of russia oligarchies tend to', 'start': 201.84, 'duration': 4.16}
+{'text': 'refer to', 'start': 204.64, 'duration': 3.679}
+{'text': 'systems of governments and economies', 'start': 206.0, 'duration': 4.48}
+{'text': 'where you have people that are like', 'start': 208.319, 'duration': 3.92}
+{'text': 'either in the government or friends of', 'start': 210.48, 'duration': 3.28}
+{'text': 'the government that also control large', 'start': 212.239, 'duration': 3.28}
+{'text': 'swathes of the economy and the', 'start': 213.76, 'duration': 3.44}
+{'text': 'government is clearly working in the', 'start': 215.519, 'duration': 2.961}
+{'text': 'best interests of the very few', 'start': 217.2, 'duration': 4.08}
+{'text': 'oligarchical owners and not for anybody', 'start': 218.48, 'duration': 4.88}
+{'text': 'else in society so especially in like an', 'start': 221.28, 'duration': 4.879}
+{'text': 'authoritarian type regime', 'start': 223.36, 'duration': 4.0}
+{'text': "though you don't think that it's", 'start': 226.159, 'duration': 3.201}
+{'text': 'possible in a democracy', 'start': 227.36, 'duration': 4.799}
+{'text': "it's possible but whatever it's nowhere", 'start': 229.36, 'duration': 6.68}
+{'text': 'near that in the united st', 'start': 232.159, 'duration': 3.881}
+{'text': 'have you ever heard of the first gilded', 'start': 237.68, 'duration': 4.32}
+{'text': 'era uh explain it to me', 'start': 239.04, 'duration': 4.8}
+{'text': 'well you know when teddy roosevelt after', 'start': 242.0, 'duration': 3.439}
+{'text': 'like the civil war when the government', 'start': 243.84, 'duration': 3.759}
+{'text': 'became really corrupt had to do trust', 'start': 245.439, 'duration': 4.0}
+{'text': 'busting to prevent', 'start': 247.599, 'duration': 3.761}
+{'text': 'actual oligarchies from having too much', 'start': 249.439, 'duration': 3.401}
+{'text': 'power in the united states', 'start': 251.36, 'duration': 4.719}
+{'text': 'okay well a lot of economists right now', 'start': 252.84, 'duration': 4.679}
+{'text': "are currently saying we're in the second", 'start': 256.079, 'duration': 3.12}
+{'text': "gilded era and that's particularly", 'start': 257.519, 'duration': 3.12}
+{'text': 'because of the wealth disparity that', 'start': 259.199, 'duration': 3.201}
+{'text': "we're seeing and the amount of uh", 'start': 260.639, 'duration': 3.84}
+{'text': 'political power that is afforded to', 'start': 262.4, 'duration': 4.96}
+{'text': 'people who resemble oligarchs and that', 'start': 264.479, 'duration': 6.0}
+{'text': 'they uh specifically use their money to', 'start': 267.36, 'duration': 5.68}
+{'text': 'put political pressure on things they', 'start': 270.479, 'duration': 4.481}
+{'text': 'own a large sector of the private', 'start': 273.04, 'duration': 3.92}
+{'text': "industry okay that's a large part of it", 'start': 274.96, 'duration': 4.16}
+{'text': "let's go like one one by one of these so", 'start': 276.96, 'duration': 4.4}
+{'text': 'sure number one wealth disparity has', 'start': 279.12, 'duration': 4.0}
+{'text': 'nothing to do with oligarchy right we', 'start': 281.36, 'duration': 3.76}
+{'text': 'can have societies where the wealth', 'start': 283.12, 'duration': 3.6}
+{'text': "disparity isn't that big and there could", 'start': 285.12, 'duration': 3.68}
+{'text': 'be an oligarchy unlikely and we could', 'start': 286.72, 'duration': 3.44}
+{'text': "have societies where there's a huge", 'start': 288.8, 'duration': 3.28}
+{'text': 'wealth disparity but still not an', 'start': 290.16, 'duration': 3.44}
+{'text': 'oligarchy right wealth disparity in and', 'start': 292.08, 'duration': 3.28}
+{'text': "of itself doesn't necessarily mean", 'start': 293.6, 'duration': 3.44}
+{'text': 'oligarchy', 'start': 295.36, 'duration': 4.16}
+{'text': 'well there is one way that the us', 'start': 297.04, 'duration': 4.879}
+{'text': 'oligarchy is similar to the russian', 'start': 299.52, 'duration': 4.16}
+{'text': 'oligarchy and that is wealth disparity', 'start': 301.919, 'duration': 4.161}
+{'text': "uh in fact uh the only country that's", 'start': 303.68, 'duration': 4.32}
+{'text': 'similar to the us in wealth disparity is', 'start': 306.08, 'duration': 3.119}
+{'text': 'russia', 'start': 308.0, 'duration': 3.039}
+{'text': "yeah but still wealth disparity doesn't", 'start': 309.199, 'duration': 3.921}
+{'text': 'really speak to', 'start': 311.039, 'duration': 3.44}
+{'text': "whether there is an oligarchy that's", 'start': 313.12, 'duration': 2.88}
+{'text': 'just not really what an oligarchy is', 'start': 314.479, 'duration': 3.841}
+{'text': 'like it plays a huge factor absolutely', 'start': 316.0, 'duration': 3.68}
+{'text': 'not', 'start': 318.32, 'duration': 2.96}
+{'text': "absolutely not you so you don't see any", 'start': 319.68, 'duration': 4.56}
+{'text': 'way that it could okay hold on any way', 'start': 321.28, 'duration': 4.88}
+{'text': 'that it could there could be a way that', 'start': 324.24, 'duration': 4.16}
+{'text': "it could but it doesn't necessarily mean", 'start': 326.16, 'duration': 3.599}
+{'text': "that it doesn't have to be a requirement", 'start': 328.4, 'duration': 3.84}
+{'text': 'of that it could be the case that', 'start': 329.759, 'duration': 4.72}
+{'text': 'somebody people get very very very rich', 'start': 332.24, 'duration': 3.519}
+{'text': 'with very little influence in the', 'start': 334.479, 'duration': 2.801}
+{'text': "government whatsoever that's possible", 'start': 335.759, 'duration': 3.28}
+{'text': 'conceivable right', 'start': 337.28, 'duration': 3.359}
+{'text': "oh no yeah no i'm not saying that if you", 'start': 339.039, 'duration': 3.041}
+{'text': 'have wealth disparity you have an', 'start': 340.639, 'duration': 3.28}
+{'text': 'oligarchy but in order to have an', 'start': 342.08, 'duration': 3.28}
+{'text': 'oligarchy', 'start': 343.919, 'duration': 3.041}
+{'text': 'in the economic sense there are', 'start': 345.36, 'duration': 3.839}
+{'text': 'non-economic oligarchies of course but', 'start': 346.96, 'duration': 4.48}
+{'text': 'in the economic sense then you need that', 'start': 349.199, 'duration': 4.321}
+{'text': 'wealth disparity most likely because why', 'start': 351.44, 'duration': 3.199}
+{'text': 'the [\xa0__\xa0] would you be an oligarchy if', 'start': 353.52, 'duration': 2.399}
+{'text': "you're not gaining a bunch of wealth", 'start': 354.639, 'duration': 2.961}
+{'text': 'from it so like practically that would', 'start': 355.919, 'duration': 3.84}
+{'text': 'be how it plays out but just pointing at', 'start': 357.6, 'duration': 3.92}
+{'text': "wealth disparity doesn't like we need", 'start': 359.759, 'duration': 4.72}
+{'text': 'more than that to get to oligarchy', 'start': 361.52, 'duration': 5.119}
+{'text': 'yeah so um', 'start': 364.479, 'duration': 3.041}
+{'text': 'in', 'start': 366.639, 'duration': 3.201}
+{'text': 'uh in 1902', 'start': 367.52, 'duration': 5.6}
+{'text': '100 100 largest corporations held', 'start': 369.84, 'duration': 6.16}
+{'text': 'control of 40 of the industrial capital', 'start': 373.12, 'duration': 4.799}
+{'text': 'in the united states would you say', 'start': 376.0, 'duration': 4.0}
+{'text': 'that resembles the united states economy', 'start': 377.919, 'duration': 3.361}
+{'text': 'today', 'start': 380.0, 'duration': 2.639}
+{'text': 'um', 'start': 381.28, 'duration': 3.12}
+{'text': 'possibly', 'start': 382.639, 'duration': 4.4}
+{'text': 'i think i think it sounds pretty similar', 'start': 384.4, 'duration': 3.919}
+{'text': 'if we look at like the amount of', 'start': 387.039, 'duration': 3.44}
+{'text': 'conglomerations and', 'start': 388.319, 'duration': 2.961}
+{'text': 'uh', 'start': 390.479, 'duration': 2.481}
+{'text': "you know mergers that have happened it's", 'start': 391.28, 'duration': 4.72}
+{'text': "very likely that that's the case okay", 'start': 392.96, 'duration': 5.519}
+{'text': 'so so that that comes into like the', 'start': 396.0, 'duration': 4.24}
+{'text': 'oligarchs owning lots of private sector', 'start': 398.479, 'duration': 3.361}
+{'text': "things well i had a specific that's", 'start': 400.24, 'duration': 4.32}
+{'text': 'still not so oligarchy very specifically', 'start': 401.84, 'duration': 4.639}
+{'text': 'refers to like the relationship between', 'start': 404.56, 'duration': 4.32}
+{'text': 'like the people that are the owners and', 'start': 406.479, 'duration': 3.601}
+{'text': 'the government', 'start': 408.88, 'duration': 2.96}
+{'text': "yeah you're being impatient i'm getting", 'start': 410.08, 'duration': 3.679}
+{'text': 'there um you wanted to go through this', 'start': 411.84, 'duration': 4.16}
+{'text': 'step by step i had a tab open', 'start': 413.759, 'duration': 4.401}
+{'text': 'uh with a very', 'start': 416.0, 'duration': 4.16}
+{'text': 'specific', 'start': 418.16, 'duration': 3.439}
+{'text': 'but then i started looking up other', 'start': 420.16, 'duration': 3.439}
+{'text': 'things you know how it goes when', 'start': 421.599, 'duration': 4.72}
+{'text': 'okay here we go so uh the next thing is', 'start': 423.599, 'duration': 4.72}
+{'text': 'that it possesses sufficient political', 'start': 426.319, 'duration': 3.921}
+{'text': 'power to promote its own interests and i', 'start': 428.319, 'duration': 4.561}
+{'text': 'would say that uh corporate interests in', 'start': 430.24, 'duration': 5.519}
+{'text': 'the united states are definitely a', 'start': 432.88, 'duration': 5.84}
+{'text': 'high priority and to this to the extent', 'start': 435.759, 'duration': 4.0}
+{'text': 'that i would call the us a', 'start': 438.72, 'duration': 3.039}
+{'text': 'corporatocracy even', 'start': 439.759, 'duration': 4.401}
+{'text': "i don't agree with that for in order to", 'start': 441.759, 'duration': 4.0}
+{'text': 'substantiate this i would have to see', 'start': 444.16, 'duration': 4.0}
+{'text': 'like are there places where corporations', 'start': 445.759, 'duration': 4.0}
+{'text': 'are pushing for a lot of big policy', 'start': 448.16, 'duration': 3.759}
+{'text': 'changes that are opposed by the majority', 'start': 449.759, 'duration': 4.241}
+{'text': 'of uh society but somehow the', 'start': 451.919, 'duration': 3.521}
+{'text': 'corporations keep winning out on top', 'start': 454.0, 'duration': 3.199}
+{'text': "that doesn't seem to be the case", 'start': 455.44, 'duration': 4.4}
+{'text': 'what about like uh oil industries', 'start': 457.199, 'duration': 4.801}
+{'text': 'yeah', 'start': 459.84, 'duration': 3.6}
+{'text': "you don't think that was like private", 'start': 462.0, 'duration': 3.52}
+{'text': 'land ownership that the government often', 'start': 463.44, 'duration': 4.24}
+{'text': 'you know does a lot of things that', 'start': 465.52, 'duration': 4.16}
+{'text': 'help corporate interests so like', 'start': 467.68, 'duration': 3.84}
+{'text': 'when it comes to like the amount of land', 'start': 469.68, 'duration': 4.239}
+{'text': 'that we have to take from say the native', 'start': 471.52, 'duration': 4.799}
+{'text': 'people in order to do oil pipelines or', 'start': 473.919, 'duration': 3.441}
+{'text': 'drilling', 'start': 476.319, 'duration': 2.241}
+{'text': "you don't think that you know the", 'start': 477.36, 'duration': 3.44}
+{'text': 'corporate interests take priority there', 'start': 478.56, 'duration': 3.84}
+{'text': "it's not about corporate interest it's", 'start': 480.8, 'duration': 3.76}
+{'text': 'about where does corporate interest', 'start': 482.4, 'duration': 3.76}
+{'text': 'clash with', 'start': 484.56, 'duration': 4.0}
+{'text': "like normal citizen interest it wouldn't", 'start': 486.16, 'duration': 4.479}
+{'text': 'surprise me if the government usually', 'start': 488.56, 'duration': 3.52}
+{'text': 'did a lot of things in corporate', 'start': 490.639, 'duration': 3.041}
+{'text': "interest but that's because corporations", 'start': 492.08, 'duration': 3.28}
+{'text': 'represent the largest shares of our', 'start': 493.68, 'duration': 4.0}
+{'text': 'markets both our economic like our goods', 'start': 495.36, 'duration': 3.679}
+{'text': 'markets our services markets and our', 'start': 497.68, 'duration': 3.04}
+{'text': "employment markets so like if you've got", 'start': 499.039, 'duration': 3.44}
+{'text': 'like an employer that employs half the', 'start': 500.72, 'duration': 3.36}
+{'text': 'nation and then you see that like the', 'start': 502.479, 'duration': 3.12}
+{'text': 'government is doing a lot of things for', 'start': 504.08, 'duration': 3.44}
+{'text': "that employer that's not an oligarchy", 'start': 505.599, 'duration': 3.201}
+{'text': "like it wouldn't surprise me that a lot", 'start': 507.52, 'duration': 2.64}
+{'text': 'of people would be in favor of that', 'start': 508.8, 'duration': 2.64}
+{'text': 'particular thing', 'start': 510.16, 'duration': 2.72}
+{'text': "so i'm trying to find there has to be", 'start': 511.44, 'duration': 3.2}
+{'text': "examples of like here's something that's", 'start': 512.88, 'duration': 3.92}
+{'text': 'not really good for most of society and', 'start': 514.64, 'duration': 4.639}
+{'text': 'here is an example of like an oligarch', 'start': 516.8, 'duration': 4.56}
+{'text': 'benefiting from it at the expense of', 'start': 519.279, 'duration': 3.76}
+{'text': 'most of society so for instance in', 'start': 521.36, 'duration': 4.0}
+{'text': "russia there's a lot of power that is", 'start': 523.039, 'duration': 4.321}
+{'text': 'concentrated through a few party members', 'start': 525.36, 'duration': 3.68}
+{'text': 'and when they lose trade deals or get', 'start': 527.36, 'duration': 3.52}
+{'text': 'sanctioned by other countries', 'start': 529.04, 'duration': 3.52}
+{'text': 'that substitution effect where their own', 'start': 530.88, 'duration': 3.36}
+{'text': 'industries start to produce more because', 'start': 532.56, 'duration': 3.12}
+{'text': "people can't buy outside it's hurting", 'start': 534.24, 'duration': 2.56}
+{'text': 'the average citizen because the', 'start': 535.68, 'duration': 2.64}
+{'text': 'affordability of everything goes through', 'start': 536.8, 'duration': 3.44}
+{'text': "the roof but it's benefiting the select", 'start': 538.32, 'duration': 3.68}
+{'text': 'few power owners in that country that', 'start': 540.24, 'duration': 3.599}
+{'text': 'have that oligarchical control over', 'start': 542.0, 'duration': 4.16}
+{'text': 'those sectors of the economy', 'start': 543.839, 'duration': 4.241}
+{'text': "sure i'm not here to talk about the", 'start': 546.16, 'duration': 3.6}
+{'text': "sanctions necessarily but you don't", 'start': 548.08, 'duration': 4.16}
+{'text': 'think that if you know the us was', 'start': 549.76, 'duration': 4.96}
+{'text': 'sanctioned in the same way that the same', 'start': 552.24, 'duration': 3.84}
+{'text': "thing would happen i'm just saying like", 'start': 554.72, 'duration': 2.72}
+{'text': "they're comparable", 'start': 556.08, 'duration': 3.68}
+{'text': 'how', 'start': 557.44, 'duration': 2.32}
+{'text': 'how how would the u.s not be greatly', 'start': 560.08, 'duration': 3.68}
+{'text': 'hurt like most of their commodities are', 'start': 561.92, 'duration': 3.28}
+{'text': "imported aren't there because when we", 'start': 563.76, 'duration': 3.68}
+{'text': "sanction other people it's not generally", 'start': 565.2, 'duration': 4.4}
+{'text': "to just benefit somebody that's like", 'start': 567.44, 'duration': 3.6}
+{'text': 'related to our personal friend of the', 'start': 569.6, 'duration': 3.12}
+{'text': 'president of the united states right', 'start': 571.04, 'duration': 3.84}
+{'text': 'these sanctions generally yes depending', 'start': 572.72, 'duration': 3.52}
+{'text': 'on how they go what will require', 'start': 574.88, 'duration': 3.28}
+{'text': 'approval from congress depending on how', 'start': 576.24, 'duration': 3.92}
+{'text': 'they go about enacting them um but', 'start': 578.16, 'duration': 4.239}
+{'text': "they're usually they're done at the um", 'start': 580.16, 'duration': 3.52}
+{'text': 'at the broad support of the american', 'start': 582.399, 'duration': 2.481}
+{'text': "people like it's pretty rare that like", 'start': 583.68, 'duration': 2.88}
+{'text': 'we do a sanction and every single person', 'start': 584.88, 'duration': 3.04}
+{'text': 'in america [\xa0__\xa0] hates it and the', 'start': 586.56, 'duration': 2.88}
+{'text': 'government is doing it to enrich like', 'start': 587.92, 'duration': 3.039}
+{'text': "friends of the president i'm not aware", 'start': 589.44, 'duration': 2.48}
+{'text': 'of that happening in the united states', 'start': 590.959, 'duration': 2.641}
+{'text': "maybe it doesn't i was not aware okay", 'start': 591.92, 'duration': 3.52}
+{'text': "again this isn't the topic but i have", 'start': 593.6, 'duration': 3.679}
+{'text': 'seen stuff that says that the sanctions', 'start': 595.44, 'duration': 3.6}
+{'text': 'on russia will actually hurt the u.s', 'start': 597.279, 'duration': 3.521}
+{'text': "economy so i'm sure sanctions on the u.s", 'start': 599.04, 'duration': 3.68}
+{'text': 'would hurt it too sure a little bit sure', 'start': 600.8, 'duration': 3.12}
+{'text': "but not as much as it's going to hurt", 'start': 602.72, 'duration': 2.88}
+{'text': "the average russian citizen and it's not", 'start': 603.92, 'duration': 3.359}
+{'text': "and it's not going to be done to enrich", 'start': 605.6, 'duration': 4.08}
+{'text': 'just like the the highest like american', 'start': 607.279, 'duration': 3.68}
+{'text': "companies like i don't think that like", 'start': 609.68, 'duration': 2.88}
+{'text': 'facebook or amazon or whatever are', 'start': 610.959, 'duration': 3.44}
+{'text': "benefiting from russia like i'm pretty", 'start': 612.56, 'duration': 3.279}
+{'text': 'sure all of our markets are [\xa0__\xa0] right', 'start': 614.399, 'duration': 2.961}
+{'text': 'now', 'start': 615.839, 'duration': 3.841}
+{'text': 'well anyways what i the conditions i', 'start': 617.36, 'duration': 4.24}
+{'text': 'have described you seem to somewhat', 'start': 619.68, 'duration': 6.24}
+{'text': 'agree to come from a scholar uh uh to me', 'start': 621.6, 'duration': 5.6}
+{'text': "i'm not sure if they're saying their", 'start': 625.92, 'duration': 3.52}
+{'text': 'name right but dimitrinenko', 'start': 627.2, 'duration': 4.319}
+{'text': 'and i have a paper i can send it to you', 'start': 629.44, 'duration': 3.6}
+{'text': 'if you want i can also send you the', 'start': 631.519, 'duration': 3.281}
+{'text': "unlocked version because i'm i'm good at", 'start': 633.04, 'duration': 3.76}
+{'text': 'that but um', 'start': 634.8, 'duration': 3.68}
+{'text': 'either way uh', 'start': 636.8, 'duration': 4.56}
+{'text': 'what they described uh or sorry their', 'start': 638.48, 'duration': 5.039}
+{'text': 'their conditions for this are laid out', 'start': 641.36, 'duration': 4.0}
+{'text': 'laid out and the in the third thing', 'start': 643.519, 'duration': 2.961}
+{'text': "we've already kind of covered that they", 'start': 645.36, 'duration': 2.719}
+{'text': 'own multiple businesses', 'start': 646.48, 'duration': 3.919}
+{'text': 'uh i feel like that all kind of align', 'start': 648.079, 'duration': 3.841}
+{'text': 'their interests or coordinate their', 'start': 650.399, 'duration': 3.201}
+{'text': 'interest between them which definitely', 'start': 651.92, 'duration': 3.359}
+{'text': 'happens like look at nestle and stuff', 'start': 653.6, 'duration': 2.72}
+{'text': 'like that', 'start': 655.279, 'duration': 2.081}
+{'text': 'so', 'start': 656.32, 'duration': 3.12}
+{'text': 'now we come down to things like lobbying', 'start': 657.36, 'duration': 4.159}
+{'text': 'and stuff like that do you think', 'start': 659.44, 'duration': 5.44}
+{'text': 'corporations would invest 3.7 billion', 'start': 661.519, 'duration': 6.801}
+{'text': 'dollars last year into lobbying if there', 'start': 664.88, 'duration': 5.36}
+{'text': "wasn't a payoff somehow i mean i'm sure", 'start': 668.32, 'duration': 3.6}
+{'text': "there's some payoff but 3.7 billion", 'start': 670.24, 'duration': 2.96}
+{'text': 'dollars sounds like a very small amount', 'start': 671.92, 'duration': 3.919}
+{'text': "of money it's a pittance compared to our", 'start': 673.2, 'duration': 3.92}
+{'text': 'like our the budget of our government', 'start': 675.839, 'duration': 2.401}
+{'text': "it's a pittance compared to the overall", 'start': 677.12, 'duration': 2.719}
+{'text': 'gdp of our country but i mean i would', 'start': 678.24, 'duration': 2.96}
+{'text': 'expect them to be lobbying yeah you', 'start': 679.839, 'duration': 2.56}
+{'text': 'would expect every company to lobby of', 'start': 681.2, 'duration': 2.16}
+{'text': 'course', 'start': 682.399, 'duration': 3.12}
+{'text': 'do you do you know what the average', 'start': 683.36, 'duration': 5.84}
+{'text': 'senator makes from lobbying per year', 'start': 685.519, 'duration': 6.801}
+{'text': "um i i don't know if senators can make", 'start': 689.2, 'duration': 4.48}
+{'text': 'money from lobbying or what do you mean', 'start': 692.32, 'duration': 2.24}
+{'text': 'by that', 'start': 693.68, 'duration': 3.68}
+{'text': 'well donations quote unquote', 'start': 694.56, 'duration': 4.719}
+{'text': "don't and that's what we know and like", 'start': 697.36, 'duration': 4.4}
+{'text': "that's not counting dark money donations", 'start': 699.279, 'duration': 4.56}
+{'text': "um i i don't know", 'start': 701.76, 'duration': 4.4}
+{'text': 'uh 300 000 dollars', 'start': 703.839, 'duration': 4.641}
+{'text': 'from from corporate interest donations', 'start': 706.16, 'duration': 4.0}
+{'text': 'to their campaign', 'start': 708.48, 'duration': 3.2}
+{'text': "so the senators aren't making that money", 'start': 710.16, 'duration': 4.32}
+{'text': "that's going to their campaign right", 'start': 711.68, 'duration': 3.839}
+{'text': 'well', 'start': 714.48, 'duration': 2.56}
+{'text': "ideally but we don't actually know that", 'start': 715.519, 'duration': 2.801}
+{'text': "with dark money because we can't track", 'start': 717.04, 'duration': 3.039}
+{'text': "it no and that's not a problem no no no", 'start': 718.32, 'duration': 3.92}
+{'text': 'no hold on that if you want to talk', 'start': 720.079, 'duration': 3.44}
+{'text': "about dark money that's great but now", 'start': 722.24, 'duration': 2.8}
+{'text': "you're in conspiracy land so from what", 'start': 723.519, 'duration': 3.44}
+{'text': "we do know you're talking about the", 'start': 725.04, 'duration': 3.919}
+{'text': 'overall money that certain corporations', 'start': 726.959, 'duration': 4.241}
+{'text': 'and employers of those corporations are', 'start': 728.959, 'duration': 4.721}
+{'text': 'donating to the campaigns of these', 'start': 731.2, 'duration': 4.56}
+{'text': 'senators not just money going into their', 'start': 733.68, 'duration': 3.12}
+{'text': "pockets that they're running around", 'start': 735.76, 'duration': 3.759}
+{'text': 'buying hookers with', 'start': 736.8, 'duration': 3.599}
+{'text': 'so', 'start': 739.519, 'duration': 2.801}
+{'text': 'dark money refers to political spending', 'start': 740.399, 'duration': 4.401}
+{'text': 'by nonprofit organizations', 'start': 742.32, 'duration': 4.24}
+{'text': 'in the politics of the in the political', 'start': 744.8, 'duration': 4.0}
+{'text': 'body of the united states so', 'start': 746.56, 'duration': 3.92}
+{'text': "they don't have to report everything", 'start': 748.8, 'duration': 3.68}
+{'text': "that they donate and they don't have to", 'start': 750.48, 'duration': 2.799}
+{'text': 'report', 'start': 752.48, 'duration': 3.359}
+{'text': 'back to their donors', 'start': 753.279, 'duration': 4.401}
+{'text': 'my understanding of no hold on dark', 'start': 755.839, 'duration': 3.361}
+{'text': 'money so like a super pac is an', 'start': 757.68, 'duration': 3.68}
+{'text': 'organization that can accept donations', 'start': 759.2, 'duration': 3.28}
+{'text': "without having to report where they're", 'start': 761.36, 'duration': 2.88}
+{'text': "coming from because they're spending it", 'start': 762.48, 'duration': 4.08}
+{'text': 'not on campaigns so a super pac can', 'start': 764.24, 'duration': 4.08}
+{'text': 'receive money and not report on who it', 'start': 766.56, 'duration': 3.04}
+{'text': "comes from but they can't send an", 'start': 768.32, 'duration': 2.8}
+{'text': 'unlimited amount of money on track to a', 'start': 769.6, 'duration': 2.96}
+{'text': 'certain campaign or senator that would', 'start': 771.12, 'duration': 3.68}
+{'text': 'be illegal the dark money is the', 'start': 772.56, 'duration': 4.959}
+{'text': "political spending uh that's how they", 'start': 774.8, 'duration': 4.479}
+{'text': "get their dark money what you're", 'start': 777.519, 'duration': 3.44}
+{'text': "describing candidates don't get dark", 'start': 779.279, 'duration': 4.081}
+{'text': 'money dark money goes to super pacs', 'start': 780.959, 'duration': 3.521}
+{'text': 'candidates', 'start': 783.36, 'duration': 3.36}
+{'text': 'on behalf of political causes and guess', 'start': 784.48, 'duration': 3.919}
+{'text': 'who donates to super pacs more than', 'start': 786.72, 'duration': 3.2}
+{'text': 'anything', 'start': 788.399, 'duration': 3.44}
+{'text': 'corporations sure probably i would', 'start': 789.92, 'duration': 3.599}
+{'text': 'expect them to right', 'start': 791.839, 'duration': 3.601}
+{'text': 'yeah and so this is how we get our', 'start': 793.519, 'duration': 4.161}
+{'text': 'lobbying yeah the question', 'start': 795.44, 'duration': 4.16}
+{'text': "but that's what i would expect if i had", 'start': 797.68, 'duration': 3.44}
+{'text': 'a corporation that represented the', 'start': 799.6, 'duration': 3.44}
+{'text': 'interests of 20 or 30 or 40 000', 'start': 801.12, 'duration': 4.08}
+{'text': 'employees and they were donating money', 'start': 803.04, 'duration': 3.68}
+{'text': 'towards like their causes that benefit', 'start': 805.2, 'duration': 2.96}
+{'text': "the corporation it's also on behalf of", 'start': 806.72, 'duration': 2.96}
+{'text': "their employees as well like that's not", 'start': 808.16, 'duration': 3.359}
+{'text': 'surprising to me what i need to see is', 'start': 809.68, 'duration': 3.44}
+{'text': 'you need to show me there are ways where', 'start': 811.519, 'duration': 3.44}
+{'text': 'corporations are doing this to the', 'start': 813.12, 'duration': 3.6}
+{'text': "detriment of the average citizen that's", 'start': 814.959, 'duration': 3.68}
+{'text': 'harming the average citizen and somehow', 'start': 816.72, 'duration': 3.359}
+{'text': 'they keep winning out because of their', 'start': 818.639, 'duration': 2.32}
+{'text': 'money', 'start': 820.079, 'duration': 2.161}
+{'text': 'versus the the will of the average', 'start': 820.959, 'duration': 3.361}
+{'text': 'citizen like what would happen in russia', 'start': 822.24, 'duration': 4.159}
+{'text': 'yeah you said well you said that they', 'start': 824.32, 'duration': 3.84}
+{'text': 'represent all of their employees do you', 'start': 826.399, 'duration': 2.56}
+{'text': 'think', 'start': 828.16, 'duration': 2.56}
+{'text': 'corporations do a good job representing', 'start': 828.959, 'duration': 3.041}
+{'text': 'their employees', 'start': 830.72, 'duration': 3.359}
+{'text': 'uh to some degree', 'start': 832.0, 'duration': 4.16}
+{'text': "it's gonna be part of the business", 'start': 834.079, 'duration': 4.161}
+{'text': "i'm sorry i just i wouldn't agree i", 'start': 836.16, 'duration': 4.0}
+{'text': 'think the reason that we have unions are', 'start': 838.24, 'duration': 3.599}
+{'text': "because corporations don't represent", 'start': 840.16, 'duration': 3.84}
+{'text': 'their workers they exploit them so', 'start': 841.839, 'duration': 4.24}
+{'text': 'corporations are in some ways', 'start': 844.0, 'duration': 3.76}
+{'text': "representing their workers but they're", 'start': 846.079, 'duration': 3.521}
+{'text': "it's not their primary interest right", 'start': 847.76, 'duration': 4.079}
+{'text': 'obviously employment is a', 'start': 849.6, 'duration': 4.0}
+{'text': 'is a cost of doing business', 'start': 851.839, 'duration': 3.36}
+{'text': 'but i mean like to some extent do', 'start': 853.6, 'duration': 3.84}
+{'text': 'workers how often do workers get profits', 'start': 855.199, 'duration': 3.76}
+{'text': "from corporations sorry i'll be sure not", 'start': 857.44, 'duration': 2.72}
+{'text': "to cut you off too much because you're", 'start': 858.959, 'duration': 2.56}
+{'text': 'not doing that a worker would never get', 'start': 860.16, 'duration': 3.84}
+{'text': "a profit unless they're a part owner", 'start': 861.519, 'duration': 4.481}
+{'text': 'yeah exactly so when', 'start': 864.0, 'duration': 4.24}
+{'text': 'when profits are the motive for', 'start': 866.0, 'duration': 4.639}
+{'text': 'corporations to do this lobbying how how', 'start': 868.24, 'duration': 4.159}
+{'text': 'often are they really representing the', 'start': 870.639, 'duration': 3.841}
+{'text': 'interests of the worker', 'start': 872.399, 'duration': 4.081}
+{'text': 'well i mean the interest of the worker', 'start': 874.48, 'duration': 3.44}
+{'text': 'is going to be to some extent a', 'start': 876.48, 'duration': 3.359}
+{'text': "byproduct of seeking more profits that's", 'start': 877.92, 'duration': 4.0}
+{'text': "why google doesn't hire people for 40 a", 'start': 879.839, 'duration': 4.481}
+{'text': 'day right', 'start': 881.92, 'duration': 4.64}
+{'text': "sorry can can you rephrase that i'm not", 'start': 884.32, 'duration': 3.04}
+{'text': 'sure', 'start': 886.56, 'duration': 2.399}
+{'text': 'it seemed like a non-sequitur to me but', 'start': 887.36, 'duration': 4.32}
+{'text': "google's google's bottom line is the", 'start': 888.959, 'duration': 4.481}
+{'text': 'amount of profit right revenue versus', 'start': 891.68, 'duration': 2.8}
+{'text': 'expense that they have at the end of the', 'start': 893.44, 'duration': 3.44}
+{'text': 'year but part of ensuring they make good', 'start': 894.48, 'duration': 3.76}
+{'text': 'profits is to at least pay their', 'start': 896.88, 'duration': 2.88}
+{'text': 'employers employees some sort of', 'start': 898.24, 'duration': 2.8}
+{'text': 'competitive wage or give them some sort', 'start': 899.76, 'duration': 2.8}
+{'text': "of competitive package right so they're", 'start': 901.04, 'duration': 3.28}
+{'text': 'not like directly representing the', 'start': 902.56, 'duration': 2.719}
+{'text': 'interests of their workers because', 'start': 904.32, 'duration': 2.959}
+{'text': "that's not their job but to some extent", 'start': 905.279, 'duration': 2.881}
+{'text': "they're going to be concerned about", 'start': 907.279, 'duration': 2.401}
+{'text': 'those things', 'start': 908.16, 'duration': 3.28}
+{'text': 'that might be true for like smaller', 'start': 909.68, 'duration': 4.24}
+{'text': "corporations that aren't already like uh", 'start': 911.44, 'duration': 4.56}
+{'text': "where the industry isn't already you", 'start': 913.92, 'duration': 4.159}
+{'text': 'know uh monopolized on but there are', 'start': 916.0, 'duration': 4.16}
+{'text': 'industries that are monopolized on and', 'start': 918.079, 'duration': 3.601}
+{'text': "there that's less the case and that's", 'start': 920.16, 'duration': 3.52}
+{'text': 'where we see our corporate oligarchies', 'start': 921.68, 'duration': 4.0}
+{'text': 'wait when industries are non-competitive', 'start': 923.68, 'duration': 3.279}
+{'text': 'now because tech is like the biggest', 'start': 925.68, 'duration': 2.8}
+{'text': 'thing in the us and like the fang this', 'start': 926.959, 'duration': 4.0}
+{'text': 'stuff is incredibly competitive', 'start': 928.48, 'duration': 4.24}
+{'text': "i wasn't referring to tech i was", 'start': 930.959, 'duration': 4.081}
+{'text': 'referring more to oil um', 'start': 932.72, 'duration': 5.76}
+{'text': 'a lot of food industries', 'start': 935.04, 'duration': 3.44}
+{'text': "don't oil jobs pay more than like any", 'start': 938.56, 'duration': 3.6}
+{'text': 'other jobs i thought that like if you', 'start': 940.959, 'duration': 2.641}
+{'text': 'wanted to be like a petroleum engineer', 'start': 942.16, 'duration': 2.72}
+{'text': 'or somebody that goes and works out on', 'start': 943.6, 'duration': 2.4}
+{'text': 'like one of those rigs i thought those', 'start': 944.88, 'duration': 3.199}
+{'text': "jobs paid like crazy because they're", 'start': 946.0, 'duration': 4.32}
+{'text': 'unionized', 'start': 948.079, 'duration': 3.521}
+{'text': 'okay then why are we even talking about', 'start': 950.32, 'duration': 3.12}
+{'text': 'these jobs so wait so every employer', 'start': 951.6, 'duration': 3.44}
+{'text': 'that works for like exxon mobil whatever', 'start': 953.44, 'duration': 3.28}
+{'text': 'these guys are all union employees or', 'start': 955.04, 'duration': 3.28}
+{'text': 'whatever or', 'start': 956.72, 'duration': 4.16}
+{'text': "i'm sure like yeah they're laborers so", 'start': 958.32, 'duration': 4.24}
+{'text': 'they probably have a union that can', 'start': 960.88, 'duration': 3.199}
+{'text': 'represent them', 'start': 962.56, 'duration': 4.0}
+{'text': "that's usually how labor is historically", 'start': 964.079, 'duration': 4.641}
+{'text': 'one of the most represented sectors', 'start': 966.56, 'duration': 4.0}
+{'text': 'wait then if labor is one of the most', 'start': 968.72, 'duration': 3.2}
+{'text': 'represented sectors then how do we live', 'start': 970.56, 'duration': 4.0}
+{'text': 'in an oligarch', 'start': 971.92, 'duration': 3.599}
+{'text': 'arden', 'start': 974.56, 'duration': 3.12}
+{'text': 'if labor is one of the most represented', 'start': 975.519, 'duration': 3.281}
+{'text': 'sectors and how do we live in an', 'start': 977.68, 'duration': 2.959}
+{'text': 'oligarch', 'start': 978.8, 'duration': 4.159}
+{'text': "most represented sectors no that's what", 'start': 980.639, 'duration': 3.361}
+{'text': "you just said i'm sorry did i", 'start': 982.959, 'duration': 2.24}
+{'text': 'misunderstand', 'start': 984.0, 'duration': 2.639}
+{'text': 'so first of all', 'start': 985.199, 'duration': 3.041}
+{'text': 'corporations and governments have worked', 'start': 986.639, 'duration': 3.2}
+{'text': 'in tandem for a long time to try to bust', 'start': 988.24, 'duration': 3.44}
+{'text': 'these sort of unions so just because', 'start': 989.839, 'duration': 3.12}
+{'text': "they've been there historically doesn't", 'start': 991.68, 'duration': 2.64}
+{'text': "mean that you know there haven't been", 'start': 992.959, 'duration': 3.521}
+{'text': 'oligarchical oligarchical', 'start': 994.32, 'duration': 3.84}
+{'text': 'whatever corporate pushback on this', 'start': 996.48, 'duration': 4.4}
+{'text': 'stuff on the other hand though uh the', 'start': 998.16, 'duration': 4.4}
+{'text': "fact that it's the most represented is a", 'start': 1000.88, 'duration': 3.68}
+{'text': 'historical thing labor unions have just', 'start': 1002.56, 'duration': 3.76}
+{'text': 'fought the hardest really look at like', 'start': 1004.56, 'duration': 4.16}
+{'text': 'miners and stuff like that', 'start': 1006.32, 'duration': 4.079}
+{'text': "okay so it's really not a it's really", 'start': 1008.72, 'duration': 4.16}
+{'text': "not a proof against oligarchy it's more", 'start': 1010.399, 'duration': 4.88}
+{'text': "like it's there because this has been", 'start': 1012.88, 'duration': 4.879}
+{'text': 'like a place where all like energy has', 'start': 1015.279, 'duration': 4.24}
+{'text': 'been kind of a', 'start': 1017.759, 'duration': 3.44}
+{'text': 'industry that wants to be monopolized', 'start': 1019.519, 'duration': 3.921}
+{'text': "over and over again okay let's okay i", 'start': 1021.199, 'duration': 3.36}
+{'text': 'should have asked this rendering what is', 'start': 1023.44, 'duration': 3.599}
+{'text': 'an oligarchy to you what does that mean', 'start': 1024.559, 'duration': 4.081}
+{'text': 'well we already walked through it so', 'start': 1027.039, 'duration': 4.4}
+{'text': 'like i said uh', 'start': 1028.64, 'duration': 4.08}
+{'text': "i'm gonna bring up the list again", 'start': 1031.439, 'duration': 2.721}
+{'text': 'because i have a terrible list based', 'start': 1032.72, 'duration': 3.52}
+{'text': 'memory uh just give me a second where', 'start': 1034.16, 'duration': 4.72}
+{'text': 'did i have that', 'start': 1036.24, 'duration': 4.0}
+{'text': 'uh', 'start': 1038.88, 'duration': 3.439}
+{'text': 'of course i lost it', 'start': 1040.24, 'duration': 5.36}
+{'text': "it's on the springer thing there we go", 'start': 1042.319, 'duration': 5.921}
+{'text': 'so back one more thank you for waiting', 'start': 1045.6, 'duration': 6.079}
+{'text': "um so it's when the owners uh", 'start': 1048.24, 'duration': 5.52}
+{'text': 'who use', 'start': 1051.679, 'duration': 3.921}
+{'text': 'so people who possess sufficient', 'start': 1053.76, 'duration': 3.52}
+{'text': 'political power to promote their own', 'start': 1055.6, 'duration': 3.28}
+{'text': 'interests are also the largest private', 'start': 1057.28, 'duration': 4.56}
+{'text': 'owners in the country', 'start': 1058.88, 'duration': 2.96}
+{'text': "this isn't", 'start': 1064.0, 'duration': 5.6}
+{'text': 'an academic definition okay so firstly', 'start': 1066.88, 'duration': 4.4}
+{'text': "doesn't this", 'start': 1069.6, 'duration': 3.6}
+{'text': "um doesn't this describe every single", 'start': 1071.28, 'duration': 4.48}
+{'text': 'capitalist economy in the world', 'start': 1073.2, 'duration': 4.64}
+{'text': 'i think capitalism incentivizes it well', 'start': 1075.76, 'duration': 4.799}
+{'text': "no doesn't this literally by definition", 'start': 1077.84, 'duration': 4.32}
+{'text': 'so people who possess sufficient', 'start': 1080.559, 'duration': 2.881}
+{'text': 'whatever that means political power to', 'start': 1082.16, 'duration': 2.56}
+{'text': 'promote their own interests are also the', 'start': 1083.44, 'duration': 2.56}
+{'text': 'largest private owners in the whole', 'start': 1084.72, 'duration': 2.959}
+{'text': "country isn't that every single", 'start': 1086.0, 'duration': 3.36}
+{'text': 'capitalist economy', 'start': 1087.679, 'duration': 3.36}
+{'text': "like what what would be like i'm sure if", 'start': 1089.36, 'duration': 3.12}
+{'text': 'i go to sweden the richest people are', 'start': 1091.039, 'duration': 3.121}
+{'text': 'probably private capital owners if i go', 'start': 1092.48, 'duration': 3.439}
+{'text': 'to norway if i go to finland like even', 'start': 1094.16, 'duration': 4.08}
+{'text': 'the nordic countries', 'start': 1095.919, 'duration': 4.081}
+{'text': "again roosevelt's", 'start': 1098.24, 'duration': 3.679}
+{'text': 'trust busting measure shows that you', 'start': 1100.0, 'duration': 3.6}
+{'text': "can't have a separation of state", 'start': 1101.919, 'duration': 3.521}
+{'text': 'interests and corporate interests here', 'start': 1103.6, 'duration': 4.0}
+{'text': "i'm saying that state interests and", 'start': 1105.44, 'duration': 4.32}
+{'text': 'corporate interests are so tangled that', 'start': 1107.6, 'duration': 5.12}
+{'text': 'by having a large control of part of a', 'start': 1109.76, 'duration': 6.0}
+{'text': 'private sector in an industry uh you', 'start': 1112.72, 'duration': 5.04}
+{'text': 'basically are becoming an oligarch how', 'start': 1115.76, 'duration': 3.76}
+{'text': 'can you ever disentangle corporate', 'start': 1117.76, 'duration': 3.6}
+{'text': 'interest and state interest these things', 'start': 1119.52, 'duration': 3.44}
+{'text': 'are always going to be and actually turn', 'start': 1121.36, 'duration': 3.84}
+{'text': "together now i i'm sorry for having too", 'start': 1122.96, 'duration': 4.4}
+{'text': 'many tabs open but i do have the thing', 'start': 1125.2, 'duration': 4.32}
+{'text': 'open on what roosevelt did i think yeah', 'start': 1127.36, 'duration': 3.6}
+{'text': 'there we go', 'start': 1129.52, 'duration': 4.159}
+{'text': 'so uh', 'start': 1130.96, 'duration': 2.719}
+{'text': "oh okay like it can't can't corporate", 'start': 1134.32, 'duration': 5.12}
+{'text': 'interest be public interest is that not', 'start': 1137.36, 'duration': 3.84}
+{'text': 'the case', 'start': 1139.44, 'duration': 4.32}
+{'text': 'well no they can be and like', 'start': 1141.2, 'duration': 4.08}
+{'text': "it's not to say that like literally", 'start': 1143.76, 'duration': 3.68}
+{'text': 'every corporate interest is against it', 'start': 1145.28, 'duration': 3.519}
+{'text': "that that was never yeah that's what so", 'start': 1147.44, 'duration': 2.239}
+{'text': "that's what i'm trying to figure out", 'start': 1148.799, 'duration': 2.481}
+{'text': 'like are there things that corporations', 'start': 1149.679, 'duration': 3.441}
+{'text': "are pushing for where it's like oh my", 'start': 1151.28, 'duration': 3.44}
+{'text': 'god these corporations push for these', 'start': 1153.12, 'duration': 3.2}
+{'text': "things and they're ruining society like", 'start': 1154.72, 'duration': 3.12}
+{'text': "this is [\xa0__\xa0] but it's just because", 'start': 1156.32, 'duration': 3.12}
+{'text': 'the corporations are so cozy with the', 'start': 1157.84, 'duration': 3.28}
+{'text': "government it's basically an oligarchy", 'start': 1159.44, 'duration': 3.04}
+{'text': "this is like that would be what i'm", 'start': 1161.12, 'duration': 2.4}
+{'text': "thinking of but i can't think of", 'start': 1162.48, 'duration': 2.88}
+{'text': 'examples of that kind of stuff oh well', 'start': 1163.52, 'duration': 3.84}
+{'text': 'like look at like', 'start': 1165.36, 'duration': 3.92}
+{'text': 'excuse me again like mining land use', 'start': 1167.36, 'duration': 3.6}
+{'text': 'stuff like that appropriately when they', 'start': 1169.28, 'duration': 4.0}
+{'text': "land away yeah so i'm looking for things", 'start': 1170.96, 'duration': 4.32}
+{'text': 'that are like hurting most of society so', 'start': 1173.28, 'duration': 2.96}
+{'text': "don't just like buzz through a bunch of", 'start': 1175.28, 'duration': 2.32}
+{'text': 'things right so like when you talk about', 'start': 1176.24, 'duration': 3.2}
+{'text': 'like oil or whatever energy i feel like', 'start': 1177.6, 'duration': 3.439}
+{'text': 'these are things that most americans', 'start': 1179.44, 'duration': 4.0}
+{'text': 'push pretty hard for generally but', 'start': 1181.039, 'duration': 4.161}
+{'text': 'historically historically that but over', 'start': 1183.44, 'duration': 3.44}
+{'text': 'the past like five to ten years', 'start': 1185.2, 'duration': 3.76}
+{'text': 'americans have actually felt like a lot', 'start': 1186.88, 'duration': 3.76}
+{'text': 'different on it but as a result of that', 'start': 1188.96, 'duration': 3.36}
+{'text': "we've seen a lot of huge pipeline", 'start': 1190.64, 'duration': 3.12}
+{'text': "projects getting cancelled so wouldn't", 'start': 1192.32, 'duration': 3.04}
+{'text': 'that be an example against us living in', 'start': 1193.76, 'duration': 2.72}
+{'text': 'an oligarchy like if we were in an', 'start': 1195.36, 'duration': 2.319}
+{'text': "oligarchy wouldn't these pipelines have", 'start': 1196.48, 'duration': 2.72}
+{'text': 'gone through anyway', 'start': 1197.679, 'duration': 3.841}
+{'text': "no that's an example of the government", 'start': 1199.2, 'duration': 4.719}
+{'text': 'not acting on behalf of the oligarchy', 'start': 1201.52, 'duration': 3.6}
+{'text': 'which is good so wait wait wait wait', 'start': 1203.919, 'duration': 1.201}
+{'text': 'wait wait wait wait wait wait wait wait', 'start': 1205.12, 'duration': 0.0}
+{'text': 'wait wait wait wait wait wait wait wait', 'start': 1205.12, 'duration': 0.0}
+{'text': 'wait wait wait wait wait wait wait wait', 'start': 1205.12, 'duration': 0.0}
+{'text': 'wait wait wait wait wait wait wait wait', 'start': 1205.12, 'duration': 0.0}
+{'text': 'wait wait wait wait wait wait wait wait', 'start': 1205.12, 'duration': 0.0}
+{'text': 'wait wait wait wait wait wait wait wait', 'start': 1205.12, 'duration': 0.0}
+{'text': 'wait wait wait wait wait wait wait wait', 'start': 1205.12, 'duration': 0.0}
+{'text': 'wait wait wait wait wait wait wait wait', 'start': 1205.12, 'duration': 0.0}
+{'text': 'wait wait wait wait wait wait wait wait', 'start': 1205.12, 'duration': 0.0}
+{'text': 'wait wait wait wait wait wait wait wait', 'start': 1205.12, 'duration': 1.12}
+{'text': 'wait wait wait hold on this is a key', 'start': 1205.12, 'duration': 2.08}
+{'text': 'thing again this is kind of what', 'start': 1206.24, 'duration': 2.16}
+{'text': 'triggers a little bit', 'start': 1207.2, 'duration': 2.719}
+{'text': 'if you live in a gov and if you live in', 'start': 1208.4, 'duration': 2.72}
+{'text': 'an allerg', 'start': 1209.919, 'duration': 3.041}
+{'text': 'if you live in an oligarchy the', 'start': 1211.12, 'duration': 4.08}
+{'text': 'government is not choosing not to act on', 'start': 1212.96, 'duration': 4.079}
+{'text': "behalf of the oligarchy that's not what", 'start': 1215.2, 'duration': 3.839}
+{'text': 'an oligarchy is if the government has', 'start': 1217.039, 'duration': 3.361}
+{'text': 'the ability to not do that based on what', 'start': 1219.039, 'duration': 2.88}
+{'text': 'people are voting on how how can you say', 'start': 1220.4, 'duration': 3.2}
+{'text': 'you live in an oligarchy', 'start': 1221.919, 'duration': 4.24}
+{'text': "so again it's not required on like", 'start': 1223.6, 'duration': 5.199}
+{'text': 'literally every person in the government', 'start': 1226.159, 'duration': 4.88}
+{'text': 'acting in interest of the oligarchs the', 'start': 1228.799, 'duration': 4.24}
+{'text': "oligarchs can't exist and then someone", 'start': 1231.039, 'duration': 3.601}
+{'text': 'like the president per se can act', 'start': 1233.039, 'duration': 2.64}
+{'text': 'outside of their interests like', 'start': 1234.64, 'duration': 3.12}
+{'text': 'roosevelt did then what power do the', 'start': 1235.679, 'duration': 3.681}
+{'text': 'oligarchs have if the if the government', 'start': 1237.76, 'duration': 3.6}
+{'text': 'can just say no no and the senate and', 'start': 1239.36, 'duration': 5.04}
+{'text': "the house uh yeah but we haven't seen", 'start': 1241.36, 'duration': 4.64}
+{'text': 'hopefully', 'start': 1244.4, 'duration': 3.12}
+{'text': "you don't think that like on like a", 'start': 1246.0, 'duration': 4.0}
+{'text': 'local scale politicians can be like', 'start': 1247.52, 'duration': 4.08}
+{'text': 'heavily influenced to do stuff by', 'start': 1250.0, 'duration': 2.72}
+{'text': 'donations', 'start': 1251.6, 'duration': 2.4}
+{'text': "that doesn't make that's not what an", 'start': 1252.72, 'duration': 3.92}
+{'text': 'oligarchy is yeah people are gonna like', 'start': 1254.0, 'duration': 6.0}
+{'text': "shouldn't people be somewhat identified", 'start': 1256.64, 'duration': 4.56}
+{'text': "no i'm because that's not because wait", 'start': 1260.0, 'duration': 3.52}
+{'text': 'because raising funds', 'start': 1261.2, 'duration': 3.52}
+{'text': "i'm saying oligarchy there's no", 'start': 1263.52, 'duration': 2.48}
+{'text': 'relationship between the government and', 'start': 1264.72, 'duration': 3.04}
+{'text': 'private sector there because no matter', 'start': 1266.0, 'duration': 3.12}
+{'text': "how much money you raise if you're doing", 'start': 1267.76, 'duration': 3.039}
+{'text': 'really unpopular [\xa0__\xa0] you can still lose', 'start': 1269.12, 'duration': 2.88}
+{'text': "elections that's why it's not an", 'start': 1270.799, 'duration': 3.36}
+{'text': 'oligarchy and we saw that play out a ton', 'start': 1272.0, 'duration': 3.6}
+{'text': 'in the past campaign cycle in the united', 'start': 1274.159, 'duration': 2.721}
+{'text': 'states where there were some people that', 'start': 1275.6, 'duration': 3.52}
+{'text': 'raised like two to one in the in funds', 'start': 1276.88, 'duration': 4.4}
+{'text': 'and they still lost their elections', 'start': 1279.12, 'duration': 4.64}
+{'text': "what i'm saying though is that the power", 'start': 1281.28, 'duration': 4.56}
+{'text': "doesn't begin or ends with what the", 'start': 1283.76, 'duration': 3.84}
+{'text': "president does that's not like where all", 'start': 1285.84, 'duration': 4.56}
+{'text': "the power in america is centered there's", 'start': 1287.6, 'duration': 4.959}
+{'text': 'other ways to influence politics in', 'start': 1290.4, 'duration': 3.92}
+{'text': 'america', 'start': 1292.559, 'duration': 4.0}
+{'text': 'sure but influencing politics the fact', 'start': 1294.32, 'duration': 3.839}
+{'text': 'that you would even need to influence', 'start': 1296.559, 'duration': 3.681}
+{'text': "politics means that it's probably not an", 'start': 1298.159, 'duration': 4.561}
+{'text': "oligarchy like in russia putin's friends", 'start': 1300.24, 'duration': 4.72}
+{'text': "don't have to spend money or do things", 'start': 1302.72, 'duration': 3.839}
+{'text': 'to convince the people or the government', 'start': 1304.96, 'duration': 3.599}
+{'text': 'to like act in their interests they just', 'start': 1306.559, 'duration': 4.561}
+{'text': "do they are because i don't think", 'start': 1308.559, 'duration': 3.841}
+{'text': "i don't think the condition you're", 'start': 1311.12, 'duration': 3.919}
+{'text': 'creating would actually like negate uh', 'start': 1312.4, 'duration': 4.44}
+{'text': 'any definition like', 'start': 1315.039, 'duration': 4.801}
+{'text': 'um like how how do you figure that like', 'start': 1316.84, 'duration': 5.8}
+{'text': "we we can't have it so that way like", 'start': 1319.84, 'duration': 4.64}
+{'text': 'the government like the corporations', 'start': 1322.64, 'duration': 3.919}
+{'text': 'actually have to spend money like the', 'start': 1324.48, 'duration': 4.079}
+{'text': "everything's so entangled already that", 'start': 1326.559, 'duration': 4.401}
+{'text': 'like for example with defense spending', 'start': 1328.559, 'duration': 3.921}
+{'text': "they don't really even need to lobby", 'start': 1330.96, 'duration': 2.959}
+{'text': "it's just taking for granted that if", 'start': 1332.48, 'duration': 2.319}
+{'text': "you're", 'start': 1333.919, 'duration': 2.481}
+{'text': "have a contract defense you're going to", 'start': 1334.799, 'duration': 3.921}
+{'text': 'get more and more money hold on i will', 'start': 1336.4, 'duration': 5.04}
+{'text': 'tell you it is absolutely not taken for', 'start': 1338.72, 'duration': 5.199}
+{'text': 'granted these these private military', 'start': 1341.44, 'duration': 4.479}
+{'text': 'contractors will fight to the [\xa0__\xa0]', 'start': 1343.919, 'duration': 4.64}
+{'text': 'death for contracts if you if you are if', 'start': 1345.919, 'duration': 4.561}
+{'text': 'you work for lockheed boeing raytheon', 'start': 1348.559, 'duration': 3.681}
+{'text': 'you are ultra competitive when it comes', 'start': 1350.48, 'duration': 3.439}
+{'text': 'to competing for the government', 'start': 1352.24, 'duration': 3.439}
+{'text': 'contracts there that is absolutely not', 'start': 1353.919, 'duration': 2.64}
+{'text': 'true', 'start': 1355.679, 'duration': 2.801}
+{'text': "but do you think it's normal to only", 'start': 1356.559, 'duration': 3.761}
+{'text': 'have three companies be like the major', 'start': 1358.48, 'duration': 5.28}
+{'text': 'competitors for that sort of thing', 'start': 1360.32, 'duration': 5.839}
+{'text': 'how many i mean depending on this what', 'start': 1363.76, 'duration': 4.799}
+{'text': "you're talking about yeah it could be", 'start': 1366.159, 'duration': 4.721}
+{'text': 'no really not in a developed economy', 'start': 1368.559, 'duration': 3.841}
+{'text': 'maybe no no no no hold on wait an', 'start': 1370.88, 'duration': 3.36}
+{'text': "emerging economy no no no no no it's not", 'start': 1372.4, 'duration': 3.279}
+{'text': 'exactly let me let me point something', 'start': 1374.24, 'duration': 2.799}
+{'text': "out what you're describing is possible", 'start': 1375.679, 'duration': 3.12}
+{'text': 'in an emerging economy but in a', 'start': 1377.039, 'duration': 3.52}
+{'text': 'developed economy there would be much', 'start': 1378.799, 'duration': 4.0}
+{'text': "more to this than that you're you've", 'start': 1380.559, 'duration': 4.081}
+{'text': 'specifically described a private sector', 'start': 1382.799, 'duration': 4.081}
+{'text': 'that is only available to established uh', 'start': 1384.64, 'duration': 3.84}
+{'text': 'businesses nobody can else can find', 'start': 1386.88, 'duration': 3.679}
+{'text': 'their way in there no no okay firstly', 'start': 1388.48, 'duration': 3.76}
+{'text': 'there are more there are way more than', 'start': 1390.559, 'duration': 2.961}
+{'text': 'three defense congress i named three at', 'start': 1392.24, 'duration': 3.439}
+{'text': 'the top of my head number one okay and', 'start': 1393.52, 'duration': 4.0}
+{'text': "number two what you're describing is", 'start': 1395.679, 'duration': 4.401}
+{'text': 'exactly the opposite the more developed', 'start': 1397.52, 'duration': 5.6}
+{'text': 'an economy becomes the harder it is for', 'start': 1400.08, 'duration': 4.959}
+{'text': 'a startup to come and be competitive', 'start': 1403.12, 'duration': 3.28}
+{'text': "because once you've reached something", 'start': 1405.039, 'duration': 3.76}
+{'text': 'the term is an economy of scale all of', 'start': 1406.4, 'duration': 4.24}
+{'text': 'the costs of doing business decrease', 'start': 1408.799, 'duration': 3.441}
+{'text': 'such that it becomes incredibly hard for', 'start': 1410.64, 'duration': 3.039}
+{'text': 'a startup or a new company to compete', 'start': 1412.24, 'duration': 3.439}
+{'text': 'with you if i wanted to sell clothes and', 'start': 1413.679, 'duration': 3.521}
+{'text': 'outperform walmart it would be', 'start': 1415.679, 'duration': 3.281}
+{'text': 'incredibly difficult for me to do so', 'start': 1417.2, 'duration': 3.28}
+{'text': "because i don't already have the economy", 'start': 1418.96, 'duration': 3.28}
+{'text': 'of scale all the supply lines all the', 'start': 1420.48, 'duration': 3.12}
+{'text': 'discounts i get for buying in bulk order', 'start': 1422.24, 'duration': 3.28}
+{'text': "i don't have that available to me", 'start': 1423.6, 'duration': 3.679}
+{'text': "for sure and this is wait wait don't say", 'start': 1425.52, 'duration': 3.519}
+{'text': "yeah that's it's exactly the opposite", 'start': 1427.279, 'duration': 4.481}
+{'text': "that what you just described so it's not", 'start': 1429.039, 'duration': 4.24}
+{'text': "okay because what you're describing is", 'start': 1431.76, 'duration': 4.159}
+{'text': 'how we get to an oligarchy no but again', 'start': 1433.279, 'duration': 4.4}
+{'text': "once we're at the oligarchy you don't", 'start': 1435.919, 'duration': 3.601}
+{'text': 'just have either exclusive control of', 'start': 1437.679, 'duration': 4.161}
+{'text': "the private spectre or it's it's not an", 'start': 1439.52, 'duration': 4.96}
+{'text': 'ore condition or uh', 'start': 1441.84, 'duration': 4.88}
+{'text': 'political control you have both of them', 'start': 1444.48, 'duration': 3.76}
+{'text': 'okay do you think that we live in a', 'start': 1446.72, 'duration': 3.28}
+{'text': "worldwide why aren't there a whole bunch", 'start': 1448.24, 'duration': 3.12}
+{'text': 'of people competing with like intel and', 'start': 1450.0, 'duration': 3.44}
+{'text': 'amd for manufacturing chips', 'start': 1451.36, 'duration': 3.28}
+{'text': "it doesn't have to apply to every", 'start': 1453.44, 'duration': 3.04}
+{'text': 'private sector', 'start': 1454.64, 'duration': 3.279}
+{'text': 'okay which private how do you determine', 'start': 1456.48, 'duration': 3.76}
+{'text': 'which ones it applies to', 'start': 1457.919, 'duration': 4.561}
+{'text': "well to be honest i've", 'start': 1460.24, 'duration': 4.0}
+{'text': "you know i i've i'm not like an", 'start': 1462.48, 'duration': 3.199}
+{'text': "economist and i haven't followed the", 'start': 1464.24, 'duration': 3.36}
+{'text': 'news specifically but this is something', 'start': 1465.679, 'duration': 3.6}
+{'text': "for people to discern on their own i'm", 'start': 1467.6, 'duration': 3.28}
+{'text': 'just here to present you with the fact', 'start': 1469.279, 'duration': 3.441}
+{'text': 'that this exists in america', 'start': 1470.88, 'duration': 3.679}
+{'text': 'and there are private sectors that have', 'start': 1472.72, 'duration': 4.8}
+{'text': "this uh i didn't like i had to prep", 'start': 1474.559, 'duration': 4.561}
+{'text': 'before this while also going to work', 'start': 1477.52, 'duration': 2.96}
+{'text': 'quickly to check on something so i', 'start': 1479.12, 'duration': 2.559}
+{'text': "didn't have the most time to get", 'start': 1480.48, 'duration': 2.88}
+{'text': 'everything together but there are clear', 'start': 1481.679, 'duration': 3.201}
+{'text': "examples and i feel like i've already", 'start': 1483.36, 'duration': 3.28}
+{'text': 'provided a couple through like giving me', 'start': 1484.88, 'duration': 3.279}
+{'text': 'a single', 'start': 1486.64, 'duration': 3.039}
+{'text': 'yeah i know how reappropriate land', 'start': 1488.159, 'duration': 2.88}
+{'text': 'defense contracts wait wait how do we', 'start': 1489.679, 'duration': 3.12}
+{'text': 'appropriate land can you explain that', 'start': 1491.039, 'duration': 3.601}
+{'text': 'how is that an oligarchy', 'start': 1492.799, 'duration': 3.12}
+{'text': 'well', 'start': 1494.64, 'duration': 3.36}
+{'text': 'do you think again that if the us', 'start': 1495.919, 'duration': 4.24}
+{'text': 'government is representing the people', 'start': 1498.0, 'duration': 3.84}
+{'text': 'especially the people who have treaties', 'start': 1500.159, 'duration': 3.601}
+{'text': 'on that land they would have that they', 'start': 1501.84, 'duration': 3.28}
+{'text': 'would have broken those treaties for', 'start': 1503.76, 'duration': 2.799}
+{'text': 'corporate interest', 'start': 1505.12, 'duration': 3.28}
+{'text': 'who do you think is more who do you', 'start': 1506.559, 'duration': 3.041}
+{'text': 'think has a', 'start': 1508.4, 'duration': 2.879}
+{'text': 'higher number of people concerned with', 'start': 1509.6, 'duration': 3.28}
+{'text': "energy from lands do you think it's", 'start': 1511.279, 'duration': 3.121}
+{'text': "natives on those lands do you think it's", 'start': 1512.88, 'duration': 2.96}
+{'text': 'u.s citizens that want to take advantage', 'start': 1514.4, 'duration': 3.279}
+{'text': 'of lower energy costs i think the', 'start': 1515.84, 'duration': 3.6}
+{'text': 'government has to respect its treaties', 'start': 1517.679, 'duration': 3.12}
+{'text': "and when it doesn't that's important", 'start': 1519.44, 'duration': 2.4}
+{'text': "you're in a different you're in a", 'start': 1520.799, 'duration': 2.48}
+{'text': 'fundamentally different topic okay no', 'start': 1521.84, 'duration': 3.04}
+{'text': "but uh but we're talking about whether", 'start': 1523.279, 'duration': 3.201}
+{'text': "or not it's an oligarchy so my question", 'start': 1524.88, 'duration': 2.96}
+{'text': 'is is the government representing that', 'start': 1526.48, 'duration': 3.12}
+{'text': "wasn't even my point though you're", 'start': 1527.84, 'duration': 3.439}
+{'text': 'avoiding my point because my point is', 'start': 1529.6, 'duration': 4.079}
+{'text': 'when the government will just uh break', 'start': 1531.279, 'duration': 5.121}
+{'text': 'treaties for corporate interest it shows', 'start': 1533.679, 'duration': 4.721}
+{'text': 'that the corporate interests matter more', 'start': 1536.4, 'duration': 4.08}
+{'text': "than established law but it's not about", 'start': 1538.4, 'duration': 4.0}
+{'text': 'breaking treaties for corporate interest', 'start': 1540.48, 'duration': 3.679}
+{'text': "it's about breaking treaties for citizen", 'start': 1542.4, 'duration': 4.399}
+{'text': 'interest that makes it difficult', 'start': 1544.159, 'duration': 4.0}
+{'text': 'do you think that energy companies in', 'start': 1546.799, 'duration': 3.041}
+{'text': "the united states don't also have", 'start': 1548.159, 'duration': 3.201}
+{'text': 'interests that coincide with the average', 'start': 1549.84, 'duration': 2.64}
+{'text': 'american', 'start': 1551.36, 'duration': 3.439}
+{'text': 'i think america can even move away or', 'start': 1552.48, 'duration': 4.4}
+{'text': 'from oil or continue to import oil but', 'start': 1554.799, 'duration': 5.041}
+{'text': 'doing this pipeline is uh purely for the', 'start': 1556.88, 'duration': 4.88}
+{'text': "profit of oil companies it's not purely", 'start': 1559.84, 'duration': 3.6}
+{'text': "for the profit it's for the reduced", 'start': 1561.76, 'duration': 3.6}
+{'text': 'energy costs for americans', 'start': 1563.44, 'duration': 4.0}
+{'text': 'reduce energy costs for who', 'start': 1565.36, 'duration': 4.08}
+{'text': 'for americans that drive their cars to', 'start': 1567.44, 'duration': 3.68}
+{'text': 'work every day', 'start': 1569.44, 'duration': 3.119}
+{'text': "so why doesn't the government just", 'start': 1571.12, 'duration': 3.2}
+{'text': "subsidize oils that way it's cheaper for", 'start': 1572.559, 'duration': 3.841}
+{'text': 'americans one there already are a lot of', 'start': 1574.32, 'duration': 3.76}
+{'text': 'subsidies on oil but two because you', 'start': 1576.4, 'duration': 2.8}
+{'text': "can't just have the government", 'start': 1578.08, 'duration': 2.8}
+{'text': 'infinitely subsidize everything in order', 'start': 1579.2, 'duration': 3.52}
+{'text': 'to make it affordable', 'start': 1580.88, 'duration': 3.52}
+{'text': 'i think if the government can avoid', 'start': 1582.72, 'duration': 3.68}
+{'text': 'breaking treaties by spending more money', 'start': 1584.4, 'duration': 3.84}
+{'text': 'on that instead of defense contractors', 'start': 1586.4, 'duration': 3.759}
+{'text': 'then yeah that would be preferable that', 'start': 1588.24, 'duration': 4.0}
+{'text': "might be the case but nothing that we're", 'start': 1590.159, 'duration': 3.281}
+{'text': 'talking about right now has anything to', 'start': 1592.24, 'duration': 3.76}
+{'text': 'do with oligarchies yes it does because', 'start': 1593.44, 'duration': 4.88}
+{'text': 'again the government clearly shows that', 'start': 1596.0, 'duration': 4.08}
+{'text': 'that favors corporate interests no no', 'start': 1598.32, 'duration': 3.28}
+{'text': 'you keep saying corporate interest but', 'start': 1600.08, 'duration': 2.479}
+{'text': "what i keep saying and you don't", 'start': 1601.6, 'duration': 1.92}
+{'text': "disagree with me because you know i'm", 'start': 1602.559, 'duration': 2.801}
+{'text': 'right is that corporate interest can', 'start': 1603.52, 'duration': 3.759}
+{'text': 'also align with the interests of the', 'start': 1605.36, 'duration': 3.6}
+{'text': 'average citizen this is the invisible', 'start': 1607.279, 'duration': 3.361}
+{'text': 'hand literally there are corporate', 'start': 1608.96, 'duration': 3.28}
+{'text': 'interests that are also the interests of', 'start': 1610.64, 'duration': 3.039}
+{'text': 'every american', 'start': 1612.24, 'duration': 2.64}
+{'text': "well how come the government doesn't", 'start': 1613.679, 'duration': 4.641}
+{'text': 'have public services in these areas then', 'start': 1614.88, 'duration': 5.2}
+{'text': 'because americans for whatever reason', 'start': 1618.32, 'duration': 3.2}
+{'text': "don't seem to be as big up on public", 'start': 1620.08, 'duration': 3.599}
+{'text': 'services as europeans are', 'start': 1621.52, 'duration': 4.08}
+{'text': 'uh well a lot of economists would', 'start': 1623.679, 'duration': 3.921}
+{'text': 'attribute it to the fact that uh', 'start': 1625.6, 'duration': 4.24}
+{'text': 'corporations have a lot of uh political', 'start': 1627.6, 'duration': 4.8}
+{'text': 'power in these areas and do campaigns to', 'start': 1629.84, 'duration': 5.76}
+{'text': 'prevent privatization', 'start': 1632.4, 'duration': 4.879}
+{'text': 'okay so then', 'start': 1635.6, 'duration': 3.04}
+{'text': 'so so', 'start': 1637.279, 'duration': 3.12}
+{'text': 'you have a default win for every single', 'start': 1638.64, 'duration': 3.6}
+{'text': 'thing so if i show you that americans', 'start': 1640.399, 'duration': 2.801}
+{'text': "don't want this you're going to claim", 'start': 1642.24, 'duration': 2.319}
+{'text': "well americans just don't want this", 'start': 1643.2, 'duration': 2.8}
+{'text': 'because corporations tell them not to', 'start': 1644.559, 'duration': 3.521}
+{'text': 'want it and then i can never know', 'start': 1646.0, 'duration': 4.08}
+{'text': 'if americans wanted it and the us', 'start': 1648.08, 'duration': 3.68}
+{'text': 'government was trying to provide it they', 'start': 1650.08, 'duration': 3.36}
+{'text': 'would they would make those utilities', 'start': 1651.76, 'duration': 3.919}
+{'text': 'public yeah we would but that what you', 'start': 1653.44, 'duration': 4.719}
+{'text': 'just described is not an oligarchy', 'start': 1655.679, 'duration': 3.761}
+{'text': 'no okay', 'start': 1658.159, 'duration': 2.961}
+{'text': "i'm not saying that that again i've", 'start': 1659.44, 'duration': 2.959}
+{'text': 'already given the conditions for an', 'start': 1661.12, 'duration': 2.88}
+{'text': "oligarchy and you've and you haven't", 'start': 1662.399, 'duration': 3.361}
+{'text': 'disagreed that those conditions exist', 'start': 1664.0, 'duration': 3.84}
+{'text': "i'm explaining to you more substantial", 'start': 1665.76, 'duration': 4.399}
+{'text': 'proof that the government is is only', 'start': 1667.84, 'duration': 4.079}
+{'text': 'concerned about uh corporate interests', 'start': 1670.159, 'duration': 4.4}
+{'text': 'and will do so at that point', 'start': 1671.919, 'duration': 4.161}
+{'text': 'of the public where where does that', 'start': 1674.559, 'duration': 2.961}
+{'text': "happen but i'm trying to figure out", 'start': 1676.08, 'duration': 4.24}
+{'text': 'where privatization of industries that', 'start': 1677.52, 'duration': 4.639}
+{'text': 'interest the public', 'start': 1680.32, 'duration': 3.599}
+{'text': 'which which industries were privatized', 'start': 1682.159, 'duration': 3.441}
+{'text': "where the public was like oh no don't do", 'start': 1683.919, 'duration': 3.12}
+{'text': "that don't privatize that and then the", 'start': 1685.6, 'duration': 2.72}
+{'text': "government did it anyway because it's an", 'start': 1687.039, 'duration': 3.12}
+{'text': 'oligarchy what does that have plenty of', 'start': 1688.32, 'duration': 3.28}
+{'text': 'energy industries what are you talking', 'start': 1690.159, 'duration': 2.64}
+{'text': 'about', 'start': 1691.6, 'duration': 2.319}
+{'text': 'where', 'start': 1692.799, 'duration': 2.721}
+{'text': 'wait hold on first of all a lot of our', 'start': 1693.919, 'duration': 3.841}
+{'text': 'local energy was in california or texas', 'start': 1695.52, 'duration': 2.96}
+{'text': 'that', 'start': 1697.76, 'duration': 2.24}
+{'text': 'uh had their energy industry failed', 'start': 1698.48, 'duration': 3.36}
+{'text': "because it's privatized texas but that's", 'start': 1700.0, 'duration': 4.159}
+{'text': "because it's texas the people wanted it", 'start': 1701.84, 'duration': 4.079}
+{'text': "that's what they voted for they're the", 'start': 1704.159, 'duration': 3.681}
+{'text': "only but they're also the only yes", 'start': 1705.919, 'duration': 3.12}
+{'text': "they're the only group of people in the", 'start': 1707.84, 'duration': 3.439}
+{'text': 'country that are like that though', 'start': 1709.039, 'duration': 4.961}
+{'text': "they're the only people yeah so again so", 'start': 1711.279, 'duration': 4.4}
+{'text': 'if we lived in an oligarchy whatever', 'start': 1714.0, 'duration': 3.2}
+{'text': "wouldn't every single state follow that", 'start': 1715.679, 'duration': 3.041}
+{'text': "model but they don't because nobody else", 'start': 1717.2, 'duration': 3.359}
+{'text': 'does that you just said that only texas', 'start': 1718.72, 'duration': 2.959}
+{'text': 'wants that', 'start': 1720.559, 'duration': 2.561}
+{'text': 'so why would every state follow that', 'start': 1721.679, 'duration': 3.921}
+{'text': 'model because an oligarchy means that a', 'start': 1723.12, 'duration': 4.0}
+{'text': 'private business could forget what the', 'start': 1725.6, 'duration': 2.799}
+{'text': 'people want and just do what they want', 'start': 1727.12, 'duration': 2.96}
+{'text': "that's that's what an oligarchy yeah", 'start': 1728.399, 'duration': 4.081}
+{'text': 'they do that', 'start': 1730.08, 'duration': 3.76}
+{'text': "then why haven't they done it in other", 'start': 1732.48, 'duration': 3.52}
+{'text': 'states', 'start': 1733.84, 'duration': 5.04}
+{'text': "i i've only came up with one example", 'start': 1736.0, 'duration': 4.159}
+{'text': 'like again', 'start': 1738.88, 'duration': 3.6}
+{'text': 'your exception proves the rule the fact', 'start': 1740.159, 'duration': 4.321}
+{'text': 'that texas is literally the only state', 'start': 1742.48, 'duration': 4.16}
+{'text': 'that does that kind of goes to show that', 'start': 1744.48, 'duration': 3.919}
+{'text': 'okay well pretty sure also california', 'start': 1746.64, 'duration': 3.12}
+{'text': "had the same thing isn't isn't", 'start': 1748.399, 'duration': 5.441}
+{'text': 'california power also privatized', 'start': 1749.76, 'duration': 4.08}
+{'text': "i i don't know my understanding is that", 'start': 1754.0, 'duration': 4.24}
+{'text': 'texas is the only energy market in the', 'start': 1756.399, 'duration': 3.681}
+{'text': "state like that i've never heard another", 'start': 1758.24, 'duration': 2.88}
+{'text': "i lived in california i don't think it", 'start': 1760.08, 'duration': 5.24}
+{'text': "was yeah it's owned by private investors", 'start': 1761.12, 'duration': 4.2}
+{'text': "i don't know if that's it it's actually", 'start': 1766.399, 'duration': 4.16}
+{'text': "hold on no wait i'll say that it's not", 'start': 1768.399, 'duration': 4.321}
+{'text': "set up like um there's no way that it's", 'start': 1770.559, 'duration': 3.681}
+{'text': 'set up like texas power industry where', 'start': 1772.72, 'duration': 2.64}
+{'text': 'everybody is bidding against each other', 'start': 1774.24, 'duration': 4.08}
+{'text': 'whatever edison uh', 'start': 1775.36, 'duration': 5.199}
+{'text': "yes it's the edison company", 'start': 1778.32, 'duration': 4.32}
+{'text': 'there might be privately run like public', 'start': 1780.559, 'duration': 4.72}
+{'text': "utilities but set up but that's that's", 'start': 1782.64, 'duration': 4.0}
+{'text': "what i'm saying how can we have", 'start': 1785.279, 'duration': 3.12}
+{'text': 'privately run public utilities if the', 'start': 1786.64, 'duration': 3.44}
+{'text': 'government is representing the people', 'start': 1788.399, 'duration': 3.121}
+{'text': 'intellectually because those public', 'start': 1790.08, 'duration': 2.959}
+{'text': 'utilities still have to answer to', 'start': 1791.52, 'duration': 2.8}
+{'text': 'government mandates and restrictions', 'start': 1793.039, 'duration': 3.201}
+{'text': 'that are voted on by those people', 'start': 1794.32, 'duration': 3.28}
+{'text': 'i think the answer is that government', 'start': 1796.24, 'duration': 4.0}
+{'text': 'have to answer to their campaign budgets', 'start': 1797.6, 'duration': 5.04}
+{'text': 'and corporations are in a much better', 'start': 1800.24, 'duration': 4.159}
+{'text': 'position to donate to those campaign', 'start': 1802.64, 'duration': 3.6}
+{'text': "budgets no that's not true corporations", 'start': 1804.399, 'duration': 3.52}
+{'text': 'can donate just as much as an individual', 'start': 1806.24, 'duration': 4.72}
+{'text': 'can to a campaign budget', 'start': 1807.919, 'duration': 5.281}
+{'text': 'uh well again you they can donate to', 'start': 1810.96, 'duration': 4.0}
+{'text': "subaru packs so we've already already", 'start': 1813.2, 'duration': 3.04}
+{'text': "discussed how that's not necessarily", 'start': 1814.96, 'duration': 3.439}
+{'text': 'true but a super pac is not a campaign', 'start': 1816.24, 'duration': 3.52}
+{'text': 'budget and none of that money goes', 'start': 1818.399, 'duration': 4.801}
+{'text': 'personally to a person in congress', 'start': 1819.76, 'duration': 5.84}
+{'text': 'are you sure about that yes how do you', 'start': 1823.2, 'duration': 3.359}
+{'text': 'know that', 'start': 1825.6, 'duration': 3.36}
+{'text': "because it's literally the fcc rules or", 'start': 1826.559, 'duration': 3.441}
+{'text': 'the um', 'start': 1828.96, 'duration': 3.36}
+{'text': 'the fec rules', 'start': 1830.0, 'duration': 4.399}
+{'text': 'what are super pacs being used for again', 'start': 1832.32, 'duration': 4.479}
+{'text': 'super pacs can do can raise and spend an', 'start': 1834.399, 'duration': 3.841}
+{'text': 'unlimited sum of money on their', 'start': 1836.799, 'duration': 3.041}
+{'text': "political causes but that money can't be", 'start': 1838.24, 'duration': 5.039}
+{'text': 'donated to individual like campaigns', 'start': 1839.84, 'duration': 6.719}
+{'text': 'so are there political causes that can', 'start': 1843.279, 'duration': 4.481}
+{'text': 'you know', 'start': 1846.559, 'duration': 4.161}
+{'text': 'campaign for uh for politicians there', 'start': 1847.76, 'duration': 5.36}
+{'text': "could be sure but that's still not going", 'start': 1850.72, 'duration': 5.679}
+{'text': 'directly to those politicians so', 'start': 1853.12, 'duration': 6.48}
+{'text': 'super pacs which represent', 'start': 1856.399, 'duration': 6.481}
+{'text': 'corporate interests', 'start': 1859.6, 'duration': 4.48}
+{'text': "of course they're going to be super but", 'start': 1862.88, 'duration': 3.679}
+{'text': 'corporate interests are not like', 'start': 1864.08, 'duration': 4.64}
+{'text': "it doesn't make sense if you were a", 'start': 1866.559, 'duration': 4.401}
+{'text': "human you're not going to want like an", 'start': 1868.72, 'duration': 4.079}
+{'text': "individual's interest probably isn't", 'start': 1870.96, 'duration': 4.319}
+{'text': 'going to be represented in', 'start': 1872.799, 'duration': 3.681}
+{'text': "anything because it just doesn't make", 'start': 1875.279, 'duration': 2.64}
+{'text': "sense i'm probably you're probably going", 'start': 1876.48, 'duration': 2.96}
+{'text': "people aren't you're going to be able to", 'start': 1877.919, 'duration': 3.201}
+{'text': "gather if they're not being exploited", 'start': 1879.44, 'duration': 3.28}
+{'text': 'sorry it has nothing to do with', 'start': 1881.12, 'duration': 3.439}
+{'text': 'exploitation it has to do with banding', 'start': 1882.72, 'duration': 3.839}
+{'text': 'together with other groups of people and', 'start': 1884.559, 'duration': 3.281}
+{'text': 'representing interests and the easiest', 'start': 1886.559, 'duration': 2.48}
+{'text': 'way to do this usually through your job', 'start': 1887.84, 'duration': 2.8}
+{'text': "it's like the company that you work for", 'start': 1889.039, 'duration': 3.201}
+{'text': 'right like we represent you know like', 'start': 1890.64, 'duration': 2.879}
+{'text': "oil workers or we were like it's how", 'start': 1892.24, 'duration': 2.96}
+{'text': 'unions work we represent teachers', 'start': 1893.519, 'duration': 3.28}
+{'text': 'whatever so like corporations are', 'start': 1895.2, 'duration': 3.199}
+{'text': 'oftentimes can represent the will of a', 'start': 1896.799, 'duration': 3.12}
+{'text': 'large collective of people that work for', 'start': 1898.399, 'duration': 4.801}
+{'text': 'them or buy and sell services from them', 'start': 1899.919, 'duration': 5.841}
+{'text': 'so again with the super pacs thing uh', 'start': 1903.2, 'duration': 4.479}
+{'text': "i'm still looking for the fcc regulation", 'start': 1905.76, 'duration': 4.32}
+{'text': "that you're talking about the the fec", 'start': 1907.679, 'duration': 4.72}
+{'text': 'regulation is maximum allowable donation', 'start': 1910.08, 'duration': 4.56}
+{'text': 'or contribution to a candidate like a', 'start': 1912.399, 'duration': 5.52}
+{'text': "super pac doesn't get around that", 'start': 1914.64, 'duration': 3.279}
+{'text': "i'm", 'start': 1919.6, 'duration': 1.76}
+{'text': "i'm", 'start': 1920.48, 'duration': 2.559}
+{'text': "i'm still looking for", 'start': 1921.36, 'duration': 3.919}
+{'text': 'that', 'start': 1923.039, 'duration': 2.24}
+{'text': 'if you can find anything that tells me i', 'start': 1925.44, 'duration': 3.76}
+{'text': 'just want to see it because it seems', 'start': 1927.12, 'duration': 4.399}
+{'text': "like that's not what i was informed on", 'start': 1929.2, 'duration': 4.319}
+{'text': 'it wait so hold on is your understanding', 'start': 1931.519, 'duration': 4.16}
+{'text': 'that a super pac can donate untraceable', 'start': 1933.519, 'duration': 4.321}
+{'text': "dark money to an actual campaign oh it's", 'start': 1935.679, 'duration': 4.0}
+{'text': 'not always untraceable but like i said', 'start': 1937.84, 'duration': 3.04}
+{'text': 'dark money', 'start': 1939.679, 'duration': 2.88}
+{'text': 'part part of it', 'start': 1940.88, 'duration': 3.76}
+{'text': "isn't traced we don't know how much of", 'start': 1942.559, 'duration': 4.24}
+{'text': "it isn't traced because that's the issue", 'start': 1944.64, 'duration': 4.48}
+{'text': "it's not traced but it's part of it does", 'start': 1946.799, 'duration': 5.281}
+{'text': 'have to be exposed as well so not all of', 'start': 1949.12, 'duration': 4.799}
+{'text': "it i'm not saying all of it", 'start': 1952.08, 'duration': 3.52}
+{'text': 'okay so you think that super pacs can', 'start': 1953.919, 'duration': 5.441}
+{'text': 'donate money directly to campaigns', 'start': 1955.6, 'duration': 5.28}
+{'text': "i just don't see anything that says that", 'start': 1959.36, 'duration': 3.12}
+{'text': "they can't and that was my impression of", 'start': 1960.88, 'duration': 4.639}
+{'text': 'them when i learned about them', 'start': 1962.48, 'duration': 3.039}
+{'text': 'can super pacs donate to campaigns', 'start': 1966.08, 'duration': 5.839}
+{'text': "i typed in something similar i'd be", 'start': 1970.399, 'duration': 5.4}
+{'text': 'surprised if you have different results', 'start': 1971.919, 'duration': 3.88}
+{'text': "they can't coordinate spending with the", 'start': 1978.32, 'duration': 3.52}
+{'text': "candidate or the campaign they're trying", 'start': 1980.08, 'duration': 2.64}
+{'text': 'to help', 'start': 1981.84, 'duration': 2.8}
+{'text': 'even though the groups are often', 'start': 1982.72, 'duration': 5.839}
+{'text': 'run by former advisors to the candidate', 'start': 1984.64, 'duration': 3.919}
+{'text': "this is from the i've just i've never", 'start': 1988.72, 'duration': 2.64}
+{'text': 'had to look this up before because this', 'start': 1990.399, 'duration': 2.801}
+{'text': "just isn't how it works yeah this this", 'start': 1991.36, 'duration': 3.679}
+{'text': 'this uh this is from the washington post', 'start': 1993.2, 'duration': 3.359}
+{'text': 'though it sounds like they can donate to', 'start': 1995.039, 'duration': 3.36}
+{'text': "no they they cannot a super pac can't", 'start': 1996.559, 'duration': 4.081}
+{'text': "donate to it it can't okay or they might", 'start': 1998.399, 'duration': 3.12}
+{'text': "i'm sorry hold on wait wait wait wait", 'start': 2000.64, 'duration': 0.879}
+{'text': 'wait wait wait wait wait wait wait wait', 'start': 2001.519, 'duration': 0.321}
+{'text': 'wait wait wait wait wait wait hold on', 'start': 2001.519, 'duration': 1.921}
+{'text': 'let me back up a super pac might be able', 'start': 2001.84, 'duration': 3.36}
+{'text': 'to donate to a campaign but if they can', 'start': 2003.44, 'duration': 3.119}
+{'text': "it's going to be whatever the fec", 'start': 2005.2, 'duration': 3.04}
+{'text': 'maximum donation is like five thousand', 'start': 2006.559, 'duration': 2.881}
+{'text': 'dollars or three thousand dollars or', 'start': 2008.24, 'duration': 2.64}
+{'text': "whatever it's going to be whatever the", 'start': 2009.44, 'duration': 3.359}
+{'text': 'money that can be traced yeah but no no', 'start': 2010.88, 'duration': 3.679}
+{'text': "no for all money there's not untraceable", 'start': 2012.799, 'duration': 3.36}
+{'text': 'money flowing from super pacs to', 'start': 2014.559, 'duration': 3.201}
+{'text': 'candidates you still are under those', 'start': 2016.159, 'duration': 6.0}
+{'text': 'same fec um are super pacs for profit', 'start': 2017.76, 'duration': 6.24}
+{'text': 'oh they zapperbacks can be for whatever', 'start': 2022.159, 'duration': 4.081}
+{'text': 'the [\xa0__\xa0] they want to be for', 'start': 2024.0, 'duration': 4.32}
+{'text': "but if they're but if they can declare", 'start': 2026.24, 'duration': 5.72}
+{'text': 'themselves as a non-profit', 'start': 2028.32, 'duration': 3.64}
+{'text': 'yeah it says i i can see a headline', 'start': 2033.12, 'duration': 3.439}
+{'text': 'right now super pacs versus other types', 'start': 2034.799, 'duration': 3.521}
+{'text': "of nonprofits so it's a type of", 'start': 2036.559, 'duration': 3.681}
+{'text': 'non-profit so therefore they would', 'start': 2038.32, 'duration': 4.16}
+{'text': 'actually be able to participate in', 'start': 2040.24, 'duration': 4.08}
+{'text': 'things that can that', 'start': 2042.48, 'duration': 5.84}
+{'text': 'are defined as dark money here you go', 'start': 2044.32, 'duration': 4.0}
+{'text': 'okay a super pac is a political', 'start': 2049.919, 'duration': 2.96}
+{'text': 'committee that can solicit and spend', 'start': 2051.359, 'duration': 3.201}
+{'text': 'unlimited sums of money a super pac', 'start': 2052.879, 'duration': 3.52}
+{'text': 'cannot contribute directly to a', 'start': 2054.56, 'duration': 3.92}
+{'text': 'politician or political party but it can', 'start': 2056.399, 'duration': 4.161}
+{'text': 'spend independently to campaign for or', 'start': 2058.48, 'duration': 5.04}
+{'text': 'against political figures', 'start': 2060.56, 'duration': 2.96}
+{'text': 'oh', 'start': 2065.52, 'duration': 4.159}
+{'text': "okay cool there's a", 'start': 2066.879, 'duration': 4.561}
+{'text': 'ballotpedia', 'start': 2069.679, 'duration': 3.841}
+{'text': 'never heard of this i', 'start': 2071.44, 'duration': 3.919}
+{'text': "this is like a like i'm not i'm not i'm", 'start': 2073.52, 'duration': 2.559}
+{'text': 'not', 'start': 2075.359, 'duration': 1.841}
+{'text': "just i'm just telling you that it's", 'start': 2076.079, 'duration': 2.721}
+{'text': "somebody that's like raise money for and", 'start': 2077.2, 'duration': 3.36}
+{'text': 'campaign for people and everything like', 'start': 2078.8, 'duration': 2.559}
+{'text': "i don't know if that gives me any", 'start': 2080.56, 'duration': 1.76}
+{'text': 'credibility or if you just want to', 'start': 2081.359, 'duration': 2.24}
+{'text': 'google the supreme court case and', 'start': 2082.32, 'duration': 2.559}
+{'text': 'understand the differences like there', 'start': 2083.599, 'duration': 3.201}
+{'text': 'are fec limits to how much anybody can', 'start': 2084.879, 'duration': 3.681}
+{'text': 'contribute to a candidate like just', 'start': 2086.8, 'duration': 2.879}
+{'text': "think about for one minute what you're", 'start': 2088.56, 'duration': 3.44}
+{'text': 'saying we could google any any um any', 'start': 2089.679, 'duration': 4.72}
+{'text': 'candidate ever like how much money did', 'start': 2092.0, 'duration': 6.0}
+{'text': 'hillary clinton raise in 20 um', 'start': 2094.399, 'duration': 5.44}
+{'text': 'oh no', 'start': 2098.0, 'duration': 3.28}
+{'text': 'right hold on wait how much money did', 'start': 2099.839, 'duration': 2.641}
+{'text': 'she raise what was it like a billion', 'start': 2101.28, 'duration': 2.96}
+{'text': 'dollars or whatever like if super pacs', 'start': 2102.48, 'duration': 3.52}
+{'text': 'can raise unlimited amounts she only she', 'start': 2104.24, 'duration': 4.72}
+{'text': 'got three or 623 million dollars in her', 'start': 2106.0, 'duration': 4.4}
+{'text': 'campaign how much money was spent on', 'start': 2108.96, 'duration': 2.72}
+{'text': 'this election cycle though right super', 'start': 2110.4, 'duration': 2.88}
+{'text': "pacs can't just funnel unlimited money", 'start': 2111.68, 'duration': 3.36}
+{'text': "into into candidates they they're", 'start': 2113.28, 'duration': 2.96}
+{'text': "they're under the same contribution", 'start': 2115.04, 'duration': 2.88}
+{'text': "limits as any other entity i'm not i'm", 'start': 2116.24, 'duration': 3.839}
+{'text': "not claiming unlimited i i'm not there", 'start': 2117.92, 'duration': 4.08}
+{'text': "to know and i'm not an expert but what i", 'start': 2120.079, 'duration': 4.481}
+{'text': 'am saying is that they they pose as a', 'start': 2122.0, 'duration': 4.64}
+{'text': 'non-profit and', 'start': 2124.56, 'duration': 4.799}
+{'text': 'uh so they have an ability to spend dark', 'start': 2126.64, 'duration': 4.479}
+{'text': 'money wait why do you keep saying dark', 'start': 2129.359, 'duration': 3.201}
+{'text': 'money what is dark money what does that', 'start': 2131.119, 'duration': 2.161}
+{'text': 'mean', 'start': 2132.56, 'duration': 3.519}
+{'text': "back to the tab since i'm terrible at", 'start': 2133.28, 'duration': 5.52}
+{'text': 'just uh defining things off my top of my', 'start': 2136.079, 'duration': 6.481}
+{'text': "head it's just my adhd", 'start': 2138.8, 'duration': 3.76}
+{'text': 'i really should organize my tabs before', 'start': 2143.52, 'duration': 3.28}
+{'text': "these things but i didn't want to take", 'start': 2145.28, 'duration': 3.52}
+{'text': 'too long dark money spending', 'start': 2146.8, 'duration': 3.76}
+{'text': 'in politics of the united states dark', 'start': 2148.8, 'duration': 3.36}
+{'text': 'money refers to political spending by', 'start': 2150.56, 'duration': 3.6}
+{'text': 'non-profit organizations that are not', 'start': 2152.16, 'duration': 4.32}
+{'text': 'required to disclose their donors', 'start': 2154.16, 'duration': 4.24}
+{'text': "so that's a super pac spending money on", 'start': 2156.48, 'duration': 3.52}
+{'text': 'things but not contributing it to an', 'start': 2158.4, 'duration': 3.04}
+{'text': "individual politician that's just them", 'start': 2160.0, 'duration': 3.52}
+{'text': 'spending money on things', 'start': 2161.44, 'duration': 3.679}
+{'text': 'no in this case the super pac is the', 'start': 2163.52, 'duration': 3.36}
+{'text': "donor no they're not", 'start': 2165.119, 'duration': 3.761}
+{'text': "we don't have to know when they spent it", 'start': 2166.88, 'duration': 3.92}
+{'text': 'no no the super super pac is not the', 'start': 2168.88, 'duration': 4.08}
+{'text': "donor the okay here's an example of a", 'start': 2170.8, 'duration': 3.6}
+{'text': "super pack let's say that there are two", 'start': 2172.96, 'duration': 2.879}
+{'text': 'candidates running candidate a and', 'start': 2174.4, 'duration': 3.439}
+{'text': "candidate b in my district let's say i", 'start': 2175.839, 'duration': 3.601}
+{'text': "really hate candidate b but i don't want", 'start': 2177.839, 'duration': 3.121}
+{'text': "to like work with a campaign i'm gonna", 'start': 2179.44, 'duration': 2.88}
+{'text': "make a super pac and i'm gonna say i'm", 'start': 2180.96, 'duration': 2.8}
+{'text': 'gonna call that super pac like you know', 'start': 2182.32, 'duration': 2.799}
+{'text': "save the trees or some [\xa0__\xa0] and it's", 'start': 2183.76, 'duration': 2.96}
+{'text': 'going to be a super pack that runs ads', 'start': 2185.119, 'duration': 4.081}
+{'text': 'to attack candidate b now as long as i', 'start': 2186.72, 'duration': 4.96}
+{'text': 'meet all of the rules of the fec i can', 'start': 2189.2, 'duration': 3.84}
+{'text': "raise as much money as i want i don't", 'start': 2191.68, 'duration': 2.64}
+{'text': 'have to report who donates money to me', 'start': 2193.04, 'duration': 3.2}
+{'text': 'or not um and i can run ads and', 'start': 2194.32, 'duration': 3.44}
+{'text': 'everything you know attacking candidate', 'start': 2196.24, 'duration': 2.96}
+{'text': 'b and talking about saving the trees or', 'start': 2197.76, 'duration': 2.8}
+{'text': "whatever and i'm reporting that but i", 'start': 2199.2, 'duration': 3.12}
+{'text': "can't actually send any money to", 'start': 2200.56, 'duration': 4.16}
+{'text': 'candidate a no no okay i get that but', 'start': 2202.32, 'duration': 3.84}
+{'text': 'again', 'start': 2204.72, 'duration': 2.639}
+{'text': "how do you know that that's not", 'start': 2206.16, 'duration': 3.76}
+{'text': 'happening when they are not when when', 'start': 2207.359, 'duration': 4.24}
+{'text': 'like for example a politician is not', 'start': 2209.92, 'duration': 3.679}
+{'text': 'required to disclose their donors no no', 'start': 2211.599, 'duration': 3.601}
+{'text': 'how do we wait how are you sure that the', 'start': 2213.599, 'duration': 3.921}
+{'text': 'sec is politicians are required to', 'start': 2215.2, 'duration': 4.32}
+{'text': 'disclose their donors they absolutely', 'start': 2217.52, 'duration': 3.92}
+{'text': 'are', 'start': 2219.52, 'duration': 3.92}
+{'text': "if you look up any politician i'm pretty", 'start': 2221.44, 'duration': 3.84}
+{'text': 'sure online you can get a record of', 'start': 2223.44, 'duration': 3.2}
+{'text': "every donation they've received you can", 'start': 2225.28, 'duration': 3.52}
+{'text': 'look up names you could go look hassan', 'start': 2226.64, 'duration': 3.04}
+{'text': 'whatever', 'start': 2228.8, 'duration': 2.559}
+{'text': 'stephen bonnell you can look at names', 'start': 2229.68, 'duration': 3.439}
+{'text': 'and you can look and see monies that', 'start': 2231.359, 'duration': 3.441}
+{'text': 'individuals have donated to campaigns', 'start': 2233.119, 'duration': 3.201}
+{'text': 'every politician is required to report', 'start': 2234.8, 'duration': 4.24}
+{'text': 'their donations', 'start': 2236.32, 'duration': 2.72}
+{'text': 'it says that they can spend their money', 'start': 2239.68, 'duration': 3.12}
+{'text': 'to influence elections which was back to', 'start': 2241.04, 'duration': 3.44}
+{'text': 'the point i got caught caught up in', 'start': 2242.8, 'duration': 3.12}
+{'text': 'whether or not we can donate to', 'start': 2244.48, 'duration': 2.879}
+{'text': "politicians and you're right that's fast", 'start': 2245.92, 'duration': 2.72}
+{'text': "yeah we can back up that's not relevant", 'start': 2247.359, 'duration': 3.121}
+{'text': 'but yeah being able to influence', 'start': 2248.64, 'duration': 4.4}
+{'text': 'elections is the key thing and even uh', 'start': 2250.48, 'duration': 4.4}
+{'text': "it's been shown that 200 i think it was", 'start': 2253.04, 'duration': 4.559}
+{'text': '250 million dollars was uh', 'start': 2254.88, 'duration': 3.6}
+{'text': 'uh', 'start': 2257.599, 'duration': 3.201}
+{'text': 'used to promote the supreme court', 'start': 2258.48, 'duration': 3.92}
+{'text': 'nominee amy cohen barrett so clearly', 'start': 2260.8, 'duration': 2.88}
+{'text': 'they think that this is a worthy', 'start': 2262.4, 'duration': 2.719}
+{'text': 'investment', 'start': 2263.68, 'duration': 3.919}
+{'text': 'and that various uh interest groups will', 'start': 2265.119, 'duration': 4.881}
+{'text': "do even if it's not in the interest yeah", 'start': 2267.599, 'duration': 4.401}
+{'text': 'but again an interest group is not an', 'start': 2270.0, 'duration': 3.359}
+{'text': 'oligarch', 'start': 2272.0, 'duration': 3.359}
+{'text': "again i'm not saying that", 'start': 2273.359, 'duration': 3.121}
+{'text': "i'm saying nothing that your", 'start': 2275.359, 'duration': 3.841}
+{'text': 'corporations implies an oligarch', 'start': 2276.48, 'duration': 4.72}
+{'text': "i'm saying that when corporations are", 'start': 2279.2, 'duration': 4.0}
+{'text': 'super well represented by government', 'start': 2281.2, 'duration': 4.32}
+{'text': 'instead of like the people in a', 'start': 2283.2, 'duration': 4.96}
+{'text': 'nation within extreme wealth disparity', 'start': 2285.52, 'duration': 4.64}
+{'text': "it's probably because the corporations", 'start': 2288.16, 'duration': 3.76}
+{'text': 'have a lot of power who are the which', 'start': 2290.16, 'duration': 3.679}
+{'text': "voters are not represented who's going", 'start': 2291.92, 'duration': 3.04}
+{'text': 'out and voting and their will is just', 'start': 2293.839, 'duration': 3.041}
+{'text': 'not being represented', 'start': 2294.96, 'duration': 3.68}
+{'text': "i i think it's a well-known thing that", 'start': 2296.88, 'duration': 5.36}
+{'text': "like uh even like some like it's just uh", 'start': 2298.64, 'duration': 5.76}
+{'text': "it's it's stated by economists and stuff", 'start': 2302.24, 'duration': 3.839}
+{'text': 'like that that the economic interests of', 'start': 2304.4, 'duration': 2.959}
+{'text': 'people are not represented by the', 'start': 2306.079, 'duration': 3.04}
+{'text': "government that's absolutely not stated", 'start': 2307.359, 'duration': 3.601}
+{'text': 'by economist most studies show that when', 'start': 2309.119, 'duration': 3.521}
+{'text': 'you look at the political elites and the', 'start': 2310.96, 'duration': 3.68}
+{'text': 'middle class americans they tend to have', 'start': 2312.64, 'duration': 3.6}
+{'text': 'pretty similar representation in terms', 'start': 2314.64, 'duration': 2.8}
+{'text': 'of the policies they want to see at the', 'start': 2316.24, 'duration': 2.56}
+{'text': 'highest levels of government for the for', 'start': 2317.44, 'duration': 2.639}
+{'text': 'which policies actually get passed they', 'start': 2318.8, 'duration': 3.039}
+{'text': 'line up pretty closely', 'start': 2320.079, 'duration': 3.76}
+{'text': 'but who do you think is better in terms', 'start': 2321.839, 'duration': 3.601}
+{'text': 'of like actual', 'start': 2323.839, 'duration': 3.841}
+{'text': 'like electoral politics that voting with', 'start': 2325.44, 'duration': 4.8}
+{'text': 'their dollar in this case the person', 'start': 2327.68, 'duration': 5.28}
+{'text': 'uh who can you know uh donate ten', 'start': 2330.24, 'duration': 4.48}
+{'text': 'dollars to a super pac or the person who', 'start': 2332.96, 'duration': 4.32}
+{'text': 'can donate 250 million person who can', 'start': 2334.72, 'duration': 4.16}
+{'text': 'donate more money might get more air', 'start': 2337.28, 'duration': 2.72}
+{'text': "time and stuff but that doesn't", 'start': 2338.88, 'duration': 2.56}
+{'text': 'guarantee that their policies are going', 'start': 2340.0, 'duration': 2.64}
+{'text': 'to be passed in the government because', 'start': 2341.44, 'duration': 3.12}
+{'text': "of the voters oh nobody's again no one's", 'start': 2342.64, 'duration': 4.08}
+{'text': 'talking about guarantees okay absolutely', 'start': 2344.56, 'duration': 4.48}
+{'text': 'oligarchy it is a guarantee because you', 'start': 2346.72, 'duration': 4.48}
+{'text': 'are you are the gov yes it is unless', 'start': 2349.04, 'duration': 3.6}
+{'text': "there's a violent revolution that is", 'start': 2351.2, 'duration': 3.52}
+{'text': "what an oligarchy is you're conflating", 'start': 2352.64, 'duration': 5.92}
+{'text': 'these things as an unnecessary condition', 'start': 2354.72, 'duration': 6.0}
+{'text': "if you tell me that this is what you're", 'start': 2358.56, 'duration': 3.519}
+{'text': 'saying corporations have a lot more', 'start': 2360.72, 'duration': 3.2}
+{'text': 'influence than an individual true but if', 'start': 2362.079, 'duration': 3.04}
+{'text': 'enough individuals vote they can', 'start': 2363.92, 'duration': 2.919}
+{'text': "overcome the corporations that's not an", 'start': 2365.119, 'duration': 4.24}
+{'text': "oligarchy that's a democracy again the", 'start': 2366.839, 'duration': 4.601}
+{'text': 'the the academic definition from the', 'start': 2369.359, 'duration': 3.921}
+{'text': "paper that i've read that seems to be", 'start': 2371.44, 'duration': 3.84}
+{'text': 'really well cited is it possesses', 'start': 2373.28, 'duration': 3.68}
+{'text': 'sufficient political power to promote', 'start': 2375.28, 'duration': 3.6}
+{'text': "its own interests that's every single", 'start': 2376.96, 'duration': 3.52}
+{'text': 'private economy in the world though', 'start': 2378.88, 'duration': 2.88}
+{'text': 'every single you would agree that that', 'start': 2380.48, 'duration': 3.52}
+{'text': "doesn't mean that it means absolute like", 'start': 2381.76, 'duration': 4.079}
+{'text': "the same as the government though that's", 'start': 2384.0, 'duration': 3.92}
+{'text': 'that that would be different', 'start': 2385.839, 'duration': 3.361}
+{'text': 'album', 'start': 2387.92, 'duration': 3.76}
+{'text': 'wait say that last thing again', 'start': 2389.2, 'duration': 3.44}
+{'text': 'that it', 'start': 2391.68, 'duration': 2.88}
+{'text': "you you've recently said that", 'start': 2392.64, 'duration': 2.959}
+{'text': "that they're not the same as the", 'start': 2394.56, 'duration': 2.48}
+{'text': 'government and that that was never the', 'start': 2395.599, 'duration': 3.121}
+{'text': 'condition that we needed the condition', 'start': 2397.04, 'duration': 3.44}
+{'text': 'according to this to this scholar if you', 'start': 2398.72, 'duration': 3.52}
+{'text': 'want to agree with him or not is it', 'start': 2400.48, 'duration': 3.52}
+{'text': 'possesses sufficient political power to', 'start': 2402.24, 'duration': 4.56}
+{'text': 'promote its own why', 'start': 2404.0, 'duration': 2.8}
+{'text': "i just i don't i don't understand how", 'start': 2407.28, 'duration': 2.799}
+{'text': "that would work maybe there's some", 'start': 2408.8, 'duration': 2.559}
+{'text': "examples but so you're talking about", 'start': 2410.079, 'duration': 3.201}
+{'text': 'like a group of people that are', 'start': 2411.359, 'duration': 2.96}
+{'text': 'controlling', 'start': 2413.28, 'duration': 2.16}
+{'text': 'like all the government they have no', 'start': 2414.319, 'duration': 2.081}
+{'text': 'relationship the government the people', 'start': 2415.44, 'duration': 1.84}
+{'text': 'in the government are getting paid', 'start': 2416.4, 'duration': 1.919}
+{'text': "they're just bending over for the", 'start': 2417.28, 'duration': 2.64}
+{'text': "oligarchs for no reason i don't", 'start': 2418.319, 'duration': 2.881}
+{'text': 'understand', 'start': 2419.92, 'duration': 3.199}
+{'text': "again like i've described the reasons so", 'start': 2421.2, 'duration': 4.56}
+{'text': "it seems like you're acting like uh", 'start': 2423.119, 'duration': 5.121}
+{'text': 'oblivious to these things when', 'start': 2425.76, 'duration': 4.8}
+{'text': "i i've tried destiny but it's not good", 'start': 2428.24, 'duration': 4.079}
+{'text': 'enough for you what would be good enough', 'start': 2430.56, 'duration': 2.72}
+{'text': 'for you', 'start': 2432.319, 'duration': 2.721}
+{'text': 'wait okay so talk me through how an', 'start': 2433.28, 'duration': 4.319}
+{'text': 'oligarchy in the united states works', 'start': 2435.04, 'duration': 5.039}
+{'text': 'how it works so again', 'start': 2437.599, 'duration': 4.081}
+{'text': 'there there are three conditions but we', 'start': 2440.079, 'duration': 2.961}
+{'text': 'can turn it no just like walk with like', 'start': 2441.68, 'duration': 2.8}
+{'text': 'a real life example give me like an', 'start': 2443.04, 'duration': 3.36}
+{'text': 'example of like how this would work on a', 'start': 2444.48, 'duration': 3.44}
+{'text': "day-to-day thing i'm i'm not an", 'start': 2446.4, 'duration': 3.6}
+{'text': "economics expert i'm not like this is", 'start': 2447.92, 'duration': 4.72}
+{'text': "not my like particular thing that i'm an", 'start': 2450.0, 'duration': 4.319}
+{'text': 'expert here', 'start': 2452.64, 'duration': 3.52}
+{'text': 'to do that this would be my example i', 'start': 2454.319, 'duration': 3.441}
+{'text': 'hope you find someone who can though', 'start': 2456.16, 'duration': 2.959}
+{'text': 'okay this would be an example of like', 'start': 2457.76, 'duration': 3.04}
+{'text': 'something that could happen in russia', 'start': 2459.119, 'duration': 3.841}
+{'text': "okay one of putin's friends who might", 'start': 2460.8, 'duration': 3.279}
+{'text': 'even be in a high position in the', 'start': 2462.96, 'duration': 3.04}
+{'text': 'government who also controls a company', 'start': 2464.079, 'duration': 3.921}
+{'text': 'that runs like 70 of the agriculture', 'start': 2466.0, 'duration': 4.4}
+{'text': 'might say hey we should block imports', 'start': 2468.0, 'duration': 4.64}
+{'text': 'from like these two countries because i', 'start': 2470.4, 'duration': 3.679}
+{'text': "think i'm gonna make a [\xa0__\xa0] ton of money", 'start': 2472.64, 'duration': 3.04}
+{'text': "doing it it's gonna benefit me a lot and", 'start': 2474.079, 'duration': 3.04}
+{'text': 'putin might say okay you know we can', 'start': 2475.68, 'duration': 3.04}
+{'text': 'drum up some [\xa0__\xa0] we can get that done', 'start': 2477.119, 'duration': 3.041}
+{'text': "that's something that could happen in an", 'start': 2478.72, 'duration': 3.44}
+{'text': 'oligarchy in the united states of', 'start': 2480.16, 'duration': 3.52}
+{'text': "america that would never happen there'd", 'start': 2482.16, 'duration': 3.28}
+{'text': 'be huge political pressure against it', 'start': 2483.68, 'duration': 4.08}
+{'text': 'that would be an example of an oligarchy', 'start': 2485.44, 'duration': 4.08}
+{'text': "that's the wrong kind of way of be", 'start': 2487.76, 'duration': 3.359}
+{'text': 'having a reductive definition of an', 'start': 2489.52, 'duration': 3.12}
+{'text': 'oligarchy though the the actual', 'start': 2491.119, 'duration': 2.96}
+{'text': 'reductive definition according to', 'start': 2492.64, 'duration': 3.04}
+{'text': 'dictionaries is a small group of people', 'start': 2494.079, 'duration': 4.321}
+{'text': 'having control of a country correct and', 'start': 2495.68, 'duration': 4.48}
+{'text': "if you're lobbying then by definition", 'start': 2498.4, 'duration': 3.04}
+{'text': "you don't have control because you have", 'start': 2500.16, 'duration': 2.959}
+{'text': "to try to maintain it no you don't", 'start': 2501.44, 'duration': 3.76}
+{'text': "that's then why would they be locked", 'start': 2503.119, 'duration': 2.96}
+{'text': 'up', 'start': 2505.2, 'duration': 3.04}
+{'text': 'is lobbying not a tool of control no', 'start': 2506.079, 'duration': 3.52}
+{'text': "it's an attempt to influence something", 'start': 2508.24, 'duration': 2.32}
+{'text': 'uh', 'start': 2509.599, 'duration': 1.921}
+{'text': 'oh', 'start': 2510.56, 'duration': 3.12}
+{'text': "you're lobbying if you have to if you", 'start': 2511.52, 'duration': 4.0}
+{'text': "have control then you don't lobby you", 'start': 2513.68, 'duration': 3.28}
+{'text': "wouldn't need to lobby do you think", 'start': 2515.52, 'duration': 2.72}
+{'text': "here's a question do you think that", 'start': 2516.96, 'duration': 2.72}
+{'text': 'people think that people would invest', 'start': 2518.24, 'duration': 3.92}
+{'text': 'that amount of money 3.7 billion dollars', 'start': 2519.68, 'duration': 4.08}
+{'text': "if you didn't have like some sort of", 'start': 2522.16, 'duration': 3.52}
+{'text': 'guaranteed uh investment first of all', 'start': 2523.76, 'duration': 3.359}
+{'text': "there's definitely no guarantee number", 'start': 2525.68, 'duration': 2.72}
+{'text': 'one and number two do you think that if', 'start': 2527.119, 'duration': 2.561}
+{'text': 'it was an oligarchy they would waste', 'start': 2528.4, 'duration': 2.56}
+{'text': 'their money lobbying they would just be', 'start': 2529.68, 'duration': 2.24}
+{'text': "in bed with the government they wouldn't", 'start': 2530.96, 'duration': 2.0}
+{'text': "need to waste money lobbying they'd just", 'start': 2531.92, 'duration': 2.64}
+{'text': 'give it you can say that you can say', 'start': 2532.96, 'duration': 2.639}
+{'text': "there's no guarantee like there's", 'start': 2534.56, 'duration': 3.44}
+{'text': 'nothing written down on paper sure but', 'start': 2535.599, 'duration': 4.881}
+{'text': "i'm saying that again 3.7 billion", 'start': 2538.0, 'duration': 4.56}
+{'text': 'dollars shows that some people expect', 'start': 2540.48, 'duration': 3.76}
+{'text': 'something to happen do you think 3.7', 'start': 2542.56, 'duration': 3.12}
+{'text': 'billion dollars is a lot of money when', 'start': 2544.24, 'duration': 2.96}
+{'text': 'talking about the entirety of the us', 'start': 2545.68, 'duration': 2.56}
+{'text': 'economy', 'start': 2547.2, 'duration': 2.639}
+{'text': "when we're talking about spending to", 'start': 2548.24, 'duration': 4.079}
+{'text': "influence us politics yes okay it's", 'start': 2549.839, 'duration': 5.681}
+{'text': 'again 300 000 per senator', 'start': 2552.319, 'duration': 4.241}
+{'text': 'first of all', 'start': 2555.52, 'duration': 2.64}
+{'text': 'wait what do you mean 300 000 per', 'start': 2556.56, 'duration': 2.88}
+{'text': 'senator that they receive to their', 'start': 2558.16, 'duration': 2.8}
+{'text': 'campaigns', 'start': 2559.44, 'duration': 2.879}
+{'text': 'that that means a lot to a career', 'start': 2560.96, 'duration': 2.8}
+{'text': "politician i wouldn't say that there are", 'start': 2562.319, 'duration': 3.921}
+{'text': 'very many democrats or republicans', 'start': 2563.76, 'duration': 4.079}
+{'text': "you're just taking three like are you", 'start': 2566.24, 'duration': 4.0}
+{'text': 'just taking 100 times 300 000 to get to', 'start': 2567.839, 'duration': 4.0}
+{'text': 'that whatever number you had earlier', 'start': 2570.24, 'duration': 3.28}
+{'text': 'what do you mean no okay no those are', 'start': 2571.839, 'duration': 4.0}
+{'text': 'separate statistics okay also 300 000', 'start': 2573.52, 'duration': 3.92}
+{'text': "doesn't go to the senator that goes to", 'start': 2575.839, 'duration': 3.52}
+{'text': "their campaigns also i don't even know", 'start': 2577.44, 'duration': 3.2}
+{'text': "if that's a lot of money how much does", 'start': 2579.359, 'duration': 3.841}
+{'text': 'the average senate race cost', 'start': 2580.64, 'duration': 6.0}
+{'text': "ballitopedia senate race cost um we'll", 'start': 2583.2, 'duration': 5.919}
+{'text': 'look at uh if i look at california [\xa0__\xa0]', 'start': 2586.64, 'duration': 4.16}
+{'text': "it it probably depends where you're at", 'start': 2589.119, 'duration': 3.361}
+{'text': "where you're at too", 'start': 2590.8, 'duration': 3.36}
+{'text': "i'm sure some places are cheaper than", 'start': 2592.48, 'duration': 4.0}
+{'text': 'others', 'start': 2594.16, 'duration': 2.32}
+{'text': 'okay so looking at like elections in', 'start': 2598.72, 'duration': 4.16}
+{'text': 'california 2022 these people have', 'start': 2600.8, 'duration': 4.0}
+{'text': 'already raised collectively like over', 'start': 2602.88, 'duration': 4.8}
+{'text': 'like eight million dollars i guess', 'start': 2604.8, 'duration': 5.6}
+{'text': 'so 300 000 per senator in a year that', 'start': 2607.68, 'duration': 4.56}
+{'text': "doesn't even sound like any real money", 'start': 2610.4, 'duration': 3.439}
+{'text': "that's an average so", 'start': 2612.24, 'duration': 2.8}
+{'text': 'you know', 'start': 2613.839, 'duration': 2.161}
+{'text': 'but', 'start': 2615.04, 'duration': 2.88}
+{'text': "there's also senators who take no super", 'start': 2616.0, 'duration': 5.8}
+{'text': 'pac money like bernie sanders', 'start': 2617.92, 'duration': 3.88}
+{'text': 'how does that go against what i just', 'start': 2624.48, 'duration': 3.52}
+{'text': "said i'm just saying that that 300 000", 'start': 2626.16, 'duration': 3.199}
+{'text': "dollar figure you keep citing doesn't", 'start': 2628.0, 'duration': 2.88}
+{'text': 'sound like a lot of money', 'start': 2629.359, 'duration': 3.041}
+{'text': "well it's not a lot of money until you", 'start': 2630.88, 'duration': 3.04}
+{'text': 'consider that', 'start': 2632.4, 'duration': 3.12}
+{'text': "there's a potential for dark money", 'start': 2633.92, 'duration': 3.199}
+{'text': 'donors to be in there and no there is no', 'start': 2635.52, 'duration': 3.2}
+{'text': "but no no no that's not true there is no", 'start': 2637.119, 'duration': 3.2}
+{'text': "that's not our money because this", 'start': 2638.72, 'duration': 3.599}
+{'text': 'statistic has to do with corporate uh', 'start': 2640.319, 'duration': 3.441}
+{'text': 'donations that we know have to do with', 'start': 2642.319, 'duration': 2.961}
+{'text': "corporate interests and since there's", 'start': 2643.76, 'duration': 3.68}
+{'text': "dark money that can't be donated", 'start': 2645.28, 'duration': 3.36}
+{'text': "we don't know if they have corporate", 'start': 2647.44, 'duration': 3.919}
+{'text': "interest or not campaigns can't take", 'start': 2648.64, 'duration': 4.24}
+{'text': 'that money campaign they all they can', 'start': 2651.359, 'duration': 2.881}
+{'text': 'only take up to the maximum level which', 'start': 2652.88, 'duration': 2.4}
+{'text': 'like three thousand dollars or five', 'start': 2654.24, 'duration': 2.8}
+{'text': "thousand dollars like a senator can't", 'start': 2655.28, 'duration': 2.96}
+{'text': 'take three hundred thousand dollars from', 'start': 2657.04, 'duration': 3.44}
+{'text': "a super pac that doesn't work that out", 'start': 2658.24, 'duration': 4.72}
+{'text': 'so again when it', 'start': 2660.48, 'duration': 4.56}
+{'text': 'uh for uh', 'start': 2662.96, 'duration': 4.08}
+{'text': 'the statistic i was studying maybe that', 'start': 2665.04, 'duration': 3.84}
+{'text': 'was it was a little disconnected but it', 'start': 2667.04, 'duration': 4.16}
+{'text': 'was for super pacs so okay okay if it', 'start': 2668.88, 'duration': 3.84}
+{'text': 'was for what you just said was for super', 'start': 2671.2, 'duration': 3.6}
+{'text': 'pacs i understand more that number is', 'start': 2672.72, 'duration': 3.44}
+{'text': 'completely made up in [\xa0__\xa0] and what', 'start': 2674.8, 'duration': 2.319}
+{'text': 'have you read it from either you', 'start': 2676.16, 'duration': 2.56}
+{'text': "misunderstood it or they're a conspiracy", 'start': 2677.119, 'duration': 2.96}
+{'text': "theorist and they have no that's it", 'start': 2678.72, 'duration': 3.76}
+{'text': "that's just a conspiracy theory now", 'start': 2680.079, 'duration': 4.0}
+{'text': "what you're telling me is that those", 'start': 2682.48, 'duration': 3.76}
+{'text': 'people are breaking federal election', 'start': 2684.079, 'duration': 4.0}
+{'text': 'commission law in the united states that', 'start': 2686.24, 'duration': 3.52}
+{'text': 'if some individual entity is donating', 'start': 2688.079, 'duration': 3.76}
+{'text': '300 000 to a senator that is breaking', 'start': 2689.76, 'duration': 4.48}
+{'text': "the law i'm not saying super pacs", 'start': 2691.839, 'duration': 4.401}
+{'text': "i'm saying that", 'start': 2694.24, 'duration': 4.32}
+{'text': 'these senators receive because like', 'start': 2696.24, 'duration': 3.76}
+{'text': "they'll campaign for them it's still", 'start': 2698.56, 'duration': 2.88}
+{'text': 'considered receiving money for their', 'start': 2700.0, 'duration': 2.48}
+{'text': 'campaign', 'start': 2701.44, 'duration': 4.0}
+{'text': 'uh 300 000 on average from what we can', 'start': 2702.48, 'duration': 4.4}
+{'text': 'what we can tell', 'start': 2705.44, 'duration': 3.36}
+{'text': 'because super pacs can receive money', 'start': 2706.88, 'duration': 3.76}
+{'text': "from nonprofit organizations which can't", 'start': 2708.8, 'duration': 3.44}
+{'text': 'be traced and may have corporate', 'start': 2710.64, 'duration': 3.76}
+{'text': "interests in mind but we wouldn't know", 'start': 2712.24, 'duration': 4.079}
+{'text': "okay so they've so you're 300", 'start': 2714.4, 'duration': 3.84}
+{'text': 'average that', 'start': 2716.319, 'duration': 3.52}
+{'text': "of what we know but there's also dark", 'start': 2718.24, 'duration': 3.119}
+{'text': "money involved that we can't keep track", 'start': 2719.839, 'duration': 3.201}
+{'text': 'of', 'start': 2721.359, 'duration': 3.121}
+{'text': "it's not a conspiracy i know you think", 'start': 2723.04, 'duration': 2.799}
+{'text': "it's a conspiracy but dark money", 'start': 2724.48, 'duration': 2.879}
+{'text': "definitely exists well no no what you're", 'start': 2725.839, 'duration': 2.961}
+{'text': 'explaining you keep calling it dark', 'start': 2727.359, 'duration': 2.48}
+{'text': "money but you didn't even know that", 'start': 2728.8, 'duration': 2.72}
+{'text': 'meant until like two minutes ago okay so', 'start': 2729.839, 'duration': 3.76}
+{'text': "i'm not saying that no i know what it's", 'start': 2731.52, 'duration': 4.0}
+{'text': 'meant for a while okay explain it to me', 'start': 2733.599, 'duration': 3.441}
+{'text': 'one more time then', 'start': 2735.52, 'duration': 4.0}
+{'text': "so it's uh it's a rule in the united", 'start': 2737.04, 'duration': 4.96}
+{'text': 'states that in politics nonprofit', 'start': 2739.52, 'duration': 4.72}
+{'text': 'corporations can donate money and not', 'start': 2742.0, 'duration': 4.72}
+{'text': 'have it traced not have to like reveal', 'start': 2744.24, 'duration': 4.16}
+{'text': 'or can spend money and not have to', 'start': 2746.72, 'duration': 3.119}
+{'text': "reveal who their donors that's wrong", 'start': 2748.4, 'duration': 3.52}
+{'text': 'okay sorry they can no no you just you', 'start': 2749.839, 'duration': 3.041}
+{'text': "don't you don't know what it means but", 'start': 2751.92, 'duration': 2.56}
+{'text': "that's fine i don't care i mis-worded", 'start': 2752.88, 'duration': 3.439}
+{'text': 'myself for half a second chill the [\xa0__\xa0]', 'start': 2754.48, 'duration': 3.44}
+{'text': 'out okay go ahead and explain it again', 'start': 2756.319, 'duration': 2.641}
+{'text': 'then', 'start': 2757.92, 'duration': 3.04}
+{'text': "it's that they can spend money without", 'start': 2758.96, 'duration': 3.52}
+{'text': 'it being traced', 'start': 2760.96, 'duration': 3.68}
+{'text': 'but without sorry without it not without', 'start': 2762.48, 'duration': 4.32}
+{'text': "it being traced i i wasn't i'm like i", 'start': 2764.64, 'duration': 3.679}
+{'text': "said i'm not good at giving definitions", 'start': 2766.8, 'duration': 2.64}
+{'text': "off hand i'm trying to do it without", 'start': 2768.319, 'duration': 2.961}
+{'text': 'looking at the tab uh they can spend it', 'start': 2769.44, 'duration': 6.28}
+{'text': 'without revealing who their donors were', 'start': 2771.28, 'duration': 4.44}
+{'text': 'okay', 'start': 2776.0, 'duration': 3.119}
+{'text': "i'm never going to do that again i'm", 'start': 2777.839, 'duration': 3.52}
+{'text': 'just really bad at what gets what gets', 'start': 2779.119, 'duration': 4.081}
+{'text': 'dark money', 'start': 2781.359, 'duration': 4.24}
+{'text': 'what gets dark like super pac okay', 'start': 2783.2, 'duration': 4.0}
+{'text': 'anything that receives donations from a', 'start': 2785.599, 'duration': 4.0}
+{'text': "non-profit that's a political cause", 'start': 2787.2, 'duration': 4.56}
+{'text': 'okay but pacs have to report it and', 'start': 2789.599, 'duration': 3.681}
+{'text': 'campaigns have to report it if they get', 'start': 2791.76, 'duration': 3.359}
+{'text': 'money so a super pac that raises quote', 'start': 2793.28, 'duration': 3.839}
+{'text': 'unquote dark money if any of that money', 'start': 2795.119, 'duration': 3.681}
+{'text': 'goes to a campaign that has to be', 'start': 2797.119, 'duration': 4.161}
+{'text': "reported it's no longer dark money", 'start': 2798.8, 'duration': 4.319}
+{'text': "but again i'm saying that but you also", 'start': 2801.28, 'duration': 3.44}
+{'text': 'know like you said they can spend money', 'start': 2803.119, 'duration': 3.2}
+{'text': "that's aligned with the campaign that", 'start': 2804.72, 'duration': 3.119}
+{'text': "isn't to the campaign true that is", 'start': 2806.319, 'duration': 3.121}
+{'text': "correct but that senators don't get it", 'start': 2807.839, 'duration': 3.041}
+{'text': "so it's a little bit weird to say like a", 'start': 2809.44, 'duration': 3.28}
+{'text': 'senator gets three hundred thousand they', 'start': 2810.88, 'duration': 3.6}
+{'text': "don't you can say that they have like", 'start': 2812.72, 'duration': 3.76}
+{'text': 'in-kind advertising or people might', 'start': 2814.48, 'duration': 3.359}
+{'text': 'campaign alongside them but the', 'start': 2816.48, 'duration': 2.72}
+{'text': "campaigns aren't allowed to coordinate", 'start': 2817.839, 'duration': 2.961}
+{'text': "and the campaigns themselves don't get", 'start': 2819.2, 'duration': 3.6}
+{'text': 'money from those super pacs dark money', 'start': 2820.8, 'duration': 3.84}
+{'text': "into a super pac doesn't go to a", 'start': 2822.8, 'duration': 4.319}
+{'text': 'campaign', 'start': 2824.64, 'duration': 2.479}
+{'text': "it doesn't go to the campaign but i'm", 'start': 2827.92, 'duration': 2.96}
+{'text': "pretty sure if you're a career", 'start': 2829.76, 'duration': 2.8}
+{'text': 'politician looking to do this until', 'start': 2830.88, 'duration': 3.36}
+{'text': 'retirement and someone says hey i can', 'start': 2832.56, 'duration': 3.6}
+{'text': 'make sure you virtually guarantee that', 'start': 2834.24, 'duration': 3.2}
+{'text': "you get reelected because you're going", 'start': 2836.16, 'duration': 2.08}
+{'text': 'to have', 'start': 2837.44, 'duration': 2.879}
+{'text': 'a campaign with like 10 times the amount', 'start': 2838.24, 'duration': 4.0}
+{'text': 'of spending yeah', 'start': 2840.319, 'duration': 3.601}
+{'text': 'how elections work in the united states', 'start': 2842.24, 'duration': 3.359}
+{'text': "though nobody you can't just buy an", 'start': 2843.92, 'duration': 3.679}
+{'text': "election there's been plenty of times", 'start': 2845.599, 'duration': 3.121}
+{'text': 'where people have outspent their', 'start': 2847.599, 'duration': 3.681}
+{'text': 'opponents and lost dramatically', 'start': 2848.72, 'duration': 3.68}
+{'text': 'i think that there are a lot of', 'start': 2851.28, 'duration': 2.72}
+{'text': 'economists who would disagree and say', 'start': 2852.4, 'duration': 3.439}
+{'text': 'that people are', 'start': 2854.0, 'duration': 3.68}
+{'text': 'the average american citizen has very', 'start': 2855.839, 'duration': 3.52}
+{'text': 'little political power compared to the', 'start': 2857.68, 'duration': 2.8}
+{'text': "corporations there aren't there aren't", 'start': 2859.359, 'duration': 2.161}
+{'text': 'credible people that would say that', 'start': 2860.48, 'duration': 2.8}
+{'text': 'there was one study that got published', 'start': 2861.52, 'duration': 4.319}
+{'text': "by i think jillian's and um somebody", 'start': 2863.28, 'duration': 4.48}
+{'text': "else and that's been debunked like 50", 'start': 2865.839, 'duration': 3.601}
+{'text': 'million times nobody credible believes', 'start': 2867.76, 'duration': 3.44}
+{'text': "that i'm sure right-wing think tanks", 'start': 2869.44, 'duration': 4.24}
+{'text': 'were very well paid to debunk it', 'start': 2871.2, 'duration': 4.48}
+{'text': 'so sock done left is one of the biggest', 'start': 2873.68, 'duration': 3.28}
+{'text': 'people on youtube that have debunked it', 'start': 2875.68, 'duration': 2.639}
+{'text': "but literally anybody i don't always", 'start': 2876.96, 'duration': 2.72}
+{'text': "agree with them so that's okay that they", 'start': 2878.319, 'duration': 3.201}
+{'text': 'did that', 'start': 2879.68, 'duration': 4.0}
+{'text': 'okay', 'start': 2881.52, 'duration': 5.28}
+{'text': 'um anything else', 'start': 2883.68, 'duration': 5.2}
+{'text': 'no not really uh', 'start': 2886.8, 'duration': 3.36}
+{'text': 'i think sometime i think it would be', 'start': 2888.88, 'duration': 3.28}
+{'text': 'really good for people like you to talk', 'start': 2890.16, 'duration': 3.76}
+{'text': 'to people that live in eastern european', 'start': 2892.16, 'duration': 3.439}
+{'text': 'countries or live in russia so that', 'start': 2893.92, 'duration': 2.96}
+{'text': 'instead of like running around on', 'start': 2895.599, 'duration': 2.72}
+{'text': 'twitter screaming like we live in an', 'start': 2896.88, 'duration': 3.439}
+{'text': 'oligarchy you can like actually get some', 'start': 2898.319, 'duration': 3.52}
+{'text': 'perspective on what it is like to live', 'start': 2900.319, 'duration': 3.04}
+{'text': 'in some of those countries um the amount', 'start': 2901.839, 'duration': 3.201}
+{'text': 'of representation that we have here in', 'start': 2903.359, 'duration': 3.841}
+{'text': 'the west is unbelievable in the united', 'start': 2905.04, 'duration': 4.16}
+{'text': 'states our the ability for us to vote', 'start': 2907.2, 'duration': 3.359}
+{'text': 'and get published to do things is so', 'start': 2909.2, 'duration': 3.2}
+{'text': 'crazy we can do things that [\xa0__\xa0]', 'start': 2910.559, 'duration': 4.321}
+{'text': "destroy our own economy but we're able", 'start': 2912.4, 'duration': 4.719}
+{'text': 'to vote that much yes which is a huge', 'start': 2914.88, 'duration': 4.239}
+{'text': 'influence that we have on our system', 'start': 2917.119, 'duration': 2.801}
+{'text': 'well', 'start': 2919.119, 'duration': 3.2}
+{'text': "okay you've made okay you've made a leap", 'start': 2919.92, 'duration': 3.52}
+{'text': 'of logic there and i think you should', 'start': 2922.319, 'duration': 2.24}
+{'text': 'look into', 'start': 2923.44, 'duration': 2.72}
+{'text': "what a person's vote actually does", 'start': 2924.559, 'duration': 4.161}
+{'text': 'versus a dollar spent by a corporation', 'start': 2926.16, 'duration': 3.439}
+{'text': 'but', 'start': 2928.72, 'duration': 2.8}
+{'text': "the person's vote is more important like", 'start': 2929.599, 'duration': 3.601}
+{'text': "that's why people can spend a ton of", 'start': 2931.52, 'duration': 3.12}
+{'text': 'money on', 'start': 2933.2, 'duration': 4.0}
+{'text': 'elections and still get crushed', 'start': 2934.64, 'duration': 4.64}
+{'text': 'so what makes people vote though is it', 'start': 2937.2, 'duration': 2.8}
+{'text': 'like', 'start': 2939.28, 'duration': 2.4}
+{'text': 'just being simply a better candidate or', 'start': 2940.0, 'duration': 3.119}
+{'text': 'that having the better advertising', 'start': 2941.68, 'duration': 4.08}
+{'text': 'campaign because in america people vote', 'start': 2943.119, 'duration': 4.641}
+{'text': 'on a variety of countries yeah i know', 'start': 2945.76, 'duration': 3.2}
+{'text': 'like progressives thought that for a', 'start': 2947.76, 'duration': 2.64}
+{'text': 'while and you saw them get absolutely', 'start': 2948.96, 'duration': 3.2}
+{'text': '[\xa0__\xa0] crushed in elections was it the', 'start': 2950.4, 'duration': 2.959}
+{'text': 'nina turner one where she ought to spend', 'start': 2952.16, 'duration': 2.72}
+{'text': 'it two to one and then blame the jews i', 'start': 2953.359, 'duration': 3.361}
+{'text': 'think when she lost her election anyway', 'start': 2954.88, 'duration': 4.0}
+{'text': 'uh spent it two to one i think she did', 'start': 2956.72, 'duration': 4.16}
+{'text': 'outspent two to one and she still lost', 'start': 2958.88, 'duration': 3.84}
+{'text': 'so like well yeah progressives are', 'start': 2960.88, 'duration': 4.0}
+{'text': "fighting a hard battle so i don't yeah", 'start': 2962.72, 'duration': 3.119}
+{'text': "because they're not because their", 'start': 2964.88, 'duration': 2.56}
+{'text': "policies aren't popular that's why the", 'start': 2965.839, 'duration': 3.681}
+{'text': 'battle is hard yeah because capitalism', 'start': 2967.44, 'duration': 4.24}
+{'text': 'is the cur is the dominant dogma right', 'start': 2969.52, 'duration': 3.2}
+{'text': 'now', 'start': 2971.68, 'duration': 2.48}
+{'text': "even if it's not in the people's best", 'start': 2972.72, 'duration': 2.879}
+{'text': 'interest people have been indoctrinated', 'start': 2974.16, 'duration': 2.959}
+{'text': 'to think it is', 'start': 2975.599, 'duration': 2.96}
+{'text': 'and you think that all those people have', 'start': 2977.119, 'duration': 2.561}
+{'text': 'been indoctrinated would you say that', 'start': 2978.559, 'duration': 2.641}
+{'text': 'people that come from south america that', 'start': 2979.68, 'duration': 2.639}
+{'text': 'hate socialism have they been', 'start': 2981.2, 'duration': 3.919}
+{'text': 'indoctrinated by capitalism as well', 'start': 2982.319, 'duration': 4.641}
+{'text': 'who hate socialism', 'start': 2985.119, 'duration': 3.601}
+{'text': "like find a brown person that's from", 'start': 2986.96, 'duration': 4.24}
+{'text': 'south america and not from ucla give an', 'start': 2988.72, 'duration': 4.08}
+{'text': 'example though of like a specific', 'start': 2991.2, 'duration': 3.919}
+{'text': 'country that was socialist so anybody', 'start': 2992.8, 'duration': 4.16}
+{'text': 'that came from cuba anybody that came', 'start': 2995.119, 'duration': 3.681}
+{'text': 'from venezuela like do you think that', 'start': 2996.96, 'duration': 3.119}
+{'text': 'these people generally have good', 'start': 2998.8, 'duration': 3.44}
+{'text': "opinions of socialism or i don't know", 'start': 3000.079, 'duration': 4.881}
+{'text': 'how you can be from cuba and have done', 'start': 3002.24, 'duration': 4.56}
+{'text': 'to you what america has done to you', 'start': 3004.96, 'duration': 3.68}
+{'text': "simply because you're a communist", 'start': 3006.8, 'duration': 4.319}
+{'text': 'country and think that like', 'start': 3008.64, 'duration': 4.16}
+{'text': 'you know capitalist countries are any', 'start': 3011.119, 'duration': 2.96}
+{'text': 'better', 'start': 3012.8, 'duration': 3.519}
+{'text': "you just that's that's all because of", 'start': 3014.079, 'duration': 3.76}
+{'text': "like cuba's only like that because of", 'start': 3016.319, 'duration': 2.8}
+{'text': 'sanctions if they could actually do', 'start': 3017.839, 'duration': 2.881}
+{'text': "world trade like obviously they wouldn't", 'start': 3019.119, 'duration': 3.681}
+{'text': "be in the position first of all that's", 'start': 3020.72, 'duration': 5.52}
+{'text': "we don't know that secondly", 'start': 3022.8, 'duration': 5.12}
+{'text': "that's just naive that's that that's", 'start': 3026.24, 'duration': 4.079}
+{'text': "that's just like vacuous like oh so you", 'start': 3027.92, 'duration': 4.24}
+{'text': 'think cuba is just like that so cuba', 'start': 3030.319, 'duration': 3.681}
+{'text': 'what they need actually you seriously', 'start': 3032.16, 'duration': 3.04}
+{'text': 'think', 'start': 3034.0, 'duration': 2.48}
+{'text': 'like they can trade with the rest of the', 'start': 3035.2, 'duration': 2.32}
+{'text': "world they just can't trade with the", 'start': 3036.48, 'duration': 2.4}
+{'text': 'united states', 'start': 3037.52, 'duration': 3.839}
+{'text': 'is our economy so powerful so where', 'start': 3038.88, 'duration': 4.4}
+{'text': 'when are their cars from what what year', 'start': 3041.359, 'duration': 3.361}
+{'text': 'are their cars from destiny you think', 'start': 3043.28, 'duration': 2.799}
+{'text': "that their quality of life wouldn't even", 'start': 3044.72, 'duration': 3.04}
+{'text': "be an improvement i'm sorry wait what do", 'start': 3046.079, 'duration': 3.841}
+{'text': 'they need f-150s and chevy silverados', 'start': 3047.76, 'duration': 3.839}
+{'text': 'buy cars from japan and in other', 'start': 3049.92, 'duration': 3.919}
+{'text': 'countries', 'start': 3051.599, 'duration': 2.24}
+{'text': 'quality of life is not about needs', 'start': 3054.48, 'duration': 3.599}
+{'text': 'quality of life also involves wants so', 'start': 3056.0, 'duration': 3.76}
+{'text': 'having nicer cars would improve their', 'start': 3058.079, 'duration': 4.0}
+{'text': 'quality of life the nicest cars as much', 'start': 3059.76, 'duration': 4.16}
+{'text': 'as i hate to admit is a proud american', 'start': 3062.079, 'duration': 3.441}
+{'text': "don't come from america they come from", 'start': 3063.92, 'duration': 3.919}
+{'text': "japan or germany yeah and cuba can't", 'start': 3065.52, 'duration': 3.92}
+{'text': 'participate in those markets either', 'start': 3067.839, 'duration': 2.881}
+{'text': 'really', 'start': 3069.44, 'duration': 3.04}
+{'text': 'yeah u.s cuts off all international', 'start': 3070.72, 'duration': 5.44}
+{'text': "trade to cuba that's not true", 'start': 3072.48, 'duration': 5.2}
+{'text': "there's certain countries that still do", 'start': 3076.16, 'duration': 3.36}
+{'text': 'it and defiance of america the united', 'start': 3077.68, 'duration': 3.36}
+{'text': 'states is not cut off international', 'start': 3079.52, 'duration': 4.0}
+{'text': "trade from cuba that's not true", 'start': 3081.04, 'duration': 4.88}
+{'text': "also even there's a reason that destiny", 'start': 3083.52, 'duration': 3.92}
+{'text': "there's a reason they can't get modern", 'start': 3085.92, 'duration': 2.88}
+{'text': "day cars i'm telling you right because", 'start': 3087.44, 'duration': 3.04}
+{'text': "their mode of economy sucks they've got", 'start': 3088.8, 'duration': 2.96}
+{'text': 'some of the most fertile farmlands in', 'start': 3090.48, 'duration': 2.32}
+{'text': "the world they can't figure out how to", 'start': 3091.76, 'duration': 2.559}
+{'text': "[\xa0__\xa0] run it they it's just not an", 'start': 3092.8, 'duration': 4.24}
+{'text': 'official wow', 'start': 3094.319, 'duration': 2.721}
+{'text': 'yeah you should look into the history of', 'start': 3098.559, 'duration': 2.721}
+{'text': "cuba you're very", 'start': 3099.839, 'duration': 3.28}
+{'text': 'wow okay when you go and look into the', 'start': 3101.28, 'duration': 3.6}
+{'text': 'history of cuba i encourage you to look', 'start': 3103.119, 'duration': 3.44}
+{'text': 'at how when castro came in they', 'start': 3104.88, 'duration': 3.439}
+{'text': 'expropriated all of their agricultural', 'start': 3106.559, 'duration': 2.8}
+{'text': '[\xa0__\xa0] you can look at the same thing in', 'start': 3108.319, 'duration': 3.921}
+{'text': 'venezuela when that government operates', 'start': 3109.359, 'duration': 4.801}
+{'text': 'and for some reason when a government is', 'start': 3112.24, 'duration': 3.359}
+{'text': "in charge of running [\xa0__\xa0] and it's a", 'start': 3114.16, 'duration': 2.72}
+{'text': 'highly corrupt government and in a', 'start': 3115.599, 'duration': 2.561}
+{'text': "socialist government you've got a lot of", 'start': 3116.88, 'duration': 2.8}
+{'text': 'overlap between the government and your', 'start': 3118.16, 'duration': 2.959}
+{'text': 'private sector because they become one', 'start': 3119.68, 'duration': 3.439}
+{'text': 'in the same you have a huge ripe', 'start': 3121.119, 'duration': 3.841}
+{'text': "scenario where there'd be a lot of abuse", 'start': 3123.119, 'duration': 2.48}
+{'text': 'and there could be a lot of', 'start': 3124.96, 'duration': 1.84}
+{'text': 'misappropriation and there could be a', 'start': 3125.599, 'duration': 2.72}
+{'text': 'lot of inefficiencies it happened with', 'start': 3126.8, 'duration': 2.96}
+{'text': "venezuela's oil industry it happened", 'start': 3128.319, 'duration': 3.361}
+{'text': "with cuba's agriculture", 'start': 3129.76, 'duration': 3.359}
+{'text': 'again venice', 'start': 3131.68, 'duration': 3.439}
+{'text': "cia in venezuela's oil industry now", 'start': 3133.119, 'duration': 3.841}
+{'text': "that's uh that's something to talk about", 'start': 3135.119, 'duration': 3.281}
+{'text': 'but again like wait hold on no', 'start': 3136.96, 'duration': 3.84}
+{'text': "venezuela's collapse was was the product", 'start': 3138.4, 'duration': 3.919}
+{'text': 'of them trying to become a fully', 'start': 3140.8, 'duration': 3.279}
+{'text': 'socialist country', 'start': 3142.319, 'duration': 4.081}
+{'text': 'if if you think that socialism caused', 'start': 3144.079, 'duration': 3.52}
+{'text': "cuba and i'm sorry to ignore what you", 'start': 3146.4, 'duration': 2.64}
+{'text': 'just said but i was trying i was trying', 'start': 3147.599, 'duration': 3.281}
+{'text': 'to make a second point there in that if', 'start': 3149.04, 'duration': 3.44}
+{'text': 'you really think that socialism did that', 'start': 3150.88, 'duration': 3.199}
+{'text': 'to cuba and it had nothing to do with', 'start': 3152.48, 'duration': 3.599}
+{'text': 'u.s sanctions i think your ability to', 'start': 3154.079, 'duration': 4.161}
+{'text': "analyze these things is corrupted i'm", 'start': 3156.079, 'duration': 4.24}
+{'text': "sure some i'm sure sanctions can have an", 'start': 3158.24, 'duration': 4.0}
+{'text': "effect on a country that's possible", 'start': 3160.319, 'duration': 3.921}
+{'text': "they've had massive a lot of other", 'start': 3162.24, 'duration': 3.68}
+{'text': "absolutely devastating effects that's", 'start': 3164.24, 'duration': 2.8}
+{'text': "what i'm trying to tell you right now", 'start': 3165.92, 'duration': 2.72}
+{'text': 'there are plenty of other countries that', 'start': 3167.04, 'duration': 3.92}
+{'text': 'have existed just fine at like', 'start': 3168.64, 'duration': 4.08}
+{'text': 'while enduring american sanctions that', 'start': 3170.96, 'duration': 3.359}
+{'text': "haven't been as [\xa0__\xa0] as cuba has for a", 'start': 3172.72, 'duration': 4.72}
+{'text': 'variety of reasons for the same reasons', 'start': 3174.319, 'duration': 3.121}
+{'text': "like all i'm saying is that like there", 'start': 3178.0, 'duration': 3.28}
+{'text': 'are plenty of people in the united', 'start': 3179.92, 'duration': 3.12}
+{'text': 'states that hate socialism for varying', 'start': 3181.28, 'duration': 3.039}
+{'text': "degrees and to say that they're all just", 'start': 3183.04, 'duration': 3.12}
+{'text': 'capitals brainwashed is kind of weird', 'start': 3184.319, 'duration': 3.28}
+{'text': 'when usually people that come to the us', 'start': 3186.16, 'duration': 2.88}
+{'text': 'from socialist countries have very low', 'start': 3187.599, 'duration': 3.441}
+{'text': "opinions of socialism there's a lot of", 'start': 3189.04, 'duration': 3.68}
+{'text': 'brown people the ones that get attention', 'start': 3191.04, 'duration': 3.6}
+{'text': 'we give a lot of attention to especially', 'start': 3192.72, 'duration': 3.76}
+{'text': 'right wing think tanks so', 'start': 3194.64, 'duration': 3.199}
+{'text': 'okay so can you just tell me can you', 'start': 3196.48, 'duration': 3.44}
+{'text': 'tell me brown people from south america', 'start': 3197.839, 'duration': 3.76}
+{'text': 'brown people from south america that', 'start': 3199.92, 'duration': 3.36}
+{'text': "don't like socialism those people are", 'start': 3201.599, 'duration': 3.201}
+{'text': 'brainwashed', 'start': 3203.28, 'duration': 2.559}
+{'text': 'okay so', 'start': 3204.8, 'duration': 3.2}
+{'text': 'brain when i what i said indoctrinated', 'start': 3205.839, 'duration': 3.201}
+{'text': "not breathing okay tell me they're", 'start': 3208.0, 'duration': 2.24}
+{'text': 'indoctrinated i just want to hear the', 'start': 3209.04, 'duration': 2.96}
+{'text': 'white progressive tell me that brown', 'start': 3210.24, 'duration': 3.2}
+{'text': 'people from south america are all', 'start': 3212.0, 'duration': 2.64}
+{'text': "indoctrinated and that's why they don't", 'start': 3213.44, 'duration': 2.879}
+{'text': 'like well if they were from venezuela', 'start': 3214.64, 'duration': 3.199}
+{'text': 'and they thought that socialism is what', 'start': 3216.319, 'duration': 3.361}
+{'text': 'ruined the oil industry there then yeah', 'start': 3217.839, 'duration': 3.121}
+{'text': 'definitely okay and', 'start': 3219.68, 'duration': 1.679}
+{'text': 'some sort say', 'start': 3220.96, 'duration': 2.399}
+{'text': "american there's some sort of american", 'start': 3221.359, 'duration': 3.601}
+{'text': "anti-communist propaganda that they've", 'start': 3223.359, 'duration': 4.641}
+{'text': 'bought into okay gotcha', 'start': 3224.96, 'duration': 5.359}
+{'text': 'um', 'start': 3228.0, 'duration': 5.2}
+{'text': 'okay well anything else', 'start': 3230.319, 'duration': 4.881}
+{'text': 'no can i uh plug my twitter real quick', 'start': 3233.2, 'duration': 3.359}
+{'text': 'since this has been pretty good faith', 'start': 3235.2, 'duration': 4.08}
+{'text': 'and all uh yeah go for it', 'start': 3236.559, 'duration': 5.681}
+{'text': 'yeah my twitter is uh at m9 scarlet not', 'start': 3239.28, 'duration': 5.2}
+{'text': 'm80 like destiny thinks it is apparently', 'start': 3242.24, 'duration': 4.16}
+{'text': "uh that's the letter m the number nine", 'start': 3244.48, 'duration': 3.359}
+{'text': "and then scarlett with two t's at the", 'start': 3246.4, 'duration': 3.36}
+{'text': "end uh twitter twitter's where i do most", 'start': 3247.839, 'duration': 2.561}
+{'text': 'of', 'start': 3249.76, 'duration': 2.799}
+{'text': 'my talking and stuff so', 'start': 3250.4, 'duration': 3.04}
+{'text': 'if you', 'start': 3252.559, 'duration': 2.401}
+{'text': "i'm welcome i'm open to having more", 'start': 3253.44, 'duration': 3.6}
+{'text': 'discussions with your fans on there and', 'start': 3254.96, 'duration': 4.56}
+{'text': 'stuff like that uh if anyone can', 'start': 3257.04, 'duration': 3.6}
+{'text': 'point to', 'start': 3259.52, 'duration': 3.36}
+{'text': 'various things about socialism that', 'start': 3260.64, 'duration': 4.24}
+{'text': 'directly cause cuba or venezuela to be', 'start': 3262.88, 'duration': 3.92}
+{'text': "bad i'll be happy to know it i i don't", 'start': 3264.88, 'duration': 4.08}
+{'text': 'think what you said about castro', 'start': 3266.8, 'duration': 2.96}
+{'text': 'you know', 'start': 3268.96, 'duration': 3.599}
+{'text': 'explains where cuba is now though so i', 'start': 3269.76, 'duration': 4.799}
+{'text': 'mean you can i mean so the two things', 'start': 3272.559, 'duration': 3.841}
+{'text': 'that i would google is like things that', 'start': 3274.559, 'duration': 4.24}
+{'text': 'caused venezuelan collapse uh spoiler', 'start': 3276.4, 'duration': 4.159}
+{'text': "alert it wasn't the price of oil because", 'start': 3278.799, 'duration': 3.921}
+{'text': 'it took them a bit it was a cia', 'start': 3280.559, 'duration': 3.841}
+{'text': 'they definitely influenced politics', 'start': 3282.72, 'duration': 4.8}
+{'text': 'there by inserting uh puppet governments', 'start': 3284.4, 'duration': 4.24}
+{'text': 'what', 'start': 3287.52, 'duration': 4.24}
+{'text': 'what no what yes it was venezuela trying', 'start': 3288.64, 'duration': 4.88}
+{'text': 'to enact incredibly strict price', 'start': 3291.76, 'duration': 3.599}
+{'text': 'controls across all of their economy and', 'start': 3293.52, 'duration': 3.36}
+{'text': 'then private industry left because they', 'start': 3295.359, 'duration': 3.2}
+{'text': "couldn't meet the government demand for", 'start': 3296.88, 'duration': 3.199}
+{'text': 'it combined with the', 'start': 3298.559, 'duration': 4.161}
+{'text': 'the multitude of inefficiencies and', 'start': 3300.079, 'duration': 4.561}
+{'text': 'corruption across their nationalized oil', 'start': 3302.72, 'duration': 3.359}
+{'text': "industry that caused that country's", 'start': 3304.64, 'duration': 3.84}
+{'text': "economy to collapse it wasn't the cia", 'start': 3306.079, 'duration': 4.881}
+{'text': 'how did the cia do that', 'start': 3308.48, 'duration': 3.839}
+{'text': 'how did', 'start': 3310.96, 'duration': 3.119}
+{'text': 'how do they install puppet governments', 'start': 3312.319, 'duration': 2.961}
+{'text': 'there was not a pop', 'start': 3314.079, 'duration': 2.561}
+{'text': 'pop what was the puppet government in', 'start': 3315.28, 'duration': 4.16}
+{'text': "venezuela i'm so bad at history i'm not", 'start': 3316.64, 'duration': 4.0}
+{'text': 'able to tell you that but i know that', 'start': 3319.44, 'duration': 3.04}
+{'text': 'the cia has definitely tried to', 'start': 3320.64, 'duration': 3.6}
+{'text': "influence politics and venezuela i've", 'start': 3322.48, 'duration': 4.639}
+{'text': 'seen multiple documentaries on it', 'start': 3324.24, 'duration': 4.96}
+{'text': "i'm just telling you it's it's a thing", 'start': 3327.119, 'duration': 2.96}
+{'text': 'uh', 'start': 3329.2, 'duration': 5.159}
+{'text': 'again maybe look it up', 'start': 3330.079, 'duration': 4.28}
+{'text': 'okay', 'start': 3334.4, 'duration': 2.48}
+{'text': 'anything else', 'start': 3335.28, 'duration': 4.559}
+{'text': 'oh thank you for the talk all right bye', 'start': 3336.88, 'duration': 5.76}
+{'text': 'bye i just absolutely hate my life i', 'start': 3339.839, 'duration': 6.321}
+{'text': 'just hate it i hate it', 'start': 3342.64, 'duration': 3.52}

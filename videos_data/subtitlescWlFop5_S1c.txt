@@ -1,0 +1,473 @@
+{'text': 'was this article linked that supposed to', 'start': 2.54, 'duration': 5.259}
+{'text': 'disagree with me what do you this is', 'start': 4.589, 'duration': 5.821}
+{'text': 'very true people in positions of power', 'start': 7.799, 'duration': 5.13}
+{'text': 'care more about maintaining a system', 'start': 10.41, 'duration': 5.399}
+{'text': 'than improving it if you want to improve', 'start': 12.929, 'duration': 4.801}
+{'text': 'you need to have something monetary', 'start': 15.809, 'duration': 3.39}
+{'text': 'attached to it yep', 'start': 17.73, 'duration': 3.69}
+{'text': 'true some meetings are only good if they', 'start': 19.199, 'duration': 4.981}
+{'text': 'have a purpose and product from true and', 'start': 21.42, 'duration': 5.16}
+{'text': 'every single company that has some large', 'start': 24.18, 'duration': 3.929}
+{'text': 'program or some code that could be', 'start': 26.58, 'duration': 3.75}
+{'text': 'maintained every single Dalit that they', 'start': 28.109, 'duration': 4.2}
+{'text': 'spend on you trying to optimize your', 'start': 30.33, 'duration': 3.659}
+{'text': 'program could be better spent working on', 'start': 32.309, 'duration': 3.811}
+{'text': "another project and that's the that's", 'start': 33.989, 'duration': 4.351}
+{'text': 'the problem with capitalism boys is that', 'start': 36.12, 'duration': 3.48}
+{'text': "when you're for-profit and you're always", 'start': 38.34, 'duration': 2.67}
+{'text': 'incentivized to work a profit you never', 'start': 39.6, 'duration': 2.79}
+{'text': 'want to refine anything you only ever', 'start': 41.01, 'duration': 2.85}
+{'text': "want to work on new projects that's it", 'start': 42.39, 'duration': 2.88}
+{'text': 'well if would you clean up some other', 'start': 43.86, 'duration': 2.58}
+{'text': "code that you've made when you could", 'start': 45.27, 'duration': 2.37}
+{'text': 'just assign people to work on some new', 'start': 46.44, 'duration': 3.779}
+{'text': "like as long as it's not broken as long", 'start': 47.64, 'duration': 4.05}
+{'text': 'as you still is luck and when I say', 'start': 50.219, 'duration': 3.871}
+{'text': "broken what I mean is as long as you've", 'start': 51.69, 'duration': 4.32}
+{'text': 'still got a way to collect money from', 'start': 54.09, 'duration': 5.269}
+{'text': 'customers you leave it alone okay', 'start': 56.01, 'duration': 8.31}
+{'text': 'so right in a lot of a lot of ways there', 'start': 59.359, 'duration': 6.101}
+{'text': 'are a lot of companies that stick to', 'start': 64.32, 'duration': 3.27}
+{'text': "that but there's also huge like shift", 'start': 65.46, 'duration': 4.08}
+{'text': "right now to for what's called digital", 'start': 67.59, 'duration': 3.84}
+{'text': 'transformation or some all of blah blah', 'start': 69.54, 'duration': 12.48}
+{'text': 'blah buzzword translating towards the', 'start': 71.43, 'duration': 13.5}
+{'text': 'there are I lost my train of thought', 'start': 82.02, 'duration': 4.83}
+{'text': 'there there are companies that are', 'start': 84.93, 'duration': 4.68}
+{'text': 'taking like the move to change the way', 'start': 86.85, 'duration': 3.96}
+{'text': "they're doing business so they can focus", 'start': 89.61, 'duration': 4.29}
+{'text': 'on those features Oh big right now lots', 'start': 90.81, 'duration': 4.26}
+{'text': 'of huge companies', 'start': 93.9, 'duration': 2.789}
+{'text': 'I know Delta has done it I know that', 'start': 95.07, 'duration': 4.11}
+{'text': 'like so for their app for their what do', 'start': 96.689, 'duration': 3.93}
+{'text': 'you call it granted this still sucks in', 'start': 99.18, 'duration': 2.88}
+{'text': 'some ways but Delta has done some really', 'start': 100.619, 'duration': 3.57}
+{'text': 'cool stuff with upgrading their mobile', 'start': 102.06, 'duration': 3.449}
+{'text': 'app a lot of companies like oh yeah', 'start': 104.189, 'duration': 2.941}
+{'text': "people like will upgrade their [\xa0__\xa0] I'm", 'start': 105.509, 'duration': 2.851}
+{'text': 'just talking about like the general like', 'start': 107.13, 'duration': 2.91}
+{'text': 'commitment to like projects but yeah of', 'start': 108.36, 'duration': 2.759}
+{'text': "course if it's top if it's about new", 'start': 110.04, 'duration': 2.91}
+{'text': 'adding new features yeah of course', 'start': 111.119, 'duration': 2.731}
+{'text': 'companies will add new features', 'start': 112.95, 'duration': 2.43}
+{'text': 'everything changing a mobile app or some', 'start': 113.85, 'duration': 4.949}
+{'text': 'can give them like more like my', 'start': 115.38, 'duration': 9.36}
+{'text': 'customers yeah yeah like and you know', 'start': 118.799, 'duration': 7.71}
+{'text': "what the real goal is I think you're", 'start': 124.74, 'duration': 5.57}
+{'text': 'completely missing it [\xa0__\xa0] cake wipe', 'start': 126.509, 'duration': 5.821}
+{'text': "you don't know what the grill goal is", 'start': 130.31, 'duration': 3.61}
+{'text': "that you're missing what's", 'start': 132.33, 'duration': 3.84}
+{'text': 'is automating and optimizing your own', 'start': 133.92, 'duration': 4.11}
+{'text': 'job without telling other people and', 'start': 136.17, 'duration': 3.42}
+{'text': 'then getting your [\xa0__\xa0] done in two hours', 'start': 138.03, 'duration': 2.91}
+{'text': 'a day true it', 'start': 139.59, 'duration': 3.42}
+{'text': "did you see that's the goal do you", 'start': 140.94, 'duration': 5.48}
+{'text': 'remember the guy back in 2011 who who', 'start': 143.01, 'duration': 7.02}
+{'text': 'paid some Chinese programmer to remote', 'start': 146.42, 'duration': 5.2}
+{'text': 'tunnel in and do all his coding for him', 'start': 150.03, 'duration': 3.06}
+{'text': 'and all he did was view cat videos all', 'start': 151.62, 'duration': 5.51}
+{'text': 'day my dude got busted big yeah I did oh', 'start': 153.09, 'duration': 7.7}
+{'text': 'my god cake so I just had to listen to', 'start': 157.13, 'duration': 6.85}
+{'text': 'so one of my friends is like a', 'start': 160.79, 'duration': 5.38}
+{'text': 'maintainer for a pretty large company', 'start': 163.98, 'duration': 4.47}
+{'text': 'and they were complaining to me because', 'start': 166.17, 'duration': 4.14}
+{'text': 'so apparently I might not explain this', 'start': 168.45, 'duration': 3.539}
+{'text': 'right but apparently the problem they', 'start': 170.31, 'duration': 4.62}
+{'text': 'have at their office is that sometimes', 'start': 171.989, 'duration': 5.521}
+{'text': "when they're asked to when they're asked", 'start': 174.93, 'duration': 4.5}
+{'text': 'to like okay features to like the main I', 'start': 177.51, 'duration': 4.59}
+{'text': 'guess you say the main branch right some', 'start': 179.43, 'duration': 5.339}
+{'text': 'of those features rely on files that', 'start': 182.1, 'duration': 5.639}
+{'text': 'have never ever been pushed on to like', 'start': 184.769, 'duration': 4.381}
+{'text': "to get up apparently somebody's not", 'start': 187.739, 'duration': 3.481}
+{'text': "right yeah so like they'll be asked to", 'start': 189.15, 'duration': 3.57}
+{'text': "like push like okay well isn't this", 'start': 191.22, 'duration': 2.73}
+{'text': "dependent on this thing like it's not", 'start': 192.72, 'duration': 2.7}
+{'text': "like these changes or this hasn't been", 'start': 193.95, 'duration': 3.09}
+{'text': "pushed anywhere there's no like this", 'start': 195.42, 'duration': 3.21}
+{'text': "code isn't published anywhere and like", 'start': 197.04, 'duration': 4.169}
+{'text': 'but but anytime they question that they', 'start': 198.63, 'duration': 4.02}
+{'text': 'basically had told it like [\xa0__\xa0] off like', 'start': 201.209, 'duration': 2.851}
+{'text': "it works like we've tested it and oh", 'start': 202.65, 'duration': 3.63}
+{'text': "yeah I tested it and it doesn't work and", 'start': 204.06, 'duration': 3.6}
+{'text': "he's like okay well it worked four days", 'start': 206.28, 'duration': 2.429}
+{'text': "ago like okay but it's on a network", 'start': 207.66, 'duration': 2.37}
+{'text': 'drive like no one is any [\xa0__\xa0] idea', 'start': 208.709, 'duration': 3.03}
+{'text': "like what's happened multiple people are", 'start': 210.03, 'duration': 3.42}
+{'text': 'like constantly editing like this code', 'start': 211.739, 'duration': 5.761}
+{'text': "it's like holy [\xa0__\xa0] oh my god one of our", 'start': 213.45, 'duration': 6.66}
+{'text': 'largest applications at work is exactly', 'start': 217.5, 'duration': 4.38}
+{'text': 'this way and love the code get put on a', 'start': 220.11, 'duration': 3.09}
+{'text': 'network share that goes to the', 'start': 221.88, 'duration': 3.09}
+{'text': "production server and like they've", 'start': 223.2, 'duration': 3.33}
+{'text': 'rolled back changes by using like Shadow', 'start': 224.97, 'duration': 4.799}
+{'text': "Copy and [\xa0__\xa0] oh yeah it's like three", 'start': 226.53, 'duration': 5.429}
+{'text': 'different like food like repos they use', 'start': 229.769, 'duration': 3.871}
+{'text': 'like some people are using git some use', 'start': 231.959, 'duration': 4.741}
+{'text': "like Sdn some are using I don't even I", 'start': 233.64, 'duration': 4.29}
+{'text': "don't even know what these people do", 'start': 236.7, 'duration': 3.09}
+{'text': 'anymore it sounds like it I think I', 'start': 237.93, 'duration': 3.149}
+{'text': "don't think I could if I can deal with", 'start': 239.79, 'duration': 3.539}
+{'text': 'it I even like the dumb like low level', 'start': 241.079, 'duration': 3.871}
+{'text': 'tech [\xa0__\xa0] at the casino drove me [\xa0__\xa0]', 'start': 243.329, 'duration': 4.081}
+{'text': "crazy this is why I'm not a programmer I", 'start': 244.95, 'duration': 3.569}
+{'text': "don't think I could handle it like", 'start': 247.41, 'duration': 4.1}
+{'text': "actually being a program I don't know", 'start': 248.519, 'duration': 5.31}
+{'text': 'well the thing that drives me crazy well', 'start': 251.51, 'duration': 3.55}
+{'text': 'I kinda understand a little bit more now', 'start': 253.829, 'duration': 2.91}
+{'text': "but it's like it's not like random", 'start': 255.06, 'duration': 3.12}
+{'text': '[\xa0__\xa0] introduces other programmers', 'start': 256.739, 'duration': 3.571}
+{'text': 'that are doing this but but I think like', 'start': 258.18, 'duration': 3.41}
+{'text': 'a problem', 'start': 260.31, 'duration': 2.99}
+{'text': 'twenty years yeah people have been doing', 'start': 261.59, 'duration': 3.69}
+{'text': 'this forever mm-hmm but I but I think I', 'start': 263.3, 'duration': 3.69}
+{'text': "can I'm understanding more now listen to", 'start': 265.28, 'duration': 3.09}
+{'text': 'my friend is basically I think idea is', 'start': 266.99, 'duration': 2.88}
+{'text': 'they probably at one point they probably', 'start': 268.37, 'duration': 4.26}
+{'text': 'cared when nobody else does like and', 'start': 269.87, 'duration': 4.32}
+{'text': 'then people just get mad at you like', 'start': 272.63, 'duration': 2.97}
+{'text': "because you're gonna be the only person", 'start': 274.19, 'duration': 2.52}
+{'text': 'on the team screaming at people like', 'start': 275.6, 'duration': 3.09}
+{'text': 'dude [\xa0__\xa0] push the changes of the', 'start': 276.71, 'duration': 3.33}
+{'text': '[\xa0__\xa0] name wrench it or like we need', 'start': 278.69, 'duration': 2.22}
+{'text': 'to like go over this [\xa0__\xa0] or whatever', 'start': 280.04, 'duration': 2.28}
+{'text': "and like everybody's like dude [\xa0__\xa0] you", 'start': 280.91, 'duration': 2.7}
+{'text': 'like nobody does that [\xa0__\xa0] like why you', 'start': 282.32, 'duration': 2.79}
+{'text': "don't know why and you're like okay well", 'start': 283.61, 'duration': 4.44}
+{'text': "at some point [\xa0__\xa0] it okay yeah it's so", 'start': 285.11, 'duration': 4.619}
+{'text': 'I actually run into this a lot cuz like', 'start': 288.05, 'duration': 3.869}
+{'text': 'a lot of my job is like like finding', 'start': 289.729, 'duration': 3.571}
+{'text': 'security vulnerability [\xa0__\xa0] and like', 'start': 291.919, 'duration': 3.331}
+{'text': 'telling other people like hey this is a', 'start': 293.3, 'duration': 4.14}
+{'text': 'problem you need to fix this this is why', 'start': 295.25, 'duration': 4.32}
+{'text': 'and then like immediately just getting', 'start': 297.44, 'duration': 7.199}
+{'text': 'hate and kickback from everybody but we', 'start': 299.57, 'duration': 7.25}
+{'text': "don't do that around these parts okay", 'start': 304.639, 'duration': 4.59}
+{'text': "why did why did you find out that that's", 'start': 306.82, 'duration': 4.06}
+{'text': "in plain text I'm like what this is a", 'start': 309.229, 'duration': 5.611}
+{'text': 'problem what are the chances okay so the', 'start': 310.88, 'duration': 4.83}
+{'text': "only problem is you're saying it what", 'start': 314.84, 'duration': 2.13}
+{'text': 'are the chances there becomes a problem', 'start': 315.71, 'duration': 3.06}
+{'text': 'if we ignore it and if the chance is low', 'start': 316.97, 'duration': 5.19}
+{'text': 'enough well [\xa0__\xa0] it or it just costs too', 'start': 318.77, 'duration': 6.51}
+{'text': 'much mmm risk management you actually', 'start': 322.16, 'duration': 5.55}
+{'text': "have to make yeah that's where you just", 'start': 325.28, 'duration': 4.56}
+{'text': 'say that is not my problem you push that', 'start': 327.71, 'duration': 5.07}
+{'text': 'way above your pain you wind up with', 'start': 329.84, 'duration': 6.57}
+{'text': 'Equifax and 150 million numbers get lead', 'start': 332.78, 'duration': 5.85}
+{'text': "and on one end everybody's going how did", 'start': 336.41, 'duration': 3.54}
+{'text': 'that happen and on the other end a lot', 'start': 338.63, 'duration': 4.53}
+{'text': "of people like yeah that's the trade", 'start': 339.95, 'duration': 5.55}
+{'text': "that's the respect it's everywhere", 'start': 343.16, 'duration': 7.259}
+{'text': 'everywhere this happens nobody wants', 'start': 345.5, 'duration': 6.66}
+{'text': 'that pile a hot potato on them so you', 'start': 350.419, 'duration': 3.541}
+{'text': 'just push it upstream until the VP owns', 'start': 352.16, 'duration': 3.54}
+{'text': "it and then it's their problem", 'start': 353.96, 'duration': 4.26}
+{'text': 'mm-hmm but you back up your emails off', 'start': 355.7, 'duration': 4.38}
+{'text': 'you know the servers that if you ever', 'start': 358.22, 'duration': 3.3}
+{'text': 'get canned I think they try to scapegoat', 'start': 360.08, 'duration': 3.089}
+{'text': 'you you have the copies that say nope', 'start': 361.52, 'duration': 3.45}
+{'text': 'well hey everything in writing man see', 'start': 363.169, 'duration': 2.281}
+{'text': 'Who I am', 'start': 364.97, 'duration': 6.93}
+{'text': "everything in writing oh yeah the we've", 'start': 365.45, 'duration': 8.25}
+{'text': "never done it that way or they I've done", 'start': 371.9, 'duration': 3.48}
+{'text': 'it this way for twenty thirty years is', 'start': 373.7, 'duration': 3.149}
+{'text': 'like the worst [\xa0__\xa0] problem to deal', 'start': 375.38, 'duration': 5.849}
+{'text': 'with with programmers oh yeah or it', 'start': 376.849, 'duration': 6.331}
+{'text': "hasn't been a problem for the past five", 'start': 381.229, 'duration': 3.781}
+{'text': 'years why do we need to fix it now like', 'start': 383.18, 'duration': 4.26}
+{'text': 'oh my god the Pratt like and the thing', 'start': 385.01, 'duration': 4.589}
+{'text': "is that like I'm drawing from my friends", 'start': 387.44, 'duration': 3.479}
+{'text': 'experience my real of experience and', 'start': 389.599, 'duration': 2.701}
+{'text': 'watching the wire because it all', 'start': 390.919, 'duration': 3.0}
+{'text': 'connects is that I understand why people', 'start': 392.3, 'duration': 2.79}
+{'text': 'would get burned out though', 'start': 393.919, 'duration': 3.211}
+{'text': 'honest to god like I even see a lot of', 'start': 395.09, 'duration': 3.299}
+{'text': 'similarities between like my carpet', 'start': 397.13, 'duration': 3.09}
+{'text': "cleaning days and that's like when I was", 'start': 398.389, 'duration': 2.941}
+{'text': 'a carpet cleaner and I learned how to do', 'start': 400.22, 'duration': 2.34}
+{'text': 'everything right dude I wanted to do', 'start': 401.33, 'duration': 3.93}
+{'text': 'that job 110 percent like vacuum every', 'start': 402.56, 'duration': 4.079}
+{'text': 'room edge all the corners with your', 'start': 405.26, 'duration': 3.0}
+{'text': 'machine like [\xa0__\xa0] do the pre', 'start': 406.639, 'duration': 3.03}
+{'text': 'treatments the post treatments the', 'start': 408.26, 'duration': 2.97}
+{'text': "Scotchguard for the carbon I'd want to", 'start': 409.669, 'duration': 2.881}
+{'text': 'do everything but then when I started', 'start': 411.23, 'duration': 3.21}
+{'text': 'working jobs with other people right and', 'start': 412.55, 'duration': 3.15}
+{'text': 'they were like [\xa0__\xa0] why you', 'start': 414.44, 'duration': 2.94}
+{'text': 'vacuuming first like we can just run our', 'start': 415.7, 'duration': 2.79}
+{'text': 'machines over this I could live the', 'start': 417.38, 'duration': 2.16}
+{'text': 'carpet is not that dirty', 'start': 418.49, 'duration': 2.46}
+{'text': "we're like dude don't edge the room like", 'start': 419.54, 'duration': 2.49}
+{'text': "they don't even care it's a corporate", 'start': 420.95, 'duration': 2.91}
+{'text': 'client was like okay and then at some', 'start': 422.03, 'duration': 2.79}
+{'text': 'point like if you actually had a push', 'start': 423.86, 'duration': 2.07}
+{'text': "like well shouldn't we do this like", 'start': 424.82, 'duration': 2.58}
+{'text': "nobody's gonna want to work with you", 'start': 425.93, 'duration': 2.94}
+{'text': 'like dude nobody nobody wants to be that', 'start': 427.4, 'duration': 3.0}
+{'text': "guy that's telling you what's that extra", 'start': 428.87, 'duration': 3.03}
+{'text': 'word yeah nobody wants it and like', 'start': 430.4, 'duration': 2.79}
+{'text': "you're getting paid the same anyway so", 'start': 431.9, 'duration': 2.7}
+{'text': "like why the [\xa0__\xa0] would you care that's", 'start': 433.19, 'duration': 7.74}
+{'text': 'like okay and then yeah and then after', 'start': 434.6, 'duration': 7.68}
+{'text': 'like two weeks like I stopped giving a', 'start': 440.93, 'duration': 3.36}
+{'text': '[\xa0__\xa0] because honest to god like it takes', 'start': 442.28, 'duration': 4.77}
+{'text': 'less time for me like this is guys', 'start': 444.29, 'duration': 5.16}
+{'text': 'describing my life except with the power', 'start': 447.05, 'duration': 4.95}
+{'text': 'grid like I might have like a corporate', 'start': 449.45, 'duration': 4.68}
+{'text': "job that I'm doing that's like thousands", 'start': 452.0, 'duration': 4.35}
+{'text': "of square feet of carpet and it's gonna", 'start': 454.13, 'duration': 3.72}
+{'text': 'be an eight-hour job I can get that', 'start': 456.35, 'duration': 3.39}
+{'text': '[\xa0__\xa0] done in two hours and go', 'start': 457.85, 'duration': 3.39}
+{'text': 'home and play video games and I did', 'start': 459.74, 'duration': 3.929}
+{'text': 'because like because I just like skip a', 'start': 461.24, 'duration': 4.47}
+{'text': "whole bunch of [\xa0__\xa0] but I'm managers can", 'start': 463.669, 'duration': 4.881}
+{'text': 'facilitate communications by making sure', 'start': 465.71, 'duration': 4.829}
+{'text': "I'll just like skip a bunch of [\xa0__\xa0]", 'start': 468.55, 'duration': 3.429}
+{'text': 'because what the [\xa0__\xa0] and then like my', 'start': 470.539, 'duration': 3.391}
+{'text': 'boss might like the corporate client', 'start': 471.979, 'duration': 3.151}
+{'text': 'might call in and notice that I skipped', 'start': 473.93, 'duration': 3.03}
+{'text': "some things so they'll call me back to", 'start': 475.13, 'duration': 3.45}
+{'text': 'like resurface like two or three rooms', 'start': 476.96, 'duration': 2.82}
+{'text': "and my boss will thing he's punish me is", 'start': 478.58, 'duration': 2.19}
+{'text': 'like okay well you need to go out and', 'start': 479.78, 'duration': 2.04}
+{'text': "you need to do this and I'm not gonna", 'start': 480.77, 'duration': 2.61}
+{'text': "pay you for it's like okay well I spent", 'start': 481.82, 'duration': 3.9}
+{'text': 'two hours on an eight hour job and now', 'start': 483.38, 'duration': 3.93}
+{'text': "I'm gonna go back and spend you know 30", 'start': 485.72, 'duration': 3.03}
+{'text': 'minutes you know cleaning up my mistake', 'start': 487.31, 'duration': 3.12}
+{'text': "and then I'm done like I still spent way", 'start': 488.75, 'duration': 2.82}
+{'text': 'less time than if I would have actually', 'start': 490.43, 'duration': 2.7}
+{'text': 'done the project right and no one else', 'start': 491.57, 'duration': 3.84}
+{'text': "is so [\xa0__\xa0] it you know dude that's the", 'start': 493.13, 'duration': 3.509}
+{'text': "same thing of just saying like if you're", 'start': 495.41, 'duration': 3.0}
+{'text': 'like a developer or you work in like', 'start': 496.639, 'duration': 2.881}
+{'text': 'some sort of engineering or something', 'start': 498.41, 'duration': 3.0}
+{'text': 'and you can automate your job you just', 'start': 499.52, 'duration': 3.54}
+{'text': "do it you don't even ask you don't even", 'start': 501.41, 'duration': 3.75}
+{'text': "say that you've done it easier to get", 'start': 503.06, 'duration': 4.97}
+{'text': 'more responsibilities yeah yep oh I I', 'start': 505.16, 'duration': 5.28}
+{'text': "saved this task and now it's like only", 'start': 508.03, 'duration': 3.79}
+{'text': 'takes two hours to do this instead of', 'start': 510.44, 'duration': 3.029}
+{'text': 'ten well guess what you just got eight', 'start': 511.82, 'duration': 4.17}
+{'text': 'hours of more work yep hey we all true', 'start': 513.469, 'duration': 4.831}
+{'text': "talk guys true talk if you're getting", 'start': 515.99, 'duration': 4.41}
+{'text': "ears it here's the thing if you are at a", 'start': 518.3, 'duration': 4.679}
+{'text': 'job and your boss is like wow you manage', 'start': 520.4, 'duration': 3.72}
+{'text': "this like really well you're gonna", 'start': 522.979, 'duration': 2.671}
+{'text': 'really go up good job with this like and', 'start': 524.12, 'duration': 2.88}
+{'text': "you're like cool and they're like like I", 'start': 525.65, 'duration': 2.61}
+{'text': "think you're ready to move on to more", 'start': 527.0, 'duration': 1.71}
+{'text': 'thing', 'start': 528.26, 'duration': 2.7}
+{'text': "that's code talk for I think you're a", 'start': 528.71, 'duration': 3.81}
+{'text': "sucker and I'm gonna get you to do more", 'start': 530.96, 'duration': 4.41}
+{'text': 'work for free okay you sign up for a job', 'start': 532.52, 'duration': 5.009}
+{'text': "you're being offered a wage for a", 'start': 535.37, 'duration': 4.68}
+{'text': "[\xa0__\xa0] job and if you're getting asked", 'start': 537.529, 'duration': 3.991}
+{'text': 'to do more [\xa0__\xa0] you need to get paid', 'start': 540.05, 'duration': 2.16}
+{'text': 'more money', 'start': 541.52, 'duration': 2.4}
+{'text': "Tom hey that's great I would love to do", 'start': 542.21, 'duration': 2.939}
+{'text': 'that boss what are you gonna pay me for', 'start': 543.92, 'duration': 2.28}
+{'text': "it and then I'm gonna answer it tell him", 'start': 545.149, 'duration': 2.641}
+{'text': '[\xa0__\xa0] off and do your job worse okay', 'start': 546.2, 'duration': 3.449}
+{'text': "don't ever do your job better than you", 'start': 547.79, 'duration': 4.26}
+{'text': 'need to okay if you want to learn how', 'start': 549.649, 'duration': 3.81}
+{'text': 'the real world works you need to work', 'start': 552.05, 'duration': 2.76}
+{'text': 'with any company that ever does', 'start': 553.459, 'duration': 4.831}
+{'text': 'insurance jobs holy [\xa0__\xa0] you want to see', 'start': 554.81, 'duration': 5.85}
+{'text': 'some real scamozzi [\xa0__\xa0] you need to', 'start': 558.29, 'duration': 3.9}
+{'text': 'watch a company work a job with our', 'start': 560.66, 'duration': 3.9}
+{'text': 'billing insurance dude when we worked', 'start': 562.19, 'duration': 4.38}
+{'text': "water damage jobs at the casino you'll", 'start': 564.56, 'duration': 4.44}
+{'text': 'have this itty-bitty [\xa0__\xa0] like 12 by', 'start': 566.57, 'duration': 5.31}
+{'text': '16 room with like eight [\xa0__\xa0] fans', 'start': 569.0, 'duration': 4.89}
+{'text': 'because we charge for the night on those', 'start': 571.88, 'duration': 3.84}
+{'text': "[\xa0__\xa0] there'll be two massive", 'start': 573.89, 'duration': 3.69}
+{'text': "dehumidifiers in that room they'll be", 'start': 575.72, 'duration': 3.84}
+{'text': 'blowing air for three [\xa0__\xa0] days well', 'start': 577.58, 'duration': 3.72}
+{'text': "ma'am I'm sorry but like you know to the", 'start': 579.56, 'duration': 3.39}
+{'text': 'regulation says we have to do a blahblah', 'start': 581.3, 'duration': 3.599}
+{'text': 'regulation though when we talk about', 'start': 582.95, 'duration': 3.27}
+{'text': "regulation what we're really saying is", 'start': 584.899, 'duration': 3.301}
+{'text': 'this is the maximum billable units per', 'start': 586.22, 'duration': 3.119}
+{'text': 'room that the insurance company will pay', 'start': 588.2, 'duration': 2.49}
+{'text': 'us for and you better [\xa0__\xa0] believe', 'start': 589.339, 'duration': 2.94}
+{'text': 'you will charge every [\xa0__\xa0] thing you', 'start': 590.69, 'duration': 4.38}
+{'text': "can to insurance holy [\xa0__\xa0] that's why", 'start': 592.279, 'duration': 4.381}
+{'text': 'when you get a budget from corporate you', 'start': 595.07, 'duration': 2.88}
+{'text': "don't try to save money you spend every", 'start': 596.66, 'duration': 3.15}
+{'text': "[\xa0__\xa0] dollar because what's happening", 'start': 597.95, 'duration': 3.0}
+{'text': 'you come in under budget means you need', 'start': 599.81, 'duration': 5.219}
+{'text': 'less money you know what yeah there is', 'start': 600.95, 'duration': 6.18}
+{'text': 'so much incentivization in private', 'start': 605.029, 'duration': 3.871}
+{'text': 'companies to be wasteful and inefficient', 'start': 607.13, 'duration': 3.39}
+{'text': "it's so funny when people talk about how", 'start': 608.9, 'duration': 3.0}
+{'text': 'the government does it like private', 'start': 610.52, 'duration': 2.1}
+{'text': 'companies do they show like a', 'start': 611.9, 'duration': 6.51}
+{'text': "[\xa0__\xa0] to also chat if you're", 'start': 612.62, 'duration': 7.35}
+{'text': 'working from home during all this and', 'start': 618.41, 'duration': 2.61}
+{'text': "you're like wow I'm so much more", 'start': 619.97, 'duration': 3.27}
+{'text': 'productive stop do the same amount of', 'start': 621.02, 'duration': 5.1}
+{'text': 'work yeah do the same amount at work you', 'start': 623.24, 'duration': 4.62}
+{'text': 'used to do in the office and just do', 'start': 626.12, 'duration': 3.6}
+{'text': "your job if you're doing two hours less", 'start': 627.86, 'duration': 5.07}
+{'text': "at work a day that's your secret that", 'start': 629.72, 'duration': 4.35}
+{'text': 'means you need to spend time learning', 'start': 632.93, 'duration': 3.42}
+{'text': 'how to uh you need to work on scheduling', 'start': 634.07, 'duration': 3.69}
+{'text': 'your time better so that you can revisit', 'start': 636.35, 'duration': 3.39}
+{'text': 'your computer during other hours of the', 'start': 637.76, 'duration': 4.079}
+{'text': "day to submit your work so it doesn't", 'start': 639.74, 'duration': 3.03}
+{'text': "look like you're doing all at the same", 'start': 641.839, 'duration': 3.391}
+{'text': "time don't shake the mouse all day", 'start': 642.77, 'duration': 6.0}
+{'text': "definitely don't do that chat all right", 'start': 645.23, 'duration': 6.96}
+{'text': 'here comes the fun police liken if', 'start': 648.77, 'duration': 6.03}
+{'text': "you're a programmer and you can do five", 'start': 652.19, 'duration': 5.16}
+{'text': 'stories a day or something like that uh', 'start': 654.8, 'duration': 4.77}
+{'text': "don't not [\xa0__\xa0] do five stories a day", 'start': 657.35, 'duration': 4.109}
+{'text': "like if you're getting by on doing - no", 'start': 659.57, 'duration': 2.759}
+{'text': 'cuz that will get no', 'start': 661.459, 'duration': 2.401}
+{'text': "and you won't get [\xa0__\xa0] promoted so", 'start': 662.329, 'duration': 3.211}
+{'text': "what they're saying doesn't know you've", 'start': 663.86, 'duration': 3.479}
+{'text': 'made a huge mistake assuming a', 'start': 665.54, 'duration': 4.589}
+{'text': 'programmer wants to get promoted so what', 'start': 667.339, 'duration': 4.98}
+{'text': 'to management dude most part we hate', 'start': 670.129, 'duration': 3.75}
+{'text': 'that [\xa0__\xa0] they just want to [\xa0__\xa0] code', 'start': 672.319, 'duration': 2.7}
+{'text': 'instead of their computer being', 'start': 673.879, 'duration': 3.661}
+{'text': 'antisocial [\xa0__\xa0] [\xa0__\xa0] that dude like', 'start': 675.019, 'duration': 5.49}
+{'text': 'five years ago I worked for when I was', 'start': 677.54, 'duration': 5.339}
+{'text': 'working for a company and the senior', 'start': 680.509, 'duration': 5.221}
+{'text': 'engineer that was hired on that his', 'start': 682.879, 'duration': 5.13}
+{'text': 'launch satellites with NASA and a whole', 'start': 685.73, 'duration': 3.99}
+{'text': 'bunch of other [\xa0__\xa0] long [\xa0__\xa0] queries', 'start': 688.009, 'duration': 4.29}
+{'text': "56 years old and he's and he's like", 'start': 689.72, 'duration': 4.469}
+{'text': 'getting bullied around by a 33 year old', 'start': 692.299, 'duration': 3.181}
+{'text': "project manager and I said I'm never", 'start': 694.189, 'duration': 4.32}
+{'text': 'gonna [\xa0__\xa0] be that dude like yeah but', 'start': 695.48, 'duration': 4.529}
+{'text': "I mean I don't I've never heard of a", 'start': 698.509, 'duration': 2.55}
+{'text': 'programmer that was happy to get', 'start': 700.009, 'duration': 2.341}
+{'text': 'promoted to like some kind of like', 'start': 701.059, 'duration': 2.97}
+{'text': 'project leader management thing like', 'start': 702.35, 'duration': 3.269}
+{'text': "most people I mean if you're programming", 'start': 704.029, 'duration': 2.881}
+{'text': "you're already probably a certain kind", 'start': 705.619, 'duration': 2.791}
+{'text': "of person except like a most I'm just", 'start': 706.91, 'duration': 2.76}
+{'text': 'want to like work on their [\xa0__\xa0]', 'start': 708.41, 'duration': 3.06}
+{'text': '[\xa0__\xa0] for the day answer their [\xa0__\xa0]', 'start': 709.67, 'duration': 3.12}
+{'text': "and then [\xa0__\xa0] off and go home they don't", 'start': 711.47, 'duration': 2.549}
+{'text': 'want to be in trouble like managing', 'start': 712.79, 'duration': 2.639}
+{'text': 'other programmers and projects and', 'start': 714.019, 'duration': 3.151}
+{'text': 'communicating with [\xa0__\xa0] bosses like', 'start': 715.429, 'duration': 3.12}
+{'text': 'like a program I want to talk to like', 'start': 717.17, 'duration': 2.849}
+{'text': "one other dude and that's your [\xa0__\xa0]", 'start': 718.549, 'duration': 3.39}
+{'text': 'Project Lead and [\xa0__\xa0] off everybody else', 'start': 720.019, 'duration': 3.42}
+{'text': "not get promoted to some [\xa0__\xa0] we've got", 'start': 721.939, 'duration': 3.15}
+{'text': 'to like interface with 12 other [\xa0__\xa0]', 'start': 723.439, 'duration': 3.51}
+{'text': '[\xa0__\xa0] and like try to make like code', 'start': 725.089, 'duration': 3.571}
+{'text': 'understandable for your dumb [\xa0__\xa0] bosses', 'start': 726.949, 'duration': 2.67}
+{'text': "that have no idea wait I'm like I don't", 'start': 728.66, 'duration': 1.859}
+{'text': 'think most programmers like are', 'start': 729.619, 'duration': 2.19}
+{'text': 'interested in actually putting them in', 'start': 730.519, 'duration': 3.57}
+{'text': "front of a client holy [\xa0__\xa0] that's a", 'start': 731.809, 'duration': 3.99}
+{'text': "well that's a company mistake dude if", 'start': 734.089, 'duration': 2.91}
+{'text': 'you take somebody they came out of', 'start': 735.799, 'duration': 2.4}
+{'text': 'school for programming you put them in', 'start': 736.999, 'duration': 2.64}
+{'text': 'front of a customer you deserve all the', 'start': 738.199, 'duration': 5.211}
+{'text': 'bad things that happen to your company', 'start': 739.639, 'duration': 3.771}
+{'text': 'wait do we bully melimeli out of here Oh', 'start': 758.15, 'duration': 4.3}
+{'text': 'way to go', 'start': 761.0, 'duration': 10.74}
+{'text': "peaches thumb it's all the same", 'start': 762.45, 'duration': 13.25}
+{'text': 'everything is the same is everything I', 'start': 771.74, 'duration': 3.96}
+{'text': 'got a new way got to peach mm-hmm in', 'start': 785.06, 'duration': 8.35}
+{'text': "Minecraft you've played a lot of", 'start': 791.78, 'duration': 5.08}
+{'text': 'Minecraft right yeah have you ever', 'start': 793.41, 'duration': 7.32}
+{'text': 'started off on a new world and you want', 'start': 796.86, 'duration': 5.55}
+{'text': 'your tunnels to be perfectly straight', 'start': 800.73, 'duration': 2.94}
+{'text': 'when you go mine', 'start': 802.41, 'duration': 2.94}
+{'text': 'two blocks separating everyone or six', 'start': 803.67, 'duration': 3.03}
+{'text': 'with your trihard and you want your', 'start': 805.35, 'duration': 3.24}
+{'text': 'chest to be perfectly organized and at', 'start': 806.7, 'duration': 3.9}
+{'text': 'the start of every world you make three', 'start': 808.59, 'duration': 3.45}
+{'text': 'or four different chests for every', 'start': 810.6, 'duration': 3.12}
+{'text': 'different type of item your tunnels are', 'start': 812.04, 'duration': 3.15}
+{'text': 'all nice and neat and then eventually', 'start': 813.72, 'duration': 3.27}
+{'text': 'you run into like a problem where', 'start': 815.19, 'duration': 3.6}
+{'text': "there's like lava in some room and", 'start': 816.99, 'duration': 3.27}
+{'text': "you're like okay I'll [\xa0__\xa0] it up a", 'start': 818.79, 'duration': 2.97}
+{'text': "little here I'm not gonna like water", 'start': 820.26, 'duration': 3.78}
+{'text': 'down in mine the Obsidian or like you', 'start': 821.76, 'duration': 3.54}
+{'text': 'have a couple chests feel like alright', 'start': 824.04, 'duration': 3.06}
+{'text': 'these chests are for any item because', 'start': 825.3, 'duration': 2.97}
+{'text': "[\xa0__\xa0] it I'm just gonna dump everything", 'start': 827.1, 'duration': 2.52}
+{'text': 'in here or whatever you know how you', 'start': 828.27, 'duration': 2.97}
+{'text': 'start off like that and then six days', 'start': 829.62, 'duration': 3.6}
+{'text': 'later all of your tunnels are completely', 'start': 831.24, 'duration': 3.78}
+{'text': '[\xa0__\xa0] all of your chests are totally', 'start': 833.22, 'duration': 3.54}
+{'text': "flooded with [\xa0__\xa0] items what that's", 'start': 835.02, 'duration': 3.54}
+{'text': 'basically like every corporate job in a', 'start': 836.76, 'duration': 3.6}
+{'text': 'nutshell more or less or any project', 'start': 838.56, 'duration': 5.58}
+{'text': "somebody works on or that's like okay", 'start': 840.36, 'duration': 6.03}
+{'text': 'like it just evolves it starts off great', 'start': 844.14, 'duration': 9.24}
+{'text': 'but then it just just basically yeah and', 'start': 846.39, 'duration': 8.88}
+{'text': "then you know like you go you're like", 'start': 853.38, 'duration': 3.6}
+{'text': "I'm gonna clean this up I'm gonna take", 'start': 855.27, 'duration': 3.96}
+{'text': 'this one chest and organize it well', 'start': 856.98, 'duration': 3.93}
+{'text': 'guess what you know everybody knows that', 'start': 859.23, 'duration': 3.63}
+{'text': 'you touch that chest last in every', 'start': 860.91, 'duration': 3.48}
+{'text': '[\xa0__\xa0] problem with that chest for the', 'start': 862.86, 'duration': 3.39}
+{'text': "next six to 12 months it's coming right", 'start': 864.39, 'duration': 4.56}
+{'text': "to you yeah or if you've ever gone into", 'start': 866.25, 'duration': 5.04}
+{'text': "somebody's room and you like the room is", 'start': 868.95, 'duration': 3.39}
+{'text': 'a [\xa0__\xa0] disaster', 'start': 871.29, 'duration': 2.46}
+{'text': 'and maybe you clean it up or whatever', 'start': 872.34, 'duration': 3.54}
+{'text': "and it's like it looks like mayhem then", 'start': 873.75, 'duration': 3.21}
+{'text': "you'll get a customer that comes into", 'start': 875.88, 'duration': 2.46}
+{'text': 'the room be like what the [\xa0__\xa0] did you', 'start': 876.96, 'duration': 3.66}
+{'text': 'do like where the [\xa0__\xa0] is my like where', 'start': 878.34, 'duration': 3.87}
+{'text': "the [\xa0__\xa0] is my sweater and you're like", 'start': 880.62, 'duration': 3.03}
+{'text': "it's hanging up in the closet like where", 'start': 882.21, 'duration': 1.86}
+{'text': 'it belongs', 'start': 883.65, 'duration': 0.929}
+{'text': 'this', 'start': 884.07, 'duration': 1.949}
+{'text': 'whether always goes two feet to the left', 'start': 884.579, 'duration': 2.76}
+{'text': 'of my bed I put it on every day I get', 'start': 886.019, 'duration': 2.85}
+{'text': 'out it was supposed to be [\xa0__\xa0] up I', 'start': 887.339, 'duration': 2.521}
+{'text': 'knew how it worked when it was all', 'start': 888.869, 'duration': 1.41}
+{'text': '[\xa0__\xa0] up', 'start': 889.86, 'duration': 1.68}
+{'text': "and now that you've changed it now I", 'start': 890.279, 'duration': 2.52}
+{'text': "don't understand any of it none of it", 'start': 891.54, 'duration': 2.43}
+{'text': "works in everything that's basically", 'start': 892.799, 'duration': 6.121}
+{'text': 'yeah your mission baby like an actually', 'start': 893.97, 'duration': 8.63}
+{'text': "document sitting that's cute", 'start': 898.92, 'duration': 3.68}
+{'text': 'something-something documentation is', 'start': 903.679, 'duration': 5.861}
+{'text': 'code or some [\xa0__\xa0] my code is self', 'start': 905.879, 'duration': 5.13}
+{'text': 'documenting you can just read it and', 'start': 909.54, 'duration': 4.44}
+{'text': 'understand it yeah yeah my one of my', 'start': 911.009, 'duration': 4.05}
+{'text': 'buddies tell me that like a lot of', 'start': 913.98, 'duration': 2.669}
+{'text': "people don't like to like put certain", 'start': 915.059, 'duration': 3.59}
+{'text': 'documentation code because if they do', 'start': 916.649, 'duration': 4.11}
+{'text': 'everybody goes to them to ask questions', 'start': 918.649, 'duration': 4.12}
+{'text': 'about it but basically what happen so', 'start': 920.759, 'duration': 3.781}
+{'text': "what happens is is invariably there's", 'start': 922.769, 'duration': 3.51}
+{'text': 'like two people left at some corporate', 'start': 924.54, 'duration': 3.089}
+{'text': 'environment that have any [\xa0__\xa0] idea', 'start': 926.279, 'duration': 3.09}
+{'text': 'like what the code actually does and', 'start': 927.629, 'duration': 3.15}
+{'text': 'then when you own you ask some questions', 'start': 929.369, 'duration': 2.551}
+{'text': "about it they don't really know anyway", 'start': 930.779, 'duration': 2.52}
+{'text': "they can't like help you out or answer", 'start': 931.92, 'duration': 3.479}
+{'text': "any real questions it's just showing it", 'start': 933.299, 'duration': 3.871}
+{'text': 'like listen I did this and it worked for', 'start': 935.399, 'duration': 3.54}
+{'text': 'that good luck figuring your [\xa0__\xa0] out', 'start': 937.17, 'duration': 3.06}
+{'text': "like and that's basically all it is", 'start': 938.939, 'duration': 4.231}
+{'text': "anyway well there's a couple years ago I", 'start': 940.23, 'duration': 4.769}
+{'text': "don't know good luck try looking at it", 'start': 943.17, 'duration': 4.769}
+{'text': 'again and you get like these basically', 'start': 944.999, 'duration': 4.8}
+{'text': 'these like gurus of like the keepers of', 'start': 947.939, 'duration': 3.661}
+{'text': 'the old code who are like the only', 'start': 949.799, 'duration': 3.421}
+{'text': 'people that ever had hands-on experience', 'start': 951.6, 'duration': 6.029}
+{'text': 'with it yeah [\xa0__\xa0] all that [\xa0__\xa0] sounds', 'start': 953.22, 'duration': 5.849}
+{'text': "like he's sound like nightmare working", 'start': 957.629, 'duration': 3.45}
+{'text': 'environments oh my god yeah pretty much', 'start': 959.069, 'duration': 8.48}
+{'text': 'I was there when the texts were written', 'start': 961.079, 'duration': 6.47}
+{'text': 'Trump is right I think that all', 'start': 969.019, 'duration': 3.73}
+{'text': 'political discourse should be banned on', 'start': 971.279, 'duration': 3.0}
+{'text': 'YouTube and twitch streams and Twitter I', 'start': 972.749, 'duration': 3.03}
+{'text': "think that these people aren't worthy of", 'start': 974.279, 'duration': 4.43}
+{'text': 'having political discussions', 'start': 975.779, 'duration': 2.93}

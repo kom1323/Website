@@ -1,0 +1,679 @@
+{'text': 'um wait did you are you selling a', 'start': 2.84, 'duration': 7.06}
+{'text': 'pescetarian doc wait did you are you', 'start': 5.279, 'duration': 20.75}
+{'text': 'selling a pescetarian diet octopus or no', 'start': 9.9, 'duration': 18.48}
+{'text': "wait so what's fish are dumb enough for", 'start': 26.029, 'duration': 5.26}
+{'text': 'you to eat hold on if I were to serve up', 'start': 28.38, 'duration': 4.35}
+{'text': 'to your [\xa0__\xa0] human would you eat', 'start': 31.289, 'duration': 3.47}
+{'text': 'that', 'start': 32.73, 'duration': 2.029}
+{'text': 'okay what if you had a farm full of', 'start': 43.969, 'duration': 4.93}
+{'text': 'mentally disabled would you eat like', 'start': 46.89, 'duration': 6.78}
+{'text': "bacon you wouldn't need bacon from a", 'start': 48.899, 'duration': 8.101}
+{'text': 'mentally [\xa0__\xa0] fish why do I found', 'start': 53.67, 'duration': 5.069}
+{'text': 'the smartest mollusk in the world if he', 'start': 57.0, 'duration': 3.87}
+{'text': 'could do like calculus would you would', 'start': 58.739, 'duration': 5.131}
+{'text': 'you not either way did you are you', 'start': 60.87, 'duration': 8.789}
+{'text': 'selling a pescetarian diet craze feed', 'start': 63.87, 'duration': 11.22}
+{'text': 'your fish do you in real life other', 'start': 69.659, 'duration': 6.871}
+{'text': 'places would I be concerned about yeah', 'start': 75.09, 'duration': 3.779}
+{'text': "yeah I mean why wouldn't you eat fish in", 'start': 76.53, 'duration': 4.44}
+{'text': 'Minecraft because usually I try and do', 'start': 78.869, 'duration': 8.101}
+{'text': 'plant-based right okay in real life do', 'start': 80.97, 'duration': 7.5}
+{'text': "you eat fish I'm assuming since you", 'start': 86.97, 'duration': 2.91}
+{'text': 'asked for clarification there the answer', 'start': 88.47, 'duration': 6.81}
+{'text': 'is gonna be no okay okay what about like', 'start': 89.88, 'duration': 13.919}
+{'text': 'the smartest plan in a boat what do you', 'start': 95.28, 'duration': 11.1}
+{'text': 'think that eating fungi is bad wait do', 'start': 103.799, 'duration': 4.11}
+{'text': 'mushrooms kind of fungi are they', 'start': 106.38, 'duration': 4.41}
+{'text': 'something different you perhaps a fungi', 'start': 107.909, 'duration': 9.06}
+{'text': 'is it fungi or fungi guys guys fun guys', 'start': 110.79, 'duration': 8.67}
+{'text': 'do you um do you mean fun guys is that', 'start': 116.969, 'duration': 5.301}
+{'text': "okay yeah I mean they're not sentient", 'start': 119.46, 'duration': 5.189}
+{'text': 'what does that mean how do you know', 'start': 122.27, 'duration': 4.209}
+{'text': "they're not sentient because they don't", 'start': 124.649, 'duration': 2.941}
+{'text': "have a nervous system and they don't", 'start': 126.479, 'duration': 2.4}
+{'text': 'have a brain which is a prerequisite for', 'start': 127.59, 'duration': 3.089}
+{'text': "consciousness is where lame don't have a", 'start': 128.879, 'duration': 2.761}
+{'text': '[\xa0__\xa0] brain', 'start': 130.679, 'duration': 3.901}
+{'text': 'true you think just because something', 'start': 131.64, 'duration': 7.04}
+{'text': 'has a brain what about like insects hi', 'start': 134.58, 'duration': 6.66}
+{'text': 'what for jobs no they do like John', 'start': 138.68, 'duration': 5.32}
+{'text': "Kerry's you think insects extension yeah", 'start': 141.24, 'duration': 4.53}
+{'text': "like I don't eat insects either I think", 'start': 144.0, 'duration': 3.21}
+{'text': "I don't like is that if there was like a", 'start': 145.77, 'duration': 3.21}
+{'text': "cricket bar I wouldn't go buy it you", 'start': 147.21, 'duration': 3.03}
+{'text': 'think there are levels of sentient', 'start': 148.98, 'duration': 6.62}
+{'text': "between like humans don't I like it yeah", 'start': 150.24, 'duration': 8.46}
+{'text': "but there's different like them there", 'start': 155.6, 'duration': 4.84}
+{'text': 'can be more simple and complex whim', 'start': 158.7, 'duration': 4.23}
+{'text': 'suspensions and I did what does it mean', 'start': 160.44, 'duration': 4.44}
+{'text': 'to have a less complex form of sentience', 'start': 162.93, 'duration': 6.42}
+{'text': 'use of less senses or um it could be the', 'start': 164.88, 'duration': 6.09}
+{'text': "fact they like don't feel as much pain", 'start': 169.35, 'duration': 3.27}
+{'text': 'or that they have that go lower kind of', 'start': 170.97, 'duration': 4.14}
+{'text': 'like when we say like real pain what', 'start': 172.62, 'duration': 4.79}
+{'text': 'does that have to do with sentience', 'start': 175.11, 'duration': 5.43}
+{'text': "so maybe I'm competing with you um very", 'start': 177.41, 'duration': 6.579}
+{'text': "extensions it might be like they don't", 'start': 180.54, 'duration': 4.71}
+{'text': 'have a difficulty for like', 'start': 183.989, 'duration': 2.491}
+{'text': 'self-awareness that could be less', 'start': 185.25, 'duration': 9.69}
+{'text': 'complex yeah and why like being aware of', 'start': 186.48, 'duration': 10.89}
+{'text': 'yourself only only humans I think and', 'start': 194.94, 'duration': 7.98}
+{'text': "like maybe wait how's that that's like a", 'start': 197.37, 'duration': 13.17}
+{'text': 'complex form of consciousness what I am', 'start': 202.92, 'duration': 9.15}
+{'text': 'curious what it means to feel pain I', 'start': 210.54, 'duration': 4.05}
+{'text': "want to know what that means I'll push", 'start': 212.07, 'duration': 4.77}
+{'text': 'you to [\xa0__\xa0] facial sensation to feel', 'start': 214.59, 'duration': 3.959}
+{'text': 'pain you typically have to have like a', 'start': 216.84, 'duration': 4.74}
+{'text': 'nervous system of some kind well no so', 'start': 218.549, 'duration': 4.831}
+{'text': "there's a difference between like like", 'start': 221.58, 'duration': 3.6}
+{'text': 'having a description of some chemical', 'start': 223.38, 'duration': 4.53}
+{'text': 'reaction versus like the feeling the', 'start': 225.18, 'duration': 4.559}
+{'text': 'experience of pain what is that that', 'start': 227.91, 'duration': 4.889}
+{'text': 'experience of pain mean I would assume', 'start': 229.739, 'duration': 4.231}
+{'text': 'that that would require both', 'start': 232.799, 'duration': 4.051}
+{'text': 'consciousness and the like physical', 'start': 233.97, 'duration': 5.549}
+{'text': 'chemistry sure when we say like requires', 'start': 236.85, 'duration': 5.01}
+{'text': 'consciousness what we when we say like', 'start': 239.519, 'duration': 3.631}
+{'text': 'conscious experience what does that', 'start': 241.86, 'duration': 5.22}
+{'text': "experience me I'm to have a go welfare", 'start': 243.15, 'duration': 6.48}
+{'text': 'of your own to have like pretty', 'start': 247.08, 'duration': 4.499}
+{'text': 'consciousness it gets into very tricky', 'start': 249.63, 'duration': 3.9}
+{'text': "water because yeah guys we can't be sure", 'start': 251.579, 'duration': 5.731}
+{'text': 'yeah true conscious very true you could', 'start': 253.53, 'duration': 6.63}
+{'text': 'be unconscious true I am a league player', 'start': 257.31, 'duration': 4.649}
+{'text': "you've got good evidence for me not", 'start': 260.16, 'duration': 4.09}
+{'text': 'having a mind yeah', 'start': 261.959, 'duration': 6.701}
+{'text': 'true is this like the room thing what', 'start': 264.25, 'duration': 6.06}
+{'text': "Searles wrote I don't know", 'start': 268.66, 'duration': 3.75}
+{'text': 'consciousness moved me over to dualism', 'start': 270.31, 'duration': 3.78}
+{'text': 'no matter all the materialists and she', 'start': 272.41, 'duration': 7.74}
+{'text': "had I'm sorry I don't know if I believe", 'start': 274.09, 'duration': 8.13}
+{'text': 'in a strictly material physical universe', 'start': 280.15, 'duration': 3.69}
+{'text': "anymore I'm not sure it's a hard one", 'start': 282.22, 'duration': 3.51}
+{'text': 'wait really you think that there might', 'start': 283.84, 'duration': 3.69}
+{'text': "be like spiritual as well I don't know", 'start': 285.73, 'duration': 3.45}
+{'text': "if I'd say spiritual but like it's a", 'start': 287.53, 'duration': 3.42}
+{'text': 'huge problem that I have with the idea', 'start': 289.18, 'duration': 3.93}
+{'text': 'of consciousness is that consciousness', 'start': 290.95, 'duration': 4.11}
+{'text': 'is something that we assume exists', 'start': 293.11, 'duration': 4.41}
+{'text': 'because it must exist it seems to be the', 'start': 295.06, 'duration': 3.359}
+{'text': 'case right because all of us have', 'start': 297.52, 'duration': 3.12}
+{'text': 'conscious experiences however we have', 'start': 298.419, 'duration': 4.471}
+{'text': 'absolutely no sensory organs whatsoever', 'start': 300.64, 'duration': 4.92}
+{'text': 'that we can use to detect or determine', 'start': 302.89, 'duration': 6.029}
+{'text': 'like consciousness so in terms of like', 'start': 305.56, 'duration': 4.8}
+{'text': 'how I would evaluate like what is', 'start': 308.919, 'duration': 3.091}
+{'text': 'something material like something', 'start': 310.36, 'duration': 3.0}
+{'text': 'material seems to be something that we', 'start': 312.01, 'duration': 3.06}
+{'text': 'can interpret with a sensory organ so', 'start': 313.36, 'duration': 4.74}
+{'text': 'like sound sight smell like things like', 'start': 315.07, 'duration': 4.2}
+{'text': 'these seem to be like sensory', 'start': 318.1, 'duration': 3.12}
+{'text': 'experiences that they come through some', 'start': 319.27, 'duration': 3.81}
+{'text': 'organ but like if you were to show me', 'start': 321.22, 'duration': 3.84}
+{'text': 'something and ask me is this particular', 'start': 323.08, 'duration': 4.5}
+{'text': 'thing conscious I have absolutely no way', 'start': 325.06, 'duration': 4.47}
+{'text': 'whatsoever of evaluating or determining', 'start': 327.58, 'duration': 4.47}
+{'text': 'that I can look at some parts and go', 'start': 329.53, 'duration': 4.59}
+{'text': "well you know like I'm conscious I'm", 'start': 332.05, 'duration': 3.51}
+{'text': 'pretty sure because I have a brain I', 'start': 334.12, 'duration': 3.6}
+{'text': "can't point to any part of the brain", 'start': 335.56, 'duration': 3.72}
+{'text': 'that gives me consciousness and the', 'start': 337.72, 'duration': 2.82}
+{'text': "brain itself isn't aware that it's", 'start': 339.28, 'duration': 2.46}
+{'text': "conscious but I'm pretty sure things", 'start': 340.54, 'duration': 3.15}
+{'text': 'with brains might be but it seems like', 'start': 341.74, 'duration': 4.08}
+{'text': "there's no like good way to observe that", 'start': 343.69, 'duration': 5.76}
+{'text': 'and another thing pretty much just like', 'start': 345.82, 'duration': 5.4}
+{'text': 'a guessing game based on the', 'start': 349.45, 'duration': 3.21}
+{'text': 'characteristics of consciousness that we', 'start': 351.22, 'duration': 3.12}
+{'text': 'kind of exhibit and then like finding', 'start': 352.66, 'duration': 2.63}
+{'text': 'those other things', 'start': 354.34, 'duration': 4.74}
+{'text': 'yeah so that seems weird then that to', 'start': 355.29, 'duration': 5.92}
+{'text': "say that there's like some emergent", 'start': 359.08, 'duration': 6.06}
+{'text': 'property it seems to be immaterial or we', 'start': 361.21, 'duration': 6.6}
+{'text': "can't seem to detect it move it move it", 'start': 365.14, 'duration': 4.56}
+{'text': "what there's a thing", 'start': 367.81, 'duration': 12.77}
+{'text': "okay well I'm busy handle it god damn it", 'start': 369.7, 'duration': 10.88}
+{'text': "Hey look no I didn't get you're out of", 'start': 381.08, 'duration': 5.019}
+{'text': "the house you're kicked out no that's", 'start': 384.089, 'duration': 6.181}
+{'text': 'not a me get kicked out here just afk in', 'start': 386.099, 'duration': 5.97}
+{'text': "the house you're getting my head down", 'start': 390.27, 'duration': 3.899}
+{'text': "moving something off my desk you didn't", 'start': 392.069, 'duration': 6.08}
+{'text': "put a [\xa0__\xa0] roof on don't blame me", 'start': 394.169, 'duration': 3.98}
+{'text': 'close the [\xa0__\xa0] door my need um [\xa0__\xa0]', 'start': 400.969, 'duration': 4.741}
+{'text': "you doing I'm just waiting so I can't do", 'start': 415.699, 'duration': 6.84}
+{'text': "anything I'm in the armor anything okay", 'start': 419.639, 'duration': 8.87}
+{'text': 'this you know like yes yes [\xa0__\xa0] be', 'start': 422.539, 'duration': 5.97}
+{'text': "better how he doesn't see it okay I", 'start': 442.37, 'duration': 4.599}
+{'text': "can't read your sentences you guys in", 'start': 445.409, 'duration': 2.79}
+{'text': 'Chad trigger me with your senses', 'start': 446.969, 'duration': 4.37}
+{'text': 'sometimes ban him', 'start': 448.199, 'duration': 3.14}
+{'text': "hey materialism we can't detect it now", 'start': 453.409, 'duration': 3.28}
+{'text': 'our materials and we will never be able', 'start': 455.639, 'duration': 2.55}
+{'text': 'to have the Sun it seems like impossible', 'start': 456.689, 'duration': 3.21}
+{'text': 'seems inconceivable to me that we could', 'start': 458.189, 'duration': 2.85}
+{'text': 'create some method of detecting', 'start': 459.899, 'duration': 2.85}
+{'text': 'conscious experiences that seems', 'start': 461.039, 'duration': 3.42}
+{'text': 'inconceivable right now domain maybe in', 'start': 462.749, 'duration': 4.23}
+{'text': 'some distant future like it seems like', 'start': 464.459, 'duration': 4.11}
+{'text': 'we would have to equip ourselves with', 'start': 466.979, 'duration': 3.21}
+{'text': 'like a different sensory organ and', 'start': 468.569, 'duration': 3.481}
+{'text': "that's inconceivable for me like mr.", 'start': 470.189, 'duration': 2.82}
+{'text': 'moon being able to see all the colors', 'start': 472.05, 'duration': 2.459}
+{'text': "like I just can't even imagine what it", 'start': 473.009, 'duration': 9.0}
+{'text': "would be like to have it's cool to that", 'start': 474.509, 'duration': 10.38}
+{'text': 'there probably other like sensory organs', 'start': 482.009, 'duration': 5.041}
+{'text': "that detect senses that we aren't even", 'start': 484.889, 'duration': 3.661}
+{'text': "aware of I maybe can't even have the", 'start': 487.05, 'duration': 3.179}
+{'text': "capacity to be why is that cool that's", 'start': 488.55, 'duration': 4.949}
+{'text': 'depressing as [\xa0__\xa0] why it might be the', 'start': 490.229, 'duration': 4.8}
+{'text': 'whole parts of the universe that are', 'start': 493.499, 'duration': 3.09}
+{'text': 'completely and totally inaccessible to', 'start': 495.029, 'duration': 2.88}
+{'text': 'us and will remain inaccessible to us', 'start': 496.589, 'duration': 3.03}
+{'text': "for into perpetuity because we don't", 'start': 497.909, 'duration': 2.91}
+{'text': 'have the correct sensory organs to see', 'start': 499.619, 'duration': 2.61}
+{'text': 'them it also means that we could', 'start': 500.819, 'duration': 2.85}
+{'text': 'theoretically have an incomplete view of', 'start': 502.229, 'duration': 2.64}
+{'text': "the universe and we'll never have a", 'start': 503.669, 'duration': 2.191}
+{'text': 'complete view of the universe because', 'start': 504.869, 'duration': 2.07}
+{'text': "there's stuff that exists outside the", 'start': 505.86, 'duration': 2.639}
+{'text': "balance of what's available by humans is", 'start': 506.939, 'duration': 2.621}
+{'text': 'also depressed', 'start': 508.499, 'duration': 4.121}
+{'text': "I don't think that's depressing why if", 'start': 509.56, 'duration': 5.25}
+{'text': 'anything your sense of peace it was you', 'start': 512.62, 'duration': 3.539}
+{'text': "can't know everything it brings me a", 'start': 514.81, 'duration': 2.88}
+{'text': 'sense of peace it brings your sense of', 'start': 516.159, 'duration': 3.421}
+{'text': 'peace so there are things that can are', 'start': 517.69, 'duration': 3.9}
+{'text': 'unknowable by humans into all of you', 'start': 519.58, 'duration': 5.85}
+{'text': "okay why because I mean that's just like", 'start': 521.59, 'duration': 6.39}
+{'text': 'the truth of things right like we just', 'start': 525.43, 'duration': 6.99}
+{'text': "we can't know everything I like that", 'start': 527.98, 'duration': 6.33}
+{'text': "statement we can't know everything is a", 'start': 532.42, 'duration': 3.51}
+{'text': 'little is meaningfully different than', 'start': 534.31, 'duration': 2.969}
+{'text': 'the statement like some things are', 'start': 535.93, 'duration': 4.2}
+{'text': 'unknowable like even if we could even if', 'start': 537.279, 'duration': 4.891}
+{'text': 'we could quote-unquote know everything a', 'start': 540.13, 'duration': 3.959}
+{'text': "single person can't know everything but", 'start': 542.17, 'duration': 3.57}
+{'text': 'I think that well I mean you know that', 'start': 544.089, 'duration': 4.681}
+{'text': 'some semantic case like I think that', 'start': 545.74, 'duration': 4.53}
+{'text': "it's really cool and I think that it", 'start': 548.77, 'duration': 2.759}
+{'text': 'brings me sense of peace to the fact', 'start': 550.27, 'duration': 3.12}
+{'text': 'that like humans are actually just like', 'start': 551.529, 'duration': 4.141}
+{'text': 'biologically incapable of perceiving', 'start': 553.39, 'duration': 5.07}
+{'text': 'certain facts about the universe and we', 'start': 555.67, 'duration': 4.68}
+{'text': 'just kind of have to live with that and', 'start': 558.46, 'duration': 3.84}
+{'text': "I don't know where that sense of peace", 'start': 560.35, 'duration': 3.27}
+{'text': "comes from I don't understand I don't", 'start': 562.3, 'duration': 2.4}
+{'text': "know where it comes from either it's a", 'start': 563.62, 'duration': 2.7}
+{'text': "it's an emotion it's a feeling there's", 'start': 564.7, 'duration': 4.2}
+{'text': 'no logic behind it I want a new sensory', 'start': 566.32, 'duration': 16.11}
+{'text': 'organ I mean where does your sense of', 'start': 568.9, 'duration': 17.34}
+{'text': 'unrest come from [\xa0__\xa0] for what if you', 'start': 582.43, 'duration': 6.9}
+{'text': "feel uneasy that they can't perceive all", 'start': 586.24, 'duration': 4.8}
+{'text': "things like I don't feel sad oh yeah", 'start': 589.33, 'duration': 3.27}
+{'text': 'well because typically the more we know', 'start': 591.04, 'duration': 3.18}
+{'text': 'about something the better that we can', 'start': 592.6, 'duration': 3.27}
+{'text': 'craft the tool to utilize sick knowledge', 'start': 594.22, 'duration': 4.2}
+{'text': 'to improve human experience so the idea', 'start': 595.87, 'duration': 4.68}
+{'text': 'that there could exist like lark or like', 'start': 598.42, 'duration': 3.36}
+{'text': 'the under skin that we gain of the', 'start': 600.55, 'duration': 2.67}
+{'text': 'universe typically yields like better', 'start': 601.78, 'duration': 3.03}
+{'text': 'technology that we can use to have a', 'start': 603.22, 'duration': 3.32}
+{'text': 'better experience on the ground I guess', 'start': 604.81, 'duration': 3.9}
+{'text': 'so the fact that there might be whole', 'start': 606.54, 'duration': 3.97}
+{'text': "swaths of information that's unknowable", 'start': 608.71, 'duration': 3.06}
+{'text': 'to us means it will always have an', 'start': 610.51, 'duration': 3.15}
+{'text': 'incomplete picture of how things seem to', 'start': 611.77, 'duration': 4.64}
+{'text': 'work with function', 'start': 613.66, 'duration': 2.75}
+{'text': "maybe I don't think that would be like", 'start': 616.94, 'duration': 5.22}
+{'text': 'against humans being able to access more', 'start': 619.15, 'duration': 5.98}
+{'text': "maybe it's just like when I acknowledge", 'start': 622.16, 'duration': 4.53}
+{'text': "that's what the fact about the universe", 'start': 625.13, 'duration': 6.33}
+{'text': 'that makes me feel better okay not that', 'start': 626.69, 'duration': 6.3}
+{'text': 'I wish it to be that way but rather than', 'start': 631.46, 'duration': 2.82}
+{'text': 'acknowledging that it is that way it', 'start': 632.99, 'duration': 4.23}
+{'text': 'gives me a sense of peace are you -', 'start': 634.28, 'duration': 4.26}
+{'text': 'finding being able to perceive destiny', 'start': 637.22, 'duration': 2.43}
+{'text': 'is something you measure with an', 'start': 638.54, 'duration': 2.76}
+{'text': "instrument something humans perceive I'm", 'start': 639.65, 'duration': 6.54}
+{'text': "sure I mean like we can't see air right", 'start': 641.3, 'duration': 6.06}
+{'text': 'but we can measure that with an', 'start': 646.19, 'duration': 4.61}
+{'text': "instrument you can't", 'start': 647.36, 'duration': 3.44}
+{'text': "it's almost daytime wait come look at", 'start': 652.09, 'duration': 8.53}
+{'text': "the sunrise with me Steve what I'm", 'start': 654.65, 'duration': 9.51}
+{'text': "kidding no mudan go I'm not going out", 'start': 660.62, 'duration': 5.1}
+{'text': "then you know that there's a creeper you", 'start': 664.16, 'duration': 4.32}
+{'text': 'said go no I said look at the sunrise', 'start': 665.72, 'duration': 4.56}
+{'text': "with yeah let's go like in the sunrise", 'start': 668.48, 'duration': 3.81}
+{'text': 'get out there and look at it okay come', 'start': 670.28, 'duration': 5.63}
+{'text': 'with me you ready yeah right behind you', 'start': 672.29, 'duration': 3.62}
+{'text': 'where are you literally right behind you', 'start': 676.06, 'duration': 5.22}
+{'text': 'run secondly a little [\xa0__\xa0] so what an', 'start': 687.04, 'duration': 6.73}
+{'text': 'MRI scan your brain in real-time when', 'start': 692.36, 'duration': 2.46}
+{'text': "someone's pursuing something visually be", 'start': 693.77, 'duration': 2.37}
+{'text': 'able to prove something as conscious no', 'start': 694.82, 'duration': 3.57}
+{'text': 'what are you talking about patterns in', 'start': 696.14, 'duration': 3.45}
+{'text': 'the brain or neurons flowing in the', 'start': 698.39, 'duration': 2.55}
+{'text': "brain isn't conscious experience you", 'start': 699.59, 'duration': 2.58}
+{'text': 'just seeing electrical signals travel', 'start': 700.94, 'duration': 2.85}
+{'text': 'through right cut the cog conscious', 'start': 702.17, 'duration': 3.27}
+{'text': 'experience is an emergent property from', 'start': 703.79, 'duration': 2.49}
+{'text': 'like a ton of different underlying', 'start': 705.44, 'duration': 2.58}
+{'text': "processes but there's like no way to", 'start': 706.28, 'duration': 3.27}
+{'text': "observe that emergent property that's", 'start': 708.02, 'duration': 3.69}
+{'text': "the weird thing about I think there's um", 'start': 709.55, 'duration': 4.5}
+{'text': "I think there's two terms for this", 'start': 711.71, 'duration': 3.75}
+{'text': "there's like strong emergence and weak", 'start': 714.05, 'duration': 2.52}
+{'text': "emergence or something I don't remember", 'start': 715.46, 'duration': 2.22}
+{'text': "they're missing the two is which is", 'start': 716.57, 'duration': 4.02}
+{'text': 'which but like for instance like a car', 'start': 717.68, 'duration': 4.56}
+{'text': 'might be an emergent thing from an', 'start': 720.59, 'duration': 3.09}
+{'text': 'underlying like every little individual', 'start': 722.24, 'duration': 2.76}
+{'text': "physical thing but you can't race like", 'start': 723.68, 'duration': 2.7}
+{'text': "every single part it's not like the car", 'start': 725.0, 'duration': 3.12}
+{'text': 'like comes out of nowhere like the car', 'start': 726.38, 'duration': 3.51}
+{'text': 'is like the wheels go here and then the', 'start': 728.12, 'duration': 2.85}
+{'text': 'engine goes there and now I see where', 'start': 729.89, 'duration': 2.13}
+{'text': 'the car is but like a conscious', 'start': 730.97, 'duration': 2.4}
+{'text': 'experience is like that just seems to', 'start': 732.02, 'duration': 3.24}
+{'text': 'like materialize out of nothing like', 'start': 733.37, 'duration': 3.3}
+{'text': 'nothing no individual part of the brain', 'start': 735.26, 'duration': 4.01}
+{'text': 'seems to like make you conscious or', 'start': 736.67, 'duration': 5.04}
+{'text': 'nothing', 'start': 739.27, 'duration': 14.71}
+{'text': "don't park no droid Empire", 'start': 741.71, 'duration': 12.27}
+{'text': "making a cow farm they're gonna have sex", 'start': 755.37, 'duration': 14.74}
+{'text': 'nothing wrong with that oh yeah where', 'start': 759.6, 'duration': 13.27}
+{'text': 'was the I need to go back and read it', 'start': 770.11, 'duration': 3.81}
+{'text': "make sure I don't misunderstand article", 'start': 772.87, 'duration': 3.03}
+{'text': "isn't there some guy who like 80% of his", 'start': 773.92, 'duration': 3.54}
+{'text': '[\xa0__\xa0] brain was literally water', 'start': 775.9, 'duration': 3.21}
+{'text': 'because like it had rotted away cause of', 'start': 777.46, 'duration': 3.45}
+{'text': 'some weird disease but he still seemed', 'start': 779.11, 'duration': 3.15}
+{'text': 'to exhibit some kind of conscious', 'start': 780.91, 'duration': 2.76}
+{'text': "experience I don't know it's really", 'start': 782.26, 'duration': 3.5}
+{'text': 'weird', 'start': 783.67, 'duration': 2.09}
+{'text': '[Music]', 'start': 789.23, 'duration': 3.77}
+{'text': 'what does it mean to believe in', 'start': 791.28, 'duration': 3.91}
+{'text': 'immaterial things excluding energy well', 'start': 793.0, 'duration': 3.75}
+{'text': 'I so like I guess like if you believe in', 'start': 795.19, 'duration': 3.18}
+{'text': 'a material world you believe that like', 'start': 796.75, 'duration': 3.51}
+{'text': 'everything that you can see and observe', 'start': 798.37, 'duration': 3.42}
+{'text': 'and notice like comes out of physical', 'start': 800.26, 'duration': 4.14}
+{'text': "properties right there's not like some", 'start': 801.79, 'duration': 5.67}
+{'text': 'weird god [\xa0__\xa0] or soul [\xa0__\xa0] or energy or', 'start': 804.4, 'duration': 4.94}
+{'text': 'magic or Chi or whatever the [\xa0__\xa0]', 'start': 807.46, 'duration': 4.08}
+{'text': "but it seems weird I can't reconcile", 'start': 809.34, 'duration': 3.88}
+{'text': 'like being like so I used to be like a', 'start': 811.54, 'duration': 3.06}
+{'text': 'hard material I can probably still have', 'start': 813.22, 'duration': 3.3}
+{'text': 'missed something snow or physicalist I', 'start': 814.6, 'duration': 3.0}
+{'text': 'guess but like it seems weird that I', 'start': 816.52, 'duration': 2.37}
+{'text': "don't I can't have like a good way to", 'start': 817.6, 'duration': 3.18}
+{'text': 'describe like conscious experiences I', 'start': 818.89, 'duration': 3.39}
+{'text': "definitely believe in them I'm pretty", 'start': 820.78, 'duration': 3.93}
+{'text': "sure I'm having one but I have no way", 'start': 822.28, 'duration': 3.69}
+{'text': 'even though I believe in them and I', 'start': 824.71, 'duration': 2.46}
+{'text': "believe that other people have them I'm", 'start': 825.97, 'duration': 3.63}
+{'text': 'doing that using like a priori reasoning', 'start': 827.17, 'duration': 3.63}
+{'text': "I can't really observe that in any way", 'start': 829.6, 'duration': 2.7}
+{'text': "size shape or form I'm just assuming", 'start': 830.8, 'duration': 2.76}
+{'text': 'that like because I have an experience', 'start': 832.3, 'duration': 2.58}
+{'text': 'and you have similar parts of me that', 'start': 833.56, 'duration': 3.21}
+{'text': 'like it like rationally makes sense to', 'start': 834.88, 'duration': 2.88}
+{'text': "say you're having a conscious experience", 'start': 836.77, 'duration': 2.31}
+{'text': "as well but I can't know that and", 'start': 837.76, 'duration': 3.45}
+{'text': "there's no way I can observe that it's", 'start': 839.08, 'duration': 3.78}
+{'text': 'like you can show me like five different', 'start': 841.21, 'duration': 3.39}
+{'text': 'animals or you can show me plants or you', 'start': 842.86, 'duration': 3.42}
+{'text': 'can show me like a complicated AI and', 'start': 844.6, 'duration': 3.57}
+{'text': 'then ask me is just having a conscious', 'start': 846.28, 'duration': 3.42}
+{'text': 'experience I have no [\xa0__\xa0] idea I', 'start': 848.17, 'duration': 2.97}
+{'text': "don't know I can like roughly look at", 'start': 849.7, 'duration': 3.24}
+{'text': 'some parts and say I maybe I guess if it', 'start': 851.14, 'duration': 4.26}
+{'text': 'has like I can say that like it I think', 'start': 852.94, 'duration': 3.63}
+{'text': "I can't even really say if it has like", 'start': 855.4, 'duration': 2.94}
+{'text': 'some level of nervous system maybe it is', 'start': 856.57, 'duration': 2.88}
+{'text': "I don't even know if that's necessarily", 'start': 858.34, 'duration': 2.7}
+{'text': "true I'm not sure it's really really", 'start': 859.45, 'duration': 3.75}
+{'text': 'hard or or like do bugs have like like', 'start': 861.04, 'duration': 3.42}
+{'text': "for instance I can't think of like", 'start': 863.2, 'duration': 3.27}
+{'text': 'levels of consciousness either so for', 'start': 864.46, 'duration': 3.63}
+{'text': 'instance like do bugs have less of a', 'start': 866.47, 'duration': 2.79}
+{'text': 'conscious experience than humans but', 'start': 868.09, 'duration': 2.37}
+{'text': 'still some type of conscious experience', 'start': 869.26, 'duration': 2.55}
+{'text': "like I don't know that's really weird to", 'start': 870.46, 'duration': 2.67}
+{'text': 'consider having half a consciousness', 'start': 871.81, 'duration': 5.55}
+{'text': "right learn what that even means I'm", 'start': 873.13, 'duration': 6.21}
+{'text': 'like AI in consciousness at the Turing', 'start': 877.36, 'duration': 4.47}
+{'text': 'test etc do you think that computers I', 'start': 879.34, 'duration': 4.26}
+{'text': "love comics I feel like it wouldn't", 'start': 881.83, 'duration': 3.24}
+{'text': 'necessarily have to be well', 'start': 883.6, 'duration': 3.18}
+{'text': 'consciousness must be creative all I', 'start': 885.07, 'duration': 3.09}
+{'text': 'think unless you believe the humans are', 'start': 886.78, 'duration': 1.71}
+{'text': 'special', 'start': 888.16, 'duration': 2.67}
+{'text': 'in size shape or form so like given like', 'start': 888.49, 'duration': 4.89}
+{'text': 'a sophistication and in programming or', 'start': 890.83, 'duration': 5.129}
+{'text': 'you know hardware you should be able to', 'start': 893.38, 'duration': 4.26}
+{'text': "create something that's conscious with a", 'start': 895.959, 'duration': 3.661}
+{'text': "computer there's no reason I can't think", 'start': 897.64, 'duration': 2.79}
+{'text': 'of a single reason I think why that', 'start': 899.62, 'duration': 7.62}
+{'text': "wouldn't be true destiny doesn't dualism", 'start': 900.43, 'duration': 8.88}
+{'text': 'require you to assert that some things', 'start': 907.24, 'duration': 5.34}
+{'text': 'must be unknowable right is there a way', 'start': 909.31, 'duration': 5.39}
+{'text': 'to confirm that something is definitely', 'start': 912.58, 'duration': 4.53}
+{'text': 'unknowable like a proof of some kind', 'start': 914.7, 'duration': 8.44}
+{'text': "because if not wouldn't why not just", 'start': 917.11, 'duration': 7.8}
+{'text': 'give up the belief in conscious', 'start': 923.14, 'duration': 7.17}
+{'text': 'experience you think minds are affected', 'start': 924.91, 'duration': 6.6}
+{'text': "by our physical brains you can't know", 'start': 930.31, 'duration': 2.76}
+{'text': 'that they are and as far as material', 'start': 931.51, 'duration': 3.54}
+{'text': 'world it seems to be real it also seems', 'start': 933.07, 'duration': 3.42}
+{'text': 'that mental states derive from physical', 'start': 935.05, 'duration': 2.55}
+{'text': 'ones yeah of course', 'start': 936.49, 'duration': 3.87}
+{'text': 'obviously right if you could create an', 'start': 937.6, 'duration': 4.109}
+{'text': 'air with consciousness would you not', 'start': 940.36, 'duration': 2.7}
+{'text': 'point to the code and say here is the', 'start': 941.709, 'duration': 3.091}
+{'text': "material 'no sub consciousness no", 'start': 943.06, 'duration': 2.82}
+{'text': "because it doesn't see i don't know it", 'start': 944.8, 'duration': 2.37}
+{'text': "doesn't seem to be the case that we can", 'start': 945.88, 'duration': 4.44}
+{'text': 'ever determine that like again like okay', 'start': 947.17, 'duration': 4.47}
+{'text': "so here's a problem that we have", 'start': 950.32, 'duration': 2.639}
+{'text': "fundamentally okay i feel like we've had", 'start': 951.64, 'duration': 3.66}
+{'text': "this conversation a lot okay so we can't", 'start': 952.959, 'duration': 3.991}
+{'text': 'communicate experiences to one another', 'start': 955.3, 'duration': 3.18}
+{'text': 'we have no way to describe an experience', 'start': 956.95, 'duration': 5.04}
+{'text': 'okay hold on do you believe different', 'start': 958.48, 'duration': 5.13}
+{'text': 'people have different levels of', 'start': 961.99, 'duration': 5.159}
+{'text': 'consciousness or ability to be conscious', 'start': 963.61, 'duration': 5.52}
+{'text': 'and or is it a universally i mean i', 'start': 967.149, 'duration': 3.031}
+{'text': "don't even know what it means them", 'start': 969.13, 'duration': 7.769}
+{'text': 'different levels of consciousness [\xa0__\xa0]', 'start': 970.18, 'duration': 7.8}
+{'text': 'what was I just saying what are we', 'start': 976.899, 'duration': 5.821}
+{'text': 'talking about no I was just about to say', 'start': 977.98, 'duration': 6.72}
+{'text': 'something specific different experiences', 'start': 982.72, 'duration': 3.96}
+{'text': "oh yeah so we can't communicate", 'start': 984.7, 'duration': 4.8}
+{'text': 'experiences to one another right so for', 'start': 986.68, 'duration': 4.2}
+{'text': 'instance if I see a color or if I feel a', 'start': 989.5, 'duration': 3.3}
+{'text': "sensation I can't actually tell you what", 'start': 990.88, 'duration': 2.97}
+{'text': "that's what that is", 'start': 992.8, 'duration': 2.67}
+{'text': "I can only tell you what it's like and", 'start': 993.85, 'duration': 2.609}
+{'text': "hope that you've experienced something", 'start': 995.47, 'duration': 2.7}
+{'text': 'similar so for instance if I put a cat', 'start': 996.459, 'duration': 3.12}
+{'text': 'and you say what does the cat feel like', 'start': 998.17, 'duration': 4.65}
+{'text': "I would go oh well I guess it's soft I", 'start': 999.579, 'duration': 4.771}
+{'text': "think well what is soft feeling I don't", 'start': 1002.82, 'duration': 2.459}
+{'text': "know I hope you've touched something", 'start': 1004.35, 'duration': 2.25}
+{'text': 'else that we would also call soft', 'start': 1005.279, 'duration': 2.43}
+{'text': "otherwise you're gonna have no idea what", 'start': 1006.6, 'duration': 2.34}
+{'text': "I'm talking about", 'start': 1007.709, 'duration': 3.901}
+{'text': 'but like we have sensory organs for most', 'start': 1008.94, 'duration': 4.38}
+{'text': 'of the qualia that we talk about right', 'start': 1011.61, 'duration': 4.75}
+{'text': 'and we can kind of like', 'start': 1013.32, 'duration': 4.87}
+{'text': 'I guess we have liked that shirt', 'start': 1016.36, 'duration': 3.33}
+{'text': "experience right but I can't like", 'start': 1018.19, 'duration': 3.42}
+{'text': 'observe that experience anywhere right', 'start': 1019.69, 'duration': 3.209}
+{'text': "like if I touch something I can't", 'start': 1021.61, 'duration': 2.939}
+{'text': 'observe that like oh the sensation of', 'start': 1022.899, 'duration': 4.56}
+{'text': 'soft must be appearing somewhere in some', 'start': 1024.549, 'duration': 4.561}
+{'text': "mind like that that's just like it", 'start': 1027.459, 'duration': 2.821}
+{'text': "sounds like really convoluted I'm", 'start': 1029.11, 'duration': 2.16}
+{'text': "sorry's just a totally unobservable", 'start': 1030.28, 'duration': 2.97}
+{'text': 'thing right I have no idea if I look at', 'start': 1031.27, 'duration': 3.6}
+{'text': "somebody else and they're experiencing", 'start': 1033.25, 'duration': 2.88}
+{'text': "something I can't know anything about", 'start': 1034.87, 'duration': 2.579}
+{'text': "that experience it's like private", 'start': 1036.13, 'duration': 3.09}
+{'text': "information like it's totally unknowable", 'start': 1037.449, 'duration': 3.061}
+{'text': 'to the rest of the universe and seems to', 'start': 1039.22, 'duration': 2.79}
+{'text': "be the case like I don't know where the", 'start': 1040.51, 'duration': 2.91}
+{'text': 'mind exists or where a conscious', 'start': 1042.01, 'duration': 9.36}
+{'text': 'experience exists Moton you know what', 'start': 1043.42, 'duration': 10.71}
+{'text': "time it is what happened it's time for", 'start': 1051.37, 'duration': 17.1}
+{'text': 'you to die we can all at least share the', 'start': 1054.13, 'duration': 18.59}
+{'text': "experience of Teresa's dumb truck ass", 'start': 1068.47, 'duration': 4.25}
+{'text': "what a person that couldn't retain", 'start': 1076.32, 'duration': 5.47}
+{'text': "memories appear conscious to you I don't", 'start': 1078.22, 'duration': 7.339}
+{'text': "know that's a really strange one", 'start': 1081.79, 'duration': 3.769}
+{'text': "can't you say that you don't believe in", 'start': 1091.13, 'duration': 3.4}
+{'text': 'consciousness how does one know one is', 'start': 1093.12, 'duration': 5.34}
+{'text': "conscious that's absurd cool like like I", 'start': 1094.53, 'duration': 5.67}
+{'text': 'clearly function on a day-to-day basis', 'start': 1098.46, 'duration': 3.03}
+{'text': "assuming that I'm having a conscious", 'start': 1100.2, 'duration': 2.16}
+{'text': 'experience other people are', 'start': 1101.49, 'duration': 4.74}
+{'text': 'consciousness make us or dumbass do you', 'start': 1102.36, 'duration': 4.68}
+{'text': 'think that just because something', 'start': 1106.23, 'duration': 2.76}
+{'text': 'exhibits like the characteristics of', 'start': 1107.04, 'duration': 3.57}
+{'text': 'consciousness that it necessarily means', 'start': 1108.99, 'duration': 2.97}
+{'text': 'that it is conscious have you heard of', 'start': 1110.61, 'duration': 4.92}
+{'text': 'that Chinese room experiment this sounds', 'start': 1111.96, 'duration': 4.35}
+{'text': 'like the Cyril', 'start': 1115.53, 'duration': 5.15}
+{'text': 'this is Searles experiment yeah it is', 'start': 1116.31, 'duration': 6.75}
+{'text': 'just because something exhibits the', 'start': 1120.68, 'duration': 3.76}
+{'text': "characteristics of something doesn't", 'start': 1123.06, 'duration': 3.36}
+{'text': 'necessarily mean that underlying the', 'start': 1124.44, 'duration': 6.45}
+{'text': 'underlying properties are the same but I', 'start': 1126.42, 'duration': 6.38}
+{'text': 'guess that really depends on your', 'start': 1130.89, 'duration': 3.81}
+{'text': 'various like different philosophies in', 'start': 1132.8, 'duration': 3.07}
+{'text': 'terms of how you interpret like the', 'start': 1134.7, 'duration': 8.64}
+{'text': 'universe to be clear for Searles', 'start': 1135.87, 'duration': 9.0}
+{'text': 'experiment I believe that the two things', 'start': 1143.34, 'duration': 3.05}
+{'text': "are do I think they're the same", 'start': 1144.87, 'duration': 5.85}
+{'text': 'fundamentally I do believe the two', 'start': 1146.39, 'duration': 5.8}
+{'text': 'things are the same or the question is', 'start': 1150.72, 'duration': 3.39}
+{'text': 'asking if the guy if the guy with the', 'start': 1152.19, 'duration': 3.63}
+{'text': 'paper whatever has an understanding I', 'start': 1154.11, 'duration': 3.51}
+{'text': 'guess the same way that like a brain', 'start': 1155.82, 'duration': 3.03}
+{'text': 'would have an understanding or something', 'start': 1157.62, 'duration': 3.09}
+{'text': 'and I do a greater the two have similar', 'start': 1158.85, 'duration': 3.9}
+{'text': "levels of understanding but I don't know", 'start': 1160.71, 'duration': 3.06}
+{'text': 'if that necessarily gets it like what is', 'start': 1162.75, 'duration': 4.38}
+{'text': "it conscious destiny doesn't the act of", 'start': 1163.77, 'duration': 5.34}
+{'text': 'purposefully introducing a change to', 'start': 1167.13, 'duration': 5.04}
+{'text': 'itself show a form of consciousness no', 'start': 1169.11, 'duration': 5.73}
+{'text': 'not at all can you explain the', 'start': 1172.17, 'duration': 5.64}
+{'text': 'experiment I think the experiment is', 'start': 1174.84, 'duration': 4.77}
+{'text': 'that in you have two different things', 'start': 1177.81, 'duration': 4.32}
+{'text': 'like you have a locked door and behind', 'start': 1179.61, 'duration': 4.11}
+{'text': 'the locked door I think you have one man', 'start': 1182.13, 'duration': 3.54}
+{'text': 'that fluently knows Chinese and then', 'start': 1183.72, 'duration': 4.05}
+{'text': "behind another door or well it's not to", 'start': 1185.67, 'duration': 3.48}
+{'text': 'ties about what it says right behind one', 'start': 1187.77, 'duration': 2.46}
+{'text': "door you've got a man that knows Chinese", 'start': 1189.15, 'duration': 2.55}
+{'text': "and behind another door you've got a guy", 'start': 1190.23, 'duration': 2.76}
+{'text': 'that when you ask him to translate', 'start': 1191.7, 'duration': 2.46}
+{'text': 'something you give him a piece of paper', 'start': 1192.99, 'duration': 3.3}
+{'text': 'he types the characters into a PC and', 'start': 1194.16, 'duration': 4.85}
+{'text': 'then he', 'start': 1196.29, 'duration': 2.72}
+{'text': "I'm sorry you give him a piece of paper", 'start': 1201.62, 'duration': 3.939}
+{'text': 'he types it into a computer and then he', 'start': 1204.12, 'duration': 3.75}
+{'text': 'spits out like a translation for you and', 'start': 1205.559, 'duration': 4.081}
+{'text': 'the translation is perfect every time so', 'start': 1207.87, 'duration': 3.09}
+{'text': 'the question is is like does the person', 'start': 1209.64, 'duration': 3.21}
+{'text': 'that fluently understands Chinese have', 'start': 1210.96, 'duration': 4.29}
+{'text': 'the same level of understanding as the', 'start': 1212.85, 'duration': 3.689}
+{'text': 'person that like gets the piece of paper', 'start': 1215.25, 'duration': 3.09}
+{'text': 'and then like just enters the', 'start': 1216.539, 'duration': 3.181}
+{'text': 'instructions in a computer and prints it', 'start': 1218.34, 'duration': 2.969}
+{'text': 'back perfectly like do these two things', 'start': 1219.72, 'duration': 2.97}
+{'text': 'have similar levels of understanding are', 'start': 1221.309, 'duration': 3.301}
+{'text': 'there like a difference here and I think', 'start': 1222.69, 'duration': 3.3}
+{'text': 'Sura was trying to get it between', 'start': 1224.61, 'duration': 3.27}
+{'text': 'semantic information and syntactical', 'start': 1225.99, 'duration': 5.549}
+{'text': "information we're like I think syntactic", 'start': 1227.88, 'duration': 6.48}
+{'text': 'is like having like knowing that a dog', 'start': 1231.539, 'duration': 5.64}
+{'text': "is like that a dog's fur is soft but", 'start': 1234.36, 'duration': 4.77}
+{'text': 'semantics is having the understanding of', 'start': 1237.179, 'duration': 4.11}
+{'text': 'what softness is or something I wanted', 'start': 1239.13, 'duration': 3.36}
+{'text': 'to go back and visit this or I would', 'start': 1241.289, 'duration': 2.671}
+{'text': 'have to take a minute to rephrase this', 'start': 1242.49, 'duration': 3.39}
+{'text': "exactly but it's like it's it's asking a", 'start': 1243.96, 'duration': 3.03}
+{'text': 'question like is there fundamental', 'start': 1245.88, 'duration': 2.279}
+{'text': "difference in understanding here that's", 'start': 1246.99, 'duration': 7.62}
+{'text': "taking place I'm pretty sure that the", 'start': 1248.159, 'duration': 8.731}
+{'text': 'like the Chinese room experiment was', 'start': 1254.61, 'duration': 4.29}
+{'text': 'aimed at answering the question of', 'start': 1256.89, 'duration': 3.72}
+{'text': 'whether or not AI can have consciousness', 'start': 1258.9, 'duration': 4.32}
+{'text': 'and the original Chinese room experiment', 'start': 1260.61, 'duration': 5.16}
+{'text': 'instead of the person inside referencing', 'start': 1263.22, 'duration': 4.439}
+{'text': "a computer he's referencing like a", 'start': 1265.77, 'duration': 3.93}
+{'text': "scrapbook like symbols yes I'm doing", 'start': 1267.659, 'duration': 5.191}
+{'text': 'yeah yeah and so he was trying to say', 'start': 1269.7, 'duration': 5.43}
+{'text': "that like basically it's not the same", 'start': 1272.85, 'duration': 4.41}
+{'text': 'like the person referencing like a', 'start': 1275.13, 'duration': 4.08}
+{'text': 'scrapbook of symbols you could consider', 'start': 1277.26, 'duration': 3.48}
+{'text': 'that like a computer like the processes', 'start': 1279.21, 'duration': 3.3}
+{'text': "of a computer but it's not the same as", 'start': 1280.74, 'duration': 4.53}
+{'text': "the person that like it's a question", 'start': 1282.51, 'duration': 4.649}
+{'text': "because I don't cause it's a question of", 'start': 1285.27, 'duration': 3.33}
+{'text': 'is it or is it not the same because I', 'start': 1287.159, 'duration': 3.181}
+{'text': 'think one could argue that it is the', 'start': 1288.6, 'duration': 4.709}
+{'text': "same and that's the how like the thing", 'start': 1290.34, 'duration': 4.68}
+{'text': 'is is that the processes of the mind are', 'start': 1293.309, 'duration': 3.301}
+{'text': 'obscured from us but the process of the', 'start': 1295.02, 'duration': 2.97}
+{'text': "man looking up symbols in a book aren't", 'start': 1296.61, 'duration': 3.33}
+{'text': 'obscure from us so for instance like a', 'start': 1297.99, 'duration': 3.63}
+{'text': 'man looking up symbols in a book well', 'start': 1299.94, 'duration': 3.06}
+{'text': 'clearly this guy has no understanding', 'start': 1301.62, 'duration': 3.12}
+{'text': 'like a human does but one could argue', 'start': 1303.0, 'duration': 3.48}
+{'text': 'that well and you know in human you', 'start': 1304.74, 'duration': 3.03}
+{'text': 'access different memories in your brain', 'start': 1306.48, 'duration': 2.88}
+{'text': "you've got like clusters of neurons that", 'start': 1307.77, 'duration': 2.85}
+{'text': 'light up that are associated with things', 'start': 1309.36, 'duration': 3.12}
+{'text': "like that's just our form of accessing a", 'start': 1310.62, 'duration': 3.12}
+{'text': 'book that process is just not', 'start': 1312.48, 'duration': 3.03}
+{'text': 'transparent to us like a man in a room', 'start': 1313.74, 'duration': 4.02}
+{'text': 'reading a book of symbols so then I', 'start': 1315.51, 'duration': 3.81}
+{'text': 'think I think one could argue that the', 'start': 1317.76, 'duration': 4.529}
+{'text': 'types of understanding are identical we', 'start': 1319.32, 'duration': 4.41}
+{'text': "just don't see it as much it's not as", 'start': 1322.289, 'duration': 2.851}
+{'text': 'transparent a process to us as people', 'start': 1323.73, 'duration': 2.64}
+{'text': 'because this happens like all under the', 'start': 1325.14, 'duration': 2.43}
+{'text': "hood like we don't see it happening", 'start': 1326.37, 'duration': 3.15}
+{'text': "however the understanding doesn't seem", 'start': 1327.57, 'duration': 3.66}
+{'text': 'to be organic right because of a', 'start': 1329.52, 'duration': 3.81}
+{'text': "person's fluent in Chinese a", 'start': 1331.23, 'duration': 4.26}
+{'text': "no matter what they're seeing they can", 'start': 1333.33, 'duration': 3.78}
+{'text': 'like no matter what objects are in the', 'start': 1335.49, 'duration': 2.76}
+{'text': 'room right they can point to it and they', 'start': 1337.11, 'duration': 3.15}
+{'text': 'can give you the like their translation', 'start': 1338.25, 'duration': 4.5}
+{'text': 'in Chinese versus a person with the', 'start': 1340.26, 'duration': 4.11}
+{'text': 'person inside the room can only answer', 'start': 1342.75, 'duration': 4.35}
+{'text': 'what their programs yeah but the problem', 'start': 1344.37, 'duration': 4.2}
+{'text': "here is that like we're trying to", 'start': 1347.1, 'duration': 4.05}
+{'text': 'compare the entirety of the brain to', 'start': 1348.57, 'duration': 4.77}
+{'text': 'parts of the room when the entire room', 'start': 1351.15, 'duration': 4.23}
+{'text': 'itself should be the brain right because', 'start': 1353.34, 'duration': 3.57}
+{'text': 'we view the entire room as a brain we', 'start': 1355.38, 'duration': 3.09}
+{'text': 'can feed it simple so we can get back a', 'start': 1356.91, 'duration': 3.96}
+{'text': 'meaningful answer from it but if we but', 'start': 1358.47, 'duration': 3.69}
+{'text': 'but if we look at like just one guy in', 'start': 1360.87, 'duration': 2.58}
+{'text': "the room he doesn't understand it that", 'start': 1362.16, 'duration': 2.4}
+{'text': 'would be like looking at like just one', 'start': 1363.45, 'duration': 2.49}
+{'text': 'part of the brain like oh well your', 'start': 1364.56, 'duration': 2.4}
+{'text': "amygdala that doesn't have any", 'start': 1365.94, 'duration': 2.28}
+{'text': 'understanding of language like so', 'start': 1366.96, 'duration': 2.85}
+{'text': "therefore it's the same thing right does", 'start': 1368.22, 'duration': 5.79}
+{'text': 'that make sense I think so like um I', 'start': 1369.81, 'duration': 7.32}
+{'text': "don't know like I feel like um I don't", 'start': 1374.01, 'duration': 4.62}
+{'text': "feel like there's some ultra unique", 'start': 1377.13, 'duration': 3.27}
+{'text': 'process by which like human brains', 'start': 1378.63, 'duration': 3.6}
+{'text': 'process information and then spit out', 'start': 1380.4, 'duration': 3.33}
+{'text': 'answers like I think it happens quite', 'start': 1382.23, 'duration': 3.06}
+{'text': "similarly to I'm in the room you've got", 'start': 1383.73, 'duration': 2.97}
+{'text': 'like different parts of your brain that', 'start': 1385.29, 'duration': 3.18}
+{'text': 'transfer information back and forth to', 'start': 1386.7, 'duration': 4.23}
+{'text': 'one another and then that information is', 'start': 1388.47, 'duration': 4.05}
+{'text': 'processed in different areas of the', 'start': 1390.93, 'duration': 2.55}
+{'text': 'brain and that gives you back like some', 'start': 1392.52, 'duration': 3.0}
+{'text': 'kind of meaningful answer quite similar', 'start': 1393.48, 'duration': 3.51}
+{'text': "I would say it's like a guy in a room", 'start': 1395.52, 'duration': 4.26}
+{'text': 'getting symbols from a computer no or', 'start': 1396.99, 'duration': 3.81}
+{'text': "what's the difference I guess would be", 'start': 1399.78, 'duration': 6.81}
+{'text': 'the question yeah I think Searle says', 'start': 1400.8, 'duration': 7.71}
+{'text': 'that there is a difference between and I', 'start': 1406.59, 'duration': 3.15}
+{'text': "don't know these words are used outside", 'start': 1408.51, 'duration': 2.82}
+{'text': 'of the specific example in a similar way', 'start': 1409.74, 'duration': 3.27}
+{'text': "but he's I think the the distinction", 'start': 1411.33, 'duration': 3.03}
+{'text': "he's drawing is semantic versus", 'start': 1413.01, 'duration': 3.36}
+{'text': 'syntactic where the person in the room', 'start': 1414.36, 'duration': 4.35}
+{'text': 'only has the syntax like given a very', 'start': 1416.37, 'duration': 3.42}
+{'text': 'specific question they can get very', 'start': 1418.71, 'duration': 2.31}
+{'text': "specific answers but they don't have", 'start': 1419.79, 'duration': 2.76}
+{'text': "like a an experience they don't have a", 'start': 1421.02, 'duration': 3.15}
+{'text': 'semantic understanding like a', 'start': 1422.55, 'duration': 3.09}
+{'text': 'contextualized understanding of like', 'start': 1424.17, 'duration': 3.72}
+{'text': 'what it means to pet a dog what is', 'start': 1425.64, 'duration': 4.98}
+{'text': 'information information actually exists', 'start': 1427.89, 'duration': 6.45}
+{'text': 'in the material sense love you guys you', 'start': 1430.62, 'duration': 6.87}
+{'text': 'forever what is information I think', 'start': 1434.34, 'duration': 5.37}
+{'text': 'information is I think it depends on', 'start': 1437.49, 'duration': 3.93}
+{'text': "what who you're asking in a physics", 'start': 1439.71, 'duration': 2.94}
+{'text': 'sense I think information is just like', 'start': 1441.42, 'duration': 2.22}
+{'text': 'the arrangement of particles or', 'start': 1442.65, 'duration': 4.98}
+{'text': "something right and then I'm sure every", 'start': 1443.64, 'duration': 6.32}
+{'text': 'like discipline house like a different', 'start': 1447.63, 'duration': 5.58}
+{'text': "reminding at 10 or 12 we're mining at 11", 'start': 1449.96, 'duration': 5.35}
+{'text': "[\xa0__\xa0] done okay I'm done with that I'm", 'start': 1453.21, 'duration': 4.74}
+{'text': 'too old is it anymore 12 the best', 'start': 1455.31, 'duration': 5.64}
+{'text': 'because 12 you miss lava completely 11', 'start': 1457.95, 'duration': 4.8}
+{'text': "is better because for 11 you're still", 'start': 1460.95, 'duration': 3.0}
+{'text': "hitting lava but it's always gonna be", 'start': 1462.75, 'duration': 2.46}
+{'text': 'beneath you so you can put a block on it', 'start': 1463.95, 'duration': 2.229}
+{'text': "and you're a little bit", 'start': 1465.21, 'duration': 3.76}
+{'text': 'predominant so you believe that human', 'start': 1466.179, 'duration': 4.32}
+{'text': 'semantic information is just a form of', 'start': 1468.97, 'duration': 3.24}
+{'text': "syntax yes that's what I that's what I", 'start': 1470.499, 'duration': 2.76}
+{'text': 'feel like I believe there might be', 'start': 1472.21, 'duration': 2.25}
+{'text': "reasons when I'm wrong for that but it", 'start': 1473.259, 'duration': 3.42}
+{'text': "feels like syntax arises or I'm sorry it", 'start': 1474.46, 'duration': 4.26}
+{'text': 'feels like semantic understanding arises', 'start': 1476.679, 'duration': 3.901}
+{'text': 'when enough syntactic information is', 'start': 1478.72, 'duration': 3.51}
+{'text': "present that's what it feels like to me", 'start': 1480.58, 'duration': 3.539}
+{'text': 'so given the syntactic information of', 'start': 1482.23, 'duration': 4.769}
+{'text': 'like seeing a dog feeling a dog knowing', 'start': 1484.119, 'duration': 3.991}
+{'text': 'that those feelings are and all of that', 'start': 1486.999, 'duration': 2.79}
+{'text': '[\xa0__\xa0] that like from all of that syntax', 'start': 1488.11, 'duration': 3.269}
+{'text': 'would arise some kind of semantic', 'start': 1489.789, 'duration': 2.58}
+{'text': 'understanding that it would like', 'start': 1491.379, 'duration': 3.211}
+{'text': 'necessarily follow and be like reducible', 'start': 1492.369, 'duration': 3.601}
+{'text': 'to the syntactic information as well', 'start': 1494.59, 'duration': 9.059}
+{'text': "that's how I feel are you [\xa0__\xa0]", 'start': 1495.97, 'duration': 11.22}
+{'text': "serious to diamonds have garbage that's", 'start': 1503.649, 'duration': 6.99}
+{'text': 'all we need do you think thanks and Alex', 'start': 1507.19, 'duration': 4.619}
+{'text': 'takes your consciousness into a', 'start': 1510.639, 'duration': 2.76}
+{'text': 'non-physical world well it already feels', 'start': 1511.809, 'duration': 3.0}
+{'text': 'like a consciousness to some extent', 'start': 1513.399, 'duration': 4.051}
+{'text': 'exists on some kind of non-physical or', 'start': 1514.809, 'duration': 4.83}
+{'text': "just on a physical plane we can't see it", 'start': 1517.45, 'duration': 3.569}
+{'text': 'but I mean the thing is is that like if', 'start': 1519.639, 'duration': 2.79}
+{'text': "you're a materialist you're already a", 'start': 1521.019, 'duration': 2.73}
+{'text': "kind of cheating when you're materialist", 'start': 1522.429, 'duration': 2.97}
+{'text': "right and I'll admit this right well", 'start': 1523.749, 'duration': 3.211}
+{'text': "what is my what's material everything", 'start': 1525.399, 'duration': 3.451}
+{'text': 'that you can like experience or like see', 'start': 1526.96, 'duration': 3.299}
+{'text': "or whatever it's like oh well what would", 'start': 1528.85, 'duration': 3.269}
+{'text': 'be immaterial I mean anything that you', 'start': 1530.259, 'duration': 3.181}
+{'text': "can't see or touch or whatever it's like", 'start': 1532.119, 'duration': 2.76}
+{'text': 'okay well it seems like literally every', 'start': 1533.44, 'duration': 2.4}
+{'text': "single thing you're gonna see by", 'start': 1534.879, 'duration': 2.49}
+{'text': "definition then we'll be materials like", 'start': 1535.84, 'duration': 3.689}
+{'text': 'oh guess so like so like you already', 'start': 1537.369, 'duration': 5.341}
+{'text': 'have that but like it feels like a yeah', 'start': 1539.529, 'duration': 6.75}
+{'text': "iron pick peak um I'm mining in like a", 'start': 1542.71, 'duration': 5.01}
+{'text': 'came a little bit far away from you guys', 'start': 1546.279, 'duration': 9.421}
+{'text': "so I'm okay thank you that couldn't an", 'start': 1547.72, 'duration': 11.069}
+{'text': 'unintelligent conscious being exists why', 'start': 1555.7, 'duration': 4.709}
+{'text': 'does the conscious being need to be', 'start': 1558.789, 'duration': 4.321}
+{'text': 'intelligent or is consciousness more', 'start': 1560.409, 'duration': 5.701}
+{'text': 'than having experiences bonus mean woof', 'start': 1563.11, 'duration': 3.96}
+{'text': "I don't know what you mean by", 'start': 1566.11, 'duration': 2.159}
+{'text': "intelligent there I don't think that's a", 'start': 1567.07, 'duration': 4.349}
+{'text': "word I've use to describe anything we're", 'start': 1568.269, 'duration': 3.99}
+{'text': 'gonna have to define what we mean by', 'start': 1571.419, 'duration': 5.281}
+{'text': 'intelligent at that point and we already', 'start': 1572.259, 'duration': 5.941}
+{'text': 'know that conscious means exist that', 'start': 1576.7, 'duration': 3.599}
+{'text': "aren't intelligent yeah we call them top", 'start': 1578.2, 'duration': 4.549}
+{'text': 'laners', 'start': 1580.299, 'duration': 2.45}
+{'text': 'not true', 'start': 1587.69, 'duration': 3.7}
+{'text': 'come bot laners of heart with him', 'start': 1589.35, 'duration': 4.14}
+{'text': 'imagine pokey coming out defending fed', 'start': 1591.39, 'duration': 4.23}
+{'text': 'after everything on on the Rattler oh', 'start': 1593.49, 'duration': 4.86}
+{'text': "[\xa0__\xa0] that's right does it - pokey moving", 'start': 1595.62, 'duration': 5.93}
+{'text': 'oh wait did pokey move out', 'start': 1598.35, 'duration': 3.2}

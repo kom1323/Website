@@ -1,0 +1,259 @@
+{'text': 'i would rather die than get the vaccine', 'start': 0.08, 'duration': 4.56}
+{'text': 'why', 'start': 2.48, 'duration': 4.879}
+{'text': "usually i think that's just meaning", 'start': 4.64, 'duration': 4.959}
+{'text': "no they're not they're real 85 lose", 'start': 7.359, 'duration': 4.16}
+{'text': 'antibodies after seven months', 'start': 9.599, 'duration': 3.601}
+{'text': "antibodies in your bloodstream isn't a", 'start': 11.519, 'duration': 3.921}
+{'text': 'good way to measure the effectiveness of', 'start': 13.2, 'duration': 4.32}
+{'text': 'a of immunity the way you measure', 'start': 15.44, 'duration': 3.28}
+{'text': "effectiveness of immunities you've got", 'start': 17.52, 'duration': 3.12}
+{'text': 'to see who gets infected later and then', 'start': 18.72, 'duration': 3.2}
+{'text': "you've got to see like what the outcomes", 'start': 20.64, 'duration': 3.44}
+{'text': 'are um and then you measure relative', 'start': 21.92, 'duration': 4.4}
+{'text': 'risk the reason why', 'start': 24.08, 'duration': 4.56}
+{'text': 'okay if you get infected with a virus', 'start': 26.32, 'duration': 3.279}
+{'text': "all right there's a whole bunch of", 'start': 28.64, 'duration': 2.479}
+{'text': 'things that happen your body one of the', 'start': 29.599, 'duration': 2.96}
+{'text': 'things that happens is your body', 'start': 31.119, 'duration': 4.241}
+{'text': 'recognizes the foreign whatever and then', 'start': 32.559, 'duration': 4.401}
+{'text': 'it creates antibodies and then those', 'start': 35.36, 'duration': 3.76}
+{'text': 'antibodies go into your body they bind', 'start': 36.96, 'duration': 4.08}
+{'text': 'to that thing and then they eat it or a', 'start': 39.12, 'duration': 3.36}
+{'text': 'bunch of macrophages come a whole bunch', 'start': 41.04, 'duration': 2.8}
+{'text': 'of big guys eat it and then it all gets', 'start': 42.48, 'duration': 4.239}
+{'text': 'flushed away basically um however your', 'start': 43.84, 'duration': 5.039}
+{'text': "body doesn't keep antibodies to every", 'start': 46.719, 'duration': 3.68}
+{'text': 'single infection floating throughout', 'start': 48.879, 'duration': 2.961}
+{'text': 'your body for the entirety of your life', 'start': 50.399, 'duration': 3.041}
+{'text': "that's not how your immune system works", 'start': 51.84, 'duration': 3.76}
+{'text': 'the whole point is that at some point', 'start': 53.44, 'duration': 4.16}
+{'text': 'your antibodies are all going to die but', 'start': 55.6, 'duration': 3.599}
+{'text': 'the point is that you have these memory', 'start': 57.6, 'duration': 2.639}
+{'text': 'cells that are part of your immune', 'start': 59.199, 'duration': 2.88}
+{'text': 'system that when you get infected they', 'start': 60.239, 'duration': 3.841}
+{'text': 'recreate those new antibodies the big', 'start': 62.079, 'duration': 3.12}
+{'text': 'part of your immune system is', 'start': 64.08, 'duration': 3.12}
+{'text': 'remembering prior infections and then', 'start': 65.199, 'duration': 4.161}
+{'text': 'creating antibodies once more to fight', 'start': 67.2, 'duration': 3.52}
+{'text': 'it once administered into the', 'start': 69.36, 'duration': 3.119}
+{'text': "bloodstream even though it's not the", 'start': 70.72, 'duration': 3.759}
+{'text': 'real virus the body reacts as though', 'start': 72.479, 'duration': 4.241}
+{'text': "it's a real threat macrophages engulf", 'start': 74.479, 'duration': 4.721}
+{'text': 'the pieces allowing t cells to recognize', 'start': 76.72, 'duration': 4.32}
+{'text': 'and bind the foreign antigen causing', 'start': 79.2, 'duration': 3.76}
+{'text': 'them to replicate into all different', 'start': 81.04, 'duration': 3.759}
+{'text': 'kinds of immune cells and trigger', 'start': 82.96, 'duration': 4.08}
+{'text': 'something called memory cells these', 'start': 84.799, 'duration': 4.241}
+{'text': 'stick around even after the body is done', 'start': 87.04, 'duration': 4.079}
+{'text': "fighting and it's these memory cells", 'start': 89.04, 'duration': 4.16}
+{'text': 'that allow for a quick response if and', 'start': 91.119, 'duration': 4.0}
+{'text': 'when the real virus shows up the', 'start': 93.2, 'duration': 3.84}
+{'text': 'effectiveness of vaccines has allowed us', 'start': 95.119, 'duration': 3.761}
+{'text': 'to nearly eradicate diseases like', 'start': 97.04, 'duration': 4.079}
+{'text': 'measles until of course the recent', 'start': 98.88, 'duration': 3.68}
+{'text': 'vaccine hesitant movement in which it', 'start': 101.119, 'duration': 3.121}
+{'text': 'kind of came back regardless they are', 'start': 102.56, 'duration': 3.68}
+{'text': 'extremely powerful tools to provide', 'start': 104.24, 'duration': 3.76}
+{'text': 'immunity to the individual and to', 'start': 106.24, 'duration': 4.239}
+{'text': 'protect larger communities and in our', 'start': 108.0, 'duration': 5.28}
+{'text': 'ever-connected world all of humanity not', 'start': 110.479, 'duration': 4.241}
+{'text': 'to make sure that you have antibodies', 'start': 113.28, 'duration': 3.04}
+{'text': 'forever you nobody has antibodies', 'start': 114.72, 'duration': 2.56}
+{'text': "forever but anything that doesn't make", 'start': 116.32, 'duration': 2.079}
+{'text': 'any sense', 'start': 117.28, 'duration': 2.96}
+{'text': 'i have the choice', 'start': 118.399, 'duration': 3.36}
+{'text': 'because i have the choice yeah well', 'start': 120.24, 'duration': 3.44}
+{'text': "that's not an argument", 'start': 121.759, 'duration': 4.161}
+{'text': 'this dude full of [\xa0__\xa0] wait what do you', 'start': 123.68, 'duration': 4.96}
+{'text': 'mean this is biology 101 go i go look it', 'start': 125.92, 'duration': 4.319}
+{'text': "up do you have i google i don't know you", 'start': 128.64, 'duration': 2.72}
+{'text': 'can google anything do you have', 'start': 130.239, 'duration': 3.36}
+{'text': 'antibodies forever do antibodies last', 'start': 131.36, 'duration': 4.48}
+{'text': 'forever do low antibodies mean no', 'start': 133.599, 'duration': 4.64}
+{'text': 'immunity antibodies equal immunity you', 'start': 135.84, 'duration': 3.6}
+{'text': 'can google any one of those things you', 'start': 138.239, 'duration': 2.801}
+{'text': 'can go read like a basic science article', 'start': 139.44, 'duration': 3.68}
+{'text': "on like the vaccine's getting less", 'start': 141.04, 'duration': 3.52}
+{'text': "effective after a while it's not even an", 'start': 143.12, 'duration': 2.32}
+{'text': 'argument', 'start': 144.56, 'duration': 1.92}
+{'text': 'for', 'start': 145.44, 'duration': 2.64}
+{'text': "it's not even an argument for no vaccine", 'start': 146.48, 'duration': 3.2}
+{'text': 'but to get it again sure people trying', 'start': 148.08, 'duration': 2.72}
+{'text': 'to explain why or why not they have to', 'start': 149.68, 'duration': 2.639}
+{'text': "get a vax it's a choice it's as simple", 'start': 150.8, 'duration': 3.28}
+{'text': 'as that the problem is that when you', 'start': 152.319, 'duration': 3.601}
+{'text': "start infecting other people then you've", 'start': 154.08, 'duration': 3.76}
+{'text': "kind of like it's past you right it's", 'start': 155.92, 'duration': 4.88}
+{'text': 'not just you anymore you know', 'start': 157.84, 'duration': 5.119}
+{'text': "this guy is delusional oh that's always", 'start': 160.8, 'duration': 4.32}
+{'text': 'that', 'start': 162.959, 'duration': 2.161}
+{'text': 'they usually have nothing to say they', 'start': 165.2, 'duration': 3.6}
+{'text': 'just dimmer testing shows micro clotting', 'start': 166.56, 'duration': 4.08}
+{'text': 'and over sixty percent of jab people', 'start': 168.8, 'duration': 2.799}
+{'text': 'okay', 'start': 170.64, 'duration': 2.56}
+{'text': "here's what i'm curious about for this", 'start': 171.599, 'duration': 3.121}
+{'text': 'such a waste of time', 'start': 173.2, 'duration': 3.44}
+{'text': "there's been like over three billion", 'start': 174.72, 'duration': 4.239}
+{'text': '[\xa0__\xa0] vaccinations given to this point', 'start': 176.64, 'duration': 3.92}
+{'text': 'if you read if you believe any of these', 'start': 178.959, 'duration': 3.521}
+{'text': 'numbers that you saw from like infowars', 'start': 180.56, 'duration': 4.48}
+{'text': "or tim poole or [\xa0__\xa0] james o'keefe or", 'start': 182.48, 'duration': 4.24}
+{'text': 'whatever', 'start': 185.04, 'duration': 4.08}
+{'text': 'where are all of the people dying from', 'start': 186.72, 'duration': 4.4}
+{'text': 'the from the vaccinations or where are', 'start': 189.12, 'duration': 3.6}
+{'text': 'all the people at least getting sick or', 'start': 191.12, 'duration': 3.6}
+{'text': 'being hospitalized from the vaccinations', 'start': 192.72, 'duration': 3.519}
+{'text': "why hasn't this happened yet this is", 'start': 194.72, 'duration': 4.08}
+{'text': 'like the most given vaccine probably in', 'start': 196.239, 'duration': 4.401}
+{'text': 'the history of the world right over', 'start': 198.8, 'duration': 3.6}
+{'text': "three three four billion doses i don't", 'start': 200.64, 'duration': 4.0}
+{'text': 'know how many been given out so far', 'start': 202.4, 'duration': 3.68}
+{'text': 'right', 'start': 204.64, 'duration': 2.879}
+{'text': 'we might be over four billion at this', 'start': 206.08, 'duration': 3.519}
+{'text': 'point if sixty percent of people were', 'start': 207.519, 'duration': 3.921}
+{'text': 'having clotting issues', 'start': 209.599, 'duration': 3.681}
+{'text': 'why the [\xa0__\xa0] have you not', 'start': 211.44, 'duration': 3.68}
+{'text': 'where where are they all at', 'start': 213.28, 'duration': 4.48}
+{'text': 'like where is this happening at', 'start': 215.12, 'duration': 5.28}
+{'text': "oh sorry we're at 6.2 billion doses", 'start': 217.76, 'duration': 5.64}
+{'text': 'globally', 'start': 220.4, 'duration': 3.0}
+{'text': 'vexed rep what did this guy say', 'start': 232.319, 'duration': 5.84}
+{'text': 'is that wait which one how does me not', 'start': 236.159, 'duration': 3.921}
+{'text': "taking the vax take away someone else's", 'start': 238.159, 'duration': 4.401}
+{'text': 'choice to take it that comment melted', 'start': 240.08, 'duration': 4.96}
+{'text': "brain cells because it's it's all about", 'start': 242.56, 'duration': 4.56}
+{'text': "um man people just don't understand like", 'start': 245.04, 'duration': 3.919}
+{'text': "probability there's nothing i can say to", 'start': 247.12, 'duration': 3.28}
+{'text': 'you', 'start': 248.959, 'duration': 2.48}
+{'text': "i don't i don't think there's anything", 'start': 250.4, 'duration': 1.919}
+{'text': 'that you can say to a lot of these', 'start': 251.439, 'duration': 3.681}
+{'text': 'people to any of them um', 'start': 252.319, 'duration': 4.401}
+{'text': "there's a lot of people a lot of humans", 'start': 255.12, 'duration': 3.2}
+{'text': 'are good at like three numbers they know', 'start': 256.72, 'duration': 2.88}
+{'text': 'one hundred percent they know fifty', 'start': 258.32, 'duration': 2.639}
+{'text': 'percent and they know zero percent and', 'start': 259.6, 'duration': 2.879}
+{'text': 'then everything else in between humans', 'start': 260.959, 'duration': 3.52}
+{'text': "just don't intuitively understand", 'start': 262.479, 'duration': 3.761}
+{'text': 'um', 'start': 264.479, 'duration': 3.44}
+{'text': 'like so people will say [\xa0__\xa0] like why', 'start': 266.24, 'duration': 2.959}
+{'text': 'should i get vaccinated like other', 'start': 267.919, 'duration': 2.72}
+{'text': 'people can get vaccines yeah well of', 'start': 269.199, 'duration': 3.041}
+{'text': 'course but the point is that like', 'start': 270.639, 'duration': 4.321}
+{'text': 'everybody is supposed to do it right', 'start': 272.24, 'duration': 4.72}
+{'text': 'because like the more people that get', 'start': 274.96, 'duration': 4.48}
+{'text': 'vaccinated the higher threshold like', 'start': 276.96, 'duration': 4.48}
+{'text': 'that has to be overcome by a virus in', 'start': 279.44, 'duration': 3.36}
+{'text': 'order to continue infecting people in a', 'start': 281.44, 'duration': 2.8}
+{'text': 'population', 'start': 282.8, 'duration': 3.839}
+{'text': "like it doesn't have to be 100", 'start': 284.24, 'duration': 4.239}
+{'text': "and it doesn't require 100 of people get", 'start': 286.639, 'duration': 5.361}
+{'text': "vaccinated because some won't be able to", 'start': 288.479, 'duration': 3.521}
+{'text': "i i don't know yeah wait can you biscuit", 'start': 292.24, 'duration': 4.8}
+{'text': "what did that person say i don't know", 'start': 295.28, 'duration': 3.68}
+{'text': "how far up it was the vaccine doesn't", 'start': 297.04, 'duration': 4.32}
+{'text': 'stop the spread at the very least the', 'start': 298.96, 'duration': 4.88}
+{'text': 'vaccine slows the spread ideally if', 'start': 301.36, 'duration': 4.16}
+{'text': 'enough people are vaccinated it stops', 'start': 303.84, 'duration': 2.799}
+{'text': 'the spread but i mean it should', 'start': 305.52, 'duration': 3.44}
+{'text': 'absolutely slow it right the vaccine', 'start': 306.639, 'duration': 3.681}
+{'text': "doesn't stop the spread though destiny", 'start': 308.96, 'duration': 3.92}
+{'text': "but it slows it right it'll only stop it", 'start': 310.32, 'duration': 4.159}
+{'text': 'if enough people are vaccinated and then', 'start': 312.88, 'duration': 4.24}
+{'text': 'if maybe extra measures are taken to', 'start': 314.479, 'duration': 5.44}
+{'text': 'like slow the rate of infection', 'start': 317.12, 'duration': 5.04}
+{'text': 'the delta virus infects vaccinated', 'start': 319.919, 'duration': 4.401}
+{'text': 'though any vaccinated person can get', 'start': 322.16, 'duration': 3.92}
+{'text': 'infected with anything the original the', 'start': 324.32, 'duration': 4.24}
+{'text': 'variant or whatever but your chances are', 'start': 326.08, 'duration': 4.88}
+{'text': "reduced that's the whole point is to", 'start': 328.56, 'duration': 5.04}
+{'text': 'reduce the chance of um', 'start': 330.96, 'duration': 5.92}
+{'text': 'of getting infected nothing is 100', 'start': 333.6, 'duration': 5.68}
+{'text': "like condoms don't prevent a pregnancy", 'start': 336.88, 'duration': 4.56}
+{'text': "100 of the time condoms don't protect", 'start': 339.28, 'duration': 5.919}
+{'text': 'against a lot of stds um 100 of the time', 'start': 341.44, 'duration': 5.12}
+{'text': "or at all i don't know if economy is", 'start': 345.199, 'duration': 2.481}
+{'text': 'effective at all against something like', 'start': 346.56, 'duration': 2.639}
+{'text': "herpes does that mean you shouldn't", 'start': 347.68, 'duration': 2.64}
+{'text': 'worry yes', 'start': 349.199, 'duration': 2.481}
+{'text': "yeah like it doesn't make any sense like", 'start': 350.32, 'duration': 3.12}
+{'text': 'very few things you do in life and a lot', 'start': 351.68, 'duration': 3.04}
+{'text': "of people i understand you're just not", 'start': 353.44, 'duration': 3.36}
+{'text': 'comfortable accepting this but almost', 'start': 354.72, 'duration': 4.88}
+{'text': 'nothing that you do in life is 100', 'start': 356.8, 'duration': 4.32}
+{'text': 'there are people that drink water out of', 'start': 359.6, 'duration': 3.439}
+{'text': 'their [\xa0__\xa0] sinks and their children', 'start': 361.12, 'duration': 3.28}
+{'text': 'have [\xa0__\xa0] lead poisoning and their', 'start': 363.039, 'duration': 2.561}
+{'text': 'lives are destroyed like in flint', 'start': 364.4, 'duration': 2.56}
+{'text': "michigan right that's water coming out", 'start': 365.6, 'duration': 3.12}
+{'text': 'of your sink um some people have adverse', 'start': 366.96, 'duration': 3.28}
+{'text': 'reactions to things like acetaminophen', 'start': 368.72, 'duration': 3.919}
+{'text': "or ibuprofen um i i don't know some", 'start': 370.24, 'duration': 3.44}
+{'text': "people die when they're put under", 'start': 372.639, 'duration': 2.961}
+{'text': 'general anesthesia in a hospital uh', 'start': 373.68, 'duration': 3.6}
+{'text': "there's a lot of things that are that", 'start': 375.6, 'duration': 3.12}
+{'text': 'seem like oh nothing could go wrong here', 'start': 377.28, 'duration': 3.6}
+{'text': "that can kill you it's like the overuse", 'start': 378.72, 'duration': 3.599}
+{'text': 'of steroids and the virus has become', 'start': 380.88, 'duration': 3.12}
+{'text': 'resistant to it same thing happening', 'start': 382.319, 'duration': 4.401}
+{'text': 'with the vaccine or antibodies', 'start': 384.0, 'duration': 4.8}
+{'text': 'wait hold on', 'start': 386.72, 'duration': 5.12}
+{'text': 'getting resistant to antibiotics is not', 'start': 388.8, 'duration': 5.119}
+{'text': 'the same thing as becoming resistant to', 'start': 391.84, 'duration': 5.6}
+{'text': 'antibodies now theoretically it could', 'start': 393.919, 'duration': 5.681}
+{'text': "happen but if that was the case there's", 'start': 397.44, 'duration': 4.319}
+{'text': 'two huge problems with this so one if', 'start': 399.6, 'duration': 3.36}
+{'text': "you're talking about like oh well if", 'start': 401.759, 'duration': 3.121}
+{'text': 'people get immunity to things then um', 'start': 402.96, 'duration': 4.079}
+{'text': 'then that just means that the virus', 'start': 404.88, 'duration': 3.84}
+{'text': 'can like mutate to something different', 'start': 407.039, 'duration': 3.28}
+{'text': "if that's the case", 'start': 408.72, 'duration': 3.52}
+{'text': "then that's an even bigger argument for", 'start': 410.319, 'duration': 3.44}
+{'text': 'vaccination because your chance of ever', 'start': 412.24, 'duration': 3.76}
+{'text': 'getting infected is lower right the', 'start': 413.759, 'duration': 4.401}
+{'text': "vaccines aren't mutating so if i could", 'start': 416.0, 'duration': 4.0}
+{'text': 'vaccinate 100 of a population the', 'start': 418.16, 'duration': 3.039}
+{'text': "vaccines aren't going to mutate your", 'start': 420.0, 'duration': 2.8}
+{'text': "body because it's not a virus", 'start': 421.199, 'duration': 4.161}
+{'text': 'number one and then number two if', 'start': 422.8, 'duration': 4.16}
+{'text': "everybody is vaccinated and there's less", 'start': 425.36, 'duration': 2.88}
+{'text': 'of a chance of like the actual virus', 'start': 426.96, 'duration': 2.32}
+{'text': "getting into your body then there's", 'start': 428.24, 'duration': 2.56}
+{'text': 'lesser chance for any mutation event to', 'start': 429.28, 'duration': 3.359}
+{'text': "occur we're not seeing like the delta", 'start': 430.8, 'duration': 2.88}
+{'text': 'variant on these plates like where did', 'start': 432.639, 'duration': 2.56}
+{'text': 'the delta varying come from it was india', 'start': 433.68, 'duration': 2.72}
+{'text': 'right', 'start': 435.199, 'duration': 2.481}
+{'text': "i'm pretty sure the delivery came from", 'start': 436.4, 'duration': 2.799}
+{'text': "india you're not seeing it's not like", 'start': 437.68, 'duration': 2.56}
+{'text': "you're getting these variants out of", 'start': 439.199, 'duration': 2.321}
+{'text': 'like [\xa0__\xa0] israel these places are', 'start': 440.24, 'duration': 3.2}
+{'text': "like 90 vaccination rates they're coming", 'start': 441.52, 'duration': 3.44}
+{'text': 'with these places where a ton of people', 'start': 443.44, 'duration': 3.92}
+{'text': "are unvaccinated um and they're passing", 'start': 444.96, 'duration': 3.679}
+{'text': 'around the virus like back and forth', 'start': 447.36, 'duration': 3.839}
+{'text': 'like crazy um suggest that our current', 'start': 448.639, 'duration': 4.241}
+{'text': 'problem with variants has anything to do', 'start': 451.199, 'duration': 3.361}
+{'text': 'with vaccination seems a little bonkers', 'start': 452.88, 'duration': 3.52}
+{'text': 'because the biggest problem the delta', 'start': 454.56, 'duration': 4.0}
+{'text': 'variant emerged in india and became', 'start': 456.4, 'duration': 3.919}
+{'text': 'prevalent there under conditions where', 'start': 458.56, 'duration': 3.68}
+{'text': 'exactly no one was vaccinated true we', 'start': 460.319, 'duration': 3.121}
+{'text': 'know that the emergence of delta has', 'start': 462.24, 'duration': 2.799}
+{'text': 'nothing to do with our vaccination', 'start': 463.44, 'duration': 4.0}
+{'text': 'regime the whole thrust of their', 'start': 465.039, 'duration': 5.041}
+{'text': 'comments there is confused right and', 'start': 467.44, 'duration': 4.4}
+{'text': 'once again the subtext to everything', 'start': 470.08, 'duration': 3.76}
+{'text': "they're saying no matter how reasonable", 'start': 471.84, 'duration': 4.96}
+{'text': 'and attentive to caveats they can seem', 'start': 473.84, 'duration': 4.16}
+{'text': 'and i will grant you they can seem', 'start': 476.8, 'duration': 2.399}
+{'text': 'incredibly reasonable they do not seem', 'start': 478.0, 'duration': 2.879}
+{'text': 'like alex jones and this is why what', 'start': 479.199, 'duration': 3.601}
+{'text': "they're doing is so insidious if we're", 'start': 480.879, 'duration': 3.201}
+{'text': 'talking about another thing called', 'start': 482.8, 'duration': 3.2}
+{'text': "antibody defendant enhancement that's", 'start': 484.08, 'duration': 3.76}
+{'text': 'just never been shown to be the case', 'start': 486.0, 'duration': 3.52}
+{'text': 'with any of these vaccines this is not a', 'start': 487.84, 'duration': 4.479}
+{'text': 'thing um not not with this yet but no', 'start': 489.52, 'duration': 4.0}
+{'text': 'people are not trolling people are', 'start': 492.319, 'duration': 3.041}
+{'text': 'actually internet services', 'start': 493.52, 'duration': 5.2}
+{'text': "there's so many of them too", 'start': 495.36, 'duration': 3.36}

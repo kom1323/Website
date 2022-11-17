@@ -1,0 +1,756 @@
+{'text': 'wow you start out with a masterpiece how', 'start': 0.0, 'duration': 4.44}
+{'text': 'would you summarize it trust speaks for', 'start': 2.28, 'duration': 2.94}
+{'text': 'itself', 'start': 4.44, 'duration': 2.339}
+{'text': 'is it something special doing this', 'start': 5.22, 'duration': 4.379}
+{'text': 'against magnusons', 'start': 6.779, 'duration': 5.28}
+{'text': 'yeah there we have it handshake', 'start': 9.599, 'duration': 5.941}
+{'text': "there we have it wow I've withdrawn from", 'start': 12.059, 'duration': 4.501}
+{'text': "the tournament I've always enjoyed", 'start': 15.54, 'duration': 2.579}
+{'text': 'playing the St Louis chess club and hope', 'start': 16.56, 'duration': 3.42}
+{'text': 'to be back in the future I prefer really', 'start': 18.119, 'duration': 3.181}
+{'text': 'not to um', 'start': 19.98, 'duration': 4.44}
+{'text': 'not to speak if I speak I am in big', 'start': 21.3, 'duration': 4.02}
+{'text': 'trouble', 'start': 24.42, 'duration': 3.0}
+{'text': "in big trouble and I don't want to be in", 'start': 25.32, 'duration': 3.18}
+{'text': 'big trouble and what', 'start': 27.42, 'duration': 4.4}
+{'text': '[Music]', 'start': 28.5, 'duration': 3.32}
+{'text': 'no', 'start': 32.82, 'duration': 3.98}
+{'text': 'oh', 'start': 34.079, 'duration': 2.721}
+{'text': 'what happened', 'start': 39.36, 'duration': 4.1}
+{'text': "that's it", 'start': 41.1, 'duration': 4.74}
+{'text': "we're gonna try and get an update on", 'start': 43.46, 'duration': 4.599}
+{'text': 'this', 'start': 45.84, 'duration': 6.78}
+{'text': 'Magnus Carlsen just resigned got up and', 'start': 48.059, 'duration': 7.32}
+{'text': 'left switched off his camera', 'start': 52.62, 'duration': 6.419}
+{'text': "and that's all we know right now", 'start': 55.379, 'duration': 5.581}
+{'text': 'wow it must be embarrassing for the', 'start': 59.039, 'duration': 3.36}
+{'text': 'world champion to lose to me there was', 'start': 60.96, 'duration': 2.88}
+{'text': 'even a campsite that offered him a', 'start': 62.399, 'duration': 3.781}
+{'text': 'million dollars to play chess naked to', 'start': 63.84, 'duration': 3.84}
+{'text': "prove it and cheat I'm actually very", 'start': 66.18, 'duration': 3.0}
+{'text': 'very worried about the future of Chess', 'start': 67.68, 'duration': 3.54}
+{'text': 'going forward', 'start': 69.18, 'duration': 5.64}
+{'text': 'I know but finally another Manifesto he', 'start': 71.22, 'duration': 5.219}
+{'text': "actually did it I don't think he would", 'start': 74.82, 'duration': 4.44}
+{'text': 'deer chest world of the 2022 singfield', 'start': 76.439, 'duration': 4.5}
+{'text': 'cup I made the unprecedented', 'start': 79.26, 'duration': 2.999}
+{'text': 'professional decision to withdraw from', 'start': 80.939, 'duration': 2.941}
+{'text': 'the tournament after my round three game', 'start': 82.259, 'duration': 3.72}
+{'text': 'against Hans and Neiman a week later', 'start': 83.88, 'duration': 3.72}
+{'text': 'during the Champions chess tour I', 'start': 85.979, 'duration': 2.881}
+{'text': 'resigned against Hans Neiman after', 'start': 87.6, 'duration': 3.12}
+{'text': 'playing only one move', 'start': 88.86, 'duration': 3.119}
+{'text': 'I know that my actions are frustrated', 'start': 90.72, 'duration': 2.219}
+{'text': "making the chess Community I'm", 'start': 91.979, 'duration': 2.46}
+{'text': 'frustrated I want to play chess I want', 'start': 92.939, 'duration': 2.581}
+{'text': 'to continue to play chess to the highest', 'start': 94.439, 'duration': 4.161}
+{'text': 'level the best events', 'start': 95.52, 'duration': 3.08}
+{'text': 'I believe that cheating in chess is a', 'start': 98.82, 'duration': 3.54}
+{'text': 'big deal and an existential threat to', 'start': 100.86, 'duration': 2.579}
+{'text': 'the game I also believe that chest', 'start': 102.36, 'duration': 2.759}
+{'text': 'organizes in all those who care about', 'start': 103.439, 'duration': 3.121}
+{'text': 'the sanctity of the game we love should', 'start': 105.119, 'duration': 2.521}
+{'text': 'seriously consider increasing security', 'start': 106.56, 'duration': 2.46}
+{'text': 'measures and methods of cheat detection', 'start': 107.64, 'duration': 3.42}
+{'text': 'for over the board chess when Neiman was', 'start': 109.02, 'duration': 3.779}
+{'text': 'invited last minute to the 2022', 'start': 111.06, 'duration': 3.18}
+{'text': 'singfield cup I strongly considered', 'start': 112.799, 'duration': 2.46}
+{'text': 'withdrawn part of the event I ultimately', 'start': 114.24, 'duration': 3.96}
+{'text': 'chose to play oh my god he has the anal', 'start': 115.259, 'duration': 6.301}
+{'text': 'beads the vibrating beads of Chess I', 'start': 118.2, 'duration': 4.62}
+{'text': 'believe that Neiman has cheated more and', 'start': 121.56, 'duration': 2.4}
+{'text': "more recently than he's publicly", 'start': 122.82, 'duration': 2.82}
+{'text': 'admitted his over-the-board progress has', 'start': 123.96, 'duration': 2.82}
+{'text': 'been unusual and throughout a game of', 'start': 125.64, 'duration': 2.28}
+{'text': 'the singfield cup I had the impression', 'start': 126.78, 'duration': 2.88}
+{'text': "that he wasn't tense or even fully", 'start': 127.92, 'duration': 2.94}
+{'text': 'concentrating on the game in critical', 'start': 129.66, 'duration': 2.7}
+{'text': 'positions while outplaying me as black', 'start': 130.86, 'duration': 2.94}
+{'text': 'in a way I think only handful players', 'start': 132.36, 'duration': 3.42}
+{'text': 'can do this game contributed to changing', 'start': 133.8, 'duration': 3.48}
+{'text': 'my perspective we must do something', 'start': 135.78, 'duration': 2.64}
+{'text': 'about cheating and for my part going', 'start': 137.28, 'duration': 2.039}
+{'text': "forward I don't want to play against", 'start': 138.42, 'duration': 2.34}
+{'text': 'people that have cheated repeatedly in', 'start': 139.319, 'duration': 2.401}
+{'text': "the past because I don't know what", 'start': 140.76, 'duration': 1.979}
+{'text': "they're capable of doing in the future", 'start': 141.72, 'duration': 2.46}
+{'text': "there's more I would like to say", 'start': 142.739, 'duration': 2.58}
+{'text': "unfortunately this time I'm limited what", 'start': 144.18, 'duration': 2.34}
+{'text': 'I can say about explicit permission from', 'start': 145.319, 'duration': 3.78}
+{'text': "Nema to speak openly what so far I've", 'start': 146.52, 'duration': 4.02}
+{'text': 'only been able to speak with my actions', 'start': 149.099, 'duration': 2.521}
+{'text': 'and those actions say to clear I might', 'start': 150.54, 'duration': 2.4}
+{'text': 'only play chess with Neiman I hope that', 'start': 151.62, 'duration': 2.16}
+{'text': 'the truth of the matter comes out', 'start': 152.94, 'duration': 1.98}
+{'text': 'whatever it may be', 'start': 153.78, 'duration': 2.64}
+{'text': "I read this in a comment but I don't", 'start': 154.92, 'duration': 2.34}
+{'text': "know if it's true because I just don't", 'start': 156.42, 'duration': 2.34}
+{'text': 'have the chest depth of knowledge to', 'start': 157.26, 'duration': 4.259}
+{'text': "know but um I've heard people say that", 'start': 158.76, 'duration': 4.86}
+{'text': 'one of the reasons why Hans is suspected', 'start': 161.519, 'duration': 3.901}
+{'text': "of cheating is because when he's brought", 'start': 163.62, 'duration': 4.56}
+{'text': 'on afterwards to explain like rationales', 'start': 165.42, 'duration': 4.92}
+{'text': 'behind moves and stuff that like', 'start': 168.18, 'duration': 4.02}
+{'text': "sometimes the explanations don't seem", 'start': 170.34, 'duration': 3.119}
+{'text': "like they're coming from a sophisticated", 'start': 172.2, 'duration': 3.179}
+{'text': 'Grand Master Level player', 'start': 173.459, 'duration': 3.78}
+{'text': "uh and that's why some people suspect", 'start': 175.379, 'duration': 4.08}
+{'text': "that he's cheating but I don't know if", 'start': 177.239, 'duration': 3.421}
+{'text': "that's true or not because I don't have", 'start': 179.459, 'duration': 3.541}
+{'text': "the I I don't play chess episode I don't", 'start': 180.66, 'duration': 3.78}
+{'text': 'have the familiarity enough with the', 'start': 183.0, 'duration': 3.239}
+{'text': "game to know if that's true or not", 'start': 184.44, 'duration': 5.28}
+{'text': 'a win against world number one Magnus', 'start': 186.239, 'duration': 5.461}
+{'text': "Crossing and now I'm curious to hear", 'start': 189.72, 'duration': 5.78}
+{'text': 'some reactions from Hans in Miami', 'start': 191.7, 'duration': 3.8}
+{'text': 'yesterday was a terrible day for you and', 'start': 195.9, 'duration': 5.28}
+{'text': 'today you start out with a masterpiece', 'start': 199.5, 'duration': 3.239}
+{'text': 'how would you summarize it', 'start': 201.18, 'duration': 4.46}
+{'text': 'just speaks for itself', 'start': 202.739, 'duration': 4.92}
+{'text': 'what the [\xa0__\xa0]', 'start': 205.64, 'duration': 5.34}
+{'text': 'where is the sigma', 'start': 207.659, 'duration': 3.321}
+{'text': "he's gotta go take the plug out it's", 'start': 211.44, 'duration': 4.079}
+{'text': "getting dry I'm just kidding", 'start': 213.36, 'duration': 3.659}
+{'text': "I'm just kidding I'm just kidding I", 'start': 215.519, 'duration': 2.761}
+{'text': "don't know if he cheated or I don't know", 'start': 217.019, 'duration': 3.181}
+{'text': "hold on to be clear I'm agnostic towards", 'start': 218.28, 'duration': 4.26}
+{'text': 'him cheating I truly have no idea I', 'start': 220.2, 'duration': 4.08}
+{'text': "truly don't know", 'start': 222.54, 'duration': 3.54}
+{'text': "it's been I don't know enough about", 'start': 224.28, 'duration': 3.42}
+{'text': 'Chester have a strong opinion on it', 'start': 226.08, 'duration': 3.48}
+{'text': 'there is more that I would like to say', 'start': 227.7, 'duration': 4.5}
+{'text': 'unfortunately at this time I am Limited', 'start': 229.56, 'duration': 4.62}
+{'text': 'in what I can say without explicit', 'start': 232.2, 'duration': 3.78}
+{'text': 'permission from Neiman to speak openly', 'start': 234.18, 'duration': 4.02}
+{'text': 'so far I have only been able to speak', 'start': 235.98, 'duration': 4.2}
+{'text': 'with my actions and those actions have', 'start': 238.2, 'duration': 4.08}
+{'text': 'stated clearly that I am not willing to', 'start': 240.18, 'duration': 4.199}
+{'text': 'play chess with Neiman I hope the truth', 'start': 242.28, 'duration': 4.8}
+{'text': 'on this matter comes out whatever it may', 'start': 244.379, 'duration': 6.36}
+{'text': 'be sincerely Magnus Carlson World chess', 'start': 247.08, 'duration': 5.4}
+{'text': 'champion', 'start': 250.739, 'duration': 6.24}
+{'text': 'okay wow wowzers wowzers there is okay I', 'start': 252.48, 'duration': 5.58}
+{'text': "don't want to attack him at all but I", 'start': 256.979, 'duration': 3.0}
+{'text': "feel like didn't he make statements", 'start': 258.06, 'duration': 2.88}
+{'text': 'about', 'start': 259.979, 'duration': 2.581}
+{'text': 'um he made statements about this I think', 'start': 260.94, 'duration': 3.3}
+{'text': 'he kind of sort of said that Hans was', 'start': 262.56, 'duration': 2.639}
+{'text': 'probably cheating and then he got really', 'start': 264.24, 'duration': 2.28}
+{'text': 'mad when people got mad at him for', 'start': 265.199, 'duration': 2.701}
+{'text': "saying that that's what I remember for", 'start': 266.52, 'duration': 5.119}
+{'text': 'this I could be wrong in that', 'start': 267.9, 'duration': 3.739}
+{'text': 'the magnets really claim you Hans wore', 'start': 272.1, 'duration': 3.36}
+{'text': 'anal bead now the problem is people are', 'start': 273.84, 'duration': 2.28}
+{'text': 'just trying to think of like', 'start': 275.46, 'duration': 2.16}
+{'text': 'sophisticated ways of how people could', 'start': 276.12, 'duration': 3.42}
+{'text': 'cheat in these games', 'start': 277.62, 'duration': 4.799}
+{'text': 'um like like I heard a story of one guy', 'start': 279.54, 'duration': 5.04}
+{'text': 'um I heard a story of one guy literally', 'start': 282.419, 'duration': 4.381}
+{'text': 'saying that', 'start': 284.58, 'duration': 4.5}
+{'text': 'um Somebody went to an arena where they', 'start': 286.8, 'duration': 5.16}
+{'text': 'were playing chess the day before and he', 'start': 289.08, 'duration': 4.559}
+{'text': 'taped like a phone underneath the toilet', 'start': 291.96, 'duration': 3.0}
+{'text': 'and he went to the bathroom and got the', 'start': 293.639, 'duration': 2.641}
+{'text': "phone and that's how he was able like", 'start': 294.96, 'duration': 2.76}
+{'text': 'one guy cheated that way not Hans but', 'start': 296.28, 'duration': 2.82}
+{'text': 'somebody different so like there could', 'start': 297.72, 'duration': 3.72}
+{'text': "be like crazy ways that yeah I don't", 'start': 299.1, 'duration': 4.319}
+{'text': 'know but hold on one second oh another', 'start': 301.44, 'duration': 3.84}
+{'text': 'tweet what is this', 'start': 303.419, 'duration': 3.84}
+{'text': 'um we have a tweet from oh yeah this was', 'start': 305.28, 'duration': 3.78}
+{'text': "reply yesterday I didn't cover this on", 'start': 307.259, 'duration': 4.741}
+{'text': 'stream this is a tweet reply from xqc', 'start': 309.06, 'duration': 5.04}
+{'text': 'after Magnus put it out this xqc is', 'start': 312.0, 'duration': 4.199}
+{'text': 'saying um I see saying he cheated', 'start': 314.1, 'duration': 3.84}
+{'text': 'believe me let me cause irreparable', 'start': 316.199, 'duration': 3.301}
+{'text': 'damage because I want to', 'start': 317.94, 'duration': 3.84}
+{'text': 'um and this this was from from uh from', 'start': 319.5, 'duration': 4.979}
+{'text': 'of course xqc like putting this out here', 'start': 321.78, 'duration': 5.639}
+{'text': "uh I really don't I I don't like this of", 'start': 324.479, 'duration': 5.101}
+{'text': 'course xqc is completely out of his mind', 'start': 327.419, 'duration': 3.901}
+{'text': "to to say this maybe now he'll want to", 'start': 329.58, 'duration': 3.3}
+{'text': 'jump on like a five hour call and we can', 'start': 331.32, 'duration': 3.42}
+{'text': 'yell at each other about it but', 'start': 332.88, 'duration': 2.94}
+{'text': "um at the end of the day he doesn't know", 'start': 334.74, 'duration': 2.88}
+{'text': "what he's talking about and this is just", 'start': 335.82, 'duration': 5.159}
+{'text': 'insane to um insane to to put put the', 'start': 337.62, 'duration': 4.32}
+{'text': "suite out there I mean I don't know", 'start': 340.979, 'duration': 2.461}
+{'text': "maybe he's trying to stir up drama and", 'start': 341.94, 'duration': 3.42}
+{'text': 'start something else but yeah he he', 'start': 343.44, 'duration': 3.72}
+{'text': 'literally is clueless on this topic and', 'start': 345.36, 'duration': 3.3}
+{'text': "I don't know why I felt the need to put", 'start': 347.16, 'duration': 3.539}
+{'text': "this out I mean it's just ridiculous to", 'start': 348.66, 'duration': 3.24}
+{'text': 'put this out', 'start': 350.699, 'duration': 3.301}
+{'text': "um so yeah I mean he's he's not right", 'start': 351.9, 'duration': 4.92}
+{'text': "though that's the problem he's not right", 'start': 354.0, 'duration': 5.46}
+{'text': 'um uh watch out xqc might have dirt on', 'start': 356.82, 'duration': 4.02}
+{'text': "you that he's held for a few years I", 'start': 359.46, 'duration': 2.34}
+{'text': 'mean that', 'start': 360.84, 'duration': 3.54}
+{'text': 'oh another tweet what is this', 'start': 361.8, 'duration': 4.739}
+{'text': "um we have a tweet I didn't even listen", 'start': 364.38, 'duration': 4.2}
+{'text': "to this I'm so sorry hold on", 'start': 366.539, 'duration': 4.141}
+{'text': 'wait so what was it was this guy mad or', 'start': 368.58, 'duration': 4.14}
+{'text': 'what eat frog oh yeah this was a reply', 'start': 370.68, 'duration': 3.6}
+{'text': "yesterday I didn't cover this on stream", 'start': 372.72, 'duration': 3.539}
+{'text': 'this little tweet reply from XTC after', 'start': 374.28, 'duration': 3.66}
+{'text': 'Magnus put it out just xcc saying um', 'start': 376.259, 'duration': 2.641}
+{'text': "actually he's saying he cheated believe", 'start': 377.94, 'duration': 1.92}
+{'text': 'me let me call it a rubble down because', 'start': 378.9, 'duration': 2.46}
+{'text': 'I want to um and this was from from uh', 'start': 379.86, 'duration': 2.82}
+{'text': 'from of course you see like putting this', 'start': 381.36, 'duration': 2.76}
+{'text': "out here uh I really don't I don't like", 'start': 382.68, 'duration': 2.639}
+{'text': 'this course excuse is completely out of', 'start': 384.12, 'duration': 2.28}
+{'text': 'his mind to say this maybe not want to', 'start': 385.319, 'duration': 2.401}
+{'text': 'jump on like a five hour call and we can', 'start': 386.4, 'duration': 3.359}
+{'text': 'yell at each other about it but um at', 'start': 387.72, 'duration': 3.12}
+{'text': "the end of the day he doesn't know what", 'start': 389.759, 'duration': 2.701}
+{'text': "he's talking about and this is just", 'start': 390.84, 'duration': 4.979}
+{'text': 'insane to um insane to to put put the', 'start': 392.46, 'duration': 4.079}
+{'text': "suite out there I mean I don't know", 'start': 395.819, 'duration': 1.741}
+{'text': "maybe he's trying to stir up drama and", 'start': 396.539, 'duration': 2.22}
+{'text': 'start something else but yeah he he', 'start': 397.56, 'duration': 2.52}
+{'text': 'literally is clueless on this topic I', 'start': 398.759, 'duration': 2.22}
+{'text': "don't know why he felt the need to put", 'start': 400.08, 'duration': 2.28}
+{'text': "this out I mean it's just ridiculous to", 'start': 400.979, 'duration': 3.421}
+{'text': "put this out um so yeah I mean he's not", 'start': 402.36, 'duration': 3.059}
+{'text': "right though that's the problem he's not", 'start': 404.4, 'duration': 2.639}
+{'text': 'right', 'start': 405.419, 'duration': 4.261}
+{'text': "um well isn't he though", 'start': 407.039, 'duration': 4.741}
+{'text': "Magnus didn't post any actual proof he's", 'start': 409.68, 'duration': 3.72}
+{'text': 'kind of just said trust me bro and then', 'start': 411.78, 'duration': 3.18}
+{'text': 'like admittedly it seems like a lot of', 'start': 413.4, 'duration': 4.079}
+{'text': 'the thing uh the stuff around Hans is a', 'start': 414.96, 'duration': 5.359}
+{'text': 'little shady but like', 'start': 417.479, 'duration': 2.84}
+{'text': "but there I don't think there's been any", 'start': 424.08, 'duration': 3.98}
+{'text': 'evidence', 'start': 425.699, 'duration': 2.361}
+{'text': "but at least I haven't seen him back", 'start': 432.0, 'duration': 2.819}
+{'text': 'anyways Magus was to his chess team', 'start': 433.5, 'duration': 3.0}
+{'text': 'before sync up until them hunts might be', 'start': 434.819, 'duration': 3.0}
+{'text': 'a cheater', 'start': 436.5, 'duration': 3.12}
+{'text': 'he asked them what the absolute worst', 'start': 437.819, 'duration': 3.181}
+{'text': 'possible to handle would be they told', 'start': 439.62, 'duration': 3.299}
+{'text': 'him to lose to Hans then withdraw the', 'start': 441.0, 'duration': 5.22}
+{'text': 'next time you play Hans play one move', 'start': 442.919, 'duration': 5.4}
+{'text': "dude this guy's a [\xa0__\xa0] [\xa0__\xa0] I love", 'start': 446.22, 'duration': 2.879}
+{'text': 'him', 'start': 448.319, 'duration': 2.82}
+{'text': 'more has come out he could have reviewed', 'start': 449.099, 'duration': 5.481}
+{'text': 'on stream do you have a link to it', 'start': 451.139, 'duration': 3.441}
+{'text': 'like actual evidence or more sketchy', 'start': 456.479, 'duration': 4.16}
+{'text': 'stuff', 'start': 458.4, 'duration': 2.239}
+{'text': 'our ptosis follows up on trash drama', 'start': 461.759, 'duration': 6.301}
+{'text': 'this is such a [\xa0__\xa0] bad take anyone', 'start': 465.479, 'duration': 4.62}
+{'text': "who says that he's salty just angry he", 'start': 468.06, 'duration': 4.38}
+{'text': 'lost you guys are morons that have never', 'start': 470.099, 'duration': 4.641}
+{'text': 'competed at anything', 'start': 472.44, 'duration': 5.64}
+{'text': 'morons anyone who types out is a [\xa0__\xa0]', 'start': 474.74, 'duration': 5.679}
+{'text': '[\xa0__\xa0] included like seriously including', 'start': 478.08, 'duration': 4.08}
+{'text': 'all the chess pros and [\xa0__\xa0] anyone who', 'start': 480.419, 'duration': 4.381}
+{'text': "that's their take the amount of years", 'start': 482.16, 'duration': 4.56}
+{'text': 'that he has [\xa0__\xa0] played', 'start': 484.8, 'duration': 3.299}
+{'text': 'professionally and never done anything', 'start': 486.72, 'duration': 3.96}
+{'text': "like that it's [\xa0__\xa0] crazy anyone", 'start': 488.099, 'duration': 4.981}
+{'text': "who's like he's just angry he lost you", 'start': 490.68, 'duration': 4.5}
+{'text': 'guys all need to go on a ship in the', 'start': 493.08, 'duration': 3.959}
+{'text': 'Caribbean and we need to [\xa0__\xa0] never', 'start': 495.18, 'duration': 4.139}
+{'text': 'let it dock again or wherever the ocean', 'start': 497.039, 'duration': 4.321}
+{'text': 'somewhere', 'start': 499.319, 'duration': 3.72}
+{'text': 'cruise ships go in the Caribbean right', 'start': 501.36, 'duration': 3.119}
+{'text': "so we'll get a big cruise ship we'll put", 'start': 503.039, 'duration': 2.761}
+{'text': 'you all on it', 'start': 504.479, 'duration': 3.9}
+{'text': "you're gonna stay out there no country", 'start': 505.8, 'duration': 4.739}
+{'text': 'is going to accept you we take your', 'start': 508.379, 'duration': 3.72}
+{'text': '[\xa0__\xa0] passports away and you just live', 'start': 510.539, 'duration': 4.68}
+{'text': 'on this ship forever okay', 'start': 512.099, 'duration': 6.18}
+{'text': 'he has 23 games 23 above 90 games in a', 'start': 515.219, 'duration': 4.38}
+{'text': 'row for comparison Bobby Fischer has', 'start': 518.279, 'duration': 2.94}
+{'text': 'like two games around 90 he has a game', 'start': 519.599, 'duration': 3.24}
+{'text': 'where he played perfect 100 moves in a', 'start': 521.219, 'duration': 3.06}
+{'text': 'row the greatest hits of all time could', 'start': 522.839, 'duration': 3.661}
+{'text': 'barely hit 10 perfect moves in a row I', 'start': 524.279, 'duration': 3.661}
+{'text': "just like here's like the thing that I", 'start': 526.5, 'duration': 4.08}
+{'text': "don't know about anything", 'start': 527.94, 'duration': 5.7}
+{'text': "I just don't know like when you say", 'start': 530.58, 'duration': 4.86}
+{'text': 'things like that like maybe some', 'start': 533.64, 'duration': 3.42}
+{'text': 'strategies have changed or maybe the', 'start': 535.44, 'duration': 3.36}
+{'text': 'game has changed such that perfect moves', 'start': 537.06, 'duration': 3.42}
+{'text': 'might be easier and some forms of Play', 'start': 538.8, 'duration': 4.2}
+{'text': 'Now versus other play like who knows', 'start': 540.48, 'duration': 4.919}
+{'text': "like it's just hard to say like that's", 'start': 543.0, 'duration': 3.839}
+{'text': "why I try I'm trying to be careful about", 'start': 545.399, 'duration': 2.701}
+{'text': 'like oh well he played this many games', 'start': 546.839, 'duration': 3.301}
+{'text': "that's perfect I don't know what that I", 'start': 548.1, 'duration': 4.14}
+{'text': "don't know if that is actually like good", 'start': 550.14, 'duration': 5.72}
+{'text': "I don't know that's good evidence or not", 'start': 552.24, 'duration': 3.62}
+{'text': 'oh my God', 'start': 555.98, 'duration': 3.539}
+{'text': 'oh Lord Oh Lord grab the girl hand oh', 'start': 563.88, 'duration': 4.76}
+{'text': 'Lord', 'start': 566.519, 'duration': 5.161}
+{'text': 'what the [\xa0__\xa0]', 'start': 568.64, 'duration': 6.48}
+{'text': 'what am I watching', 'start': 571.68, 'duration': 3.44}
+{'text': 'oh my God', 'start': 576.56, 'duration': 4.08}
+{'text': 'oh Lord Oh Lord Oh Lord grab the girl', 'start': 584.399, 'duration': 5.601}
+{'text': 'hand oh Lord', 'start': 587.22, 'duration': 2.78}
+{'text': "I don't okay all right let's watch our", 'start': 596.7, 'duration': 5.4}
+{'text': 'good friend Benny boy', 'start': 599.94, 'duration': 4.86}
+{'text': 'okay John Lennon got to imagine you have', 'start': 602.1, 'duration': 3.9}
+{'text': 'to imagine', 'start': 604.8, 'duration': 5.7}
+{'text': 'okay John Lennon got to imagine imagine', 'start': 606.0, 'duration': 8.22}
+{'text': 'us beat Hans in the sink feel cop okay', 'start': 610.5, 'duration': 6.24}
+{'text': 'did you imagine that yet okay', 'start': 614.22, 'duration': 5.16}
+{'text': 'so Magnus wins round three', 'start': 616.74, 'duration': 4.5}
+{'text': 'do you think Magnus withdraws from the', 'start': 619.38, 'duration': 4.16}
+{'text': 'tournament', 'start': 621.24, 'duration': 2.3}
+{'text': 'no', 'start': 626.04, 'duration': 4.26}
+{'text': "there's a zero percent chance zero that", 'start': 627.12, 'duration': 5.159}
+{'text': 'Magnus wins that game withdraws from the', 'start': 630.3, 'duration': 3.9}
+{'text': 'tournament he withdrew from the', 'start': 632.279, 'duration': 5.041}
+{'text': 'tournament because he lost he knew about', 'start': 634.2, 'duration': 5.819}
+{'text': 'previous cheating that was always in his', 'start': 637.32, 'duration': 4.86}
+{'text': 'mind true hopefully made him play worse', 'start': 640.019, 'duration': 5.281}
+{'text': 'Hikaru said he played 43 engine moves', 'start': 642.18, 'duration': 6.0}
+{'text': "Hikaru then positive that's the worst", 'start': 645.3, 'duration': 4.26}
+{'text': "game he's played in the last two years", 'start': 648.18, 'duration': 3.3}
+{'text': 'oh', 'start': 649.56, 'duration': 3.779}
+{'text': "now he doesn't know that he was just", 'start': 651.48, 'duration': 5.099}
+{'text': "guessing Hikaru guessed that's the worst", 'start': 653.339, 'duration': 5.821}
+{'text': 'game Magnus has played in two years oh', 'start': 656.579, 'duration': 4.2}
+{'text': "it's not clear that that's the worst", 'start': 659.16, 'duration': 3.54}
+{'text': 'case played in two years Hans is', 'start': 660.779, 'duration': 5.221}
+{'text': 'actually playing Meta Meta Meta chess', 'start': 662.7, 'duration': 6.12}
+{'text': "he's on seven levels of metagain Hans is", 'start': 666.0, 'duration': 5.399}
+{'text': "like I did cheat six years ago let's", 'start': 668.82, 'duration': 3.84}
+{'text': 'play', 'start': 671.399, 'duration': 3.301}
+{'text': "hope you don't think I'm still cheating", 'start': 672.66, 'duration': 5.52}
+{'text': 'he [\xa0__\xa0] him he got his brain', 'start': 674.7, 'duration': 6.24}
+{'text': "magnus's brain is destroyed what if the", 'start': 678.18, 'duration': 4.2}
+{'text': 'real Scandal came out and Hans was like', 'start': 680.94, 'duration': 4.079}
+{'text': 'actually I never cheated those cheating', 'start': 682.38, 'duration': 4.74}
+{'text': 'accusations accusations of the past that', 'start': 685.019, 'duration': 3.901}
+{'text': 'was me fake cheating I wanted you to', 'start': 687.12, 'duration': 3.24}
+{'text': 'think I cheated in the past that I could', 'start': 688.92, 'duration': 4.859}
+{'text': 'get in your [\xa0__\xa0] head holy [\xa0__\xa0]', 'start': 690.36, 'duration': 7.4}
+{'text': "he's on seven levels of metagame", 'start': 693.779, 'duration': 3.981}
+{'text': "that's just what Hikaru guessed because", 'start': 700.56, 'duration': 5.3}
+{'text': '43 percent usually Magnus is you know', 'start': 702.839, 'duration': 5.041}
+{'text': 'Magnus wins all his games you know who', 'start': 705.86, 'duration': 4.419}
+{'text': 'Magnus is okay but um Hans had multiple', 'start': 707.88, 'duration': 3.959}
+{'text': '100 engine correlation apparently that', 'start': 710.279, 'duration': 3.12}
+{'text': 'was not true apparently the person that', 'start': 711.839, 'duration': 3.06}
+{'text': 'did that video came out and said that', 'start': 713.399, 'duration': 2.461}
+{'text': "they [\xa0__\xa0] it up and that's not", 'start': 714.899, 'duration': 2.461}
+{'text': "actually true so but I don't know if", 'start': 715.86, 'duration': 2.88}
+{'text': "that's true I'm just repeating what's", 'start': 717.36, 'duration': 3.9}
+{'text': "been repeated we're on folsomalacrum", 'start': 718.74, 'duration': 5.0}
+{'text': 'right now okay', 'start': 721.26, 'duration': 2.48}
+{'text': 'might be cheat', 'start': 728.1, 'duration': 4.08}
+{'text': "okay and I don't want to play in this", 'start': 730.14, 'duration': 3.66}
+{'text': "tournament but I've already agreed to", 'start': 732.18, 'duration': 2.94}
+{'text': 'play in the tournament they invited him', 'start': 733.8, 'duration': 3.3}
+{'text': "at the last minute now some of you don't", 'start': 735.12, 'duration': 3.48}
+{'text': "know this because most of you don't know", 'start': 737.1, 'duration': 4.32}
+{'text': "anything it's not really your fault you", 'start': 738.6, 'duration': 5.04}
+{'text': 'were born not knowing anything you were', 'start': 741.42, 'duration': 5.64}
+{'text': 'crying you were going everywhere you you', 'start': 743.64, 'duration': 6.54}
+{'text': 'know sleeping a lot crying okay trying', 'start': 747.06, 'duration': 4.74}
+{'text': "to get trying to get teeth that's how", 'start': 750.18, 'duration': 3.24}
+{'text': "you were born okay you didn't know", 'start': 751.8, 'duration': 2.46}
+{'text': 'nothing', 'start': 753.42, 'duration': 3.72}
+{'text': "and so what you don't know about half of", 'start': 754.26, 'duration': 4.8}
+{'text': 'you know Hans was a last minute', 'start': 757.14, 'duration': 3.3}
+{'text': 'replacement', 'start': 759.06, 'duration': 4.019}
+{'text': 'Richard Rapport was supposed to play but', 'start': 760.44, 'duration': 3.899}
+{'text': "he couldn't get in the country for", 'start': 763.079, 'duration': 2.641}
+{'text': "coveted reasons I don't know what those", 'start': 764.339, 'duration': 3.0}
+{'text': "reasons are I don't know", 'start': 765.72, 'duration': 4.28}
+{'text': 'if that I could be making all of that up', 'start': 767.339, 'duration': 5.401}
+{'text': "reports that I'm not playing and they", 'start': 770.0, 'duration': 4.899}
+{'text': 'needed a replacement and the organizers', 'start': 772.74, 'duration': 4.92}
+{'text': 'got Hans like six days before the', 'start': 774.899, 'duration': 3.841}
+{'text': 'tournament', 'start': 777.66, 'duration': 3.54}
+{'text': 'so like all of the sudden Hans is', 'start': 778.74, 'duration': 3.599}
+{'text': 'playing in the same field cup', 'start': 781.2, 'duration': 3.84}
+{'text': 'unbeknownst to the other players and', 'start': 782.339, 'duration': 4.44}
+{'text': "they're getting worried because they", 'start': 785.04, 'duration': 3.84}
+{'text': 'heard the rumors about Hans and', 'start': 786.779, 'duration': 5.161}
+{'text': 'everybody has everybody heard years ago', 'start': 788.88, 'duration': 4.5}
+{'text': 'Hans may have cheated on the internet', 'start': 791.94, 'duration': 4.26}
+{'text': 'maybe Hans was kicked off chess.com once', 'start': 793.38, 'duration': 4.86}
+{'text': "or twice okay that's was public", 'start': 796.2, 'duration': 5.16}
+{'text': 'knowledge maybe Hans even acknowledged', 'start': 798.24, 'duration': 5.46}
+{'text': 'he had cheated in the past maybe people', 'start': 801.36, 'duration': 3.9}
+{'text': 'were worried he was cheating now because', 'start': 803.7, 'duration': 3.42}
+{'text': "he was doing so well he's playing in", 'start': 805.26, 'duration': 4.079}
+{'text': "slow tournaments and he's kicking ass", 'start': 807.12, 'duration': 4.62}
+{'text': "so if you're like this guy cheated in", 'start': 809.339, 'duration': 5.101}
+{'text': "the past he acknowledged he did now he's", 'start': 811.74, 'duration': 5.099}
+{'text': 'kicking ass hmm', 'start': 814.44, 'duration': 5.1}
+{'text': 'so now the top players are all scared', 'start': 816.839, 'duration': 4.201}
+{'text': "they're like is this guy going to cheat", 'start': 819.54, 'duration': 3.239}
+{'text': "in the tournament but they don't have", 'start': 821.04, 'duration': 4.14}
+{'text': 'weeks to decide what to do they got like', 'start': 822.779, 'duration': 3.541}
+{'text': 'five days', 'start': 825.18, 'duration': 4.98}
+{'text': "Magnus claims claims he almost didn't", 'start': 826.32, 'duration': 5.34}
+{'text': 'play in the singfield cup because he', 'start': 830.16, 'duration': 2.94}
+{'text': "didn't want to play in sermon with Hans", 'start': 831.66, 'duration': 4.08}
+{'text': "now let's go back two weeks if you don't", 'start': 833.1, 'duration': 5.1}
+{'text': "mind if you mind I'll I'll wait", 'start': 835.74, 'duration': 5.219}
+{'text': "okay let's go back two weeks hey first", 'start': 838.2, 'duration': 4.319}
+{'text': "of all the Train's dying Let's go people", 'start': 840.959, 'duration': 3.361}
+{'text': 'okay', 'start': 842.519, 'duration': 4.201}
+{'text': 'two weeks before this there was a', 'start': 844.32, 'duration': 4.92}
+{'text': 'tournament in Miami that was in person', 'start': 846.72, 'duration': 5.179}
+{'text': 'on the internet', 'start': 849.24, 'duration': 2.659}
+{'text': 'which means the players were physically', 'start': 852.6, 'duration': 4.26}
+{'text': 'there and they were playing on a', 'start': 854.7, 'duration': 4.259}
+{'text': 'computer while physically next to each', 'start': 856.86, 'duration': 4.44}
+{'text': 'other well across from each other', 'start': 858.959, 'duration': 5.281}
+{'text': 'okay and this tournament none other than', 'start': 861.3, 'duration': 5.039}
+{'text': 'Hans Neiman played it was match format', 'start': 864.24, 'duration': 4.14}
+{'text': 'four game matches', 'start': 866.339, 'duration': 4.021}
+{'text': 'and on the four and the players were all', 'start': 868.38, 'duration': 4.92}
+{'text': 'really good the players are like Magnus', 'start': 870.36, 'duration': 6.719}
+{'text': 'and Fisher and steinits and capablanca', 'start': 873.3, 'duration': 5.64}
+{'text': 'and morphe and those were the weak', 'start': 877.079, 'duration': 3.361}
+{'text': "players I didn't get to the good players", 'start': 878.94, 'duration': 5.22}
+{'text': 'yet okay in this tournament in the four', 'start': 880.44, 'duration': 6.36}
+{'text': 'game matches Hans lost every single', 'start': 884.16, 'duration': 3.84}
+{'text': 'match', 'start': 886.8, 'duration': 3.24}
+{'text': 'he did he had a horrible day and it was', 'start': 888.0, 'duration': 5.519}
+{'text': 'like nine matches and out of nine he got', 'start': 890.04, 'duration': 4.5}
+{'text': 'zero', 'start': 893.519, 'duration': 3.0}
+{'text': "now he didn't get zero in all of his", 'start': 894.54, 'duration': 4.38}
+{'text': 'games some of the matches he lost two', 'start': 896.519, 'duration': 4.44}
+{'text': 'and a half one and a half some of the', 'start': 898.92, 'duration': 4.14}
+{'text': 'matches he lost three to one', 'start': 900.959, 'duration': 4.32}
+{'text': 'the point was he lost all nine of his', 'start': 903.06, 'duration': 3.839}
+{'text': 'matches', 'start': 905.279, 'duration': 4.5}
+{'text': "so we're talking about a tournament", 'start': 906.899, 'duration': 4.68}
+{'text': 'where', 'start': 909.779, 'duration': 4.021}
+{'text': "Hans obviously isn't cheating or he's", 'start': 911.579, 'duration': 4.44}
+{'text': 'doing a really bad job of it', 'start': 913.8, 'duration': 5.039}
+{'text': 'and Magnus is there Magnus lost the', 'start': 916.019, 'duration': 4.26}
+{'text': 'first game to Hans and beat him the rest', 'start': 918.839, 'duration': 3.601}
+{'text': "of the games they're playing on the", 'start': 920.279, 'duration': 4.321}
+{'text': 'beach for a photo op you guys have seen', 'start': 922.44, 'duration': 4.44}
+{'text': 'that photo or video of Hans playing', 'start': 924.6, 'duration': 4.7}
+{'text': 'Magnus on the beach so in Miami', 'start': 926.88, 'duration': 4.56}
+{'text': "everything's fine", 'start': 929.3, 'duration': 4.42}
+{'text': 'Hans is playing in a super GM tournament', 'start': 931.44, 'duration': 5.04}
+{'text': "it's rapid it's online it's in person", 'start': 933.72, 'duration': 5.76}
+{'text': 'Hans loses all of his matches and', 'start': 936.48, 'duration': 5.039}
+{'text': 'everybody goes to the seashore', 'start': 939.48, 'duration': 4.2}
+{'text': 'which is funny because they they went to', 'start': 941.519, 'duration': 4.32}
+{'text': 'the seashore I mean literally and', 'start': 943.68, 'duration': 3.48}
+{'text': 'figuratively they went to the seashore', 'start': 945.839, 'duration': 5.221}
+{'text': 'okay so two weeks before the sinkfield', 'start': 947.16, 'duration': 6.14}
+{'text': "cup everybody's playing with Hans", 'start': 951.06, 'duration': 5.339}
+{'text': "everybody's having a good time doordash", 'start': 953.3, 'duration': 5.32}
+{'text': 'and ubereats are fighting over who gets', 'start': 956.399, 'duration': 4.38}
+{'text': "hans's you know food money it's a big", 'start': 958.62, 'duration': 5.399}
+{'text': "fight and nobody's complaining nobody's", 'start': 960.779, 'duration': 5.821}
+{'text': "like yeah I almost didn't play in Miami", 'start': 964.019, 'duration': 5.221}
+{'text': 'because Hans is a cheater', 'start': 966.6, 'duration': 5.039}
+{'text': 'nobody said nothing nobody thought', 'start': 969.24, 'duration': 4.38}
+{'text': 'anything and Hans lost all of his', 'start': 971.639, 'duration': 4.021}
+{'text': "matches and the super GM's all", 'start': 973.62, 'duration': 4.38}
+{'text': "high-fived each other we're super GM's", 'start': 975.66, 'duration': 4.679}
+{'text': "and you're and you're not you're 2680", 'start': 978.0, 'duration': 5.699}
+{'text': "and we're 27 80 and 28.80 and you played", 'start': 980.339, 'duration': 5.221}
+{'text': 'in our tournament and we took you to', 'start': 983.699, 'duration': 4.14}
+{'text': 'school and we took you out back and you', 'start': 985.56, 'duration': 4.92}
+{'text': 'went home to your ubereats and you cried', 'start': 987.839, 'duration': 4.44}
+{'text': 'in your food and you spent a thousand', 'start': 990.48, 'duration': 4.32}
+{'text': "dollars a week that's what they said I", 'start': 992.279, 'duration': 4.201}
+{'text': "can't believe they said that I don't", 'start': 994.8, 'duration': 3.539}
+{'text': 'know why they would say that what would', 'start': 996.48, 'duration': 3.9}
+{'text': 'they have to gain okay', 'start': 998.339, 'duration': 4.86}
+{'text': 'so for some reason', 'start': 1000.38, 'duration': 5.28}
+{'text': 'two weeks before the the sink feel cup', 'start': 1003.199, 'duration': 5.281}
+{'text': 'Hans is playing all the super GMS and', 'start': 1005.66, 'duration': 5.28}
+{'text': 'nobody says anything and Hans loses all', 'start': 1008.48, 'duration': 6.779}
+{'text': 'of his matches now all of a sudden', 'start': 1010.94, 'duration': 7.5}
+{'text': 'in the interim in the 10 days between', 'start': 1015.259, 'duration': 5.461}
+{'text': 'the Miami tournament and the sinkfield', 'start': 1018.44, 'duration': 4.079}
+{'text': 'cup', 'start': 1020.72, 'duration': 4.859}
+{'text': 'nepo wants extra security of Hans plays', 'start': 1022.519, 'duration': 6.981}
+{'text': 'and Magnus is thinking of not playing', 'start': 1025.579, 'duration': 3.921}
+{'text': 'now what happened something must have', 'start': 1029.959, 'duration': 5.161}
+{'text': 'happened between Miami and the sinkfield', 'start': 1032.12, 'duration': 6.48}
+{'text': 'cup because in Miami nobody said [\xa0__\xa0]', 'start': 1035.12, 'duration': 6.179}
+{'text': 'they just beat Hans like a drum and then', 'start': 1038.6, 'duration': 5.4}
+{'text': 'they went on their merry way', 'start': 1041.299, 'duration': 4.14}
+{'text': "and now all of a sudden they're all", 'start': 1044.0, 'duration': 2.76}
+{'text': 'worried Hans is going to cheat in the', 'start': 1045.439, 'duration': 3.48}
+{'text': "singfield cup but he won't cheat in a", 'start': 1046.76, 'duration': 4.5}
+{'text': 'rapid tournament', 'start': 1048.919, 'duration': 4.14}
+{'text': 'why would you cheat in the sink field', 'start': 1051.26, 'duration': 4.799}
+{'text': 'cup and not the rapid tournament', 'start': 1053.059, 'duration': 7.021}
+{'text': "okay now I'll give you my actual opinion", 'start': 1056.059, 'duration': 6.841}
+{'text': 'my actual opinion is you know Hans is', 'start': 1060.08, 'duration': 6.18}
+{'text': "cheated he's cheated online if I had to", 'start': 1062.9, 'duration': 5.94}
+{'text': "bet money I don't have to bet money in", 'start': 1066.26, 'duration': 4.26}
+{'text': "fact Karen wouldn't let me", 'start': 1068.84, 'duration': 3.54}
+{'text': 'okay if I had to bet money Karen would', 'start': 1070.52, 'duration': 3.539}
+{'text': "take that money and I wouldn't have any", 'start': 1072.38, 'duration': 2.64}
+{'text': 'money', 'start': 1074.059, 'duration': 3.36}
+{'text': "sort of the way it is now okay but I'm", 'start': 1075.02, 'duration': 4.5}
+{'text': 'not on trial here if I had to bet money', 'start': 1077.419, 'duration': 4.801}
+{'text': 'and you said in the last three years has', 'start': 1079.52, 'duration': 5.1}
+{'text': 'Hans cheated over the board and I had to', 'start': 1082.22, 'duration': 5.28}
+{'text': 'physically bet a 50 50 bet I would bet', 'start': 1084.62, 'duration': 4.02}
+{'text': 'yes', 'start': 1087.5, 'duration': 3.24}
+{'text': "that's what I would bet geez I would", 'start': 1088.64, 'duration': 4.68}
+{'text': "think there's at least one game in the", 'start': 1090.74, 'duration': 4.799}
+{'text': "150 200 games he's played the last three", 'start': 1093.32, 'duration': 3.3}
+{'text': 'years where maybe he did something', 'start': 1095.539, 'duration': 2.461}
+{'text': 'unethical', 'start': 1096.62, 'duration': 3.12}
+{'text': 'okay at least one', 'start': 1098.0, 'duration': 3.96}
+{'text': "if he didn't that wouldn't surprise me", 'start': 1099.74, 'duration': 4.74}
+{'text': "either if he did that wouldn't surprise", 'start': 1101.96, 'duration': 3.839}
+{'text': 'me either', 'start': 1104.48, 'duration': 4.62}
+{'text': "okay I don't know but I don't care I", 'start': 1105.799, 'duration': 4.62}
+{'text': "literally don't care", 'start': 1109.1, 'duration': 3.3}
+{'text': 'you know what I care about did Hans', 'start': 1110.419, 'duration': 4.561}
+{'text': 'cheat against Magnus in round three of', 'start': 1112.4, 'duration': 4.74}
+{'text': 'the sinkfield cup and if the answer is', 'start': 1114.98, 'duration': 3.18}
+{'text': 'no', 'start': 1117.14, 'duration': 2.88}
+{'text': "then I don't care about well Hans", 'start': 1118.16, 'duration': 4.5}
+{'text': 'cheated three years ago and Hans played', 'start': 1120.02, 'duration': 4.92}
+{'text': 'a hundred percent in his game in the in', 'start': 1122.66, 'duration': 5.34}
+{'text': 'the Charlotte you know St Louis Round', 'start': 1124.94, 'duration': 4.8}
+{'text': "Rob I don't care", 'start': 1128.0, 'duration': 3.6}
+{'text': 'okay because all that stuff happened', 'start': 1129.74, 'duration': 4.92}
+{'text': 'before and Magnus played with Hans in', 'start': 1131.6, 'duration': 5.22}
+{'text': 'Miami and Magnus played with Hans in the', 'start': 1134.66, 'duration': 5.04}
+{'text': 'singfield cup the [\xa0__\xa0] hit the fan when', 'start': 1136.82, 'duration': 4.92}
+{'text': 'Magnus lost to Hans', 'start': 1139.7, 'duration': 4.38}
+{'text': 'not before', 'start': 1141.74, 'duration': 4.559}
+{'text': 'there was no complaining from Magnus', 'start': 1144.08, 'duration': 4.44}
+{'text': 'before he lost to Hans', 'start': 1146.299, 'duration': 4.561}
+{'text': "and I don't know what happened between", 'start': 1148.52, 'duration': 4.14}
+{'text': 'him playing in Miami and beating Hans', 'start': 1150.86, 'duration': 3.96}
+{'text': 'three to one and playing with him on the', 'start': 1152.66, 'duration': 4.019}
+{'text': 'beach and then being afraid to play him', 'start': 1154.82, 'duration': 3.9}
+{'text': '10 days later', 'start': 1156.679, 'duration': 4.261}
+{'text': 'what happened 10 days later', 'start': 1158.72, 'duration': 5.22}
+{'text': "okay and here's the part I'll never", 'start': 1160.94, 'duration': 5.16}
+{'text': "understand and I've had people explain", 'start': 1163.94, 'duration': 4.92}
+{'text': "it to me I don't listen too good here's", 'start': 1166.1, 'duration': 5.4}
+{'text': "here's my complaint Magnus has handled", 'start': 1168.86, 'duration': 4.5}
+{'text': 'the whole thing horribly', 'start': 1171.5, 'duration': 4.44}
+{'text': "okay I don't know if Magnus cheated", 'start': 1173.36, 'duration': 4.98}
+{'text': 'maybe Magnus everything he said is right', 'start': 1175.94, 'duration': 4.859}
+{'text': 'maybe Hans cheats all the time maybe', 'start': 1178.34, 'duration': 5.28}
+{'text': 'Magnus is a genius maybe Magnus knows', 'start': 1180.799, 'duration': 5.401}
+{'text': "that Hans cheated okay I don't know I'm", 'start': 1183.62, 'duration': 4.62}
+{'text': "like you guys I don't know what I do", 'start': 1186.2, 'duration': 4.68}
+{'text': 'know is playing Hans he lost and he left', 'start': 1188.24, 'duration': 5.34}
+{'text': "the tournament that I don't understand", 'start': 1190.88, 'duration': 5.039}
+{'text': "he's got six rounds left against super", 'start': 1193.58, 'duration': 5.64}
+{'text': "GM's and we all want to watch it I want", 'start': 1195.919, 'duration': 6.181}
+{'text': 'to see Magnus play the other super GMS', 'start': 1199.22, 'duration': 5.16}
+{'text': "he's already played Hans that game's", 'start': 1202.1, 'duration': 4.02}
+{'text': 'over why is he withdrawing from the', 'start': 1204.38, 'duration': 3.36}
+{'text': 'tournament', 'start': 1206.12, 'duration': 3.54}
+{'text': 'why', 'start': 1207.74, 'duration': 4.5}
+{'text': 'now if he was a hundred percent sure', 'start': 1209.66, 'duration': 4.2}
+{'text': 'Hans was cheating', 'start': 1212.24, 'duration': 4.26}
+{'text': 'the round before he played Hans', 'start': 1213.86, 'duration': 4.98}
+{'text': "okay let's say it's round two", 'start': 1216.5, 'duration': 5.16}
+{'text': 'Hans beat mom and jarv in round two I', 'start': 1218.84, 'duration': 5.04}
+{'text': 'think Magnus Drew Magnus won his first', 'start': 1221.66, 'duration': 3.66}
+{'text': 'game against nipo then he drew the', 'start': 1223.88, 'duration': 3.06}
+{'text': 'second game I forgot we drew in the', 'start': 1225.32, 'duration': 2.88}
+{'text': 'second game', 'start': 1226.94, 'duration': 3.96}
+{'text': "and now it's round three and Magnus is", 'start': 1228.2, 'duration': 4.74}
+{'text': 'like yeah I think Hans is going to cheat', 'start': 1230.9, 'duration': 4.08}
+{'text': 'tomorrow against me I withdraw from the', 'start': 1232.94, 'duration': 5.88}
+{'text': 'tournament okay that I understand', 'start': 1234.98, 'duration': 6.12}
+{'text': "I don't want to play a guy who I think", 'start': 1238.82, 'duration': 4.859}
+{'text': 'is a cheater he could refuse to show up', 'start': 1241.1, 'duration': 4.439}
+{'text': 'to the game and then play the rest of', 'start': 1243.679, 'duration': 3.721}
+{'text': 'the tournament or he could withdraw', 'start': 1245.539, 'duration': 5.221}
+{'text': 'playing the game losing the game then', 'start': 1247.4, 'duration': 4.92}
+{'text': 'saying the guy cheated then leaving the', 'start': 1250.76, 'duration': 4.26}
+{'text': "tournament is just that's not", 'start': 1252.32, 'duration': 5.58}
+{'text': 'that he he wanted to lose to Hans to', 'start': 1255.02, 'duration': 4.14}
+{'text': "prove that he was cheating that's the", 'start': 1257.9, 'duration': 2.519}
+{'text': 'proof that he got', 'start': 1259.16, 'duration': 3.24}
+{'text': 'oh Hans was intense enough during the', 'start': 1260.419, 'duration': 4.201}
+{'text': "game that's [\xa0__\xa0] that's [\xa0__\xa0] oh", 'start': 1262.4, 'duration': 5.159}
+{'text': "he did say that Morgan's worgen [\xa0__\xa0]", 'start': 1264.62, 'duration': 5.76}
+{'text': "I can't remember the Rick and Morty now", 'start': 1267.559, 'duration': 5.281}
+{'text': "now I'm not saying Hans cheated and I'm", 'start': 1270.38, 'duration': 4.38}
+{'text': "not saying he didn't cheat I don't think", 'start': 1272.84, 'duration': 4.02}
+{'text': 'Magnus has done things right this whole', 'start': 1274.76, 'duration': 2.88}
+{'text': 'time', 'start': 1276.86, 'duration': 1.98}
+{'text': "he shouldn't have played in that", 'start': 1277.64, 'duration': 2.64}
+{'text': 'tournament with with Hans and then', 'start': 1278.84, 'duration': 3.36}
+{'text': "played one move and resigned just don't", 'start': 1280.28, 'duration': 3.54}
+{'text': 'play in the tournament', 'start': 1282.2, 'duration': 3.359}
+{'text': 'or play Hans', 'start': 1283.82, 'duration': 3.78}
+{'text': 'not play and play one move and resign as', 'start': 1285.559, 'duration': 4.98}
+{'text': "like a protest he's gonna do it again if", 'start': 1287.6, 'duration': 4.5}
+{'text': 'they play in the same tournament again', 'start': 1290.539, 'duration': 3.841}
+{'text': 'it would make sense that that Magnus', 'start': 1292.1, 'duration': 4.26}
+{'text': "doesn't play in that tournament now", 'start': 1294.38, 'duration': 4.02}
+{'text': 'forget all that stuff I just said I', 'start': 1296.36, 'duration': 3.6}
+{'text': "don't care about that stuff that's just", 'start': 1298.4, 'duration': 3.96}
+{'text': 'my opinion on stuff', 'start': 1299.96, 'duration': 5.339}
+{'text': "what's banned for Hans is if Hans did", 'start': 1302.36, 'duration': 4.799}
+{'text': 'not cheat against Magnus in the sink', 'start': 1305.299, 'duration': 4.321}
+{'text': 'fill cup which seems unlikely that in', 'start': 1307.159, 'duration': 4.981}
+{'text': 'that one game he cheated but okay if he', 'start': 1309.62, 'duration': 3.9}
+{'text': "didn't she", 'start': 1312.14, 'duration': 2.64}
+{'text': 'and', 'start': 1313.52, 'duration': 3.72}
+{'text': 'Magnus loses to him and then says he', 'start': 1314.78, 'duration': 4.74}
+{'text': "cheated that game and he didn't cheat", 'start': 1317.24, 'duration': 4.319}
+{'text': "and people aren't going to invite Hans", 'start': 1319.52, 'duration': 4.019}
+{'text': 'to tournaments not because of what he', 'start': 1321.559, 'duration': 4.321}
+{'text': 'did in the past which is a reason but', 'start': 1323.539, 'duration': 4.081}
+{'text': 'because Magnus said he cheated against', 'start': 1325.88, 'duration': 4.38}
+{'text': "me when there's no evidence of that the", 'start': 1327.62, 'duration': 4.08}
+{'text': 'evidence', 'start': 1330.26, 'duration': 3.899}
+{'text': 'the internet evidence', 'start': 1331.7, 'duration': 4.68}
+{'text': "it's an oxymoron for you the internet", 'start': 1334.159, 'duration': 6.361}
+{'text': 'evidence is Hans cheated last year and', 'start': 1336.38, 'duration': 6.48}
+{'text': 'Hans cheated two years ago and Heinz', 'start': 1340.52, 'duration': 4.68}
+{'text': 'cheated four years ago and Hans cheated', 'start': 1342.86, 'duration': 4.319}
+{'text': 'three months ago', 'start': 1345.2, 'duration': 5.88}
+{'text': 'if if that evidence exists and if Magnus', 'start': 1347.179, 'duration': 6.061}
+{'text': 'believes that evidence why did he play', 'start': 1351.08, 'duration': 4.38}
+{'text': 'in Miami with Hans and then why did he', 'start': 1353.24, 'duration': 5.16}
+{'text': 'play in St Louis with Hans brockham in', 'start': 1355.46, 'duration': 5.099}
+{'text': "Miami he wasn't mad and how come in St", 'start': 1358.4, 'duration': 4.86}
+{'text': 'Louis he was mad what happened true what', 'start': 1360.559, 'duration': 4.5}
+{'text': "happened in those 10 days we've got", 'start': 1363.26, 'duration': 4.799}
+{'text': 'something this is', 'start': 1365.059, 'duration': 5.461}
+{'text': 'if I think a guy is cheating and I', 'start': 1368.059, 'duration': 4.261}
+{'text': "refuse to play the guy I'm going to", 'start': 1370.52, 'duration': 4.019}
+{'text': "refuse to play the guy that's what I'm", 'start': 1372.32, 'duration': 4.62}
+{'text': "going to do there's two or three people", 'start': 1374.539, 'duration': 4.681}
+{'text': 'in the United States that I will not', 'start': 1376.94, 'duration': 3.84}
+{'text': 'play', 'start': 1379.22, 'duration': 3.42}
+{'text': "okay because I think they're cheaters", 'start': 1380.78, 'duration': 4.259}
+{'text': "and I haven't been paired with them and", 'start': 1382.64, 'duration': 3.84}
+{'text': "I don't play chess anymore so it doesn't", 'start': 1385.039, 'duration': 2.941}
+{'text': 'matter', 'start': 1386.48, 'duration': 4.26}
+{'text': 'okay but if I did get paired with them', 'start': 1387.98, 'duration': 4.38}
+{'text': "in like some big tournament I wouldn't", 'start': 1390.74, 'duration': 4.439}
+{'text': "play them I would tell the organizer I'm", 'start': 1392.36, 'duration': 4.26}
+{'text': 'not playing this game because I think', 'start': 1395.179, 'duration': 3.061}
+{'text': "this guy's a cheater and they would look", 'start': 1396.62, 'duration': 3.539}
+{'text': "at me like I'm insane", 'start': 1398.24, 'duration': 4.08}
+{'text': 'if I said somebody was a cheater and I', 'start': 1400.159, 'duration': 4.02}
+{'text': 'gave their name you guys would be like', 'start': 1402.32, 'duration': 4.08}
+{'text': "you can't do that what are you doing you", 'start': 1404.179, 'duration': 3.421}
+{'text': "can't just say some guy's a cheater", 'start': 1406.4, 'duration': 3.779}
+{'text': "you're nuts and then when Madness does", 'start': 1407.6, 'duration': 4.86}
+{'text': 'it half of you have that opinion and', 'start': 1410.179, 'duration': 3.841}
+{'text': "half of you are like well he's a Magnus", 'start': 1412.46, 'duration': 4.14}
+{'text': 'he knows if the guy cheated or not', 'start': 1414.02, 'duration': 4.019}
+{'text': "and he's playing a guy who admitted to", 'start': 1416.6, 'duration': 3.36}
+{'text': 'cheating before so Magnus says innocent', 'start': 1418.039, 'duration': 3.961}
+{'text': 'you can do whatever he wants', 'start': 1419.96, 'duration': 3.9}
+{'text': "I don't like the way Magnus handled it", 'start': 1422.0, 'duration': 4.32}
+{'text': "and I'm not like team Hans because I", 'start': 1423.86, 'duration': 4.4}
+{'text': "don't know if Hans cheated or not", 'start': 1426.32, 'duration': 4.739}
+{'text': 'Miami was um was rapid time control so', 'start': 1428.26, 'duration': 4.12}
+{'text': 'less likely for Hans to cheat compared', 'start': 1431.059, 'duration': 2.701}
+{'text': 'to classical times no no no no no no', 'start': 1432.38, 'duration': 4.5}
+{'text': "that shouldn't matter right", 'start': 1433.76, 'duration': 4.08}
+{'text': 'um', 'start': 1436.88, 'duration': 2.7}
+{'text': 'I like I can relate to this from my own', 'start': 1437.84, 'duration': 3.3}
+{'text': 'Pro gaming experience if I think', 'start': 1439.58, 'duration': 3.18}
+{'text': 'somebody is a cheater', 'start': 1441.14, 'duration': 3.539}
+{'text': 'then you either would play them at least', 'start': 1442.76, 'duration': 3.0}
+{'text': "I'm not playing that guy I know he map", 'start': 1444.679, 'duration': 2.701}
+{'text': "packs I know that guy's cheating I know", 'start': 1445.76, 'duration': 3.18}
+{'text': "he's cheating I'm not gonna play him but", 'start': 1447.38, 'duration': 3.9}
+{'text': "you wouldn't play them and then if you", 'start': 1448.94, 'duration': 4.859}
+{'text': "lose then say oh well I'm quitting", 'start': 1451.28, 'duration': 3.96}
+{'text': "because you were cheating you can't do", 'start': 1453.799, 'duration': 3.661}
+{'text': 'that it has to be before or never like', 'start': 1455.24, 'duration': 4.319}
+{'text': "that's all you can do", 'start': 1457.46, 'duration': 4.079}
+{'text': 'um especially if your claim like what', 'start': 1459.559, 'duration': 3.24}
+{'text': 'Magnus is saying like what Ben is', 'start': 1461.539, 'duration': 2.64}
+{'text': "reaffirming especially if you're claim", 'start': 1462.799, 'duration': 3.781}
+{'text': 'is that you knew beforehand you knew', 'start': 1464.179, 'duration': 4.62}
+{'text': 'before the game that he was cheating', 'start': 1466.58, 'duration': 3.959}
+{'text': "right it doesn't make sense to us", 'start': 1468.799, 'duration': 2.821}
+{'text': "afterwards well I've always known as a", 'start': 1470.539, 'duration': 2.401}
+{'text': "cheater blah blah blah and it's like", 'start': 1471.62, 'duration': 4.28}
+{'text': 'well then why did you play him', 'start': 1472.94, 'duration': 2.96}
+{'text': 'Magnus should have handled this', 'start': 1478.84, 'duration': 4.42}
+{'text': 'differently and', 'start': 1480.5, 'duration': 5.159}
+{'text': "you know if I'm if if I'm organizing a", 'start': 1483.26, 'duration': 4.14}
+{'text': 'tournament like imagine I was worth a', 'start': 1485.659, 'duration': 4.861}
+{'text': 'billion dollars and Karen for reasons I', 'start': 1487.4, 'duration': 5.159}
+{'text': "don't know says hey Ben let's organize", 'start': 1490.52, 'duration': 5.539}
+{'text': 'Grand Master tournaments', 'start': 1492.559, 'duration': 3.5}
+{'text': 'okay if that happened', 'start': 1496.58, 'duration': 4.32}
+{'text': 'if we have a billion dollars and Karen', 'start': 1498.5, 'duration': 4.08}
+{'text': "says let's organize a super Grandmaster", 'start': 1500.9, 'duration': 4.5}
+{'text': 'tournament we are inviting Hans and', 'start': 1502.58, 'duration': 5.099}
+{'text': "we're not inviting Madness now first of", 'start': 1505.4, 'duration': 3.779}
+{'text': "all I wouldn't invite Hans because Hans", 'start': 1507.679, 'duration': 3.421}
+{'text': "isn't good enough but that's that's a", 'start': 1509.179, 'duration': 3.841}
+{'text': "separate issue but I'm not going to be", 'start': 1511.1, 'duration': 4.14}
+{'text': 'like well we can invite Magnus or Hans', 'start': 1513.02, 'duration': 4.38}
+{'text': 'who are we going to invite Karen would', 'start': 1515.24, 'duration': 3.78}
+{'text': 'say Hans for sure', 'start': 1517.4, 'duration': 3.779}
+{'text': "I'm not going to cancel a guy because", 'start': 1519.02, 'duration': 4.44}
+{'text': 'another guy had a crying fit', 'start': 1521.179, 'duration': 4.081}
+{'text': "now I wouldn't invite Hans because Hans", 'start': 1523.46, 'duration': 3.66}
+{'text': "is like 26.80 that's you know it's", 'start': 1525.26, 'duration': 4.14}
+{'text': "beneath me I'm not doing that", 'start': 1527.12, 'duration': 5.159}
+{'text': "I'll I'll invite you know like Jeffrey", 'start': 1529.4, 'duration': 6.18}
+{'text': "Sean he's like 26.90.", 'start': 1532.279, 'duration': 5.461}
+{'text': "yeah I'd invite Jeffrey yeah Jeffrey is", 'start': 1535.58, 'duration': 3.42}
+{'text': 'good', 'start': 1537.74, 'duration': 2.939}
+{'text': 'and then I would do a chess boxing with', 'start': 1539.0, 'duration': 2.82}
+{'text': 'Jeffrey', 'start': 1540.679, 'duration': 3.36}
+{'text': 'anyway you guys take yourself too', 'start': 1541.82, 'duration': 3.839}
+{'text': 'seriously on the internet none of this', 'start': 1544.039, 'duration': 3.181}
+{'text': 'matters', 'start': 1545.659, 'duration': 3.9}
+{'text': "right it's all just silliness and we", 'start': 1547.22, 'duration': 3.9}
+{'text': 'make money off of it because you guys', 'start': 1549.559, 'duration': 4.321}
+{'text': "love it you guys love the drama I'm a", 'start': 1551.12, 'duration': 4.32}
+{'text': 'chess nerd it battles me how much chess', 'start': 1553.88, 'duration': 2.94}
+{'text': "people are sending for Magnus he's a", 'start': 1555.44, 'duration': 2.4}
+{'text': "very good player but he can't read minds", 'start': 1556.82, 'duration': 2.219}
+{'text': "well I think it's because he's not", 'start': 1557.84, 'duration': 3.24}
+{'text': 'Magnus is not a very good player Magnus', 'start': 1559.039, 'duration': 3.541}
+{'text': 'is like the best like highest rated', 'start': 1561.08, 'duration': 3.36}
+{'text': 'player of all time and he had like an', 'start': 1562.58, 'duration': 3.599}
+{'text': 'exemplary record going to that game with', 'start': 1564.44, 'duration': 3.719}
+{'text': "Hans who's like a good player for sure", 'start': 1566.179, 'duration': 4.321}
+{'text': "but like not magazine I think that's the", 'start': 1568.159, 'duration': 4.38}
+{'text': "issue it's not just that like oh mag is", 'start': 1570.5, 'duration': 3.779}
+{'text': 'just like a pretty good play like this I', 'start': 1572.539, 'duration': 2.64}
+{'text': "think it makes it a bit different that's", 'start': 1574.279, 'duration': 2.041}
+{'text': 'why I can understand why people in the', 'start': 1575.179, 'duration': 2.88}
+{'text': "world with a simple farm right there's", 'start': 1576.32, 'duration': 4.32}
+{'text': "not I mean what's what's Han said Han", 'start': 1578.059, 'duration': 4.62}
+{'text': 'said nothing Hans gave the 30-minute', 'start': 1580.64, 'duration': 4.38}
+{'text': 'interview saying he would play naked at', 'start': 1582.679, 'duration': 3.901}
+{'text': 'St Louis chess club and that was it', 'start': 1585.02, 'duration': 3.3}
+{'text': "because Twitter's been dead since then", 'start': 1586.58, 'duration': 3.54}
+{'text': "he doesn't say anything it doesn't do", 'start': 1588.32, 'duration': 3.979}
+{'text': 'anything', 'start': 1590.12, 'duration': 2.179}
+{'text': "he doesn't have to do anything he plays", 'start': 1592.34, 'duration': 5.16}
+{'text': 'chess he wins he loses he draws and then', 'start': 1594.799, 'duration': 4.681}
+{'text': "Magnus says rawr I'm mad I'm not playing", 'start': 1597.5, 'duration': 4.46}
+{'text': 'Hans anymore', 'start': 1599.48, 'duration': 2.48}
+{'text': 'not any Magnus is being a baby', 'start': 1603.26, 'duration': 3.5}
+{'text': "and that's that's my Spiel sure but it's", 'start': 1608.419, 'duration': 4.5}
+{'text': 'not unusual for him to lose to a 2700', 'start': 1610.7, 'duration': 4.32}
+{'text': "It's Not Unusual for Magnus to lose 220", 'start': 1612.919, 'duration': 3.481}
+{'text': 'I thought it was like a 50 set win', 'start': 1615.02, 'duration': 3.36}
+{'text': 'streak or something', 'start': 1616.4, 'duration': 3.6}
+{'text': 'I thought it was considered incredibly', 'start': 1618.38, 'duration': 2.88}
+{'text': 'rare for him to lose over the board', 'start': 1620.0, 'duration': 2.52}
+{'text': 'games', 'start': 1621.26, 'duration': 2.94}
+{'text': 'are you just making [\xa0__\xa0] up or is my', 'start': 1622.52, 'duration': 4.22}
+{'text': 'information wrong', 'start': 1624.2, 'duration': 2.54}
+{'text': "anyway let's get to level eight again", 'start': 1626.9, 'duration': 3.68}
+{'text': "okay we're done with you", 'start': 1630.799, 'duration': 3.321}

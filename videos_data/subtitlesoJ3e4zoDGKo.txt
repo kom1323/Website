@@ -1,0 +1,302 @@
+{'text': 'hello', 'start': 3.199, 'duration': 4.001}
+{'text': 'yes all right wonderful um yeah so', 'start': 4.319, 'duration': 3.52}
+{'text': 'basically', 'start': 7.2, 'duration': 2.479}
+{'text': 'my question that i had or you know to', 'start': 7.839, 'duration': 3.041}
+{'text': 'start off big fan', 'start': 9.679, 'duration': 4.641}
+{'text': 'you know yeah uh i like your stream', 'start': 10.88, 'duration': 6.159}
+{'text': "and basically my question is uh it's", 'start': 14.32, 'duration': 5.119}
+{'text': 'kind of repeated what i said in chat but', 'start': 17.039, 'duration': 6.48}
+{'text': 'if someone is uh you know you said that', 'start': 19.439, 'duration': 5.92}
+{'text': "someone even if they've done something", 'start': 23.519, 'duration': 3.84}
+{'text': 'bad in order to get into a situation', 'start': 25.359, 'duration': 3.92}
+{'text': 'where they have to defend themselves', 'start': 27.359, 'duration': 3.441}
+{'text': "they're still justified in defending", 'start': 29.279, 'duration': 3.361}
+{'text': "themselves they don't lose that right", 'start': 30.8, 'duration': 2.88}
+{'text': 'generally depending on what the bad', 'start': 32.64, 'duration': 3.36}
+{'text': 'thing is but yeah yeah what if', 'start': 33.68, 'duration': 4.879}
+{'text': "the person that's trying to aggress on", 'start': 36.0, 'duration': 3.92}
+{'text': 'them is aggressing on them', 'start': 38.559, 'duration': 4.401}
+{'text': 'specifically as a result of the bad', 'start': 39.92, 'duration': 5.04}
+{'text': 'things they did previously', 'start': 42.96, 'duration': 3.279}
+{'text': 'well it depends on what that bad thing', 'start': 44.96, 'duration': 2.72}
+{'text': 'is if that bad thing is something that', 'start': 46.239, 'duration': 3.041}
+{'text': 'is aggressing on somebody else or', 'start': 47.68, 'duration': 2.879}
+{'text': 'threatening somebody else', 'start': 49.28, 'duration': 2.48}
+{'text': 'or somebody or something somebody else', 'start': 50.559, 'duration': 4.0}
+{'text': 'can defend then sure', 'start': 51.76, 'duration': 2.799}
+{'text': "wait wait so you okay so you'd say uh", 'start': 55.68, 'duration': 4.24}
+{'text': 'that for the example', 'start': 58.8, 'duration': 4.96}
+{'text': 'of a um of like a', 'start': 59.92, 'duration': 6.879}
+{'text': 'uh you know your bar example um you have', 'start': 63.76, 'duration': 4.88}
+{'text': 'a girl who goes in underage and she', 'start': 66.799, 'duration': 3.041}
+{'text': 'brings the gun', 'start': 68.64, 'duration': 3.36}
+{'text': 'um if a bouncer later realizes that', 'start': 69.84, 'duration': 3.12}
+{'text': "she's uh", 'start': 72.0, 'duration': 3.28}
+{'text': 'underage and goes to you know aggress on', 'start': 72.96, 'duration': 3.68}
+{'text': 'her to throw her out', 'start': 75.28, 'duration': 3.92}
+{'text': "uh she's not justified in uh you know", 'start': 76.64, 'duration': 4.08}
+{'text': 'defending herself against the bouncer', 'start': 79.2, 'duration': 2.0}
+{'text': 'because', 'start': 80.72, 'duration': 2.32}
+{'text': "she was trespassing there she didn't", 'start': 81.2, 'duration': 3.279}
+{'text': "have a right to be there yeah she's", 'start': 83.04, 'duration': 4.0}
+{'text': "aggressing she's trespassing yeah", 'start': 84.479, 'duration': 6.0}
+{'text': 'okay um how would you feel about', 'start': 87.04, 'duration': 7.119}
+{'text': 'uh would the protester attacking kyle', 'start': 90.479, 'duration': 6.64}
+{'text': 'be justified if they had the sincere', 'start': 94.159, 'duration': 4.0}
+{'text': 'belief', 'start': 97.119, 'duration': 4.401}
+{'text': 'that um kyle had absolutely no right to', 'start': 98.159, 'duration': 3.92}
+{'text': 'be there', 'start': 101.52, 'duration': 3.52}
+{'text': 'defending any of those uh properties uh', 'start': 102.079, 'duration': 5.201}
+{'text': 'defending those properties with a gun', 'start': 105.04, 'duration': 6.48}
+{'text': 'um and that in doing so uh he was', 'start': 107.28, 'duration': 7.839}
+{'text': 'um he was sort of actively threatening', 'start': 111.52, 'duration': 5.84}
+{'text': 'the entire crowd just by the fact of', 'start': 115.119, 'duration': 3.28}
+{'text': 'being there', 'start': 117.36, 'duration': 4.0}
+{'text': 'and being obviously uh ready and willing', 'start': 118.399, 'duration': 3.281}
+{'text': 'to', 'start': 121.36, 'duration': 2.56}
+{'text': 'use that kind of lethal force what is', 'start': 121.68, 'duration': 3.759}
+{'text': "their so i'd have to ask what their", 'start': 123.92, 'duration': 3.68}
+{'text': 'standing is what purpose or why do they', 'start': 125.439, 'duration': 3.361}
+{'text': 'have a right to defend', 'start': 127.6, 'duration': 3.12}
+{'text': "said location if it's public property", 'start': 128.8, 'duration': 3.04}
+{'text': "they don't own it right they don't know", 'start': 130.72, 'duration': 3.28}
+{'text': "i don't think they have the standing to", 'start': 131.84, 'duration': 3.44}
+{'text': 'when i say standing i mean like you have', 'start': 134.0, 'duration': 3.04}
+{'text': 'a reason to like be involved in this', 'start': 135.28, 'duration': 3.76}
+{'text': 'dispute', 'start': 137.04, 'duration': 5.36}
+{'text': 'yeah okay so', 'start': 139.04, 'duration': 6.08}
+{'text': "yeah so you'd say that okay yeah so then", 'start': 142.4, 'duration': 3.76}
+{'text': "you'd say that if the", 'start': 145.12, 'duration': 4.56}
+{'text': "uh if the protester wasn't um", 'start': 146.16, 'duration': 5.52}
+{'text': "uh that like the protester doesn't", 'start': 149.68, 'duration': 3.199}
+{'text': 'really have any', 'start': 151.68, 'duration': 4.32}
+{'text': 'like in terms of defending the the pro', 'start': 152.879, 'duration': 4.801}
+{'text': 'well like the protester is trying to', 'start': 156.0, 'duration': 3.28}
+{'text': 'defend the their oh', 'start': 157.68, 'duration': 4.559}
+{'text': 'their other fellow protesters and um i', 'start': 159.28, 'duration': 3.2}
+{'text': 'mean', 'start': 162.239, 'duration': 2.161}
+{'text': 'they felt like that other protesters', 'start': 162.48, 'duration': 3.68}
+{'text': 'being like aggressed on like if kyle for', 'start': 164.4, 'duration': 3.04}
+{'text': 'instance or anybody were to be', 'start': 166.16, 'duration': 2.719}
+{'text': 'threatening towards a person', 'start': 167.44, 'duration': 3.12}
+{'text': 'then absolutely yeah then you have a', 'start': 168.879, 'duration': 3.36}
+{'text': 'right but just somebody simply being in', 'start': 170.56, 'duration': 3.36}
+{'text': "an area i don't think counts as them", 'start': 172.239, 'duration': 4.481}
+{'text': 'aggressing on you', 'start': 173.92, 'duration': 2.8}
+{'text': 'all right cool uh oh yeah i can accept', 'start': 177.36, 'duration': 4.239}
+{'text': "that that's fair", 'start': 180.319, 'duration': 4.321}
+{'text': 'um and my one other question', 'start': 181.599, 'duration': 6.081}
+{'text': "is also sort of related um i'm not sure", 'start': 184.64, 'duration': 5.599}
+{'text': 'how i feel about the uh', 'start': 187.68, 'duration': 5.839}
+{'text': 'your thing where it was uh how like', 'start': 190.239, 'duration': 5.441}
+{'text': 'basically random people like they can go', 'start': 193.519, 'duration': 3.201}
+{'text': 'out and defend', 'start': 195.68, 'duration': 3.44}
+{'text': 'sort of any property they want if they', 'start': 196.72, 'duration': 3.68}
+{'text': 'you know if they think it needs to be', 'start': 199.12, 'duration': 2.72}
+{'text': 'defended they can just go and defend it', 'start': 200.4, 'duration': 1.839}
+{'text': 'with', 'start': 201.84, 'duration': 3.36}
+{'text': 'like with moral impunity i think they', 'start': 202.239, 'duration': 4.08}
+{'text': 'could yeah', 'start': 205.2, 'duration': 3.119}
+{'text': "i don't know but like so you really", 'start': 206.319, 'duration': 3.441}
+{'text': "think it's okay that like", 'start': 208.319, 'duration': 2.801}
+{'text': "you know let's say you're a small", 'start': 209.76, 'duration': 2.96}
+{'text': 'business owner you run a convenience', 'start': 211.12, 'duration': 2.24}
+{'text': 'store', 'start': 212.72, 'duration': 3.76}
+{'text': 'and some dude with a [\xa0__\xa0] uh ar', 'start': 213.36, 'duration': 5.68}
+{'text': 'just posts up in front of your store and', 'start': 216.48, 'duration': 3.039}
+{'text': 'they just', 'start': 219.04, 'duration': 2.479}
+{'text': 'stand there and they just you know they', 'start': 219.519, 'duration': 4.881}
+{'text': 'police everyone coming in and out like', 'start': 221.519, 'duration': 5.681}
+{'text': "if you um like you didn't ask them to be", 'start': 224.4, 'duration': 3.28}
+{'text': 'there', 'start': 227.2, 'duration': 3.92}
+{'text': "that's the they're making uh customers", 'start': 227.68, 'duration': 5.44}
+{'text': 'going into your store uncomfortable and', 'start': 231.12, 'duration': 3.36}
+{'text': "you think they're like", 'start': 233.12, 'duration': 4.08}
+{'text': 'you know maybe going to harm uh and you', 'start': 234.48, 'duration': 4.319}
+{'text': 'think that you know them being there is', 'start': 237.2, 'duration': 2.48}
+{'text': 'actually harming', 'start': 238.799, 'duration': 3.041}
+{'text': "your business well then they're just", 'start': 239.68, 'duration': 3.36}
+{'text': "trespassing they're not they're", 'start': 241.84, 'duration': 2.56}
+{'text': "protecting you on your behalf they're", 'start': 243.04, 'duration': 1.68}
+{'text': 'just', 'start': 244.4, 'duration': 3.36}
+{'text': 'trespassing well yeah but if you but', 'start': 244.72, 'duration': 5.12}
+{'text': 'like do people have a right like', 'start': 247.76, 'duration': 5.28}
+{'text': 'is that a right where like unless the', 'start': 249.84, 'duration': 5.28}
+{'text': 'business owner specifically says oh no', 'start': 253.04, 'duration': 4.319}
+{'text': "you shouldn't defend my property", 'start': 255.12, 'duration': 3.519}
+{'text': 'that you can still go out and just', 'start': 257.359, 'duration': 2.961}
+{'text': '[\xa0__\xa0] defend it like you just post up', 'start': 258.639, 'duration': 3.12}
+{'text': "and be like yeah no i'm defending this", 'start': 260.32, 'duration': 2.56}
+{'text': "right now well no if you're on their", 'start': 261.759, 'duration': 2.401}
+{'text': 'property scaring off customers', 'start': 262.88, 'duration': 2.8}
+{'text': "you're clearly trespassing especially if", 'start': 264.16, 'duration': 3.2}
+{'text': 'the business owner says [\xa0__\xa0] off', 'start': 265.68, 'duration': 3.28}
+{'text': "well i mean if you're like outside there", 'start': 267.36, 'duration': 2.64}
+{'text': "like if you're like you're like just", 'start': 268.96, 'duration': 2.48}
+{'text': "you're out in public then you can do", 'start': 270.0, 'duration': 2.72}
+{'text': "whatever you want sure that's fine", 'start': 271.44, 'duration': 2.56}
+{'text': "as long as you're not on their property", 'start': 272.72, 'duration': 3.68}
+{'text': 'then sure', 'start': 274.0, 'duration': 2.4}
+{'text': "i don't know i don't it just seems kind", 'start': 277.199, 'duration': 3.921}
+{'text': 'of weird right like', 'start': 279.52, 'duration': 4.32}
+{'text': 'having a um like being able to just like', 'start': 281.12, 'duration': 3.44}
+{'text': 'roll up to', 'start': 283.84, 'duration': 2.4}
+{'text': 'like the outside like the entrance to', 'start': 284.56, 'duration': 3.76}
+{'text': 'like a mall or something just [\xa0__\xa0]', 'start': 286.24, 'duration': 4.399}
+{'text': 'fully armed and just act like a security', 'start': 288.32, 'duration': 3.52}
+{'text': 'guard', 'start': 290.639, 'duration': 2.881}
+{'text': 'i mean i guess if you want to i mean', 'start': 291.84, 'duration': 5.76}
+{'text': "it's yours", 'start': 293.52, 'duration': 6.48}
+{'text': "i don't know i feel like what could you", 'start': 297.6, 'duration': 3.68}
+{'text': 'what if what if like some people just', 'start': 300.0, 'duration': 2.0}
+{'text': 'wanted to', 'start': 301.28, 'duration': 3.6}
+{'text': 'like do like neighborhood watch where', 'start': 302.0, 'duration': 4.24}
+{'text': 'they walked up and down the street', 'start': 304.88, 'duration': 3.28}
+{'text': 'with knives or whatever i guess and just', 'start': 306.24, 'duration': 2.88}
+{'text': 'walk up and down making sure that like', 'start': 308.16, 'duration': 1.84}
+{'text': 'nobody was up to', 'start': 309.12, 'duration': 2.24}
+{'text': "no good i guess but they didn't like", 'start': 310.0, 'duration': 2.72}
+{'text': "walk on anybody's property if it's", 'start': 311.36, 'duration': 2.0}
+{'text': 'public', 'start': 312.72, 'duration': 1.68}
+{'text': 'property you can just walk wherever you', 'start': 313.36, 'duration': 2.88}
+{'text': "want right i guess it's i mean like", 'start': 314.4, 'duration': 2.799}
+{'text': "what's the alternative you can tell", 'start': 316.24, 'duration': 2.08}
+{'text': "people like you're not allowed to be", 'start': 317.199, 'duration': 2.401}
+{'text': "standing in some areas like that's kind", 'start': 318.32, 'duration': 1.68}
+{'text': 'of weird', 'start': 319.6, 'duration': 2.56}
+{'text': "well i don't know i would say like in", 'start': 320.0, 'duration': 3.6}
+{'text': 'terms of like if you are', 'start': 322.16, 'duration': 3.92}
+{'text': 'like trying to be a like a bodyguard', 'start': 323.6, 'duration': 3.52}
+{'text': 'basically if you are', 'start': 326.08, 'duration': 3.04}
+{'text': 'actively defending something you should', 'start': 327.12, 'duration': 3.68}
+{'text': 'only be allowed to do it if', 'start': 329.12, 'duration': 4.56}
+{'text': 'you if you or you know a group that you', 'start': 330.8, 'duration': 4.399}
+{'text': 'would represent i guess', 'start': 333.68, 'duration': 4.32}
+{'text': 'or explicitly ask to defend that', 'start': 335.199, 'duration': 4.241}
+{'text': 'property', 'start': 338.0, 'duration': 3.36}
+{'text': 'like i mean like you have a right to', 'start': 339.44, 'duration': 3.599}
+{'text': 'stand in public if you want to right', 'start': 341.36, 'duration': 2.48}
+{'text': 'like what like', 'start': 343.039, 'duration': 2.241}
+{'text': 'who is someone else to tell you that you', 'start': 343.84, 'duration': 4.32}
+{'text': "can't stand here", 'start': 345.28, 'duration': 2.88}
+{'text': 'i guess', 'start': 349.36, 'duration': 6.08}
+{'text': "i mean yeah i guess but like we're not", 'start': 352.4, 'duration': 4.56}
+{'text': 'necessarily just talking about like a', 'start': 355.44, 'duration': 2.16}
+{'text': 'person just', 'start': 356.96, 'duration': 2.799}
+{'text': 'walking around with a rifle or like', 'start': 357.6, 'duration': 4.319}
+{'text': 'walking around open carrying in public', 'start': 359.759, 'duration': 3.361}
+{'text': "well what i mean that's essentially what", 'start': 361.919, 'duration': 3.28}
+{'text': "they'd be doing right basically i guess", 'start': 363.12, 'duration': 3.12}
+{'text': "but like if they're", 'start': 365.199, 'duration': 4.321}
+{'text': "like but if they're like if they're like", 'start': 366.24, 'duration': 5.36}
+{'text': 'playing the role of a bodyguard where if', 'start': 369.52, 'duration': 2.88}
+{'text': 'like if they see', 'start': 371.6, 'duration': 2.8}
+{'text': 'someone doing something suspicious or', 'start': 372.4, 'duration': 3.28}
+{'text': 'like something they think might be', 'start': 374.4, 'duration': 2.639}
+{'text': "like [\xa0__\xa0] they're going over like", 'start': 375.68, 'duration': 3.04}
+{'text': "they're like they're actively", 'start': 377.039, 'duration': 3.761}
+{'text': 'like kind of defending and securing the', 'start': 378.72, 'duration': 3.199}
+{'text': 'area', 'start': 380.8, 'duration': 2.959}
+{'text': 'do you think that like what is the law', 'start': 381.919, 'duration': 3.12}
+{'text': "that you're saying should exist so that", 'start': 383.759, 'duration': 2.321}
+{'text': "people can't do this", 'start': 385.039, 'duration': 2.641}
+{'text': 'like what what what are you proposing i', 'start': 386.08, 'duration': 3.76}
+{'text': "guess i don't know i feel like", 'start': 387.68, 'duration': 5.28}
+{'text': "i i i'm not in america um and", 'start': 389.84, 'duration': 5.359}
+{'text': 'so my relationship with guns is like a', 'start': 392.96, 'duration': 3.28}
+{'text': 'bit different', 'start': 395.199, 'duration': 3.761}
+{'text': 'um i would say that like if you want to', 'start': 396.24, 'duration': 3.36}
+{'text': 'be', 'start': 398.96, 'duration': 3.76}
+{'text': 'like an armed uh', 'start': 399.6, 'duration': 5.52}
+{'text': 'if you are actively defending and acting', 'start': 402.72, 'duration': 3.44}
+{'text': 'as security', 'start': 405.12, 'duration': 4.72}
+{'text': 'for a place um you have to be there', 'start': 406.16, 'duration': 5.599}
+{'text': 'with the express permission of the', 'start': 409.84, 'duration': 4.079}
+{'text': 'owners and in an ideal world you would', 'start': 411.759, 'duration': 2.641}
+{'text': 'also', 'start': 413.919, 'duration': 1.84}
+{'text': 'have some kind of like training', 'start': 414.4, 'duration': 3.199}
+{'text': "necessary for it like you'd be", 'start': 415.759, 'duration': 3.44}
+{'text': 'somebody i mean like you can say that', 'start': 417.599, 'duration': 2.561}
+{'text': "but you're talking about like", 'start': 419.199, 'duration': 2.0}
+{'text': 'fundamentally un-american things because', 'start': 420.16, 'duration': 2.479}
+{'text': 'like in america you can have a gun in', 'start': 421.199, 'duration': 2.641}
+{'text': 'public without any training', 'start': 422.639, 'duration': 2.881}
+{'text': 'and in america you can stand in places', 'start': 423.84, 'duration': 3.199}
+{'text': 'publicly with a gun without like you', 'start': 425.52, 'duration': 2.799}
+{'text': "don't need a permit to do that", 'start': 427.039, 'duration': 3.28}
+{'text': 'so we would have to change like some', 'start': 428.319, 'duration': 4.561}
+{'text': 'fundamental part of like', 'start': 430.319, 'duration': 4.561}
+{'text': 'american law to make that happen i guess', 'start': 432.88, 'duration': 4.96}
+{'text': 'right like', 'start': 434.88, 'duration': 2.96}
+{'text': 'yeah i i guess yeah', 'start': 438.24, 'duration': 5.28}
+{'text': 'yeah so like rolling back the second', 'start': 441.84, 'duration': 3.04}
+{'text': 'amendment or making it illegal to stand', 'start': 443.52, 'duration': 2.56}
+{'text': 'outside', 'start': 444.88, 'duration': 2.8}
+{'text': "with a gun like it seems like we're kind", 'start': 446.08, 'duration': 3.2}
+{'text': "of we can't really do that yeah", 'start': 447.68, 'duration': 3.84}
+{'text': "yeah i don't know i feel like or i just", 'start': 449.28, 'duration': 4.0}
+{'text': 'like greater restrictions on like open', 'start': 451.52, 'duration': 3.519}
+{'text': 'carrying like just standing somewhere is', 'start': 453.28, 'duration': 3.6}
+{'text': 'fine but like standing somewhere', 'start': 455.039, 'duration': 3.761}
+{'text': "outside of like a person's property like", 'start': 456.88, 'duration': 4.159}
+{'text': 'with a firearm out as if you were a', 'start': 458.8, 'duration': 3.76}
+{'text': 'bodyguard', 'start': 461.039, 'duration': 3.84}
+{'text': 'like as if you were like a security like', 'start': 462.56, 'duration': 4.8}
+{'text': 'employed by the um', 'start': 464.879, 'duration': 3.921}
+{'text': "i guess i just i don't know what that", 'start': 467.36, 'duration': 3.04}
+{'text': 'means like what does it mean', 'start': 468.8, 'duration': 3.36}
+{'text': 'standing like security like what do you', 'start': 470.4, 'duration': 4.479}
+{'text': 'mean by that like', 'start': 472.16, 'duration': 8.0}
+{'text': "[\xa0__\xa0] i don't know like if you're um", 'start': 474.879, 'duration': 5.281}
+{'text': "like you're kind of you're standing", 'start': 483.68, 'duration': 3.199}
+{'text': "outside you're sort of", 'start': 485.44, 'duration': 3.28}
+{'text': "you're looking at people as they pass in", 'start': 486.879, 'duration': 3.121}
+{'text': "you're sort of um", 'start': 488.72, 'duration': 2.879}
+{'text': "you're investing like if someone's", 'start': 490.0, 'duration': 3.52}
+{'text': "looking suspicious you'll like stop them", 'start': 491.599, 'duration': 2.72}
+{'text': 'be like hey', 'start': 493.52, 'duration': 2.799}
+{'text': 'you know what are you doing so like but', 'start': 494.319, 'duration': 3.121}
+{'text': "what i'm asking is like what", 'start': 496.319, 'duration': 2.401}
+{'text': 'should be illegal here should you not be', 'start': 497.44, 'duration': 2.56}
+{'text': 'allowed to stand outside and look at', 'start': 498.72, 'duration': 2.159}
+{'text': 'people should you not be', 'start': 500.0, 'duration': 2.72}
+{'text': 'allowed to like talk to strangers should', 'start': 500.879, 'duration': 3.281}
+{'text': "you not be like what is what what's the", 'start': 502.72, 'duration': 5.12}
+{'text': "thing we're trying to make illegal here", 'start': 504.16, 'duration': 3.68}
+{'text': "well that's kind of the yeah important", 'start': 509.36, 'duration': 3.039}
+{'text': 'yeah right', 'start': 511.28, 'duration': 3.28}
+{'text': 'yeah because like when you say like you', 'start': 512.399, 'duration': 4.241}
+{'text': 'see someone suspicious like', 'start': 514.56, 'duration': 3.76}
+{'text': 'standing around outside well we can', 'start': 516.64, 'duration': 3.04}
+{'text': 'stand around outside seeing someone', 'start': 518.32, 'duration': 3.12}
+{'text': 'suspicious like i mean if we', 'start': 519.68, 'duration': 3.039}
+{'text': 'we can talk to people we want to they', 'start': 521.44, 'duration': 2.399}
+{'text': "don't have to answer they can just say", 'start': 522.719, 'duration': 2.161}
+{'text': "[\xa0__\xa0] you i'm not gonna respond you're", 'start': 523.839, 'duration': 2.721}
+{'text': "like oh okay well you're [\xa0__\xa0]", 'start': 524.88, 'duration': 3.28}
+{'text': 'but i mean like unless until they start', 'start': 526.56, 'duration': 3.12}
+{'text': 'actually like you know if a person walks', 'start': 528.16, 'duration': 3.04}
+{'text': 'out and tries to shoot somebody', 'start': 529.68, 'duration': 3.12}
+{'text': 'um or something like that or claims that', 'start': 531.2, 'duration': 4.56}
+{'text': "they're like sent there by the um", 'start': 532.8, 'duration': 4.719}
+{'text': 'you know by the business to defend the', 'start': 535.76, 'duration': 3.36}
+{'text': "business well now we're talking", 'start': 537.519, 'duration': 2.641}
+{'text': 'like these are things that should be', 'start': 539.12, 'duration': 2.8}
+{'text': 'illegal if unless the business like', 'start': 540.16, 'duration': 3.119}
+{'text': 'actually says something right yeah sure', 'start': 541.92, 'duration': 3.44}
+{'text': 'i can agree that but', 'start': 543.279, 'duration': 5.761}
+{'text': 'yeah this uh this was like a smaller', 'start': 545.36, 'duration': 5.52}
+{'text': 'question it was like a bit less thought', 'start': 549.04, 'duration': 3.359}
+{'text': 'out than the first one which was you', 'start': 550.88, 'duration': 2.48}
+{'text': 'know pretty easy', 'start': 552.399, 'duration': 2.961}
+{'text': "that's right um but yeah no that's all i", 'start': 553.36, 'duration': 3.919}
+{'text': 'had to talk about i i like your stream i', 'start': 555.36, 'duration': 3.36}
+{'text': 'more or less agree with you on pretty', 'start': 557.279, 'duration': 3.12}
+{'text': 'much everything so you know', 'start': 558.72, 'duration': 2.799}
+{'text': 'all right good job i love everybody be', 'start': 560.399, 'duration': 4.241}
+{'text': 'careful okay yeah me too', 'start': 561.519, 'duration': 4.641}
+{'text': 'not everybody is born with a [\xa0__\xa0]', 'start': 564.64, 'duration': 3.36}
+{'text': 'silver spoon they can start 50 million', 'start': 566.16, 'duration': 3.04}
+{'text': "[\xa0__\xa0] businesses you don't think a lot", 'start': 568.0, 'duration': 2.72}
+{'text': 'of these small businesses are literally', 'start': 569.2, 'duration': 5.04}
+{'text': 'these people livelihoods would', 'start': 570.72, 'duration': 3.52}

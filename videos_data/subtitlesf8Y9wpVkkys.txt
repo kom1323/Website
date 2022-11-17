@@ -1,0 +1,2367 @@
+{'text': 'what the [\xa0__\xa0] did you just say like that', 'start': 0.0, 'duration': 4.0}
+{'text': 'feels like some', 'start': 2.56, 'duration': 3.92}
+{'text': 'real supremacist i will stand by saying', 'start': 4.0, 'duration': 4.16}
+{'text': "that i don't think you should call", 'start': 6.48, 'duration': 3.92}
+{'text': 'anyone subhuman i agree which is again a', 'start': 8.16, 'duration': 4.479}
+{'text': "fine position but it doesn't make it", 'start': 10.4, 'duration': 4.48}
+{'text': 'transphobic if i get more transport', 'start': 12.639, 'duration': 3.521}
+{'text': "people follow me that's a huge plus", 'start': 14.88, 'duration': 2.64}
+{'text': 'because i argue in favor of trans people', 'start': 16.16, 'duration': 3.199}
+{'text': 'literally all the time i did in my last', 'start': 17.52, 'duration': 3.2}
+{'text': 'conversation with nick i joked about it', 'start': 19.359, 'duration': 3.121}
+{'text': 'at the end yeah of course', 'start': 20.72, 'duration': 3.6}
+{'text': 'but like part of why i have to say this', 'start': 22.48, 'duration': 3.36}
+{'text': '[\xa0__\xa0] is to like hedge my community', 'start': 24.32, 'duration': 3.199}
+{'text': 'against [\xa0__\xa0] lunatics in these', 'start': 25.84, 'duration': 3.199}
+{'text': 'communities online because they make', 'start': 27.519, 'duration': 3.68}
+{'text': 'trans people looking crazy and not all', 'start': 29.039, 'duration': 4.241}
+{'text': 'trans people are like these lunatics on', 'start': 31.199, 'duration': 3.441}
+{'text': "twitter i mean i don't think you're a", 'start': 33.28, 'duration': 2.959}
+{'text': 'good advocate for the trans community', 'start': 34.64, 'duration': 3.68}
+{'text': 'because you you know are against neo', 'start': 36.239, 'duration': 3.921}
+{'text': 'pronouns against non-binary people', 'start': 38.32, 'duration': 4.88}
+{'text': 'against trans women in sports against uh', 'start': 40.16, 'duration': 5.68}
+{'text': 'i think trans is a is an identity thing', 'start': 43.2, 'duration': 5.12}
+{'text': "i think it's a social construct", 'start': 45.84, 'duration': 4.559}
+{'text': "okay i don't know why we would ever as", 'start': 48.32, 'duration': 3.919}
+{'text': 'leslie what do you mean talking to kids', 'start': 50.399, 'duration': 4.32}
+{'text': 'too much you think social constructs', 'start': 52.239, 'duration': 4.561}
+{'text': 'come from see this is the thing one no', 'start': 54.719, 'duration': 3.52}
+{'text': 'no wait finish that sentence finish that', 'start': 56.8, 'duration': 3.279}
+{'text': 'sentence', 'start': 58.239, 'duration': 3.761}
+{'text': "i guess i've just been very confused", 'start': 60.079, 'duration': 4.48}
+{'text': 'because like i felt like', 'start': 62.0, 'duration': 3.68}
+{'text': "i don't know i felt like in our", 'start': 64.559, 'duration': 3.6}
+{'text': 'conversation when we talked about', 'start': 65.68, 'duration': 4.32}
+{'text': "like why it wasn't good to you cracker", 'start': 68.159, 'duration': 4.081}
+{'text': 'like i was', 'start': 70.0, 'duration': 3.68}
+{'text': 'i was connecting with a lot of the', 'start': 72.24, 'duration': 2.96}
+{'text': 'points you were making i was like okay', 'start': 73.68, 'duration': 3.28}
+{'text': 'it makes sense that like', 'start': 75.2, 'duration': 5.279}
+{'text': 'if i want to be morally consistent', 'start': 76.96, 'duration': 5.68}
+{'text': "then i should you know i i still don't", 'start': 80.479, 'duration': 4.081}
+{'text': 'think cracker is as bad as the n word', 'start': 82.64, 'duration': 3.519}
+{'text': 'but i was like you you kind of want me', 'start': 84.56, 'duration': 3.52}
+{'text': "to be fair no one said that ever that's", 'start': 86.159, 'duration': 3.121}
+{'text': 'never an argument that any serious', 'start': 88.08, 'duration': 2.399}
+{'text': "person has made and i've never made that", 'start': 89.28, 'duration': 3.199}
+{'text': "argument so i don't know i know", 'start': 90.479, 'duration': 3.441}
+{'text': 'no i know that you never made that', 'start': 92.479, 'duration': 3.361}
+{'text': "argument i'm just saying", 'start': 93.92, 'duration': 3.36}
+{'text': "i'm saying that you won me over with", 'start': 95.84, 'duration': 3.76}
+{'text': 'what you were saying', 'start': 97.28, 'duration': 4.879}
+{'text': "but then i guess i've just been confused", 'start': 99.6, 'duration': 4.879}
+{'text': "with why you've been doubling down on", 'start': 102.159, 'duration': 3.201}
+{'text': 'like', 'start': 104.479, 'duration': 3.361}
+{'text': 'calling people sub human or like calling', 'start': 105.36, 'duration': 4.88}
+{'text': 'the entire trans community', 'start': 107.84, 'duration': 5.279}
+{'text': 'inbred [\xa0__\xa0] losers or like insisting', 'start': 110.24, 'duration': 5.04}
+{'text': 'on continuing to say the n-word', 'start': 113.119, 'duration': 3.921}
+{'text': "because there's like three different", 'start': 115.28, 'duration': 3.519}
+{'text': 'huge things that we can walk through if', 'start': 117.04, 'duration': 3.359}
+{'text': 'you want so', 'start': 118.799, 'duration': 4.801}
+{'text': "all right what's the first one we got", 'start': 120.399, 'duration': 4.961}
+{'text': 'uh i guess', 'start': 123.6, 'duration': 4.879}
+{'text': 'uh calling people subhuman so should you', 'start': 125.36, 'duration': 4.959}
+{'text': 'just not is that just why is this like a', 'start': 128.479, 'duration': 4.48}
+{'text': 'banned insult', 'start': 130.319, 'duration': 4.481}
+{'text': "i mean i don't think it's a good yeah i", 'start': 132.959, 'duration': 4.161}
+{'text': "don't think it's like a good insult wait", 'start': 134.8, 'duration': 4.159}
+{'text': 'wait wait wait wait hold on i want i', 'start': 137.12, 'duration': 4.479}
+{'text': 'want mr beard twitter energy here so you', 'start': 138.959, 'duration': 4.961}
+{'text': 'think that that insult is transphobic', 'start': 141.599, 'duration': 4.561}
+{'text': 'why', 'start': 143.92, 'duration': 2.24}
+{'text': "i think that insult i don't", 'start': 146.56, 'duration': 5.039}
+{'text': 'i think that that is not an insult that', 'start': 150.0, 'duration': 3.68}
+{'text': 'you should use for any person okay no', 'start': 151.599, 'duration': 3.521}
+{'text': 'but you made it specific that you', 'start': 153.68, 'duration': 3.04}
+{'text': 'thought this insult specifically was', 'start': 155.12, 'duration': 4.24}
+{'text': 'transphobic', 'start': 156.72, 'duration': 5.2}
+{'text': 'why no i think that this specific insult', 'start': 159.36, 'duration': 4.8}
+{'text': 'has been used against trans people', 'start': 161.92, 'duration': 4.48}
+{'text': "historically that's what i said yeah but", 'start': 164.16, 'duration': 4.56}
+{'text': "like there's tons of insults that have", 'start': 166.4, 'duration': 4.0}
+{'text': 'been used against tons of people', 'start': 168.72, 'duration': 4.0}
+{'text': 'right subhuman is not like a specific', 'start': 170.4, 'duration': 5.36}
+{'text': 'insult for trans people i never said it', 'start': 172.72, 'duration': 5.68}
+{'text': 'was a specific insult for trans people', 'start': 175.76, 'duration': 5.44}
+{'text': "but i the reason why we don't use slurs", 'start': 178.4, 'duration': 5.28}
+{'text': 'is because calling someone a slur', 'start': 181.2, 'duration': 3.36}
+{'text': 'is', 'start': 183.68, 'duration': 2.479}
+{'text': "insinuating that you think that they're", 'start': 184.56, 'duration': 3.44}
+{'text': "sub-human that's why it's not good to", 'start': 186.159, 'duration': 4.241}
+{'text': 'call someone a slur because the origin', 'start': 188.0, 'duration': 4.08}
+{'text': 'of calling someone the n-word or calling', 'start': 190.4, 'duration': 4.32}
+{'text': 'someone the f-slur is that it stems from', 'start': 192.08, 'duration': 4.64}
+{'text': 'thinking people are sub-human which is', 'start': 194.72, 'duration': 3.68}
+{'text': "why i don't i i", 'start': 196.72, 'duration': 4.4}
+{'text': 'view calling someone subhuman on pretty', 'start': 198.4, 'duration': 4.64}
+{'text': 'much the same level as calling someone a', 'start': 201.12, 'duration': 3.6}
+{'text': "slur because that's where slurs stem", 'start': 203.04, 'duration': 2.88}
+{'text': 'from', 'start': 204.72, 'duration': 2.239}
+{'text': 'okay', 'start': 205.92, 'duration': 2.72}
+{'text': 'if that is the position that you want to', 'start': 206.959, 'duration': 3.28}
+{'text': "take that's fine", 'start': 208.64, 'duration': 3.519}
+{'text': 'but you must realize that you are almost', 'start': 210.239, 'duration': 3.681}
+{'text': 'completely alone in that position and', 'start': 212.159, 'duration': 3.601}
+{'text': 'almost every like group of people on the', 'start': 213.92, 'duration': 3.28}
+{'text': 'internet violates this mandate that', 'start': 215.76, 'duration': 3.199}
+{'text': "you've made", 'start': 217.2, 'duration': 3.2}
+{'text': 'like tons of people will say things like', 'start': 218.959, 'duration': 3.121}
+{'text': "oh like this is like inhuman or you're", 'start': 220.4, 'duration': 3.28}
+{'text': "like less than human or you're like", 'start': 222.08, 'duration': 2.64}
+{'text': "there's a lot of people that use like", 'start': 223.68, 'duration': 2.72}
+{'text': 'insults like this', 'start': 224.72, 'duration': 4.4}
+{'text': "well i don't approve of any of that and", 'start': 226.4, 'duration': 3.919}
+{'text': 'when you', 'start': 229.12, 'duration': 3.119}
+{'text': 'tweeted that kefls had called someone', 'start': 230.319, 'duration': 3.441}
+{'text': 'subhuman i thought that was [\xa0__\xa0]', 'start': 232.239, 'duration': 3.28}
+{'text': 'stupid too are you out there calling her', 'start': 233.76, 'duration': 4.32}
+{'text': 'cisphobic or', 'start': 235.519, 'duration': 3.841}
+{'text': 'because when you when you pointed out', 'start': 238.08, 'duration': 2.64}
+{'text': 'what i was saying you made it sound as', 'start': 239.36, 'duration': 3.12}
+{'text': 'though i was like specifically insulting', 'start': 240.72, 'duration': 3.76}
+{'text': 'the trans community when subhuman is not', 'start': 242.48, 'duration': 4.479}
+{'text': 'a trans-specific insult at all and when', 'start': 244.48, 'duration': 4.24}
+{'text': "i called tons of people subhuman i don't", 'start': 246.959, 'duration': 4.64}
+{'text': 'just call trans people subhuman', 'start': 248.72, 'duration': 4.4}
+{'text': 'i understand that you call tons of', 'start': 251.599, 'duration': 3.28}
+{'text': 'people subhuman but in my opinion', 'start': 253.12, 'duration': 3.359}
+{'text': 'calling someone', 'start': 254.879, 'duration': 3.36}
+{'text': 'is the same as calling them a slur and i', 'start': 256.479, 'duration': 4.081}
+{'text': "don't understand why you would go so", 'start': 258.239, 'duration': 4.561}
+{'text': 'hard against calling someone a cracker', 'start': 260.56, 'duration': 3.84}
+{'text': 'but then be totally fine with calling', 'start': 262.8, 'duration': 3.679}
+{'text': 'someone subhuman when i feel like those', 'start': 264.4, 'duration': 3.68}
+{'text': 'are pretty much the same thing because', 'start': 266.479, 'duration': 3.521}
+{'text': "when you call somebody a cracker you're", 'start': 268.08, 'duration': 3.76}
+{'text': "basically saying like you're a bad", 'start': 270.0, 'duration': 4.24}
+{'text': 'person like because of your skin color', 'start': 271.84, 'duration': 4.16}
+{'text': "it's probably not a characteristic that", 'start': 274.24, 'duration': 3.2}
+{'text': 'we should generally be attacking on', 'start': 276.0, 'duration': 3.44}
+{'text': 'people when you call somebody subhuman i', 'start': 277.44, 'duration': 3.12}
+{'text': "don't know there might be some human for", 'start': 279.44, 'duration': 4.4}
+{'text': 'a variety of reasons', 'start': 280.56, 'duration': 3.28}
+{'text': 'yeah but', 'start': 285.28, 'duration': 5.28}
+{'text': "you're not actually thinking that", 'start': 286.96, 'duration': 3.6}
+{'text': "they're actually sub-human no same thing", 'start': 290.88, 'duration': 3.039}
+{'text': "when i call people inbred i don't think", 'start': 292.639, 'duration': 3.681}
+{'text': "they're actually inside bread or like in", 'start': 293.919, 'duration': 4.801}
+{'text': 'bread with siblings like', 'start': 296.32, 'duration': 5.04}
+{'text': 'well but why would you be okay with like', 'start': 298.72, 'duration': 5.6}
+{'text': 'insulting someone for', 'start': 301.36, 'duration': 4.399}
+{'text': "for insult because you i don't know you", 'start': 304.32, 'duration': 2.719}
+{'text': 'make fun of you insult someone someone', 'start': 305.759, 'duration': 2.481}
+{'text': "says you're an [\xa0__\xa0] i don't know", 'start': 307.039, 'duration': 2.16}
+{'text': 'sometimes you think somebody said', 'start': 308.24, 'duration': 2.48}
+{'text': "something dumb i mean there's a lot of", 'start': 309.199, 'duration': 3.921}
+{'text': "reason to insult somebody i don't know", 'start': 310.72, 'duration': 4.479}
+{'text': 'yeah i think calling someone stupid is a', 'start': 313.12, 'duration': 4.32}
+{'text': "fine insult but i don't think stupid is", 'start': 315.199, 'duration': 3.761}
+{'text': 'arguably worse what do you mean i mean', 'start': 317.44, 'duration': 3.28}
+{'text': 'like like intelligence can correlate', 'start': 318.96, 'duration': 3.2}
+{'text': 'with class which can have a lot to do', 'start': 320.72, 'duration': 2.8}
+{'text': "with your life position like it's a", 'start': 322.16, 'duration': 3.12}
+{'text': 'little bit ableist like i feel like i', 'start': 323.52, 'duration': 2.959}
+{'text': 'can make all the same arguments get', 'start': 325.28, 'duration': 3.6}
+{'text': 'stupid that you could for some human', 'start': 326.479, 'duration': 4.081}
+{'text': 'okay but then it feels like all the', 'start': 328.88, 'duration': 3.44}
+{'text': "arguments you're making now completely", 'start': 330.56, 'duration': 3.6}
+{'text': 'contradict the arguments you made for', 'start': 332.32, 'duration': 3.599}
+{'text': "why we shouldn't use cracker it's like", 'start': 334.16, 'duration': 3.599}
+{'text': "hold on let's you specifically think", 'start': 335.919, 'duration': 4.801}
+{'text': 'that skin color is something that', 'start': 337.759, 'duration': 4.88}
+{'text': 'like should never be insulted but', 'start': 340.72, 'duration': 3.919}
+{'text': 'intelligence or calling people so human', 'start': 342.639, 'duration': 3.921}
+{'text': "is totally fine i don't understand your", 'start': 344.639, 'duration': 3.601}
+{'text': 'argument okay hold on first of all i', 'start': 346.56, 'duration': 2.8}
+{'text': 'never said the skin color something you', 'start': 348.24, 'duration': 2.72}
+{'text': "shouldn't ever make fun of you probably", 'start': 349.36, 'duration': 3.279}
+{'text': "shouldn't okay but i don't have any hard", 'start': 350.96, 'duration': 2.72}
+{'text': "lines like that but i'm saying like if", 'start': 352.639, 'duration': 2.4}
+{'text': "you are be aware of what you're doing", 'start': 353.68, 'duration': 2.88}
+{'text': "you're just being kind of racist right", 'start': 355.039, 'duration': 2.641}
+{'text': "when you insult somebody's like skin", 'start': 356.56, 'duration': 3.44}
+{'text': "color insulting somebody's skin color", 'start': 357.68, 'duration': 3.92}
+{'text': "it's not the same as insulting", 'start': 360.0, 'duration': 3.039}
+{'text': "somebody's like intelligence or", 'start': 361.6, 'duration': 2.8}
+{'text': 'something like that or like a position', 'start': 363.039, 'duration': 2.961}
+{'text': 'that somebody has right these are', 'start': 364.4, 'duration': 3.28}
+{'text': 'markedly different things we can say', 'start': 366.0, 'duration': 2.96}
+{'text': 'that all of them are bad or you', 'start': 367.68, 'duration': 2.56}
+{'text': "shouldn't do it but they're still very", 'start': 368.96, 'duration': 3.359}
+{'text': 'different', 'start': 370.24, 'duration': 4.079}
+{'text': 'yeah well when i call someone stupid', 'start': 372.319, 'duration': 4.241}
+{'text': "it's because i'm insulting their", 'start': 374.319, 'duration': 4.561}
+{'text': 'opinions and their positions calling', 'start': 376.56, 'duration': 5.52}
+{'text': 'someone subhuman is is like implying', 'start': 378.88, 'duration': 5.039}
+{'text': "that you think that they're a lower like", 'start': 382.08, 'duration': 4.0}
+{'text': "class of human it's just yeah this is", 'start': 383.919, 'duration': 4.0}
+{'text': "what we do when we insult people that's", 'start': 386.08, 'duration': 2.8}
+{'text': 'the whole point of it like when you call', 'start': 387.919, 'duration': 2.72}
+{'text': "somebody like oh like you're filth or", 'start': 388.88, 'duration': 3.68}
+{'text': "like oh like you're a [\xa0__\xa0] or oh like", 'start': 390.639, 'duration': 5.601}
+{'text': "that's the whole point of these things", 'start': 392.56, 'duration': 3.68}
+{'text': "i just don't think that calling yeah i", 'start': 396.88, 'duration': 4.159}
+{'text': "mean i'm just not gonna", 'start': 399.199, 'duration': 3.601}
+{'text': 'ever think that calling someone subhuman', 'start': 401.039, 'duration': 3.6}
+{'text': 'is a good insult because of the history', 'start': 402.8, 'duration': 4.16}
+{'text': 'of that considering people sub-human is', 'start': 404.639, 'duration': 4.4}
+{'text': 'what leads to [\xa0__\xa0] genocides and [\xa0__\xa0]', 'start': 406.96, 'duration': 3.519}
+{'text': "i don't think it's calling people", 'start': 409.039, 'duration': 3.361}
+{'text': 'subhuman is what leads to genocide i', 'start': 410.479, 'duration': 2.881}
+{'text': 'think there are more important', 'start': 412.4, 'duration': 2.48}
+{'text': 'conditions than what people say to each', 'start': 413.36, 'duration': 3.36}
+{'text': 'other on twitter but listen if you want', 'start': 414.88, 'duration': 2.96}
+{'text': "to have the position that you shouldn't", 'start': 416.72, 'duration': 2.8}
+{'text': "use sub-human as an insult that's fine", 'start': 417.84, 'duration': 3.199}
+{'text': "that's an okay position to have but you", 'start': 419.52, 'duration': 3.2}
+{'text': "can't say that somebody called somebody", 'start': 421.039, 'duration': 3.361}
+{'text': "subhuman therefore they're transphobic", 'start': 422.72, 'duration': 3.44}
+{'text': "that's a huge jump nobody's calling", 'start': 424.4, 'duration': 3.84}
+{'text': "anybody subhuman because they're trans", 'start': 426.16, 'duration': 3.52}
+{'text': 'this just happens to be the insult that', 'start': 428.24, 'duration': 2.959}
+{'text': 'somebody uses', 'start': 429.68, 'duration': 4.639}
+{'text': "it wasn't that it's necessarily", 'start': 431.199, 'duration': 5.601}
+{'text': 'a specifically transphobic insult i just', 'start': 434.319, 'duration': 5.121}
+{'text': 'found it confusing why you were', 'start': 436.8, 'duration': 4.399}
+{'text': "saying that we shouldn't dehumanize", 'start': 439.44, 'duration': 4.0}
+{'text': 'trans people but then you are calling', 'start': 441.199, 'duration': 4.0}
+{'text': 'them subhuman and literally the', 'start': 443.44, 'duration': 4.159}
+{'text': 'definition of calling someone subhuman', 'start': 445.199, 'duration': 4.881}
+{'text': 'is dehumanizing them like okay', 'start': 447.599, 'duration': 3.521}
+{'text': 'you agree that if you call someone', 'start': 450.08, 'duration': 4.239}
+{'text': 'subhuman that is dehumanizing them right', 'start': 451.12, 'duration': 5.12}
+{'text': 'okay let me just i swear to god this', 'start': 454.319, 'duration': 3.761}
+{'text': "isn't like i'm just asking how old are", 'start': 456.24, 'duration': 3.76}
+{'text': 'you i forgot', 'start': 458.08, 'duration': 6.119}
+{'text': "i'm 24. okay", 'start': 460.0, 'duration': 4.199}
+{'text': 'when i say you should why does that', 'start': 464.319, 'duration': 3.841}
+{'text': 'matter just because this the engagement', 'start': 466.08, 'duration': 3.839}
+{'text': 'with this topic is very', 'start': 468.16, 'duration': 3.52}
+{'text': 'very naive okay but', 'start': 469.919, 'duration': 4.56}
+{'text': "i'm just vocabulary speaking i like when", 'start': 471.68, 'duration': 6.4}
+{'text': "i say that you shouldn't attack black", 'start': 474.479, 'duration': 4.881}
+{'text': 'people', 'start': 478.08, 'duration': 2.88}
+{'text': "that doesn't mean that you shouldn't", 'start': 479.36, 'duration': 4.8}
+{'text': 'attack every individual black person', 'start': 480.96, 'duration': 4.32}
+{'text': "that means that you shouldn't attack", 'start': 484.16, 'duration': 3.08}
+{'text': 'like i think black', 'start': 485.28, 'duration': 4.88}
+{'text': 'people as like a class so when i say', 'start': 487.24, 'duration': 5.239}
+{'text': "like you shouldn't dehumanize trans", 'start': 490.16, 'duration': 4.08}
+{'text': "people what i mean is you shouldn't be", 'start': 492.479, 'duration': 4.4}
+{'text': 'saying like oh like all trans people are', 'start': 494.24, 'duration': 4.88}
+{'text': "x you shouldn't attack the entire group", 'start': 496.879, 'duration': 4.401}
+{'text': "is what i mean right that's there's a", 'start': 499.12, 'duration': 3.84}
+{'text': 'difference between saying that like you', 'start': 501.28, 'duration': 3.52}
+{'text': "shouldn't attack x class of people", 'start': 502.96, 'duration': 3.359}
+{'text': 'versus saying every single person in', 'start': 504.8, 'duration': 4.16}
+{'text': 'that class is unassailable those are two', 'start': 506.319, 'duration': 4.32}
+{'text': 'wildly different things they i guess', 'start': 508.96, 'duration': 2.959}
+{'text': 'they sound similar because they use', 'start': 510.639, 'duration': 3.76}
+{'text': 'different words but these are totally', 'start': 511.919, 'duration': 4.24}
+{'text': 'different things', 'start': 514.399, 'duration': 4.161}
+{'text': 'well for one thing you called the entire', 'start': 516.159, 'duration': 4.961}
+{'text': 'trans community inbreds so you did', 'start': 518.56, 'duration': 4.399}
+{'text': "that's not what i said", 'start': 521.12, 'duration': 4.08}
+{'text': 'what i said was that the online activist', 'start': 522.959, 'duration': 4.32}
+{'text': 'trans community is [\xa0__\xa0] like inbred', 'start': 525.2, 'duration': 4.639}
+{'text': 'insane you said the trans community is', 'start': 527.279, 'duration': 4.481}
+{'text': 'inbred [\xa0__\xa0] losers i mean maybe you', 'start': 529.839, 'duration': 4.641}
+{'text': 'meant the online', 'start': 531.76, 'duration': 4.56}
+{'text': "hold on let's ask you what do you think", 'start': 534.48, 'duration': 3.68}
+{'text': 'do you think i meant the entire trans', 'start': 536.32, 'duration': 3.28}
+{'text': 'community or do you think that i meant', 'start': 538.16, 'duration': 3.119}
+{'text': 'the specifically activist trans', 'start': 539.6, 'duration': 3.04}
+{'text': "community that i'm fighting with all the", 'start': 541.279, 'duration': 3.041}
+{'text': 'time on on twitter what do you think i', 'start': 542.64, 'duration': 3.199}
+{'text': 'meant', 'start': 544.32, 'duration': 2.8}
+{'text': 'i think it', 'start': 545.839, 'duration': 3.44}
+{'text': "i mean it's what you said no hold on let", 'start': 547.12, 'duration': 3.6}
+{'text': 'use your brain think about it what do', 'start': 549.279, 'duration': 2.961}
+{'text': 'you really think i meant there', 'start': 550.72, 'duration': 2.96}
+{'text': 'do you think i actually just hate trans', 'start': 552.24, 'duration': 2.719}
+{'text': 'people and i think all trans people are', 'start': 553.68, 'duration': 2.719}
+{'text': "horrible inbred people i've got a", 'start': 554.959, 'duration': 2.56}
+{'text': "community of trans people i've got a", 'start': 556.399, 'duration': 2.241}
+{'text': 'record of talking about you think you', 'start': 557.519, 'duration': 3.601}
+{'text': "really think that's what i meant", 'start': 558.64, 'duration': 4.8}
+{'text': 'no probably not so you are the cancer', 'start': 561.12, 'duration': 3.839}
+{'text': "that's contributing to people thinking", 'start': 563.44, 'duration': 2.959}
+{'text': "stuff like this you're not using your", 'start': 564.959, 'duration': 3.281}
+{'text': "brain right i obviously i'm talking", 'start': 566.399, 'duration': 3.601}
+{'text': 'about one because i think i specifically', 'start': 568.24, 'duration': 3.36}
+{'text': 'said it even in the message i was', 'start': 570.0, 'duration': 3.44}
+{'text': 'specifically talking about this the', 'start': 571.6, 'duration': 3.84}
+{'text': 'trans community online which is', 'start': 573.44, 'duration': 3.839}
+{'text': 'cancerous and inbred and horrible but', 'start': 575.44, 'duration': 3.44}
+{'text': "that's way different than saying i think", 'start': 577.279, 'duration': 3.68}
+{'text': "all trans people are bad that's clearly", 'start': 578.88, 'duration': 3.6}
+{'text': "not working you're not you're not", 'start': 580.959, 'duration': 3.681}
+{'text': 'understanding how slurs work because if', 'start': 582.48, 'duration': 4.32}
+{'text': 'you call someone a slur', 'start': 584.64, 'duration': 3.84}
+{'text': "you might be like oh i'm just calling", 'start': 586.8, 'duration': 3.36}
+{'text': 'you the n word because i think you', 'start': 588.48, 'duration': 3.44}
+{'text': 'specifically are stupid but if you call', 'start': 590.16, 'duration': 4.239}
+{'text': 'someone the n-word that has the whole', 'start': 591.92, 'duration': 4.72}
+{'text': 'like history of the n-word and the fact', 'start': 594.399, 'duration': 4.641}
+{'text': 'that like yeah that the n-word is a', 'start': 596.64, 'duration': 5.439}
+{'text': 'targeted slur for black people', 'start': 599.04, 'duration': 5.76}
+{'text': 'if i was calling somebody like a tree', 'start': 602.079, 'duration': 3.921}
+{'text': 'then you have a good argument because', 'start': 604.8, 'duration': 2.159}
+{'text': 'like wait why the [\xa0__\xa0] would you say and', 'start': 606.0, 'duration': 2.079}
+{'text': "then i'm like oh i just want like this", 'start': 606.959, 'duration': 2.961}
+{'text': "one trans person i don't like that then", 'start': 608.079, 'duration': 3.44}
+{'text': "it's like wait hold on now you're using", 'start': 609.92, 'duration': 3.76}
+{'text': 'a slur targeted towards trans people now', 'start': 611.519, 'duration': 4.241}
+{'text': "this looks way different right that's a", 'start': 613.68, 'duration': 4.88}
+{'text': 'totally different thing well i think i', 'start': 615.76, 'duration': 5.28}
+{'text': 'just i come from a perspective where', 'start': 618.56, 'duration': 4.719}
+{'text': 'and subhuman mean pretty much the same', 'start': 621.04, 'duration': 4.479}
+{'text': 'thing', 'start': 623.279, 'duration': 2.24}
+{'text': 'dude', 'start': 627.44, 'duration': 3.839}
+{'text': 'do you really believe that', 'start': 629.68, 'duration': 4.56}
+{'text': 'no i genuinely do yeah', 'start': 631.279, 'duration': 5.12}
+{'text': 'because why would you call someone', 'start': 634.24, 'duration': 4.4}
+{'text': "unless you're thinking that they're", 'start': 636.399, 'duration': 2.961}
+{'text': 'like', 'start': 638.64, 'duration': 2.8}
+{'text': 'when you use that insult against a trans', 'start': 639.36, 'duration': 5.039}
+{'text': 'person the connotation is that you hate', 'start': 641.44, 'duration': 5.44}
+{'text': "trans people like you're using a slur", 'start': 644.399, 'duration': 5.521}
+{'text': 'that is designed to target trans people', 'start': 646.88, 'duration': 4.48}
+{'text': "it's yeah i think calling someone", 'start': 649.92, 'duration': 3.039}
+{'text': "subhuman means that you think you're", 'start': 651.36, 'duration': 3.52}
+{'text': 'above that person yeah no [\xa0__\xa0] i do i', 'start': 652.959, 'duration': 3.281}
+{'text': "think i'm above the [\xa0__\xa0] morons that", 'start': 654.88, 'duration': 2.959}
+{'text': "i debate online but not because they're", 'start': 656.24, 'duration': 4.48}
+{'text': "trans subhuman doesn't have that meaning", 'start': 657.839, 'duration': 4.881}
+{'text': "subhuman wasn't created to insult trans", 'start': 660.72, 'duration': 3.679}
+{'text': 'people', 'start': 662.72, 'duration': 3.92}
+{'text': "it's a word that's it means that you", 'start': 664.399, 'duration': 3.841}
+{'text': "think that you're like above that person", 'start': 666.64, 'duration': 3.199}
+{'text': 'yeah no [\xa0__\xa0] i think do you not think i', 'start': 668.24, 'duration': 3.2}
+{'text': "think i'm above people that i argue with", 'start': 669.839, 'duration': 3.601}
+{'text': 'sometimes yeah no [\xa0__\xa0]', 'start': 671.44, 'duration': 4.0}
+{'text': "i don't think that a slur suddenly", 'start': 673.44, 'duration': 3.12}
+{'text': 'becomes', 'start': 675.44, 'duration': 3.68}
+{'text': 'like better or worse just because it was', 'start': 676.56, 'duration': 4.8}
+{'text': 'designed to target a specific community', 'start': 679.12, 'duration': 4.399}
+{'text': "that doesn't make sense to me at all", 'start': 681.36, 'duration': 4.24}
+{'text': 'what is what is it', 'start': 683.519, 'duration': 3.201}
+{'text': "okay what's the difference between just", 'start': 685.6, 'duration': 5.12}
+{'text': 'like a slur and an insult to you then', 'start': 686.72, 'duration': 4.0}
+{'text': 'like what about like if i call somebody', 'start': 693.92, 'duration': 3.28}
+{'text': 'like [\xa0__\xa0] or filth like what is that', 'start': 695.12, 'duration': 6.12}
+{'text': 'are those slurs to you or', 'start': 697.2, 'duration': 4.04}
+{'text': 'i think slur it would be', 'start': 702.0, 'duration': 5.2}
+{'text': 'something that is like attacking someone', 'start': 704.88, 'duration': 3.68}
+{'text': 'for', 'start': 707.2, 'duration': 3.199}
+{'text': 'like who they are rather than their', 'start': 708.56, 'duration': 3.519}
+{'text': "opinions that's generally what i would", 'start': 710.399, 'duration': 3.12}
+{'text': 'consider that so when you call somebody', 'start': 712.079, 'duration': 3.521}
+{'text': 'a dumb [\xa0__\xa0] or an idiot what are you', 'start': 713.519, 'duration': 3.601}
+{'text': 'attacking there', 'start': 715.6, 'duration': 3.359}
+{'text': "they're opinions", 'start': 717.12, 'duration': 3.92}
+{'text': 'really you are a dumb [\xa0__\xa0] is just', 'start': 718.959, 'duration': 5.44}
+{'text': "attacking somebody's opinions", 'start': 721.04, 'duration': 3.359}
+{'text': 'well generally yeah', 'start': 724.48, 'duration': 4.4}
+{'text': "it's literally a noun you are a dumb", 'start': 726.56, 'duration': 5.519}
+{'text': '[\xa0__\xa0] not your opinions are dumb or like', 'start': 728.88, 'duration': 5.36}
+{'text': 'i', 'start': 732.079, 'duration': 2.161}
+{'text': "i can't tell you really think this or", 'start': 734.56, 'duration': 2.399}
+{'text': 'not', 'start': 735.68, 'duration': 2.88}
+{'text': 'no i do genuinely think this i do', 'start': 736.959, 'duration': 2.961}
+{'text': "genuinely think that you shouldn't call", 'start': 738.56, 'duration': 3.519}
+{'text': 'people subhuman no i i understand that', 'start': 739.92, 'duration': 3.039}
+{'text': "but i just i don't know what the", 'start': 742.079, 'duration': 2.32}
+{'text': 'difference is for you between like an', 'start': 742.959, 'duration': 3.921}
+{'text': 'insult and a slur because it sounds like', 'start': 744.399, 'duration': 3.44}
+{'text': "you're basically advocating for is you", 'start': 746.88, 'duration': 3.84}
+{'text': 'just should never insult people', 'start': 747.839, 'duration': 4.161}
+{'text': 'right', 'start': 750.72, 'duration': 3.04}
+{'text': 'no i think that you should insult people', 'start': 752.0, 'duration': 4.0}
+{'text': 'for their opinions and perspectives i do', 'start': 753.76, 'duration': 3.519}
+{'text': 'involve people for their opinions and', 'start': 756.0, 'duration': 3.12}
+{'text': 'perspectives one of the words i do that', 'start': 757.279, 'duration': 3.601}
+{'text': 'with is subhuman', 'start': 759.12, 'duration': 4.719}
+{'text': 'yeah but the word subhuman stems from', 'start': 760.88, 'duration': 4.32}
+{'text': 'like', 'start': 763.839, 'duration': 3.361}
+{'text': 'thinking that you are like genetically', 'start': 765.2, 'duration': 3.759}
+{'text': 'superior to people not that you think', 'start': 767.2, 'duration': 3.04}
+{'text': "that you're above someone because your", 'start': 768.959, 'duration': 3.841}
+{'text': 'opinions are better the word subhuman', 'start': 770.24, 'duration': 5.039}
+{'text': 'comes from thinking that like your race', 'start': 772.8, 'duration': 5.039}
+{'text': "is superior to someone else's race so my", 'start': 775.279, 'duration': 4.321}
+{'text': 'race of', 'start': 777.839, 'duration': 3.281}
+{'text': 'european whatever is superior to the', 'start': 779.6, 'duration': 3.84}
+{'text': 'race of trans people or what', 'start': 781.12, 'duration': 3.92}
+{'text': "no i'm saying any time throughout", 'start': 783.44, 'duration': 2.88}
+{'text': 'history that someone what are you', 'start': 785.04, 'duration': 2.72}
+{'text': "talking about any time they're at", 'start': 786.32, 'duration': 3.92}
+{'text': 'history i can call any person a subhuman', 'start': 787.76, 'duration': 4.4}
+{'text': "it's a generic insult i if i were to", 'start': 790.24, 'duration': 3.599}
+{'text': "call another person like a [\xa0__\xa0] isn't", 'start': 792.16, 'duration': 3.76}
+{'text': "it doesn't make any sense it's an insult", 'start': 793.839, 'duration': 4.161}
+{'text': 'targeted towards trans people', 'start': 795.92, 'duration': 3.359}
+{'text': 'why would i call a normal and if i use', 'start': 798.0, 'duration': 2.079}
+{'text': "an insult like that it's pretty", 'start': 799.279, 'duration': 2.24}
+{'text': "indicative that i don't like trans", 'start': 800.079, 'duration': 2.88}
+{'text': 'people like if i heard somebody call', 'start': 801.519, 'duration': 3.201}
+{'text': "somebody a subhuman it's like okay well", 'start': 802.959, 'duration': 3.44}
+{'text': "that's they man they're sending a bit me", 'start': 804.72, 'duration': 2.799}
+{'text': 'an insult towards them if i hear', 'start': 806.399, 'duration': 2.961}
+{'text': 'somebody use trendy towards somebody oh', 'start': 807.519, 'duration': 2.801}
+{'text': "this person sounds like they're", 'start': 809.36, 'duration': 4.159}
+{'text': "transphobic that's what i would assume", 'start': 810.32, 'duration': 4.959}
+{'text': "okay sure that's the perspective that", 'start': 813.519, 'duration': 3.12}
+{'text': "you can have no no that's the", 'start': 815.279, 'duration': 2.961}
+{'text': 'perspective that you would have as well', 'start': 816.639, 'duration': 3.2}
+{'text': 'because if you heard oh wow somebody', 'start': 818.24, 'duration': 3.52}
+{'text': "called somebody subhuman you've got to", 'start': 819.839, 'duration': 3.281}
+{'text': "ask who they're even talking to to", 'start': 821.76, 'duration': 3.04}
+{'text': 'figure out how you feel about it right', 'start': 823.12, 'duration': 2.959}
+{'text': 'because what if i was just talking to', 'start': 824.8, 'duration': 2.479}
+{'text': 'like a black person do you think that', 'start': 826.079, 'duration': 2.641}
+{'text': "now that's a racist word instead of a", 'start': 827.279, 'duration': 2.8}
+{'text': 'transphobic word', 'start': 828.72, 'duration': 2.96}
+{'text': 'if you go up to a black person and call', 'start': 830.079, 'duration': 3.44}
+{'text': 'them subhuman then yeah that would have', 'start': 831.68, 'duration': 4.92}
+{'text': "racist connotations to it so it's like a", 'start': 833.519, 'duration': 5.12}
+{'text': 'multi-faceted slur that takes on', 'start': 836.6, 'duration': 3.16}
+{'text': 'different', 'start': 838.639, 'duration': 2.56}
+{'text': 'definitions depending on who you say it', 'start': 839.76, 'duration': 3.199}
+{'text': 'to different words have different', 'start': 841.199, 'duration': 3.601}
+{'text': 'contexts depending on what you say than', 'start': 842.959, 'duration': 3.601}
+{'text': 'men so', 'start': 844.8, 'duration': 3.68}
+{'text': 'if i call like a black person like an', 'start': 846.56, 'duration': 4.399}
+{'text': 'idiot or like a [\xa0__\xa0]', 'start': 848.48, 'duration': 5.039}
+{'text': 'given like the race like divides of', 'start': 850.959, 'duration': 4.161}
+{'text': 'education in the united states is that', 'start': 853.519, 'duration': 5.12}
+{'text': 'like kind of a racial slur too or', 'start': 855.12, 'duration': 5.12}
+{'text': "i mean i think there's an interesting", 'start': 858.639, 'duration': 4.961}
+{'text': 'discussion to be had about like how', 'start': 860.24, 'duration': 6.0}
+{'text': 'insults are based on ableism in a lot of', 'start': 863.6, 'duration': 4.4}
+{'text': "ways i think it's a complicated", 'start': 866.24, 'duration': 4.48}
+{'text': "discussion that there's no like easy", 'start': 868.0, 'duration': 4.8}
+{'text': "conclusion to come to okay why don't you", 'start': 870.72, 'duration': 3.919}
+{'text': 'just lead with that on twitter then say', 'start': 872.8, 'duration': 3.76}
+{'text': "hey i don't think any insults are good", 'start': 874.639, 'duration': 3.281}
+{'text': 'instead of sounding like you have a sane', 'start': 876.56, 'duration': 2.639}
+{'text': 'position that mor most people are', 'start': 877.92, 'duration': 2.24}
+{'text': 'because right now we were talking to', 'start': 879.199, 'duration': 2.801}
+{'text': 'something this is some weird niche [\xa0__\xa0]', 'start': 880.16, 'duration': 3.28}
+{'text': 'that literally nobody else would agree', 'start': 882.0, 'duration': 3.04}
+{'text': "with or like very few people you're like", 'start': 883.44, 'duration': 4.079}
+{'text': 'in a very at a very unique area', 'start': 885.04, 'duration': 4.159}
+{'text': 'when you think that like stupid can be', 'start': 887.519, 'duration': 4.32}
+{'text': 'like a racist slur sorry slash no i', 'start': 889.199, 'duration': 4.401}
+{'text': "don't think that stupid can be a racist", 'start': 891.839, 'duration': 3.44}
+{'text': "slur i think it's specifically the", 'start': 893.6, 'duration': 4.799}
+{'text': 'history behind the word subhuman stupid', 'start': 895.279, 'duration': 5.36}
+{'text': 'generally is you call someone stupid if', 'start': 898.399, 'duration': 4.161}
+{'text': "you don't like their opinions generally", 'start': 900.639, 'duration': 3.921}
+{'text': 'you call someone subhuman historically', 'start': 902.56, 'duration': 3.36}
+{'text': "if you think that you're like racially", 'start': 904.56, 'duration': 3.76}
+{'text': "superior or you think that they're like", 'start': 905.92, 'duration': 4.32}
+{'text': 'you know a [\xa0__\xa0] abomination because', 'start': 908.32, 'duration': 3.519}
+{'text': "they're transgender or something why", 'start': 910.24, 'duration': 3.2}
+{'text': "can't we just do what you said earlier", 'start': 911.839, 'duration': 4.481}
+{'text': 'and just look at the usage of the word', 'start': 913.44, 'duration': 4.88}
+{'text': 'and see like how is this per like for', 'start': 916.32, 'duration': 4.24}
+{'text': 'instance if i were to go on twitter and', 'start': 918.32, 'duration': 5.04}
+{'text': 'i would tweet something out like um like', 'start': 920.56, 'duration': 4.079}
+{'text': 'oh like', 'start': 923.36, 'duration': 3.599}
+{'text': "trans people don't belong in cis sports", 'start': 924.639, 'duration': 3.921}
+{'text': "because they're sub-human", 'start': 926.959, 'duration': 3.761}
+{'text': "that looks pretty transphobic but if i'm", 'start': 928.56, 'duration': 3.519}
+{'text': "talking to one person and i'm saying", 'start': 930.72, 'duration': 2.96}
+{'text': 'like oh this person is [\xa0__\xa0] subhuman', 'start': 932.079, 'duration': 3.44}
+{'text': "this is a stupid [\xa0__\xa0] like where's the", 'start': 933.68, 'duration': 3.519}
+{'text': 'indication that like where have i been', 'start': 935.519, 'duration': 3.521}
+{'text': 'like have i ever attacked these people', 'start': 937.199, 'duration': 3.921}
+{'text': "because they're trans like on their", 'start': 939.04, 'duration': 3.44}
+{'text': "transness isn't that kind of a", 'start': 941.12, 'duration': 4.639}
+{'text': 'prerequisite for it to be transphobic', 'start': 942.48, 'duration': 5.039}
+{'text': 'i agree that there are better and worse', 'start': 945.759, 'duration': 4.401}
+{'text': 'contexts to call someone subhuman', 'start': 947.519, 'duration': 5.76}
+{'text': "but i just don't think that it's like", 'start': 950.16, 'duration': 4.56}
+{'text': 'good regardless', 'start': 953.279, 'duration': 3.56}
+{'text': "but we're really far away from being", 'start': 954.72, 'duration': 4.96}
+{'text': 'transphobic ev why is everything', 'start': 956.839, 'duration': 4.601}
+{'text': 'transphobic why do you have to treat', 'start': 959.68, 'duration': 3.839}
+{'text': "like trans people like they're like a", 'start': 961.44, 'duration': 4.0}
+{'text': 'special protected classy', 'start': 963.519, 'duration': 3.841}
+{'text': "it's because of the history of the word", 'start': 965.44, 'duration': 3.839}
+{'text': 'subhuman and the history of oppression', 'start': 967.36, 'duration': 4.64}
+{'text': 'that comes behind it', 'start': 969.279, 'duration': 4.48}
+{'text': "i don't think that trans people's", 'start': 972.0, 'duration': 4.32}
+{'text': 'biggest like insult against them is sub', 'start': 973.759, 'duration': 4.08}
+{'text': "i don't even think that's one of them i", 'start': 976.32, 'duration': 3.12}
+{'text': "think that i could list like i'm not", 'start': 977.839, 'duration': 4.881}
+{'text': 'saying translators before sub-human', 'start': 979.44, 'duration': 5.28}
+{'text': "sure i'm not saying it's the biggest i'm", 'start': 982.72, 'duration': 3.6}
+{'text': 'just saying that it has a lot of history', 'start': 984.72, 'duration': 3.6}
+{'text': 'behind it but it does legitimately', 'start': 986.32, 'duration': 3.439}
+{'text': 'believe that trans people are sub-human', 'start': 988.32, 'duration': 3.68}
+{'text': "yes it absolutely does i don't agree i", 'start': 989.759, 'duration': 4.161}
+{'text': "just don't agree with that", 'start': 992.0, 'duration': 3.839}
+{'text': 'i i think that there are a lot of slurs', 'start': 993.92, 'duration': 3.599}
+{'text': 'that are used against trans people i', 'start': 995.839, 'duration': 4.641}
+{'text': "don't think sub-human is one of them", 'start': 997.519, 'duration': 4.481}
+{'text': 'if', 'start': 1000.48, 'duration': 4.0}
+{'text': "i'm i'm non-binary so you know some", 'start': 1002.0, 'duration': 4.72}
+{'text': "people would consider me trans i don't", 'start': 1004.48, 'duration': 4.56}
+{'text': "and i don't care but okay", 'start': 1006.72, 'duration': 3.919}
+{'text': "wait yeah we don't have to discuss that", 'start': 1009.04, 'duration': 3.12}
+{'text': "okay i'm not binary too so don't worry", 'start': 1010.639, 'duration': 3.2}
+{'text': 'destiny the ontological status of the', 'start': 1012.16, 'duration': 3.119}
+{'text': 'previous normative russians', 'start': 1013.839, 'duration': 3.521}
+{'text': 'yeah no legitimately to me if someone', 'start': 1015.279, 'duration': 4.0}
+{'text': 'were to call me subhuman that feels like', 'start': 1017.36, 'duration': 3.919}
+{'text': 'a real [\xa0__\xa0] like', 'start': 1019.279, 'duration': 4.48}
+{'text': 'like what the [\xa0__\xa0] did you just say like', 'start': 1021.279, 'duration': 4.16}
+{'text': 'that feels like some', 'start': 1023.759, 'duration': 4.08}
+{'text': 'real supremacist [\xa0__\xa0] i mean maybe you', 'start': 1025.439, 'duration': 4.721}
+{'text': "just use it casually you're like oh", 'start': 1027.839, 'duration': 3.921}
+{'text': 'everyone is sub human but to me when i', 'start': 1030.16, 'duration': 3.279}
+{'text': "hear subhuman i think like that's", 'start': 1031.76, 'duration': 2.88}
+{'text': "[\xa0__\xa0] do you think that's because", 'start': 1033.439, 'duration': 2.721}
+{'text': "you're non-binary so you would never", 'start': 1034.64, 'duration': 3.279}
+{'text': 'actually face transphobia in your life', 'start': 1036.16, 'duration': 3.12}
+{'text': 'before', 'start': 1037.919, 'duration': 2.241}
+{'text': 'like', 'start': 1039.28, 'duration': 2.799}
+{'text': 'like you like why are you why is that', 'start': 1040.16, 'duration': 3.919}
+{'text': "what you're jumping to because because", 'start': 1042.079, 'duration': 3.6}
+{'text': "as somebody that's been active in trans", 'start': 1044.079, 'duration': 3.6}
+{'text': 'communities for like five years i know', 'start': 1045.679, 'duration': 4.0}
+{'text': 'what trans insults are and i know when i', 'start': 1047.679, 'duration': 3.36}
+{'text': 'see certain words like when i hear', 'start': 1049.679, 'duration': 2.721}
+{'text': 'people saying like true', 'start': 1051.039, 'duration': 2.801}
+{'text': "or trapp or stuff like this there's", 'start': 1052.4, 'duration': 2.8}
+{'text': "things i see it's like okay this person", 'start': 1053.84, 'duration': 2.56}
+{'text': "is transphobic but when you're saying", 'start': 1055.2, 'duration': 2.88}
+{'text': 'like wow somebody called me subhuman', 'start': 1056.4, 'duration': 3.68}
+{'text': 'they must hate trans people like or', 'start': 1058.08, 'duration': 4.24}
+{'text': "that's like a really big insult like", 'start': 1060.08, 'duration': 3.68}
+{'text': "i'm not making the argument that every", 'start': 1062.32, 'duration': 3.04}
+{'text': 'single person in the trans community', 'start': 1063.76, 'duration': 3.6}
+{'text': 'would see subhuman as the worst possible', 'start': 1065.36, 'duration': 4.319}
+{'text': "insult no hold on don't hyperbolize me", 'start': 1067.36, 'duration': 4.48}
+{'text': "i'm not saying it's the worst possible", 'start': 1069.679, 'duration': 3.12}
+{'text': "i'm just think that's not something", 'start': 1071.84, 'duration': 3.12}
+{'text': "that's generally like associated with", 'start': 1072.799, 'duration': 3.76}
+{'text': 'like on its own if you heard somebody', 'start': 1074.96, 'duration': 3.12}
+{'text': "say subhuman you're like oh wow this", 'start': 1076.559, 'duration': 3.521}
+{'text': 'person must be like a supremacist like', 'start': 1078.08, 'duration': 3.599}
+{'text': "that's just not", 'start': 1080.08, 'duration': 4.0}
+{'text': 'okay maybe from your perspective no from', 'start': 1081.679, 'duration': 4.0}
+{'text': "everybody's perspective nobody thinks", 'start': 1084.08, 'duration': 4.8}
+{'text': "this nobody does you're alone people", 'start': 1085.679, 'duration': 5.041}
+{'text': "okay maybe i'm alone then i have the", 'start': 1088.88, 'duration': 4.0}
+{'text': 'perspective that calling people subhuman', 'start': 1090.72, 'duration': 5.68}
+{'text': 'is a [\xa0__\xa0] supremacist thing to say', 'start': 1092.88, 'duration': 5.36}
+{'text': 'and maybe i am alone in this position', 'start': 1096.4, 'duration': 3.36}
+{'text': "but i don't think anyone you should call", 'start': 1098.24, 'duration': 3.6}
+{'text': "anyone subhuman which i don't think you", 'start': 1099.76, 'duration': 3.68}
+{'text': 'should call white people subhuman men', 'start': 1101.84, 'duration': 2.8}
+{'text': "subhuman i don't think you should call", 'start': 1103.44, 'duration': 3.2}
+{'text': "anyone that okay and i'm okay maybe i'm", 'start': 1104.64, 'duration': 3.84}
+{'text': 'alone in that perspective', 'start': 1106.64, 'duration': 3.12}
+{'text': "i don't think i am alone in that", 'start': 1108.48, 'duration': 3.04}
+{'text': 'position because i saw a lot of people', 'start': 1109.76, 'duration': 3.36}
+{'text': 'agreeing with me that subhuman is not a', 'start': 1111.52, 'duration': 2.64}
+{'text': 'good thing that you should be calling', 'start': 1113.12, 'duration': 2.799}
+{'text': 'people so the reason why people are', 'start': 1114.16, 'duration': 2.8}
+{'text': "agreeing with you is because you're", 'start': 1115.919, 'duration': 2.721}
+{'text': 'writing the anti-destiny jerk way for', 'start': 1116.96, 'duration': 3.28}
+{'text': 'twitter likes okay you can literally say', 'start': 1118.64, 'duration': 2.96}
+{'text': 'anything you want about me right now and', 'start': 1120.24, 'duration': 2.799}
+{'text': 'people will agree with you okay welcome', 'start': 1121.6, 'duration': 4.0}
+{'text': 'to the internet okay number one number', 'start': 1123.039, 'duration': 4.88}
+{'text': "two if you're opposed to think that i", 'start': 1125.6, 'duration': 4.8}
+{'text': "know that it's my life okay now number", 'start': 1127.919, 'duration': 4.0}
+{'text': 'two you might think that subhuman is', 'start': 1130.4, 'duration': 2.88}
+{'text': "like a badminton reason that's fine", 'start': 1131.919, 'duration': 3.681}
+{'text': "that's a defensible position but when", 'start': 1133.28, 'duration': 3.519}
+{'text': "you're making comments about me and", 'start': 1135.6, 'duration': 3.439}
+{'text': "you're saying that i'm transphobic it is", 'start': 1136.799, 'duration': 3.76}
+{'text': 'like well why well because you use', 'start': 1139.039, 'duration': 3.601}
+{'text': 'subhuman i call everybody subhuman how', 'start': 1140.559, 'duration': 4.081}
+{'text': 'does that make sense what i said was you', 'start': 1142.64, 'duration': 4.0}
+{'text': "said i'm against dehumanizing trans", 'start': 1144.64, 'duration': 3.68}
+{'text': "people and then you're calling trans", 'start': 1146.64, 'duration': 3.68}
+{'text': 'people subhuman', 'start': 1148.32, 'duration': 4.0}
+{'text': "i'm making is that if you call a trans", 'start': 1150.32, 'duration': 4.16}
+{'text': 'person subhuman that is dehumanizing', 'start': 1152.32, 'duration': 3.52}
+{'text': 'them', 'start': 1154.48, 'duration': 3.52}
+{'text': "no that's like you're you're using some", 'start': 1155.84, 'duration': 3.839}
+{'text': 'like weird like minority speak where if', 'start': 1158.0, 'duration': 4.16}
+{'text': 'you like one minority person stands for', 'start': 1159.679, 'duration': 4.641}
+{'text': 'all of them if i think one trans person', 'start': 1162.16, 'duration': 3.759}
+{'text': "is a whatever that doesn't mean i think", 'start': 1164.32, 'duration': 2.8}
+{'text': 'all trans people are whatever as long as', 'start': 1165.919, 'duration': 3.441}
+{'text': "i'm not using like a trans-specific slur", 'start': 1167.12, 'duration': 3.84}
+{'text': "i'm not saying all people i'm saying", 'start': 1169.36, 'duration': 3.12}
+{'text': 'that specific trans person you are', 'start': 1170.96, 'duration': 3.599}
+{'text': "dehumanizing sure that's fine that but i", 'start': 1172.48, 'duration': 4.0}
+{'text': "think that's okay i'll dehumanize any uh", 'start': 1174.559, 'duration': 3.441}
+{'text': 'dehumanized nazis there are individuals', 'start': 1176.48, 'duration': 2.559}
+{'text': "when i argue with them i'll say you're", 'start': 1178.0, 'duration': 2.16}
+{'text': "like oh yeah you're a [\xa0__\xa0] suburban", 'start': 1179.039, 'duration': 2.64}
+{'text': 'piece of [\xa0__\xa0] or an inbred [\xa0__\xa0] or', 'start': 1180.16, 'duration': 2.879}
+{'text': "whatever but there's a difference", 'start': 1181.679, 'duration': 3.281}
+{'text': "between if you're go if you're saying", 'start': 1183.039, 'duration': 3.601}
+{'text': "like oh we shouldn't use that insulting", 'start': 1184.96, 'duration': 3.28}
+{'text': "that's fine but it's not like i'm being", 'start': 1186.64, 'duration': 3.36}
+{'text': "transphobic or i hate trans people i'm", 'start': 1188.24, 'duration': 2.799}
+{'text': 'not attacking any of these people on the', 'start': 1190.0, 'duration': 2.799}
+{'text': 'basis of being trans', 'start': 1191.039, 'duration': 3.041}
+{'text': "i'm not saying you're attacking them on", 'start': 1192.799, 'duration': 2.88}
+{'text': "the basis of being trans that's what", 'start': 1194.08, 'duration': 4.16}
+{'text': 'transphobic means', 'start': 1195.679, 'duration': 4.641}
+{'text': 'yeah i know that', 'start': 1198.24, 'duration': 4.4}
+{'text': 'did i', 'start': 1200.32, 'duration': 2.32}
+{'text': 'i think that more of what i would', 'start': 1204.48, 'duration': 3.92}
+{'text': 'consider transphobic is you calling', 'start': 1205.76, 'duration': 4.0}
+{'text': "saying that they're inbred [\xa0__\xa0]", 'start': 1208.4, 'duration': 2.639}
+{'text': "losers but i know that you're just", 'start': 1209.76, 'duration': 3.36}
+{'text': "saying that that's only towards a", 'start': 1211.039, 'duration': 4.64}
+{'text': 'specific group of trans people', 'start': 1213.12, 'duration': 4.0}
+{'text': "do you think that's true or do you think", 'start': 1215.679, 'duration': 3.201}
+{'text': "i'm lying do you think i actually think", 'start': 1217.12, 'duration': 4.4}
+{'text': 'that all trans people are inbred [\xa0__\xa0]', 'start': 1218.88, 'duration': 3.84}
+{'text': 'losers', 'start': 1221.52, 'duration': 2.96}
+{'text': "no but i think it's more complicated", 'start': 1222.72, 'duration': 3.36}
+{'text': "than that i think you're fostering a", 'start': 1224.48, 'duration': 2.8}
+{'text': 'community', 'start': 1226.08, 'duration': 3.44}
+{'text': 'of transphobia by calling trans the', 'start': 1227.28, 'duration': 4.32}
+{'text': 'trans community inbred [\xa0__\xa0] loser no', 'start': 1229.52, 'duration': 3.519}
+{'text': "that's what i have to do to protect my", 'start': 1231.6, 'duration': 3.199}
+{'text': 'community from becoming transphobic', 'start': 1233.039, 'duration': 3.52}
+{'text': 'because if the online activist trans', 'start': 1234.799, 'duration': 3.281}
+{'text': 'community on twitter represented all', 'start': 1236.559, 'duration': 4.0}
+{'text': 'trans people i would be transphobic', 'start': 1238.08, 'duration': 4.32}
+{'text': 'like part of what i do is constantly', 'start': 1240.559, 'duration': 4.321}
+{'text': 'reminding people that', 'start': 1242.4, 'duration': 4.159}
+{'text': "see that's what you just said why would", 'start': 1244.88, 'duration': 3.039}
+{'text': 'that cause you to be transphobic because', 'start': 1246.559, 'duration': 3.041}
+{'text': 'the trans community on twitter is a', 'start': 1247.919, 'duration': 4.0}
+{'text': '[\xa0__\xa0] cancerous blight on trans', 'start': 1249.6, 'duration': 4.16}
+{'text': 'communities all over the world these are', 'start': 1251.919, 'duration': 3.921}
+{'text': 'literally like why why would why would a', 'start': 1253.76, 'duration': 3.6}
+{'text': 'group of people', 'start': 1255.84, 'duration': 3.76}
+{'text': "being annoying cause youtube they're not", 'start': 1257.36, 'duration': 5.199}
+{'text': "annoying they're destructive to society", 'start': 1259.6, 'duration': 4.4}
+{'text': "okay you think they're destructive why", 'start': 1262.559, 'duration': 2.881}
+{'text': 'would that cause you to be transphobic', 'start': 1264.0, 'duration': 3.28}
+{'text': "that doesn't logically make sense", 'start': 1265.44, 'duration': 3.119}
+{'text': 'because of the entire because of a', 'start': 1267.28, 'duration': 3.36}
+{'text': 'prerequisite to being a trans person was', 'start': 1268.559, 'duration': 3.921}
+{'text': "like the destruction of all of women's", 'start': 1270.64, 'duration': 4.08}
+{'text': 'spaces and the destruction of like other', 'start': 1272.48, 'duration': 3.84}
+{'text': 'like sex of society like turfs claim', 'start': 1274.72, 'duration': 3.199}
+{'text': "they all believe they're like okay well", 'start': 1276.32, 'duration': 3.359}
+{'text': 'holy [\xa0__\xa0] maybe these are people that is', 'start': 1277.919, 'duration': 4.721}
+{'text': 'a vast that is a vast oversimplification', 'start': 1279.679, 'duration': 4.561}
+{'text': "of you can call it over i'm pretty sure", 'start': 1282.64, 'duration': 2.72}
+{'text': "i've argued with like three different", 'start': 1284.24, 'duration': 3.04}
+{'text': 'people over the past week that claim', 'start': 1285.36, 'duration': 3.6}
+{'text': "that like women's sports should just be", 'start': 1287.28, 'duration': 4.16}
+{'text': 'eliminated', 'start': 1288.96, 'duration': 4.16}
+{'text': 'i definitely agree that there are some', 'start': 1291.44, 'duration': 3.76}
+{'text': 'people some trans people on twitter that', 'start': 1293.12, 'duration': 3.919}
+{'text': 'are very like', 'start': 1295.2, 'duration': 3.359}
+{'text': 'cancerous i would definitely agree with', 'start': 1297.039, 'duration': 2.241}
+{'text': 'you', 'start': 1298.559, 'duration': 1.841}
+{'text': 'is one of them', 'start': 1299.28, 'duration': 2.639}
+{'text': 'more than cancerous when you say', 'start': 1300.4, 'duration': 2.56}
+{'text': "something how can you say somebody who's", 'start': 1301.919, 'duration': 3.361}
+{'text': "cancerous and that's okay but but some", 'start': 1302.96, 'duration': 5.199}
+{'text': 'human is not okay', 'start': 1305.28, 'duration': 2.879}
+{'text': "i'm not", 'start': 1309.12, 'duration': 4.08}
+{'text': "i'm not saying that", 'start': 1311.2, 'duration': 3.68}
+{'text': 'you were saying that some human is not a', 'start': 1313.2, 'duration': 3.28}
+{'text': "disease but cancer is okay that's like a", 'start': 1314.88, 'duration': 3.039}
+{'text': 'real disease that people suffer and a', 'start': 1316.48, 'duration': 3.12}
+{'text': 'cancer people have been described as a', 'start': 1317.919, 'duration': 3.12}
+{'text': 'cancer what does cancers need to be they', 'start': 1319.6, 'duration': 2.48}
+{'text': "need to be removed isn't that", 'start': 1321.039, 'duration': 3.601}
+{'text': 'technically a worse insult than subhuman', 'start': 1322.08, 'duration': 4.479}
+{'text': 'i mean that i think that their ideas are', 'start': 1324.64, 'duration': 3.84}
+{'text': 'cancerous', 'start': 1326.559, 'duration': 4.641}
+{'text': 'so earlier i asked you if [\xa0__\xa0] was', 'start': 1328.48, 'duration': 5.52}
+{'text': 'like a was a dehumanizing insult or if', 'start': 1331.2, 'duration': 4.0}
+{'text': "that was an insult about a person you're", 'start': 1334.0, 'duration': 4.08}
+{'text': 'like no that attacks their ideas but', 'start': 1335.2, 'duration': 4.64}
+{'text': 'you say that calling someone a dumb [\xa0__\xa0]', 'start': 1338.08, 'duration': 3.2}
+{'text': 'is attacking their ideas but now we', 'start': 1339.84, 'duration': 2.64}
+{'text': "can't call somebody cancerous we have to", 'start': 1341.28, 'duration': 3.12}
+{'text': 'say their ideas are cancerous', 'start': 1342.48, 'duration': 4.16}
+{'text': "i i don't know i don't care if i'm if", 'start': 1344.4, 'duration': 4.0}
+{'text': "i'm calling someone cancerous i i'm", 'start': 1346.64, 'duration': 3.36}
+{'text': "meaning that the things that they're", 'start': 1348.4, 'duration': 3.36}
+{'text': 'putting on twitter are cancerous so why', 'start': 1350.0, 'duration': 3.36}
+{'text': 'is it that if i call somebody subhuman', 'start': 1351.76, 'duration': 2.56}
+{'text': "what i can't mean is that like their", 'start': 1353.36, 'duration': 4.64}
+{'text': 'ideas are just incredibly [\xa0__\xa0] stupid', 'start': 1354.32, 'duration': 3.68}
+{'text': 'i mean if if you', 'start': 1359.36, 'duration': 4.72}
+{'text': "even saying someone's ideas are subhuman", 'start': 1361.84, 'duration': 4.0}
+{'text': "that feels like you're saying that their", 'start': 1364.08, 'duration': 4.0}
+{'text': 'ideas come from like a', 'start': 1365.84, 'duration': 3.36}
+{'text': 'lower', 'start': 1368.08, 'duration': 2.32}
+{'text': 'like', 'start': 1369.2, 'duration': 3.04}
+{'text': 'type of human or something it just feels', 'start': 1370.4, 'duration': 3.68}
+{'text': 'like yeah like a dumb [\xa0__\xa0] like a lo', 'start': 1372.24, 'duration': 3.28}
+{'text': "like don't you think dumb [\xa0__\xa0] or", 'start': 1374.08, 'duration': 3.44}
+{'text': 'idiots are lower types of humans or', 'start': 1375.52, 'duration': 3.92}
+{'text': 'cancerous people or like lower types of', 'start': 1377.52, 'duration': 3.36}
+{'text': 'humans hating your life then working', 'start': 1379.44, 'duration': 3.52}
+{'text': 'class and i mean no i think that every', 'start': 1380.88, 'duration': 4.56}
+{'text': 'person can have bad ideas and can be', 'start': 1382.96, 'duration': 6.28}
+{'text': 'educated on them', 'start': 1385.44, 'duration': 3.8}
+{'text': 'if i was debating if we were back in', 'start': 1390.559, 'duration': 4.081}
+{'text': "2017 and i'm arguing against nazis and", 'start': 1392.48, 'duration': 3.36}
+{'text': "i'm like god a lot of these nazis are", 'start': 1394.64, 'duration': 3.2}
+{'text': '[\xa0__\xa0] sub-human would you would you', 'start': 1395.84, 'duration': 3.68}
+{'text': 'have the same energy would you be like i', 'start': 1397.84, 'duration': 2.64}
+{'text': "don't think we should call nazis", 'start': 1399.52, 'duration': 3.96}
+{'text': 'subhuman', 'start': 1400.48, 'duration': 3.0}
+{'text': "i mean if i'm being honest no probably", 'start': 1403.919, 'duration': 4.64}
+{'text': 'not but i feel like something that', 'start': 1406.0, 'duration': 4.72}
+{'text': "recently i've been getting more into is", 'start': 1408.559, 'duration': 3.761}
+{'text': 'like', 'start': 1410.72, 'duration': 2.72}
+{'text': 'that', 'start': 1412.32, 'duration': 2.96}
+{'text': "you know i'm definitely against misogyny", 'start': 1413.44, 'duration': 3.92}
+{'text': "for example but i don't think that a", 'start': 1415.28, 'duration': 5.04}
+{'text': 'good response to that is to like insult', 'start': 1417.36, 'duration': 4.72}
+{'text': "men necessarily or i don't think a good", 'start': 1420.32, 'duration': 3.44}
+{'text': 'response to like racism is to like', 'start': 1422.08, 'duration': 3.44}
+{'text': 'insult white people you know', 'start': 1423.76, 'duration': 3.68}
+{'text': 'so which is fair now', 'start': 1425.52, 'duration': 4.399}
+{'text': "now i would be like i you know i i don't", 'start': 1427.44, 'duration': 4.96}
+{'text': "i i will stand by saying that i don't", 'start': 1429.919, 'duration': 4.721}
+{'text': 'think you should call anyone subhuman i', 'start': 1432.4, 'duration': 4.72}
+{'text': 'agree which is again a fine position but', 'start': 1434.64, 'duration': 6.0}
+{'text': "it doesn't make it transphobic", 'start': 1437.12, 'duration': 3.52}
+{'text': 'i i agree that maybe your motivations', 'start': 1442.08, 'duration': 4.8}
+{'text': "aren't transphobic from it", 'start': 1444.159, 'duration': 4.561}
+{'text': "but i feel like it's can foster", 'start': 1446.88, 'duration': 4.48}
+{'text': 'transphobia in your community and it can', 'start': 1448.72, 'duration': 5.04}
+{'text': 'like enable transphobia and it has a', 'start': 1451.36, 'duration': 4.799}
+{'text': 'history of people thinking that trans', 'start': 1453.76, 'duration': 4.48}
+{'text': 'people are sub-human i agree that maybe', 'start': 1456.159, 'duration': 4.081}
+{'text': 'your personal internal motivations for', 'start': 1458.24, 'duration': 3.76}
+{'text': 'calling someone subhuman might not be', 'start': 1460.24, 'duration': 4.0}
+{'text': 'transphobic but i think that the impact', 'start': 1462.0, 'duration': 5.12}
+{'text': 'of it can lead to transphobia sure but', 'start': 1464.24, 'duration': 4.96}
+{'text': "that's a lot different than like you", 'start': 1467.12, 'duration': 4.4}
+{'text': 'saying how would destiny respond to this', 'start': 1469.2, 'duration': 4.16}
+{'text': 'um actually i only call the trans people', 'start': 1471.52, 'duration': 3.36}
+{'text': 'who are mean to me subhuman not all', 'start': 1473.36, 'duration': 2.64}
+{'text': "trans people so that means it's not", 'start': 1474.88, 'duration': 3.2}
+{'text': "actually transphobic that's true but", 'start': 1476.0, 'duration': 3.36}
+{'text': "you're acting like that's a ridiculous", 'start': 1478.08, 'duration': 3.839}
+{'text': 'thing to say', 'start': 1479.36, 'duration': 2.559}
+{'text': 'like if i say something like um like my', 'start': 1484.64, 'duration': 5.44}
+{'text': "friend jamal is filthy that's a lot", 'start': 1487.12, 'duration': 4.799}
+{'text': 'different than saying all black people', 'start': 1490.08, 'duration': 3.76}
+{'text': 'are filthy those are two totally', 'start': 1491.919, 'duration': 4.561}
+{'text': 'different statements if you say my black', 'start': 1493.84, 'duration': 4.64}
+{'text': 'friend jamal is subhuman i would be like', 'start': 1496.48, 'duration': 5.04}
+{'text': 'uh what i mean it obviously would depend', 'start': 1498.48, 'duration': 4.319}
+{'text': 'on the context of the statement right', 'start': 1501.52, 'duration': 2.72}
+{'text': "but that's like a really huge like", 'start': 1502.799, 'duration': 3.921}
+{'text': "that's a pretty big insult anyway right", 'start': 1504.24, 'duration': 3.679}
+{'text': 'yeah', 'start': 1506.72, 'duration': 2.959}
+{'text': 'i i just', 'start': 1507.919, 'duration': 4.321}
+{'text': "i don't know i just think", 'start': 1509.679, 'duration': 4.561}
+{'text': 'i i personally am not going to call any', 'start': 1512.24, 'duration': 3.84}
+{'text': 'trans people or black people subhuman', 'start': 1514.24, 'duration': 4.24}
+{'text': "but i don't know that's fine but my", 'start': 1516.08, 'duration': 5.12}
+{'text': 'issue is the rewriting of history where', 'start': 1518.48, 'duration': 4.559}
+{'text': 'useful idiots like you are jumping onto', 'start': 1521.2, 'duration': 4.0}
+{'text': 'these twitter trends for likes claiming', 'start': 1523.039, 'duration': 4.0}
+{'text': "that i'm transphobic when i am", 'start': 1525.2, 'duration': 3.92}
+{'text': 'absolutely not and even you admit as', 'start': 1527.039, 'duration': 4.081}
+{'text': "much in this conversation why can't you", 'start': 1529.12, 'duration': 4.0}
+{'text': 'come with this energy except redirect it', 'start': 1531.12, 'duration': 4.08}
+{'text': "towards hey we shouldn't use certain", 'start': 1533.12, 'duration': 3.84}
+{'text': 'insults instead of hopping on the [\xa0__\xa0]', 'start': 1535.2, 'duration': 3.839}
+{'text': 'destiny clout wagon of saying wow', 'start': 1536.96, 'duration': 4.719}
+{'text': 'destiny sure is transphobic when both of', 'start': 1539.039, 'duration': 4.481}
+{'text': "us know that that's absolutely not the", 'start': 1541.679, 'duration': 4.081}
+{'text': "[\xa0__\xa0] case i don't know if it is the", 'start': 1543.52, 'duration': 4.639}
+{'text': 'case it feels like you', 'start': 1545.76, 'duration': 3.84}
+{'text': 'it feels like', 'start': 1548.159, 'duration': 3.12}
+{'text': "watching you recently you've been making", 'start': 1549.6, 'duration': 3.52}
+{'text': 'a lot more generalizations about the', 'start': 1551.279, 'duration': 5.681}
+{'text': 'trans community and less like specific', 'start': 1553.12, 'duration': 5.6}
+{'text': "like what position do i have that's", 'start': 1556.96, 'duration': 3.36}
+{'text': 'transphobic', 'start': 1558.72, 'duration': 3.839}
+{'text': 'or what or like what what generalization', 'start': 1560.32, 'duration': 5.52}
+{'text': "have i made that's transphobic", 'start': 1562.559, 'duration': 3.281}
+{'text': "i'm not even as i'm not looking for like", 'start': 1566.32, 'duration': 2.8}
+{'text': 'specific like gotcha like give me the', 'start': 1567.76, 'duration': 3.039}
+{'text': "time stamp i'm just curious like in your", 'start': 1569.12, 'duration': 3.439}
+{'text': 'mind because it feels like what here', 'start': 1570.799, 'duration': 3.36}
+{'text': 'like this is the cycle that i go through', 'start': 1572.559, 'duration': 4.641}
+{'text': 'okay insane [\xa0__\xa0] lunatics from the', 'start': 1574.159, 'duration': 4.481}
+{'text': 'trans community on twitter people that', 'start': 1577.2, 'duration': 3.28}
+{'text': 'identify as [\xa0__\xa0] ponies and use', 'start': 1578.64, 'duration': 3.76}
+{'text': 'pronouns written in other languages okay', 'start': 1580.48, 'duration': 3.84}
+{'text': 'start fighting with me over dumb [\xa0__\xa0] i', 'start': 1582.4, 'duration': 3.519}
+{'text': "end up like getting exasperated i'm like", 'start': 1584.32, 'duration': 3.04}
+{'text': 'okay well you know the online transfer', 'start': 1585.919, 'duration': 3.201}
+{'text': 'is [\xa0__\xa0] insane people will clip like', 'start': 1587.36, 'duration': 3.439}
+{'text': 'a part of this and now people like you', 'start': 1589.12, 'duration': 3.039}
+{'text': 'are caught in the center are like oh wow', 'start': 1590.799, 'duration': 2.801}
+{'text': 'like destiny sounds like he hates all', 'start': 1592.159, 'duration': 3.361}
+{'text': 'trans people which is like never been', 'start': 1593.6, 'duration': 4.16}
+{'text': 'the case ever', 'start': 1595.52, 'duration': 4.08}
+{'text': "i don't think that you have to hate all", 'start': 1597.76, 'duration': 3.919}
+{'text': 'trans people to be transphobic in some', 'start': 1599.6, 'duration': 4.24}
+{'text': "way i feel like from what i've been", 'start': 1601.679, 'duration': 4.401}
+{'text': 'seeing it feels like you are', 'start': 1603.84, 'duration': 4.4}
+{'text': 'getting a negative perspective of trans', 'start': 1606.08, 'duration': 4.0}
+{'text': 'people because of the', 'start': 1608.24, 'duration': 3.439}
+{'text': "like interactions you're having with", 'start': 1610.08, 'duration': 4.88}
+{'text': 'trans people okay but', 'start': 1611.679, 'duration': 3.281}
+{'text': 'me hating some groups of trans people', 'start': 1615.44, 'duration': 4.8}
+{'text': "isn't transphobic", 'start': 1617.919, 'duration': 4.481}
+{'text': "but don't you agree that just saying the", 'start': 1620.24, 'duration': 4.16}
+{'text': 'trans community is inbred [\xa0__\xa0] losers', 'start': 1622.4, 'duration': 3.279}
+{'text': 'like you should be more careful if', 'start': 1624.4, 'duration': 2.72}
+{'text': "you're going to say [\xa0__\xa0] like that like", 'start': 1625.679, 'duration': 4.081}
+{'text': 'the trans community online', 'start': 1627.12, 'duration': 5.439}
+{'text': "i i i know but that's not what you said", 'start': 1629.76, 'duration': 4.32}
+{'text': "it is that's the whole context of the", 'start': 1632.559, 'duration': 3.281}
+{'text': 'conversation every single person', 'start': 1634.08, 'duration': 3.44}
+{'text': 'listening to that conversation knows', 'start': 1635.84, 'duration': 3.6}
+{'text': "exactly what i'm talking about and it's", 'start': 1637.52, 'duration': 4.24}
+{'text': 'so prevalent that even people like vosh', 'start': 1639.44, 'duration': 4.56}
+{'text': 'have gone on the exact same rants way', 'start': 1641.76, 'duration': 3.76}
+{'text': "worse than me by the way i don't know if", 'start': 1644.0, 'duration': 3.2}
+{'text': "you've seen his rants but they're like", 'start': 1645.52, 'duration': 3.759}
+{'text': 'really extreme in the past about like', 'start': 1647.2, 'duration': 3.76}
+{'text': 'how the transmitting online is [\xa0__\xa0]', 'start': 1649.279, 'duration': 4.4}
+{'text': 'insane even trans communities even trans', 'start': 1650.96, 'duration': 4.56}
+{'text': 'people online will say this sometimes', 'start': 1653.679, 'duration': 3.761}
+{'text': 'people like tap chat or people in my i', 'start': 1655.52, 'duration': 3.2}
+{'text': 'always [\xa0__\xa0] our name or people in my', 'start': 1657.44, 'duration': 2.719}
+{'text': 'community like other trans creators even', 'start': 1658.72, 'duration': 3.36}
+{'text': 'contra points to spot with these people', 'start': 1660.159, 'duration': 3.201}
+{'text': 'like', 'start': 1662.08, 'duration': 2.719}
+{'text': "i said this isn't even a controversial", 'start': 1663.36, 'duration': 2.88}
+{'text': 'opinion', 'start': 1664.799, 'duration': 4.081}
+{'text': "i think that it's totally fair to single", 'start': 1666.24, 'duration': 4.72}
+{'text': "out certain trans people i don't think", 'start': 1668.88, 'duration': 4.48}
+{'text': "it's a fair generalization to say like", 'start': 1670.96, 'duration': 5.12}
+{'text': 'the online trans community or all trans', 'start': 1673.36, 'duration': 4.96}
+{'text': 'people on twitter or whatever like i i', 'start': 1676.08, 'duration': 4.24}
+{'text': "do feel like you're over generalizing i", 'start': 1678.32, 'duration': 4.239}
+{'text': 'do think that there are a very vocal', 'start': 1680.32, 'duration': 4.16}
+{'text': 'minority of people who', 'start': 1682.559, 'duration': 4.0}
+{'text': "you know aren't consistent in their", 'start': 1684.48, 'duration': 4.96}
+{'text': 'opinions on things but i feel like you', 'start': 1686.559, 'duration': 5.041}
+{'text': "i feel like you've been going down this", 'start': 1689.44, 'duration': 4.32}
+{'text': 'spiral of definitely painting them out', 'start': 1691.6, 'duration': 4.24}
+{'text': 'more negatively than they deserve', 'start': 1693.76, 'duration': 5.919}
+{'text': 'okay who have i been unfair to online', 'start': 1695.84, 'duration': 6.16}
+{'text': "it's it's less that you've been unfair", 'start': 1699.679, 'duration': 4.401}
+{'text': "to like specific people it's more that", 'start': 1702.0, 'duration': 4.48}
+{'text': "you i feel like you've been generalizing", 'start': 1704.08, 'duration': 4.479}
+{'text': 'the online trans community or whatever', 'start': 1706.48, 'duration': 4.4}
+{'text': "i'm not though they're cancerous it's", 'start': 1708.559, 'duration': 4.0}
+{'text': "like the worst thing that can exist it's", 'start': 1710.88, 'duration': 3.84}
+{'text': 'like rank one is like republican', 'start': 1712.559, 'duration': 4.401}
+{'text': 'lawmakers and then rank two is the trans', 'start': 1714.72, 'duration': 4.079}
+{'text': 'community on twitter in terms of things', 'start': 1716.96, 'duration': 4.0}
+{'text': 'that can damage the trans community and', 'start': 1718.799, 'duration': 4.081}
+{'text': "you don't think saying that could enable", 'start': 1720.96, 'duration': 4.319}
+{'text': 'transphobic people to be like', 'start': 1722.88, 'duration': 5.44}
+{'text': 'oh i want to follow destiny now', 'start': 1725.279, 'duration': 5.201}
+{'text': "no i think i like well maybe i don't", 'start': 1728.32, 'duration': 3.52}
+{'text': 'know but if i get more transported', 'start': 1730.48, 'duration': 2.48}
+{'text': "people follow me that's a huge [\xa0__\xa0]", 'start': 1731.84, 'duration': 2.48}
+{'text': 'plus because i argue in favor of trans', 'start': 1732.96, 'duration': 3.12}
+{'text': 'people literally all the time i did in', 'start': 1734.32, 'duration': 3.12}
+{'text': 'my last conversation with nick i joked', 'start': 1736.08, 'duration': 3.44}
+{'text': 'about it at the end yeah of course', 'start': 1737.44, 'duration': 3.92}
+{'text': 'but like part of why i have to say this', 'start': 1739.52, 'duration': 3.36}
+{'text': '[\xa0__\xa0] is to like hedge my community', 'start': 1741.36, 'duration': 3.199}
+{'text': 'against the [\xa0__\xa0] lunatics in these', 'start': 1742.88, 'duration': 3.2}
+{'text': 'communities online because they make', 'start': 1744.559, 'duration': 3.521}
+{'text': 'trans people look [\xa0__\xa0] crazy and not', 'start': 1746.08, 'duration': 3.52}
+{'text': 'all trans people are like these [\xa0__\xa0]', 'start': 1748.08, 'duration': 4.16}
+{'text': 'lunatics on twitter that use fair', 'start': 1749.6, 'duration': 5.84}
+{'text': 'pronouns and identify as [\xa0__\xa0] dear', 'start': 1752.24, 'duration': 4.799}
+{'text': "yeah well i mean i don't think you're a", 'start': 1755.44, 'duration': 3.2}
+{'text': 'good advocate for the trans community', 'start': 1757.039, 'duration': 3.681}
+{'text': 'because you you know are against neo', 'start': 1758.64, 'duration': 3.84}
+{'text': 'pronouns against non-binary people', 'start': 1760.72, 'duration': 4.959}
+{'text': 'against trans women in sports against uh', 'start': 1762.48, 'duration': 5.6}
+{'text': 'i think you even said within like a mr', 'start': 1765.679, 'duration': 4.801}
+{'text': 'girl conversation that like', 'start': 1768.08, 'duration': 4.0}
+{'text': 'trans people are only valid if they have', 'start': 1770.48, 'duration': 3.679}
+{'text': "trans brains or something like i don't", 'start': 1772.08, 'duration': 4.079}
+{'text': "think you're necessarily a good advocate", 'start': 1774.159, 'duration': 3.76}
+{'text': 'for what trans people wait so do you', 'start': 1776.159, 'duration': 5.281}
+{'text': 'think that anybody can be trans', 'start': 1777.919, 'duration': 6.161}
+{'text': 'i think trans is a is an identity thing', 'start': 1781.44, 'duration': 5.2}
+{'text': "i think it's a social construct", 'start': 1784.08, 'duration': 3.52}
+{'text': 'okay', 'start': 1786.64, 'duration': 2.96}
+{'text': "so you're transphobic", 'start': 1787.6, 'duration': 3.679}
+{'text': 'um', 'start': 1789.6, 'duration': 3.76}
+{'text': "i mean you might think that it's are you", 'start': 1791.279, 'duration': 3.681}
+{'text': 'no you think you think trans is fake you', 'start': 1793.36, 'duration': 2.799}
+{'text': "don't think it's a real thing you think", 'start': 1794.96, 'duration': 2.16}
+{'text': "that it's just some [\xa0__\xa0] that people", 'start': 1796.159, 'duration': 2.561}
+{'text': 'stay online for attention i think demon', 'start': 1797.12, 'duration': 3.12}
+{'text': 'mama and all these people', 'start': 1798.72, 'duration': 2.959}
+{'text': "it's they identify as it because it's", 'start': 1800.24, 'duration': 4.0}
+{'text': 'like a socially constructed whatever', 'start': 1801.679, 'duration': 4.081}
+{'text': "i don't think trans is fake i think", 'start': 1804.24, 'duration': 3.6}
+{'text': 'social constructs are real i think that', 'start': 1805.76, 'duration': 3.76}
+{'text': "america is real even though it's a", 'start': 1807.84, 'duration': 3.76}
+{'text': 'social construct', 'start': 1809.52, 'duration': 3.68}
+{'text': "but it's but you think that somebody", 'start': 1811.6, 'duration': 3.439}
+{'text': 'being trans is just an identity that you', 'start': 1813.2, 'duration': 3.52}
+{'text': "pick there's not like an underlying fact", 'start': 1815.039, 'duration': 3.52}
+{'text': 'of the matter', 'start': 1816.72, 'duration': 4.24}
+{'text': 'like this person now i think you you', 'start': 1818.559, 'duration': 3.761}
+{'text': 'think that when trans people choose to', 'start': 1820.96, 'duration': 3.52}
+{'text': "be trans that's just like like it's like", 'start': 1822.32, 'duration': 3.44}
+{'text': 'an identity that they kind of pick for', 'start': 1824.48, 'duration': 2.48}
+{'text': "themselves and they're just like oh like", 'start': 1825.76, 'duration': 2.88}
+{'text': "i'm trans there's not like an underlying", 'start': 1826.96, 'duration': 3.52}
+{'text': 'fact of the matter of like their brain', 'start': 1828.64, 'duration': 4.399}
+{'text': 'being wired to be trans', 'start': 1830.48, 'duration': 4.96}
+{'text': 'i think that some people experience like', 'start': 1833.039, 'duration': 4.721}
+{'text': 'gender dysphoria from birth and that', 'start': 1835.44, 'duration': 4.0}
+{'text': "that's like a pretty good indicator that", 'start': 1837.76, 'duration': 3.279}
+{'text': "they're trans i don't even know if you", 'start': 1839.44, 'duration': 4.0}
+{'text': 'experience gender dysphoria from birth', 'start': 1841.039, 'duration': 3.841}
+{'text': "i think that i don't know from birth", 'start': 1843.44, 'duration': 3.68}
+{'text': 'from a very young age i i think that', 'start': 1844.88, 'duration': 3.44}
+{'text': 'most of it sits in really hardcore', 'start': 1847.12, 'duration': 4.64}
+{'text': 'puberty but regardless like', 'start': 1848.32, 'duration': 5.04}
+{'text': 'the', 'start': 1851.76, 'duration': 2.88}
+{'text': 'okay', 'start': 1853.36, 'duration': 3.84}
+{'text': "[\xa0__\xa0] i haven't seen evidence one way or", 'start': 1854.64, 'duration': 4.08}
+{'text': 'another whether there are like male or', 'start': 1857.2, 'duration': 3.76}
+{'text': "female brains okay it's one of the like", 'start': 1858.72, 'duration': 4.16}
+{'text': 'most important arguably parts of like', 'start': 1860.96, 'duration': 3.52}
+{'text': 'the trans discussion', 'start': 1862.88, 'duration': 3.84}
+{'text': 'right is like are trans people a real', 'start': 1864.48, 'duration': 3.52}
+{'text': 'thing or is it just like a social', 'start': 1866.72, 'duration': 4.559}
+{'text': 'phenomenon from like the lgbt community', 'start': 1868.0, 'duration': 5.2}
+{'text': 'talking to kids too much', 'start': 1871.279, 'duration': 3.601}
+{'text': "i don't know why we would ever as leslie", 'start': 1873.2, 'duration': 3.359}
+{'text': 'what do you mean talking to kids too', 'start': 1874.88, 'duration': 4.24}
+{'text': 'much you think social constructs come', 'start': 1876.559, 'duration': 4.48}
+{'text': 'from see this is the thing well no no', 'start': 1879.12, 'duration': 3.279}
+{'text': 'wait finish that sentence finish that', 'start': 1881.039, 'duration': 2.801}
+{'text': 'sentence do you i think social', 'start': 1882.399, 'duration': 3.28}
+{'text': 'constructs come from like the way that', 'start': 1883.84, 'duration': 3.92}
+{'text': 'we interact with each other socially yes', 'start': 1885.679, 'duration': 3.201}
+{'text': "that's where social that's why they're", 'start': 1887.76, 'duration': 2.639}
+{'text': "called a social construct it's some", 'start': 1888.88, 'duration': 3.279}
+{'text': 'categorization that the community agrees', 'start': 1890.399, 'duration': 3.52}
+{'text': "on and then socially reinforces that's", 'start': 1892.159, 'duration': 3.041}
+{'text': 'the conservative argument for where', 'start': 1893.919, 'duration': 3.041}
+{'text': 'trans people come from they say trans', 'start': 1895.2, 'duration': 3.28}
+{'text': 'people exist because you have all these', 'start': 1896.96, 'duration': 3.76}
+{'text': 'crazy lgbt people online that are', 'start': 1898.48, 'duration': 3.52}
+{'text': 'talking to our kids about trans stuff', 'start': 1900.72, 'duration': 3.12}
+{'text': "all day and now they become trans that's", 'start': 1902.0, 'duration': 3.039}
+{'text': 'like the conservative argument the', 'start': 1903.84, 'duration': 3.04}
+{'text': 'left-leaning argument used to be no', 'start': 1905.039, 'duration': 3.36}
+{'text': 'there is an underlying fact of the', 'start': 1906.88, 'duration': 3.279}
+{'text': 'matter that some people have brains that', 'start': 1908.399, 'duration': 3.041}
+{'text': "are wired differently in ways that don't", 'start': 1910.159, 'duration': 2.721}
+{'text': 'match their body and because their', 'start': 1911.44, 'duration': 2.88}
+{'text': "brains don't match that way and because", 'start': 1912.88, 'duration': 2.96}
+{'text': 'how we socially constructed gender the', 'start': 1914.32, 'duration': 3.04}
+{'text': 'difference is so great and sometimes', 'start': 1915.84, 'duration': 2.959}
+{'text': 'even your body is so great people have', 'start': 1917.36, 'duration': 2.96}
+{'text': 'dysphoria they kill themselves they need', 'start': 1918.799, 'duration': 3.36}
+{'text': 'like gender reaffirming care in order to', 'start': 1920.32, 'duration': 3.199}
+{'text': 'like match their mind with their body', 'start': 1922.159, 'duration': 2.64}
+{'text': "but you're just saying that it's that", 'start': 1923.519, 'duration': 2.88}
+{'text': "mind body match is just whatever it's", 'start': 1924.799, 'duration': 3.041}
+{'text': "all just socially constructed doesn't", 'start': 1926.399, 'duration': 4.081}
+{'text': 'make any sense', 'start': 1927.84, 'duration': 2.64}
+{'text': 'is america real if america is socially', 'start': 1930.72, 'duration': 5.36}
+{'text': 'constructed like america for real no', 'start': 1933.039, 'duration': 4.0}
+{'text': 'hold on', 'start': 1936.08, 'duration': 2.959}
+{'text': 'america is real and that america is like', 'start': 1937.039, 'duration': 4.0}
+{'text': 'borders drawn on a map that we all agree', 'start': 1939.039, 'duration': 4.401}
+{'text': "on but we can't socially construct away", 'start': 1941.039, 'duration': 3.601}
+{'text': 'america', 'start': 1943.44, 'duration': 3.76}
+{'text': 'is the english language real is your arm', 'start': 1944.64, 'duration': 4.399}
+{'text': 'reel', 'start': 1947.2, 'duration': 3.359}
+{'text': 'yes', 'start': 1949.039, 'duration': 4.161}
+{'text': 'okay is your brain real', 'start': 1950.559, 'duration': 5.201}
+{'text': 'yes what are you saying okay so inside', 'start': 1953.2, 'duration': 4.56}
+{'text': 'your brain do you think that you have a', 'start': 1955.76, 'duration': 5.279}
+{'text': 'very real perception of your gender or', 'start': 1957.76, 'duration': 4.56}
+{'text': "do you think that's just some [\xa0__\xa0] that", 'start': 1961.039, 'duration': 3.12}
+{'text': 'like society agrees on and then you just', 'start': 1962.32, 'duration': 4.479}
+{'text': 'like grab that from thin air', 'start': 1964.159, 'duration': 4.561}
+{'text': 'i think that it can be both like i was', 'start': 1966.799, 'duration': 4.0}
+{'text': 'saying there are people who have gender', 'start': 1968.72, 'duration': 3.439}
+{'text': 'dysphoria', 'start': 1970.799, 'duration': 3.76}
+{'text': "and it's not being influenced by any", 'start': 1972.159, 'duration': 4.64}
+{'text': 'social okay um', 'start': 1974.559, 'duration': 3.921}
+{'text': "i'm gonna i'm just gonna preach for like", 'start': 1976.799, 'duration': 3.201}
+{'text': 'two seconds okay and then you can ignore', 'start': 1978.48, 'duration': 2.64}
+{'text': "everything i'm saying each other okay", 'start': 1980.0, 'duration': 2.559}
+{'text': "now i'm doing this in good faith i hope", 'start': 1981.12, 'duration': 3.12}
+{'text': "you're here in good faith okay just a", 'start': 1982.559, 'duration': 5.041}
+{'text': 'brief quick thing okay so', 'start': 1984.24, 'duration': 5.52}
+{'text': 'for the longest time when people have', 'start': 1987.6, 'duration': 3.6}
+{'text': 'discussions about what does it mean to', 'start': 1989.76, 'duration': 3.519}
+{'text': 'be a trans person okay what is a trans', 'start': 1991.2, 'duration': 4.16}
+{'text': 'person there have been two prevailing', 'start': 1993.279, 'duration': 3.921}
+{'text': 'historically schools of thought on this', 'start': 1995.36, 'duration': 3.6}
+{'text': 'the conservative school of thought is', 'start': 1997.2, 'duration': 4.319}
+{'text': 'trans people are fake okay they hear a', 'start': 1998.96, 'duration': 4.559}
+{'text': 'lot of weird gay [\xa0__\xa0] growing up they', 'start': 2001.519, 'duration': 3.601}
+{'text': "don't have moms or dads their minds are", 'start': 2003.519, 'duration': 3.04}
+{'text': '[\xa0__\xa0] and all of a sudden they hit', 'start': 2005.12, 'duration': 2.48}
+{'text': 'puberty and now they think through the', 'start': 2006.559, 'duration': 2.72}
+{'text': "other gender that's [\xa0__\xa0] that's what", 'start': 2007.6, 'duration': 3.439}
+{'text': 'trans people are we need to get rid of', 'start': 2009.279, 'duration': 3.76}
+{'text': 'the crazy lgbt stuff in society we need', 'start': 2011.039, 'duration': 3.441}
+{'text': 'to roll all this [\xa0__\xa0] back all the', 'start': 2013.039, 'duration': 2.961}
+{'text': 'degeneracy we need to get these kids', 'start': 2014.48, 'duration': 3.039}
+{'text': 'moms and dads and that will make people', 'start': 2016.0, 'duration': 3.2}
+{'text': 'stop being trans because the trans stuff', 'start': 2017.519, 'duration': 3.201}
+{'text': 'is just some weird thought that kids are', 'start': 2019.2, 'duration': 3.199}
+{'text': "having that's the conservative take", 'start': 2020.72, 'duration': 3.12}
+{'text': "that's been the conservative take that's", 'start': 2022.399, 'duration': 2.801}
+{'text': 'why you get people like ben shapiro or', 'start': 2023.84, 'duration': 2.8}
+{'text': 'jordan talking about how important it is', 'start': 2025.2, 'duration': 2.8}
+{'text': 'to have structured families and where', 'start': 2026.64, 'duration': 2.8}
+{'text': 'all the weird trans and gay stuff comes', 'start': 2028.0, 'duration': 3.12}
+{'text': 'from is usually broken homes and abuse', 'start': 2029.44, 'duration': 2.8}
+{'text': "when you're a child that's where it", 'start': 2031.12, 'duration': 2.799}
+{'text': "comes from number one okay that's the", 'start': 2032.24, 'duration': 3.279}
+{'text': 'one school of thought the other school', 'start': 2033.919, 'duration': 4.24}
+{'text': 'of thought was well hold on if we take a', 'start': 2035.519, 'duration': 4.4}
+{'text': "look at people's brains there are", 'start': 2038.159, 'duration': 3.52}
+{'text': 'actually like male brains and female', 'start': 2039.919, 'duration': 3.201}
+{'text': 'brains it might be the case you have', 'start': 2041.679, 'duration': 3.441}
+{'text': 'somebody born in a body with a type of', 'start': 2043.12, 'duration': 4.24}
+{'text': 'brain that they have is incongruent with', 'start': 2045.12, 'duration': 4.4}
+{'text': 'the body they have the internal identity', 'start': 2047.36, 'duration': 4.319}
+{'text': 'of gender does not match the external', 'start': 2049.52, 'duration': 4.0}
+{'text': "gender expression of that person's", 'start': 2051.679, 'duration': 4.321}
+{'text': 'biological body and because this', 'start': 2053.52, 'duration': 4.559}
+{'text': 'mismatch can cause so much distress in a', 'start': 2056.0, 'duration': 3.44}
+{'text': 'person we can actually give a name to', 'start': 2058.079, 'duration': 3.121}
+{'text': 'that gender dysphoria and we can have', 'start': 2059.44, 'duration': 3.919}
+{'text': 'treatments to bring the body more in', 'start': 2061.2, 'duration': 3.84}
+{'text': "line with the brain that's like been the", 'start': 2063.359, 'duration': 3.361}
+{'text': 'two prevailing like fights that have', 'start': 2065.04, 'duration': 3.44}
+{'text': 'been happening for where transness comes', 'start': 2066.72, 'duration': 4.08}
+{'text': "from when you and now yeah that's a", 'start': 2068.48, 'duration': 4.08}
+{'text': "that's a that's like a conservative", 'start': 2070.8, 'duration': 4.559}
+{'text': 'straw man of the position', 'start': 2072.56, 'duration': 4.48}
+{'text': 'that just because something is socially', 'start': 2075.359, 'duration': 3.04}
+{'text': "constructed doesn't mean it's like a", 'start': 2077.04, 'duration': 3.44}
+{'text': 'cancer that needs to be like eradicated', 'start': 2078.399, 'duration': 3.28}
+{'text': "but if it's socially constructed we", 'start': 2080.48, 'duration': 2.56}
+{'text': 'could just get rid of it with social', 'start': 2081.679, 'duration': 2.72}
+{'text': "treatment right what you're saying is", 'start': 2083.04, 'duration': 2.879}
+{'text': 'essentially we should be able to at', 'start': 2084.399, 'duration': 2.96}
+{'text': 'least from an early age if we have the', 'start': 2085.919, 'duration': 3.041}
+{'text': 'right guidance talk people out of being', 'start': 2087.359, 'duration': 3.841}
+{'text': "trans no if it's a socially constructed", 'start': 2088.96, 'duration': 3.119}
+{'text': 'thing', 'start': 2091.2, 'duration': 2.8}
+{'text': 'why would you want to talk people out of', 'start': 2092.079, 'duration': 3.6}
+{'text': 'being true because being trans [\xa0__\xa0]', 'start': 2094.0, 'duration': 4.879}
+{'text': 'sucks what do you mean', 'start': 2095.679, 'duration': 3.2}
+{'text': 'i mean if', 'start': 2099.119, 'duration': 2.801}
+{'text': "i don't think that you should try to", 'start': 2100.64, 'duration': 2.88}
+{'text': "talk people out of being trans that's", 'start': 2101.92, 'duration': 3.04}
+{'text': "because you're cis because you've no", 'start': 2103.52, 'duration': 3.36}
+{'text': '[\xa0__\xa0] idea what the experience is like', 'start': 2104.96, 'duration': 3.6}
+{'text': 'why do you think people use the 41', 'start': 2106.88, 'duration': 3.68}
+{'text': 'insult the number and [\xa0__\xa0] so much so', 'start': 2108.56, 'duration': 4.16}
+{'text': 'many [\xa0__\xa0] trans people are have like', 'start': 2110.56, 'duration': 4.4}
+{'text': 'problems with suicidality so many trans', 'start': 2112.72, 'duration': 3.68}
+{'text': 'people depending on your body going', 'start': 2114.96, 'duration': 3.2}
+{'text': 'through puberty are [\xa0__\xa0] for their', 'start': 2116.4, 'duration': 3.36}
+{'text': "entire life because they don't all have", 'start': 2118.16, 'duration': 2.88}
+{'text': 'the same money that contra points or', 'start': 2119.76, 'duration': 2.96}
+{'text': "couples has they can't afford fifty", 'start': 2121.04, 'duration': 2.799}
+{'text': 'thousand dollars of facial', 'start': 2122.72, 'duration': 2.96}
+{'text': 'reconstruction surgery and massive fake', 'start': 2123.839, 'duration': 3.041}
+{'text': 'boobs in order to bring their body in', 'start': 2125.68, 'duration': 2.48}
+{'text': 'line what they want some of these people', 'start': 2126.88, 'duration': 2.719}
+{'text': 'will look like men for their entire', 'start': 2128.16, 'duration': 3.28}
+{'text': "lives that's why they're called troons", 'start': 2129.599, 'duration': 3.681}
+{'text': "so so don't just say like well i think", 'start': 2131.44, 'duration': 2.96}
+{'text': 'everybody that would be great if they', 'start': 2133.28, 'duration': 2.48}
+{'text': "could all be trans and everybody that's", 'start': 2134.4, 'duration': 3.36}
+{'text': 'fine no if we could have people not be', 'start': 2135.76, 'duration': 3.52}
+{'text': "trans from an earlier age wouldn't you", 'start': 2137.76, 'duration': 3.68}
+{'text': "want to avoid all of those problems i'm", 'start': 2139.28, 'duration': 4.4}
+{'text': 'not discrediting the pain that comes', 'start': 2141.44, 'duration': 4.24}
+{'text': "with gender dysphoria and i don't think", 'start': 2143.68, 'duration': 3.84}
+{'text': "there's evidence that you can just talk", 'start': 2145.68, 'duration': 3.919}
+{'text': 'someone out of having gender dysphoria', 'start': 2147.52, 'duration': 3.68}
+{'text': 'and i think that the evidence shows that', 'start': 2149.599, 'duration': 3.361}
+{'text': 'the best treatment for gender dysphoria', 'start': 2151.2, 'duration': 3.6}
+{'text': 'is gender affirming care but that', 'start': 2152.96, 'duration': 3.36}
+{'text': "doesn't mean that i think that people", 'start': 2154.8, 'duration': 3.279}
+{'text': "who don't have gender dysphoria aren't", 'start': 2156.32, 'duration': 3.519}
+{'text': "actually trans i don't think that you", 'start': 2158.079, 'duration': 3.201}
+{'text': 'have to have gender dysphoria to be', 'start': 2159.839, 'duration': 2.881}
+{'text': "valid it's not about whether you have", 'start': 2161.28, 'duration': 2.559}
+{'text': "the gender support it's the idea that", 'start': 2162.72, 'duration': 3.52}
+{'text': "it's all just socially constructed", 'start': 2163.839, 'duration': 4.24}
+{'text': "it seems like they're like why would we", 'start': 2166.24, 'duration': 4.08}
+{'text': "use surgery to fix like something that's", 'start': 2168.079, 'duration': 3.921}
+{'text': "just like socially constricted shouldn't", 'start': 2170.32, 'duration': 3.2}
+{'text': "we be able why wouldn't be able to we", 'start': 2172.0, 'duration': 3.119}
+{'text': "will why wouldn't we be able to talk", 'start': 2173.52, 'duration': 2.64}
+{'text': "somebody out of being trans it's just", 'start': 2175.119, 'duration': 3.841}
+{'text': 'like a socially constructed thing', 'start': 2176.16, 'duration': 4.24}
+{'text': 'well yeah i mean i agree with you that', 'start': 2178.96, 'duration': 3.119}
+{'text': 'if someone at a young age is having', 'start': 2180.4, 'duration': 3.92}
+{'text': "gender dysphoria that that's probably", 'start': 2182.079, 'duration': 3.841}
+{'text': "something that's happening in their", 'start': 2184.32, 'duration': 4.16}
+{'text': "brain not it's not just socially", 'start': 2185.92, 'duration': 4.32}
+{'text': "constructed i'm not saying it's only", 'start': 2188.48, 'duration': 3.84}
+{'text': "socially constructed necessarily i'm", 'start': 2190.24, 'duration': 4.24}
+{'text': "just saying that i haven't like seen", 'start': 2192.32, 'duration': 4.0}
+{'text': 'the evidence of like the male brain and', 'start': 2194.48, 'duration': 3.44}
+{'text': 'the female you should google like', 'start': 2196.32, 'duration': 3.2}
+{'text': 'differences between trans brains it', 'start': 2197.92, 'duration': 3.6}
+{'text': "exists there's like it's like the", 'start': 2199.52, 'duration': 4.0}
+{'text': "basal based meta there's some weird", 'start': 2201.52, 'duration': 3.52}
+{'text': 'sections of the brain that are different', 'start': 2203.52, 'duration': 3.599}
+{'text': 'in men and women but like even if that', 'start': 2205.04, 'duration': 3.44}
+{'text': "even if that scientific research didn't", 'start': 2207.119, 'duration': 3.121}
+{'text': "exist yet though i'm just curious like", 'start': 2208.48, 'duration': 4.16}
+{'text': 'in your perception of this like why', 'start': 2210.24, 'duration': 3.92}
+{'text': "wouldn't we just try to talk every trans", 'start': 2212.64, 'duration': 2.88}
+{'text': 'person or being transformed an early age', 'start': 2214.16, 'duration': 2.4}
+{'text': 'if we thought that it was purely a', 'start': 2215.52, 'duration': 2.72}
+{'text': 'socially constructive thing with no', 'start': 2216.56, 'duration': 4.96}
+{'text': 'underlying biological fact of the matter', 'start': 2218.24, 'duration': 6.16}
+{'text': "i don't agree that just because", 'start': 2221.52, 'duration': 4.559}
+{'text': 'i mean i think that the high rates of', 'start': 2224.4, 'duration': 5.04}
+{'text': 'trans suicides are mostly being caused', 'start': 2226.079, 'duration': 4.321}
+{'text': 'by', 'start': 2229.44, 'duration': 3.2}
+{'text': 'society treating them like [\xa0__\xa0] and i', 'start': 2230.4, 'duration': 4.32}
+{'text': 'think we can get those rates down if we', 'start': 2232.64, 'duration': 4.479}
+{'text': 'stop treating them like [\xa0__\xa0] and i think', 'start': 2234.72, 'duration': 4.24}
+{'text': 'that the best like people are gonna have', 'start': 2237.119, 'duration': 4.161}
+{'text': "gender dysphoria whether it's purely", 'start': 2238.96, 'duration': 5.28}
+{'text': "biological or whether it's you know", 'start': 2241.28, 'duration': 5.28}
+{'text': 'only a social construct so', 'start': 2244.24, 'duration': 4.0}
+{'text': "whether it's a social construct or it is", 'start': 2246.56, 'duration': 3.84}
+{'text': 'biological we should you know treat', 'start': 2248.24, 'duration': 4.32}
+{'text': 'people with gender dysphoria', 'start': 2250.4, 'duration': 3.76}
+{'text': 'as well as possible and give them the', 'start': 2252.56, 'duration': 2.799}
+{'text': 'best treatment', 'start': 2254.16, 'duration': 3.439}
+{'text': 'okay but', 'start': 2255.359, 'duration': 3.841}
+{'text': "this it still doesn't answer the", 'start': 2257.599, 'duration': 2.961}
+{'text': 'question of whether we think there might', 'start': 2259.2, 'duration': 3.28}
+{'text': 'be like an underlying fact of the matter', 'start': 2260.56, 'duration': 3.279}
+{'text': "in somebody's brain that makes them", 'start': 2262.48, 'duration': 3.28}
+{'text': "trans it's not just like", 'start': 2263.839, 'duration': 3.601}
+{'text': 'they watched the wrong cartoons growing', 'start': 2265.76, 'duration': 3.68}
+{'text': 'up or something', 'start': 2267.44, 'duration': 3.36}
+{'text': "i'm not saying they watched the wrong", 'start': 2269.44, 'duration': 3.919}
+{'text': 'cartoons growing up', 'start': 2270.8, 'duration': 4.799}
+{'text': 'like', 'start': 2273.359, 'duration': 2.24}
+{'text': 'yeah i feel like you have this idea that', 'start': 2276.24, 'duration': 4.24}
+{'text': 'being trans is like a negative thing', 'start': 2278.72, 'duration': 3.6}
+{'text': 'whereas for some people it can be a', 'start': 2280.48, 'duration': 4.16}
+{'text': 'freeing thing because they feel like', 'start': 2282.32, 'duration': 4.24}
+{'text': "their entire lives they've been stuck in", 'start': 2284.64, 'duration': 3.92}
+{'text': "a box that doesn't like work for them", 'start': 2286.56, 'duration': 3.44}
+{'text': 'and then they find something that does', 'start': 2288.56, 'duration': 3.519}
+{'text': 'work for them like i feel like you have', 'start': 2290.0, 'duration': 3.839}
+{'text': 'this very negative', 'start': 2292.079, 'duration': 4.241}
+{'text': 'like of course the high rates of suicide', 'start': 2293.839, 'duration': 4.881}
+{'text': 'among trans people is a very like', 'start': 2296.32, 'duration': 4.32}
+{'text': 'uh pressing thing that we need to work', 'start': 2298.72, 'duration': 4.72}
+{'text': "on but i don't view like being trans as", 'start': 2300.64, 'duration': 4.32}
+{'text': 'a negative thing in the same way that', 'start': 2303.44, 'duration': 3.84}
+{'text': 'you do', 'start': 2304.96, 'duration': 2.32}
+{'text': 'in the same way that a lot of trans', 'start': 2308.0, 'duration': 3.2}
+{'text': 'people do right', 'start': 2309.68, 'duration': 2.88}
+{'text': "it's", 'start': 2311.2, 'duration': 3.44}
+{'text': 'well', 'start': 2312.56, 'duration': 3.039}
+{'text': 'i mean', 'start': 2314.64, 'duration': 3.68}
+{'text': "like like dysphoria isn't just like my", 'start': 2315.599, 'duration': 5.201}
+{'text': 'mom and dad were mean to me yes no i', 'start': 2318.32, 'duration': 4.56}
+{'text': "know i understand it's like a it's like", 'start': 2320.8, 'duration': 3.039}
+{'text': 'a', 'start': 2322.88, 'duration': 3.12}
+{'text': 'like a deep disgust with the way that', 'start': 2323.839, 'duration': 3.76}
+{'text': 'your body looks and the incongruency', 'start': 2326.0, 'duration': 2.88}
+{'text': 'with how you view yourself your mind', 'start': 2327.599, 'duration': 3.121}
+{'text': 'like like something that', 'start': 2328.88, 'duration': 3.68}
+{'text': 'i i actually i can only go by like when', 'start': 2330.72, 'duration': 3.04}
+{'text': "people email me and tell me i've never", 'start': 2332.56, 'duration': 2.4}
+{'text': "experienced it before so i can't even", 'start': 2333.76, 'duration': 3.44}
+{'text': 'say it but like like there was an email', 'start': 2334.96, 'duration': 3.6}
+{'text': 'that i had back and forth with the lady', 'start': 2337.2, 'duration': 3.04}
+{'text': 'who i referenced a couple times to talk', 'start': 2338.56, 'duration': 3.12}
+{'text': 'about because she would have money for', 'start': 2340.24, 'duration': 3.44}
+{'text': "drugs for hrt and then she'd lose money", 'start': 2341.68, 'duration': 4.0}
+{'text': 'and like this visceral disgust that she', 'start': 2343.68, 'duration': 3.12}
+{'text': 'would feel she could see like the', 'start': 2345.68, 'duration': 2.88}
+{'text': 'distribution of fat around her body was', 'start': 2346.8, 'duration': 2.88}
+{'text': 'just like this', 'start': 2348.56, 'duration': 3.44}
+{'text': "like it's a it's a very", 'start': 2349.68, 'duration': 5.12}
+{'text': 'not a socially constructed thing like i', 'start': 2352.0, 'duration': 4.72}
+{'text': "no i'm not trying to discredit gender", 'start': 2354.8, 'duration': 3.92}
+{'text': 'dysphoria in any way and i would agree', 'start': 2356.72, 'duration': 3.92}
+{'text': 'with you that trans people who suffer', 'start': 2358.72, 'duration': 4.48}
+{'text': 'from gender dysphoria are', 'start': 2360.64, 'duration': 4.56}
+{'text': 'pr yeah definitely having a harder time', 'start': 2363.2, 'duration': 3.44}
+{'text': "than trans people who aren't suffering", 'start': 2365.2, 'duration': 3.28}
+{'text': "from gender dysphoria i mean i've", 'start': 2366.64, 'duration': 3.52}
+{'text': 'suffered from like', 'start': 2368.48, 'duration': 4.56}
+{'text': 'gendered or body dysmorphia like', 'start': 2370.16, 'duration': 4.24}
+{'text': 'thinking that my body looks different', 'start': 2373.04, 'duration': 2.88}
+{'text': 'than it actually does and that [\xa0__\xa0]', 'start': 2374.4, 'duration': 4.08}
+{'text': "sucks and so you know i can't imagine", 'start': 2375.92, 'duration': 4.08}
+{'text': 'how hard it is to suffer from gender', 'start': 2378.48, 'duration': 3.2}
+{'text': "dysphoria so i'm not trying to discredit", 'start': 2380.0, 'duration': 3.28}
+{'text': 'that in any way sure but like when you', 'start': 2381.68, 'duration': 3.28}
+{'text': 'say like people love being trans because', 'start': 2383.28, 'duration': 3.28}
+{'text': "it's freeing and then you talk about how", 'start': 2384.96, 'duration': 2.8}
+{'text': 'like well when they get on drugs it', 'start': 2386.56, 'duration': 2.96}
+{'text': "helps them that's like saying people", 'start': 2387.76, 'duration': 3.76}
+{'text': 'love being disabled because when they', 'start': 2389.52, 'duration': 3.52}
+{'text': 'get a wheelchair they can move around so', 'start': 2391.52, 'duration': 3.599}
+{'text': 'much more', 'start': 2393.04, 'duration': 2.64}
+{'text': 'like like', 'start': 2395.119, 'duration': 2.401}
+{'text': 'trans people that get on hrt are', 'start': 2395.68, 'duration': 3.84}
+{'text': 'catching up to cis people in terms of', 'start': 2397.52, 'duration': 3.44}
+{'text': 'finally feeling comfortable in their', 'start': 2399.52, 'duration': 4.4}
+{'text': "body sure but that's still a positive", 'start': 2400.96, 'duration': 5.28}
+{'text': 'thing for them', 'start': 2403.92, 'duration': 5.28}
+{'text': "i i just don't agree with your idea that", 'start': 2406.24, 'duration': 5.04}
+{'text': 'being trans is a negative thing i think', 'start': 2409.2, 'duration': 3.919}
+{'text': 'it is something that causes a lot of', 'start': 2411.28, 'duration': 4.079}
+{'text': 'people distress and in that case it', 'start': 2413.119, 'duration': 3.681}
+{'text': 'might be a negative thing and that they', 'start': 2415.359, 'duration': 3.841}
+{'text': 'need to you know work towards', 'start': 2416.8, 'duration': 3.6}
+{'text': "like if okay i'm going to try to meet", 'start': 2419.2, 'duration': 2.399}
+{'text': "you and i'm saying meet you in the", 'start': 2420.4, 'duration': 2.56}
+{'text': "middle but i'm trying to come like 95", 'start': 2421.599, 'duration': 2.801}
+{'text': 'percent of your direction we can', 'start': 2422.96, 'duration': 3.76}
+{'text': 'conceive of a world where so much gender', 'start': 2424.4, 'duration': 4.48}
+{'text': 'affirming care exists like puberty', 'start': 2426.72, 'duration': 3.92}
+{'text': 'blockers of transmitting that like being', 'start': 2428.88, 'duration': 3.6}
+{'text': "trans isn't necessarily a negative thing", 'start': 2430.64, 'duration': 3.439}
+{'text': 'like because we can alleviate all of', 'start': 2432.48, 'duration': 3.2}
+{'text': 'these issues socially and scientifically', 'start': 2434.079, 'duration': 2.76}
+{'text': 'or medically', 'start': 2435.68, 'duration': 3.76}
+{'text': "right that's that's the world that", 'start': 2436.839, 'duration': 5.321}
+{'text': "you're pointing towards", 'start': 2439.44, 'duration': 5.36}
+{'text': 'i think that the trans experience is', 'start': 2442.16, 'duration': 4.32}
+{'text': 'worse for some people than it is for', 'start': 2444.8, 'duration': 3.84}
+{'text': 'others', 'start': 2446.48, 'duration': 4.8}
+{'text': "that's i think i think meaningless", 'start': 2448.64, 'duration': 4.8}
+{'text': 'i think people who suffer from very', 'start': 2451.28, 'duration': 3.92}
+{'text': 'intense gender dysphoria are going to', 'start': 2453.44, 'duration': 3.12}
+{'text': 'have a worse experience than people who', 'start': 2455.2, 'duration': 2.639}
+{'text': "don't suffer from as much gender", 'start': 2456.56, 'duration': 3.44}
+{'text': 'dysphoria which is why i understand that', 'start': 2457.839, 'duration': 4.081}
+{'text': 'the trans people who do suffer from a', 'start': 2460.0, 'duration': 4.079}
+{'text': 'lot of gender dysphoria are like oh the', 'start': 2461.92, 'duration': 3.679}
+{'text': "these trans people think it's just a", 'start': 2464.079, 'duration': 3.441}
+{'text': "social construct and they're not the", 'start': 2465.599, 'duration': 3.76}
+{'text': "same as me because i don't because they", 'start': 2467.52, 'duration': 3.2}
+{'text': "don't have gender dysphoria and i can", 'start': 2469.359, 'duration': 3.521}
+{'text': "empathize with them that they're going", 'start': 2470.72, 'duration': 4.16}
+{'text': "through this deep pain and they're like", 'start': 2472.88, 'duration': 4.0}
+{'text': "you know it's not fair that these people", 'start': 2474.88, 'duration': 3.6}
+{'text': "aren't going through the same pain that", 'start': 2476.88, 'duration': 4.08}
+{'text': 'i am like i totally can empathize with', 'start': 2478.48, 'duration': 4.72}
+{'text': 'that', 'start': 2480.96, 'duration': 2.24}
+{'text': 'okay um', 'start': 2483.76, 'duration': 2.96}
+{'text': 're i guess', 'start': 2488.88, 'duration': 3.6}
+{'text': "i don't even know what else is there is", 'start': 2490.88, 'duration': 3.92}
+{'text': 'there anything else to talk about', 'start': 2492.48, 'duration': 6.16}
+{'text': 'i guess i just still was confused why', 'start': 2494.8, 'duration': 4.64}
+{'text': 'like', 'start': 2498.64, 'duration': 2.959}
+{'text': "you said that like we shouldn't call", 'start': 2499.44, 'duration': 3.84}
+{'text': 'um i was like', 'start': 2501.599, 'duration': 3.681}
+{'text': 'well the reason why some black people', 'start': 2503.28, 'duration': 4.0}
+{'text': 'call white people cracker is like', 'start': 2505.28, 'duration': 3.839}
+{'text': "because they're racist not because they", 'start': 2507.28, 'duration': 4.079}
+{'text': 'like hate white people and and you', 'start': 2509.119, 'duration': 4.48}
+{'text': "didn't want to like accept that argument", 'start': 2511.359, 'duration': 5.281}
+{'text': 'but i feel like you', 'start': 2513.599, 'duration': 5.281}
+{'text': 'have kind of made that argument as far', 'start': 2516.64, 'duration': 4.16}
+{'text': 'as like why you should be able to use', 'start': 2518.88, 'duration': 4.64}
+{'text': 'certain insults', 'start': 2520.8, 'duration': 4.4}
+{'text': "because i don't think that i don't think", 'start': 2523.52, 'duration': 2.48}
+{'text': 'you should', 'start': 2525.2, 'duration': 2.399}
+{'text': "i think generally probably shouldn't use", 'start': 2526.0, 'duration': 4.64}
+{'text': 'like targeted insults towards people', 'start': 2527.599, 'duration': 5.681}
+{'text': 'that are um like like like a targeted', 'start': 2530.64, 'duration': 3.84}
+{'text': 'insult towards a category that we', 'start': 2533.28, 'duration': 3.36}
+{'text': "wouldn't want to target so like stupid", 'start': 2534.48, 'duration': 3.68}
+{'text': "is probably okay because it's okay to", 'start': 2536.64, 'duration': 3.12}
+{'text': 'like make fun of people that have dumb', 'start': 2538.16, 'duration': 4.32}
+{'text': 'ideas or being stupid but like cracker', 'start': 2539.76, 'duration': 6.079}
+{'text': "or i'll say the n-word or like [\xa0__\xa0] or", 'start': 2542.48, 'duration': 4.639}
+{'text': 'any of these words like we probably', 'start': 2545.839, 'duration': 3.041}
+{'text': "shouldn't say these because we're kind", 'start': 2547.119, 'duration': 3.281}
+{'text': 'of like targeting characteristics that', 'start': 2548.88, 'duration': 3.28}
+{'text': "we shouldn't view negatively like it", 'start': 2550.4, 'duration': 3.6}
+{'text': "shouldn't be considered a negative to be", 'start': 2552.16, 'duration': 4.08}
+{'text': 'gay or a negative to be black right so', 'start': 2554.0, 'duration': 3.92}
+{'text': 'we should or a cracker like a negative', 'start': 2556.24, 'duration': 4.64}
+{'text': 'to be white right', 'start': 2557.92, 'duration': 2.96}
+{'text': 'yeah i just feel like', 'start': 2562.0, 'duration': 3.839}
+{'text': 'but subhuman can apply to literally', 'start': 2566.079, 'duration': 4.401}
+{'text': 'anybody like anybody could be subhuman', 'start': 2568.16, 'duration': 4.32}
+{'text': "or inbred it's like a j like that's it's", 'start': 2570.48, 'duration': 5.2}
+{'text': 'just a general [\xa0__\xa0] insult', 'start': 2572.48, 'duration': 6.8}
+{'text': 'but what what if you call a black person', 'start': 2575.68, 'duration': 6.32}
+{'text': 'subhuman and then they take it as', 'start': 2579.28, 'duration': 4.079}
+{'text': "racist because you're like a white", 'start': 2582.0, 'duration': 3.44}
+{'text': 'person calling them subhuman like then i', 'start': 2583.359, 'duration': 3.441}
+{'text': "think they're a little baby [\xa0__\xa0] that's", 'start': 2585.44, 'duration': 2.96}
+{'text': 'weaponizing their identity for internet', 'start': 2586.8, 'duration': 3.2}
+{'text': "points i think that if you're a mature", 'start': 2588.4, 'duration': 3.439}
+{'text': 'human being i think you can figure out', 'start': 2590.0, 'duration': 3.839}
+{'text': 'when people respond i think that you can', 'start': 2591.839, 'duration': 3.841}
+{'text': 'figure out when people are being racist', 'start': 2593.839, 'duration': 4.081}
+{'text': 'towards you the most racist [\xa0__\xa0] i ever', 'start': 2595.68, 'duration': 4.24}
+{'text': 'heard in my life growing up towards', 'start': 2597.92, 'duration': 4.0}
+{'text': 'black people never had anything to do', 'start': 2599.92, 'duration': 4.08}
+{'text': 'with slurs it was usually the words', 'start': 2601.92, 'duration': 4.32}
+{'text': "gangsters and thugs that's usually what", 'start': 2604.0, 'duration': 4.24}
+{'text': 'i heard growing up that like was the', 'start': 2606.24, 'duration': 4.0}
+{'text': 'most like oof kind of [\xa0__\xa0] that made me', 'start': 2608.24, 'duration': 3.52}
+{'text': 'feel uncomfortable when conservatives', 'start': 2610.24, 'duration': 4.48}
+{'text': 'would talk about black people', 'start': 2611.76, 'duration': 2.96}
+{'text': "well yeah i think like that's not good", 'start': 2615.76, 'duration': 4.4}
+{'text': "either but those aren't neither of those", 'start': 2618.56, 'duration': 3.44}
+{'text': "words are slurs they're not even really", 'start': 2620.16, 'duration': 4.24}
+{'text': 'like hugely insulting word technically', 'start': 2622.0, 'duration': 4.56}
+{'text': 'but like what that stuff is', 'start': 2624.4, 'duration': 4.32}
+{'text': "it's making generalizations about their", 'start': 2626.56, 'duration': 3.84}
+{'text': 'community well it depends am i maybe', 'start': 2628.72, 'duration': 2.96}
+{'text': "you're actually talking about somebody", 'start': 2630.4, 'duration': 4.0}
+{'text': "that's acting thuggish", 'start': 2631.68, 'duration': 4.48}
+{'text': "well yeah but it's like making", 'start': 2634.4, 'duration': 4.64}
+{'text': 'associations with their community and', 'start': 2636.16, 'duration': 3.84}
+{'text': 'sure but like', 'start': 2639.04, 'duration': 3.12}
+{'text': 'that could like also apply to making', 'start': 2640.0, 'duration': 3.44}
+{'text': 'generalizations about the trans', 'start': 2642.16, 'duration': 3.36}
+{'text': 'community like what you said earlier in', 'start': 2643.44, 'duration': 3.28}
+{'text': "the conversation about that they've been", 'start': 2645.52, 'duration': 3.12}
+{'text': "like talking to kids too much don't you", 'start': 2646.72, 'duration': 4.24}
+{'text': 'like see that', 'start': 2648.64, 'duration': 3.92}
+{'text': "you're like implying that trans people", 'start': 2650.96, 'duration': 3.359}
+{'text': "are predators or something that's not my", 'start': 2652.56, 'duration': 3.2}
+{'text': "argument that's when people say that", 'start': 2654.319, 'duration': 2.881}
+{'text': 'just being trans is just a social', 'start': 2655.76, 'duration': 2.88}
+{'text': "construct that's what conservatives", 'start': 2657.2, 'duration': 3.6}
+{'text': 'argue that like lgbt groups talking to', 'start': 2658.64, 'duration': 3.679}
+{'text': "kids or turning them trans because it's", 'start': 2660.8, 'duration': 4.559}
+{'text': 'all socially constructed', 'start': 2662.319, 'duration': 3.04}
+{'text': "i don't i don't think that", 'start': 2666.88, 'duration': 6.16}
+{'text': 'like a left-leaning group telling', 'start': 2670.48, 'duration': 4.639}
+{'text': 'children that trans people exist is', 'start': 2673.04, 'duration': 3.92}
+{'text': 'turning them trans even if it is a', 'start': 2675.119, 'duration': 3.921}
+{'text': "social construct okay that's great but", 'start': 2676.96, 'duration': 3.119}
+{'text': "i'm just saying that's like the", 'start': 2679.04, 'duration': 2.4}
+{'text': 'conservative argument for when they call', 'start': 2680.079, 'duration': 3.52}
+{'text': "it a social construct is that like it's", 'start': 2681.44, 'duration': 3.76}
+{'text': 'something that like people can basically', 'start': 2683.599, 'duration': 6.041}
+{'text': 'be talked into or socialized into', 'start': 2685.2, 'duration': 4.44}
+{'text': 'well', 'start': 2690.64, 'duration': 3.6}
+{'text': "i don't think that", 'start': 2691.68, 'duration': 4.24}
+{'text': "i know that you don't think that that's", 'start': 2694.24, 'duration': 3.44}
+{'text': "great that you don't think that i'm just", 'start': 2695.92, 'duration': 2.64}
+{'text': 'saying that when you say social', 'start': 2697.68, 'duration': 2.24}
+{'text': "construct that's what it sounds like", 'start': 2698.56, 'duration': 2.88}
+{'text': "that like trans people aren't actually", 'start': 2699.92, 'duration': 3.28}
+{'text': "real it's just kind of like an identity", 'start': 2701.44, 'duration': 4.48}
+{'text': 'that people kind of like have in society', 'start': 2703.2, 'duration': 4.879}
+{'text': 'is the english language real', 'start': 2705.92, 'duration': 3.76}
+{'text': 'yes', 'start': 2708.079, 'duration': 3.841}
+{'text': 'okay well then that means that trans', 'start': 2709.68, 'duration': 3.679}
+{'text': "people would still be real even if it's", 'start': 2711.92, 'duration': 3.6}
+{'text': 'a social construct but the english', 'start': 2713.359, 'duration': 3.76}
+{'text': 'language', 'start': 2715.52, 'duration': 3.68}
+{'text': "it's an agreed thing upon all of us we", 'start': 2717.119, 'duration': 3.761}
+{'text': 'all agree like what words mean and what', 'start': 2719.2, 'duration': 3.84}
+{'text': "words do that's what a language is but", 'start': 2720.88, 'duration': 3.52}
+{'text': "like you're personal like the fact of", 'start': 2723.04, 'duration': 3.52}
+{'text': "the matter about your body isn't usually", 'start': 2724.4, 'duration': 4.88}
+{'text': 'a social agreement', 'start': 2726.56, 'duration': 4.559}
+{'text': 'like if i ask if you have like a penis', 'start': 2729.28, 'duration': 4.24}
+{'text': 'or a vagina is that is that a socially', 'start': 2731.119, 'duration': 5.121}
+{'text': 'constructed thing', 'start': 2733.52, 'duration': 4.48}
+{'text': 'well no i think that would be commenting', 'start': 2736.24, 'duration': 2.64}
+{'text': 'on', 'start': 2738.0, 'duration': 3.52}
+{'text': 'biology yes so when i talk to you about', 'start': 2738.88, 'duration': 5.199}
+{'text': 'an internal identity of gender is that', 'start': 2741.52, 'duration': 6.0}
+{'text': 'just a socially constructed thing', 'start': 2744.079, 'duration': 5.201}
+{'text': 'yeah i do believe gender is a social', 'start': 2747.52, 'duration': 3.28}
+{'text': 'construct', 'start': 2749.28, 'duration': 5.44}
+{'text': 'your internal experience of gender', 'start': 2750.8, 'duration': 3.92}
+{'text': 'no not', 'start': 2754.88, 'duration': 2.88}
+{'text': 'i think the gender is socially', 'start': 2756.48, 'duration': 3.52}
+{'text': 'constructed and then people can have', 'start': 2757.76, 'duration': 4.48}
+{'text': 'different experiences based on', 'start': 2760.0, 'duration': 4.24}
+{'text': "how their brains work obviously so we've", 'start': 2762.24, 'duration': 3.599}
+{'text': 'just happened to socially construct', 'start': 2764.24, 'duration': 4.079}
+{'text': 'gender more or less the same way for 10', 'start': 2765.839, 'duration': 6.48}
+{'text': '000 years of human civilization', 'start': 2768.319, 'duration': 7.52}
+{'text': 'i think that there are', 'start': 2772.319, 'duration': 3.52}
+{'text': "i'm not saying that gender", 'start': 2776.16, 'duration': 4.24}
+{'text': "isn't influenced by sex i think that", 'start': 2778.319, 'duration': 3.121}
+{'text': 'there are', 'start': 2780.4, 'duration': 3.28}
+{'text': 'biological things that influence the way', 'start': 2781.44, 'duration': 4.48}
+{'text': 'gender is socially constructed okay now', 'start': 2783.68, 'duration': 4.08}
+{'text': "you're basically trying to agree with me", 'start': 2785.92, 'duration': 2.96}
+{'text': 'in more words and trying to make', 'start': 2787.76, 'duration': 2.4}
+{'text': "something now you're agreeing with me", 'start': 2788.88, 'duration': 2.719}
+{'text': "now you're saying there's biologically", 'start': 2790.16, 'duration': 3.04}
+{'text': 'so there is an underlying fact of the', 'start': 2791.599, 'duration': 3.361}
+{'text': "matter it's not just a socially", 'start': 2793.2, 'duration': 3.68}
+{'text': "constructed thing no no i'm not saying", 'start': 2794.96, 'duration': 3.68}
+{'text': "it's there's a fact of the matter i'm", 'start': 2796.88, 'duration': 3.68}
+{'text': 'saying that sex influences the social', 'start': 2798.64, 'duration': 3.439}
+{'text': 'construct of gender sure do you know', 'start': 2800.56, 'duration': 4.4}
+{'text': 'what a bench press is', 'start': 2802.079, 'duration': 2.881}
+{'text': 'like an exercise like lifting weights', 'start': 2805.28, 'duration': 3.92}
+{'text': "yeah that's like a socially constructed", 'start': 2807.52, 'duration': 3.839}
+{'text': 'exercise right', 'start': 2809.2, 'duration': 4.639}
+{'text': 'but i need two arms to do it', 'start': 2811.359, 'duration': 4.641}
+{'text': 'so like male or female might be we can', 'start': 2813.839, 'duration': 3.76}
+{'text': 'say these are socially constructed', 'start': 2816.0, 'duration': 3.44}
+{'text': 'genders but there still might be an', 'start': 2817.599, 'duration': 3.841}
+{'text': 'underlying fact of the matter that is', 'start': 2819.44, 'duration': 4.48}
+{'text': 'like both necessary and sufficient to', 'start': 2821.44, 'duration': 5.28}
+{'text': 'have these things expressed right', 'start': 2823.92, 'duration': 4.159}
+{'text': 'just calling it a social construct', 'start': 2826.72, 'duration': 2.879}
+{'text': "doesn't mean nothing or it can be", 'start': 2828.079, 'duration': 3.76}
+{'text': 'anything', 'start': 2829.599, 'duration': 2.24}
+{'text': 'the social construct stems from', 'start': 2832.48, 'duration': 6.0}
+{'text': 'like it arose out of biology but that', 'start': 2835.76, 'duration': 5.04}
+{'text': "doesn't mean that we have to", 'start': 2838.48, 'duration': 5.76}
+{'text': 'stay strict to that', 'start': 2840.8, 'duration': 5.519}
+{'text': "sure but we can't just change our gender", 'start': 2844.24, 'duration': 4.24}
+{'text': 'identity on a whim right if i were to', 'start': 2846.319, 'duration': 4.161}
+{'text': 'tell you to just be a girl can you just', 'start': 2848.48, 'duration': 4.16}
+{'text': 'do that', 'start': 2850.48, 'duration': 3.44}
+{'text': 'well there are people who are gender', 'start': 2852.64, 'duration': 3.76}
+{'text': 'fluid', 'start': 2853.92, 'duration': 2.48}
+{'text': 'if i were to tell you to just like have', 'start': 2857.28, 'duration': 3.52}
+{'text': 'the have the internal gender identity of', 'start': 2859.119, 'duration': 3.2}
+{'text': 'being a woman do you think you could do', 'start': 2860.8, 'duration': 3.2}
+{'text': 'that in like a few months or a couple', 'start': 2862.319, 'duration': 3.76}
+{'text': 'years', 'start': 2864.0, 'duration': 4.559}
+{'text': "no i don't think i could force myself to", 'start': 2866.079, 'duration': 5.28}
+{'text': "be a girl i think it's something that i", 'start': 2868.559, 'duration': 4.0}
+{'text': 'experience', 'start': 2871.359, 'duration': 3.76}
+{'text': 'and then', 'start': 2872.559, 'duration': 4.481}
+{'text': "you know express outwardly i don't think", 'start': 2875.119, 'duration': 4.081}
+{'text': 'you can force someone into a gender not', 'start': 2877.04, 'duration': 3.279}
+{'text': 'forcing them but like could you', 'start': 2879.2, 'duration': 2.96}
+{'text': 'socialize someone into it', 'start': 2880.319, 'duration': 5.04}
+{'text': "if it's a social construct", 'start': 2882.16, 'duration': 4.48}
+{'text': 'uh', 'start': 2885.359, 'duration': 4.561}
+{'text': 'could you socialize somewhat like i', 'start': 2886.64, 'duration': 6.8}
+{'text': "i don't think that you could", 'start': 2889.92, 'duration': 3.52}
+{'text': "i don't", 'start': 2893.76, 'duration': 2.96}
+{'text': "think that that's how it works that you", 'start': 2894.88, 'duration': 2.8}
+{'text': 'well then what do you what does it mean', 'start': 2896.72, 'duration': 2.399}
+{'text': "when you say it's a social construct", 'start': 2897.68, 'duration': 3.04}
+{'text': 'then', 'start': 2899.119, 'duration': 4.561}
+{'text': 'i think socially we gain more acceptance', 'start': 2900.72, 'duration': 5.2}
+{'text': 'for trans issues and then people can get', 'start': 2903.68, 'duration': 4.08}
+{'text': 'to the point where they say', 'start': 2905.92, 'duration': 4.159}
+{'text': 'oh that you know that identity fits me', 'start': 2907.76, 'duration': 4.079}
+{'text': 'that label fits me that yeah but where', 'start': 2910.079, 'duration': 3.28}
+{'text': 'does the identity or label come from', 'start': 2911.839, 'duration': 3.28}
+{'text': 'does it come from is it some biological', 'start': 2913.359, 'duration': 3.601}
+{'text': 'like underlying fact of the matter or is', 'start': 2915.119, 'duration': 3.44}
+{'text': 'it just like an identity that we craft', 'start': 2916.96, 'duration': 2.879}
+{'text': 'for ourselves', 'start': 2918.559, 'duration': 2.881}
+{'text': "i think it's a mixture of both i think", 'start': 2919.839, 'duration': 4.081}
+{'text': 'gender originally stemmed from biology', 'start': 2921.44, 'duration': 4.32}
+{'text': "but i think it's something so if gender", 'start': 2923.92, 'duration': 4.48}
+{'text': "stems from biology then it's not a far", 'start': 2925.76, 'duration': 4.24}
+{'text': "cry to say that like there's like a", 'start': 2928.4, 'duration': 3.6}
+{'text': 'brain thing since i imagine this is', 'start': 2930.0, 'duration': 3.04}
+{'text': 'where our gender is probably coming from', 'start': 2932.0, 'duration': 2.48}
+{'text': "there's like a brain thing that's", 'start': 2933.04, 'duration': 3.2}
+{'text': 'controlling some part of our internal', 'start': 2934.48, 'duration': 3.359}
+{'text': 'gender identity', 'start': 2936.24, 'duration': 3.839}
+{'text': 'sure yeah i think that there', 'start': 2937.839, 'duration': 4.321}
+{'text': "it's definitely", 'start': 2940.079, 'duration': 3.921}
+{'text': 'psychological things going on other than', 'start': 2942.16, 'duration': 4.959}
+{'text': 'just sociological', 'start': 2944.0, 'duration': 3.119}
+{'text': "i think it's probably both", 'start': 2947.28, 'duration': 5.76}
+{'text': "to some extent sure but okay so we've", 'start': 2950.16, 'duration': 4.88}
+{'text': "somehow we've gotten to my position now", 'start': 2953.04, 'duration': 4.079}
+{'text': "that's good i guess", 'start': 2955.04, 'duration': 5.44}
+{'text': 'um what else', 'start': 2957.119, 'duration': 3.361}
+{'text': "i don't know is there anything else here", 'start': 2962.64, 'duration': 3.52}
+{'text': 'no i guess not', 'start': 2966.24, 'duration': 2.8}
+{'text': "i don't think we've gotten to your", 'start': 2969.68, 'duration': 3.679}
+{'text': 'position i still do believe that gender', 'start': 2971.04, 'duration': 4.799}
+{'text': "is socially constructed it's just but", 'start': 2973.359, 'duration': 3.76}
+{'text': "it's an underlying fact there's an", 'start': 2975.839, 'duration': 2.561}
+{'text': "underlying fact of the matter there's an", 'start': 2977.119, 'duration': 2.881}
+{'text': "underlying biological fact that's not", 'start': 2978.4, 'duration': 3.439}
+{'text': 'socially constructed right like me being', 'start': 2980.0, 'duration': 3.52}
+{'text': 'able to do a socially constructed', 'start': 2981.839, 'duration': 3.841}
+{'text': 'exercise the bench press comes down to', 'start': 2983.52, 'duration': 4.72}
+{'text': 'whether i have two arms my arms are not', 'start': 2985.68, 'duration': 4.48}
+{'text': "socially constructed if you're saying", 'start': 2988.24, 'duration': 3.839}
+{'text': 'that gender because it originally', 'start': 2990.16, 'duration': 3.84}
+{'text': 'stemmed from biology that means that to', 'start': 2992.079, 'duration': 3.601}
+{'text': 'have to be a man you have to have a', 'start': 2994.0, 'duration': 3.68}
+{'text': "penis no i don't agree with that who's", 'start': 2995.68, 'duration': 3.28}
+{'text': 'set wait', 'start': 2997.68, 'duration': 2.639}
+{'text': 'what', 'start': 2998.96, 'duration': 2.72}
+{'text': "well i didn't hold on wait my [\xa0__\xa0] is", 'start': 3000.319, 'duration': 3.441}
+{'text': 'lagging hold on really hard', 'start': 3001.68, 'duration': 3.6}
+{'text': "who's the third person in here that", 'start': 3003.76, 'duration': 3.68}
+{'text': "you're talking to", 'start': 3005.28, 'duration': 3.68}
+{'text': "well i thought that's the argument you", 'start': 3007.44, 'duration': 2.96}
+{'text': 'were making with that like you have to', 'start': 3008.96, 'duration': 3.76}
+{'text': 'have arms to do a bench press i thought', 'start': 3010.4, 'duration': 5.28}
+{'text': 'well done i am never i have never made', 'start': 3012.72, 'duration': 4.56}
+{'text': 'the argument that you need a penis to be', 'start': 3015.68, 'duration': 3.2}
+{'text': 'a man the entire time', 'start': 3017.28, 'duration': 3.6}
+{'text': "i'm talking about your brain", 'start': 3018.88, 'duration': 3.6}
+{'text': "okay well okay i thought that's what you", 'start': 3020.88, 'duration': 3.679}
+{'text': 'were implying by you have arms to do a', 'start': 3022.48, 'duration': 3.44}
+{'text': "bench press okay i'm sorry i", 'start': 3024.559, 'duration': 3.361}
+{'text': 'misinterpreted that okay no the arms for', 'start': 3025.92, 'duration': 3.36}
+{'text': 'this case are whatever part of your', 'start': 3027.92, 'duration': 2.639}
+{'text': 'brain gives you like an internal', 'start': 3029.28, 'duration': 4.079}
+{'text': 'expression of gender', 'start': 3030.559, 'duration': 3.681}
+{'text': 'um', 'start': 3033.359, 'duration': 3.121}
+{'text': 'well yeah i mean everything that we do', 'start': 3034.24, 'duration': 4.879}
+{'text': "socially is influenced by what's", 'start': 3036.48, 'duration': 5.52}
+{'text': 'happening inside of our brains', 'start': 3039.119, 'duration': 4.24}
+{'text': 'i thought you were saying more of a', 'start': 3042.0, 'duration': 4.24}
+{'text': 'biological as far as like penises and', 'start': 3043.359, 'duration': 5.2}
+{'text': 'stuff', 'start': 3046.24, 'duration': 2.319}
+{'text': 'like', 'start': 3048.72, 'duration': 3.2}
+{'text': 'like more of like the chromosomes and', 'start': 3049.839, 'duration': 3.76}
+{'text': 'having a penis or whatever but yeah no i', 'start': 3051.92, 'duration': 3.439}
+{'text': "agree that anything that's a social", 'start': 3053.599, 'duration': 4.321}
+{'text': 'construct is obviously influenced by', 'start': 3055.359, 'duration': 5.841}
+{'text': "what's happening psychologically", 'start': 3057.92, 'duration': 6.399}
+{'text': 'okay um', 'start': 3061.2, 'duration': 3.119}
+{'text': 'is there um is there anything else you', 'start': 3064.96, 'duration': 4.48}
+{'text': 'want to talk about', 'start': 3066.88, 'duration': 3.36}
+{'text': 'no', 'start': 3069.44, 'duration': 2.48}
+{'text': 'okay i', 'start': 3070.24, 'duration': 3.599}
+{'text': "i'm a little insulted that", 'start': 3071.92, 'duration': 3.76}
+{'text': 'and but this is more common online you', 'start': 3073.839, 'duration': 3.28}
+{'text': "said that i wouldn't be a good advocate", 'start': 3075.68, 'duration': 2.72}
+{'text': "for transpositions i don't think you", 'start': 3077.119, 'duration': 3.121}
+{'text': 'know anything about trans people or the', 'start': 3078.4, 'duration': 4.0}
+{'text': 'trans anything i i super think you have', 'start': 3080.24, 'duration': 4.0}
+{'text': "no idea i think you've like heard seen", 'start': 3082.4, 'duration': 3.6}
+{'text': 'some tweets and you identify with it', 'start': 3084.24, 'duration': 2.8}
+{'text': "because it's woke and you get like", 'start': 3086.0, 'duration': 2.64}
+{'text': 'points for it online but i truly think', 'start': 3087.04, 'duration': 3.039}
+{'text': 'you have no [\xa0__\xa0] idea about anything', 'start': 3088.64, 'duration': 2.64}
+{'text': 'related to trans people or trans', 'start': 3090.079, 'duration': 2.401}
+{'text': "experience i'm a little insulted that", 'start': 3091.28, 'duration': 2.64}
+{'text': 'you said that i would be a bad advocate', 'start': 3092.48, 'duration': 3.04}
+{'text': 'for it but i understand why because i', 'start': 3093.92, 'duration': 2.88}
+{'text': 'guess to you like', 'start': 3095.52, 'duration': 2.64}
+{'text': 'like advocating for trans people means', 'start': 3096.8, 'duration': 2.799}
+{'text': 'talking about like cool neo pronouns and', 'start': 3098.16, 'duration': 2.88}
+{'text': "like dear people that's like the cool", 'start': 3099.599, 'duration': 3.041}
+{'text': 'thing about trans people but', 'start': 3101.04, 'duration': 4.0}
+{'text': 'yeah i never said anything ab like', 'start': 3102.64, 'duration': 3.679}
+{'text': 'neopronoun you mentioned it it was one', 'start': 3105.04, 'duration': 2.64}
+{'text': 'of your things i mentioned i mentioned', 'start': 3106.319, 'duration': 2.961}
+{'text': "neopronouns yeah but i don't think", 'start': 3107.68, 'duration': 3.12}
+{'text': "that's like neopreneus have nothing to", 'start': 3109.28, 'duration': 3.52}
+{'text': "do with being trans it's not at all", 'start': 3110.8, 'duration': 3.44}
+{'text': 'related', 'start': 3112.8, 'duration': 3.2}
+{'text': 'it has something to do with the social', 'start': 3114.24, 'duration': 3.599}
+{'text': 'construction of being trans no it has to', 'start': 3116.0, 'duration': 2.96}
+{'text': 'do with the social construction of', 'start': 3117.839, 'duration': 2.801}
+{'text': 'getting likes on twitter and being an', 'start': 3118.96, 'duration': 3.52}
+{'text': "attention [\xa0__\xa0] that's what neo pronouns", 'start': 3120.64, 'duration': 3.84}
+{'text': 'are about it has nobody in the history', 'start': 3122.48, 'duration': 4.48}
+{'text': 'of all of mankind was born with a set of', 'start': 3124.48, 'duration': 3.76}
+{'text': 'pronouns in their brain that they need', 'start': 3126.96, 'duration': 3.599}
+{'text': "to be called it's a fake thing that some", 'start': 3128.24, 'duration': 4.0}
+{'text': "people online made up because they're", 'start': 3130.559, 'duration': 3.121}
+{'text': "not getting enough attention that's all", 'start': 3132.24, 'duration': 3.04}
+{'text': "it is like that's like saying the", 'start': 3133.68, 'duration': 2.96}
+{'text': 'english language is a fake thing that', 'start': 3135.28, 'duration': 2.799}
+{'text': 'people made up because they wanted', 'start': 3136.64, 'duration': 3.679}
+{'text': 'attention like do you think that we made', 'start': 3138.079, 'duration': 4.161}
+{'text': 'up communication because people want', 'start': 3140.319, 'duration': 3.121}
+{'text': "attention or do you think it's like a", 'start': 3142.24, 'duration': 3.52}
+{'text': 'necessary precondition for cooperation', 'start': 3143.44, 'duration': 3.679}
+{'text': 'and survival', 'start': 3145.76, 'duration': 3.04}
+{'text': "yeah well i think that i think that's", 'start': 3147.119, 'duration': 3.841}
+{'text': 'for some people neopronouns is necessary', 'start': 3148.8, 'duration': 3.519}
+{'text': 'for the way that they communicate and', 'start': 3150.96, 'duration': 4.48}
+{'text': 'express themselves why how', 'start': 3152.319, 'duration': 5.841}
+{'text': "i don't know ask them i do and all every", 'start': 3155.44, 'duration': 4.639}
+{'text': 'answer is is something that i would', 'start': 3158.16, 'duration': 5.12}
+{'text': 'expect a subhuman to say', 'start': 3160.079, 'duration': 5.121}
+{'text': 'all right well', 'start': 3163.28, 'duration': 4.4}
+{'text': 'is saying you expect a subhuman person', 'start': 3165.2, 'duration': 4.879}
+{'text': 'to have neo pronouns sounds a little', 'start': 3167.68, 'duration': 6.32}
+{'text': 'transphobic to me but whatever', 'start': 3170.079, 'duration': 3.921}
+{'text': "okay wow all right we're not gonna get", 'start': 3174.4, 'duration': 3.6}
+{'text': 'anywhere', 'start': 3176.48, 'duration': 5.599}
+{'text': 'thanks a lot buddy have fun yeah', 'start': 3178.0, 'duration': 4.079}
+{'text': "i don't even spoke with anything you", 'start': 3182.16, 'duration': 2.08}
+{'text': "would explain to me because i don't", 'start': 3183.28, 'duration': 2.559}
+{'text': 'understand how you can be trans without', 'start': 3184.24, 'duration': 3.2}
+{'text': 'gender dysphoria', 'start': 3185.839, 'duration': 3.601}
+{'text': 'um', 'start': 3187.44, 'duration': 3.679}
+{'text': "again i'm gonna try to explain this but", 'start': 3189.44, 'duration': 3.44}
+{'text': 'like all of none of this is settled', 'start': 3191.119, 'duration': 3.041}
+{'text': 'science right everything having to do', 'start': 3192.88, 'duration': 3.36}
+{'text': 'with science related to the brain is not', 'start': 3194.16, 'duration': 4.64}
+{'text': 'like 100 conclusive right um obviously', 'start': 3196.24, 'duration': 4.64}
+{'text': "it's still like a very very new field", 'start': 3198.8, 'duration': 4.16}
+{'text': "so the idea so let's probably understand", 'start': 3200.88, 'duration': 3.76}
+{'text': 'two concepts you have a gender identity', 'start': 3202.96, 'duration': 2.8}
+{'text': 'and you have a gender expression right', 'start': 3204.64, 'duration': 3.6}
+{'text': 'so gender identity might be internally', 'start': 3205.76, 'duration': 4.4}
+{'text': 'like the gender that you feel you are', 'start': 3208.24, 'duration': 3.599}
+{'text': 'and then gender expression is going to', 'start': 3210.16, 'duration': 3.04}
+{'text': 'be like how you express your gender in', 'start': 3211.839, 'duration': 3.28}
+{'text': 'society right gender expression is going', 'start': 3213.2, 'duration': 3.44}
+{'text': 'to be heavily predicated on like', 'start': 3215.119, 'duration': 3.281}
+{'text': 'socially constructed ideas gender', 'start': 3216.64, 'duration': 4.719}
+{'text': 'identity seems to be a bit more built in', 'start': 3218.4, 'duration': 4.8}
+{'text': 'that there are different behaviors that', 'start': 3221.359, 'duration': 3.681}
+{'text': 'men and women have or boys and girls', 'start': 3223.2, 'duration': 3.84}
+{'text': 'have even at very young ages', 'start': 3225.04, 'duration': 3.68}
+{'text': 'so', 'start': 3227.04, 'duration': 3.76}
+{'text': 'if we have a', 'start': 3228.72, 'duration': 5.52}
+{'text': "gender identity that doesn't match our", 'start': 3230.8, 'duration': 6.64}
+{'text': 'sex like our sex organs um we would call', 'start': 3234.24, 'duration': 6.64}
+{'text': 'that person transgender right so if', 'start': 3237.44, 'duration': 5.04}
+{'text': 'internally it feels like i have like the', 'start': 3240.88, 'duration': 4.16}
+{'text': 'gender identity of being male but i have', 'start': 3242.48, 'duration': 4.0}
+{'text': 'like a vagina and like the whole set of', 'start': 3245.04, 'duration': 2.72}
+{'text': 'like female reproductive organs and', 'start': 3246.48, 'duration': 3.119}
+{'text': "everything um or more specifically i've", 'start': 3247.76, 'duration': 3.68}
+{'text': 'got like mismatching chromosomes to my', 'start': 3249.599, 'duration': 3.52}
+{'text': 'my gender identity then that would be', 'start': 3251.44, 'duration': 4.56}
+{'text': 'like a trans person right now if you are', 'start': 3253.119, 'duration': 5.361}
+{'text': 'a trans person just because you have', 'start': 3256.0, 'duration': 4.72}
+{'text': "that mismatch it doesn't necessarily", 'start': 3258.48, 'duration': 4.32}
+{'text': "mean you're gonna have like huge", 'start': 3260.72, 'duration': 5.68}
+{'text': 'dysphoria right so i say this cautiously', 'start': 3262.8, 'duration': 5.279}
+{'text': "because i can't truly know because i'm", 'start': 3266.4, 'duration': 3.52}
+{'text': "cisgender but like personally i don't", 'start': 3268.079, 'duration': 3.76}
+{'text': 'really feel a strong connection to my', 'start': 3269.92, 'duration': 3.439}
+{'text': "gender i don't just i just don't care", 'start': 3271.839, 'duration': 4.161}
+{'text': 'that much so it might be the case i', 'start': 3273.359, 'duration': 4.48}
+{'text': 'heavily say that it might be the case', 'start': 3276.0, 'duration': 5.28}
+{'text': 'that if i was a trans woman if i was', 'start': 3277.839, 'duration': 5.76}
+{'text': 'born internally with the like', 'start': 3281.28, 'duration': 5.2}
+{'text': 'gender identity of a female but my sex', 'start': 3283.599, 'duration': 4.24}
+{'text': 'organs and everything was like male', 'start': 3286.48, 'duration': 3.04}
+{'text': "maybe i would be trans but i wouldn't be", 'start': 3287.839, 'duration': 2.801}
+{'text': 'like super genders for it because i', 'start': 3289.52, 'duration': 2.079}
+{'text': "don't really care that much it's not", 'start': 3290.64, 'duration': 2.159}
+{'text': "like a huge part of my day it's not a", 'start': 3291.599, 'duration': 2.801}
+{'text': 'big deal right so you can have trans', 'start': 3292.799, 'duration': 3.441}
+{'text': "people that don't experience this huge", 'start': 3294.4, 'duration': 3.679}
+{'text': 'dysphoria this huge mismatch might be', 'start': 3296.24, 'duration': 3.52}
+{'text': 'possible right um', 'start': 3298.079, 'duration': 3.04}
+{'text': "that's that's what it means to be like", 'start': 3299.76, 'duration': 3.52}
+{'text': 'trans without having like dysphoria and', 'start': 3301.119, 'duration': 4.24}
+{'text': 'dysphoria seems to be like things a', 'start': 3303.28, 'duration': 3.68}
+{'text': 'thing that can be felt at incredibly', 'start': 3305.359, 'duration': 3.601}
+{'text': 'varying degrees between trans people', 'start': 3306.96, 'duration': 4.48}
+{'text': 'some people have like very very minor', 'start': 3308.96, 'duration': 3.839}
+{'text': 'dysphoria and that is like oh man like i', 'start': 3311.44, 'duration': 2.879}
+{'text': 'wish my body matched more what was in my', 'start': 3312.799, 'duration': 2.881}
+{'text': 'mind other people have pretty bad', 'start': 3314.319, 'duration': 3.361}
+{'text': 'dysphoria like man this like makes me', 'start': 3315.68, 'duration': 3.84}
+{'text': 'feel pretty shitty and then other people', 'start': 3317.68, 'duration': 3.84}
+{'text': 'have agonizing dysphoria where like', 'start': 3319.52, 'duration': 4.0}
+{'text': 'looking at themselves is disgusting in', 'start': 3321.52, 'duration': 4.4}
+{'text': 'the mirror and they like eventually like', 'start': 3323.52, 'duration': 4.0}
+{'text': 'maybe even become suicidal because like', 'start': 3325.92, 'duration': 3.04}
+{'text': 'they hate their body so much that they', 'start': 3327.52, 'duration': 3.279}
+{'text': "can't exist um", 'start': 3328.96, 'duration': 6.04}
+{'text': 'with that mismatch so yeah', 'start': 3330.799, 'duration': 4.201}
+{'text': "i don't know anything about body dis", 'start': 3335.119, 'duration': 3.361}
+{'text': "dysmorphia i don't know what that means", 'start': 3336.64, 'duration': 3.12}
+{'text': 'uh hold on when i say that that sounds', 'start': 3338.48, 'duration': 2.72}
+{'text': 'dismissive i think body dysmorphie is a', 'start': 3339.76, 'duration': 2.4}
+{'text': "thing i just don't know much about it i", 'start': 3341.2, 'duration': 2.56}
+{'text': "haven't read as much about it all right", 'start': 3342.16, 'duration': 3.52}
+{'text': "what's up", 'start': 3343.76, 'duration': 3.12}
+{'text': "don't you love how people who want to", 'start': 3345.68, 'duration': 2.56}
+{'text': 'like crusade the hardest about this [\xa0__\xa0]', 'start': 3346.88, 'duration': 2.56}
+{'text': 'are the people that are the least', 'start': 3348.24, 'duration': 2.319}
+{'text': "[\xa0__\xa0] idea what the [\xa0__\xa0] they're", 'start': 3349.44, 'duration': 2.56}
+{'text': 'talking about yeah but hey it is what it', 'start': 3350.559, 'duration': 2.721}
+{'text': "is that's what all of all my discourse", 'start': 3352.0, 'duration': 2.079}
+{'text': 'is', 'start': 3353.28, 'duration': 2.079}
+{'text': "i didn't watch your discussions on this", 'start': 3354.079, 'duration': 2.161}
+{'text': 'stuff i just want to make sure that i', 'start': 3355.359, 'duration': 2.081}
+{'text': 'understand your position because people', 'start': 3356.24, 'duration': 2.24}
+{'text': 'are asking me if i agree with you and', 'start': 3357.44, 'duration': 2.639}
+{'text': 'stuff oh sure thing', 'start': 3358.48, 'duration': 3.119}
+{'text': 'yeah okay so my understanding of your', 'start': 3360.079, 'duration': 2.561}
+{'text': 'position', 'start': 3361.599, 'duration': 2.641}
+{'text': 'is that', 'start': 3362.64, 'duration': 4.0}
+{'text': "uh basically there's some advantage that", 'start': 3364.24, 'duration': 4.64}
+{'text': 'having ever been sort of like born male', 'start': 3366.64, 'duration': 3.919}
+{'text': 'or whatever having ever had male', 'start': 3368.88, 'duration': 3.199}
+{'text': 'physiology', 'start': 3370.559, 'duration': 2.8}
+{'text': 'that presents you and competing in', 'start': 3372.079, 'duration': 3.441}
+{'text': 'certain sports is like equivalent to the', 'start': 3373.359, 'duration': 3.281}
+{'text': 'advantage presented by doing like', 'start': 3375.52, 'duration': 3.2}
+{'text': 'performance-enhancing drugs or something', 'start': 3376.64, 'duration': 3.52}
+{'text': "wow it's greater than doing performance", 'start': 3378.72, 'duration': 2.879}
+{'text': "sensing and drugs but it's just it's", 'start': 3380.16, 'duration': 3.439}
+{'text': 'more that there is a specific advantage', 'start': 3381.599, 'duration': 4.321}
+{'text': 'that you get that those leagues are', 'start': 3383.599, 'duration': 4.401}
+{'text': "controlling for like it's supposed to be", 'start': 3385.92, 'duration': 3.919}
+{'text': 'female leagues and male leagues so if', 'start': 3388.0, 'duration': 3.599}
+{'text': "you're able to gain an advantage by", 'start': 3389.839, 'duration': 5.201}
+{'text': 'breaking that construct then that seems', 'start': 3391.599, 'duration': 4.72}
+{'text': 'to be a pretty bad thing and it seems', 'start': 3395.04, 'duration': 3.84}
+{'text': 'like those advantages still exist huh', 'start': 3396.319, 'duration': 4.24}
+{'text': 'yeah i understand can you walk me', 'start': 3398.88, 'duration': 3.12}
+{'text': 'through like some of the spread or some', 'start': 3400.559, 'duration': 2.56}
+{'text': 'of the numbers', 'start': 3402.0, 'duration': 3.2}
+{'text': "i don't know the numbers offhand i think", 'start': 3403.119, 'duration': 3.841}
+{'text': 'for lean body mass retention all of the', 'start': 3405.2, 'duration': 3.76}
+{'text': 'numbers vary quite a bit but the biggest', 'start': 3406.96, 'duration': 3.839}
+{'text': 'study was a review no the biggest study', 'start': 3408.96, 'duration': 3.119}
+{'text': 'was an individual longitudinal study', 'start': 3410.799, 'duration': 4.241}
+{'text': 'that i think had over 120 athletes um', 'start': 3412.079, 'duration': 4.881}
+{'text': "but um i don't remember the percent", 'start': 3415.04, 'duration': 3.519}
+{'text': 'maybe it was like 13 percent lean body', 'start': 3416.96, 'duration': 3.52}
+{'text': 'mass uh advantage of trans women', 'start': 3418.559, 'duration': 3.121}
+{'text': "overseas but i don't know if those", 'start': 3420.48, 'duration': 2.879}
+{'text': 'numbers matter to you like i said 40 or', 'start': 3421.68, 'duration': 3.439}
+{'text': "15 like i don't know that", 'start': 3423.359, 'duration': 2.48}
+{'text': 'but', 'start': 3425.119, 'duration': 2.881}
+{'text': 'yeah well i mean i i feel like the', 'start': 3425.839, 'duration': 4.24}
+{'text': 'spread is a factor that we would want to', 'start': 3428.0, 'duration': 4.319}
+{'text': 'consider but i just really well if if', 'start': 3430.079, 'duration': 4.081}
+{'text': "it's a statistically significant amount", 'start': 3432.319, 'duration': 3.441}
+{'text': "and then if it's like if the effect is", 'start': 3434.16, 'duration': 2.399}
+{'text': 'like', 'start': 3435.76, 'duration': 1.76}
+{'text': 'there', 'start': 3436.559, 'duration': 3.04}
+{'text': 'then i mean like why i mean we just kind', 'start': 3437.52, 'duration': 4.319}
+{'text': 'of decide what is statistically', 'start': 3439.599, 'duration': 4.0}
+{'text': 'significant right and oh i should carry', 'start': 3441.839, 'duration': 3.28}
+{'text': 'out that this is this is after like a', 'start': 3443.599, 'duration': 2.881}
+{'text': 'couple years of hormone therapy right', 'start': 3445.119, 'duration': 2.881}
+{'text': "this is after three years there's still", 'start': 3446.48, 'duration': 3.839}
+{'text': 'like quite a noticeable difference yeah', 'start': 3448.0, 'duration': 3.599}
+{'text': 'that most of like the muscle mass and', 'start': 3450.319, 'duration': 2.961}
+{'text': 'everything is retained', 'start': 3451.599, 'duration': 3.921}
+{'text': 'i understand i understand so this is', 'start': 3453.28, 'duration': 3.76}
+{'text': 'like one of the very first conversations', 'start': 3455.52, 'duration': 3.839}
+{'text': 'i had on twitch it was with vivian and', 'start': 3457.04, 'duration': 4.559}
+{'text': 'it was um we were talking about like uh', 'start': 3459.359, 'duration': 3.521}
+{'text': 'i was bringing like my military', 'start': 3461.599, 'duration': 2.96}
+{'text': 'experience into it because the the', 'start': 3462.88, 'duration': 2.88}
+{'text': 'standards the physical fitness centers', 'start': 3464.559, 'duration': 2.401}
+{'text': 'between men and women', 'start': 3465.76, 'duration': 2.96}
+{'text': "yeah they're well for certain categories", 'start': 3466.96, 'duration': 3.119}
+{'text': "are very different for the runtime it's", 'start': 3468.72, 'duration': 3.52}
+{'text': 'like a 15 to 20 spread and the', 'start': 3470.079, 'duration': 3.841}
+{'text': 'difference but for like the upper body', 'start': 3472.24, 'duration': 2.879}
+{'text': "stuff it's like two to three hundred", 'start': 3473.92, 'duration': 2.8}
+{'text': 'percent yeah but and then like for', 'start': 3475.119, 'duration': 3.041}
+{'text': "sit-ups it's like something like it's", 'start': 3476.72, 'duration': 2.879}
+{'text': "like around the same it's like within", 'start': 3478.16, 'duration': 3.6}
+{'text': "pretty small deviation hold on i'm sorry", 'start': 3479.599, 'duration': 3.921}
+{'text': "okay i'll tell i'll take the transphobic", 'start': 3481.76, 'duration': 3.839}
+{'text': 'okay i have yet to find any attention', 'start': 3483.52, 'duration': 3.44}
+{'text': 'other than being assaulted in bathrooms', 'start': 3485.599, 'duration': 2.96}
+{'text': 'haha but thanks destiny you have never', 'start': 3486.96, 'duration': 3.119}
+{'text': 'been assaulted in your life for being', 'start': 3488.559, 'duration': 3.52}
+{'text': "non-binary i'm sorry i don't believe you", 'start': 3490.079, 'duration': 4.321}
+{'text': 'get the [\xa0__\xa0] [\xa0__\xa0] out of here okay sorry', 'start': 3492.079, 'duration': 4.0}
+{'text': 'go ahead', 'start': 3494.4, 'duration': 4.159}
+{'text': 'oh you want to talk to me now yeah i was', 'start': 3496.079, 'duration': 3.601}
+{'text': '[\xa0__\xa0] triggering the [\xa0__\xa0] out of me', 'start': 3498.559, 'duration': 2.8}
+{'text': 'and chat go ahead', 'start': 3499.68, 'duration': 4.72}
+{'text': 'okay um i stopped talking about like i', 'start': 3501.359, 'duration': 4.801}
+{'text': 'stopped talking about uh trans-related', 'start': 3504.4, 'duration': 2.88}
+{'text': "things because it seems that there's an", 'start': 3506.16, 'duration': 2.639}
+{'text': 'impasse between you kind of got into it', 'start': 3507.28, 'duration': 2.96}
+{'text': "with that guy the last guy what's is his", 'start': 3508.799, 'duration': 2.721}
+{'text': 'name beard', 'start': 3510.24, 'duration': 2.879}
+{'text': 'beard i think his name was mr subhuman', 'start': 3511.52, 'duration': 5.4}
+{'text': '[\xa0__\xa0] uh', 'start': 3513.119, 'duration': 3.801}
+{'text': 'okay', 'start': 3518.48, 'duration': 2.639}
+{'text': 'um there seems to be an impasse between', 'start': 3519.359, 'duration': 4.161}
+{'text': 'like between like uh a wariness about', 'start': 3521.119, 'duration': 4.081}
+{'text': 'transmedicalism or like the idea that', 'start': 3523.52, 'duration': 3.52}
+{'text': 'there might be some biological way to', 'start': 3525.2, 'duration': 3.52}
+{'text': "verify if somebody's people are so", 'start': 3527.04, 'duration': 2.96}
+{'text': '[\xa0__\xa0] scared that they might', 'start': 3528.72, 'duration': 3.04}
+{'text': 'accidentally agree with like one thing a', 'start': 3530.0, 'duration': 3.52}
+{'text': 'turf has said that they necessarily need', 'start': 3531.76, 'duration': 3.92}
+{'text': 'to take the most extreme opposite point', 'start': 3533.52, 'duration': 4.72}
+{'text': "possible yeah and that's true", 'start': 3535.68, 'duration': 4.32}
+{'text': 'man is like a thing yeah right but there', 'start': 3538.24, 'duration': 3.119}
+{'text': 'might actually be some legitimate like', 'start': 3540.0, 'duration': 3.359}
+{'text': 'biological component to', 'start': 3541.359, 'duration': 5.041}
+{'text': "like you bring up the the uh i i've read", 'start': 3543.359, 'duration': 4.641}
+{'text': "that study as well or i can't remember", 'start': 3546.4, 'duration': 2.88}
+{'text': "if i've read the entire study i probably", 'start': 3548.0, 'duration': 3.04}
+{'text': "didn't understand it i read the abstract", 'start': 3549.28, 'duration': 3.6}
+{'text': 'but even that seemed like really serious', 'start': 3551.04, 'duration': 3.36}
+{'text': "the there's some portion of the brain", 'start': 3552.88, 'duration': 3.36}
+{'text': 'that varies in size yeah all of it is', 'start': 3554.4, 'duration': 4.32}
+{'text': "very yeah spurious yeah so that's", 'start': 3556.24, 'duration': 3.599}
+{'text': 'basically why i dropped out of these', 'start': 3558.72, 'duration': 2.72}
+{'text': 'discussions because it seems like the', 'start': 3559.839, 'duration': 3.681}
+{'text': 'people who like at the forefront of', 'start': 3561.44, 'duration': 3.52}
+{'text': 'science that know the most about this', 'start': 3563.52, 'duration': 3.12}
+{'text': 'know very little at all for sure how to', 'start': 3564.96, 'duration': 3.28}
+{'text': 'be able to explain', 'start': 3566.64, 'duration': 4.24}
+{'text': 'one one question that i had was like', 'start': 3568.24, 'duration': 3.92}
+{'text': "what's the possibility that there could", 'start': 3570.88, 'duration': 2.88}
+{'text': 'be like a couple different phenomena', 'start': 3572.16, 'duration': 3.28}
+{'text': 'going around like a gender dysphoria and', 'start': 3573.76, 'duration': 4.16}
+{'text': 'a sex dysphoria that there seems like', 'start': 3575.44, 'duration': 4.0}
+{'text': "there's a pretty useful distinction", 'start': 3577.92, 'duration': 3.84}
+{'text': 'between sex and gender uh that you know', 'start': 3579.44, 'duration': 3.679}
+{'text': "didn't seem very present in the debate", 'start': 3581.76, 'duration': 2.799}
+{'text': 'that you just had that i think kind of', 'start': 3583.119, 'duration': 4.72}
+{'text': 'might serve these different phenomena', 'start': 3584.559, 'duration': 3.28}
+{'text': 'sure', 'start': 3587.92, 'duration': 2.56}
+{'text': 'like gender being the the social stuff', 'start': 3588.72, 'duration': 3.44}
+{'text': 'like women wear skirts and you know', 'start': 3590.48, 'duration': 3.04}
+{'text': 'whatever men wear pants that sort of', 'start': 3592.16, 'duration': 2.72}
+{'text': 'thing and then there could be like we', 'start': 3593.52, 'duration': 3.68}
+{'text': 'could imagine and i think even natalie', 'start': 3594.88, 'duration': 4.88}
+{'text': 'said as much we can imagine a world', 'start': 3597.2, 'duration': 5.2}
+{'text': 'where the social norms are so radically', 'start': 3599.76, 'duration': 5.28}
+{'text': 'different that maybe some trans people', 'start': 3602.4, 'duration': 4.56}
+{'text': "aren't trans right", 'start': 3605.04, 'duration': 3.84}
+{'text': 'but some could be but there might be two', 'start': 3606.96, 'duration': 3.68}
+{'text': 'different phenomena like there could be', 'start': 3608.88, 'duration': 2.959}
+{'text': 'sex dysphoria and there could be gender', 'start': 3610.64, 'duration': 2.88}
+{'text': 'dysphoria yeah', 'start': 3611.839, 'duration': 4.0}
+{'text': 'like i i knew a guy growing up i like', 'start': 3613.52, 'duration': 5.279}
+{'text': 'worked at a like shitty diner and um we', 'start': 3615.839, 'duration': 4.48}
+{'text': "used to get this guy that i'm sorry we", 'start': 3618.799, 'duration': 3.04}
+{'text': 'used to get a person who came in who was', 'start': 3620.319, 'duration': 2.721}
+{'text': 'like you know conventionally known as a', 'start': 3621.839, 'duration': 2.96}
+{'text': 'crossdresser this is in like the early', 'start': 3623.04, 'duration': 3.84}
+{'text': '2000s or late 90s or something and and', 'start': 3624.799, 'duration': 3.921}
+{'text': 'they were like quite dudley they would', 'start': 3626.88, 'duration': 2.719}
+{'text': 'come in and they would want to talk', 'start': 3628.72, 'duration': 2.639}
+{'text': "about football and they didn't like do", 'start': 3629.599, 'duration': 3.281}
+{'text': 'any voice training or take hormones or', 'start': 3631.359, 'duration': 3.281}
+{'text': 'anything but they were cross-dressed', 'start': 3632.88, 'duration': 4.0}
+{'text': "and um like i don't know", 'start': 3634.64, 'duration': 3.679}
+{'text': "like we didn't have the language back", 'start': 3636.88, 'duration': 3.199}
+{'text': 'then and it seems like this person was', 'start': 3638.319, 'duration': 4.081}
+{'text': 'not interested in like being female so', 'start': 3640.079, 'duration': 3.921}
+{'text': 'much as they were just interested in', 'start': 3642.4, 'duration': 3.36}
+{'text': 'identifying with the social stuff and', 'start': 3644.0, 'duration': 3.359}
+{'text': 'like wearing certain clothes', 'start': 3645.76, 'duration': 3.92}
+{'text': 'and that leads me to like but now people', 'start': 3647.359, 'duration': 4.161}
+{'text': "are trying to erase all of that it's", 'start': 3649.68, 'duration': 3.679}
+{'text': 'like everything is like so strange now', 'start': 3651.52, 'duration': 3.92}
+{'text': "like i remember growing up and i'm not", 'start': 3653.359, 'duration': 3.521}
+{'text': "in these communities i can't speak to", 'start': 3655.44, 'duration': 2.879}
+{'text': 'them but i do know that growing up there', 'start': 3656.88, 'duration': 2.8}
+{'text': 'were a lot of like communities that did', 'start': 3658.319, 'duration': 2.881}
+{'text': 'like drag like that was like a really', 'start': 3659.68, 'duration': 3.84}
+{'text': 'common thing but now it feels like', 'start': 3661.2, 'duration': 4.72}
+{'text': 'people want to erase the concept of drag', 'start': 3663.52, 'duration': 3.839}
+{'text': "queens and say that those people aren't", 'start': 3665.92, 'duration': 3.6}
+{'text': "really drag queens they're actually like", 'start': 3667.359, 'duration': 4.24}
+{'text': "trans people in denial or they're really", 'start': 3669.52, 'duration': 3.44}
+{'text': "trans but they don't realize it yet or", 'start': 3671.599, 'duration': 2.641}
+{'text': "it's like a different form of like", 'start': 3672.96, 'duration': 3.44}
+{'text': "sexual or gender identity it's not just", 'start': 3674.24, 'duration': 3.599}
+{'text': 'men that like really enjoy you know like', 'start': 3676.4, 'duration': 3.52}
+{'text': "wearing like women's stuff to do drag", 'start': 3677.839, 'duration': 3.601}
+{'text': "but but i don't know it feels i don't", 'start': 3679.92, 'duration': 2.56}
+{'text': 'know where those conversations have', 'start': 3681.44, 'duration': 2.399}
+{'text': 'moved to now', 'start': 3682.48, 'duration': 2.72}
+{'text': 'okay i want to play a little bit of', 'start': 3683.839, 'duration': 3.121}
+{'text': "devil's advocate for your position on on", 'start': 3685.2, 'duration': 3.119}
+{'text': "that they just shouldn't be uh that", 'start': 3686.96, 'duration': 2.72}
+{'text': "trans women just shouldn't be allowed to", 'start': 3688.319, 'duration': 3.361}
+{'text': 'practice you know in in certain', 'start': 3689.68, 'duration': 3.6}
+{'text': "yeah sure i'm just i'm giving you like a", 'start': 3691.68, 'duration': 3.439}
+{'text': "fair warning because it's late if you", 'start': 3693.28, 'duration': 3.039}
+{'text': 'start getting to like some women are', 'start': 3695.119, 'duration': 2.96}
+{'text': "taller i just i don't care about those", 'start': 3696.319, 'duration': 2.721}
+{'text': "arguments i don't even think they're", 'start': 3698.079, 'duration': 3.76}
+{'text': 'made in good faith so but okay go for it', 'start': 3699.04, 'duration': 4.24}
+{'text': 'well i think there are like a couple', 'start': 3701.839, 'duration': 4.161}
+{'text': 'philosophical things that may sort of', 'start': 3703.28, 'duration': 5.36}
+{'text': 'that may defuse the the sort of like', 'start': 3706.0, 'duration': 4.4}
+{'text': "performance and disparity if it's like", 'start': 3708.64, 'duration': 3.28}
+{'text': 'narrow it enough if the if the', 'start': 3710.4, 'duration': 2.959}
+{'text': 'performance disparity is like narrow', 'start': 3711.92, 'duration': 2.8}
+{'text': "enough that we sort of deem that it's", 'start': 3713.359, 'duration': 3.361}
+{'text': "not that even if there isn't a disparity", 'start': 3714.72, 'duration': 4.399}
+{'text': 'i disagree even if the whole subset of', 'start': 3716.72, 'duration': 4.079}
+{'text': 'trans women were just elevated female', 'start': 3719.119, 'duration': 3.121}
+{'text': 'performers but it was still within the', 'start': 3720.799, 'duration': 2.961}
+{'text': 'range of like female performance even', 'start': 3722.24, 'duration': 3.92}
+{'text': "that i don't think would be fair", 'start': 3723.76, 'duration': 5.359}
+{'text': 'okay okay so', 'start': 3726.16, 'duration': 4.72}
+{'text': 'even like from a numbers representation', 'start': 3729.119, 'duration': 2.96}
+{'text': 'even if there were literally two in the', 'start': 3730.88, 'duration': 3.04}
+{'text': 'entire world or something people thought', 'start': 3732.079, 'duration': 3.52}
+{'text': "oh no i don't think so because how could", 'start': 3733.92, 'duration': 4.48}
+{'text': 'you make an exception for just them', 'start': 3735.599, 'duration': 4.48}
+{'text': 'um well i mean it would be like a', 'start': 3738.4, 'duration': 2.88}
+{'text': "functional thing that we're doing", 'start': 3740.079, 'duration': 2.801}
+{'text': 'because these people want to compete and', 'start': 3741.28, 'duration': 3.519}
+{'text': 'they have like the drive to compete yeah', 'start': 3742.88, 'duration': 3.28}
+{'text': 'but you do you do that at the detriment', 'start': 3744.799, 'duration': 3.28}
+{'text': 'of everybody else', 'start': 3746.16, 'duration': 3.84}
+{'text': "well it's not necessarily everybody else", 'start': 3748.079, 'duration': 4.081}
+{'text': 'it would it would be', 'start': 3750.0, 'duration': 3.92}
+{'text': "here's a practical example like yao ming", 'start': 3752.16, 'duration': 3.679}
+{'text': "is seven six and there's like", 'start': 3753.92, 'duration': 4.159}
+{'text': 'like maybe a dozen or two people that', 'start': 3755.839, 'duration': 4.881}
+{'text': 'are that height in the world and this', 'start': 3758.079, 'duration': 4.96}
+{'text': 'naturally presents yao ming like a', 'start': 3760.72, 'duration': 3.92}
+{'text': "natural advantage that most people don't", 'start': 3763.039, 'duration': 4.401}
+{'text': "have and it's statistically very rare um", 'start': 3764.64, 'duration': 4.719}
+{'text': 'do you think that we would', 'start': 3767.44, 'duration': 3.52}
+{'text': 'that there would be like a discussion on', 'start': 3769.359, 'duration': 3.601}
+{'text': 'the table for um like a second league', 'start': 3770.96, 'duration': 3.92}
+{'text': 'for people who are seven six if it is if', 'start': 3772.96, 'duration': 3.76}
+{'text': 'it was the case that the leagues were', 'start': 3774.88, 'duration': 4.56}
+{'text': 'separated by height then yes but we', 'start': 3776.72, 'duration': 4.72}
+{'text': "don't have height driven basketball", 'start': 3779.44, 'duration': 4.48}
+{'text': "leagues so no but that's because we have", 'start': 3781.44, 'duration': 4.639}
+{'text': 'people that are like below six feet that', 'start': 3783.92, 'duration': 4.159}
+{'text': 'are that are good performers in the nba', 'start': 3786.079, 'duration': 4.321}
+{'text': "it doesn't matter we don't separate it", 'start': 3788.079, 'duration': 5.52}
+{'text': 'by height we separate them by sex if we', 'start': 3790.4, 'duration': 5.6}
+{'text': 'had separated these by height then i', 'start': 3793.599, 'duration': 4.321}
+{'text': "would agree with you but we don't when", 'start': 3796.0, 'duration': 4.079}
+{'text': "we start separating by height then i'll", 'start': 3797.92, 'duration': 3.6}
+{'text': 'say yeah we can have different divisions', 'start': 3800.079, 'duration': 2.881}
+{'text': 'for people of certain heights or expand', 'start': 3801.52, 'duration': 2.559}
+{'text': 'the divisions have more people different', 'start': 3802.96, 'duration': 2.879}
+{'text': "heights but we don't separate by height", 'start': 3804.079, 'duration': 3.841}
+{'text': 'right now we do separate by sex i', 'start': 3805.839, 'duration': 3.2}
+{'text': 'understand but a big part of that is', 'start': 3807.92, 'duration': 2.639}
+{'text': 'because the population of people who are', 'start': 3809.039, 'duration': 2.961}
+{'text': 'interested in playing basketball the', 'start': 3810.559, 'duration': 2.881}
+{'text': 'disparity and performance between people', 'start': 3812.0, 'duration': 2.96}
+{'text': 'who are like under six feet and over six', 'start': 3813.44, 'duration': 3.119}
+{'text': 'feet is is still lower than the', 'start': 3814.96, 'duration': 4.399}
+{'text': 'disparity of performance by sex', 'start': 3816.559, 'duration': 4.721}
+{'text': 'and like if suddenly we had millions of', 'start': 3819.359, 'duration': 4.0}
+{'text': 'yams running around like that might', 'start': 3821.28, 'duration': 4.24}
+{'text': 'start a conversation about like', 'start': 3823.359, 'duration': 4.48}
+{'text': "uh okay there's like a whole greater", 'start': 3825.52, 'duration': 3.68}
+{'text': 'part of the population that literally', 'start': 3827.839, 'duration': 2.801}
+{'text': "cannot compete at the sport because it's", 'start': 3829.2, 'duration': 3.28}
+{'text': 'dominated by i mean arguably short', 'start': 3830.64, 'duration': 3.28}
+{'text': 'people have that problem in a lot of', 'start': 3832.48, 'duration': 4.16}
+{'text': 'sports i', 'start': 3833.92, 'duration': 2.72}
+{'text': 'mean yeah yeah certainly i like again', 'start': 3836.839, 'duration': 5.161}
+{'text': 'the argument is that the the advantage', 'start': 3840.0, 'duration': 4.16}
+{'text': "that's presented by being over six feet", 'start': 3842.0, 'duration': 3.76}
+{'text': 'is less disparate', 'start': 3844.16, 'duration': 3.52}
+{'text': 'um than the advantage presented by being', 'start': 3845.76, 'duration': 3.92}
+{'text': "male and that's why we separate by sex", 'start': 3847.68, 'duration': 3.52}
+{'text': 'or something', 'start': 3849.68, 'duration': 3.2}
+{'text': "i'm just asking you to participate in", 'start': 3851.2, 'duration': 3.119}
+{'text': "the hypothetical i don't know what is", 'start': 3852.88, 'duration': 2.8}
+{'text': 'the hype that there was like a [\xa0__\xa0] ton', 'start': 3854.319, 'duration': 2.72}
+{'text': 'of all of a sudden like seven foot', 'start': 3855.68, 'duration': 3.119}
+{'text': 'people and they were the only ones that', 'start': 3857.039, 'duration': 3.76}
+{'text': 'could compete in um basketball then', 'start': 3858.799, 'duration': 3.28}
+{'text': 'maybe there would be a discussion there', 'start': 3860.799, 'duration': 2.721}
+{'text': 'to like have a seven footer taller', 'start': 3862.079, 'duration': 2.561}
+{'text': 'league sure', 'start': 3863.52, 'duration': 3.2}
+{'text': "so to that extent the reason that that's", 'start': 3864.64, 'duration': 3.52}
+{'text': 'not a part of the conversation despite', 'start': 3866.72, 'duration': 3.359}
+{'text': 'the fact that some people exist with', 'start': 3868.16, 'duration': 4.32}
+{'text': 'that with that advantage and are capable', 'start': 3870.079, 'duration': 4.881}
+{'text': 'of like competing in the nba is because', 'start': 3872.48, 'duration': 4.16}
+{'text': 'so few of them exist and are like', 'start': 3874.96, 'duration': 4.879}
+{'text': 'wanting to compete okay', 'start': 3876.64, 'duration': 4.0}
+{'text': 'so', 'start': 3879.839, 'duration': 1.921}
+{'text': 'when uh', 'start': 3880.64, 'duration': 3.04}
+{'text': "that idaho senator iowa senator i can't", 'start': 3881.76, 'duration': 3.359}
+{'text': 'remember is vetoing that bill on the', 'start': 3883.68, 'duration': 3.28}
+{'text': "premise that there's only like one trans", 'start': 3885.119, 'duration': 3.44}
+{'text': 'athlete or something yeah do you think', 'start': 3886.96, 'duration': 3.359}
+{'text': 'that argument like is pretty sound or', 'start': 3888.559, 'duration': 3.601}
+{'text': 'holds up or is this relevant or has', 'start': 3890.319, 'duration': 5.361}
+{'text': 'merit yes okay because i think that i', 'start': 3892.16, 'duration': 4.879}
+{'text': 'think that if you', 'start': 3895.68, 'duration': 2.96}
+{'text': "well hold on let me be clear i don't", 'start': 3897.039, 'duration': 2.961}
+{'text': 'know what that bill specifically said', 'start': 3898.64, 'duration': 2.479}
+{'text': 'okay that might have had a bunch of', 'start': 3900.0, 'duration': 2.88}
+{'text': 'crazy meaning [\xa0__\xa0] in it that like i', 'start': 3901.119, 'duration': 3.281}
+{'text': "don't know about right so", 'start': 3902.88, 'duration': 3.199}
+{'text': 'yeah so but', 'start': 3904.4, 'duration': 3.36}
+{'text': 'i think the big problem is that if you', 'start': 3906.079, 'duration': 3.52}
+{'text': 'make an exception here for trans people', 'start': 3907.76, 'duration': 5.44}
+{'text': 'to join i think once that has started it', 'start': 3909.599, 'duration': 5.76}
+{'text': "never goes back you can't undo that", 'start': 3913.2, 'duration': 4.32}
+{'text': 'decision so if it is the case that we', 'start': 3915.359, 'duration': 3.601}
+{'text': 'agree with this and we let trans people', 'start': 3917.52, 'duration': 3.839}
+{'text': 'compete with cis people and then society', 'start': 3918.96, 'duration': 4.079}
+{'text': 'continues to improve trans people get', 'start': 3921.359, 'duration': 2.96}
+{'text': "gender forming care more often they're", 'start': 3923.039, 'duration': 2.721}
+{'text': 'more comfortable coming out you know', 'start': 3924.319, 'duration': 3.201}
+{'text': "we've maybe seen greater representations", 'start': 3925.76, 'duration': 3.279}
+{'text': 'that if we start to see them competing', 'start': 3927.52, 'duration': 3.839}
+{'text': "more and more in women's sports and then", 'start': 3929.039, 'duration': 4.32}
+{'text': 'trans women start to set records or be', 'start': 3931.359, 'duration': 3.041}
+{'text': 'like at the top of some of these', 'start': 3933.359, 'duration': 2.801}
+{'text': "competitive leagues that it's never", 'start': 3934.4, 'duration': 3.6}
+{'text': "going away you've lost that fight you", 'start': 3936.16, 'duration': 3.76}
+{'text': 'now that now the conversation has moved', 'start': 3938.0, 'duration': 3.28}
+{'text': 'on to something different because i', 'start': 3939.92, 'duration': 3.199}
+{'text': "don't know if that's never going like if", 'start': 3941.28, 'duration': 3.279}
+{'text': 'we come to that bridge and we have to', 'start': 3943.119, 'duration': 2.801}
+{'text': "cross it it seems like we're not at the", 'start': 3944.559, 'duration': 3.601}
+{'text': "bridge yet though like that well we're", 'start': 3945.92, 'duration': 4.56}
+{'text': 'getting a couple star performers maybe', 'start': 3948.16, 'duration': 3.679}
+{'text': 'not yet', 'start': 3950.48, 'duration': 4.4}
+{'text': 'but like now we have one the leah thomas', 'start': 3951.839, 'duration': 4.641}
+{'text': 'versus like an ncaa champion now we have', 'start': 3954.88, 'duration': 3.439}
+{'text': 'one person right like what is it gonna', 'start': 3956.48, 'duration': 3.52}
+{'text': 'be five or ten because once you start to', 'start': 3958.319, 'duration': 3.121}
+{'text': "get to a certain number like you're not", 'start': 3960.0, 'duration': 2.64}
+{'text': 'gonna be able to roll it back because', 'start': 3961.44, 'duration': 2.56}
+{'text': "you're gonna be seen as like it's", 'start': 3962.64, 'duration': 2.399}
+{'text': 'already happened like if you even', 'start': 3964.0, 'duration': 2.64}
+{'text': "disagree with this you're transphobic", 'start': 3965.039, 'duration': 4.08}
+{'text': "right you're already done so yeah and", 'start': 3966.64, 'duration': 4.479}
+{'text': "for certain sports like for me i don't", 'start': 3969.119, 'duration': 3.44}
+{'text': 'have a super strong position on this but', 'start': 3971.119, 'duration': 3.281}
+{'text': 'for certain activities like it seems', 'start': 3972.559, 'duration': 2.8}
+{'text': 'like', 'start': 3974.4, 'duration': 4.56}
+{'text': "you know it's case closed captioning not", 'start': 3975.359, 'duration': 3.601}
+{'text': 'i available', 'start': 3991.28, 'duration': 0.0}
+{'text': 'um i guess just for the sake of having', 'start': 3993.2, 'duration': 4.0}
+{'text': 'this on paper because i feel like this', 'start': 3995.76, 'duration': 2.48}
+{'text': 'is an argument people are gonna be', 'start': 3997.2, 'duration': 2.8}
+{'text': 'making so i sort of have my own', 'start': 3998.24, 'duration': 4.16}
+{'text': 'arguments too you know to refute it uh', 'start': 4000.0, 'duration': 4.079}
+{'text': 'how do you think this is different', 'start': 4002.4, 'duration': 4.399}
+{'text': 'between like uh when they postulated', 'start': 4004.079, 'duration': 4.561}
+{'text': 'like a colored league for baseball', 'start': 4006.799, 'duration': 3.441}
+{'text': "because i don't think that there needs", 'start': 4008.64, 'duration': 3.28}
+{'text': 'to be a set because black people and', 'start': 4010.24, 'duration': 3.28}
+{'text': 'white people can be competitive against', 'start': 4011.92, 'duration': 3.76}
+{'text': "each other in sports yeah that's that's", 'start': 4013.52, 'duration': 3.519}
+{'text': 'the argument right yeah those', 'start': 4015.68, 'duration': 2.96}
+{'text': 'separations were made based on like just', 'start': 4017.039, 'duration': 3.121}
+{'text': 'bigotry', 'start': 4018.64, 'duration': 2.959}
+{'text': "like it's", 'start': 4020.16, 'duration': 4.56}
+{'text': "yeah i'm sure i understand", 'start': 4021.599, 'duration': 5.041}
+{'text': "okay that's pretty much it", 'start': 4024.72, 'duration': 5.28}
+{'text': 'okay oh uh i saw you mention that uh', 'start': 4026.64, 'duration': 5.12}
+{'text': 'like you think it is necessary for', 'start': 4030.0, 'duration': 3.599}
+{'text': 'people to transition to administer like', 'start': 4031.76, 'duration': 3.68}
+{'text': 'artificial hormones', 'start': 4033.599, 'duration': 2.96}
+{'text': 'what', 'start': 4035.44, 'duration': 2.32}
+{'text': "i think you were you're saying that for", 'start': 4036.559, 'duration': 3.28}
+{'text': 'somebody to physically transition that', 'start': 4037.76, 'duration': 4.559}
+{'text': 'like they need to take hormones', 'start': 4039.839, 'duration': 3.76}
+{'text': "oh i think yeah isn't that what", 'start': 4042.319, 'duration': 3.28}
+{'text': 'transitioning is can you just transition', 'start': 4043.599, 'duration': 3.281}
+{'text': 'with clothes', 'start': 4045.599, 'duration': 2.801}
+{'text': "well hang on if that's true then how", 'start': 4046.88, 'duration': 3.36}
+{'text': 'come your mom is so capable of milking', 'start': 4048.4, 'duration': 4.719}
+{'text': 'my prostate every night', 'start': 4050.24, 'duration': 2.879}
+{'text': 'what did that even mean', 'start': 4055.119, 'duration': 5.161}
+{'text': 'how is that a transition', 'start': 4056.72, 'duration': 3.56}
+{'text': "i don't understand", 'start': 4063.839, 'duration': 3.041}
+{'text': 'have some more all the money from me', 'start': 4067.92, 'duration': 2.32}
+{'text': 'joke', 'start': 4069.359, 'duration': 2.081}
+{'text': "hey you're still in here there's another", 'start': 4070.24, 'duration': 2.96}
+{'text': 'thing on the government system what do', 'start': 4071.44, 'duration': 3.679}
+{'text': 'you want to ask me okay', 'start': 4073.2, 'duration': 3.2}
+{'text': 'i gotta be honest', 'start': 4075.119, 'duration': 2.561}
+{'text': 'i do think', 'start': 4076.4, 'duration': 2.8}
+{'text': 'you should like i kind of have a problem', 'start': 4077.68, 'duration': 3.04}
+{'text': 'with you saying the online trans', 'start': 4079.2, 'duration': 3.2}
+{'text': 'community destiny follows your ideas the', 'start': 4080.72, 'duration': 2.96}
+{'text': 'people i see you dealing with are people', 'start': 4082.4, 'duration': 2.399}
+{'text': 'literally like if you want to be', 'start': 4083.68, 'duration': 2.72}
+{'text': 'involved with your own', 'start': 4084.799, 'duration': 3.76}
+{'text': 'community', 'start': 4086.4, 'duration': 3.679}
+{'text': 'i think they get a lot of engagement', 'start': 4088.559, 'duration': 3.52}
+{'text': 'enough that i can start to generalize it', 'start': 4090.079, 'duration': 3.52}
+{'text': "i i that's what it feels like to me", 'start': 4092.079, 'duration': 2.881}
+{'text': 'maybe not maybe i should say this', 'start': 4093.599, 'duration': 2.64}
+{'text': "particular but i don't know how else to", 'start': 4094.96, 'duration': 4.399}
+{'text': 'address them like okay uh let me like', 'start': 4096.239, 'duration': 4.56}
+{'text': 'that for instance that tweet yesterday', 'start': 4099.359, 'duration': 3.44}
+{'text': 'or the day before about like that trans', 'start': 4100.799, 'duration': 3.36}
+{'text': "person says that they're having a period", 'start': 4102.799, 'duration': 5.121}
+{'text': "that had like 80 000 likes didn't it", 'start': 4104.159, 'duration': 3.761}
+{'text': "um sure i can believe that i don't know", 'start': 4108.4, 'duration': 4.16}
+{'text': 'uh it just seems like the people that', 'start': 4110.96, 'duration': 3.52}
+{'text': "specifically are antagonizing you i'll", 'start': 4112.56, 'duration': 4.0}
+{'text': "give you an example okay i'm you know", 'start': 4114.48, 'duration': 3.199}
+{'text': 'used to do a lot of stuff in the', 'start': 4116.56, 'duration': 2.719}
+{'text': 'fighting game community so i have a lot', 'start': 4117.679, 'duration': 3.04}
+{'text': 'of threads there and like i know that', 'start': 4119.279, 'duration': 3.52}
+{'text': "there's uh a group of like trans women", 'start': 4120.719, 'duration': 3.52}
+{'text': "in that community i've never seen them", 'start': 4122.799, 'duration': 2.801}
+{'text': 'interact with you or your tweet or talk', 'start': 4124.239, 'duration': 3.04}
+{'text': 'about you or like i just feel like', 'start': 4125.6, 'duration': 4.32}
+{'text': "there's an entire world out there and", 'start': 4127.279, 'duration': 4.161}
+{'text': "and like you're looking at the things", 'start': 4129.92, 'duration': 2.64}
+{'text': 'that are in front of you on twitter or', 'start': 4131.44, 'duration': 2.239}
+{'text': "something and then you're like", 'start': 4132.56, 'duration': 2.799}
+{'text': 'generalizing and thinking that this is', 'start': 4133.679, 'duration': 3.52}
+{'text': 'the entire world of all trans people or', 'start': 4135.359, 'duration': 3.201}
+{'text': 'something not the entire world just the', 'start': 4137.199, 'duration': 3.6}
+{'text': "entire online activities you're saying", 'start': 4138.56, 'duration': 3.199}
+{'text': 'like what are they what are they', 'start': 4140.799, 'duration': 2.241}
+{'text': 'registered somewhere like what makes', 'start': 4141.759, 'duration': 2.881}
+{'text': 'them the online trans community because', 'start': 4143.04, 'duration': 3.04}
+{'text': "they're on twitter they're incredibly", 'start': 4144.64, 'duration': 2.96}
+{'text': 'vocal and they seem to be representative', 'start': 4146.08, 'duration': 3.84}
+{'text': 'of the ideas of that community', 'start': 4147.6, 'duration': 4.32}
+{'text': 'okay like what is that community what', 'start': 4149.92, 'duration': 4.56}
+{'text': 'does that mean like the online lgbt', 'start': 4151.92, 'duration': 4.239}
+{'text': 'representation it used to be on reddit', 'start': 4154.48, 'duration': 3.6}
+{'text': "at shitread it says now it's on like the", 'start': 4156.159, 'duration': 3.281}
+{'text': 'reset or it used to be on the reset', 'start': 4158.08, 'duration': 3.759}
+{'text': 'error forums um and i think neo gaff', 'start': 4159.44, 'duration': 4.64}
+{'text': 'might have been it it used to be on um i', 'start': 4161.839, 'duration': 5.121}
+{'text': 'think digg had a big one i think that um', 'start': 4164.08, 'duration': 4.96}
+{'text': 'uh something awful had a big one and now', 'start': 4166.96, 'duration': 3.199}
+{'text': 'you know like i think twitter has a big', 'start': 4169.04, 'duration': 2.639}
+{'text': 'one and reddit has a', 'start': 4170.159, 'duration': 3.12}
+{'text': "mainly twitter and i don't know if like", 'start': 4171.679, 'duration': 2.64}
+{'text': 'how those communities are active on', 'start': 4173.279, 'duration': 2.48}
+{'text': 'reddit now but so but it seems like', 'start': 4174.319, 'duration': 2.721}
+{'text': "twitter like i don't know these are like", 'start': 4175.759, 'duration': 2.96}
+{'text': 'the prevailing opinions of like these', 'start': 4177.04, 'duration': 3.36}
+{'text': 'communities that exist on on twitter', 'start': 4178.719, 'duration': 2.881}
+{'text': 'right now', 'start': 4180.4, 'duration': 3.359}
+{'text': 'okay i maybe you have a better sense of', 'start': 4181.6, 'duration': 3.92}
+{'text': "this than i do it could be maybe i'm a", 'start': 4183.759, 'duration': 3.121}
+{'text': "little selection bias i guess it's", 'start': 4185.52, 'duration': 2.88}
+{'text': 'possible but i just go by like when i', 'start': 4186.88, 'duration': 2.72}
+{'text': 'see things that are getting engagements', 'start': 4188.4, 'duration': 2.879}
+{'text': 'of like tens of thousands or hundreds of', 'start': 4189.6, 'duration': 3.36}
+{'text': 'thousands of like likes and [\xa0__\xa0] maybe', 'start': 4191.279, 'duration': 3.041}
+{'text': 'like maybe like tens of thousands i mean', 'start': 4192.96, 'duration': 3.279}
+{'text': 'tens of thousands of likes could be you', 'start': 4194.32, 'duration': 3.359}
+{'text': "that could be just that's", 'start': 4196.239, 'duration': 4.321}
+{'text': 'really rare no no my community is going', 'start': 4197.679, 'duration': 4.48}
+{'text': "to be like 3000 likes if i'm hitting", 'start': 4200.56, 'duration': 2.88}
+{'text': 'like tens of thousands of likes then', 'start': 4202.159, 'duration': 2.801}
+{'text': "i've like i've got like a meme tweet", 'start': 4203.44, 'duration': 2.64}
+{'text': "that's like breaking into other", 'start': 4204.96, 'duration': 2.88}
+{'text': 'communities then at that point', 'start': 4206.08, 'duration': 3.599}
+{'text': 'okay it could be it could be people that', 'start': 4207.84, 'duration': 3.28}
+{'text': "don't like you", 'start': 4209.679, 'duration': 3.201}
+{'text': "i don't know it could be you plus bosch", 'start': 4211.12, 'duration': 3.28}
+{'text': "or people that are just aware like it's", 'start': 4212.88, 'duration': 2.4}
+{'text': 'your', 'start': 4214.4, 'duration': 3.12}
+{'text': 'circle even i would say that anybody', 'start': 4215.28, 'duration': 3.919}
+{'text': 'that knows who vaush is has to know who', 'start': 4217.52, 'duration': 3.84}
+{'text': 'you are and so like obviously in that', 'start': 4219.199, 'duration': 3.601}
+{'text': "way like he's in your sphere of", 'start': 4221.36, 'duration': 3.04}
+{'text': 'influence every anybody that knows who', 'start': 4222.8, 'duration': 3.6}
+{'text': 'vaunches knows who you are like i i', 'start': 4224.4, 'duration': 3.44}
+{'text': "don't know i just", 'start': 4226.4, 'duration': 3.04}
+{'text': 'i feel some kind of way about sort of', 'start': 4227.84, 'duration': 3.359}
+{'text': 'generalizing this people who all have', 'start': 4229.44, 'duration': 3.2}
+{'text': 'this one uh individuals will have this', 'start': 4231.199, 'duration': 3.04}
+{'text': 'one status of being trans women or trans', 'start': 4232.64, 'duration': 3.84}
+{'text': 'men or whatever and then like saying', 'start': 4234.239, 'duration': 3.681}
+{'text': 'that the people who are aware of you or', 'start': 4236.48, 'duration': 3.12}
+{'text': 'vosh are part of that like sphere of', 'start': 4237.92, 'duration': 3.44}
+{'text': 'influence are representative like all', 'start': 4239.6, 'duration': 5.72}
+{'text': 'the individuals who have this', 'start': 4241.36, 'duration': 3.96}
+{'text': 'this element', 'start': 4245.36, 'duration': 3.44}
+{'text': "sure i understand what you're saying i", 'start': 4246.88, 'duration': 3.76}
+{'text': 'mean how would i refer to them this', 'start': 4248.8, 'duration': 4.08}
+{'text': 'specific large online twitter', 'start': 4250.64, 'duration': 4.8}
+{'text': "you can pair oh come on that's such", 'start': 4252.88, 'duration': 6.96}
+{'text': "that's so stupid it's an ai", 'start': 4255.44, 'duration': 4.4}
+{'text': "damn good thing you're not on twitch", 'start': 4261.36, 'duration': 2.96}
+{'text': 'why', 'start': 4263.52, 'duration': 2.0}
+{'text': "because it's tossed to get [\xa0__\xa0] on", 'start': 4264.32, 'duration': 3.839}
+{'text': 'straight one okay', 'start': 4265.52, 'duration': 3.76}
+{'text': "i don't know i want to help you find", 'start': 4268.159, 'duration': 2.721}
+{'text': 'some better verbage too because i feel', 'start': 4269.28, 'duration': 3.68}
+{'text': "like uh that's part of the big", 'start': 4270.88, 'duration': 3.76}
+{'text': 'contention that that people have with', 'start': 4272.96, 'duration': 2.88}
+{'text': "you is that you're using the terms like", 'start': 4274.64, 'duration': 2.8}
+{'text': 'the online trans community or whatever', 'start': 4275.84, 'duration': 3.68}
+{'text': "and i understand it i feel like there's", 'start': 4277.44, 'duration': 3.84}
+{'text': 'gotta be a better term now if i come up', 'start': 4279.52, 'duration': 3.44}
+{'text': 'with the [\xa0__\xa0] golden perfect one or', 'start': 4281.28, 'duration': 2.8}
+{'text': "something i'll dm me or something but", 'start': 4282.96, 'duration': 3.52}
+{'text': 'maybe like in the meantime just like', 'start': 4284.08, 'duration': 4.079}
+{'text': "these individuals or something but it's", 'start': 4286.48, 'duration': 3.44}
+{'text': "not individuals when they're getting 50", 'start': 4288.159, 'duration': 3.841}
+{'text': "60 70 000 likes on twitter they're not", 'start': 4289.92, 'duration': 3.36}
+{'text': "just that's the price it was just a few", 'start': 4292.0, 'duration': 2.48}
+{'text': "individuals i probably won't even talk", 'start': 4293.28, 'duration': 3.2}
+{'text': 'about them yeah but okay because that', 'start': 4294.48, 'duration': 3.679}
+{'text': 'was my that was my whole argument', 'start': 4296.48, 'duration': 3.36}
+{'text': 'against like the', 'start': 4298.159, 'duration': 3.681}
+{'text': 'back in the day why do you guys find', 'start': 4299.84, 'duration': 3.6}
+{'text': 'people that get four likes on twitter', 'start': 4301.84, 'duration': 3.28}
+{'text': 'and then make like 20 minute videos', 'start': 4303.44, 'duration': 3.12}
+{'text': "ranting about them that's like and then", 'start': 4305.12, 'duration': 2.48}
+{'text': 'trying to pretend like this is', 'start': 4306.56, 'duration': 2.56}
+{'text': 'representative of what communities think', 'start': 4307.6, 'duration': 3.04}
+{'text': 'that was my whole argument but these', 'start': 4309.12, 'duration': 2.88}
+{'text': 'days when there are accounts that say', 'start': 4310.64, 'duration': 2.64}
+{'text': 'crazy [\xa0__\xa0] they get like tens of', 'start': 4312.0, 'duration': 2.48}
+{'text': "thousands of likes well now it's a bit", 'start': 4313.28, 'duration': 3.2}
+{'text': 'different okay but does that mean that', 'start': 4314.48, 'duration': 3.52}
+{'text': "it's like a community of trans people", 'start': 4316.48, 'duration': 3.36}
+{'text': 'that that comprises 50 60 000 likes or', 'start': 4318.0, 'duration': 3.199}
+{'text': 'is it like somebody who says something', 'start': 4319.84, 'duration': 3.2}
+{'text': "that's remotely pro trans is very trendy", 'start': 4321.199, 'duration': 3.52}
+{'text': 'to just be supportive of those sort of', 'start': 4323.04, 'duration': 3.199}
+{'text': "general messages nowadays and so it's", 'start': 4324.719, 'duration': 2.721}
+{'text': 'just a bunch of times', 'start': 4326.239, 'duration': 2.96}
+{'text': "this is the most unscientific thing i've", 'start': 4327.44, 'duration': 3.2}
+{'text': 'ever said but like when i click through', 'start': 4329.199, 'duration': 2.881}
+{'text': 'these and i look at all like the', 'start': 4330.64, 'duration': 2.8}
+{'text': 'retweets and i look at the comments and', 'start': 4332.08, 'duration': 2.639}
+{'text': "[\xa0__\xa0] and there's a bunch of like people", 'start': 4333.44, 'duration': 3.12}
+{'text': 'with 52 pronouns on their profile and', 'start': 4334.719, 'duration': 3.681}
+{'text': 'anime pictures it seems like the trans', 'start': 4336.56, 'duration': 4.56}
+{'text': 'community yeah or white women', 'start': 4338.4, 'duration': 4.96}
+{'text': "okay i think that's silly i think i mean", 'start': 4341.12, 'duration': 3.84}
+{'text': 'i mean like we can you can try to find', 'start': 4343.36, 'duration': 3.2}
+{'text': "go through like um like on my wife's", 'start': 4344.96, 'duration': 2.719}
+{'text': "tweets when she's complaining about", 'start': 4346.56, 'duration': 2.32}
+{'text': 'people like calling her like a nazi and', 'start': 4347.679, 'duration': 2.081}
+{'text': '[\xa0__\xa0] now and you look at the people that', 'start': 4348.88, 'duration': 2.319}
+{'text': "are [\xa0__\xa0] on her it's like it's all", 'start': 4349.76, 'duration': 4.16}
+{'text': 'like [\xa0__\xa0] profiles', 'start': 4351.199, 'duration': 4.401}
+{'text': "no i'm just kidding um", 'start': 4353.92, 'duration': 2.88}
+{'text': "it's all it's all people with anime", 'start': 4355.6, 'duration': 2.639}
+{'text': 'profile pictures and a ton of pronouns', 'start': 4356.8, 'duration': 2.96}
+{'text': "in their profile that's like what it all", 'start': 4358.239, 'duration': 3.521}
+{'text': 'is fair enough sure that sort of thing', 'start': 4359.76, 'duration': 4.24}
+{'text': 'is trendy but even then like listen i', 'start': 4361.76, 'duration': 3.439}
+{'text': 'gotta be honest i think people with', 'start': 4364.0, 'duration': 2.96}
+{'text': 'anime profiles that have [\xa0__\xa0] a whole', 'start': 4365.199, 'duration': 3.201}
+{'text': 'bunch of pronouns and mental illnesses', 'start': 4366.96, 'duration': 2.96}
+{'text': "in their twitter profile i don't think", 'start': 4368.4, 'duration': 2.799}
+{'text': 'we should say that those people are', 'start': 4369.92, 'duration': 2.48}
+{'text': 'representative something called quote', 'start': 4371.199, 'duration': 2.881}
+{'text': 'unquote the trans online community or', 'start': 4372.4, 'duration': 2.56}
+{'text': 'something like oh are you saying that', 'start': 4374.08, 'duration': 2.159}
+{'text': "they're not really trans are you saying", 'start': 4374.96, 'duration': 2.56}
+{'text': "they're doing it for attention online", 'start': 4376.239, 'duration': 2.881}
+{'text': "that's why they're all trans women yeah", 'start': 4377.52, 'duration': 2.96}
+{'text': "i'm making that implication those people", 'start': 4379.12, 'duration': 3.28}
+{'text': 'might be [\xa0__\xa0]', 'start': 4380.48, 'duration': 3.52}
+{'text': "i certainly think it's trendy enough", 'start': 4382.4, 'duration': 3.04}
+{'text': 'that people would be willing to do that', 'start': 4384.0, 'duration': 3.76}
+{'text': 'without like committing to you know like', 'start': 4385.44, 'duration': 3.84}
+{'text': 'or suffering the hardships that', 'start': 4387.76, 'duration': 2.8}
+{'text': "typically we're worried about when we're", 'start': 4389.28, 'duration': 3.04}
+{'text': 'doing like trans advocacy right jesus', 'start': 4390.56, 'duration': 3.84}
+{'text': 'christ yeah yeah go ahead pretend like', 'start': 4392.32, 'duration': 3.52}
+{'text': "you don't agree go ahead call me based", 'start': 4394.4, 'duration': 3.759}
+{'text': 'and i can leave the call', 'start': 4395.84, 'duration': 3.92}
+{'text': "i'll only dm you that i'm not saying", 'start': 4398.159, 'duration': 3.841}
+{'text': "that publicly now you're on the you're", 'start': 4399.76, 'duration': 6.08}
+{'text': 'on the big [\xa0__\xa0] list now jesus christ', 'start': 4402.0, 'duration': 6.239}
+{'text': 'mask off mask off transphobe', 'start': 4405.84, 'duration': 3.6}
+{'text': "that's all right it was getting hot", 'start': 4408.239, 'duration': 3.841}
+{'text': 'under this mask no uh [\xa0__\xa0] listen', 'start': 4409.44, 'duration': 4.239}
+{'text': 'dude', 'start': 4412.08, 'duration': 3.44}
+{'text': 'here we go here comes the the big virtue', 'start': 4413.679, 'duration': 4.241}
+{'text': 'signal already the two and one i served', 'start': 4415.52, 'duration': 4.48}
+{'text': 'with trans people okay wow yeah the', 'start': 4417.92, 'duration': 3.52}
+{'text': 'military before trump kicked him out i', 'start': 4420.0, 'duration': 3.76}
+{'text': 'want him all over uh-huh', 'start': 4421.44, 'duration': 3.44}
+{'text': 'okay', 'start': 4423.76, 'duration': 4.08}
+{'text': "i understand what it's like", 'start': 4424.88, 'duration': 2.96}
+{'text': "okay well cool that's great so you're", 'start': 4428.239, 'duration': 3.201}
+{'text': 'the one that handed the information off', 'start': 4430.08, 'duration': 4.32}
+{'text': "to chelsea is that what you're saying", 'start': 4431.44, 'duration': 4.799}
+{'text': 'which information', 'start': 4434.4, 'duration': 3.68}
+{'text': 'the one that uh assange got his fingers', 'start': 4436.239, 'duration': 3.92}
+{'text': 'all over i got that wander up in federal', 'start': 4438.08, 'duration': 4.159}
+{'text': 'prison be honest that was [\xa0__\xa0] 10', 'start': 4440.159, 'duration': 3.361}
+{'text': "years before me i don't even think", 'start': 4442.239, 'duration': 3.041}
+{'text': 'anyway yeah', 'start': 4443.52, 'duration': 2.88}
+{'text': 'all right', 'start': 4445.28, 'duration': 2.56}
+{'text': "i'm getting a phone call", 'start': 4446.4, 'duration': 2.4}
+{'text': "good luck dude i'll see you in", 'start': 4447.84, 'duration': 2.72}
+{'text': "guantanamo we're going to cuba next year", 'start': 4448.8, 'duration': 3.919}
+{'text': 'so', 'start': 4450.56, 'duration': 2.159}
+{'text': "okay okay so here's like the thing i'm", 'start': 4452.96, 'duration': 4.239}
+{'text': 'getting a lot of trans people that are', 'start': 4455.52, 'duration': 4.159}
+{'text': 'messaging me that want to come on', 'start': 4457.199, 'duration': 5.04}
+{'text': 'but i just i feel weird about doing it', 'start': 4459.679, 'duration': 4.801}
+{'text': 'because i most of the trans people that', 'start': 4462.239, 'duration': 3.92}
+{'text': 'are emailing me agree with me but i', 'start': 4464.48, 'duration': 3.04}
+{'text': "don't want to bring on trans people to", 'start': 4466.159, 'duration': 2.481}
+{'text': 'just circle me because then it sounds', 'start': 4467.52, 'duration': 3.52}
+{'text': "like i'm looking for pikmis but then i", 'start': 4468.64, 'duration': 3.36}
+{'text': "don't want to just bring on a couple", 'start': 4471.04, 'duration': 2.08}
+{'text': 'trans people that disagree with me', 'start': 4472.0, 'duration': 2.719}
+{'text': 'because then it looks like i no one', 'start': 4473.12, 'duration': 2.96}
+{'text': "agrees with me so i i don't know how to", 'start': 4474.719, 'duration': 3.44}
+{'text': "like balance that out right now i'm", 'start': 4476.08, 'duration': 3.76}
+{'text': 'sorry sorry but like i appreciate your', 'start': 4478.159, 'duration': 2.721}
+{'text': 'emails and people in the trans people', 'start': 4479.84, 'duration': 2.56}
+{'text': 'that are reaching out to me to talk', 'start': 4480.88, 'duration': 2.88}
+{'text': 'the thing that helps me the most is if', 'start': 4482.4, 'duration': 3.44}
+{'text': "you're a trans person emailing me and", 'start': 4483.76, 'duration': 3.36}
+{'text': 'talking to me about like your', 'start': 4485.84, 'duration': 2.96}
+{'text': 'experiences or whatever is going on', 'start': 4487.12, 'duration': 3.039}
+{'text': 'those are honestly things that are most', 'start': 4488.8, 'duration': 2.48}
+{'text': 'important to me more than your arguments', 'start': 4490.159, 'duration': 2.881}
+{'text': 'anybody can make an argument anybody can', 'start': 4491.28, 'duration': 3.52}
+{'text': 'make any argument about anything but', 'start': 4493.04, 'duration': 3.679}
+{'text': 'your experiences are unique to you and', 'start': 4494.8, 'duration': 3.84}
+{'text': "those are things that i can't get on my", 'start': 4496.719, 'duration': 3.201}
+{'text': "own right you're not giving me are going", 'start': 4498.64, 'duration': 2.16}
+{'text': "to have a heartbeat i've probably heard", 'start': 4499.92, 'duration': 2.88}
+{'text': 'it all but your experiences are unique', 'start': 4500.8, 'duration': 3.52}
+{'text': 'and they are important and hearing about', 'start': 4502.8, 'duration': 2.64}
+{'text': "other people's experiences are things", 'start': 4504.32, 'duration': 2.8}
+{'text': 'that could like help me shape or change', 'start': 4505.44, 'duration': 3.279}
+{'text': "my opinions understanding other people's", 'start': 4507.12, 'duration': 4.0}
+{'text': 'um experiences more yeah or i could just', 'start': 4508.719, 'duration': 3.761}
+{'text': 'bring on and have like a trans death', 'start': 4511.12, 'duration': 5.0}
+{'text': 'match i guess yeah', 'start': 4512.48, 'duration': 3.64}

@@ -1,0 +1,175 @@
+{'text': 'they say one verdict and one verdict', 'start': 2.12, 'duration': 5.08}
+{'text': 'alone what does that mean', 'start': 4.68, 'duration': 4.14}
+{'text': "does that mean he's either guilty on all", 'start': 7.2, 'duration': 3.12}
+{'text': 'counts or one charge or does that mean', 'start': 8.82, 'duration': 3.26}
+{'text': "that he's", 'start': 10.32, 'duration': 6.5}
+{'text': 'face the jury to its verdicts', 'start': 12.08, 'duration': 4.74}
+{'text': 'the first', 'start': 20.34, 'duration': 2.48}
+{'text': 'H rickhouse not guilty', 'start': 25.22, 'duration': 4.84}
+{'text': 'as to the second count of the', 'start': 28.38, 'duration': 3.839}
+{'text': "information Richard McGinnis that's the", 'start': 30.06, 'duration': 4.26}
+{'text': 'really big one by the defendant Kyle H', 'start': 32.219, 'duration': 4.621}
+{'text': 'Rittenhouse not guilty', 'start': 34.32, 'duration': 4.44}
+{'text': 'as to the third count of the information', 'start': 36.84, 'duration': 4.8}
+{'text': 'unknown mail we the jury find the', 'start': 38.76, 'duration': 6.36}
+{'text': 'defendant Kyle H writtenhouse not guilty', 'start': 41.64, 'duration': 5.04}
+{'text': 'as to the fourth count of the', 'start': 45.12, 'duration': 4.14}
+{'text': 'information Anthony Huber we the jury', 'start': 46.68, 'duration': 4.68}
+{'text': 'find the defendant Kyle H Rittenhouse', 'start': 49.26, 'duration': 3.959}
+{'text': 'not guilty', 'start': 51.36, 'duration': 3.98}
+{'text': 'as to the fifth count of the information', 'start': 53.219, 'duration': 5.101}
+{'text': 'Gage gross groups we the jury find the', 'start': 55.34, 'duration': 6.16}
+{'text': 'defendant Kyle Kyle H Rittenhouse not', 'start': 58.32, 'duration': 4.8}
+{'text': 'guilty', 'start': 61.5, 'duration': 4.26}
+{'text': 'damn holy [\xa0__\xa0] members of the jury are', 'start': 63.12, 'duration': 4.859}
+{'text': 'these your unanimous verdicts', 'start': 65.76, 'duration': 4.08}
+{'text': 'is there anyone who does not agree with', 'start': 67.979, 'duration': 4.701}
+{'text': 'the verdicts as read', 'start': 69.84, 'duration': 2.84}
+{'text': 'this report', 'start': 72.72, 'duration': 2.54}
+{'text': 'uh okay folks your job is done and uh we', 'start': 75.78, 'duration': 5.64}
+{'text': 'started', 'start': 79.86, 'duration': 3.48}
+{'text': 'just about three weeks ago', 'start': 81.42, 'duration': 5.879}
+{'text': 'and I uh I told you it could last two', 'start': 83.34, 'duration': 5.58}
+{'text': 'weeks and two days this is two weeks', 'start': 87.299, 'duration': 3.061}
+{'text': 'this is three weeks', 'start': 88.92, 'duration': 4.199}
+{'text': 'uh you were a wonderful jury to work', 'start': 90.36, 'duration': 4.5}
+{'text': 'with you were punctual you were', 'start': 93.119, 'duration': 3.36}
+{'text': 'attentive', 'start': 94.86, 'duration': 5.7}
+{'text': 'um The Forgotten six over here who had a', 'start': 96.479, 'duration': 6.841}
+{'text': 'very difficult job of', 'start': 100.56, 'duration': 5.64}
+{'text': 'uh keeping from discussing the case', 'start': 103.32, 'duration': 4.02}
+{'text': 'during the time that they were', 'start': 106.2, 'duration': 3.599}
+{'text': 'sequestered as well all of you you just', 'start': 107.34, 'duration': 4.319}
+{'text': "I couldn't have asked for a better jury", 'start': 109.799, 'duration': 5.1}
+{'text': 'to work with and my OBS is crashing to', 'start': 111.659, 'duration': 5.1}
+{'text': 'bring my camera up so no camera right', 'start': 114.899, 'duration': 4.86}
+{'text': 'now I think without commenting on your', 'start': 116.759, 'duration': 5.581}
+{'text': 'verdict the verdicts themselves just in', 'start': 119.759, 'duration': 4.201}
+{'text': 'terms of your', 'start': 122.34, 'duration': 4.02}
+{'text': 'um the attentiveness and the cooperation', 'start': 123.96, 'duration': 4.019}
+{'text': 'that you gave to us', 'start': 126.36, 'duration': 6.06}
+{'text': 'uh justifies the confidence', 'start': 127.979, 'duration': 6.781}
+{'text': 'that the founders of our country placed', 'start': 132.42, 'duration': 4.14}
+{'text': 'in you', 'start': 134.76, 'duration': 3.24}
+{'text': 'so', 'start': 136.56, 'duration': 4.02}
+{'text': "um I dismiss you at this time you're", 'start': 138.0, 'duration': 4.68}
+{'text': 'never under any obligation to discuss', 'start': 140.58, 'duration': 6.239}
+{'text': 'any aspect of this case with anyone', 'start': 142.68, 'duration': 6.419}
+{'text': "you're welcome to do so as little or as", 'start': 146.819, 'duration': 3.721}
+{'text': 'much as you want', 'start': 149.099, 'duration': 3.901}
+{'text': 'the media have requested a number of', 'start': 150.54, 'duration': 4.68}
+{'text': 'media sources have requested the ability', 'start': 153.0, 'duration': 3.48}
+{'text': 'to', 'start': 155.22, 'duration': 3.56}
+{'text': 'talk to you and', 'start': 156.48, 'duration': 6.36}
+{'text': 'they have been allowed', 'start': 158.78, 'duration': 7.239}
+{'text': 'present the presentations to you that', 'start': 162.84, 'duration': 5.34}
+{'text': "you'll get in writing and it's entirely", 'start': 166.019, 'duration': 3.601}
+{'text': 'up to you whether you want content', 'start': 168.18, 'duration': 6.5}
+{'text': 'contact them they are not to contact you', 'start': 169.62, 'duration': 5.06}
+{'text': 'um if anyone does contact you and just', 'start': 174.78, 'duration': 5.34}
+{'text': "is this the first time they've shown the", 'start': 178.14, 'duration': 5.22}
+{'text': 'jury or have we seen them before', 'start': 180.12, 'duration': 6.539}
+{'text': 'um and if anyone persists in doing so uh', 'start': 183.36, 'duration': 5.04}
+{'text': 'report that to us and it will be', 'start': 186.659, 'duration': 2.881}
+{'text': 'addressed', 'start': 188.4, 'duration': 3.24}
+{'text': 'sure you was the first time', 'start': 189.54, 'duration': 4.919}
+{'text': 'um at the beginning of the trial there', 'start': 191.64, 'duration': 4.2}
+{'text': 'was some concern', 'start': 194.459, 'duration': 4.681}
+{'text': 'about uh information and uh', 'start': 195.84, 'duration': 6.24}
+{'text': 'your safety and I assure you that we', 'start': 199.14, 'duration': 5.28}
+{'text': 'will take every measure to ensure that', 'start': 202.08, 'duration': 3.96}
+{'text': 'that is', 'start': 204.42, 'duration': 3.899}
+{'text': 'your concerns are addressed and', 'start': 206.04, 'duration': 4.919}
+{'text': 'respected and', 'start': 208.319, 'duration': 3.241}
+{'text': 'um', 'start': 210.959, 'duration': 2.101}
+{'text': "I'm going to talk to you for just a", 'start': 211.56, 'duration': 3.06}
+{'text': 'minute not about anything to do with the', 'start': 213.06, 'duration': 5.099}
+{'text': 'case but just about that sole issue and', 'start': 214.62, 'duration': 4.58}
+{'text': 'um', 'start': 218.159, 'duration': 2.461}
+{'text': '[Music]', 'start': 219.2, 'duration': 2.86}
+{'text': "I'm gonna restart my stream real quick", 'start': 220.62, 'duration': 2.88}
+{'text': "because my camera as I say you're", 'start': 222.06, 'duration': 2.94}
+{'text': 'welcome to discuss the case as little or', 'start': 223.5, 'duration': 3.9}
+{'text': 'as much as you want or in the light they', 'start': 225.0, 'duration': 3.54}
+{'text': "can tell the library it's not going to", 'start': 227.4, 'duration': 2.88}
+{'text': 'be more than a minute or maybe it will', 'start': 228.54, 'duration': 4.08}
+{'text': "be well yeah take them upstairs that's", 'start': 230.28, 'duration': 5.539}
+{'text': "fine that's fine", 'start': 232.62, 'duration': 3.199}
+{'text': 'yeah', 'start': 243.0, 'duration': 3.799}
+{'text': 'foreign', 'start': 244.62, 'duration': 2.179}
+{'text': "I feel like I've outpaced him", 'start': 253.799, 'duration': 4.28}
+{'text': 'intellectually', 'start': 255.48, 'duration': 2.599}
+{'text': "all right are we working we're good", 'start': 263.82, 'duration': 5.28}
+{'text': 'this is just kind of like my my [\xa0__\xa0]', 'start': 267.24, 'duration': 3.6}
+{'text': 'feeling I guess but it felt like the', 'start': 269.1, 'duration': 3.78}
+{'text': 'Rosenbaum one was probably the most', 'start': 270.84, 'duration': 4.62}
+{'text': 'important charge like if he walked on', 'start': 272.88, 'duration': 4.44}
+{'text': 'that it seems really hard to imagine', 'start': 275.46, 'duration': 3.9}
+{'text': 'that the rest of them were gonna be', 'start': 277.32, 'duration': 4.379}
+{'text': "guilty if the first one was okay that's", 'start': 279.36, 'duration': 6.14}
+{'text': 'that was a feeling Mr Richards', 'start': 281.699, 'duration': 3.801}
+{'text': 'any word from the state', 'start': 285.84, 'duration': 3.44}
+{'text': 'the jury has', 'start': 289.919, 'duration': 3.381}
+{'text': 'his trial and has spoken', 'start': 293.4, 'duration': 4.739}
+{'text': 'all right the notion of the defendant is', 'start': 295.62, 'duration': 4.799}
+{'text': 'granted the charges against the', 'start': 298.139, 'duration': 4.801}
+{'text': 'defendant on all counts are dismissed', 'start': 300.419, 'duration': 4.62}
+{'text': "with prejudice and he's released from", 'start': 302.94, 'duration': 5.28}
+{'text': 'the obligation of his bond anything else', 'start': 305.039, 'duration': 6.021}
+{'text': 'thank you good day', 'start': 308.22, 'duration': 2.84}
+{'text': 'the provocation to be aimed as governor', 'start': 328.139, 'duration': 3.06}
+{'text': 'was probably the key thing it had it', 'start': 329.699, 'duration': 4.741}
+{'text': 'absolutely was yeah I I think that um', 'start': 331.199, 'duration': 5.22}
+{'text': 'so we have to be careful not to say that', 'start': 334.44, 'duration': 4.199}
+{'text': 'like the jury did a good job because the', 'start': 336.419, 'duration': 4.081}
+{'text': "jury agreed with me right that's not", 'start': 338.639, 'duration': 3.181}
+{'text': 'whether or not they did a good or bad', 'start': 340.5, 'duration': 2.88}
+{'text': "job doesn't mean because they agreed", 'start': 341.82, 'duration': 3.42}
+{'text': "with your verdict right that's [\xa0__\xa0]", 'start': 343.38, 'duration': 3.84}
+{'text': 'the thing the reason why I think that', 'start': 345.24, 'duration': 4.62}
+{'text': 'the decision is correct if the jury is', 'start': 347.22, 'duration': 5.699}
+{'text': 'performing as they should is because', 'start': 349.86, 'duration': 4.8}
+{'text': 'even given that piece of evidence', 'start': 352.919, 'duration': 3.961}
+{'text': "remember you have to know what's", 'start': 354.66, 'duration': 3.659}
+{'text': 'happening in that piece of evidence', 'start': 356.88, 'duration': 4.2}
+{'text': "Beyond A Reasonable Doubt and there's", 'start': 358.319, 'duration': 5.88}
+{'text': 'just no possible way that that grainy', 'start': 361.08, 'duration': 4.98}
+{'text': 'footage could have established that you', 'start': 364.199, 'duration': 3.981}
+{'text': 'know', 'start': 366.06, 'duration': 2.12}
+{'text': 'it took two days so they must have', 'start': 368.52, 'duration': 3.6}
+{'text': 'discussed it a fair bit oh on just that', 'start': 370.02, 'duration': 3.299}
+{'text': 'one that', 'start': 372.12, 'duration': 2.76}
+{'text': 'um question five or whatever that one', 'start': 373.319, 'duration': 4.1}
+{'text': 'piece of evidence', 'start': 374.88, 'duration': 2.539}
+{'text': 'react to Twitch and Twitter to for Lefty', 'start': 386.88, 'duration': 5.46}
+{'text': "seething I don't think it's good to um I", 'start': 390.36, 'duration': 3.6}
+{'text': "don't think it's good to like gloat over", 'start': 392.34, 'duration': 3.9}
+{'text': "a verdict again like it's not that we", 'start': 393.96, 'duration': 4.44}
+{'text': 'necessarily should want a verdict to', 'start': 396.24, 'duration': 4.26}
+{'text': 'come one way or another', 'start': 398.4, 'duration': 4.079}
+{'text': "um it's I mean it just it is what it is", 'start': 400.5, 'duration': 4.22}
+{'text': 'right', 'start': 402.479, 'duration': 2.241}
+{'text': 'there were like 36 pages of instructions', 'start': 418.08, 'duration': 3.66}
+{'text': 'um I think we had them at one point I', 'start': 420.539, 'duration': 3.121}
+{'text': "don't know if I read it all", 'start': 421.74, 'duration': 3.48}
+{'text': 'um they would be milking the [\xa0__\xa0] out of', 'start': 423.66, 'duration': 3.3}
+{'text': 'this yeah of course they would be but I', 'start': 425.22, 'duration': 4.64}
+{'text': 'mean it is what it is right', 'start': 426.96, 'duration': 2.9}
+{'text': "would you have accepted the jury's", 'start': 430.259, 'duration': 3.06}
+{'text': 'guilty verdict if it went that way I I', 'start': 431.4, 'duration': 3.239}
+{'text': 'think a guilty verdict would have just', 'start': 433.319, 'duration': 3.66}
+{'text': "been there's no way like based on that", 'start': 434.639, 'duration': 4.441}
+{'text': "evidence but it's a jury trial I mean I", 'start': 436.979, 'duration': 2.94}
+{'text': 'would have been disappointed I would', 'start': 439.08, 'duration': 1.8}
+{'text': 'have look forward to the appeal from the', 'start': 439.919, 'duration': 4.441}
+{'text': "defense but I mean it Jerry's a jury", 'start': 440.88, 'duration': 5.96}
+{'text': 'oh', 'start': 444.36, 'duration': 2.48}
+{'text': 'God the memes', 'start': 453.419, 'duration': 3.321}
+{'text': 'writtenhouse being assigned to defend', 'start': 462.0, 'duration': 3.18}
+{'text': 'the courthouse after not guilty verdict', 'start': 463.56, 'duration': 5.359}
+{'text': 'Master Chief defend this station', 'start': 465.18, 'duration': 7.62}
+{'text': 'yes sir I need a weapon right this way', 'start': 468.919, 'duration': 6.881}
+{'text': 'why', 'start': 472.8, 'duration': 3.0}
+{'text': 'Oh I thought they were gonna have his', 'start': 480.36, 'duration': 3.119}
+{'text': 'AR-15 photoshopped from bingering', 'start': 481.56, 'duration': 4.1}
+{'text': 'something', 'start': 483.479, 'duration': 2.181}

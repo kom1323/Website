@@ -1,0 +1,276 @@
+{'text': '[Music]', 'start': 0.0, 'duration': 2.24}
+{'text': 'because it can only lead to one thing', 'start': 0.399, 'duration': 3.681}
+{'text': "and that's very bad you know what that", 'start': 2.24, 'duration': 4.24}
+{'text': "thing is i think it's a very dangerous", 'start': 4.08, 'duration': 4.72}
+{'text': "terrible thing and i think it's terrible", 'start': 6.48, 'duration': 4.159}
+{'text': "when we can't know the", 'start': 8.8, 'duration': 3.68}
+{'text': 'results of an election the night of the', 'start': 10.639, 'duration': 4.561}
+{'text': 'election in a modern day age of computer', 'start': 12.48, 'duration': 4.799}
+{'text': "i think it's a terrible thing and i", 'start': 15.2, 'duration': 3.68}
+{'text': 'happen to think it was a terrible', 'start': 17.279, 'duration': 3.201}
+{'text': 'decision for our country', 'start': 18.88, 'duration': 4.0}
+{'text': 'made by the supreme court i think it was', 'start': 20.48, 'duration': 4.639}
+{'text': 'a terrible decision for our country', 'start': 22.88, 'duration': 3.84}
+{'text': "and i think it's a very dangerous", 'start': 25.119, 'duration': 3.521}
+{'text': "decision because you're going to have", 'start': 26.72, 'duration': 4.08}
+{'text': 'one or two or three states', 'start': 28.64, 'duration': 4.72}
+{'text': 'depending on how it ends up with their', 'start': 30.8, 'duration': 4.08}
+{'text': 'tabulating ballots', 'start': 33.36, 'duration': 3.76}
+{'text': 'and the rest of the world is waiting to', 'start': 34.88, 'duration': 3.28}
+{'text': 'find out', 'start': 37.12, 'duration': 3.36}
+{'text': "and i think there's great danger to it", 'start': 38.16, 'duration': 4.64}
+{'text': 'and i think a lot of fraud and misuse', 'start': 40.48, 'duration': 4.64}
+{'text': "can take place i think it's a terrible", 'start': 42.8, 'duration': 3.279}
+{'text': 'decision', 'start': 45.12, 'duration': 4.4}
+{'text': 'by the supreme court a terrible decision', 'start': 46.079, 'duration': 4.881}
+{'text': "now i don't know if that's going to be", 'start': 49.52, 'duration': 3.92}
+{'text': "changed because we're going to go in", 'start': 50.96, 'duration': 4.72}
+{'text': "the night up as soon as that election's", 'start': 53.44, 'duration': 4.88}
+{'text': "over we're going in with our lawyers", 'start': 55.68, 'duration': 4.64}
+{'text': "but we don't want to have pennsylvania", 'start': 58.32, 'duration': 4.16}
+{'text': 'where you have a political governor', 'start': 60.32, 'duration': 4.72}
+{'text': "a very partisan guy and we don't want to", 'start': 62.48, 'duration': 4.16}
+{'text': 'have other states like', 'start': 65.04, 'duration': 4.48}
+{'text': 'nevada where you have the head of the', 'start': 66.64, 'duration': 5.04}
+{'text': 'democratic clubhouse', 'start': 69.52, 'duration': 4.24}
+{'text': "as your governor we don't want to be in", 'start': 71.68, 'duration': 3.119}
+{'text': 'a position', 'start': 73.76, 'duration': 3.999}
+{'text': "where he's allowed to every day watch", 'start': 74.799, 'duration': 4.561}
+{'text': 'ballots come in', 'start': 77.759, 'duration': 3.921}
+{'text': 'see if we can only find 10 000 more', 'start': 79.36, 'duration': 3.439}
+{'text': 'ballots', 'start': 81.68, 'duration': 3.119}
+{'text': "because we're doing great in nevada", 'start': 82.799, 'duration': 4.081}
+{'text': "we're doing great in arizona", 'start': 84.799, 'duration': 4.32}
+{'text': "we're doing great all over but if you", 'start': 86.88, 'duration': 3.44}
+{'text': 'take nevada or', 'start': 89.119, 'duration': 3.601}
+{'text': 'pennsylvania and everyone knows what', 'start': 90.32, 'duration': 4.56}
+{'text': "happens in philadelphia you don't have", 'start': 92.72, 'duration': 3.2}
+{'text': 'to say it', 'start': 94.88, 'duration': 3.599}
+{'text': "but i've read about it for years and i", 'start': 95.92, 'duration': 4.72}
+{'text': "don't think it's fair that we have to", 'start': 98.479, 'duration': 2.881}
+{'text': 'wait', 'start': 100.64, 'duration': 3.92}
+{'text': 'a long period of time after the election', 'start': 101.36, 'duration': 5.759}
+{'text': 'if people wanted to get their ballots in', 'start': 104.56, 'duration': 4.96}
+{'text': 'they should have gotten their ballots in', 'start': 107.119, 'duration': 5.201}
+{'text': "long before that long time they don't", 'start': 109.52, 'duration': 4.32}
+{'text': 'have to put their ballots in the same', 'start': 112.32, 'duration': 3.04}
+{'text': 'day they could have put their ballots', 'start': 113.84, 'duration': 4.16}
+{'text': "in a month ago and we think it's a", 'start': 115.36, 'duration': 4.16}
+{'text': 'ridiculous decision', 'start': 118.0, 'duration': 3.84}
+{'text': 'thank you', 'start': 119.52, 'duration': 2.32}
+{'text': 'president trump has sold confidence that', 'start': 124.079, 'duration': 3.521}
+{'text': "he'll declare victory on tuesday night", 'start': 126.0, 'duration': 3.36}
+{'text': "if it looks like he's ahead according to", 'start': 127.6, 'duration': 3.279}
+{'text': 'three sources familiar with his private', 'start': 129.36, 'duration': 2.48}
+{'text': 'comments', 'start': 130.879, 'duration': 2.481}
+{'text': "that's even if the electoral college", 'start': 131.84, 'duration': 3.44}
+{'text': 'outcome still hinges on large numbers of', 'start': 133.36, 'duration': 3.519}
+{'text': 'uncounted votes in key states like', 'start': 135.28, 'duration': 3.599}
+{'text': 'pennsylvania', 'start': 136.879, 'duration': 3.521}
+{'text': 'the latest speaking to reporters on', 'start': 138.879, 'duration': 2.881}
+{'text': 'sunday evening trump denied that he', 'start': 140.4, 'duration': 2.96}
+{'text': 'would declare victory prematurely before', 'start': 141.76, 'duration': 3.04}
+{'text': "adding i think it's a terrible thing", 'start': 143.36, 'duration': 3.2}
+{'text': 'when ballots can be collected after an', 'start': 144.8, 'duration': 2.32}
+{'text': 'election', 'start': 146.56, 'duration': 2.0}
+{'text': "i think it's a terrible thing when", 'start': 147.12, 'duration': 3.04}
+{'text': 'states are allowed to tabulate ballots', 'start': 148.56, 'duration': 2.88}
+{'text': 'for a long period of time', 'start': 150.16, 'duration': 4.159}
+{'text': 'after the election is over he continued', 'start': 151.44, 'duration': 4.24}
+{'text': "i think it's terrible that we can't know", 'start': 154.319, 'duration': 2.64}
+{'text': 'the results of an election the night of', 'start': 155.68, 'duration': 2.72}
+{'text': "the election we're going to go in the", 'start': 156.959, 'duration': 2.961}
+{'text': "night up as soon as that election's over", 'start': 158.4, 'duration': 3.28}
+{'text': "we're going in with our lawyers", 'start': 159.92, 'duration': 3.28}
+{'text': "we don't want to have pennsylvania we", 'start': 161.68, 'duration': 3.04}
+{'text': 'have a political governor a very', 'start': 163.2, 'duration': 2.48}
+{'text': 'partisan guy', 'start': 164.72, 'duration': 2.08}
+{'text': "we don't want to be in a position where", 'start': 165.68, 'duration': 3.04}
+{'text': "he's allowed every day to watch ballots", 'start': 166.8, 'duration': 2.64}
+{'text': 'come in', 'start': 168.72, 'duration': 2.48}
+{'text': 'see if we can only find 10 000 more', 'start': 169.44, 'duration': 3.84}
+{'text': 'ballots behind the scenes trump has', 'start': 171.2, 'duration': 3.44}
+{'text': 'privately talked through this scenario', 'start': 173.28, 'duration': 3.28}
+{'text': 'in some detail in the last few weeks', 'start': 174.64, 'duration': 3.84}
+{'text': 'describing plans to walk up to a podium', 'start': 176.56, 'duration': 4.08}
+{'text': 'on election night declarious one', 'start': 178.48, 'duration': 4.0}
+{'text': 'for this to happen his allies expect he', 'start': 180.64, 'duration': 3.12}
+{'text': 'would need to either win or have a', 'start': 182.48, 'duration': 3.28}
+{'text': 'commanding lead in ohio florida', 'start': 183.76, 'duration': 4.88}
+{'text': 'north carolina texas iowa arizona and', 'start': 185.76, 'duration': 4.88}
+{'text': 'georgia', 'start': 188.64, 'duration': 4.16}
+{'text': "why it matters trump's team is preparing", 'start': 190.64, 'duration': 3.84}
+{'text': 'to falsely claim that mail-in ballots', 'start': 192.8, 'duration': 3.12}
+{'text': 'counted after november 3rd', 'start': 194.48, 'duration': 3.039}
+{'text': 'a legitimate count expected to favor', 'start': 195.92, 'duration': 3.12}
+{'text': 'democrats are evidence of', 'start': 197.519, 'duration': 3.841}
+{'text': 'election fraud of all the election', 'start': 199.04, 'duration': 4.16}
+{'text': '[\xa0__\xa0] that can happen this is the only', 'start': 201.36, 'duration': 2.48}
+{'text': "thing that's", 'start': 203.2, 'duration': 2.56}
+{'text': 'actually concerning any the idea of like', 'start': 203.84, 'duration': 3.6}
+{'text': 'trump using the military to drive around', 'start': 205.76, 'duration': 3.039}
+{'text': 'and do crazy [\xa0__\xa0] or', 'start': 207.44, 'duration': 3.04}
+{'text': 'the whatever [\xa0__\xa0] or whatever this', 'start': 208.799, 'duration': 3.44}
+{'text': 'is probably the', 'start': 210.48, 'duration': 3.36}
+{'text': 'many prognosticators say that on', 'start': 212.239, 'duration': 3.121}
+{'text': 'election night trump will likely appear', 'start': 213.84, 'duration': 2.8}
+{'text': 'ahead in pennsylvania', 'start': 215.36, 'duration': 2.799}
+{'text': "though the state's final outcome could", 'start': 216.64, 'duration': 3.28}
+{'text': 'change substantially as mellon ballots', 'start': 218.159, 'duration': 3.921}
+{'text': 'are counted over the following days', 'start': 219.92, 'duration': 3.36}
+{'text': "trump's team is preparing to claim", 'start': 222.08, 'duration': 3.04}
+{'text': 'baselessly that if that process changes', 'start': 223.28, 'duration': 3.28}
+{'text': 'the outcome in pennsylvania from the', 'start': 225.12, 'duration': 3.119}
+{'text': 'picture on election night the democrats', 'start': 226.56, 'duration': 3.759}
+{'text': 'would have stolen the election', 'start': 228.239, 'duration': 3.36}
+{'text': 'trump advisers have been laying the', 'start': 230.319, 'duration': 2.961}
+{'text': 'groundwork for this strategy for weeks', 'start': 231.599, 'duration': 3.041}
+{'text': 'but this is the first account of trump', 'start': 233.28, 'duration': 3.039}
+{'text': 'explicitly discussing his election at', 'start': 234.64, 'duration': 3.28}
+{'text': 'intentions', 'start': 236.319, 'duration': 3.761}
+{'text': "what they're saying asked for a comment", 'start': 237.92, 'duration': 3.44}
+{'text': "the trump campaign's communications", 'start': 240.08, 'duration': 2.0}
+{'text': 'director tim', 'start': 241.36, 'duration': 4.4}
+{'text': 'murtau mertel said this is nothing but', 'start': 242.08, 'duration': 5.04}
+{'text': 'people trying to create doubt about a', 'start': 245.76, 'duration': 3.199}
+{'text': "trump victory when he wins he's going to", 'start': 247.12, 'duration': 2.96}
+{'text': 'say so', 'start': 248.959, 'duration': 2.881}
+{'text': 'trump campaign senior advisor jason', 'start': 250.08, 'duration': 3.76}
+{'text': 'miller predicted that trump will be', 'start': 251.84, 'duration': 3.84}
+{'text': 'that will be re-elected handily and no', 'start': 253.84, 'duration': 3.359}
+{'text': 'amount of post-election democratic', 'start': 255.68, 'duration': 2.799}
+{'text': 'thievery will be able to change the', 'start': 257.199, 'duration': 2.961}
+{'text': 'results', 'start': 258.479, 'duration': 4.401}
+{'text': 'reality reality check maryland ballots', 'start': 260.16, 'duration': 4.56}
+{'text': 'counted after election day is set forth', 'start': 262.88, 'duration': 3.2}
+{'text': 'in state by state rules are as', 'start': 264.72, 'duration': 3.12}
+{'text': 'legitimate as in-person votes recorded', 'start': 266.08, 'duration': 3.52}
+{'text': 'on november 3rd', 'start': 267.84, 'duration': 3.359}
+{'text': "many states won't be done counting mail", 'start': 269.6, 'duration': 3.2}
+{'text': 'ballots by tuesday night', 'start': 271.199, 'duration': 3.041}
+{'text': 'in pennsylvania state law prevents', 'start': 272.8, 'duration': 2.8}
+{'text': 'election officials from counting mail-in', 'start': 274.24, 'duration': 3.36}
+{'text': 'ballots before election day', 'start': 275.6, 'duration': 3.92}
+{'text': 'night of counts may be deceptive it', 'start': 277.6, 'duration': 3.44}
+{'text': 'could be days if not', 'start': 279.52, 'duration': 2.88}
+{'text': 'weeks before we know who won', 'start': 281.04, 'duration': 3.599}
+{'text': "pennsylvania if it's a close race this", 'start': 282.4, 'duration': 3.6}
+{'text': 'could also be true for other states', 'start': 284.639, 'duration': 2.56}
+{'text': 'given the record number of', 'start': 286.0, 'duration': 3.04}
+{'text': 'numbers of americans who voted by mail', 'start': 287.199, 'duration': 3.681}
+{'text': 'this year pennsylvania secretary of', 'start': 289.04, 'duration': 2.64}
+{'text': 'state', 'start': 290.88, 'duration': 3.759}
+{'text': "kathy bukvar said on nbc's meet the", 'start': 291.68, 'duration': 4.4}
+{'text': 'press today that there could be 10', 'start': 294.639, 'duration': 3.12}
+{'text': 'times as many male 1 ballots this year', 'start': 296.08, 'duration': 3.2}
+{'text': 'than in 2016', 'start': 297.759, 'duration': 3.521}
+{'text': 'so yes it will take longer to count i', 'start': 299.28, 'duration': 3.359}
+{'text': 'expect that the overwhelming majority of', 'start': 301.28, 'duration': 2.639}
+{'text': 'ballots in pennsylvania', 'start': 302.639, 'duration': 3.28}
+{'text': "that's mail-in and absentee ballots as", 'start': 303.919, 'duration': 3.28}
+{'text': 'well as in-person ballots will be', 'start': 305.919, 'duration': 2.56}
+{'text': 'counted within a matter of days in', 'start': 307.199, 'duration': 2.161}
+{'text': 'bukhari said', 'start': 308.479, 'duration': 3.28}
+{'text': "what we are watching miller on abc's", 'start': 309.36, 'duration': 4.559}
+{'text': 'this week predicted 290 plus electoral', 'start': 311.759, 'duration': 3.761}
+{'text': 'votes for trump on election night and he', 'start': 313.919, 'duration': 3.201}
+{'text': 'claimed democrats are just going to try', 'start': 315.52, 'duration': 3.679}
+{'text': 'to steal it back after the election', 'start': 317.12, 'duration': 3.68}
+{'text': 'he described any prospective challenges', 'start': 319.199, 'duration': 3.921}
+{'text': 'by democrats as hijinks or lawsuits or', 'start': 320.8, 'duration': 4.239}
+{'text': 'whatever kind of nonsense', 'start': 323.12, 'duration': 3.68}
+{'text': 'between the lines trump advisors are', 'start': 325.039, 'duration': 3.281}
+{'text': 'more optimistic about winning than they', 'start': 326.8, 'duration': 3.119}
+{'text': 'were three weeks ago based on my', 'start': 328.32, 'duration': 2.96}
+{'text': 'conversations with multiple senior', 'start': 329.919, 'duration': 3.12}
+{'text': 'campaign officials over the past week', 'start': 331.28, 'duration': 3.199}
+{'text': 'including two officials with direct', 'start': 333.039, 'duration': 3.361}
+{'text': 'knowledge of sensitive internal data', 'start': 334.479, 'duration': 3.761}
+{'text': 'they said analyses of early vote totals', 'start': 336.4, 'duration': 3.2}
+{'text': "in battleground states indicate he's", 'start': 338.24, 'duration': 2.959}
+{'text': 'doing substantially worse in iowa and', 'start': 339.6, 'duration': 3.68}
+{'text': 'georgia compared with this point in 2016', 'start': 341.199, 'duration': 4.161}
+{'text': 'but better than expected in texas nevada', 'start': 343.28, 'duration': 4.32}
+{'text': 'north carolina arizona and wisconsin', 'start': 345.36, 'duration': 3.679}
+{'text': 'just a few weeks ago senior trump', 'start': 347.6, 'duration': 2.879}
+{'text': 'advisers were bearish', 'start': 349.039, 'duration': 3.281}
+{'text': 'about wisconsin and had reduced tv', 'start': 350.479, 'duration': 3.201}
+{'text': 'advertising there to an insignificant', 'start': 352.32, 'duration': 2.0}
+{'text': 'figure', 'start': 353.68, 'duration': 2.48}
+{'text': 'a senior campaign official told me that', 'start': 354.32, 'duration': 3.28}
+{'text': "the state didn't figure in his path to", 'start': 356.16, 'duration': 3.28}
+{'text': '270 electoral votes', 'start': 357.6, 'duration': 3.439}
+{'text': 'that appears to have changed in recent', 'start': 359.44, 'duration': 2.879}
+{'text': 'days senior trump advisers have', 'start': 361.039, 'duration': 2.72}
+{'text': 'privately expressed growing optimism', 'start': 362.319, 'duration': 2.961}
+{'text': 'about wisconsin based on their analysis', 'start': 363.759, 'duration': 3.201}
+{'text': 'of early vote data', 'start': 365.28, 'duration': 3.44}
+{'text': 'the other side it comes as no surprise', 'start': 366.96, 'duration': 3.12}
+{'text': 'that donald trump and his campaign plan', 'start': 368.72, 'duration': 2.72}
+{'text': 'to declare victory before all the votes', 'start': 370.08, 'duration': 1.92}
+{'text': 'are counted', 'start': 371.44, 'duration': 1.92}
+{'text': 'that has been a strategy for months and', 'start': 372.0, 'duration': 3.12}
+{'text': 'nobody should fall for it senator bernie', 'start': 373.36, 'duration': 4.08}
+{'text': 'sanders said in a statement to axios', 'start': 375.12, 'duration': 3.84}
+{'text': "it's why he is demonizing mail-in", 'start': 377.44, 'duration': 2.96}
+{'text': 'ballots and sabotaging the postal', 'start': 378.96, 'duration': 3.04}
+{'text': 'service we will not allow this to happen', 'start': 380.4, 'duration': 4.56}
+{'text': 'every vote must and will be counted', 'start': 382.0, 'duration': 4.96}
+{'text': "the most likely if i still think it's", 'start': 384.96, 'duration': 4.16}
+{'text': 'unlikely but if something were to happen', 'start': 386.96, 'duration': 3.519}
+{'text': 'this would be probably the most likely', 'start': 389.12, 'duration': 2.799}
+{'text': "thing to happen you want to know what's", 'start': 390.479, 'duration': 2.56}
+{'text': 'really sad right now', 'start': 391.919, 'duration': 3.201}
+{'text': 'in my opinion the sad thing is that', 'start': 393.039, 'duration': 3.681}
+{'text': "people aren't nervous because of how", 'start': 395.12, 'duration': 2.88}
+{'text': 'people are gonna vote', 'start': 396.72, 'duration': 2.4}
+{'text': "people are nervous because they're not", 'start': 398.0, 'duration': 2.319}
+{'text': 'sure if all the votes are gonna be', 'start': 399.12, 'duration': 1.919}
+{'text': 'counted', 'start': 400.319, 'duration': 3.041}
+{'text': "i think that's a really sad i think it's", 'start': 401.039, 'duration': 5.44}
+{'text': 'a really sad reality right now', 'start': 403.36, 'duration': 5.2}
+{'text': 'well they will be counted right no we', 'start': 406.479, 'duration': 3.84}
+{'text': "don't know that", 'start': 408.56, 'duration': 4.72}
+{'text': 'well i mean can they actually just like', 'start': 410.319, 'duration': 4.32}
+{'text': 'not count votes', 'start': 413.28, 'duration': 4.24}
+{'text': "can't the dems stop this no the the", 'start': 414.639, 'duration': 3.68}
+{'text': 'worry', 'start': 417.52, 'duration': 3.76}
+{'text': 'the main path to destruction right now', 'start': 418.319, 'duration': 4.561}
+{'text': 'what people are worried about', 'start': 421.28, 'duration': 3.919}
+{'text': 'is that trump is going to have enough of', 'start': 422.88, 'duration': 3.039}
+{'text': 'a lead', 'start': 425.199, 'duration': 2.801}
+{'text': "in key states that he's just going to", 'start': 425.919, 'duration': 3.201}
+{'text': 'call the election', 'start': 428.0, 'duration': 3.039}
+{'text': 'yeah on the third on the night and be', 'start': 429.12, 'duration': 3.6}
+{'text': "like we're done and then use the supreme", 'start': 431.039, 'duration': 3.6}
+{'text': 'court to stop any more vote tabulation', 'start': 432.72, 'duration': 4.879}
+{'text': "that's the worry yeah there's no way", 'start': 434.639, 'duration': 3.761}
+{'text': 'that they would go', 'start': 437.599, 'duration': 2.641}
+{'text': "along with it the supreme court it's", 'start': 438.4, 'duration': 3.28}
+{'text': "just there's no law that says that's the", 'start': 440.24, 'duration': 2.88}
+{'text': "case though the current law doesn't it", 'start': 441.68, 'duration': 1.84}
+{'text': 'say', 'start': 443.12, 'duration': 2.24}
+{'text': 'i mean they use the bush court case', 'start': 443.52, 'duration': 3.36}
+{'text': 'stopped the third or fourth recount i', 'start': 445.36, 'duration': 2.48}
+{'text': 'think in florida', 'start': 446.88, 'duration': 2.56}
+{'text': "so i mean but that was because it wasn't", 'start': 447.84, 'duration': 3.359}
+{'text': 'going to be done by a certain date', 'start': 449.44, 'duration': 3.44}
+{'text': 'right yeah but what if this takes a long', 'start': 451.199, 'duration': 3.041}
+{'text': 'time like i guess', 'start': 452.88, 'duration': 3.759}
+{'text': 'well they would need the pennsylvania', 'start': 454.24, 'duration': 4.399}
+{'text': 'governor who was democratic', 'start': 456.639, 'duration': 4.721}
+{'text': 'to stop to order the vote to be stopped', 'start': 458.639, 'duration': 7.201}
+{'text': 'i think', 'start': 461.36, 'duration': 4.48}
+{'text': 'this would also be like not even a', 'start': 466.8, 'duration': 2.799}
+{'text': 'recount this is this would be', 'start': 468.479, 'duration': 3.28}
+{'text': 'unprecedented', 'start': 469.599, 'duration': 5.521}
+{'text': 'because every year so much unprecedented', 'start': 471.759, 'duration': 5.521}
+{'text': '[\xa0__\xa0] though yeah', 'start': 475.12, 'duration': 4.16}
+{'text': 'i would i would i would hope the supreme', 'start': 477.28, 'duration': 3.199}
+{'text': 'court would rule', 'start': 479.28, 'duration': 3.68}
+{'text': "well it's called the us flag you stupid", 'start': 480.479, 'duration': 4.321}
+{'text': '[\xa0__\xa0] this is the only flag that the', 'start': 482.96, 'duration': 3.2}
+{'text': "united states federally hasn't", 'start': 484.8, 'duration': 3.04}
+{'text': 'recognized why the [\xa0__\xa0] are you acting', 'start': 486.16, 'duration': 2.24}
+{'text': 'like the', 'start': 487.84, 'duration': 2.88}
+{'text': 'different', 'start': 488.4, 'duration': 2.32}

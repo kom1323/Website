@@ -1,0 +1,1125 @@
+{'text': 'person is having a mental health crisis', 'start': 0.0, 'duration': 3.84}
+{'text': 'the idea that they see a social worker', 'start': 2.0, 'duration': 3.04}
+{'text': "show up and they're like hey what's up", 'start': 3.84, 'duration': 2.24}
+{'text': "i'm here on behalf of the state of", 'start': 5.04, 'duration': 2.64}
+{'text': 'california to check in on you that could', 'start': 6.08, 'duration': 3.599}
+{'text': 'be an incredibly terrifying experience', 'start': 7.68, 'duration': 3.44}
+{'text': "as well i don't know if i would sit here", 'start': 9.679, 'duration': 2.641}
+{'text': 'and try to figure out juggling at the', 'start': 11.12, 'duration': 2.479}
+{'text': 'door well who are they going to be more', 'start': 12.32, 'duration': 3.12}
+{'text': 'scared of when there are like 50 more', 'start': 13.599, 'duration': 3.44}
+{'text': "reasons to have cops it seems like it's", 'start': 15.44, 'duration': 3.2}
+{'text': 'better to just either always send a cop', 'start': 17.039, 'duration': 3.361}
+{'text': 'or at least a cop plus a social order', 'start': 18.64, 'duration': 2.88}
+{'text': "but i don't think you're ever sitting", 'start': 20.4, 'duration': 2.719}
+{'text': 'just a social worker because people are', 'start': 21.52, 'duration': 2.88}
+{'text': "scared of cops don't make any sense", 'start': 23.119, 'duration': 2.641}
+{'text': "destiny you haven't considered the fact", 'start': 24.4, 'duration': 3.039}
+{'text': 'that maybe people are just as scared or', 'start': 25.76, 'duration': 3.04}
+{'text': 'more scared of social workers than', 'start': 27.439, 'duration': 2.961}
+{'text': 'police officers', 'start': 28.8, 'duration': 3.04}
+{'text': "isn't that what i just said i'll debate", 'start': 30.4, 'duration': 2.88}
+{'text': "you on the hippy dippy if that's the", 'start': 31.84, 'duration': 4.16}
+{'text': "topic i'm a werewolf enjoyer", 'start': 33.28, 'duration': 5.279}
+{'text': 'well i mean', 'start': 36.0, 'duration': 4.8}
+{'text': "i know that's a tough one i can host it", 'start': 38.559, 'duration': 5.881}
+{'text': 'i can host it', 'start': 40.8, 'duration': 3.64}
+{'text': 'i just think there needs to be more of a', 'start': 49.12, 'duration': 2.88}
+{'text': "balance america's in a really shitty", 'start': 50.559, 'duration': 3.041}
+{'text': 'spot because everybody could potentially', 'start': 52.0, 'duration': 3.44}
+{'text': 'be armed which is why', 'start': 53.6, 'duration': 4.72}
+{'text': 'like cops go into situations heavily', 'start': 55.44, 'duration': 5.919}
+{'text': 'armed which is very problematic but at', 'start': 58.32, 'duration': 4.559}
+{'text': 'the end of the day we also have to talk', 'start': 61.359, 'duration': 2.8}
+{'text': 'about what kind of people go into', 'start': 62.879, 'duration': 3.761}
+{'text': 'becoming cops and why they do it right', 'start': 64.159, 'duration': 4.96}
+{'text': 'like the role has to be entirely changed', 'start': 66.64, 'duration': 5.519}
+{'text': 'because people go into this job force', 'start': 69.119, 'duration': 4.961}
+{'text': 'whatever sort of power trip', 'start': 72.159, 'duration': 3.121}
+{'text': 'it creates', 'start': 74.08, 'duration': 2.399}
+{'text': 'a lot of the time do you think that', 'start': 75.28, 'duration': 2.879}
+{'text': 'people only become cops because they', 'start': 76.479, 'duration': 3.441}
+{'text': 'want to go for a power trip a lot of', 'start': 78.159, 'duration': 4.241}
+{'text': 'them do yeah i think i think some people', 'start': 79.92, 'duration': 4.48}
+{'text': 'maybe go in wanting to make the world a', 'start': 82.4, 'duration': 4.16}
+{'text': 'safer and a more just place but at the', 'start': 84.4, 'duration': 3.92}
+{'text': 'same time there are a lot of people who', 'start': 86.56, 'duration': 4.0}
+{'text': 'go into it to inflict power on others', 'start': 88.32, 'duration': 4.4}
+{'text': "or it's just like a stable job with some", 'start': 90.56, 'duration': 3.84}
+{'text': "good pay i don't know", 'start': 92.72, 'duration': 3.439}
+{'text': 'i think something just as a quick as a', 'start': 94.4, 'duration': 4.48}
+{'text': 'quick capitalism has allowed for very', 'start': 96.159, 'duration': 4.481}
+{'text': 'little people to have any sort of social', 'start': 98.88, 'duration': 3.68}
+{'text': 'mobility and becoming a cop or joining', 'start': 100.64, 'duration': 4.0}
+{'text': 'the military or is one of those things', 'start': 102.56, 'duration': 3.76}
+{'text': 'where you can get a stable income that', 'start': 104.64, 'duration': 3.92}
+{'text': 'where you can actually survive so yes', 'start': 106.32, 'duration': 4.159}
+{'text': "there is lots of reasons but you can't", 'start': 108.56, 'duration': 4.64}
+{'text': 'ignore the power dynamics at play here', 'start': 110.479, 'duration': 4.161}
+{'text': "i think it's a quick uh just a quick", 'start': 113.2, 'duration': 3.04}
+{'text': 'reality trick so a welfare check the', 'start': 114.64, 'duration': 2.56}
+{'text': 'reason why you call somebody do a', 'start': 116.24, 'duration': 2.159}
+{'text': 'welfare check because you think somebody', 'start': 117.2, 'duration': 2.879}
+{'text': 'might be in trouble somebody it could be', 'start': 118.399, 'duration': 4.08}
+{'text': 'an elderly person maybe is has fallen', 'start': 120.079, 'duration': 3.841}
+{'text': "down or something and you don't have the", 'start': 122.479, 'duration': 2.64}
+{'text': 'ability to get to the residence the', 'start': 123.92, 'duration': 2.239}
+{'text': 'reason why you do welfare checks because', 'start': 125.119, 'duration': 2.561}
+{'text': "the cop can go to the residence they're", 'start': 126.159, 'duration': 2.72}
+{'text': 'allowed to knock and then if they have', 'start': 127.68, 'duration': 2.639}
+{'text': 'reason to believe that something bad has', 'start': 128.879, 'duration': 2.961}
+{'text': 'happened they can break in to get into', 'start': 130.319, 'duration': 2.64}
+{'text': 'the house to make sure that the person', 'start': 131.84, 'duration': 2.88}
+{'text': 'is okay a cop doing a welfare check', 'start': 132.959, 'duration': 3.28}
+{'text': "isn't a cop walking down screaming like", 'start': 134.72, 'duration': 3.12}
+{'text': 'this is the [\xa0__\xa0] police open the [\xa0__\xa0]', 'start': 136.239, 'duration': 3.281}
+{'text': "up that's not what a welfare check is", 'start': 137.84, 'duration': 2.8}
+{'text': "and that's not how police conduct", 'start': 139.52, 'duration': 2.56}
+{'text': 'themselves during a welfare check just a', 'start': 140.64, 'duration': 4.16}
+{'text': 'quick heads up for that', 'start': 142.08, 'duration': 3.92}
+{'text': 'thank you', 'start': 144.8, 'duration': 4.64}
+{'text': 'when did destiny jump in here', 'start': 146.0, 'duration': 3.44}
+{'text': "let's get this [\xa0__\xa0] sure on the road", 'start': 152.0, 'duration': 4.44}
+{'text': 'there are plenty of criticisms of the', 'start': 166.64, 'duration': 3.84}
+{'text': 'way the police are used in this country', 'start': 168.64, 'duration': 3.28}
+{'text': "the ubiquity with which they're used the", 'start': 170.48, 'duration': 3.36}
+{'text': "ways in which they're trained and the", 'start': 171.92, 'duration': 3.52}
+{'text': 'fact that we overload them with', 'start': 173.84, 'duration': 3.28}
+{'text': 'basically every civic function that we', 'start': 175.44, 'duration': 3.12}
+{'text': 'send people out to do that we can get', 'start': 177.12, 'duration': 4.479}
+{'text': 'away with so the the argument that no', 'start': 178.56, 'duration': 4.8}
+{'text': 'not literally every welfare check is', 'start': 181.599, 'duration': 4.0}
+{'text': 'them storming down the door but yes', 'start': 183.36, 'duration': 3.84}
+{'text': 'there have been plenty of arguments made', 'start': 185.599, 'duration': 3.041}
+{'text': 'even from people in the police', 'start': 187.2, 'duration': 3.6}
+{'text': 'departments that a heavier focus and', 'start': 188.64, 'duration': 4.16}
+{'text': 'de-escalation could be achieved with', 'start': 190.8, 'duration': 3.92}
+{'text': 'non-police officers because police', 'start': 192.8, 'duration': 3.84}
+{'text': 'officers first priority in accordance', 'start': 194.72, 'duration': 3.76}
+{'text': 'with their training is always going to', 'start': 196.64, 'duration': 4.0}
+{'text': 'be uh', 'start': 198.48, 'duration': 5.36}
+{'text': "well not very de-escalatory so a cop's", 'start': 200.64, 'duration': 5.2}
+{'text': 'goal is always to de-escalate um but i', 'start': 203.84, 'duration': 3.759}
+{'text': 'mean if a cop is called to an area then', 'start': 205.84, 'duration': 2.88}
+{'text': "obviously that might not be what's", 'start': 207.599, 'duration': 2.0}
+{'text': "happening if you've called a police", 'start': 208.72, 'duration': 2.239}
+{'text': "officer you're already in an exceptional", 'start': 209.599, 'duration': 3.36}
+{'text': 'circumstance of course the reason why', 'start': 210.959, 'duration': 3.681}
+{'text': 'cops are sent out to places is because', 'start': 212.959, 'duration': 3.601}
+{'text': 'of liability and this is why even with', 'start': 214.64, 'duration': 4.239}
+{'text': 'social welfare checks um or or when a', 'start': 216.56, 'duration': 3.599}
+{'text': 'social worker is called often times you', 'start': 218.879, 'duration': 2.321}
+{'text': 'want a police officer there for', 'start': 220.159, 'duration': 2.961}
+{'text': "liability reasons if you're getting to", 'start': 221.2, 'duration': 4.0}
+{'text': 'an area where something has escalated so', 'start': 223.12, 'duration': 3.679}
+{'text': 'much that you feel like you need to call', 'start': 225.2, 'duration': 3.84}
+{'text': 'external parties to help with some sort', 'start': 226.799, 'duration': 4.241}
+{'text': 'of mental health crisis there might', 'start': 229.04, 'duration': 3.68}
+{'text': "there's a much higher likelihood that", 'start': 231.04, 'duration': 2.96}
+{'text': "you're going to enter an area where", 'start': 232.72, 'duration': 3.04}
+{'text': 'somebody needs the authority to apply', 'start': 234.0, 'duration': 3.92}
+{'text': "force which is by the state that's going", 'start': 235.76, 'duration': 4.88}
+{'text': 'to be there in order to have that person', 'start': 237.92, 'duration': 4.56}
+{'text': 'on hand to do it this is why even if we', 'start': 240.64, 'duration': 3.12}
+{'text': 'do these things where social workers', 'start': 242.48, 'duration': 2.399}
+{'text': "show up to place or whatever if you're", 'start': 243.76, 'duration': 2.72}
+{'text': "calling like somebody to do this you're", 'start': 244.879, 'duration': 2.801}
+{'text': 'probably gonna have to send a cop along', 'start': 246.48, 'duration': 2.959}
+{'text': 'anyway', 'start': 247.68, 'duration': 3.44}
+{'text': "aren't we at a point now where", 'start': 249.439, 'duration': 3.44}
+{'text': 'people are like some people are scared', 'start': 251.12, 'duration': 3.44}
+{'text': 'of the cops and there needs to be a way', 'start': 252.879, 'duration': 3.36}
+{'text': "to call somebody that's not a cop to", 'start': 254.56, 'duration': 3.6}
+{'text': 'deal with your situation too', 'start': 256.239, 'duration': 3.601}
+{'text': "yeah but so like here's the problem okay", 'start': 258.16, 'duration': 3.12}
+{'text': "is that if you're a social worker and", 'start': 259.84, 'duration': 2.88}
+{'text': 'you were and i super recommend if', 'start': 261.28, 'duration': 2.88}
+{'text': 'anybody ever wants to drag an actual', 'start': 262.72, 'duration': 2.8}
+{'text': 'social worker onto this to talk about it', 'start': 264.16, 'duration': 2.24}
+{'text': "when you're a social worker you're", 'start': 265.52, 'duration': 2.08}
+{'text': 'calling this people seem to think that', 'start': 266.4, 'duration': 2.64}
+{'text': 'like social workers are called in', 'start': 267.6, 'duration': 2.64}
+{'text': "because oh you know like johnny's", 'start': 269.04, 'duration': 2.64}
+{'text': "feeling really depressed and maybe he's", 'start': 270.24, 'duration': 2.72}
+{'text': 'a little suicidal and we want to call a', 'start': 271.68, 'duration': 2.56}
+{'text': 'social worker over the house to chat', 'start': 272.96, 'duration': 2.72}
+{'text': "with them this isn't like what social", 'start': 274.24, 'duration': 2.88}
+{'text': 'workers are typically called to homes', 'start': 275.68, 'duration': 3.12}
+{'text': "for they're usually called to homes in", 'start': 277.12, 'duration': 3.92}
+{'text': 'the event of like a mental health crisis', 'start': 278.8, 'duration': 3.76}
+{'text': "so it might be somebody's like literally", 'start': 281.04, 'duration': 2.96}
+{'text': 'locked in a bathroom with a knife saying', 'start': 282.56, 'duration': 2.72}
+{'text': "they're gonna kill themselves it might", 'start': 284.0, 'duration': 2.8}
+{'text': "be somebody that's taken their child out", 'start': 285.28, 'duration': 3.199}
+{'text': 'and they could be at risk um it could be', 'start': 286.8, 'duration': 3.119}
+{'text': 'somebody locked up with a gun like these', 'start': 288.479, 'duration': 2.401}
+{'text': 'are the types of things you call a', 'start': 289.919, 'duration': 3.201}
+{'text': 'mental health like professional for even', 'start': 290.88, 'duration': 4.8}
+{'text': 'inside institutions there will be people', 'start': 293.12, 'duration': 4.24}
+{'text': 'that will make calls to police officers', 'start': 295.68, 'duration': 3.04}
+{'text': "when they're dealing with certain types", 'start': 297.36, 'duration': 3.44}
+{'text': 'of patients these situations are just', 'start': 298.72, 'duration': 3.759}
+{'text': "they're really difficult and oftentimes", 'start': 300.8, 'duration': 3.36}
+{'text': "you need somebody that's ready to assume", 'start': 302.479, 'duration': 3.601}
+{'text': 'the violent liability there in order to', 'start': 304.16, 'duration': 3.44}
+{'text': 'handle the situation which is why cops', 'start': 306.08, 'duration': 2.64}
+{'text': 'are involved in these types of things so', 'start': 307.6, 'duration': 2.72}
+{'text': "often i don't really see a way around", 'start': 308.72, 'duration': 3.36}
+{'text': 'that unfortunately', 'start': 310.32, 'duration': 4.08}
+{'text': 'so you think that every role the cops', 'start': 312.08, 'duration': 4.16}
+{'text': 'feel right now is the one which needs to', 'start': 314.4, 'duration': 4.0}
+{'text': "be filled by cops if it's not filled the", 'start': 316.24, 'duration': 4.0}
+{'text': "rules which are not filled by cops it's", 'start': 318.4, 'duration': 3.6}
+{'text': 'acceptable for the risks to be taken by', 'start': 320.24, 'duration': 3.6}
+{'text': "a person who isn't capable of exercising", 'start': 322.0, 'duration': 3.52}
+{'text': 'that violence well it depends on what', 'start': 323.84, 'duration': 3.04}
+{'text': "rules you're talking about if you're if", 'start': 325.52, 'duration': 2.16}
+{'text': "we're going back to the pizza drive", 'start': 326.88, 'duration': 1.92}
+{'text': "everything i don't think calling a cop", 'start': 327.68, 'duration': 2.239}
+{'text': 'is going to help you avoid like a drunk', 'start': 328.8, 'duration': 3.2}
+{'text': 'driving accident or something so like if', 'start': 329.919, 'duration': 2.881}
+{'text': "we're talking about these types of", 'start': 332.0, 'duration': 3.28}
+{'text': 'things then then no also um', 'start': 332.8, 'duration': 3.76}
+{'text': 'individuals can carry firearms with them', 'start': 335.28, 'duration': 2.4}
+{'text': 'if they want they can call them so they', 'start': 336.56, 'duration': 2.16}
+{'text': "want there's other things there but but", 'start': 337.68, 'duration': 2.799}
+{'text': 'secondly the problem is that when people', 'start': 338.72, 'duration': 4.64}
+{'text': 'talk about like oh well we need to um', 'start': 340.479, 'duration': 4.801}
+{'text': 'we need to do these things or we need to', 'start': 343.36, 'duration': 2.96}
+{'text': 'not have cops go here we need to have', 'start': 345.28, 'duration': 3.04}
+{'text': 'some other person when you start to ask', 'start': 346.32, 'duration': 3.12}
+{'text': 'questions about what other kind of', 'start': 348.32, 'duration': 2.719}
+{'text': "person is you're just going to be", 'start': 349.44, 'duration': 3.44}
+{'text': "building a different type of cop so i'll", 'start': 351.039, 'duration': 3.281}
+{'text': 'say okay well so in a mental health', 'start': 352.88, 'duration': 2.48}
+{'text': "crisis you don't want cops you'll be", 'start': 354.32, 'duration': 2.159}
+{'text': 'like well no of course i was like okay', 'start': 355.36, 'duration': 3.04}
+{'text': 'so who should go uh well a social worker', 'start': 356.479, 'duration': 3.041}
+{'text': 'okay well the social worker needs to', 'start': 358.4, 'duration': 2.72}
+{'text': 'have training to subdue somebody you', 'start': 359.52, 'duration': 2.399}
+{'text': "agree with that right well yeah it'd be", 'start': 361.12, 'duration': 2.079}
+{'text': 'a social work without training okay we', 'start': 361.919, 'duration': 2.321}
+{'text': 'also probably need to invest some', 'start': 363.199, 'duration': 2.801}
+{'text': 'authority in them to like apply force', 'start': 364.24, 'duration': 3.28}
+{'text': 'right well yeah of course they probably', 'start': 366.0, 'duration': 2.96}
+{'text': 'need a weapon right yeah at least like a', 'start': 367.52, 'duration': 2.56}
+{'text': "taser or something okay you're basically", 'start': 368.96, 'duration': 2.64}
+{'text': "just building a cop again right it's", 'start': 370.08, 'duration': 3.52}
+{'text': 'easier to take a copy', 'start': 371.6, 'duration': 3.68}
+{'text': "wait wait wait wait wait wait but don't", 'start': 373.6, 'duration': 3.92}
+{'text': 'you think that there are situations', 'start': 375.28, 'duration': 4.16}
+{'text': 'which we send cops to do things like', 'start': 377.52, 'duration': 4.08}
+{'text': 'they monitor [\xa0__\xa0] public high schools', 'start': 379.44, 'duration': 3.92}
+{'text': 'and [\xa0__\xa0] like that where we could have', 'start': 381.6, 'duration': 4.0}
+{'text': "someone who's way more well equipped to", 'start': 383.36, 'duration': 4.24}
+{'text': 'do this take over this job because this', 'start': 385.6, 'duration': 3.68}
+{'text': 'is the position that i think have you', 'start': 387.6, 'duration': 2.96}
+{'text': 'ever gone to a high school with metal', 'start': 389.28, 'duration': 2.88}
+{'text': 'detectors', 'start': 390.56, 'duration': 2.8}
+{'text': 'have i ever gone to a high school with', 'start': 392.16, 'duration': 2.8}
+{'text': 'metal detectors do you think people', 'start': 393.36, 'duration': 3.279}
+{'text': 'bring guns to heist like every high', 'start': 394.96, 'duration': 2.959}
+{'text': 'school wait hold on so a lot of high', 'start': 396.639, 'duration': 3.68}
+{'text': 'schools have metal detectors right', 'start': 397.919, 'duration': 4.4}
+{'text': 'have you have you been to a school where', 'start': 400.319, 'duration': 4.72}
+{'text': 'like violent fights break out every day', 'start': 402.319, 'duration': 5.121}
+{'text': "like that that's that's like the type of", 'start': 405.039, 'duration': 4.321}
+{'text': 'place where hold on wait wait okay wait', 'start': 407.44, 'duration': 3.92}
+{'text': 'hold on and usually teachers get in the', 'start': 409.36, 'duration': 3.679}
+{'text': 'middle of those fights and break them up', 'start': 411.36, 'duration': 4.32}
+{'text': 'like wait no cops needed no yeah', 'start': 413.039, 'duration': 5.641}
+{'text': 'absolutely', 'start': 415.68, 'duration': 3.0}
+{'text': 'wait hold on this is talking about', 'start': 418.72, 'duration': 6.16}
+{'text': "so hold on this isn't some radical lefty", 'start': 422.24, 'duration': 4.64}
+{'text': 'concern police are dramatically', 'start': 424.88, 'duration': 3.599}
+{'text': 'overworked in this country because they', 'start': 426.88, 'duration': 3.84}
+{'text': 'do get sent out for so much and this is', 'start': 428.479, 'duration': 3.521}
+{'text': 'something that is different in other', 'start': 430.72, 'duration': 3.199}
+{'text': "countries it's a problem that we have in", 'start': 432.0, 'duration': 4.16}
+{'text': 'particular now obviously america has a', 'start': 433.919, 'duration': 4.641}
+{'text': 'higher rate of gun ownership but the the', 'start': 436.16, 'duration': 4.72}
+{'text': "percentage of like cop time that's spent", 'start': 438.56, 'duration': 5.52}
+{'text': 'on violent uh uh calls or like', 'start': 440.88, 'duration': 6.08}
+{'text': 'in direct immediate threats of violence', 'start': 444.08, 'duration': 5.36}
+{'text': 'is quite a small portion of what they do', 'start': 446.96, 'duration': 4.56}
+{'text': 'altogether oftentimes they show up to', 'start': 449.44, 'duration': 3.84}
+{'text': 'take notes after a potential property', 'start': 451.52, 'duration': 4.16}
+{'text': 'crime they respond to non-criminal calls', 'start': 453.28, 'duration': 4.96}
+{'text': 'there are traffic issues mental welfare', 'start': 455.68, 'duration': 4.56}
+{'text': "checks are not all somebody's at such a", 'start': 458.24, 'duration': 3.12}
+{'text': "point that they're probably going to", 'start': 460.24, 'duration': 2.799}
+{'text': 'kill themselves you can just call the', 'start': 461.36, 'duration': 3.679}
+{'text': "cops and say hey i'm worried about my", 'start': 463.039, 'duration': 4.88}
+{'text': 'friend and with no other information and', 'start': 465.039, 'duration': 4.88}
+{'text': "they'll send police officers the idea", 'start': 467.919, 'duration': 3.921}
+{'text': 'well why are you calling the cops', 'start': 469.919, 'duration': 3.601}
+{'text': 'need to be i', 'start': 471.84, 'duration': 3.6}
+{'text': 'because americans like calling cops okay', 'start': 473.52, 'duration': 3.28}
+{'text': "but that's then that's americans if", 'start': 475.44, 'duration': 2.64}
+{'text': "you're calling a police officer say", 'start': 476.8, 'duration': 2.72}
+{'text': "you're worried about your friend what is", 'start': 478.08, 'duration': 2.799}
+{'text': "it i like i don't know my friend just", 'start': 479.52, 'duration': 2.88}
+{'text': 'lost his holographic charizard can you', 'start': 480.879, 'duration': 2.72}
+{'text': 'go check up on him like so what are you', 'start': 482.4, 'duration': 2.56}
+{'text': 'saying when you call the police all the', 'start': 483.599, 'duration': 4.16}
+{'text': 'police the information you give them', 'start': 484.96, 'duration': 4.639}
+{'text': 'will dictate the response they decide to', 'start': 487.759, 'duration': 4.321}
+{'text': "send if you tell them there's a hostage", 'start': 489.599, 'duration': 4.641}
+{'text': 'situation they send a swat team if you', 'start': 492.08, 'duration': 3.679}
+{'text': 'tell them something less important than', 'start': 494.24, 'duration': 3.6}
+{'text': 'that they send a police officer and', 'start': 495.759, 'duration': 4.16}
+{'text': 'maybe in a better world if you told them', 'start': 497.84, 'duration': 3.919}
+{'text': 'something that seems not immediately', 'start': 499.919, 'duration': 3.441}
+{'text': 'threatening they could send somebody', 'start': 501.759, 'duration': 3.601}
+{'text': "who's not even a police officer somebody", 'start': 503.36, 'duration': 4.559}
+{'text': 'whose job deals more with interpersonal', 'start': 505.36, 'duration': 4.64}
+{'text': 'interactions and de-escalation than what', 'start': 507.919, 'duration': 4.161}
+{'text': 'cops do the ideal cop would be able to', 'start': 510.0, 'duration': 4.24}
+{'text': 'do all of these roles but we know they', 'start': 512.08, 'duration': 3.92}
+{'text': "can't we know for a fact they can't", 'start': 514.24, 'duration': 3.359}
+{'text': 'there are severe criticisms of the way', 'start': 516.0, 'duration': 2.8}
+{'text': 'that our police spend their time in', 'start': 517.599, 'duration': 2.88}
+{'text': 'their country this country', 'start': 518.8, 'duration': 3.0}
+{'text': "yeah this is why we're talking about", 'start': 520.479, 'duration': 3.601}
+{'text': 'specialization earlier okay this is why', 'start': 521.8, 'duration': 4.28}
+{'text': "it's important to like send people who", 'start': 524.08, 'duration': 3.439}
+{'text': 'are more equipped to handle these things', 'start': 526.08, 'duration': 3.12}
+{'text': "out i don't know why we couldn't like", 'start': 527.519, 'duration': 3.361}
+{'text': 'why we beat around the bush with that', 'start': 529.2, 'duration': 2.639}
+{'text': 'all', 'start': 530.88, 'duration': 4.2}
+{'text': 'so much', 'start': 531.839, 'duration': 3.241}
+{'text': 'please', 'start': 535.519, 'duration': 2.081}
+{'text': 'yeah', 'start': 536.56, 'duration': 2.8}
+{'text': 'so once', 'start': 537.6, 'duration': 4.48}
+{'text': 'uh my friend did something', 'start': 539.36, 'duration': 4.24}
+{'text': 'not so good', 'start': 542.08, 'duration': 3.52}
+{'text': 'at my house and', 'start': 543.6, 'duration': 4.32}
+{'text': 'called the ambulance um actually she', 'start': 545.6, 'duration': 4.64}
+{'text': 'called the ambulance on herself', 'start': 547.92, 'duration': 3.12}
+{'text': 'um', 'start': 550.24, 'duration': 2.64}
+{'text': 'because', 'start': 551.04, 'duration': 3.68}
+{'text': "yeah she was like i think i'm a danger", 'start': 552.88, 'duration': 5.36}
+{'text': "to myself so she'd probably go", 'start': 554.72, 'duration': 4.72}
+{'text': 'get some help', 'start': 558.24, 'duration': 2.599}
+{'text': 'and', 'start': 559.44, 'duration': 3.76}
+{'text': 'then even though she called the', 'start': 560.839, 'duration': 5.081}
+{'text': 'ambulance and told them what happened uh', 'start': 563.2, 'duration': 4.72}
+{'text': 'a paramedic showed up', 'start': 565.92, 'duration': 4.32}
+{'text': 'and the police also showed up because it', 'start': 567.92, 'duration': 3.52}
+{'text': 'was', 'start': 570.24, 'duration': 2.8}
+{'text': 'there was someone doing something', 'start': 571.44, 'duration': 4.48}
+{'text': 'harmful to themselves and i think that', 'start': 573.04, 'duration': 4.64}
+{'text': 'that kind of', 'start': 575.92, 'duration': 5.2}
+{'text': "made sense because they didn't know", 'start': 577.68, 'duration': 4.48}
+{'text': 'uh', 'start': 581.12, 'duration': 2.64}
+{'text': 'in what kind of headspace she', 'start': 582.16, 'duration': 3.679}
+{'text': 'necessarily was', 'start': 583.76, 'duration': 2.88}
+{'text': 'or', 'start': 585.839, 'duration': 1.68}
+{'text': 'um', 'start': 586.64, 'duration': 3.92}
+{'text': 'if what kind of weapons she might have', 'start': 587.519, 'duration': 5.681}
+{'text': 'had like i i', 'start': 590.56, 'duration': 4.16}
+{'text': 'do think that it kind of made sense for', 'start': 593.2, 'duration': 2.88}
+{'text': 'the police to show up but also this is', 'start': 594.72, 'duration': 3.04}
+{'text': "new zealand so like that cops didn't", 'start': 596.08, 'duration': 3.759}
+{'text': 'come in with guns or anything', 'start': 597.76, 'duration': 4.48}
+{'text': 'um and they just had a very calm', 'start': 599.839, 'duration': 5.361}
+{'text': 'conversation with us to figure out what', 'start': 602.24, 'duration': 5.52}
+{'text': 'had happened and then the paramedic took', 'start': 605.2, 'duration': 4.16}
+{'text': 'us to the hospital', 'start': 607.76, 'duration': 3.92}
+{'text': 'and i feel like that was', 'start': 609.36, 'duration': 4.64}
+{'text': 'that kind of made sense', 'start': 611.68, 'duration': 5.44}
+{'text': "to me that situation didn't seem bad i", 'start': 614.0, 'duration': 4.959}
+{'text': "don't know the specifics of new zealand", 'start': 617.12, 'duration': 3.279}
+{'text': 'police treatment but i imagine they', 'start': 618.959, 'duration': 3.201}
+{'text': "don't have the same issues that we do", 'start': 620.399, 'duration': 3.841}
+{'text': "it's also possible i mean", 'start': 622.16, 'duration': 3.359}
+{'text': 'you could make the argument for sending', 'start': 624.24, 'duration': 3.039}
+{'text': 'an emt and an ambulance after pretty', 'start': 625.519, 'duration': 3.201}
+{'text': 'much every police call right like you', 'start': 627.279, 'duration': 2.481}
+{'text': "never know if there's going to be a", 'start': 628.72, 'duration': 3.84}
+{'text': 'problem obviously we all have to learn', 'start': 629.76, 'duration': 4.639}
+{'text': 'when to draw the line on expenditures of', 'start': 632.56, 'duration': 4.8}
+{'text': "police or state resources and i'm only", 'start': 634.399, 'duration': 4.56}
+{'text': "saying that and again this isn't some", 'start': 637.36, 'duration': 3.12}
+{'text': 'radical lefty opinion this has been a', 'start': 638.959, 'duration': 4.161}
+{'text': 'criticism for decades we do', 'start': 640.48, 'duration': 5.52}
+{'text': 'over tax police by having them fill a', 'start': 643.12, 'duration': 5.52}
+{'text': 'ton of roles seriously if we could just', 'start': 646.0, 'duration': 5.92}
+{'text': 'get response to non-criminal calls like', 'start': 648.64, 'duration': 6.16}
+{'text': 'not even an implicit threat done mostly', 'start': 651.92, 'duration': 5.2}
+{'text': 'by social workers we could cut down on', 'start': 654.8, 'duration': 4.0}
+{'text': 'the amount of police time responding to', 'start': 657.12, 'duration': 4.56}
+{'text': 'calls by nearly a third and the the the', 'start': 658.8, 'duration': 5.44}
+{'text': 'benefits of that uh would be', 'start': 661.68, 'duration': 5.04}
+{'text': 'enormous with regards to city budgets', 'start': 664.24, 'duration': 5.2}
+{'text': 'with the um the actual well-being of', 'start': 666.72, 'duration': 4.559}
+{'text': 'these cops because it would probably', 'start': 669.44, 'duration': 2.8}
+{'text': "mean that they're a little bit less", 'start': 671.279, 'duration': 2.24}
+{'text': 'strained', 'start': 672.24, 'duration': 3.039}
+{'text': 'i think that you can like make really', 'start': 673.519, 'duration': 3.281}
+{'text': 'good arguments for', 'start': 675.279, 'duration': 4.321}
+{'text': 'some types of work being delegated and', 'start': 676.8, 'duration': 5.039}
+{'text': 'we can try this on a city-by-city basis', 'start': 679.6, 'duration': 4.08}
+{'text': "maybe we don't need cops standing guard", 'start': 681.839, 'duration': 3.601}
+{'text': 'at these high schools maybe having', 'start': 683.68, 'duration': 3.599}
+{'text': 'social workers there would work better i', 'start': 685.44, 'duration': 4.0}
+{'text': "know that i don't know", 'start': 687.279, 'duration': 4.161}
+{'text': 'what the data is on like having cop', 'start': 689.44, 'duration': 4.399}
+{'text': 'guards at high schools like leading to', 'start': 691.44, 'duration': 4.0}
+{'text': 'increased rates of graduation or lower', 'start': 693.839, 'duration': 3.761}
+{'text': 'violence are but i do know that recently', 'start': 695.44, 'duration': 4.72}
+{'text': 'there was that dad project you had like', 'start': 697.6, 'duration': 4.479}
+{'text': 'two dozen kids who were arrested for', 'start': 700.16, 'duration': 4.56}
+{'text': 'scuffling in the school um so a bunch of', 'start': 702.079, 'duration': 5.681}
+{'text': 'dads got together and they um', 'start': 704.72, 'duration': 4.48}
+{'text': "that now they're there and now kids", 'start': 707.76, 'duration': 2.879}
+{'text': "aren't getting arrested because the dads", 'start': 709.2, 'duration': 2.639}
+{'text': "are there they're just short of i don't", 'start': 710.639, 'duration': 3.44}
+{'text': 'know dad shame people', 'start': 711.839, 'duration': 4.8}
+{'text': 'stuff like that you know like we have to', 'start': 714.079, 'duration': 5.041}
+{'text': 'get rid of the idea that everything is', 'start': 716.639, 'duration': 4.561}
+{'text': 'dangerous so everything has to be done', 'start': 719.12, 'duration': 4.24}
+{'text': "by a cop and like oh cops aren't great", 'start': 721.2, 'duration': 3.439}
+{'text': "at everything and they're actually quite", 'start': 723.36, 'duration': 3.279}
+{'text': "bad in america de-escalation well that's", 'start': 724.639, 'duration': 3.681}
+{'text': 'just a risk we have to take we need to', 'start': 726.639, 'duration': 3.361}
+{'text': 'be more exploratory than that', 'start': 728.32, 'duration': 3.68}
+{'text': 'do you think it do you think though in', 'start': 730.0, 'duration': 4.399}
+{'text': 'most situations it should be both like', 'start': 732.0, 'duration': 4.079}
+{'text': 'there should be this specialization', 'start': 734.399, 'duration': 3.761}
+{'text': 'where there are teams of people where', 'start': 736.079, 'duration': 4.641}
+{'text': 'somebody is trained you know in firearms', 'start': 738.16, 'duration': 4.0}
+{'text': 'and then there is a social worker', 'start': 740.72, 'duration': 2.48}
+{'text': 'involved', 'start': 742.16, 'duration': 2.32}
+{'text': 'yeah but we can come up with different', 'start': 743.2, 'duration': 3.439}
+{'text': 'combinations and different practical', 'start': 744.48, 'duration': 3.919}
+{'text': 'applications and all types of settings', 'start': 746.639, 'duration': 3.361}
+{'text': 'which i think would be important but', 'start': 748.399, 'duration': 3.361}
+{'text': "there's lots of practical applications", 'start': 750.0, 'duration': 3.6}
+{'text': "where we don't need to send police at", 'start': 751.76, 'duration': 3.12}
+{'text': 'all', 'start': 753.6, 'duration': 5.6}
+{'text': "that's the important thing i just i'm", 'start': 754.88, 'duration': 5.6}
+{'text': "i'm having a hard time understanding", 'start': 759.2, 'duration': 3.12}
+{'text': 'what these like mental health crises are', 'start': 760.48, 'duration': 3.44}
+{'text': 'that are so essential you need to call a', 'start': 762.32, 'duration': 2.88}
+{'text': "third party that you wouldn't want a", 'start': 763.92, 'duration': 2.56}
+{'text': 'police officer there for liability', 'start': 765.2, 'duration': 3.6}
+{'text': 'reasons', 'start': 766.48, 'duration': 2.32}
+{'text': "like i'm just carrying i'm generally", 'start': 769.04, 'duration': 3.039}
+{'text': 'asking is there like an example or are', 'start': 770.32, 'duration': 3.759}
+{'text': 'you wait are you asking because you', 'start': 772.079, 'duration': 4.481}
+{'text': "don't know have you ever okay i don't", 'start': 774.079, 'duration': 4.721}
+{'text': 'know if this is supposed to make the', 'start': 776.56, 'duration': 3.839}
+{'text': "argument stronger what i'm asking is if", 'start': 778.8, 'duration': 2.719}
+{'text': "you've escalated something to the point", 'start': 780.399, 'duration': 2.641}
+{'text': 'where you have to make a phone call', 'start': 781.519, 'duration': 4.0}
+{'text': "you're saying hello there is a situation", 'start': 783.04, 'duration': 4.16}
+{'text': "that is so out of control where i'm at", 'start': 785.519, 'duration': 3.361}
+{'text': 'right now i need to bring in another', 'start': 787.2, 'duration': 3.199}
+{'text': 'person to deal with it', 'start': 788.88, 'duration': 3.12}
+{'text': "but it's fine i don't need a cop i'm", 'start': 790.399, 'duration': 3.44}
+{'text': 'just curious what are those types of', 'start': 792.0, 'duration': 4.0}
+{'text': "situations that's what i'm asking so", 'start': 793.839, 'duration': 5.361}
+{'text': 'welfare checks um oftentimes are done', 'start': 796.0, 'duration': 4.72}
+{'text': "literally just because you're concerned", 'start': 799.2, 'duration': 3.759}
+{'text': 'about a person i know that and i could', 'start': 800.72, 'duration': 3.679}
+{'text': "dig this up and i don't know if there's", 'start': 802.959, 'duration': 3.521}
+{'text': 'specific data on this but the idea that', 'start': 804.399, 'duration': 3.601}
+{'text': 'every welfare check is being done', 'start': 806.48, 'duration': 3.599}
+{'text': 'because an american has waited for the', 'start': 808.0, 'duration': 3.68}
+{'text': 'last resort and only now are they', 'start': 810.079, 'duration': 4.0}
+{'text': 'willing a lot of people panic call 9-1-1', 'start': 811.68, 'duration': 4.32}
+{'text': "because that's the only option we have", 'start': 814.079, 'duration': 3.361}
+{'text': 'when it comes to asking the state for', 'start': 816.0, 'duration': 3.36}
+{'text': 'any kind of interference unless you have', 'start': 817.44, 'duration': 3.36}
+{'text': 'a friend in the neighborhood of whatever', 'start': 819.36, 'duration': 3.36}
+{'text': "friend you're concerned about the state", 'start': 820.8, 'duration': 3.52}
+{'text': "has nothing else for you there's nothing", 'start': 822.72, 'duration': 2.72}
+{'text': "else you can send there's no other", 'start': 824.32, 'duration': 3.68}
+{'text': "number you can call it's the cops so we", 'start': 825.44, 'duration': 4.32}
+{'text': "in many cases we don't even have a", 'start': 828.0, 'duration': 3.519}
+{'text': 'normalization of the channels that', 'start': 829.76, 'duration': 3.759}
+{'text': 'people could go through to indicate they', 'start': 831.519, 'duration': 3.68}
+{'text': "want someone other than a cop but i'll", 'start': 833.519, 'duration': 4.081}
+{'text': 'say this i have called welfare checks on', 'start': 835.199, 'duration': 4.32}
+{'text': 'somebody because i was worried about', 'start': 837.6, 'duration': 4.16}
+{'text': 'them and i did have to call the cops but', 'start': 839.519, 'duration': 4.081}
+{'text': "i wouldn't have if there had been an", 'start': 841.76, 'duration': 4.56}
+{'text': 'alternative the cop was undesirable but', 'start': 843.6, 'duration': 4.799}
+{'text': 'preferable to the absence of information', 'start': 846.32, 'duration': 4.4}
+{'text': 'entirely and thankfully nothing happened', 'start': 848.399, 'duration': 4.24}
+{'text': "she was fine if so if we're doing yeah", 'start': 850.72, 'duration': 3.44}
+{'text': "so if we're making a welfare check on", 'start': 852.639, 'duration': 4.401}
+{'text': "somebody we're implicitly or explicitly", 'start': 854.16, 'duration': 4.32}
+{'text': "saying there's a chance that you're", 'start': 857.04, 'duration': 3.12}
+{'text': 'going to go to a house and the house', 'start': 858.48, 'duration': 3.359}
+{'text': "you're going to has a dead person inside", 'start': 860.16, 'duration': 3.52}
+{'text': 'you might even need to break into it', 'start': 861.839, 'duration': 2.641}
+{'text': 'like', 'start': 863.68, 'duration': 2.0}
+{'text': 'did we just send like a social worker', 'start': 864.48, 'duration': 2.24}
+{'text': 'there and then they either break in or', 'start': 865.68, 'duration': 2.08}
+{'text': 'when the social workers have nobody', 'start': 866.72, 'duration': 2.96}
+{'text': 'answers or do they call the cops that is', 'start': 867.76, 'duration': 4.72}
+{'text': 'an extraordinarily small fraction of the', 'start': 869.68, 'duration': 4.56}
+{'text': 'total range of again this would be like', 'start': 872.48, 'duration': 3.2}
+{'text': 'wait no no no okay you keep you keep', 'start': 874.24, 'duration': 2.719}
+{'text': 'trying to say like wait hold on you keep', 'start': 875.68, 'duration': 2.56}
+{'text': 'trying to say like this is a small', 'start': 876.959, 'duration': 3.68}
+{'text': 'fraction how often that is the case okay', 'start': 878.24, 'duration': 4.08}
+{'text': "it's not about how often it's about the", 'start': 880.639, 'duration': 3.841}
+{'text': "possibility of it there's always a", 'start': 882.32, 'duration': 4.72}
+{'text': 'possibility that any state action', 'start': 884.48, 'duration': 4.56}
+{'text': 'anytime you send anyone to fulfill any', 'start': 887.04, 'duration': 4.0}
+{'text': 'role at any house something horrible', 'start': 889.04, 'duration': 4.479}
+{'text': 'could happen now if you would ask the', 'start': 891.04, 'duration': 4.64}
+{'text': 'majority of people calling for a welfare', 'start': 893.519, 'duration': 4.961}
+{'text': 'check do you want a cop or a social', 'start': 895.68, 'duration': 5.2}
+{'text': 'worker sent to the house of that person', 'start': 898.48, 'duration': 4.08}
+{'text': 'i would be willing to bet a majority', 'start': 900.88, 'duration': 3.759}
+{'text': 'would ask for a social worker not all', 'start': 902.56, 'duration': 3.68}
+{'text': "but i do think that's a decision they", 'start': 904.639, 'duration': 4.0}
+{'text': 'should at least be able to make yeah', 'start': 906.24, 'duration': 4.32}
+{'text': "possibly i don't know if that's even a", 'start': 908.639, 'duration': 3.601}
+{'text': 'situation because there would have to be', 'start': 910.56, 'duration': 3.68}
+{'text': 'further explanation given there when', 'start': 912.24, 'duration': 4.08}
+{'text': "you're making a call for a welfare check", 'start': 914.24, 'duration': 3.599}
+{'text': "what you're telling the operator on the", 'start': 916.32, 'duration': 3.28}
+{'text': 'other end is there is a chance that', 'start': 917.839, 'duration': 2.961}
+{'text': "you're going through a residence that", 'start': 919.6, 'duration': 2.88}
+{'text': "you might need to break into and there's", 'start': 920.8, 'duration': 3.12}
+{'text': 'a chance that there might be a crime', 'start': 922.48, 'duration': 2.96}
+{'text': 'scene because there might be a body that', 'start': 923.92, 'duration': 4.24}
+{'text': 'is the entire point of a welfare check', 'start': 925.44, 'duration': 4.959}
+{'text': 'a welfare check means that there is', 'start': 928.16, 'duration': 4.16}
+{'text': 'somebody that you are concerned about in', 'start': 930.399, 'duration': 3.921}
+{'text': 'a house and you cannot get a hold of', 'start': 932.32, 'duration': 3.04}
+{'text': "them in any way so they're not", 'start': 934.32, 'duration': 2.72}
+{'text': 'responding to any sort of phone call', 'start': 935.36, 'duration': 3.279}
+{'text': "cell phone whatever and you don't have", 'start': 937.04, 'duration': 2.88}
+{'text': 'another friend that you can go check up', 'start': 938.639, 'duration': 2.961}
+{'text': "on so when you call an operator you're", 'start': 939.92, 'duration': 3.44}
+{'text': 'saying they could be dead there might be', 'start': 941.6, 'duration': 3.28}
+{'text': 'a crime scene you might need to break in', 'start': 943.36, 'duration': 3.279}
+{'text': "to check on that person that's the point", 'start': 944.88, 'duration': 3.759}
+{'text': 'of a welfare check', 'start': 946.639, 'duration': 3.921}
+{'text': 'right so when we generally have welfare', 'start': 948.639, 'duration': 3.921}
+{'text': "checks do you think that it's an initial", 'start': 950.56, 'duration': 4.079}
+{'text': 'first move or a good idea to just send', 'start': 952.56, 'duration': 4.079}
+{'text': "some cops they're willing to barge down", 'start': 954.639, 'duration': 3.521}
+{'text': 'and break down the door do you think', 'start': 956.639, 'duration': 3.44}
+{'text': "that that's like the best outcome when", 'start': 958.16, 'duration': 4.4}
+{'text': "most often we don't need these cops to", 'start': 960.079, 'duration': 5.12}
+{'text': 'come out here and you know handle these', 'start': 962.56, 'duration': 4.24}
+{'text': 'situations when we could have a social', 'start': 965.199, 'duration': 3.44}
+{'text': 'worker go knock check on the door make', 'start': 966.8, 'duration': 3.76}
+{'text': "sure the person's alive and then leave", 'start': 968.639, 'duration': 3.44}
+{'text': 'especially when cops are more', 'start': 970.56, 'duration': 4.0}
+{'text': 'threatening they are more intimidating', 'start': 972.079, 'duration': 4.0}
+{'text': 'and it definitely is going to make', 'start': 974.56, 'duration': 3.12}
+{'text': 'someone having a mental health crisis', 'start': 976.079, 'duration': 3.76}
+{'text': 'more on edge and more or feel more', 'start': 977.68, 'duration': 4.0}
+{'text': 'antagonized or feel more problematic so', 'start': 979.839, 'duration': 3.601}
+{'text': "like that's so that is that's a", 'start': 981.68, 'duration': 3.44}
+{'text': "potential thing but so here's the", 'start': 983.44, 'duration': 3.28}
+{'text': 'question then right since cops are', 'start': 985.12, 'duration': 3.12}
+{'text': 'hooked up to emts and can and can get', 'start': 986.72, 'duration': 2.799}
+{'text': 'all these people on the line very quick', 'start': 988.24, 'duration': 2.48}
+{'text': 'they usually have training when breaking', 'start': 989.519, 'duration': 2.56}
+{'text': "a train let's say that you think there", 'start': 990.72, 'duration': 2.799}
+{'text': "might be somebody that's suicidal you do", 'start': 992.079, 'duration': 2.88}
+{'text': "a welfare check okay but you don't think", 'start': 993.519, 'duration': 2.56}
+{'text': "they're like a threat to anybody you're", 'start': 994.959, 'duration': 2.32}
+{'text': "just like a little bit worried let's say", 'start': 996.079, 'duration': 2.401}
+{'text': 'that a social worker shows up to the', 'start': 997.279, 'duration': 2.321}
+{'text': "house they knock you times they don't", 'start': 998.48, 'duration': 2.96}
+{'text': "get an answer at this point there's two", 'start': 999.6, 'duration': 3.84}
+{'text': 'paths one are these social workers also', 'start': 1001.44, 'duration': 3.759}
+{'text': 'trained to like break and enter doors or', 'start': 1003.44, 'duration': 2.88}
+{'text': 'whatever are they ready to assume that', 'start': 1005.199, 'duration': 4.481}
+{'text': 'liability um if yes then they can okay', 'start': 1006.32, 'duration': 5.68}
+{'text': 'if no then now they have to call the', 'start': 1009.68, 'duration': 3.839}
+{'text': "police to do a break in entry let's say", 'start': 1012.0, 'duration': 2.72}
+{'text': 'that in the time you call the social', 'start': 1013.519, 'duration': 2.24}
+{'text': "worker and they're there the person's", 'start': 1014.72, 'duration': 2.479}
+{'text': 'like on the floor like choking on their', 'start': 1015.759, 'duration': 2.481}
+{'text': "own [\xa0__\xa0] tongue because they're", 'start': 1017.199, 'duration': 2.721}
+{'text': 'trying to od on some drug or whatever i', 'start': 1018.24, 'duration': 3.36}
+{'text': 'guess like like are you worried about', 'start': 1019.92, 'duration': 3.039}
+{'text': "the fact that now you're just causing", 'start': 1021.6, 'duration': 2.64}
+{'text': 'more and more time between like a', 'start': 1022.959, 'duration': 2.321}
+{'text': 'breaking and entering which you would', 'start': 1024.24, 'duration': 2.4}
+{'text': 'need to do to check in on some people', 'start': 1025.28, 'duration': 2.559}
+{'text': 'that might be in the process of killing', 'start': 1026.64, 'duration': 3.039}
+{'text': 'themselves like is there some number of', 'start': 1027.839, 'duration': 3.041}
+{'text': "like well it'll happen to one percent", 'start': 1029.679, 'duration': 2.24}
+{'text': 'okay', 'start': 1030.88, 'duration': 2.72}
+{'text': "wait wait wait wait wait wait wait i'm", 'start': 1031.919, 'duration': 3.04}
+{'text': 'gonna answer', 'start': 1033.6, 'duration': 3.359}
+{'text': "first of all first of all we're talking", 'start': 1034.959, 'duration': 5.041}
+{'text': 'again about fringe cases second of all', 'start': 1036.959, 'duration': 4.88}
+{'text': "i'm pretty sure you could train social", 'start': 1040.0, 'duration': 3.919}
+{'text': 'workers in that way and give them legal', 'start': 1041.839, 'duration': 5.84}
+{'text': 'permission in welfare checks', 'start': 1043.919, 'duration': 3.76}
+{'text': 'i want to get in here okay', 'start': 1048.799, 'duration': 3.041}
+{'text': 'i need to get involved with this i have', 'start': 1050.4, 'duration': 3.2}
+{'text': "a [\xa0__\xa0] question then i'd like to", 'start': 1051.84, 'duration': 3.68}
+{'text': "finish my response if that's okay fine", 'start': 1053.6, 'duration': 3.76}
+{'text': 'the biggest rebuttal to this is that the', 'start': 1055.52, 'duration': 3.6}
+{'text': 'first people you send for a welfare', 'start': 1057.36, 'duration': 3.92}
+{'text': "check aren't the cops it's your friends", 'start': 1059.12, 'duration': 4.24}
+{'text': "and family if they're nearby if we", 'start': 1061.28, 'duration': 3.6}
+{'text': 'really thought of welfare checks as', 'start': 1063.36, 'duration': 3.52}
+{'text': 'something like okay they could encounter', 'start': 1064.88, 'duration': 3.6}
+{'text': 'a dead body you know', 'start': 1066.88, 'duration': 3.28}
+{'text': 'there could be a threat then people', 'start': 1068.48, 'duration': 4.24}
+{'text': 'would always first call the police but', 'start': 1070.16, 'duration': 4.08}
+{'text': 'if they have friends and family in the', 'start': 1072.72, 'duration': 3.68}
+{'text': 'area those are always the first people', 'start': 1074.24, 'duration': 3.6}
+{'text': 'that you call when you want to check up', 'start': 1076.4, 'duration': 3.76}
+{'text': "on somebody's well-being clearly in", 'start': 1077.84, 'duration': 5.12}
+{'text': "practice welfare checks aren't like who", 'start': 1080.16, 'duration': 4.639}
+{'text': 'are you sending to collect the body', 'start': 1082.96, 'duration': 3.92}
+{'text': "we're talking about overwhelmingly a", 'start': 1084.799, 'duration': 5.12}
+{'text': 'situation where at most or sorry at', 'start': 1086.88, 'duration': 4.64}
+{'text': 'least you just check in on the house and', 'start': 1089.919, 'duration': 3.441}
+{'text': "see if anyone's there if", 'start': 1091.52, 'duration': 3.84}
+{'text': "anyone's in need of assistance and it", 'start': 1093.36, 'duration': 4.72}
+{'text': 'worse usually involve a situation that i', 'start': 1095.36, 'duration': 4.48}
+{'text': 'legitimately think a social worker would', 'start': 1098.08, 'duration': 3.92}
+{'text': 'be better trained for than a cop cops in', 'start': 1099.84, 'duration': 4.64}
+{'text': 'america i just would not trust dealing', 'start': 1102.0, 'duration': 4.4}
+{'text': 'with somebody in a mental health crisis', 'start': 1104.48, 'duration': 4.4}
+{'text': 'but a social worker could be trusted', 'start': 1106.4, 'duration': 4.8}
+{'text': 'because their interpersonal training', 'start': 1108.88, 'duration': 4.88}
+{'text': "hasn't been corrupted by the kind of", 'start': 1111.2, 'duration': 4.32}
+{'text': 'machismo laden', 'start': 1113.76, 'duration': 4.4}
+{'text': 'uh you know like police like us versus', 'start': 1115.52, 'duration': 7.519}
+{'text': 'them training that is a very firstly', 'start': 1118.16, 'duration': 4.879}
+{'text': "wait not just that but wouldn't it be", 'start': 1125.84, 'duration': 4.16}
+{'text': 'like a better option to send social', 'start': 1128.16, 'duration': 4.24}
+{'text': 'workers initially alone to check on this', 'start': 1130.0, 'duration': 4.32}
+{'text': 'premises and then they could have police', 'start': 1132.4, 'duration': 5.399}
+{'text': 'like buying them', 'start': 1134.32, 'duration': 3.479}
+{'text': 'so we could literally have police like', 'start': 1140.72, 'duration': 3.28}
+{'text': 'be down the street or they could wait in', 'start': 1142.48, 'duration': 2.88}
+{'text': 'the car and come with the social worker', 'start': 1144.0, 'duration': 2.88}
+{'text': 'and then the social worker can just go', 'start': 1145.36, 'duration': 4.92}
+{'text': 'sorry dude', 'start': 1146.88, 'duration': 3.4}
+{'text': "what yes yes because i don't want police", 'start': 1162.96, 'duration': 4.24}
+{'text': 'going in situations where someone might', 'start': 1165.12, 'duration': 3.36}
+{'text': 'kill themselves but the way you guys are', 'start': 1167.2, 'duration': 3.2}
+{'text': "surviving social workers it's just like", 'start': 1168.48, 'duration': 3.36}
+{'text': "a cop that you like better that doesn't", 'start': 1170.4, 'duration': 2.639}
+{'text': 'have a gun', 'start': 1171.84, 'duration': 3.199}
+{'text': 'yeah i mean that is essentially the case', 'start': 1173.039, 'duration': 6.401}
+{'text': 'this idea that like every cop is', 'start': 1175.039, 'duration': 4.401}
+{'text': "wait hold on that's an incredibly stupid", 'start': 1186.4, 'duration': 2.96}
+{'text': 'take', 'start': 1188.4, 'duration': 2.48}
+{'text': 'wait no the incredibly stupid take is', 'start': 1189.36, 'duration': 2.64}
+{'text': "that every cop that's going to show up", 'start': 1190.88, 'duration': 2.4}
+{'text': 'at the door is going to be some macho', 'start': 1192.0, 'duration': 2.96}
+{'text': "guy trying to mow you down they're just", 'start': 1193.28, 'duration': 3.12}
+{'text': 'chugging a monster energy drink and', 'start': 1194.96, 'duration': 3.04}
+{'text': "killing black people that's not what", 'start': 1196.4, 'duration': 2.399}
+{'text': "we'll do", 'start': 1198.0, 'duration': 2.559}
+{'text': 'wait wait wait wait wait wait wait the', 'start': 1198.799, 'duration': 2.801}
+{'text': 'idea', 'start': 1200.559, 'duration': 3.761}
+{'text': 'that people think of cops the same way', 'start': 1201.6, 'duration': 4.079}
+{'text': 'they would think of a social worker', 'start': 1204.32, 'duration': 3.12}
+{'text': "because they're both agents of the state", 'start': 1205.679, 'duration': 4.161}
+{'text': "is laughably dumb people don't look at a", 'start': 1207.44, 'duration': 5.04}
+{'text': 'cop and think oh that person works for a', 'start': 1209.84, 'duration': 5.36}
+{'text': "government they think that's a cop i'm", 'start': 1212.48, 'duration': 4.079}
+{'text': "not talking about optics i'm talking", 'start': 1215.2, 'duration': 2.64}
+{'text': "about what you're describing i mean if", 'start': 1216.559, 'duration': 2.561}
+{'text': 'we want to if we want to allude to the', 'start': 1217.84, 'duration': 3.12}
+{'text': 'polling data the majority of americans', 'start': 1219.12, 'duration': 3.6}
+{'text': 'have favorable views of cops anyway not', 'start': 1220.96, 'duration': 3.199}
+{'text': "every cop is like the videos that you're", 'start': 1222.72, 'duration': 2.959}
+{'text': 'seeing they have favorable views cops', 'start': 1224.159, 'duration': 3.441}
+{'text': "we're talking about your statement that", 'start': 1225.679, 'duration': 3.681}
+{'text': 'in mental health crises people would', 'start': 1227.6, 'duration': 3.6}
+{'text': 'view social workers about the same way', 'start': 1229.36, 'duration': 3.12}
+{'text': "as they viewed cops because they're both", 'start': 1231.2, 'duration': 2.64}
+{'text': "agents of the state okay i'm just", 'start': 1232.48, 'duration': 2.72}
+{'text': 'curious i just want to hear i just want', 'start': 1233.84, 'duration': 2.319}
+{'text': 'to hear your response to this do you', 'start': 1235.2, 'duration': 2.479}
+{'text': 'think a person experiencing a mental', 'start': 1236.159, 'duration': 3.441}
+{'text': 'health crisis that sees a state licensed', 'start': 1237.679, 'duration': 3.36}
+{'text': 'social worker coming views them in a', 'start': 1239.6, 'duration': 2.8}
+{'text': "favorable light i'm really curious what", 'start': 1241.039, 'duration': 3.12}
+{'text': 'you think of this more favorably than a', 'start': 1242.4, 'duration': 3.04}
+{'text': "cop i'd be willing to bet that's the", 'start': 1244.159, 'duration': 3.52}
+{'text': "case yes okay i i don't necessarily", 'start': 1245.44, 'duration': 4.239}
+{'text': "think that's a different uniform", 'start': 1247.679, 'duration': 3.521}
+{'text': 'no no i want to hear wait wait i want to', 'start': 1249.679, 'duration': 3.921}
+{'text': 'hear his rationalization for why someone', 'start': 1251.2, 'duration': 3.68}
+{'text': 'would think about it', 'start': 1253.6, 'duration': 3.28}
+{'text': 'exactly the same perfectly because', 'start': 1254.88, 'duration': 5.44}
+{'text': 'depending on your experience', 'start': 1256.88, 'duration': 3.44}
+{'text': 'got the badge and the guns and [\xa0__\xa0] like', 'start': 1260.48, 'duration': 3.199}
+{'text': "oh yeah that's the same as some dude in", 'start': 1262.159, 'duration': 3.361}
+{'text': 'a polo shirt who has like a little state', 'start': 1263.679, 'duration': 3.681}
+{'text': 'id on there yeah so i mean you can joke', 'start': 1265.52, 'duration': 3.519}
+{'text': 'about it', 'start': 1267.36, 'duration': 3.6}
+{'text': 'we can talk about how people perceive', 'start': 1269.039, 'duration': 4.0}
+{'text': "cops okay let's okay we can go to real", 'start': 1270.96, 'duration': 3.599}
+{'text': 'examples right now wait no no no no no', 'start': 1273.039, 'duration': 2.401}
+{'text': 'no hold on wait wait wait wait okay', 'start': 1274.559, 'duration': 2.881}
+{'text': 'jesus [\xa0__\xa0] christ okay so so for all', 'start': 1275.44, 'duration': 3.119}
+{'text': 'of you that none of you have experienced', 'start': 1277.44, 'duration': 2.0}
+{'text': 'with people that have mental health', 'start': 1278.559, 'duration': 2.48}
+{'text': "crises i understand that that's fine", 'start': 1279.44, 'duration': 3.52}
+{'text': "it's it's totally normal about me okay", 'start': 1281.039, 'duration': 4.321}
+{'text': 'yes all of you yes okay so people that', 'start': 1282.96, 'duration': 4.16}
+{'text': 'have had mental illness', 'start': 1285.36, 'duration': 2.88}
+{'text': 'people that i can tell by the way that', 'start': 1287.12, 'duration': 2.4}
+{'text': 'you talk so people that have had serious', 'start': 1288.24, 'duration': 2.88}
+{'text': 'mental health crisis', 'start': 1289.52, 'duration': 2.96}
+{'text': 'social workers would be considered', 'start': 1291.12, 'duration': 3.2}
+{'text': 'differently but no that you have no idea', 'start': 1292.48, 'duration': 4.0}
+{'text': 'how absolutely frightened somebody can', 'start': 1294.32, 'duration': 3.44}
+{'text': "be of a social worker that's", 'start': 1296.48, 'duration': 2.72}
+{'text': 'representing the state when it comes to', 'start': 1297.76, 'duration': 3.039}
+{'text': "a mental health crisis i'm only saying", 'start': 1299.2, 'duration': 5.12}
+{'text': 'they would probably be less so them', 'start': 1300.799, 'duration': 3.521}
+{'text': "i've never said that so if you're", 'start': 1308.4, 'duration': 3.04}
+{'text': 'somebody i can repeat it again if you', 'start': 1310.08, 'duration': 2.479}
+{'text': "need it i don't need you to repeat it", 'start': 1311.44, 'duration': 2.32}
+{'text': "you've done it three times", 'start': 1312.559, 'duration': 2.48}
+{'text': 'just to make sure', 'start': 1313.76, 'duration': 3.36}
+{'text': "you're not saying social workers", 'start': 1315.039, 'duration': 4.721}
+{'text': "can't be scary only that i think for", 'start': 1317.12, 'duration': 4.799}
+{'text': 'mental health crises cops would', 'start': 1319.76, 'duration': 5.039}
+{'text': 'generally be considered scarier', 'start': 1321.919, 'duration': 5.441}
+{'text': 'totally it totally depends on the type', 'start': 1324.799, 'duration': 3.601}
+{'text': 'of mental health crisis the person', 'start': 1327.36, 'duration': 2.24}
+{'text': "you're talking about so for instance if", 'start': 1328.4, 'duration': 3.519}
+{'text': "you're somebody that's already been like", 'start': 1329.6, 'duration': 4.64}
+{'text': 'forcibly [\xa0__\xa0] um not interned or', 'start': 1331.919, 'duration': 4.801}
+{'text': 'condemned uh committed like in the state', 'start': 1334.24, 'duration': 4.16}
+{'text': "like you're probably somebody that's", 'start': 1336.72, 'duration': 3.68}
+{'text': 'going to see a cop as being less scary', 'start': 1338.4, 'duration': 3.68}
+{'text': 'than a social worker like there are', 'start': 1340.4, 'duration': 4.159}
+{'text': "people that don't even seek help from", 'start': 1342.08, 'duration': 3.839}
+{'text': 'mental health professionals because they', 'start': 1344.559, 'duration': 3.921}
+{'text': 'are so [\xa0__\xa0] afraid of being committed', 'start': 1345.919, 'duration': 4.0}
+{'text': 'to an institution this is why byron', 'start': 1348.48, 'duration': 2.48}
+{'text': 'jumped at a [\xa0__\xa0] window and killed', 'start': 1349.919, 'duration': 2.24}
+{'text': 'himself instead of trying to find more', 'start': 1350.96, 'duration': 2.88}
+{'text': 'help because he had one bad experience', 'start': 1352.159, 'duration': 2.88}
+{'text': 'where he was committed to a mental', 'start': 1353.84, 'duration': 2.719}
+{'text': 'institution and he never wanted to talk', 'start': 1355.039, 'duration': 3.12}
+{'text': "to anybody related again it wouldn't", 'start': 1356.559, 'duration': 3.6}
+{'text': 'surprise me i know that they can but i', 'start': 1358.159, 'duration': 3.281}
+{'text': "don't know if most people know that it", 'start': 1360.159, 'duration': 3.76}
+{'text': "wouldn't surprise me if somebody saw", 'start': 1361.44, 'duration': 3.84}
+{'text': "you can laugh all you want but i don't", 'start': 1363.919, 'duration': 3.201}
+{'text': 'think that most people are the ones who', 'start': 1365.28, 'duration': 4.32}
+{'text': 'bring you to the hospital for the day', 'start': 1367.12, 'duration': 4.559}
+{'text': "i mean okay so they're the ones", 'start': 1369.6, 'duration': 3.6}
+{'text': 'i understand that cops definitely have', 'start': 1371.679, 'duration': 3.041}
+{'text': "the ability to do that but if you're", 'start': 1373.2, 'duration': 2.959}
+{'text': "talking about it they're breaking a lot", 'start': 1374.72, 'duration': 3.52}
+{'text': 'of stuff up to justify a position how', 'start': 1376.159, 'duration': 3.441}
+{'text': "many times you're going to cut me off", 'start': 1378.24, 'duration': 2.72}
+{'text': 'because you realize your entire argument', 'start': 1379.6, 'duration': 2.559}
+{'text': "is so [\xa0__\xa0] wait guys it's something", 'start': 1380.96, 'duration': 2.64}
+{'text': "we're totally missing you just keep", 'start': 1382.159, 'duration': 2.801}
+{'text': 'cutting me off i guess if you want to', 'start': 1383.6, 'duration': 2.88}
+{'text': "right so i'm just saying that if a", 'start': 1384.96, 'duration': 3.599}
+{'text': 'person is having a mental health crisis', 'start': 1386.48, 'duration': 3.84}
+{'text': 'the idea that they see a social worker', 'start': 1388.559, 'duration': 3.041}
+{'text': "show up and they're like hey what's up", 'start': 1390.32, 'duration': 2.32}
+{'text': "i'm here on behalf of the state of", 'start': 1391.6, 'duration': 2.64}
+{'text': 'california to check in on you that can', 'start': 1392.64, 'duration': 3.2}
+{'text': 'be an incredibly [\xa0__\xa0] terrifying', 'start': 1394.24, 'duration': 2.96}
+{'text': "experience as well i don't know if i", 'start': 1395.84, 'duration': 2.64}
+{'text': 'would sit here and try to figure out', 'start': 1397.2, 'duration': 2.32}
+{'text': 'juggling at the door well who are they', 'start': 1398.48, 'duration': 2.559}
+{'text': 'going to be more scared of when there', 'start': 1399.52, 'duration': 3.6}
+{'text': 'are like 50 more reasons to have cops it', 'start': 1401.039, 'duration': 3.441}
+{'text': "seems like it's better to just either", 'start': 1403.12, 'duration': 3.2}
+{'text': 'always send a cop or at least a cop plus', 'start': 1404.48, 'duration': 3.199}
+{'text': "a social worker but i don't think you're", 'start': 1406.32, 'duration': 2.8}
+{'text': 'ever sitting just a social worker', 'start': 1407.679, 'duration': 2.721}
+{'text': 'because people are scared of cops it', 'start': 1409.12, 'duration': 2.4}
+{'text': "doesn't make any sense destiny you", 'start': 1410.4, 'duration': 2.399}
+{'text': "haven't considered the fact that maybe", 'start': 1411.52, 'duration': 3.039}
+{'text': 'people are just as scared or more scared', 'start': 1412.799, 'duration': 4.321}
+{'text': 'of social workers than police officers', 'start': 1414.559, 'duration': 3.681}
+{'text': "isn't that what i just said i'm just", 'start': 1417.12, 'duration': 2.88}
+{'text': "repeating bosch's point no sorry okay", 'start': 1418.24, 'duration': 2.88}
+{'text': 'yeah', 'start': 1420.0, 'duration': 3.12}
+{'text': 'yeah so uh anyway', 'start': 1421.12, 'duration': 4.159}
+{'text': "no i'm pretty sure that by any available", 'start': 1423.12, 'duration': 4.32}
+{'text': 'data we have most people fear or', 'start': 1425.279, 'duration': 4.321}
+{'text': 'distrust cops more often they do social', 'start': 1427.44, 'duration': 4.32}
+{'text': 'workers because social workers are like', 'start': 1429.6, 'duration': 4.079}
+{'text': 'the most innocuous and non-threatening', 'start': 1431.76, 'duration': 3.279}
+{'text': "agents of the state you're probably", 'start': 1433.679, 'duration': 2.801}
+{'text': 'going to have a direct interaction with', 'start': 1435.039, 'duration': 3.681}
+{'text': 'in most cases okay cops also have wait', 'start': 1436.48, 'duration': 5.76}
+{'text': 'hold on so the idea that to a person', 'start': 1438.72, 'duration': 6.24}
+{'text': 'undergoing a mental health crisis a cop', 'start': 1442.24, 'duration': 4.559}
+{'text': 'is a more welcome site than a social', 'start': 1444.96, 'duration': 4.0}
+{'text': "worker is to me something i'd like to", 'start': 1446.799, 'duration': 3.601}
+{'text': "see borne out in data i don't know if we", 'start': 1448.96, 'duration': 2.56}
+{'text': "can find in on that but i'm just going", 'start': 1450.4, 'duration': 2.879}
+{'text': 'to tell you okay i understand that can', 'start': 1451.52, 'duration': 3.759}
+{'text': "you find beta i can't i can't find you", 'start': 1453.279, 'duration': 3.921}
+{'text': 'data on how many people prefer a social', 'start': 1455.279, 'duration': 3.201}
+{'text': 'how many people get a mental health', 'start': 1457.2, 'duration': 2.8}
+{'text': 'crisis for a social worker and a cop', 'start': 1458.48, 'duration': 3.199}
+{'text': "here's what i will say broadly speaking", 'start': 1460.0, 'duration': 2.96}
+{'text': "you're a vital here is what i say", 'start': 1461.679, 'duration': 2.561}
+{'text': 'broadly', 'start': 1462.96, 'duration': 2.8}
+{'text': 'i can give you all i can provide are my', 'start': 1464.24, 'duration': 3.52}
+{'text': "anecdotes okay here's what i can say", 'start': 1465.76, 'duration': 4.08}
+{'text': 'broadly speaking okay because at least i', 'start': 1467.76, 'duration': 3.76}
+{'text': 'have some because apparently nobody here', 'start': 1469.84, 'duration': 4.0}
+{'text': "is talks and social workers yes i've had", 'start': 1471.52, 'duration': 4.0}
+{'text': "cps show up to my house before i've had", 'start': 1473.84, 'duration': 3.04}
+{'text': 'police officers show up to my house for', 'start': 1475.52, 'duration': 3.36}
+{'text': "domestic violence disputes um i've had", 'start': 1476.88, 'duration': 3.36}
+{'text': 'all sorts of mental health check i', 'start': 1478.88, 'duration': 2.96}
+{'text': "didn't know a mental health check i", 'start': 1480.24, 'duration': 3.439}
+{'text': "don't think i've had that experience", 'start': 1481.84, 'duration': 2.88}
+{'text': 'i just want to address what i just want', 'start': 1483.679, 'duration': 2.401}
+{'text': 'to just one thing real quick okay people', 'start': 1484.72, 'duration': 2.8}
+{'text': 'seem i know that like when we talk about', 'start': 1486.08, 'duration': 2.64}
+{'text': 'socialism and left-leaning government', 'start': 1487.52, 'duration': 2.48}
+{'text': 'stuff online we have these really great', 'start': 1488.72, 'duration': 3.12}
+{'text': 'views of social workers in the state', 'start': 1490.0, 'duration': 4.0}
+{'text': 'okay to a lot of people especially', 'start': 1491.84, 'duration': 4.64}
+{'text': "people that have it's absolutely not", 'start': 1494.0, 'duration': 3.84}
+{'text': 'when you are a person that has had', 'start': 1496.48, 'duration': 3.04}
+{'text': 'negative run-ins with the state the', 'start': 1497.84, 'duration': 3.52}
+{'text': 'state can be incredibly [\xa0__\xa0]', 'start': 1499.52, 'duration': 4.0}
+{'text': "terrifying to deal with when you've got", 'start': 1501.36, 'duration': 3.76}
+{'text': 'child protective interaction they have', 'start': 1503.52, 'duration': 3.36}
+{'text': "hold on when you've got child protective", 'start': 1505.12, 'duration': 4.0}
+{'text': 'negative interaction yeah i i have to', 'start': 1506.88, 'duration': 3.84}
+{'text': "finish a sentence okay if you've been", 'start': 1509.12, 'duration': 3.439}
+{'text': "somebody that's had run-ins it could be", 'start': 1510.72, 'duration': 4.0}
+{'text': 'the police it could be social workers it', 'start': 1512.559, 'duration': 4.24}
+{'text': 'could be child protective services it', 'start': 1514.72, 'duration': 3.92}
+{'text': 'could be people related to tax collector', 'start': 1516.799, 'duration': 3.601}
+{'text': 'there are all sorts of agents of the', 'start': 1518.64, 'duration': 3.44}
+{'text': 'state where you might have a really', 'start': 1520.4, 'duration': 3.36}
+{'text': 'friendly fuzzy view of them but if', 'start': 1522.08, 'duration': 3.12}
+{'text': "somebody's had negative run-ins with the", 'start': 1523.76, 'duration': 3.44}
+{'text': 'state these can be the most terrifying', 'start': 1525.2, 'duration': 3.359}
+{'text': 'people that you ever deal with in your', 'start': 1527.2, 'duration': 3.599}
+{'text': 'life', 'start': 1528.559, 'duration': 2.24}
+{'text': 'mental health also ha involves sometimes', 'start': 1531.6, 'duration': 6.72}
+{'text': 'right the neglect of um of family', 'start': 1535.279, 'duration': 5.841}
+{'text': 'members or the you know the', 'start': 1538.32, 'duration': 5.2}
+{'text': 'aggression towards other people right uh', 'start': 1541.12, 'duration': 4.48}
+{'text': 'like every mental health case is going', 'start': 1543.52, 'duration': 3.519}
+{'text': 'to be different', 'start': 1545.6, 'duration': 4.24}
+{'text': 'so yeah any any case of anything is', 'start': 1547.039, 'duration': 4.801}
+{'text': 'going to be different um i think that if', 'start': 1549.84, 'duration': 3.6}
+{'text': "we i think that while there isn't going", 'start': 1551.84, 'duration': 3.92}
+{'text': 'to be specific data on the fear people', 'start': 1553.44, 'duration': 4.32}
+{'text': 'have of cops versus social workers you', 'start': 1555.76, 'duration': 3.68}
+{'text': "think it's reasonable to say given the", 'start': 1557.76, 'duration': 3.279}
+{'text': 'fact that we do know many americans', 'start': 1559.44, 'duration': 3.2}
+{'text': 'distrust the police or the very least', 'start': 1561.039, 'duration': 3.041}
+{'text': "are anxious around them that's very", 'start': 1562.64, 'duration': 2.32}
+{'text': 'common', 'start': 1564.08, 'duration': 3.28}
+{'text': 'a mental health crisis is a time where', 'start': 1564.96, 'duration': 4.16}
+{'text': 'those fears could be elevated and you', 'start': 1567.36, 'duration': 3.439}
+{'text': 'would be more likely to be amicable', 'start': 1569.12, 'duration': 3.2}
+{'text': 'towards a guy in a polo shirt with like', 'start': 1570.799, 'duration': 4.48}
+{'text': 'an id badge than somebody in what cops', 'start': 1572.32, 'duration': 5.599}
+{'text': 'wear which is some combo of military and', 'start': 1575.279, 'duration': 5.28}
+{'text': 'police gear i think the reason why', 'start': 1577.919, 'duration': 4.161}
+{'text': "you don't understand what those social", 'start': 1580.559, 'duration': 2.561}
+{'text': 'workers', 'start': 1582.08, 'duration': 3.28}
+{'text': 'me to interrupt less wait you talk like', 'start': 1583.12, 'duration': 3.679}
+{'text': '20 minutes of your time i just keep', 'start': 1585.36, 'duration': 2.96}
+{'text': 'cutting you off you coming up 30 times', 'start': 1586.799, 'duration': 3.681}
+{'text': "you don't understand what those social", 'start': 1588.32, 'duration': 3.28}
+{'text': "you don't understand what those social", 'start': 1590.48, 'duration': 2.64}
+{'text': 'workers', 'start': 1591.6, 'duration': 2.48}
+{'text': "it's fine", 'start': 1593.12, 'duration': 3.439}
+{'text': "so most people's negative experiences", 'start': 1594.08, 'duration': 4.959}
+{'text': 'with the state are going to be with cops', 'start': 1596.559, 'duration': 4.72}
+{'text': "not social workers so if you're talking", 'start': 1599.039, 'duration': 3.841}
+{'text': 'about pre-existing biases against the', 'start': 1601.279, 'duration': 3.041}
+{'text': "state i don't think there are people out", 'start': 1602.88, 'duration': 3.039}
+{'text': 'there like yeah man i had a bad run-up', 'start': 1604.32, 'duration': 3.359}
+{'text': 'with the state those social workers [\xa0__\xa0]', 'start': 1605.919, 'duration': 3.441}
+{'text': "you up it's probably it's usually cops", 'start': 1607.679, 'duration': 4.0}
+{'text': 'eps it could be it can be your probation', 'start': 1609.36, 'duration': 3.439}
+{'text': "officer like the thing is you just don't", 'start': 1611.679, 'duration': 2.721}
+{'text': "know anybody that's had negative runs of", 'start': 1612.799, 'duration': 2.641}
+{'text': "the state because you don't you don't", 'start': 1614.4, 'duration': 1.84}
+{'text': "you don't understand what that", 'start': 1615.44, 'duration': 2.96}
+{'text': "experience is like and so you see you're", 'start': 1616.24, 'duration': 4.16}
+{'text': 'talking so closely like oh well the only', 'start': 1618.4, 'duration': 3.279}
+{'text': 'people that are truly scared of the', 'start': 1620.4, 'duration': 2.879}
+{'text': 'state are like poor black people that', 'start': 1621.679, 'duration': 2.961}
+{'text': "get murdered by cops like that's your", 'start': 1623.279, 'duration': 2.561}
+{'text': 'only experience because on twitter', 'start': 1624.64, 'duration': 2.56}
+{'text': "that's the only connection you have to", 'start': 1625.84, 'duration': 3.12}
+{'text': 'people that have run through the stage', 'start': 1627.2, 'duration': 3.68}
+{'text': "no it's i'm not projecting i'm i'm going", 'start': 1628.96, 'duration': 3.199}
+{'text': "with exactly what you're saying it's", 'start': 1630.88, 'duration': 3.44}
+{'text': "true i'm just saying that for you to say", 'start': 1632.159, 'duration': 3.601}
+{'text': 'who are you talking to right now for you', 'start': 1634.32, 'duration': 2.8}
+{'text': 'to come out and say', 'start': 1635.76, 'duration': 2.799}
+{'text': 'for you to come out and say the only', 'start': 1637.12, 'duration': 2.72}
+{'text': 'negative interactions you truly would', 'start': 1638.559, 'duration': 2.801}
+{'text': "say generally they're with police there", 'start': 1639.84, 'duration': 3.52}
+{'text': 'are tons of negative social interactions', 'start': 1641.36, 'duration': 3.36}
+{'text': 'that you can have with that with the', 'start': 1643.36, 'duration': 2.72}
+{'text': "state that aren't police now for wealthy", 'start': 1644.72, 'duration': 3.12}
+{'text': "or middle class people generally it's", 'start': 1646.08, 'duration': 3.599}
+{'text': 'not it can be but it could be others as', 'start': 1647.84, 'duration': 3.28}
+{'text': "well if you're the type person that has", 'start': 1649.679, 'duration': 2.961}
+{'text': 'mental health crises it might be a', 'start': 1651.12, 'duration': 3.919}
+{'text': "social worker right wait hold on i don't", 'start': 1652.64, 'duration': 4.159}
+{'text': "know why it's it's very indicative to me", 'start': 1655.039, 'duration': 2.961}
+{'text': "that you don't have a point to make when", 'start': 1656.799, 'duration': 3.521}
+{'text': "i say it's probably the police and your", 'start': 1658.0, 'duration': 3.84}
+{'text': 'counter argument is it could be other', 'start': 1660.32, 'duration': 3.12}
+{'text': "things that's what it probably means", 'start': 1661.84, 'duration': 2.4}
+{'text': 'because', 'start': 1663.44, 'duration': 2.8}
+{'text': "because it's probably when we talk about", 'start': 1664.24, 'duration': 4.159}
+{'text': 'the broader population the most common', 'start': 1666.24, 'duration': 3.84}
+{'text': "social type like employee you're going", 'start': 1668.399, 'duration': 2.88}
+{'text': 'to run into is going to be the police', 'start': 1670.08, 'duration': 2.479}
+{'text': "but if you're somebody that has mental", 'start': 1671.279, 'duration': 2.64}
+{'text': 'health issues that might not be the most', 'start': 1672.559, 'duration': 2.48}
+{'text': 'common type of person it might be a', 'start': 1673.919, 'duration': 2.321}
+{'text': 'social worker it might be somebody', 'start': 1675.039, 'duration': 2.24}
+{'text': "representing the state that's about to", 'start': 1676.24, 'duration': 2.159}
+{'text': '[\xa0__\xa0] commit you somewhere because', 'start': 1677.279, 'duration': 2.561}
+{'text': "you're a threat to yourself this is why", 'start': 1678.399, 'duration': 2.88}
+{'text': "some people don't even go to therapy", 'start': 1679.84, 'duration': 2.48}
+{'text': "because they're so scared that if they", 'start': 1681.279, 'duration': 2.481}
+{'text': 'say something that sounds suicidal', 'start': 1682.32, 'duration': 2.56}
+{'text': "they're going to get deferred or", 'start': 1683.76, 'duration': 2.32}
+{'text': "reported to social services and they're", 'start': 1684.88, 'duration': 2.799}
+{'text': 'going to be committed somewhere pops', 'start': 1686.08, 'duration': 3.92}
+{'text': "more than a social worker it's not about", 'start': 1687.679, 'duration': 3.6}
+{'text': 'i would be more okay with cops and', 'start': 1690.0, 'duration': 2.64}
+{'text': "social workers for reasons that aren't", 'start': 1691.279, 'duration': 3.441}
+{'text': "related this is this is so we don't", 'start': 1692.64, 'duration': 3.759}
+{'text': 'really have anything to go off here but', 'start': 1694.72, 'duration': 3.679}
+{'text': "destiny's intuition in spite of the fact", 'start': 1696.399, 'duration': 4.16}
+{'text': 'that data on anxiety around police is', 'start': 1698.399, 'duration': 4.481}
+{'text': 'recorded you have no data what are you', 'start': 1700.559, 'duration': 3.521}
+{'text': 'talking about', 'start': 1702.88, 'duration': 2.399}
+{'text': "wait wait why are you pretending you're", 'start': 1704.08, 'duration': 2.88}
+{'text': 'making data-driven arguments hold on', 'start': 1705.279, 'duration': 3.921}
+{'text': "there's no data on whether or not people", 'start': 1706.96, 'duration': 3.599}
+{'text': 'tend to feel uncomfortable around the', 'start': 1709.2, 'duration': 2.56}
+{'text': "police that's not what we're asking", 'start': 1710.559, 'duration': 2.641}
+{'text': "there's no data", 'start': 1711.76, 'duration': 3.279}
+{'text': "there's no way there's no data hold on", 'start': 1713.2, 'duration': 3.12}
+{'text': "there's no data on whether or not", 'start': 1715.039, 'duration': 3.12}
+{'text': 'sending a police officer or a social', 'start': 1716.32, 'duration': 3.12}
+{'text': 'worker to somebody having a mental', 'start': 1718.159, 'duration': 2.481}
+{'text': 'health crisis is going to have a better', 'start': 1719.44, 'duration': 2.479}
+{'text': 'outcome or is going to make them', 'start': 1720.64, 'duration': 2.56}
+{'text': 'alleviate some concerns you should', 'start': 1721.919, 'duration': 2.721}
+{'text': 'listen a little better i specifically', 'start': 1723.2, 'duration': 3.12}
+{'text': 'said we have data and whether people', 'start': 1724.64, 'duration': 3.519}
+{'text': 'feel anxious around the police', 'start': 1726.32, 'duration': 3.52}
+{'text': 'people in general i feel like at least', 'start': 1728.159, 'duration': 3.361}
+{'text': "in traffic that's not the same very", 'start': 1729.84, 'duration': 4.959}
+{'text': 'tangentially on the mental um welfare', 'start': 1731.52, 'duration': 5.92}
+{'text': 'check issue which was kind of a side', 'start': 1734.799, 'duration': 4.721}
+{'text': 'issue to the broader point that i made', 'start': 1737.44, 'duration': 4.0}
+{'text': 'police get called to a ton of stuff', 'start': 1739.52, 'duration': 3.6}
+{'text': "we're hyper fixating right now and how", 'start': 1741.44, 'duration': 4.08}
+{'text': 'fearful people would be of which type of', 'start': 1743.12, 'duration': 4.32}
+{'text': "and i think i'm completely right on that", 'start': 1745.52, 'duration': 4.0}
+{'text': 'mind but there are also tons of things', 'start': 1747.44, 'duration': 4.56}
+{'text': "that cops do that they don't need to do", 'start': 1749.52, 'duration': 4.72}
+{'text': "cops agree on this they agree they're", 'start': 1752.0, 'duration': 3.84}
+{'text': 'overworked they know that a lot of their', 'start': 1754.24, 'duration': 5.12}
+{'text': 'work is paperwork and doing rotes uh you', 'start': 1755.84, 'duration': 5.12}
+{'text': 'know bureaucratic stuff that could be', 'start': 1759.36, 'duration': 3.679}
+{'text': "done very well by anyone else who's", 'start': 1760.96, 'duration': 4.0}
+{'text': 'literate or has basic interpersonal', 'start': 1763.039, 'duration': 4.24}
+{'text': "skills and all i'm really asking and", 'start': 1764.96, 'duration': 4.48}
+{'text': 'this is awesome', 'start': 1767.279, 'duration': 4.161}
+{'text': 'is we should be uh', 'start': 1769.44, 'duration': 4.08}
+{'text': 'open to the possibility that we should', 'start': 1771.44, 'duration': 3.76}
+{'text': "be more specialized there is data that's", 'start': 1773.52, 'duration': 3.039}
+{'text': "sending solutions because we're never", 'start': 1775.2, 'duration': 2.719}
+{'text': 'going to have data on any of these', 'start': 1776.559, 'duration': 2.801}
+{'text': "things until we're more accepting of", 'start': 1777.919, 'duration': 3.281}
+{'text': "social workers being sent out let's", 'start': 1779.36, 'duration': 3.6}
+{'text': 'start with them doing stuff that we know', 'start': 1781.2, 'duration': 3.52}
+{'text': 'has like a zero percent chance of', 'start': 1782.96, 'duration': 5.199}
+{'text': 'inciting violence like noise complaints', 'start': 1784.72, 'duration': 6.079}
+{'text': 'or uh there was a robbery at my house', 'start': 1788.159, 'duration': 4.561}
+{'text': 'can you come do some paperwork stuff', 'start': 1790.799, 'duration': 4.161}
+{'text': 'like that to my knowledge these are not', 'start': 1792.72, 'duration': 3.76}
+{'text': 'the types of things that lead to', 'start': 1794.96, 'duration': 3.12}
+{'text': 'violence we can start with that those', 'start': 1796.48, 'duration': 3.28}
+{'text': 'two on their own that would probably', 'start': 1798.08, 'duration': 4.479}
+{'text': 'take away 10 to 15 percent of the', 'start': 1799.76, 'duration': 5.039}
+{'text': 'time that cops spend on out there and', 'start': 1802.559, 'duration': 3.921}
+{'text': 'that would be and social workers are', 'start': 1804.799, 'duration': 3.201}
+{'text': 'much less expensive than cops let me', 'start': 1806.48, 'duration': 2.88}
+{'text': "tell you that okay but not if you're", 'start': 1808.0, 'duration': 2.88}
+{'text': 'talking about endowing them with all the', 'start': 1809.36, 'duration': 2.96}
+{'text': 'liabilities and all the training like', 'start': 1810.88, 'duration': 3.039}
+{'text': "yeah they're more they're less expensive", 'start': 1812.32, 'duration': 3.12}
+{'text': "than cops they're less expensive than", 'start': 1813.919, 'duration': 2.561}
+{'text': "cops because they don't have the", 'start': 1815.44, 'duration': 2.479}
+{'text': 'training like break into places or', 'start': 1816.48, 'duration': 2.88}
+{'text': 'assume the liability to do that or have', 'start': 1817.919, 'duration': 2.801}
+{'text': 'to go and write and file police reports', 'start': 1819.36, 'duration': 2.4}
+{'text': "of course they're cheaper they have less", 'start': 1820.72, 'duration': 4.16}
+{'text': 'responsibility so far is the two things', 'start': 1821.76, 'duration': 5.039}
+{'text': 'both of which require basic literacy and', 'start': 1824.88, 'duration': 4.08}
+{'text': 'interpersonal skills they could be done', 'start': 1826.799, 'duration': 4.401}
+{'text': 'by pretty much anyone competent enough', 'start': 1828.96, 'duration': 4.719}
+{'text': 'to be a social worker and i also think', 'start': 1831.2, 'duration': 4.4}
+{'text': 'there are benefits to doing that because', 'start': 1833.679, 'duration': 2.88}
+{'text': 'again', 'start': 1835.6, 'duration': 3.199}
+{'text': "there's something inherently escalatory", 'start': 1836.559, 'duration': 4.561}
+{'text': 'about cops in this country we recognize', 'start': 1838.799, 'duration': 4.161}
+{'text': "that they're trained that way and", 'start': 1841.12, 'duration': 3.919}
+{'text': 'uh we know how people tend to perceive', 'start': 1842.96, 'duration': 3.599}
+{'text': 'police officers with the way they dress', 'start': 1845.039, 'duration': 3.681}
+{'text': "and act uh that social workers don't", 'start': 1846.559, 'duration': 4.48}
+{'text': "really do so to be clear the cops aren't", 'start': 1848.72, 'duration': 4.24}
+{'text': 'supposed to be inherently escalatory', 'start': 1851.039, 'duration': 3.36}
+{'text': 'cops are supposed to be inherently deep', 'start': 1852.96, 'duration': 3.76}
+{'text': 'as they were supposed to be but no they', 'start': 1854.399, 'duration': 4.321}
+{'text': 'just are when you when you call a police', 'start': 1856.72, 'duration': 3.28}
+{'text': 'officer', 'start': 1858.72, 'duration': 2.799}
+{'text': 'when you pull up when you call a police', 'start': 1860.0, 'duration': 2.88}
+{'text': 'officer the point of calling the police', 'start': 1861.519, 'duration': 2.801}
+{'text': 'officer is to de-escalate a situation', 'start': 1862.88, 'duration': 2.399}
+{'text': "because it's heading in a direction that", 'start': 1864.32, 'duration': 2.16}
+{'text': "you don't want it to go that's the", 'start': 1865.279, 'duration': 2.081}
+{'text': "that's the reason the point that's the", 'start': 1866.48, 'duration': 1.919}
+{'text': 'reason why', 'start': 1867.36, 'duration': 2.48}
+{'text': 'there could be a number of things no', 'start': 1868.399, 'duration': 2.241}
+{'text': 'also', 'start': 1869.84, 'duration': 2.48}
+{'text': 'i actually need to move on from this', 'start': 1870.64, 'duration': 3.919}
+{'text': 'topic because we this is like', 'start': 1872.32, 'duration': 3.68}
+{'text': 'well you brought destiny on because he', 'start': 1874.559, 'duration': 2.72}
+{'text': 'wanted to talk with me i mean this was', 'start': 1876.0, 'duration': 2.88}
+{'text': 'kind of enough no i brought i came on', 'start': 1877.279, 'duration': 2.721}
+{'text': 'because i hate hearing people give', 'start': 1878.88, 'duration': 3.84}
+{'text': 'shitty takes about like what social work', 'start': 1880.0, 'duration': 4.0}
+{'text': "because i'm because i get linked", 'start': 1882.72, 'duration': 3.36}
+{'text': 'political [\xa0__\xa0] on my stream because you', 'start': 1884.0, 'duration': 3.679}
+{'text': "were listening and you got fuming didn't", 'start': 1886.08, 'duration': 3.839}
+{'text': "you i didn't get fuming i just get upset", 'start': 1887.679, 'duration': 3.681}
+{'text': 'when people say stupid [\xa0__\xa0] like a', 'start': 1889.919, 'duration': 3.921}
+{'text': 'welfare checklist', 'start': 1891.36, 'duration': 3.84}
+{'text': 'how many times are you going to keep', 'start': 1893.84, 'duration': 3.36}
+{'text': 'interrupting me', 'start': 1895.2, 'duration': 2.719}
+{'text': 'like', 'start': 1897.2, 'duration': 2.64}
+{'text': 'holy [\xa0__\xa0] this is the beginning of every', 'start': 1897.919, 'duration': 4.64}
+{'text': "[\xa0__\xa0] gay porno it's like", 'start': 1899.84, 'duration': 4.319}
+{'text': "they walk out to each other and they're", 'start': 1902.559, 'duration': 3.36}
+{'text': "like no i'm gonna [\xa0__\xa0] you no i'm gonna", 'start': 1904.159, 'duration': 3.52}
+{'text': "[\xa0__\xa0] you and then it's like it's", 'start': 1905.919, 'duration': 3.441}
+{'text': "literally what it's like watching the", 'start': 1907.679, 'duration': 3.12}
+{'text': 'beginning of a gay pawn yeah when i hear', 'start': 1909.36, 'duration': 2.88}
+{'text': "this information online that's", 'start': 1910.799, 'duration': 3.12}
+{'text': 'incredibly important i usually like to', 'start': 1912.24, 'duration': 3.6}
+{'text': 'come on and correct the misinformation', 'start': 1913.919, 'duration': 4.0}
+{'text': 'really turned on', 'start': 1915.84, 'duration': 4.079}
+{'text': 'a welfare check is when someone shows a', 'start': 1917.919, 'duration': 5.201}
+{'text': 'monster and kicks down the door', 'start': 1919.919, 'duration': 3.201}
+{'text': 'i gotta open up the window oh my god hey', 'start': 1924.0, 'duration': 4.0}
+{'text': 'i appreciate it but we gotta move on to', 'start': 1926.159, 'duration': 4.24}
+{'text': 'the you know the very serious ms paint', 'start': 1928.0, 'duration': 3.6}
+{'text': 'round so', 'start': 1930.399, 'duration': 4.64}
+{'text': 'i just wanna ask destiny would you', 'start': 1931.6, 'duration': 4.64}
+{'text': 'rather', 'start': 1935.039, 'duration': 4.081}
+{'text': '[\xa0__\xa0] a vampire or a werewolf this is for', 'start': 1936.24, 'duration': 5.6}
+{'text': 'science oh that is a very important', 'start': 1939.12, 'duration': 4.32}
+{'text': "question it's the right answer here", 'start': 1941.84, 'duration': 3.52}
+{'text': 'probably a vampire', 'start': 1943.44, 'duration': 4.0}
+{'text': 'yes okay so actually the real question', 'start': 1945.36, 'duration': 4.319}
+{'text': 'for this is right we were talking about', 'start': 1947.44, 'duration': 3.76}
+{'text': "like because it's halloween you know", 'start': 1949.679, 'duration': 4.081}
+{'text': 'halloween question um so we were talking', 'start': 1951.2, 'duration': 4.959}
+{'text': "about um if vampires didn't suck blood", 'start': 1953.76, 'duration': 4.399}
+{'text': 'and they suck dicks instead right but', 'start': 1956.159, 'duration': 4.24}
+{'text': 'when they suck your dick like they', 'start': 1958.159, 'duration': 3.921}
+{'text': "they've had like thousands of years of", 'start': 1960.399, 'duration': 3.201}
+{'text': 'experience so they give you the best', 'start': 1962.08, 'duration': 4.079}
+{'text': 'like dick sucking ever right but as a', 'start': 1963.6, 'duration': 4.72}
+{'text': 'result of them sucking your dick', 'start': 1966.159, 'duration': 5.601}
+{'text': 'you get an insatiable need to suck dick', 'start': 1968.32, 'duration': 6.52}
+{'text': 'like uh like a on a frequent', 'start': 1971.76, 'duration': 7.039}
+{'text': 'basis so would you let', 'start': 1974.84, 'duration': 3.959}
+{'text': 'i just wanted to be immortal that was my', 'start': 1978.88, 'duration': 3.44}
+{'text': 'the extent of my analysis okay being a', 'start': 1980.559, 'duration': 4.24}
+{'text': 'mortal vampire sounds pretty cool dick', 'start': 1982.32, 'duration': 4.4}
+{'text': 'sure yeah but you will be', 'start': 1984.799, 'duration': 3.36}
+{'text': "with the if you're a dick sucking", 'start': 1986.72, 'duration': 3.199}
+{'text': 'vampire you would you would be well if', 'start': 1988.159, 'duration': 3.441}
+{'text': "you're a werewolf you just [\xa0__\xa0]", 'start': 1989.919, 'duration': 3.12}
+{'text': 'everywhere and get mad every full moon', 'start': 1991.6, 'duration': 2.559}
+{'text': "and do nothing i know we're all seems", 'start': 1993.039, 'duration': 3.12}
+{'text': 'like they kind of suck', 'start': 1994.159, 'duration': 4.0}
+{'text': "they're hairy i'm not i'm not a fan of", 'start': 1996.159, 'duration': 4.081}
+{'text': "that i'll debate you on the hippy dippy", 'start': 1998.159, 'duration': 4.081}
+{'text': "if that's the topic i'm a werewolf", 'start': 2000.24, 'duration': 4.559}
+{'text': 'enjoyer', 'start': 2002.24, 'duration': 2.559}
+{'text': "hello you're on my [\xa0__\xa0] panel here", 'start': 2014.96, 'duration': 4.559}
+{'text': 'okay yeah i was the one who brought up', 'start': 2017.12, 'duration': 5.12}
+{'text': 'the vampires', 'start': 2019.519, 'duration': 2.721}
+{'text': "i'm just saying and i won that topic by", 'start': 2023.2, 'duration': 3.92}
+{'text': 'the way just sure', 'start': 2025.519, 'duration': 4.081}
+{'text': 'yep totally i totally won that stuff', 'start': 2027.12, 'duration': 4.799}
+{'text': 'okay so ms paint um guys can you get out', 'start': 2029.6, 'duration': 4.16}
+{'text': 'your ms paints please', 'start': 2031.919, 'duration': 3.76}
+{'text': 'can i cheat and use my twenty four', 'start': 2033.76, 'duration': 4.56}
+{'text': 'hundred dollar cintiq with my um', 'start': 2035.679, 'duration': 3.441}
+{'text': 'no', 'start': 2038.32, 'duration': 1.599}
+{'text': 'no', 'start': 2039.12, 'duration': 3.36}
+{'text': "that's actually cheating i'm so bad at", 'start': 2039.919, 'duration': 4.961}
+{'text': 'drawing i definitely lose this', 'start': 2042.48, 'duration': 5.76}
+{'text': "yeah i'm terrible", 'start': 2044.88, 'duration': 3.36}
+{'text': "let's [\xa0__\xa0] do it i'm ready", 'start': 2048.32, 'duration': 4.079}
+{'text': 'okay hold on hold on okay hold on sorry', 'start': 2050.32, 'duration': 4.48}
+{'text': 'sorry that starts suggesting some words', 'start': 2052.399, 'duration': 5.041}
+{'text': 'chat okay', 'start': 2054.8, 'duration': 2.64}
+{'text': 'hey [\xa0__\xa0] you chad logic i just want to', 'start': 2057.919, 'duration': 3.601}
+{'text': "get that i think it's not good", 'start': 2059.76, 'duration': 3.44}
+{'text': 'wait what are you saying', 'start': 2061.52, 'duration': 3.119}
+{'text': '[\xa0__\xa0] you [\xa0__\xa0]', 'start': 2063.2, 'duration': 2.8}
+{'text': 'you talk [\xa0__\xa0] sometimes like i just need', 'start': 2064.639, 'duration': 2.561}
+{'text': "it i don't think i told you i can't [\xa0__\xa0]", 'start': 2066.0, 'duration': 3.839}
+{'text': 'you enough right', 'start': 2067.2, 'duration': 2.639}
+{'text': 'wait are we supposed to be showing paint', 'start': 2070.399, 'duration': 4.321}
+{'text': "or no no no don't show it don't show it", 'start': 2072.24, 'duration': 4.399}
+{'text': "okay it's me okay okay okay okay okay", 'start': 2074.72, 'duration': 4.32}
+{'text': 'okay okay okay just checking', 'start': 2076.639, 'duration': 3.601}
+{'text': 'what are we drawing what are we supposed', 'start': 2079.04, 'duration': 3.039}
+{'text': "to do right now what are we doing um i'm", 'start': 2080.24, 'duration': 4.0}
+{'text': "getting suggestions from chat and you're", 'start': 2082.079, 'duration': 4.241}
+{'text': 'gonna give you a word okay and then you', 'start': 2084.24, 'duration': 4.8}
+{'text': "guys are going to draw on emma's paint", 'start': 2086.32, 'duration': 6.48}
+{'text': 'what that word is to you okay okay', 'start': 2089.04, 'duration': 5.52}
+{'text': "well my shit's [\xa0__\xa0] so i gotta fix", 'start': 2092.8, 'duration': 4.559}
+{'text': 'this just a little bit oh', 'start': 2094.56, 'duration': 6.16}
+{'text': 'yeah hello [\xa0__\xa0] the hyper i need more', 'start': 2097.359, 'duration': 6.48}
+{'text': 'abstract words okay we did dignity last', 'start': 2100.72, 'duration': 5.359}
+{'text': 'time maybe you can come up with no what', 'start': 2103.839, 'duration': 5.361}
+{'text': 'is wrong with you', 'start': 2106.079, 'duration': 3.121}
+{'text': 'yeah', 'start': 2109.839, 'duration': 2.24}
+{'text': "we don't know where twitch stream is we", 'start': 2110.64, 'duration': 4.32}
+{'text': "don't even know what that", 'start': 2112.079, 'duration': 4.241}
+{'text': 'wait is the rest of the show just going', 'start': 2114.96, 'duration': 2.8}
+{'text': 'to be meme [\xa0__\xa0] did i really just get', 'start': 2116.32, 'duration': 2.88}
+{'text': 'baited into this and now the rest is', 'start': 2117.76, 'duration': 3.2}
+{'text': 'just going to be me', 'start': 2119.2, 'duration': 5.28}
+{'text': "we're not doing horse [\xa0__\xa0] guys", 'start': 2120.96, 'duration': 3.52}

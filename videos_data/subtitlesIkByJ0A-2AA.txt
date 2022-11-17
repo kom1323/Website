@@ -1,0 +1,930 @@
+{'text': 'okay', 'start': 3.28, 'duration': 2.32}
+{'text': 'every day on the subreddit there is a', 'start': 6.72, 'duration': 4.08}
+{'text': 'news for destiny', 'start': 9.2, 'duration': 4.0}
+{'text': 'or a post post [\xa0__\xa0] there if you want me', 'start': 10.8, 'duration': 3.6}
+{'text': 'to read it on stream', 'start': 13.2, 'duration': 2.96}
+{'text': "upload the thing you're most interested", 'start': 14.4, 'duration': 3.44}
+{'text': 'in download things that suck', 'start': 16.16, 'duration': 4.72}
+{'text': 'post whatever you read and then we will', 'start': 17.84, 'duration': 6.96}
+{'text': "um and yeah that's what i'll do one of", 'start': 20.88, 'duration': 5.68}
+{'text': 'these per day', 'start': 24.8, 'duration': 4.319}
+{'text': "he's only going to read one yeah of", 'start': 26.56, 'duration': 3.44}
+{'text': "course i'm only going", 'start': 29.119, 'duration': 2.24}
+{'text': 'to read one what the [\xa0__\xa0] do you think', 'start': 30.0, 'duration': 2.32}
+{'text': "i'm gonna do do you think i'm gonna go", 'start': 31.359, 'duration': 2.401}
+{'text': 'through an entire [\xa0__\xa0] post of', 'start': 32.32, 'duration': 2.8}
+{'text': 'articles every single day', 'start': 33.76, 'duration': 2.959}
+{'text': 'i feel like i consistently see you say', 'start': 35.12, 'duration': 3.2}
+{'text': 'stupid [\xa0__\xa0] [\xa0__\xa0]', 'start': 36.719, 'duration': 5.761}
+{'text': 'bye have take a break okay jesus', 'start': 38.32, 'duration': 5.759}
+{'text': "it's the same [\xa0__\xa0] we did yesterday you", 'start': 42.48, 'duration': 2.8}
+{'text': "think i'm gonna go you think people post", 'start': 44.079, 'duration': 2.401}
+{'text': "30 articles in a day we're gonna go", 'start': 45.28, 'duration': 2.32}
+{'text': 'through every single [\xa0__\xa0] article', 'start': 46.48, 'duration': 2.559}
+{'text': "took us an hour to do chomsky's one", 'start': 47.6, 'duration': 2.56}
+{'text': 'yesterday', 'start': 49.039, 'duration': 5.441}
+{'text': "holy christ you're on break for a month", 'start': 50.16, 'duration': 4.32}
+{'text': 'this is an article on the economist', 'start': 57.44, 'duration': 3.119}
+{'text': 'called', 'start': 58.96, 'duration': 3.279}
+{'text': 'the horrible housing blunder home', 'start': 60.559, 'duration': 3.281}
+{'text': 'ownership is', 'start': 62.239, 'duration': 4.081}
+{'text': 'wait the horrible housing blunder home', 'start': 63.84, 'duration': 4.08}
+{'text': "ownership is the west's biggest", 'start': 66.32, 'duration': 5.04}
+{'text': 'economic policy mistake economies can', 'start': 67.92, 'duration': 4.16}
+{'text': 'suffer both', 'start': 71.36, 'duration': 2.72}
+{'text': 'sudden crashes and chronic diseases', 'start': 72.08, 'duration': 3.28}
+{'text': 'housing markets', 'start': 74.08, 'duration': 2.96}
+{'text': 'in the rich world have caused both types', 'start': 75.36, 'duration': 3.68}
+{'text': 'of problems', 'start': 77.04, 'duration': 5.52}
+{'text': 'both types of problem sorry', 'start': 79.04, 'duration': 5.52}
+{'text': 'a trillion dollars of dud mortgages blew', 'start': 82.56, 'duration': 4.64}
+{'text': 'up the financial system in 2007 and 2008', 'start': 84.56, 'duration': 5.04}
+{'text': 'but justice pernic pernicious is the', 'start': 87.2, 'duration': 3.919}
+{'text': 'creeping dysfunction that housing has', 'start': 89.6, 'duration': 3.12}
+{'text': 'created over decades', 'start': 91.119, 'duration': 3.36}
+{'text': 'vibrant cities without space to grow', 'start': 92.72, 'duration': 3.439}
+{'text': 'aging homeowners sitting in half empty', 'start': 94.479, 'duration': 3.68}
+{'text': 'homes who are keen to protect their view', 'start': 96.159, 'duration': 3.361}
+{'text': 'and a generation of young people who', 'start': 98.159, 'duration': 3.28}
+{'text': 'cannot easily afford to rent or buy', 'start': 99.52, 'duration': 4.239}
+{'text': 'then capitalism has let them down as our', 'start': 101.439, 'duration': 4.0}
+{'text': 'special report this week explains much', 'start': 103.759, 'duration': 3.201}
+{'text': 'of the blame lies with warped housing', 'start': 105.439, 'duration': 3.04}
+{'text': 'policies that date back to the second', 'start': 106.96, 'duration': 3.28}
+{'text': 'world war which are intertwined with an', 'start': 108.479, 'duration': 3.92}
+{'text': 'infatuation with home ownership', 'start': 110.24, 'duration': 4.82}
+{'text': 'this is a huge part um', 'start': 112.399, 'duration': 5.76}
+{'text': '[Music]', 'start': 115.06, 'duration': 4.46}
+{'text': "i don't know if this is listed like", 'start': 118.159, 'duration': 3.201}
+{'text': 'officially anywhere but', 'start': 119.52, 'duration': 4.639}
+{'text': "there's like um there's like this idea", 'start': 121.36, 'duration': 4.719}
+{'text': 'of like the american dream', 'start': 124.159, 'duration': 3.761}
+{'text': 'wait what was that ethos of the united', 'start': 126.079, 'duration': 4.081}
+{'text': "states i don't know this will be listed", 'start': 127.92, 'duration': 2.72}
+{'text': 'here but', 'start': 130.16, 'duration': 2.88}
+{'text': 'ah here the meaning of the american', 'start': 130.64, 'duration': 3.44}
+{'text': 'dream has changed over the course of', 'start': 133.04, 'duration': 2.24}
+{'text': 'history and includes both personal', 'start': 134.08, 'duration': 2.239}
+{'text': 'components such as', 'start': 135.28, 'duration': 2.959}
+{'text': 'home ownership and upward mobility and a', 'start': 136.319, 'duration': 3.761}
+{'text': 'global vision i think that like', 'start': 138.239, 'duration': 4.72}
+{'text': 'owning a home is like the american dream', 'start': 140.08, 'duration': 5.44}
+{'text': "that's like literally like the the goal", 'start': 142.959, 'duration': 5.681}
+{'text': 'for a lot of americans is to own a home', 'start': 145.52, 'duration': 6.24}
+{'text': "that means you've made it they have", 'start': 148.64, 'duration': 5.04}
+{'text': 'caused um hold on as our special report', 'start': 151.76, 'duration': 3.28}
+{'text': 'this week explains much of the blame', 'start': 153.68, 'duration': 2.8}
+{'text': 'lies with warped housing policies that', 'start': 155.04, 'duration': 2.96}
+{'text': 'date back to the second world war which', 'start': 156.48, 'duration': 3.28}
+{'text': 'are intertwined with an infatuation with', 'start': 158.0, 'duration': 4.239}
+{'text': 'home ownership', 'start': 159.76, 'duration': 4.16}
+{'text': "they have caused one of the rich world's", 'start': 162.239, 'duration': 3.201}
+{'text': 'most serious and longest-running', 'start': 163.92, 'duration': 3.84}
+{'text': 'economic failures a fresh architecture', 'start': 165.44, 'duration': 5.76}
+{'text': 'is urgently needed', 'start': 167.76, 'duration': 5.119}
+{'text': 'at the root of that failure the lack of', 'start': 171.2, 'duration': 3.44}
+{'text': 'building especially near the thriving', 'start': 172.879, 'duration': 3.44}
+{'text': 'cities in which jobs are plentiful', 'start': 174.64, 'duration': 4.4}
+{'text': 'from sydney to sydney from sydney to', 'start': 176.319, 'duration': 4.401}
+{'text': "sittenham i don't know where the [\xa0__\xa0]", 'start': 179.04, 'duration': 6.8}
+{'text': 'this is hold on', 'start': 180.72, 'duration': 5.12}
+{'text': 'in london', 'start': 186.319, 'duration': 2.56}
+{'text': 'is this like a neighborhood in london or', 'start': 190.959, 'duration': 4.801}
+{'text': 'like a suburb of london or', 'start': 192.64, 'duration': 7.2}
+{'text': "i'm gonna guess it's that okay", 'start': 195.76, 'duration': 4.08}
+{'text': 'from sydney to sydenham fiddly', 'start': 200.879, 'duration': 4.161}
+{'text': 'regulations protect an elite of existing', 'start': 203.04, 'duration': 3.759}
+{'text': 'homeowners and prevent developers from', 'start': 205.04, 'duration': 3.52}
+{'text': 'from building the skyscrapers and flats', 'start': 206.799, 'duration': 3.52}
+{'text': 'the modern economy demands', 'start': 208.56, 'duration': 3.52}
+{'text': 'the resulting high rents in house prices', 'start': 210.319, 'duration': 3.121}
+{'text': 'make it hard for workers to move to', 'start': 212.08, 'duration': 2.96}
+{'text': 'where the most productive jobs are and', 'start': 213.44, 'duration': 3.04}
+{'text': 'have slowed growth', 'start': 215.04, 'duration': 3.68}
+{'text': 'overall housing costs in america absorb', 'start': 216.48, 'duration': 4.0}
+{'text': 'eleven percent of gdp up from eight', 'start': 218.72, 'duration': 3.68}
+{'text': 'percent in the 1970s', 'start': 220.48, 'duration': 4.399}
+{'text': 'if just three big cities new york san', 'start': 222.4, 'duration': 4.0}
+{'text': 'francisco and san jose', 'start': 224.879, 'duration': 3.521}
+{'text': "relaxed planning rules america's gdp", 'start': 226.4, 'duration': 3.52}
+{'text': 'could be four percent higher', 'start': 228.4, 'duration': 4.32}
+{'text': 'that is an enormous prize as well as', 'start': 229.92, 'duration': 4.0}
+{'text': 'being nearly inefficient', 'start': 232.72, 'duration': 3.68}
+{'text': 'housing markets are deeply unfair over a', 'start': 233.92, 'duration': 3.599}
+{'text': 'period of decades', 'start': 236.4, 'duration': 2.8}
+{'text': 'falling interest rates have compounded', 'start': 237.519, 'duration': 3.521}
+{'text': 'inadequate supply and led to a surge in', 'start': 239.2, 'duration': 2.8}
+{'text': 'prices', 'start': 241.04, 'duration': 2.8}
+{'text': 'in america the frenzy is concentrated in', 'start': 242.0, 'duration': 3.92}
+{'text': 'thriving cities in other rich countries', 'start': 243.84, 'duration': 3.92}
+{'text': 'average national prices have soared', 'start': 245.92, 'duration': 3.76}
+{'text': 'especially in english-speaking countries', 'start': 247.76, 'duration': 3.52}
+{'text': 'where punting on property is a national', 'start': 249.68, 'duration': 2.32}
+{'text': 'sport', 'start': 251.28, 'duration': 2.4}
+{'text': 'the financial crisis did not kill off', 'start': 252.0, 'duration': 3.28}
+{'text': 'the trend in britain', 'start': 253.68, 'duration': 3.6}
+{'text': 'inflation-adjusted house prices are', 'start': 255.28, 'duration': 3.6}
+{'text': 'roughly equal to their pre-crisis', 'start': 257.28, 'duration': 3.84}
+{'text': 'peak while real wages are no higher in', 'start': 258.88, 'duration': 4.16}
+{'text': 'australia despite recent falls', 'start': 261.12, 'duration': 4.639}
+{'text': 'prices remain 20 higher than in 2008 and', 'start': 263.04, 'duration': 6.8}
+{'text': "canada they're up by half", 'start': 265.759, 'duration': 4.081}
+{'text': "the soaring cost when it's just up by", 'start': 272.56, 'duration': 9.76}
+{'text': 'half in canada i mean up by 50 percent', 'start': 274.32, 'duration': 11.76}
+{'text': "i'm gonna assume that's what that means", 'start': 282.32, 'duration': 3.76}
+{'text': 'the soaring cost of housing has created', 'start': 286.72, 'duration': 3.52}
+{'text': 'gaping inequalities and inflamed both', 'start': 288.479, 'duration': 4.0}
+{'text': 'generational and geographical divides', 'start': 290.24, 'duration': 4.32}
+{'text': 'in 1990 a generation of baby boomers', 'start': 292.479, 'duration': 3.601}
+{'text': 'with a median age of 35', 'start': 294.56, 'duration': 3.04}
+{'text': "owned a third of america's real estate", 'start': 296.08, 'duration': 3.92}
+{'text': 'by value in 2019 a similarly sized', 'start': 297.6, 'duration': 4.48}
+{'text': 'cohort of millennials aged 31', 'start': 300.0, 'duration': 5.44}
+{'text': "owned just 4 percent young people's view", 'start': 302.08, 'duration': 4.24}
+{'text': 'of housing', 'start': 305.44, 'duration': 3.28}
+{'text': "is out of young people young people's", 'start': 306.32, 'duration': 4.08}
+{'text': 'view that housing is out of reach unless', 'start': 308.72, 'duration': 3.039}
+{'text': 'you have rich parents', 'start': 310.4, 'duration': 2.799}
+{'text': 'help explain their drift towards', 'start': 311.759, 'duration': 3.44}
+{'text': 'millennial socialism and homeowners of', 'start': 313.199, 'duration': 3.521}
+{'text': 'all ages who are trapped in declining', 'start': 315.199, 'duration': 2.241}
+{'text': 'places', 'start': 316.72, 'duration': 2.24}
+{'text': 'resent the windfall housing gains', 'start': 317.44, 'duration': 4.08}
+{'text': 'enjoyed in and around successful cities', 'start': 318.96, 'duration': 4.4}
+{'text': 'in britain areas with stagnant housing', 'start': 321.52, 'duration': 3.28}
+{'text': 'markets were more likely to vote for', 'start': 323.36, 'duration': 3.679}
+{'text': 'brexit in 2016 even after accounting for', 'start': 324.8, 'duration': 4.0}
+{'text': 'differences in income and demography', 'start': 327.039, 'duration': 2.241}
+{'text': 'demag', 'start': 328.8, 'duration': 3.28}
+{'text': 'demography demography you might think', 'start': 329.28, 'duration': 4.56}
+{'text': 'fear and envy about housing is part of', 'start': 332.08, 'duration': 2.88}
+{'text': 'the human condition', 'start': 333.84, 'duration': 3.359}
+{'text': 'in fact property pathology has its roots', 'start': 334.96, 'duration': 3.12}
+{'text': 'and a shift in public', 'start': 337.199, 'duration': 2.801}
+{'text': 'policy in the 50s towards promoting home', 'start': 338.08, 'duration': 3.839}
+{'text': 'ownership since then governments have', 'start': 340.0, 'duration': 3.44}
+{'text': 'used subsidies tax breaks', 'start': 341.919, 'duration': 3.441}
+{'text': 'sales of public housing to encourage', 'start': 343.44, 'duration': 4.0}
+{'text': 'owner occupation over renting', 'start': 345.36, 'duration': 3.679}
+{'text': 'politicians on the right have seen home', 'start': 347.44, 'duration': 3.199}
+{'text': 'ownership as a way to win votes by', 'start': 349.039, 'duration': 3.521}
+{'text': 'encouraging responsible citizenship', 'start': 350.639, 'duration': 3.361}
+{'text': 'those on the left see housing as a', 'start': 352.56, 'duration': 3.04}
+{'text': 'conduit for redistribution and for', 'start': 354.0, 'duration': 3.199}
+{'text': 'nudging poorer households to build', 'start': 355.6, 'duration': 2.319}
+{'text': 'wealth', 'start': 357.199, 'duration': 1.921}
+{'text': "this is something that i've fought", 'start': 357.919, 'duration': 3.041}
+{'text': 'against for a long time a lot of people', 'start': 359.12, 'duration': 3.28}
+{'text': 'say owning a home is the best path', 'start': 360.96, 'duration': 3.2}
+{'text': 'towards building wealth that is such', 'start': 362.4, 'duration': 4.239}
+{'text': "[\xa0__\xa0] it's something that i see so", 'start': 364.16, 'duration': 4.159}
+{'text': 'many financial advisors and so many', 'start': 366.639, 'duration': 2.721}
+{'text': 'people in the internet say', 'start': 368.319, 'duration': 2.561}
+{'text': 'building blah blah blah they conflate', 'start': 369.36, 'duration': 3.52}
+{'text': 'two things they can fight the idea that', 'start': 370.88, 'duration': 4.0}
+{'text': 'building a house is the largest portion', 'start': 372.88, 'duration': 3.36}
+{'text': "of a lot of people's wealth", 'start': 374.88, 'duration': 3.2}
+{'text': 'with the idea that a house ought to be', 'start': 376.24, 'duration': 3.28}
+{'text': "the largest portion of a lot of people's", 'start': 378.08, 'duration': 1.92}
+{'text': 'wealth', 'start': 379.52, 'duration': 2.08}
+{'text': 'this is just not true there are way', 'start': 380.0, 'duration': 2.96}
+{'text': 'better ways to build wealth there are', 'start': 381.6, 'duration': 3.28}
+{'text': 'way more stable ways way more liquidable', 'start': 382.96, 'duration': 2.56}
+{'text': 'ways', 'start': 384.88, 'duration': 3.759}
+{'text': 'um way more growing ways like the idea', 'start': 385.52, 'duration': 3.84}
+{'text': 'that like', 'start': 388.639, 'duration': 3.201}
+{'text': 'your primary drive to build wealth', 'start': 389.36, 'duration': 4.72}
+{'text': 'should be through um', 'start': 391.84, 'duration': 3.84}
+{'text': 'should be through owning a home is silly', 'start': 394.08, 'duration': 4.239}
+{'text': 'as [\xa0__\xa0] oh my god did amd go up', 'start': 395.68, 'duration': 4.48}
+{'text': 'wait are the markets open today on', 'start': 398.319, 'duration': 4.32}
+{'text': 'saturday', 'start': 400.16, 'duration': 2.479}
+{'text': 'closed october 23rd oh never mind', 'start': 404.8, 'duration': 4.239}
+{'text': "empty's still going up", 'start': 407.28, 'duration': 5.52}
+{'text': 'god damn yes sorry okay', 'start': 409.039, 'duration': 3.761}
+{'text': 'so this is um so tom a in youtube chat', 'start': 415.68, 'duration': 4.239}
+{'text': 'you can get a 30 year fixed rate for a', 'start': 418.479, 'duration': 2.241}
+{'text': '200 000', 'start': 419.919, 'duration': 2.641}
+{'text': 'house very easily then rent out a room', 'start': 420.72, 'duration': 3.36}
+{'text': 'to help owning property is super', 'start': 422.56, 'duration': 2.96}
+{'text': 'important for your overall well-being', 'start': 424.08, 'duration': 3.76}
+{'text': 'buy your castles buy your castles so', 'start': 425.52, 'duration': 4.64}
+{'text': 'owning property to borrow from marks', 'start': 427.84, 'duration': 5.04}
+{'text': 'private property is good personal', 'start': 430.16, 'duration': 4.72}
+{'text': 'property of a house is bad', 'start': 432.88, 'duration': 3.36}
+{'text': 'if you want to buy a house and start', 'start': 434.88, 'duration': 2.879}
+{'text': "renting stuff up if you're going to make", 'start': 436.24, 'duration': 1.84}
+{'text': 'this', 'start': 437.759, 'duration': 2.081}
+{'text': "asset generate revenue for you that's a", 'start': 438.08, 'duration': 3.76}
+{'text': 'good thing you can earn money doing that', 'start': 439.84, 'duration': 2.32}
+{'text': 'and', 'start': 441.84, 'duration': 2.16}
+{'text': 'if you want to go down that road i would', 'start': 442.16, 'duration': 3.36}
+{'text': 'recommend that but if you think that', 'start': 444.0, 'duration': 1.919}
+{'text': 'just', 'start': 445.52, 'duration': 2.72}
+{'text': 'buying a house to build wealth is a good', 'start': 445.919, 'duration': 3.12}
+{'text': 'idea', 'start': 448.24, 'duration': 2.56}
+{'text': "it's not a good idea there are plenty of", 'start': 449.039, 'duration': 6.401}
+{'text': 'other more reliable ways to build wealth', 'start': 450.8, 'duration': 4.64}
+{'text': 'do you think housing is one of the most', 'start': 455.84, 'duration': 2.96}
+{'text': 'tangible forms of wealth if i own a', 'start': 457.199, 'duration': 2.881}
+{'text': "bunch of etfs they don't really do", 'start': 458.8, 'duration': 2.399}
+{'text': 'anything for me until i retire with a', 'start': 460.08, 'duration': 2.32}
+{'text': 'house i have a house', 'start': 461.199, 'duration': 2.56}
+{'text': "well like that's looking at a house is", 'start': 462.4, 'duration': 3.519}
+{'text': 'like a like a you like a thing that you', 'start': 463.759, 'duration': 2.641}
+{'text': 'use', 'start': 465.919, 'duration': 2.4}
+{'text': 'like like a like a good or service i', 'start': 466.4, 'duration': 3.68}
+{'text': 'guess right if you have a house', 'start': 468.319, 'duration': 3.361}
+{'text': "and you're like using it and that's good", 'start': 470.08, 'duration': 2.64}
+{'text': "then yeah that's great yeah that's", 'start': 471.68, 'duration': 1.44}
+{'text': 'awesome', 'start': 472.72, 'duration': 2.24}
+{'text': "like i have a car my car depreciates i'm", 'start': 473.12, 'duration': 2.96}
+{'text': 'not gonna make anybody selling it but i', 'start': 474.96, 'duration': 2.239}
+{'text': 'get a lot of use out of my car i enjoy', 'start': 476.08, 'duration': 1.6}
+{'text': 'my car', 'start': 477.199, 'duration': 1.68}
+{'text': 'um and a lot of people get used to the', 'start': 477.68, 'duration': 2.48}
+{'text': 'car because it transports them to work', 'start': 478.879, 'duration': 1.841}
+{'text': 'right', 'start': 480.16, 'duration': 2.159}
+{'text': "so yeah there's something to be said for", 'start': 480.72, 'duration': 2.96}
+{'text': 'the fact that homeownership is effective', 'start': 482.319, 'duration': 2.72}
+{'text': 'simply because it makes people invest', 'start': 483.68, 'duration': 2.72}
+{'text': 'rather than relying on them choosing to', 'start': 485.039, 'duration': 2.241}
+{'text': 'do so', 'start': 486.4, 'duration': 2.32}
+{'text': "there's something psychological there", 'start': 487.28, 'duration': 3.039}
+{'text': 'yeah sure so you could say that owning a', 'start': 488.72, 'duration': 3.039}
+{'text': 'home is a good way for stupid people to', 'start': 490.319, 'duration': 1.681}
+{'text': 'build', 'start': 491.759, 'duration': 1.761}
+{'text': "wealth but if we're giving advice to", 'start': 492.0, 'duration': 3.28}
+{'text': 'people the advice we give ought to be to', 'start': 493.52, 'duration': 2.399}
+{'text': 'be better', 'start': 495.28, 'duration': 2.72}
+{'text': 'right not like hey listen to me um', 'start': 495.919, 'duration': 4.081}
+{'text': "you're too stupid to invest a reasonable", 'start': 498.0, 'duration': 3.52}
+{'text': 'sum of money every month into a safe', 'start': 500.0, 'duration': 2.879}
+{'text': 'mutual fund so you should buy a house', 'start': 501.52, 'duration': 2.64}
+{'text': "because you're too dumb to do otherwise", 'start': 502.879, 'duration': 2.481}
+{'text': "right if i'm giving advice to somebody", 'start': 504.16, 'duration': 2.08}
+{'text': "i'm going to give advice to somebody", 'start': 505.36, 'duration': 1.92}
+{'text': "they're going to listen to it i'm not", 'start': 506.24, 'duration': 2.72}
+{'text': 'going to give you the worst level advice', 'start': 507.28, 'duration': 3.12}
+{'text': "assuming you're too dumb to listen to", 'start': 508.96, 'duration': 11.999}
+{'text': 'anything higher right', 'start': 510.4, 'duration': 12.079}
+{'text': 'i think owning your own home allows you', 'start': 520.959, 'duration': 2.88}
+{'text': 'to grow you have a space that is your', 'start': 522.479, 'duration': 2.881}
+{'text': "own it's not just wealth generation you", 'start': 523.839, 'duration': 2.881}
+{'text': 'can rent a home if you want or you can', 'start': 525.36, 'duration': 2.64}
+{'text': 'rent an apartment i mean this space is', 'start': 526.72, 'duration': 3.36}
+{'text': 'kind of my own like as much as any house', 'start': 528.0, 'duration': 3.44}
+{'text': "would be i mean i guess i can't like", 'start': 530.08, 'duration': 2.759}
+{'text': '[\xa0__\xa0] up the walls as much or something', 'start': 531.44, 'duration': 4.399}
+{'text': 'but', 'start': 532.839, 'duration': 3.0}
+{'text': 'what alternatives to home ownership', 'start': 539.279, 'duration': 3.761}
+{'text': 'matches the potential 500k', 'start': 540.72, 'duration': 4.799}
+{'text': 'home sale exclusion wait what the [\xa0__\xa0]', 'start': 543.04, 'duration': 6.799}
+{'text': 'is that', 'start': 545.519, 'duration': 4.32}
+{'text': 'okay', 'start': 560.839, 'duration': 4.281}
+{'text': "destiny big don't know what that's", 'start': 563.279, 'duration': 2.581}
+{'text': 'already been there', 'start': 565.12, 'duration': 3.6}
+{'text': '[Music]', 'start': 565.86, 'duration': 5.58}
+{'text': "hey steven i think it's important that", 'start': 568.72, 'duration': 4.72}
+{'text': 'youtube chat knows why this i', 'start': 571.44, 'duration': 3.839}
+{'text': 'literally turn links off in chat so that', 'start': 573.44, 'duration': 4.399}
+{'text': 'you can donate', 'start': 575.279, 'duration': 2.56}
+{'text': "i'm guessing a home sale exclusion is", 'start': 578.08, 'duration': 3.68}
+{'text': 'probably some rule where you can sell', 'start': 579.839, 'duration': 5.201}
+{'text': 'a house at some point and save money off', 'start': 581.76, 'duration': 4.56}
+{'text': 'the capital gains', 'start': 585.04, 'duration': 2.799}
+{'text': 'or whatever i guess yeah i mean i guess', 'start': 586.32, 'duration': 3.519}
+{'text': "that's nice but i mean i'd still rather", 'start': 587.839, 'duration': 2.401}
+{'text': 'have', 'start': 589.839, 'duration': 2.401}
+{'text': "i don't know if that would overcome like", 'start': 590.24, 'duration': 3.2}
+{'text': 'all the loss and maintenance and', 'start': 592.24, 'duration': 2.24}
+{'text': 'everything else you have to spend to', 'start': 593.44, 'duration': 1.76}
+{'text': 'upkeep a home', 'start': 594.48, 'duration': 2.4}
+{'text': 'you could just be investing in funds as', 'start': 595.2, 'duration': 3.92}
+{'text': 'well', 'start': 596.88, 'duration': 2.24}
+{'text': 'this is good advice during bull markets', 'start': 600.959, 'duration': 3.281}
+{'text': 'but not everyone wants the volatility', 'start': 602.72, 'duration': 2.88}
+{'text': 'of the market with the bulk of their', 'start': 604.24, 'duration': 3.2}
+{'text': 'equity the bulk of your equity invested', 'start': 605.6, 'duration': 3.359}
+{'text': 'in the market is way healthier than the', 'start': 607.44, 'duration': 3.28}
+{'text': 'bulk of your equity invested in a single', 'start': 608.959, 'duration': 4.721}
+{'text': 'piece of property though', 'start': 610.72, 'duration': 2.96}
+{'text': 'destiny if i spend a roughly equivalent', 'start': 615.36, 'duration': 3.36}
+{'text': 'amount of money on rent or on a mortgage', 'start': 616.88, 'duration': 3.199}
+{'text': "isn't it better to put that money into a", 'start': 618.72, 'duration': 2.799}
+{'text': 'mortgage because more of it is going to', 'start': 620.079, 'duration': 2.081}
+{'text': 'equity', 'start': 621.519, 'duration': 2.641}
+{'text': 'the equity that you get on a mortgage is', 'start': 622.16, 'duration': 4.16}
+{'text': 'going to take you a long time to build', 'start': 624.16, 'duration': 3.679}
+{'text': 'you have like no equity in the first', 'start': 626.32, 'duration': 3.6}
+{'text': 'five years equity takes a long long long', 'start': 627.839, 'duration': 3.12}
+{'text': 'time to build', 'start': 629.92, 'duration': 2.56}
+{'text': 'also you could be building equity in a', 'start': 630.959, 'duration': 2.961}
+{'text': "portfolio where you're just depositing", 'start': 632.48, 'duration': 3.2}
+{'text': 'money and investing in mutual funds', 'start': 633.92, 'duration': 3.599}
+{'text': 'right and that equity is super liquid', 'start': 635.68, 'duration': 3.68}
+{'text': 'liquidable you can cash it out anytime', 'start': 637.519, 'duration': 2.721}
+{'text': 'you need', 'start': 639.36, 'duration': 4.0}
+{'text': 'liquidable liquid liquidity is how easy', 'start': 640.24, 'duration': 4.719}
+{'text': 'is it to convert it to cash', 'start': 643.36, 'duration': 3.599}
+{'text': 'um houses are very hard to convert to', 'start': 644.959, 'duration': 3.361}
+{'text': 'cash you have to take out loans against', 'start': 646.959, 'duration': 2.721}
+{'text': 'their value basically', 'start': 648.32, 'duration': 3.12}
+{'text': "and then you've got to pay interest to", 'start': 649.68, 'duration': 3.12}
+{'text': 'sometimes yourself sometimes to a bank', 'start': 651.44, 'duration': 2.72}
+{'text': 'depends on the structure of the loan', 'start': 652.8, 'duration': 4.32}
+{'text': "um but yeah it's the alert is the word", 'start': 654.16, 'duration': 3.359}
+{'text': 'is', 'start': 657.12, 'duration': 4.32}
+{'text': 'liquid not liquidable it is liquid', 'start': 657.519, 'duration': 7.281}
+{'text': 'liquidable this is liquid oh liquidable', 'start': 661.44, 'duration': 4.72}
+{'text': 'mean is something that can be turned', 'start': 664.8, 'duration': 2.0}
+{'text': 'into', 'start': 666.16, 'duration': 3.04}
+{'text': 'money a house is liquidable or a fund is', 'start': 666.8, 'duration': 3.2}
+{'text': 'liquidable', 'start': 669.2, 'duration': 5.04}
+{'text': 'but this is liquid wait', 'start': 670.0, 'duration': 6.16}
+{'text': 'hey wait is liquidable a word did i just', 'start': 674.24, 'duration': 3.36}
+{'text': 'make that up you have liquidity in the', 'start': 676.16, 'duration': 4.96}
+{'text': 'in the liquid market liquidity is how', 'start': 677.6, 'duration': 5.04}
+{'text': 'easy it is to turn something into cash', 'start': 681.12, 'duration': 2.0}
+{'text': 'right', 'start': 682.64, 'duration': 2.319}
+{'text': "you'd say a fund is liquid as well", 'start': 683.12, 'duration': 3.44}
+{'text': "wouldn't you say you have unexpected", 'start': 684.959, 'duration': 3.041}
+{'text': 'costs that come with home', 'start': 686.56, 'duration': 4.959}
+{'text': "ownership as well yeah you'd say a fund", 'start': 688.0, 'duration': 6.16}
+{'text': 'is liquid a fund is liquid it possesses', 'start': 691.519, 'duration': 3.521}
+{'text': 'liquidity', 'start': 694.16, 'duration': 2.96}
+{'text': 'so a fund has more liquidity than a', 'start': 695.04, 'duration': 3.52}
+{'text': 'house', 'start': 697.12, 'duration': 3.52}
+{'text': 'a fund is more liquid than a house', 'start': 698.56, 'duration': 5.279}
+{'text': "that's correct right", 'start': 700.64, 'duration': 3.199}
+{'text': 'thanks [\xa0__\xa0] plus okay sorry yeah okay', 'start': 709.6, 'duration': 4.32}
+{'text': 'fun is liquid emphasis liquidity okay', 'start': 711.839, 'duration': 4.56}
+{'text': 'so funds are nice because they are more', 'start': 713.92, 'duration': 3.919}
+{'text': 'liquid than houses are', 'start': 716.399, 'duration': 3.201}
+{'text': 'they possess more liquidity meaning more', 'start': 717.839, 'duration': 3.44}
+{'text': 'easily converted to cash or cash', 'start': 719.6, 'duration': 4.32}
+{'text': 'equivalent okay', 'start': 721.279, 'duration': 4.481}
+{'text': 'but if my investment goes to [\xa0__\xa0] on one', 'start': 723.92, 'duration': 4.8}
+{'text': "hand at least i'm not homeless", 'start': 725.76, 'duration': 5.199}
+{'text': "um i mean it's very rare that the entire", 'start': 728.72, 'duration': 3.359}
+{'text': 'market will just die', 'start': 730.959, 'duration': 3.361}
+{'text': "that shouldn't happen like i i don't", 'start': 732.079, 'duration': 3.361}
+{'text': 'know and i mean you could lose all the', 'start': 734.32, 'duration': 2.319}
+{'text': "value out of your house as well that's", 'start': 735.44, 'duration': 3.839}
+{'text': "possible too you're a genius dude", 'start': 736.639, 'duration': 5.601}
+{'text': 'poo poo pee pee', 'start': 739.279, 'duration': 2.961}
+{'text': 'um', 'start': 743.04, 'duration': 2.799}
+{'text': 'okay', 'start': 749.04, 'duration': 2.32}
+{'text': 'i know what scenario should someone buy', 'start': 757.519, 'duration': 3.921}
+{'text': 'um i think if you want to buy a house i', 'start': 759.519, 'duration': 2.88}
+{'text': "think i'll probably buy a house at some", 'start': 761.44, 'duration': 2.16}
+{'text': "point if you want to buy a house you're", 'start': 762.399, 'duration': 3.041}
+{'text': "buying like a it's like a luxury thing", 'start': 763.6, 'duration': 3.84}
+{'text': 'like i so friends like when i buy cars', 'start': 765.44, 'duration': 3.6}
+{'text': 'now i like new cars because i like to be', 'start': 767.44, 'duration': 2.079}
+{'text': 'my car', 'start': 769.04, 'duration': 2.08}
+{'text': "and i like to own a new car that's my", 'start': 769.519, 'duration': 3.44}
+{'text': "car but that's like a personal choice", 'start': 771.12, 'duration': 3.519}
+{'text': "i'm not doing that as like the wisest", 'start': 772.959, 'duration': 2.961}
+{'text': "financial decision that's just something", 'start': 774.639, 'duration': 2.801}
+{'text': "i'm willing to pay a premium for", 'start': 775.92, 'duration': 3.039}
+{'text': 'um owning a house is also something that', 'start': 777.44, 'duration': 3.519}
+{'text': 'you can pay a premium for so like well i', 'start': 778.959, 'duration': 3.281}
+{'text': "guess i own a house right now right it's", 'start': 780.959, 'duration': 2.56}
+{'text': 'like you pay a premium for it rachel and', 'start': 782.24, 'duration': 2.719}
+{'text': "nathan live in it i don't have to deal", 'start': 783.519, 'duration': 2.481}
+{'text': 'with anything else or worry about them', 'start': 784.959, 'duration': 1.44}
+{'text': 'getting kicked', 'start': 786.0, 'duration': 1.6}
+{'text': 'blah blah blah or anything like that', 'start': 786.399, 'duration': 2.721}
+{'text': 'because i own the house right all the', 'start': 787.6, 'duration': 2.88}
+{'text': 'bank owns that i pay the note', 'start': 789.12, 'duration': 4.24}
+{'text': 'um so i i think that like you can buy a', 'start': 790.48, 'duration': 3.28}
+{'text': 'house', 'start': 793.36, 'duration': 2.0}
+{'text': "just don't fool yourself into thinking", 'start': 793.76, 'duration': 3.84}
+{'text': "oh man i'm gonna save up all this money", 'start': 795.36, 'duration': 3.52}
+{'text': 'because the best thing i can do for', 'start': 797.6, 'duration': 3.12}
+{'text': 'myself financially is to go buy a house', 'start': 798.88, 'duration': 2.8}
+{'text': "that's going to like put me in a really", 'start': 800.72, 'duration': 2.32}
+{'text': "good financial position it's not", 'start': 801.68, 'duration': 2.64}
+{'text': 'necessarily true', 'start': 803.04, 'duration': 3.599}
+{'text': "um that's all i'm saying you you don't", 'start': 804.32, 'duration': 4.079}
+{'text': 'treat houses are not financial', 'start': 806.639, 'duration': 3.44}
+{'text': 'instruments and seeing people seem to', 'start': 808.399, 'duration': 3.201}
+{'text': 'con a lot of poor people into thinking', 'start': 810.079, 'duration': 2.641}
+{'text': 'that', 'start': 811.6, 'duration': 2.479}
+{'text': 'kind of car do you have i have a ford', 'start': 812.72, 'duration': 5.28}
+{'text': 'focus rs i [\xa0__\xa0] love it', 'start': 814.079, 'duration': 3.921}
+{'text': 'do you make a distinction between a', 'start': 821.12, 'duration': 2.8}
+{'text': 'house and a condo um not at the moment i', 'start': 822.079, 'duration': 2.641}
+{'text': "don't know if there", 'start': 823.92, 'duration': 2.159}
+{'text': 'needs to be a distinction to me there in', 'start': 824.72, 'duration': 5.119}
+{'text': "terms of what i'm talking about but", 'start': 826.079, 'duration': 3.76}
+{'text': 'okay', 'start': 830.72, 'duration': 2.239}
+{'text': "is your house paid off no it's like 27", 'start': 836.16, 'duration': 4.08}
+{'text': 'years i need to refinance', 'start': 838.48, 'duration': 3.039}
+{'text': 'i need to do that i need to spend time', 'start': 840.24, 'duration': 2.399}
+{'text': 'doing that because interest rates right', 'start': 841.519, 'duration': 2.721}
+{'text': 'now are [\xa0__\xa0] unbelievable i think you', 'start': 842.639, 'duration': 3.281}
+{'text': 'can refinance for like two and a quarter', 'start': 844.24, 'duration': 5.279}
+{'text': 'or some stupid [\xa0__\xa0] [\xa0__\xa0]', 'start': 845.92, 'duration': 3.599}
+{'text': 'i bought a camaro ss would run circles', 'start': 853.68, 'duration': 4.0}
+{'text': 'around that economy car with a turbo', 'start': 855.519, 'duration': 3.921}
+{'text': "um i don't know what i don't know what", 'start': 857.68, 'duration': 4.32}
+{'text': 'camaro ss model you have', 'start': 859.44, 'duration': 4.24}
+{'text': "i'm not sure if it's faster than a focus", 'start': 862.0, 'duration': 3.04}
+{'text': 'rs though', 'start': 863.68, 'duration': 2.88}
+{'text': 'but i mean we can look it up [\xa0__\xa0]', 'start': 865.04, 'duration': 6.479}
+{'text': 'camaros anyway', 'start': 866.56, 'duration': 8.24}
+{'text': "um we're really gonna you're gonna", 'start': 871.519, 'duration': 14.32}
+{'text': 'trigger the [\xa0__\xa0] out of me', 'start': 874.8, 'duration': 11.039}
+{'text': 'your position is renting is better than', 'start': 887.839, 'duration': 3.44}
+{'text': 'buying um a house', 'start': 889.519, 'duration': 3.281}
+{'text': 'um yeah i think renting is better', 'start': 891.279, 'duration': 3.841}
+{'text': 'generally', 'start': 892.8, 'duration': 5.68}
+{'text': "the 2019 camaro's quarter mile is 12.4", 'start': 895.12, 'duration': 4.959}
+{'text': "the focus is i'm pretty sure it's like", 'start': 898.48, 'duration': 4.08}
+{'text': '13.5 okay maybe an ss is faster', 'start': 900.079, 'duration': 3.921}
+{'text': '[\xa0__\xa0] you if we have to turn it all', 'start': 902.56, 'duration': 2.959}
+{'text': "though you'll fly off the road suck my", 'start': 904.0, 'duration': 3.76}
+{'text': 'dick', 'start': 905.519, 'duration': 2.241}
+{'text': 'your conversation with ice poseidon on', 'start': 910.639, 'duration': 4.64}
+{'text': 'this issue changed how i view drenting', 'start': 912.88, 'duration': 3.519}
+{'text': 'versus owning', 'start': 915.279, 'duration': 3.761}
+{'text': 'thanks man', 'start': 916.399, 'duration': 2.641}
+{'text': "um okay i'm interested in taking the", 'start': 923.44, 'duration': 4.16}
+{'text': 'legal video he likens trump to caesar', 'start': 926.0, 'duration': 3.6}
+{'text': 'crossing the rubicon and endorses', 'start': 927.6, 'duration': 3.359}
+{'text': 'biden as the only candidate they can', 'start': 929.6, 'duration': 3.359}
+{'text': 'restore rule of law maybe', 'start': 930.959, 'duration': 5.841}
+{'text': 'um okay let me continue reading', 'start': 932.959, 'duration': 3.841}
+{'text': 'the soaring cost oh wait in australia', 'start': 937.279, 'duration': 3.92}
+{'text': 'despite recent falls', 'start': 939.92, 'duration': 5.279}
+{'text': 'okay the soaring cost of housing has', 'start': 941.199, 'duration': 6.32}
+{'text': 'created gaping inequalities and inflamed', 'start': 945.199, 'duration': 3.921}
+{'text': 'both generational and geographical', 'start': 947.519, 'duration': 4.56}
+{'text': 'divides 1990 a generation of baby', 'start': 949.12, 'duration': 4.959}
+{'text': 'boomers with a median age of 35 owned a', 'start': 952.079, 'duration': 3.2}
+{'text': "third of america's real estate we've", 'start': 954.079, 'duration': 2.161}
+{'text': 'read about this', 'start': 955.279, 'duration': 2.321}
+{'text': 'um it might think fearing it would be', 'start': 956.24, 'duration': 2.56}
+{'text': 'about housing as part of the condition', 'start': 957.6, 'duration': 2.159}
+{'text': 'okay sorry', 'start': 958.8, 'duration': 4.159}
+{'text': 'um okay', 'start': 959.759, 'duration': 4.64}
+{'text': 'those on the left see okay right here', 'start': 962.959, 'duration': 2.8}
+{'text': 'politicians on the right have seen home', 'start': 964.399, 'duration': 2.641}
+{'text': 'ownership as a way to win votes by', 'start': 965.759, 'duration': 2.961}
+{'text': 'encouraging responsible citizenship', 'start': 967.04, 'duration': 2.96}
+{'text': 'those in the love to see housing is a', 'start': 968.72, 'duration': 2.64}
+{'text': 'conduit for redistribution and for', 'start': 970.0, 'duration': 2.8}
+{'text': 'nudging poorer households to build', 'start': 971.36, 'duration': 2.64}
+{'text': 'wealth', 'start': 972.8, 'duration': 3.279}
+{'text': "these arguments are overstated it's hard", 'start': 974.0, 'duration': 3.44}
+{'text': 'to show whether property ownership makes', 'start': 976.079, 'duration': 2.961}
+{'text': 'better citizens if you ignore leverage', 'start': 977.44, 'duration': 2.72}
+{'text': "it's usually better to own", 'start': 979.04, 'duration': 3.76}
+{'text': 'shares than to own homes and the cult of', 'start': 980.16, 'duration': 4.0}
+{'text': 'owner occupation has', 'start': 982.8, 'duration': 4.0}
+{'text': 'huge costs those who own homes often', 'start': 984.16, 'duration': 4.4}
+{'text': 'become nimbies who resist development in', 'start': 986.8, 'duration': 3.76}
+{'text': 'an effort to protect their investments', 'start': 988.56, 'duration': 3.76}
+{'text': "oh this is something i've said a lot one", 'start': 990.56, 'duration': 3.199}
+{'text': "of the reasons why it's so hard to", 'start': 992.32, 'duration': 2.48}
+{'text': 'develop land', 'start': 993.759, 'duration': 4.08}
+{'text': 'is because um', 'start': 994.8, 'duration': 3.039}
+{'text': 'it is because of people that own houses', 'start': 997.92, 'duration': 2.719}
+{'text': 'that are trying to protect their', 'start': 999.759, 'duration': 2.08}
+{'text': "investments meaning they're always going", 'start': 1000.639, 'duration': 2.481}
+{'text': 'to vote against the better', 'start': 1001.839, 'duration': 2.641}
+{'text': "of like the city they're always going to", 'start': 1003.12, 'duration': 2.639}
+{'text': 'vote against more development because', 'start': 1004.48, 'duration': 2.479}
+{'text': "it's going to lower their", 'start': 1005.759, 'duration': 4.0}
+{'text': 'houses right the price cost of their', 'start': 1006.959, 'duration': 3.521}
+{'text': 'houses which is', 'start': 1009.759, 'duration': 2.801}
+{'text': 'annoying nb stands for not in my', 'start': 1010.48, 'duration': 4.64}
+{'text': 'backyard', 'start': 1012.56, 'duration': 2.56}
+{'text': 'data crunching by the economist suggests', 'start': 1015.92, 'duration': 3.839}
+{'text': 'the number of new houses constructed per', 'start': 1018.079, 'duration': 3.44}
+{'text': 'person in the rich world has fallen by', 'start': 1019.759, 'duration': 4.8}
+{'text': 'half since the 1960s because supply is', 'start': 1021.519, 'duration': 4.481}
+{'text': 'constrained and the system is skewed', 'start': 1024.559, 'duration': 2.48}
+{'text': 'towards ownership', 'start': 1026.0, 'duration': 2.559}
+{'text': 'most people feel they risk being left', 'start': 1027.039, 'duration': 3.601}
+{'text': 'behind if they rent as a result', 'start': 1028.559, 'duration': 3.681}
+{'text': 'politicians focus on subsidizing', 'start': 1030.64, 'duration': 3.039}
+{'text': 'marginal buyers as britain has done in', 'start': 1032.24, 'duration': 2.559}
+{'text': 'recent years', 'start': 1033.679, 'duration': 2.961}
+{'text': 'that channels cash to the middle classes', 'start': 1034.799, 'duration': 3.841}
+{'text': 'further boosts price', 'start': 1036.64, 'duration': 4.64}
+{'text': 'further boosts prices and it fuels and', 'start': 1038.64, 'duration': 3.919}
+{'text': 'builds up', 'start': 1041.28, 'duration': 2.88}
+{'text': 'and it feels the build-up of mortgage', 'start': 1042.559, 'duration': 4.4}
+{'text': 'debt that makes crises more likely', 'start': 1044.16, 'duration': 4.24}
+{'text': "crackers we're going to tear one youtube", 'start': 1046.959, 'duration': 4.001}
+{'text': 'club thanks ben', 'start': 1048.4, 'duration': 4.56}
+{'text': 'it does not have to be this way right', 'start': 1050.96, 'duration': 3.04}
+{'text': "hold on wouldn't they do that even if", 'start': 1052.96, 'duration': 2.0}
+{'text': "they didn't live in their homes but", 'start': 1054.0, 'duration': 2.4}
+{'text': "we're renting them to other people", 'start': 1054.96, 'duration': 2.48}
+{'text': 'though destiny', 'start': 1056.4, 'duration': 3.2}
+{'text': 'yeah anybody that owns property is going', 'start': 1057.44, 'duration': 3.92}
+{'text': 'to generally be against new development', 'start': 1059.6, 'duration': 4.16}
+{'text': 'probably', 'start': 1061.36, 'duration': 2.4}
+{'text': 'does not have to be this way not', 'start': 1065.12, 'duration': 3.439}
+{'text': 'everywhere is afflicted with every part', 'start': 1066.96, 'duration': 2.32}
+{'text': 'of the housing', 'start': 1068.559, 'duration': 3.201}
+{'text': "curse tokyo so we've read about this in", 'start': 1069.28, 'duration': 4.32}
+{'text': 'the past japan is one of the only places', 'start': 1071.76, 'duration': 3.12}
+{'text': 'in the world', 'start': 1073.6, 'duration': 4.0}
+{'text': "that doesn't have these problems tokyo", 'start': 1074.88, 'duration': 4.88}
+{'text': 'has no property shortage between 2013', 'start': 1077.6, 'duration': 4.12}
+{'text': 'and 2017 it put up', 'start': 1079.76, 'duration': 5.2}
+{'text': '728 000 dwellings more than england did', 'start': 1081.72, 'duration': 5.24}
+{'text': 'without destroying quality of life the', 'start': 1084.96, 'duration': 3.68}
+{'text': 'number of rough sleepers has dropped by', 'start': 1086.96, 'duration': 2.959}
+{'text': '80 percent in the past', 'start': 1088.64, 'duration': 4.0}
+{'text': '20 years switzerland what does this', 'start': 1089.919, 'duration': 3.441}
+{'text': 'phrase mean', 'start': 1092.64, 'duration': 2.96}
+{'text': "rough sleepers i don't know what that", 'start': 1093.36, 'duration': 4.559}
+{'text': 'means', 'start': 1095.6, 'duration': 2.319}
+{'text': 'someone who sleeps their lives outside', 'start': 1100.0, 'duration': 3.2}
+{'text': 'because they have no home', 'start': 1101.76, 'duration': 3.2}
+{'text': 'is this just a thing for homeless people', 'start': 1103.2, 'duration': 4.0}
+{'text': 'okay', 'start': 1104.96, 'duration': 3.44}
+{'text': 'the number of homeless people then has', 'start': 1107.2, 'duration': 2.56}
+{'text': 'dropped by 80 percent of the fast in the', 'start': 1108.4, 'duration': 2.72}
+{'text': 'past 20 years', 'start': 1109.76, 'duration': 2.96}
+{'text': 'switzerland gives local governments', 'start': 1111.12, 'duration': 3.36}
+{'text': 'fiscal incentives to allow housing', 'start': 1112.72, 'duration': 2.319}
+{'text': 'development', 'start': 1114.48, 'duration': 1.92}
+{'text': "one reason why there's almost twice as", 'start': 1115.039, 'duration': 2.801}
+{'text': 'much home building per person as in', 'start': 1116.4, 'duration': 2.399}
+{'text': 'america', 'start': 1117.84, 'duration': 2.719}
+{'text': 'new zealand recruits some of homeowners', 'start': 1118.799, 'duration': 3.361}
+{'text': 'windfall gains through land and property', 'start': 1120.559, 'duration': 3.281}
+{'text': 'tax is based on valuations that are', 'start': 1122.16, 'duration': 3.2}
+{'text': 'frequently updated', 'start': 1123.84, 'duration': 3.28}
+{'text': 'most important in a few places the rate', 'start': 1125.36, 'duration': 3.439}
+{'text': 'of home ownership is low and no one bats', 'start': 1127.12, 'duration': 2.32}
+{'text': 'an eyelid', 'start': 1128.799, 'duration': 2.321}
+{'text': "it's just 50 in germany which is a", 'start': 1129.44, 'duration': 3.28}
+{'text': 'rental sector that encourages long-term', 'start': 1131.12, 'duration': 2.559}
+{'text': 'tenancies', 'start': 1132.72, 'duration': 2.48}
+{'text': 'provides clear and enforceable rights', 'start': 1133.679, 'duration': 3.521}
+{'text': 'for renters with ample supply and few', 'start': 1135.2, 'duration': 3.76}
+{'text': 'tax breaks or subsidies for owner', 'start': 1137.2, 'duration': 2.479}
+{'text': 'occupiers', 'start': 1138.96, 'duration': 2.64}
+{'text': 'home ownership is far less alluring the', 'start': 1139.679, 'duration': 4.081}
+{'text': 'political clout of nimvies is muted', 'start': 1141.6, 'duration': 3.76}
+{'text': 'despite strong recent growth in some', 'start': 1143.76, 'duration': 3.76}
+{'text': "cities germany's real house prices are", 'start': 1145.36, 'duration': 3.52}
+{'text': 'on average no higher than they were in', 'start': 1147.52, 'duration': 5.76}
+{'text': 'the 1980 they than they were in 1980.', 'start': 1148.88, 'duration': 6.96}
+{'text': 'home run is possible to escape is it', 'start': 1153.28, 'duration': 4.399}
+{'text': 'possible to escape the home ownership', 'start': 1155.84, 'duration': 4.0}
+{'text': 'fetish few governments today can ignore', 'start': 1157.679, 'duration': 4.081}
+{'text': 'the anger over housing shortages and', 'start': 1159.84, 'duration': 3.6}
+{'text': 'intergenerational unfairness', 'start': 1161.76, 'duration': 3.52}
+{'text': 'some have responded with bad ideas like', 'start': 1163.44, 'duration': 3.76}
+{'text': 'rent controls or even more mortgage', 'start': 1165.28, 'duration': 2.96}
+{'text': 'subsidies', 'start': 1167.2, 'duration': 3.12}
+{'text': 'yet there has been some progress america', 'start': 1168.24, 'duration': 3.76}
+{'text': 'has capped its tax break for mortgage', 'start': 1170.32, 'duration': 2.56}
+{'text': 'interest payments', 'start': 1172.0, 'duration': 2.799}
+{'text': 'britain has banned murky upfront fees', 'start': 1172.88, 'duration': 3.76}
+{'text': 'from rental contracts and curbed risky', 'start': 1174.799, 'duration': 4.0}
+{'text': 'mortgage lending a fledgling', 'start': 1176.64, 'duration': 4.88}
+{'text': 'yimbi yes in my backyard movement has', 'start': 1178.799, 'duration': 4.321}
+{'text': 'sprung up in many successful cities to', 'start': 1181.52, 'duration': 2.96}
+{'text': 'promote construction', 'start': 1183.12, 'duration': 3.2}
+{'text': 'those like this newspaper who want', 'start': 1184.48, 'duration': 3.52}
+{'text': 'popular support for free markets to', 'start': 1186.32, 'duration': 2.32}
+{'text': 'endure', 'start': 1188.0, 'duration': 2.559}
+{'text': 'should hope that such movements succeed', 'start': 1188.64, 'duration': 3.84}
+{'text': 'far from showing up capitalism housing', 'start': 1190.559, 'duration': 3.761}
+{'text': 'policies have made the system unsafe', 'start': 1192.48, 'duration': 3.36}
+{'text': 'inefficient and unfair', 'start': 1194.32, 'duration': 3.12}
+{'text': 'time to tear down this rotten edifice', 'start': 1195.84, 'duration': 3.04}
+{'text': 'and build a new housing market that', 'start': 1197.44, 'duration': 3.84}
+{'text': 'works', 'start': 1198.88, 'duration': 2.4}
+{'text': 'there you go', 'start': 1201.6, 'duration': 6.24}
+{'text': 'i love in discord i have to scroll down', 'start': 1212.48, 'duration': 3.28}
+{'text': '50 [\xa0__\xa0] channels to get to the voice', 'start': 1214.08, 'duration': 2.4}
+{'text': 'chats', 'start': 1215.76, 'duration': 1.84}
+{'text': 'given that barrett has been confirmed', 'start': 1216.48, 'duration': 2.88}
+{'text': 'monday how much do you see this see the', 'start': 1217.6, 'duration': 2.4}
+{'text': 'supreme court', 'start': 1219.36, 'duration': 1.84}
+{'text': 'influencing results of the election', 'start': 1220.0, 'duration': 3.52}
+{'text': 'hopefully not at all', 'start': 1221.2, 'duration': 3.76}
+{'text': 'this article feels like a recap on', 'start': 1223.52, 'duration': 2.399}
+{'text': 'everything destiny already believes', 'start': 1224.96, 'duration': 2.16}
+{'text': 'about home ownership yeah this is all', 'start': 1225.919, 'duration': 2.64}
+{'text': "kind of stuff that we've all kind of", 'start': 1227.12, 'duration': 2.08}
+{'text': 'talked about', 'start': 1228.559, 'duration': 3.761}
+{'text': 'and know already um', 'start': 1229.2, 'duration': 4.32}
+{'text': 'can you explain why funds are better', 'start': 1232.32, 'duration': 3.12}
+{'text': 'when you can get an upfront mortgage for', 'start': 1233.52, 'duration': 2.56}
+{'text': 'houses', 'start': 1235.44, 'duration': 2.16}
+{'text': "but you can't get a loan to invest in", 'start': 1236.08, 'duration': 3.44}
+{'text': "mutuals i'm generally two heading today", 'start': 1237.6, 'duration': 3.439}
+{'text': 'ah this is a really really really good', 'start': 1239.52, 'duration': 2.08}
+{'text': 'question', 'start': 1241.039, 'duration': 6.401}
+{'text': 'okay why is it good', 'start': 1241.6, 'duration': 5.84}
+{'text': "so okay yeah okay so you're asking", 'start': 1247.6, 'duration': 5.68}
+{'text': 'you can get an upfront mortgage for a', 'start': 1251.6, 'duration': 3.28}
+{'text': "house but you can't get a loan", 'start': 1253.28, 'duration': 4.16}
+{'text': 'to invest in mutual funds so why is it', 'start': 1254.88, 'duration': 3.279}
+{'text': 'better', 'start': 1257.44, 'duration': 3.2}
+{'text': 'to get why is it better to get mutual', 'start': 1258.159, 'duration': 3.921}
+{'text': 'funds rather than a house', 'start': 1260.64, 'duration': 4.56}
+{'text': 'when we can leverage right so leveraging', 'start': 1262.08, 'duration': 7.12}
+{'text': "is like um hold on let me make sure i'm", 'start': 1265.2, 'duration': 5.28}
+{'text': 'not [\xa0__\xa0] up my', 'start': 1269.2, 'duration': 6.32}
+{'text': 'physics terms this is a lever right [\xa0__\xa0]', 'start': 1270.48, 'duration': 5.04}
+{'text': "this is would be a lever right i'm this", 'start': 1275.6, 'duration': 3.68}
+{'text': "is the worst drawing of anything i've", 'start': 1277.84, 'duration': 14.0}
+{'text': 'ever drawn in my entire life', 'start': 1279.28, 'duration': 12.56}
+{'text': 'oh let me try this again', 'start': 1292.559, 'duration': 3.12}
+{'text': 'i think this is a lever the reason why', 'start': 1301.039, 'duration': 3.441}
+{'text': "it's called leverage is because", 'start': 1303.039, 'duration': 3.281}
+{'text': 'with a lever right with very little you', 'start': 1304.48, 'duration': 3.28}
+{'text': "can do a lot right that's why it's", 'start': 1306.32, 'duration': 3.599}
+{'text': 'called leverage', 'start': 1307.76, 'duration': 4.96}
+{'text': "right um i don't i don't know why i", 'start': 1309.919, 'duration': 4.801}
+{'text': 'decided to draw that but there you go', 'start': 1312.72, 'duration': 3.12}
+{'text': "if you don't understand what's going to", 'start': 1314.72, 'duration': 3.28}
+{'text': 'call it so the reason why leverage is', 'start': 1315.84, 'duration': 5.92}
+{'text': "good is let's say that i can do two", 'start': 1318.0, 'duration': 4.24}
+{'text': 'things', 'start': 1321.76, 'duration': 3.039}
+{'text': 'okay um man i could make a spreadsheet', 'start': 1322.24, 'duration': 4.0}
+{'text': 'just follow me in your head okay we', 'start': 1324.799, 'duration': 2.641}
+{'text': 'could do two things', 'start': 1326.24, 'duration': 2.72}
+{'text': 'i could either buy a one hundred', 'start': 1327.44, 'duration': 3.119}
+{'text': 'thousand dollar house', 'start': 1328.96, 'duration': 2.719}
+{'text': 'and i could rent that one hundred', 'start': 1330.559, 'duration': 2.641}
+{'text': 'thousand dollar house out for one', 'start': 1331.679, 'duration': 2.88}
+{'text': 'thousand dollars a month', 'start': 1333.2, 'duration': 5.2}
+{'text': 'after buying it or i can use one hundred', 'start': 1334.559, 'duration': 5.201}
+{'text': 'thousand dollars to put a ten percent', 'start': 1338.4, 'duration': 3.519}
+{'text': 'down payment on a million dollar house', 'start': 1339.76, 'duration': 3.76}
+{'text': 'and i can use that one hundred thousand', 'start': 1341.919, 'duration': 3.76}
+{'text': 'dollars to make ten thousand dollars a', 'start': 1343.52, 'duration': 2.56}
+{'text': 'month', 'start': 1345.679, 'duration': 2.161}
+{'text': "assuming it's ten times in cost maybe", 'start': 1346.08, 'duration': 3.76}
+{'text': "it's ten times in rent i'm using", 'start': 1347.84, 'duration': 3.36}
+{'text': "the same amount of money but i'm", 'start': 1349.84, 'duration': 2.719}
+{'text': "leveraging it i'm using a hundred", 'start': 1351.2, 'duration': 2.479}
+{'text': 'thousand to borrow', 'start': 1352.559, 'duration': 2.881}
+{'text': "nine hundred thousand and i'm gonna make", 'start': 1353.679, 'duration': 3.36}
+{'text': 'money off of that entire one million', 'start': 1355.44, 'duration': 3.04}
+{'text': 'dollar investment rather than just a', 'start': 1357.039, 'duration': 2.64}
+{'text': 'hundred thousand right this is', 'start': 1358.48, 'duration': 3.199}
+{'text': "leverage the reason why it doesn't", 'start': 1359.679, 'duration': 3.601}
+{'text': "really matter that you're leveraging", 'start': 1361.679, 'duration': 2.48}
+{'text': 'money to own your', 'start': 1363.28, 'duration': 3.04}
+{'text': "own house is because you're not being", 'start': 1364.159, 'duration': 4.161}
+{'text': 'productive with that capital', 'start': 1366.32, 'duration': 3.599}
+{'text': 'if you wanted to leverage your money if', 'start': 1368.32, 'duration': 2.88}
+{'text': 'you wanted to take out a loan for a', 'start': 1369.919, 'duration': 2.561}
+{'text': "house and say well look it's good i'm", 'start': 1371.2, 'duration': 3.04}
+{'text': 'taking out a loan for a house okay', 'start': 1372.48, 'duration': 3.28}
+{'text': 'are you going to generate revenue with', 'start': 1374.24, 'duration': 3.04}
+{'text': "it because that's the only time that", 'start': 1375.76, 'duration': 3.44}
+{'text': "leverage makes sense it's not leverage", 'start': 1377.28, 'duration': 3.44}
+{'text': 'if i go to the store and i buy a whole', 'start': 1379.2, 'duration': 2.8}
+{'text': 'bunch of things on my credit card and go', 'start': 1380.72, 'duration': 2.56}
+{'text': "home and enjoy them for myself that's", 'start': 1382.0, 'duration': 2.24}
+{'text': 'not leverage', 'start': 1383.28, 'duration': 4.32}
+{'text': "right that's just buying um that's just", 'start': 1384.24, 'duration': 3.919}
+{'text': 'buying', 'start': 1387.6, 'duration': 2.959}
+{'text': '[\xa0__\xa0] and and taking out a loan for it', 'start': 1388.159, 'duration': 3.281}
+{'text': 'right', 'start': 1390.559, 'duration': 3.521}
+{'text': 'um yeah so this is why so leverage', 'start': 1391.44, 'duration': 3.84}
+{'text': "doesn't really make sense", 'start': 1394.08, 'duration': 2.8}
+{'text': "unless you're getting like a [\xa0__\xa0] ton of", 'start': 1395.28, 'duration': 3.04}
+{'text': 'enjoyment i guess out of that house but', 'start': 1396.88, 'duration': 2.56}
+{'text': "then like i said that's like", 'start': 1398.32, 'duration': 2.32}
+{'text': "that's you're not making like a wise", 'start': 1399.44, 'duration': 2.719}
+{'text': 'like financial decision to make more', 'start': 1400.64, 'duration': 2.159}
+{'text': 'money', 'start': 1402.159, 'duration': 2.241}
+{'text': "you are you're just doing something", 'start': 1402.799, 'duration': 3.12}
+{'text': "because there's like a luxury there's a", 'start': 1404.4, 'duration': 2.96}
+{'text': "there's a premium associated with it", 'start': 1405.919, 'duration': 2.401}
+{'text': "that you're willing to pay", 'start': 1407.36, 'duration': 3.439}
+{'text': 'basically', 'start': 1408.32, 'duration': 2.479}
+{'text': "houses appreciate in value so it's", 'start': 1412.48, 'duration': 4.079}
+{'text': "productive houses don't necessarily", 'start': 1414.159, 'duration': 4.88}
+{'text': 'always appreciate in value and different', 'start': 1416.559, 'duration': 3.761}
+{'text': 'areas of housing will', 'start': 1419.039, 'duration': 2.88}
+{'text': 'increase at different rates this is why', 'start': 1420.32, 'duration': 3.44}
+{'text': 'i tend to prefer investments in the', 'start': 1421.919, 'duration': 3.521}
+{'text': 'market an investment in a market', 'start': 1423.76, 'duration': 3.68}
+{'text': 'is probably going to rise and that', 'start': 1425.44, 'duration': 3.4}
+{'text': 'investment can rise', 'start': 1427.44, 'duration': 3.04}
+{'text': 'irregardless or irrespective of where', 'start': 1428.84, 'duration': 3.56}
+{'text': 'you live if i make an investment in a', 'start': 1430.48, 'duration': 2.799}
+{'text': 'piece of property', 'start': 1432.4, 'duration': 2.32}
+{'text': 'and i decide that i want to leave i', 'start': 1433.279, 'duration': 3.28}
+{'text': "can't i'm literally locked there i'm a", 'start': 1434.72, 'duration': 3.199}
+{'text': '[\xa0__\xa0] prisoner to my', 'start': 1436.559, 'duration': 3.441}
+{'text': 'investment i cannot leave my [\xa0__\xa0]', 'start': 1437.919, 'duration': 3.681}
+{'text': 'house if i want to leave and i want to', 'start': 1440.0, 'duration': 2.64}
+{'text': 'sell it i have', 'start': 1441.6, 'duration': 2.959}
+{'text': 'and i do this in less than like seven or', 'start': 1442.64, 'duration': 3.279}
+{'text': 'eight years of owning the property', 'start': 1444.559, 'duration': 2.961}
+{'text': "then i've completely and totally thrown", 'start': 1445.919, 'duration': 3.601}
+{'text': 'away every single cent i could have', 'start': 1447.52, 'duration': 4.08}
+{'text': "possibly gained on that property it's", 'start': 1449.52, 'duration': 2.399}
+{'text': 'just', 'start': 1451.6, 'duration': 2.4}
+{'text': 'all gone and depending on when i sell it', 'start': 1451.919, 'duration': 3.36}
+{'text': 'i might be under', 'start': 1454.0, 'duration': 4.24}
+{'text': 'or upside down meaning the total amount', 'start': 1455.279, 'duration': 3.361}
+{'text': 'that i', 'start': 1458.24, 'duration': 3.679}
+{'text': 'owe is far greater than the actual', 'start': 1458.64, 'duration': 4.72}
+{'text': 'cost of the underlying asset that', 'start': 1461.919, 'duration': 3.12}
+{'text': 'secures the loan so for instance i might', 'start': 1463.36, 'duration': 2.72}
+{'text': 'take out a 500 000', 'start': 1465.039, 'duration': 2.161}
+{'text': "mortgage on a house and maybe it's worth", 'start': 1466.08, 'duration': 2.719}
+{'text': '400 000 so now when i sell it i have to', 'start': 1467.2, 'duration': 2.479}
+{'text': 'come up with a difference', 'start': 1468.799, 'duration': 2.401}
+{'text': "there's just like a whole bunch of stuff", 'start': 1469.679, 'duration': 3.681}
+{'text': 'that could go bad when it comes to', 'start': 1471.2, 'duration': 3.04}
+{'text': 'buying a home', 'start': 1473.36, 'duration': 4.72}
+{'text': 'versus renting now there might', 'start': 1474.24, 'duration': 7.039}
+{'text': 'hold on when you rent you pay a premium', 'start': 1478.08, 'duration': 5.04}
+{'text': 'to the property owner in most places in', 'start': 1481.279, 'duration': 3.041}
+{'text': 'the country that premium is at least', 'start': 1483.12, 'duration': 2.799}
+{'text': 'five percent of the properties value', 'start': 1484.32, 'duration': 3.44}
+{'text': "per year from an investor's point of", 'start': 1485.919, 'duration': 3.441}
+{'text': 'view that would be the cap rate would', 'start': 1487.76, 'duration': 3.12}
+{'text': "you acknowledge most of the time it's", 'start': 1489.36, 'duration': 2.799}
+{'text': "better to buy than rent if you're living", 'start': 1490.88, 'duration': 2.56}
+{'text': 'in the same price property', 'start': 1492.159, 'duration': 2.4}
+{'text': "you're there for an extended period of", 'start': 1493.44, 'duration': 2.56}
+{'text': "time and it's not a huge percent of your", 'start': 1494.559, 'duration': 2.081}
+{'text': 'net worth', 'start': 1496.0, 'duration': 3.039}
+{'text': "if you're going to stay in some house if", 'start': 1496.64, 'duration': 3.919}
+{'text': "you're going to be there", 'start': 1499.039, 'duration': 6.081}
+{'text': 'for a bare minimum of five years', 'start': 1500.559, 'duration': 7.441}
+{'text': 'then maybe it might be better to buy', 'start': 1505.12, 'duration': 4.32}
+{'text': "that's when we can that's when we can", 'start': 1508.0, 'duration': 1.84}
+{'text': 'start', 'start': 1509.44, 'duration': 2.64}
+{'text': "talking about it right that's when we", 'start': 1509.84, 'duration': 4.48}
+{'text': 'can start having the conversation', 'start': 1512.08, 'duration': 4.16}
+{'text': 'but depending on what comes up in those', 'start': 1514.32, 'duration': 3.12}
+{'text': 'first five years', 'start': 1516.24, 'duration': 3.28}
+{'text': 'that window might grow to ten or more', 'start': 1517.44, 'duration': 4.08}
+{'text': 'years so for instance if you need to do', 'start': 1519.52, 'duration': 2.88}
+{'text': 'like a big h', 'start': 1521.52, 'duration': 3.039}
+{'text': 'like um like uh not hvac like if you', 'start': 1522.4, 'duration': 3.68}
+{'text': 'need to do like a big air conditioner', 'start': 1524.559, 'duration': 2.321}
+{'text': 'replacement', 'start': 1526.08, 'duration': 4.24}
+{'text': "or if you've got a big um like asbestos", 'start': 1526.88, 'duration': 4.159}
+{'text': 'problem', 'start': 1530.32, 'duration': 2.479}
+{'text': "or if you've got to replace a roof or if", 'start': 1531.039, 'duration': 3.52}
+{'text': 'you have to redo a driveway', 'start': 1532.799, 'duration': 4.161}
+{'text': 'any one of these types of repairs can', 'start': 1534.559, 'duration': 4.641}
+{'text': 'eat into so much of your equity', 'start': 1536.96, 'duration': 4.0}
+{'text': "kind of you're paying you're paying a", 'start': 1539.2, 'duration': 3.2}
+{'text': 'cost to maintain your asset', 'start': 1540.96, 'duration': 4.0}
+{'text': "that now you're looking at 10 years out", 'start': 1542.4, 'duration': 3.84}
+{'text': 'until you start to like', 'start': 1544.96, 'duration': 2.8}
+{'text': 'gain enough equity in the home for your', 'start': 1546.24, 'duration': 5.28}
+{'text': 'investment to be worth it um', 'start': 1547.76, 'duration': 3.76}
+{'text': 'houses appreciate in value in general', 'start': 1553.76, 'duration': 3.279}
+{'text': 'over time on the aggregate one can', 'start': 1555.6, 'duration': 2.72}
+{'text': 'expect a given house to appreciate in', 'start': 1557.039, 'duration': 3.281}
+{'text': 'value over the course if they get wrong', 'start': 1558.32, 'duration': 3.68}
+{'text': "you're using this you have the right", 'start': 1560.32, 'duration': 4.16}
+{'text': 'terms but you are using them very wrong', 'start': 1562.0, 'duration': 5.6}
+{'text': 'i can use these terms so i can say', 'start': 1564.48, 'duration': 6.16}
+{'text': 'markets appreciate in value in general', 'start': 1567.6, 'duration': 4.64}
+{'text': 'over time on the aggregate', 'start': 1570.64, 'duration': 3.12}
+{'text': 'i can say that about markets because', 'start': 1572.24, 'duration': 4.559}
+{'text': 'when i buy shares of vanguards s p 500', 'start': 1573.76, 'duration': 3.84}
+{'text': 'etfs', 'start': 1576.799, 'duration': 4.321}
+{'text': 'when i do that that tracks the market', 'start': 1577.6, 'duration': 6.72}
+{'text': 'over time in general on the aggregate', 'start': 1581.12, 'duration': 6.24}
+{'text': 'when you buy a single house', 'start': 1584.32, 'duration': 5.44}
+{'text': 'you do not know if that single house is', 'start': 1587.36, 'duration': 5.04}
+{'text': 'going to track the aggregate over time', 'start': 1589.76, 'duration': 4.72}
+{'text': 'when you say houses increase in the', 'start': 1592.4, 'duration': 3.04}
+{'text': 'aggregate over time', 'start': 1594.48, 'duration': 3.36}
+{'text': 'individual houses do not a house buying', 'start': 1595.44, 'duration': 5.04}
+{'text': 'a house is the same as buying a stock', 'start': 1597.84, 'duration': 6.48}
+{'text': 'not buying a mutual fund right', 'start': 1600.48, 'duration': 3.84}
+{'text': 'those are two different things just', 'start': 1605.52, 'duration': 3.279}
+{'text': 'because the markets in general rise over', 'start': 1607.2, 'duration': 2.64}
+{'text': 'time you should know this when trading', 'start': 1608.799, 'duration': 1.521}
+{'text': 'stocks', 'start': 1609.84, 'duration': 2.48}
+{'text': 'just because markets in general rise', 'start': 1610.32, 'duration': 3.76}
+{'text': "over time doesn't mean every single", 'start': 1612.32, 'duration': 4.16}
+{'text': 'individual stock will rise over time', 'start': 1614.08, 'duration': 3.76}
+{'text': 'honestly remember if you just go on', 'start': 1616.48, 'duration': 2.24}
+{'text': "stream you've been funny in front of", 'start': 1617.84, 'duration': 1.839}
+{'text': 'everybody by saying that i have a small', 'start': 1618.72, 'duration': 2.0}
+{'text': 'penis i like to point out that just', 'start': 1619.679, 'duration': 1.6}
+{'text': "because you're a fractured creature", 'start': 1620.72, 'duration': 1.28}
+{'text': "doesn't mean i think", 'start': 1621.279, 'duration': 2.081}
+{'text': "oh i don't remember calling you small", 'start': 1622.0, 'duration': 5.039}
+{'text': 'dick but okay', 'start': 1623.36, 'duration': 4.96}
+{'text': 'how do you decide what to invest in like', 'start': 1627.039, 'duration': 2.401}
+{'text': 'how much research does this take just', 'start': 1628.32, 'duration': 2.4}
+{'text': 'invest in boring mutual funds if you', 'start': 1629.44, 'duration': 2.64}
+{'text': "don't want to research that's what i do", 'start': 1630.72, 'duration': 4.64}
+{'text': 'i just buy yeah buy [\xa0__\xa0] etf buy', 'start': 1632.08, 'duration': 6.0}
+{'text': 'boring [\xa0__\xa0]', 'start': 1635.36, 'duration': 2.72}
+{'text': 'what if i buy 100 houses at a time if', 'start': 1638.159, 'duration': 3.201}
+{'text': "you buy a lot of houses well now you're", 'start': 1640.08, 'duration': 2.88}
+{'text': 'diversifying your investment so yeah you', 'start': 1641.36, 'duration': 3.52}
+{'text': 'could do that', 'start': 1642.96, 'duration': 3.199}
+{'text': "shouldn't we really distinguish between", 'start': 1644.88, 'duration': 2.799}
+{'text': 'buying a house in a small town suburb', 'start': 1646.159, 'duration': 3.041}
+{'text': 'and buying property in a major city new', 'start': 1647.679, 'duration': 3.36}
+{'text': 'york city or european capital', 'start': 1649.2, 'duration': 3.28}
+{'text': "sure but again like there's risk", 'start': 1651.039, 'duration': 2.961}
+{'text': 'associated with everything right like', 'start': 1652.48, 'duration': 2.96}
+{'text': 'what if you own property in new york', 'start': 1654.0, 'duration': 2.0}
+{'text': 'right now', 'start': 1655.44, 'duration': 2.959}
+{'text': "you're probably getting [\xa0__\xa0] hard", 'start': 1656.0, 'duration': 3.76}
+{'text': 'right', 'start': 1658.399, 'duration': 2.64}
+{'text': "and it's hard to say like what's going", 'start': 1659.76, 'duration': 2.48}
+{'text': "to recover or what's not going to", 'start': 1661.039, 'duration': 2.64}
+{'text': "recover i'm always confident that", 'start': 1662.24, 'duration': 3.36}
+{'text': "markets will recover in fact i'm sorry", 'start': 1663.679, 'duration': 3.921}
+{'text': 'markets have recovered um i believe', 'start': 1665.6, 'duration': 3.28}
+{'text': "we're posting all-time highs again", 'start': 1667.6, 'duration': 4.88}
+{'text': 'right yeah marketing markets are back', 'start': 1668.88, 'duration': 4.799}
+{'text': 'baby', 'start': 1672.48, 'duration': 3.28}
+{'text': 'but your real estate definitely is not', 'start': 1673.679, 'duration': 8.641}
+{'text': "back depending on where you're at", 'start': 1675.76, 'duration': 7.84}
+{'text': 'would policies that help cover things', 'start': 1682.32, 'duration': 2.8}
+{'text': 'like repairing asbestos slush mold be a', 'start': 1683.6, 'duration': 2.0}
+{'text': 'good thing', 'start': 1685.12, 'duration': 2.0}
+{'text': "sure but now you're eating into the", 'start': 1685.6, 'duration': 2.799}
+{'text': "profit that you're gaining now you're", 'start': 1687.12, 'duration': 2.799}
+{'text': 'having to take out insurance', 'start': 1688.399, 'duration': 5.76}
+{'text': 'against your investment right [\xa0__\xa0]', 'start': 1689.919, 'duration': 4.24}
+{'text': 'the risk mitigation of a house is that', 'start': 1694.96, 'duration': 3.439}
+{'text': 'your demand for housing is extremely', 'start': 1696.64, 'duration': 4.0}
+{'text': 'stable and that you always need a home', 'start': 1698.399, 'duration': 3.841}
+{'text': 'um i reject that i think that your', 'start': 1700.64, 'duration': 2.96}
+{'text': 'demand for housing might be stable but', 'start': 1702.24, 'duration': 2.48}
+{'text': "there's always going to be supply of", 'start': 1703.6, 'duration': 1.6}
+{'text': 'housing', 'start': 1704.72, 'duration': 2.079}
+{'text': 'like you can always get an apartment', 'start': 1705.2, 'duration': 3.04}
+{'text': 'unless you need a particular house in a', 'start': 1706.799, 'duration': 2.321}
+{'text': 'particular area', 'start': 1708.24, 'duration': 2.4}
+{'text': "it's highly unlikely that you literally", 'start': 1709.12, 'duration': 3.039}
+{'text': 'cannot find a place to leave if you have', 'start': 1710.64, 'duration': 14.0}
+{'text': 'the money to pay for a place to live', 'start': 1712.159, 'duration': 13.841}
+{'text': 'what about a condo i have the option to', 'start': 1724.64, 'duration': 3.36}
+{'text': '30k my mortgage would only be 500 a', 'start': 1726.0, 'duration': 3.279}
+{'text': 'month or so i plan to say that for five', 'start': 1728.0, 'duration': 2.96}
+{'text': 'to ten years i mean yeah maybe', 'start': 1729.279, 'duration': 4.161}
+{'text': 'republican in 2020 to get these commies', 'start': 1730.96, 'duration': 5.04}
+{'text': 'out of office aka democrats', 'start': 1733.44, 'duration': 6.4}
+{'text': 'good one', 'start': 1736.0, 'duration': 3.84}
+{'text': 'this page already on the server oh [\xa0__\xa0]', 'start': 1745.12, 'duration': 4.08}
+{'text': 'this [\xa0__\xa0]', 'start': 1748.48, 'duration': 5.919}
+{'text': '[\xa0__\xa0] so exciting we made bread', 'start': 1749.2, 'duration': 5.199}
+{'text': "don't rets reits", 'start': 1757.84, 'duration': 5.52}
+{'text': 'an reit is a real estate investment', 'start': 1761.039, 'duration': 3.681}
+{'text': 'trust i believe', 'start': 1763.36, 'duration': 2.799}
+{'text': "have really bad tax issues on owner's", 'start': 1764.72, 'duration': 2.72}
+{'text': 'assembly from a coursework i thought', 'start': 1766.159, 'duration': 2.64}
+{'text': 'they paid like 80 of revenues out as', 'start': 1767.44, 'duration': 2.4}
+{'text': "dividends but i'm not tax", 'start': 1768.799, 'duration': 4.321}
+{'text': "expert um i don't know 100", 'start': 1769.84, 'duration': 7.6}
+{'text': 'is policy equal insurance wait yeah', 'start': 1773.12, 'duration': 5.919}
+{'text': 'like a homeowner policy is your', 'start': 1777.44, 'duration': 4.4}
+{'text': 'insurance yeah what do you mean', 'start': 1779.039, 'duration': 15.201}
+{'text': 'you pronounce it like reit yeah', 'start': 1781.84, 'duration': 13.76}
+{'text': 'in a financial crisis getting your', 'start': 1794.24, 'duration': 2.799}
+{'text': 'contractual rent money out of equities', 'start': 1795.6, 'duration': 2.799}
+{'text': 'would be hard to do that is why', 'start': 1797.039, 'duration': 3.601}
+{'text': 'you satisfying your own housing demand', 'start': 1798.399, 'duration': 3.681}
+{'text': 'reduces risk', 'start': 1800.64, 'duration': 3.279}
+{'text': 'getting your contractual rent money out', 'start': 1802.08, 'duration': 4.16}
+{'text': 'of equities would be hard to do', 'start': 1803.919, 'duration': 3.441}
+{'text': "but you don't have to take your", 'start': 1806.24, 'duration': 2.72}
+{'text': 'contractual rent money out of equities', 'start': 1807.36, 'duration': 3.199}
+{'text': 'you can just pay rent', 'start': 1808.96, 'duration': 3.12}
+{'text': 'if you can pay for a mortgage every', 'start': 1810.559, 'duration': 3.201}
+{'text': 'month you can probably pay rent every', 'start': 1812.08, 'duration': 3.76}
+{'text': 'month', 'start': 1813.76, 'duration': 10.08}
+{'text': "i'm assuming you have an income", 'start': 1815.84, 'duration': 8.0}
+{'text': "i'm so hungry i need a little cereal in", 'start': 1835.84, 'duration': 3.439}
+{'text': 'my [\xa0__\xa0] dishwashers', 'start': 1837.279, 'duration': 5.12}
+{'text': 'taking too long', 'start': 1839.279, 'duration': 3.12}
+{'text': 'what mortgage would you recommend my', 'start': 1842.96, 'duration': 4.16}
+{'text': 'recommendation for a mortgage', 'start': 1845.679, 'duration': 4.72}
+{'text': 'is that you would get the longest lowest', 'start': 1847.12, 'duration': 4.559}
+{'text': 'interest rate mortgage', 'start': 1850.399, 'duration': 2.561}
+{'text': 'whatever the lowest interest rate you', 'start': 1851.679, 'duration': 3.281}
+{'text': 'can get that is the longest [\xa0__\xa0]', 'start': 1852.96, 'duration': 3.28}
+{'text': "borrow period on it that's what you", 'start': 1854.96, 'duration': 2.959}
+{'text': 'should get', 'start': 1856.24, 'duration': 4.72}
+{'text': 'money put money on it money', 'start': 1857.919, 'duration': 4.721}
+{'text': 'yes or no do you have a taiwanese power', 'start': 1860.96, 'duration': 3.52}
+{'text': 'supply inside your brig', 'start': 1862.64, 'duration': 4.8}
+{'text': "you've seen the power", 'start': 1864.48, 'duration': 2.96}

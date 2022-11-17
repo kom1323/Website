@@ -1,0 +1,872 @@
+{'text': 'what in the world', 'start': 3.679, 'duration': 3.441}
+{'text': 'happened to brianna taylor a describe', 'start': 4.96, 'duration': 3.84}
+{'text': 'king manifesto', 'start': 7.12, 'duration': 5.04}
+{'text': 'the manifesto writer himself please', 'start': 8.8, 'duration': 7.2}
+{'text': 'describe king please please do not go', 'start': 12.16, 'duration': 5.52}
+{'text': 'out and kill anybody because if you do', 'start': 16.0, 'duration': 3.68}
+{'text': 'you having like multiple manifestos my', 'start': 17.68, 'duration': 3.12}
+{'text': 'stuff is gonna make me look', 'start': 19.68, 'duration': 4.16}
+{'text': 'really bad okay', 'start': 20.8, 'duration': 3.04}
+{'text': "if you're not aware earlier today", 'start': 24.0, 'duration': 3.359}
+{'text': 'september 23rd a grand jury brought no', 'start': 25.199, 'duration': 3.681}
+{'text': 'charges against the louisville police', 'start': 27.359, 'duration': 3.121}
+{'text': 'officers for the killing of brianna', 'start': 28.88, 'duration': 2.559}
+{'text': 'taylor', 'start': 30.48, 'duration': 2.8}
+{'text': 'the only charges made were three counts', 'start': 31.439, 'duration': 3.361}
+{'text': 'wanton endangerment against officer', 'start': 33.28, 'duration': 2.56}
+{'text': 'brett', 'start': 34.8, 'duration': 3.919}
+{'text': 'hank hankinson for shooting into a home', 'start': 35.84, 'duration': 5.44}
+{'text': 'next door which had people inside', 'start': 38.719, 'duration': 4.481}
+{'text': 'under kentucky law a person is guilty of', 'start': 41.28, 'duration': 3.68}
+{'text': 'wanton endangerment in the first degree', 'start': 43.2, 'duration': 2.48}
+{'text': 'when', 'start': 44.96, 'duration': 3.52}
+{'text': 'under circumstances steve manifesting', 'start': 45.68, 'duration': 3.92}
+{'text': 'extreme indifference to the value of', 'start': 48.48, 'duration': 2.239}
+{'text': 'human life he wently', 'start': 49.6, 'duration': 2.88}
+{'text': 'wantonly engages in conduct which', 'start': 50.719, 'duration': 3.441}
+{'text': 'creates a substantial danger', 'start': 52.48, 'duration': 3.36}
+{'text': "of threat or i'm sorry of death or", 'start': 54.16, 'duration': 2.879}
+{'text': 'serious physical injury to another', 'start': 55.84, 'duration': 2.8}
+{'text': 'person', 'start': 57.039, 'duration': 3.121}
+{'text': 'this decision has sparked more protests', 'start': 58.64, 'duration': 2.8}
+{'text': 'in louisville a city that has already', 'start': 60.16, 'duration': 2.64}
+{'text': 'seen several protests over the course of', 'start': 61.44, 'duration': 2.32}
+{'text': 'the summer in response to briana', 'start': 62.8, 'duration': 2.719}
+{'text': "taylor's killing", 'start': 63.76, 'duration': 3.76}
+{'text': 'police officers not charged for brian', 'start': 65.519, 'duration': 3.521}
+{'text': 'for killing granite taylor ap news link', 'start': 67.52, 'duration': 4.8}
+{'text': 'to a news story', 'start': 69.04, 'duration': 4.88}
+{'text': 'disclaimer this post is not intended to', 'start': 72.32, 'duration': 3.119}
+{'text': 'describe criminal or civil charges that', 'start': 73.92, 'duration': 2.559}
+{'text': 'should have been pressed is just a', 'start': 75.439, 'duration': 2.081}
+{'text': 'summary of the course of events that', 'start': 76.479, 'duration': 2.161}
+{'text': "happened in ida brandon taylor's", 'start': 77.52, 'duration': 2.16}
+{'text': 'unfortunate death', 'start': 78.64, 'duration': 4.159}
+{'text': 'and my opinions on them', 'start': 79.68, 'duration': 5.28}
+{'text': 'important people brianna taylor deceased', 'start': 82.799, 'duration': 3.201}
+{'text': 'black female girlfriend', 'start': 84.96, 'duration': 2.799}
+{'text': 'of kenneth walker ex-girlfriend of', 'start': 86.0, 'duration': 3.68}
+{'text': 'jamarcus glover', 'start': 87.759, 'duration': 3.921}
+{'text': 'kenneth walker black male boyfriend', 'start': 89.68, 'duration': 3.28}
+{'text': 'brianna taylor', 'start': 91.68, 'duration': 3.04}
+{'text': 'demarcus glover black male suspected', 'start': 92.96, 'duration': 3.28}
+{'text': 'drug trafficker the ex-boyfriend of', 'start': 94.72, 'duration': 2.64}
+{'text': 'briana taylor', 'start': 96.24, 'duration': 2.96}
+{'text': 'adrian walker black male suspected drug', 'start': 97.36, 'duration': 3.92}
+{'text': 'trafficker sergeant john mattenly', 'start': 99.2, 'duration': 3.36}
+{'text': 'wounded white male police sergeant', 'start': 101.28, 'duration': 2.32}
+{'text': 'leading the raid', 'start': 102.56, 'duration': 4.4}
+{'text': 'brett hankinson hankerson henkeson', 'start': 103.6, 'duration': 4.72}
+{'text': 'white male police officer involved in', 'start': 106.96, 'duration': 2.88}
+{'text': 'the raid now fired charged with three', 'start': 108.32, 'duration': 7.52}
+{'text': 'counts of wanton endangerment', 'start': 109.84, 'duration': 6.0}
+{'text': 'wait', 'start': 120.96, 'duration': 2.32}
+{'text': 'okay sorry', 'start': 126.88, 'duration': 2.96}
+{'text': 'before louisville police had been', 'start': 130.0, 'duration': 3.36}
+{'text': 'investigating jamarcus glover and adrian', 'start': 131.84, 'duration': 3.52}
+{'text': 'walker', 'start': 133.36, 'duration': 3.599}
+{'text': 'both suspected of trafficking drugs out', 'start': 135.36, 'duration': 3.2}
+{'text': 'of a drug house far from beyond a', 'start': 136.959, 'duration': 2.801}
+{'text': "trailer's house", 'start': 138.56, 'duration': 3.2}
+{'text': "far from briana taylor's house judges", 'start': 139.76, 'duration': 3.04}
+{'text': 'had signed a warrant to search miss', 'start': 141.76, 'duration': 2.08}
+{'text': "taylor's house because the police", 'start': 142.8, 'duration': 2.32}
+{'text': "believe that glover brianna's", 'start': 143.84, 'duration': 2.399}
+{'text': 'ex-boyfriend at the time', 'start': 145.12, 'duration': 3.04}
+{'text': "had been receiving packages at taylor's", 'start': 146.239, 'duration': 3.841}
+{'text': 'address the warrant was originally', 'start': 148.16, 'duration': 3.12}
+{'text': 'written as a no knock search warrant', 'start': 150.08, 'duration': 2.239}
+{'text': 'meaning the police were not required to', 'start': 151.28, 'duration': 2.4}
+{'text': 'announce their presence or intentions', 'start': 152.319, 'duration': 3.041}
+{'text': 'for entering the residence however', 'start': 153.68, 'duration': 3.12}
+{'text': 'before the raid orders were changed to', 'start': 155.36, 'duration': 2.56}
+{'text': 'knock unannounced meaning the police', 'start': 156.8, 'duration': 2.159}
+{'text': 'were required to announce themselves', 'start': 157.92, 'duration': 2.0}
+{'text': 'beforehand', 'start': 158.959, 'duration': 2.241}
+{'text': 'in their meeting to plan the raid the', 'start': 159.92, 'duration': 2.64}
+{'text': 'officers were told taylor lived alone', 'start': 161.2, 'duration': 2.24}
+{'text': 'and had no boyfriend', 'start': 162.56, 'duration': 2.319}
+{'text': 'while she was in fact living alone her', 'start': 163.44, 'duration': 3.28}
+{'text': 'boyfriend kenneth walker both existed', 'start': 164.879, 'duration': 6.401}
+{'text': 'and was sleeping over', 'start': 166.72, 'duration': 6.0}
+{'text': "what we know about brenda taylor's case", 'start': 171.28, 'duration': 4.56}
+{'text': 'and death new york times', 'start': 172.72, 'duration': 3.12}
+{'text': 'uh another article i guess we can bring', 'start': 175.92, 'duration': 4.959}
+{'text': 'this up in the background if you want', 'start': 177.68, 'duration': 3.199}
+{'text': 'starting at 10 pm louisville police', 'start': 182.48, 'duration': 3.2}
+{'text': "officers began circling brianna taylor's", 'start': 184.0, 'duration': 3.04}
+{'text': 'apartment in preparation for the raid at', 'start': 185.68, 'duration': 3.199}
+{'text': '12 35 a.m the officers put on their', 'start': 187.04, 'duration': 3.36}
+{'text': 'tactical gear and lined up outside of', 'start': 188.879, 'duration': 2.401}
+{'text': "tiller's residence", 'start': 190.4, 'duration': 3.04}
+{'text': 'at 12 40 am the confrontation began with', 'start': 191.28, 'duration': 3.76}
+{'text': 'what sergeant manningly describes as a', 'start': 193.44, 'duration': 3.04}
+{'text': 'knock and what walker describes as a', 'start': 195.04, 'duration': 3.04}
+{'text': 'banging on the door', 'start': 196.48, 'duration': 3.039}
+{'text': 'walker says that the first thing taylor', 'start': 198.08, 'duration': 3.36}
+{'text': 'said through the door was who is it and', 'start': 199.519, 'duration': 3.681}
+{'text': 'received no response', 'start': 201.44, 'duration': 3.2}
+{'text': 'the police say they heard nothing the', 'start': 203.2, 'duration': 3.599}
+{'text': 'police knocked again walker says taylor', 'start': 204.64, 'duration': 3.2}
+{'text': 'asked who was there', 'start': 206.799, 'duration': 3.36}
+{'text': 'loud at the top of her lungs again both', 'start': 207.84, 'duration': 3.52}
+{'text': 'sides of the door claimed they heard', 'start': 210.159, 'duration': 2.961}
+{'text': 'silence', 'start': 211.36, 'duration': 3.28}
+{'text': 'sergeant mattingly says after a third', 'start': 213.12, 'duration': 2.72}
+{'text': 'knock they began announcing themselves', 'start': 214.64, 'duration': 2.4}
+{'text': 'as police and that they have a search', 'start': 215.84, 'duration': 1.759}
+{'text': 'warrant', 'start': 217.04, 'duration': 2.24}
+{'text': 'walker says he then joined taylor in', 'start': 217.599, 'duration': 3.28}
+{'text': 'yelling through the door asking who was', 'start': 219.28, 'duration': 1.92}
+{'text': 'there', 'start': 220.879, 'duration': 2.881}
+{'text': 'both sides say they heard no response', 'start': 221.2, 'duration': 3.2}
+{'text': 'frightened', 'start': 223.76, 'duration': 2.8}
+{'text': 'walker and taylor hastily put on clothes', 'start': 224.4, 'duration': 3.839}
+{'text': "walker putting on taylor's pants and", 'start': 226.56, 'duration': 3.2}
+{'text': 'confusion', 'start': 228.239, 'duration': 3.521}
+{'text': 'wait hold on okay privileged question', 'start': 229.76, 'duration': 5.119}
+{'text': 'coming through ready', 'start': 231.76, 'duration': 3.119}
+{'text': "i don't think i've ever seen an", 'start': 235.76, 'duration': 3.6}
+{'text': 'apartment in my entire life', 'start': 237.12, 'duration': 4.0}
+{'text': "where there's not like a peephole to", 'start': 239.36, 'duration': 3.28}
+{'text': 'look out through the front door do these', 'start': 241.12, 'duration': 2.56}
+{'text': 'doors exist', 'start': 242.64, 'duration': 2.72}
+{'text': "i legitimately can't think ever i know", 'start': 243.68, 'duration': 3.199}
+{'text': "in houses they're pretty i don't see", 'start': 245.36, 'duration': 2.56}
+{'text': "them all the time but i don't think i've", 'start': 246.879, 'duration': 2.801}
+{'text': 'ever heard of an apartment complex', 'start': 247.92, 'duration': 3.039}
+{'text': "that doesn't have some type of like", 'start': 249.68, 'duration': 3.44}
+{'text': "peephole i guess this one doesn't i", 'start': 250.959, 'duration': 3.28}
+{'text': "don't know what you would call it", 'start': 253.12, 'duration': 4.72}
+{'text': "you don't have one oh mine in rural new", 'start': 254.239, 'duration': 4.161}
+{'text': 'york', 'start': 257.84, 'duration': 2.639}
+{'text': "okay got you crazy i've never ever seen", 'start': 258.4, 'duration': 9.84}
+{'text': 'in my life but', 'start': 260.479, 'duration': 9.041}
+{'text': 'oh but cops might be standing on the', 'start': 268.24, 'duration': 4.16}
+{'text': 'side anyway true', 'start': 269.52, 'duration': 2.88}
+{'text': 'walker and taylor hastily put on clothes', 'start': 281.04, 'duration': 3.12}
+{'text': "walker putting on taylor's pants in", 'start': 282.72, 'duration': 2.24}
+{'text': 'confusion', 'start': 284.16, 'duration': 2.08}
+{'text': 'in later conversations with', 'start': 284.96, 'duration': 2.72}
+{'text': 'investigators walker says at this point', 'start': 286.24, 'duration': 2.16}
+{'text': 'he believes', 'start': 287.68, 'duration': 2.239}
+{'text': 'he believed jamarcus glover an', 'start': 288.4, 'duration': 2.96}
+{'text': 'ex-boyfriend of taylor and suspected', 'start': 289.919, 'duration': 3.521}
+{'text': 'drug trafficker to be at the door', 'start': 291.36, 'duration': 4.0}
+{'text': 'and he popped up over there once before', 'start': 293.44, 'duration': 3.12}
+{'text': 'while i was there like a couple months', 'start': 295.36, 'duration': 2.48}
+{'text': "ago so that's what i thought was going", 'start': 296.56, 'duration': 2.16}
+{'text': 'on walker', 'start': 297.84, 'duration': 2.16}
+{'text': 'he claims this is the reason he grabs', 'start': 298.72, 'duration': 2.8}
+{'text': 'his gun so then i grab my gun which is', 'start': 300.0, 'duration': 2.4}
+{'text': 'legal', 'start': 301.52, 'duration': 2.56}
+{'text': "i'm licensed to carry everything i've", 'start': 302.4, 'duration': 4.079}
+{'text': "never been fired i've never been fired", 'start': 304.08, 'duration': 2.959}
+{'text': 'my gun', 'start': 306.479, 'duration': 5.361}
+{'text': 'outside of a range walker', 'start': 307.039, 'duration': 4.801}
+{'text': 'walker says he and taylor then left', 'start': 312.0, 'duration': 4.16}
+{'text': 'their bedroom', 'start': 314.639, 'duration': 3.761}
+{'text': 'police say they were screaming police', 'start': 316.16, 'duration': 3.759}
+{'text': 'repeatedly', 'start': 318.4, 'duration': 2.799}
+{'text': 'after what sergeant mattingly asked me', 'start': 319.919, 'duration': 2.481}
+{'text': 'to be a minute of knocking lieutenant', 'start': 321.199, 'duration': 1.84}
+{'text': 'hoover', 'start': 322.4, 'duration': 2.32}
+{'text': 'gave the order to knock in the door the', 'start': 323.039, 'duration': 2.88}
+{'text': 'officer with the battering ram hits it', 'start': 324.72, 'duration': 2.72}
+{'text': 'or twice before breaking through', 'start': 325.919, 'duration': 3.12}
+{'text': 'according to sergeant mattingly he steps', 'start': 327.44, 'duration': 3.28}
+{'text': 'through the empty door frame and looks', 'start': 329.039, 'duration': 2.72}
+{'text': 'down the hallway to see two human', 'start': 330.72, 'duration': 2.8}
+{'text': 'figures when holding a gun the figure', 'start': 331.759, 'duration': 3.28}
+{'text': 'then fires one shot hitting sergeant', 'start': 333.52, 'duration': 3.2}
+{'text': 'manningly in the leg mattingly then', 'start': 335.039, 'duration': 2.961}
+{'text': 'returns fire getting four rounds', 'start': 336.72, 'duration': 2.96}
+{'text': 'off and it was like simultaneous it was', 'start': 338.0, 'duration': 4.56}
+{'text': 'boom boom boom boom boom mattingly', 'start': 339.68, 'duration': 4.16}
+{'text': 'falling back behind the doorframe', 'start': 342.56, 'duration': 2.639}
+{'text': 'mattingly then fires two more shots', 'start': 343.84, 'duration': 2.48}
+{'text': 'around the corner', 'start': 345.199, 'duration': 2.961}
+{'text': 'bleeding from his femoral artery he is', 'start': 346.32, 'duration': 3.84}
+{'text': 'then hastily evacuated by ambulance to a', 'start': 348.16, 'duration': 4.08}
+{'text': 'nearby hospital', 'start': 350.16, 'duration': 3.84}
+{'text': 'according to kenneth walker he and', 'start': 352.24, 'duration': 3.2}
+{'text': 'taylor had just stepped into the hallway', 'start': 354.0, 'duration': 3.039}
+{'text': 'when the door came off its hinges he', 'start': 355.44, 'duration': 2.879}
+{'text': 'aimed his gun and fired a single shot', 'start': 357.039, 'duration': 3.201}
+{'text': 'into the now open doorway', 'start': 358.319, 'duration': 3.201}
+{'text': 'boom it was all in like one motion it', 'start': 360.24, 'duration': 2.72}
+{'text': 'was like simultaneous like boom boom', 'start': 361.52, 'duration': 2.48}
+{'text': 'then all of a sudden there were a lot of', 'start': 362.96, 'duration': 2.16}
+{'text': 'shots walker', 'start': 364.0, 'duration': 2.4}
+{'text': 'walker then says he dropped to his hands', 'start': 365.12, 'duration': 2.4}
+{'text': 'and knees and crawled into the second', 'start': 366.4, 'duration': 1.76}
+{'text': 'bedroom', 'start': 367.52, 'duration': 2.48}
+{'text': "and then when all the shots happened i'm", 'start': 368.16, 'duration': 3.2}
+{'text': "like panicking she's right there on the", 'start': 370.0, 'duration': 2.639}
+{'text': 'ground like bleeding', 'start': 371.36, 'duration': 3.76}
+{'text': 'this is the point where officer brett', 'start': 372.639, 'duration': 4.161}
+{'text': 'hankinson enters the story as the', 'start': 375.12, 'duration': 3.359}
+{'text': 'previous gunshots were fired', 'start': 376.8, 'duration': 3.28}
+{'text': 'officer hankinson retreated to the', 'start': 378.479, 'duration': 2.881}
+{'text': 'parking lot from the parking lot he', 'start': 380.08, 'duration': 2.559}
+{'text': "fires blindly through taylor's window", 'start': 381.36, 'duration': 2.16}
+{'text': 'and patio door', 'start': 382.639, 'duration': 2.081}
+{'text': 'his ball is penetrated through not only', 'start': 383.52, 'duration': 2.56}
+{'text': 'tails through an apartment behind what', 'start': 384.72, 'duration': 3.919}
+{'text': 'kind of dumbass [\xa0__\xa0] [\xa0__\xa0] is this', 'start': 386.08, 'duration': 4.559}
+{'text': 'first of all this is already stupid this', 'start': 388.639, 'duration': 3.84}
+{'text': 'firing two shots around the corner it', 'start': 390.639, 'duration': 3.361}
+{'text': 'already seems like really [\xa0__\xa0] weird', 'start': 392.479, 'duration': 4.72}
+{'text': 'too um', 'start': 394.0, 'duration': 3.199}
+{'text': "here's a question though um", 'start': 397.759, 'duration': 6.401}
+{'text': 'why police officers are using hollow', 'start': 401.36, 'duration': 3.679}
+{'text': 'points right', 'start': 404.16, 'duration': 3.039}
+{'text': "but like those are standard issue aren't", 'start': 405.039, 'duration': 4.801}
+{'text': 'they', 'start': 407.199, 'duration': 2.641}
+{'text': 'does that does anybody know that', 'start': 410.72, 'duration': 13.039}
+{'text': "well i'm curious how this penetrated", 'start': 422.24, 'duration': 4.0}
+{'text': 'through like two', 'start': 423.759, 'duration': 5.921}
+{'text': 'into another apartment behind', 'start': 426.24, 'duration': 3.44}
+{'text': 'hollow points can still penetrate', 'start': 432.4, 'duration': 5.44}
+{'text': "drywall isn't thick really", 'start': 433.52, 'duration': 4.32}
+{'text': 'even with a shitty wall i thought uh the', 'start': 439.12, 'duration': 3.44}
+{'text': 'the the um', 'start': 441.599, 'duration': 2.561}
+{'text': 'petals of the bullet should break off on', 'start': 442.56, 'duration': 2.88}
+{'text': 'almost conduct with anything i would', 'start': 444.16, 'duration': 3.36}
+{'text': 'think but maybe not maybe not', 'start': 445.44, 'duration': 5.039}
+{'text': "okay i i don't know i'm not sure and not", 'start': 447.52, 'duration': 4.16}
+{'text': 'here the area is similar between both', 'start': 450.479, 'duration': 2.321}
+{'text': "parties we're counting the events and", 'start': 451.68, 'duration': 2.799}
+{'text': 'how suddenly things went to [\xa0__\xa0]', 'start': 452.8, 'duration': 2.88}
+{'text': 'killing brandon taylor part two the', 'start': 454.479, 'duration': 2.401}
+{'text': "daily by new york times i don't know if", 'start': 455.68, 'duration': 4.32}
+{'text': "we'll read any of this for some of these", 'start': 456.88, 'duration': 3.12}
+{'text': 'new york times reporter rook mini', 'start': 462.0, 'duration': 4.0}
+{'text': 'calamin calamachi', 'start': 463.919, 'duration': 4.0}
+{'text': 'interviewed roughly a dozen witnesses to', 'start': 466.0, 'duration': 3.12}
+{'text': 'the incident and only one neighbor', 'start': 467.919, 'duration': 2.241}
+{'text': "claims you've heard the police announced", 'start': 469.12, 'duration': 1.919}
+{'text': 'themselves', 'start': 470.16, 'duration': 1.92}
+{'text': "what's more he only heard the police", 'start': 471.039, 'duration': 2.241}
+{'text': 'announce themselves once far from the', 'start': 472.08, 'duration': 2.399}
+{'text': 'least claims of one minute of constant', 'start': 473.28, 'duration': 1.68}
+{'text': 'yelling', 'start': 474.479, 'duration': 1.761}
+{'text': 'yeah i heard the police one time', 'start': 474.96, 'duration': 3.359}
+{'text': 'neighbor one i never heard them', 'start': 476.24, 'duration': 3.44}
+{'text': "that night announced themselves i didn't", 'start': 478.319, 'duration': 2.801}
+{'text': 'hear that at all number two there was no', 'start': 479.68, 'duration': 2.959}
+{'text': "identification over police they're just", 'start': 481.12, 'duration': 2.32}
+{'text': 'pop-up', 'start': 482.639, 'duration': 3.12}
+{'text': 'pop number three officer brett hank', 'start': 483.44, 'duration': 3.759}
+{'text': 'hankinson was fired in june being', 'start': 485.759, 'duration': 2.321}
+{'text': 'criticized for the department for his', 'start': 487.199, 'duration': 2.081}
+{'text': 'reckless behavior but hangerson', 'start': 488.08, 'duration': 2.559}
+{'text': 'displayed an extreme difference of human', 'start': 489.28, 'duration': 2.72}
+{'text': 'life when you want lean blindly fired 10', 'start': 490.639, 'duration': 3.12}
+{'text': 'rounds in the apartment brenda taylor', 'start': 492.0, 'duration': 4.4}
+{'text': 'louisville police department louisville', 'start': 493.759, 'duration': 3.44}
+{'text': 'police chief', 'start': 496.4, 'duration': 2.239}
+{'text': 'stepped down amidst protests when placed', 'start': 497.199, 'duration': 3.761}
+{'text': 'with yvette gentry a black woman', 'start': 498.639, 'duration': 3.68}
+{'text': "brianna's law a measure which outlawed", 'start': 500.96, 'duration': 2.799}
+{'text': 'no knock search warrants was passed by', 'start': 502.319, 'duration': 2.241}
+{'text': 'the louisville', 'start': 503.759, 'duration': 4.081}
+{'text': 'city council in june', 'start': 504.56, 'duration': 3.28}
+{'text': "my take for brent henderson it's an open", 'start': 508.639, 'duration': 2.96}
+{'text': 'and shut case he blindly fired a gun', 'start': 510.16, 'duration': 2.64}
+{'text': 'through a residential building several', 'start': 511.599, 'duration': 2.56}
+{'text': 'times incredibly reckless behavior and', 'start': 512.8, 'duration': 1.919}
+{'text': 'he was', 'start': 514.159, 'duration': 3.36}
+{'text': 'rightly fired and subsequently charged i', 'start': 514.719, 'duration': 4.32}
+{'text': "don't see how", 'start': 517.519, 'duration': 4.4}
+{'text': 'i am i would be so curious how anybody', 'start': 519.039, 'duration': 4.081}
+{'text': 'defends', 'start': 521.919, 'duration': 2.801}
+{'text': "this officer i don't know if charlie", 'start': 523.12, 'duration': 3.36}
+{'text': 'kirk or anybody', 'start': 524.72, 'duration': 3.76}
+{'text': 'like just shooting [\xa0__\xa0] random ass', 'start': 526.48, 'duration': 4.08}
+{'text': 'shots into an apartment', 'start': 528.48, 'duration': 7.359}
+{'text': "that's so [\xa0__\xa0] stupid to me", 'start': 530.56, 'duration': 5.279}
+{'text': 'um but okay', 'start': 536.08, 'duration': 5.12}
+{'text': "i don't even know what the [\xa0__\xa0] the", 'start': 540.16, 'duration': 4.08}
+{'text': 'thought process would be', 'start': 541.2, 'duration': 3.04}
+{'text': 'as for kenneth walker and sergeant', 'start': 545.92, 'duration': 2.24}
+{'text': 'mattingly things get much more', 'start': 547.12, 'duration': 2.719}
+{'text': 'complicated while at first glance walker', 'start': 548.16, 'duration': 2.96}
+{'text': 'seems to be in the wrong as he did', 'start': 549.839, 'duration': 4.321}
+{'text': 'fire first according to both sides um a', 'start': 551.12, 'duration': 4.48}
+{'text': 'deeper look gives us more nuance under', 'start': 554.16, 'duration': 2.4}
+{'text': "kentucky law you're allowed to use", 'start': 555.6, 'duration': 1.919}
+{'text': 'lethal forcing somebody entering your', 'start': 556.56, 'duration': 1.92}
+{'text': 'home if you believe them to be an', 'start': 557.519, 'duration': 1.601}
+{'text': 'intruder', 'start': 558.48, 'duration': 1.84}
+{'text': 'this is not an argument saying that the', 'start': 559.12, 'duration': 2.719}
+{'text': 'law determines morality that would be', 'start': 560.32, 'duration': 2.88}
+{'text': "dumb rather as a legal gun owner it's", 'start': 561.839, 'duration': 2.401}
+{'text': 'reasonable to say that kenneth walker', 'start': 563.2, 'duration': 2.079}
+{'text': 'knows that self-defense laws in the', 'start': 564.24, 'duration': 2.48}
+{'text': 'state beyond this laws aside', 'start': 565.279, 'duration': 2.401}
+{'text': "they're gonna be hard-pressed to say", 'start': 566.72, 'duration': 2.08}
+{'text': 'that someone would be unjustified', 'start': 567.68, 'duration': 2.159}
+{'text': 'shooting somebody quite literally kicked', 'start': 568.8, 'duration': 2.479}
+{'text': 'their door in unannounced the caveat', 'start': 569.839, 'duration': 2.321}
+{'text': 'here of course', 'start': 571.279, 'duration': 2.0}
+{'text': 'is that this argument hinges on the', 'start': 572.16, 'duration': 3.28}
+{'text': 'police being unannounced according to', 'start': 573.279, 'duration': 3.361}
+{'text': 'them they repeatedly and loudly', 'start': 575.44, 'duration': 2.399}
+{'text': 'announced themselves but queen of walker', 'start': 576.64, 'duration': 2.24}
+{'text': "who doesn't other witnesses they heard", 'start': 577.839, 'duration': 2.0}
+{'text': 'no such announcement', 'start': 578.88, 'duration': 2.639}
+{'text': 'only one witness who did hear anything', 'start': 579.839, 'duration': 3.201}
+{'text': 'only heard them announce themselves once', 'start': 581.519, 'duration': 2.481}
+{'text': "from this i think it's pretty safe to", 'start': 583.04, 'duration': 2.08}
+{'text': 'say that walker was unaware that it was', 'start': 584.0, 'duration': 2.24}
+{'text': 'a police king in his door not his', 'start': 585.12, 'duration': 2.399}
+{'text': "girlfriend's drug dealing ex", 'start': 586.24, 'duration': 2.96}
+{'text': 'i wish i could agree with this but', 'start': 587.519, 'duration': 3.121}
+{'text': "unfortunately i just don't think we'll", 'start': 589.2, 'duration': 3.92}
+{'text': 'ever know', 'start': 590.64, 'duration': 2.48}
+{'text': 'like it seems to be the case', 'start': 595.839, 'duration': 6.881}
+{'text': 'that at least one time they announced', 'start': 599.519, 'duration': 4.241}
+{'text': 'they were the police', 'start': 602.72, 'duration': 3.28}
+{'text': 'it seems to be the case so could they', 'start': 603.76, 'duration': 3.04}
+{'text': 'have said it more', 'start': 606.0, 'duration': 2.88}
+{'text': "maybe it's possible that one neighbor", 'start': 606.8, 'duration': 3.68}
+{'text': 'made up they ever said it that seems', 'start': 608.88, 'duration': 4.079}
+{'text': "really unlikely i guess it's possible", 'start': 610.48, 'duration': 6.56}
+{'text': 'um one out of 14 witnesses said they', 'start': 612.959, 'duration': 5.521}
+{'text': 'um that they heard the okay so like', 'start': 617.04, 'duration': 3.2}
+{'text': "here's the thing about the here's the", 'start': 618.48, 'duration': 3.76}
+{'text': 'thing about the witnesses okay like', 'start': 620.24, 'duration': 4.719}
+{'text': "here's the thing okay like and i'm just", 'start': 622.24, 'duration': 4.08}
+{'text': 'drawing a hypothetical here okay', 'start': 624.959, 'duration': 2.56}
+{'text': 'we better go and look at where all these', 'start': 626.32, 'duration': 2.48}
+{'text': "people are situated but like if there's", 'start': 627.519, 'duration': 2.801}
+{'text': 'an apartment door here', 'start': 628.8, 'duration': 4.96}
+{'text': 'and a door here and a door here and here', 'start': 630.32, 'duration': 4.639}
+{'text': 'and here and here and here well they', 'start': 633.76, 'duration': 2.16}
+{'text': "wouldn't be this close together because", 'start': 634.959, 'duration': 2.161}
+{'text': "it'd be totally separate but like we'll", 'start': 635.92, 'duration': 2.08}
+{'text': 'say like here', 'start': 637.12, 'duration': 3.6}
+{'text': "here maybe here here here like let's say", 'start': 638.0, 'duration': 4.48}
+{'text': 'that we pulled it like police are here', 'start': 640.72, 'duration': 3.6}
+{'text': 'okay and then the police try to knock', 'start': 642.48, 'duration': 3.2}
+{'text': 'down the door and they say police coming', 'start': 644.32, 'duration': 1.84}
+{'text': 'in', 'start': 645.68, 'duration': 2.56}
+{'text': "let's say this guy hears them this guy", 'start': 646.16, 'duration': 3.28}
+{'text': "doesn't that guy doesn't that guy", 'start': 648.24, 'duration': 2.4}
+{'text': "doesn't that guy doesn't that guy", 'start': 649.44, 'duration': 1.68}
+{'text': "doesn't", 'start': 650.64, 'duration': 2.48}
+{'text': 'wow only one out of six people or one', 'start': 651.12, 'duration': 3.6}
+{'text': 'out of yeah only one out of um', 'start': 653.12, 'duration': 3.279}
+{'text': 'only one out of six neighbors even heard', 'start': 654.72, 'duration': 3.2}
+{'text': "the police well yeah of course it's not", 'start': 656.399, 'duration': 2.56}
+{'text': 'like when the police are shouting at a', 'start': 657.92, 'duration': 2.479}
+{'text': 'door the entire apartment complex is', 'start': 658.959, 'duration': 2.0}
+{'text': 'going to hear', 'start': 660.399, 'duration': 4.321}
+{'text': "right now like yeah i don't know like um", 'start': 660.959, 'duration': 5.601}
+{'text': 'does anybody have a 100 reliable link on', 'start': 664.72, 'duration': 3.2}
+{'text': 'where the neighbor that heard them was', 'start': 666.56, 'duration': 2.24}
+{'text': 'because i heard that', 'start': 667.92, 'duration': 2.08}
+{'text': 'i heard that the one person that said', 'start': 668.8, 'duration': 2.479}
+{'text': 'they heard the police were closest to', 'start': 670.0, 'duration': 1.92}
+{'text': 'the door', 'start': 671.279, 'duration': 2.24}
+{'text': 'you also have to keep in mind too and i', 'start': 671.92, 'duration': 3.28}
+{'text': "don't know man i wish", 'start': 673.519, 'duration': 3.921}
+{'text': 'i would be really curious if these 11', 'start': 675.2, 'duration': 3.759}
+{'text': "witnesses if there if it's public", 'start': 677.44, 'duration': 2.24}
+{'text': 'information', 'start': 678.959, 'duration': 2.401}
+{'text': 'if they were awake and where they were', 'start': 679.68, 'duration': 3.279}
+{'text': 'positioned in relation because if like', 'start': 681.36, 'duration': 3.36}
+{'text': '11 of these people were sleeping too', 'start': 682.959, 'duration': 5.921}
+{'text': 'like you know', 'start': 684.72, 'duration': 7.679}
+{'text': 'it was the neighbor upstairs okay', 'start': 688.88, 'duration': 3.519}
+{'text': 'correcting the misinformation about', 'start': 693.12, 'duration': 3.36}
+{'text': 'brianna taylor', 'start': 694.48, 'duration': 3.28}
+{'text': 'why the [\xa0__\xa0] would he shoot if he knew', 'start': 696.48, 'duration': 3.039}
+{'text': "it was the police yeah that's actually a", 'start': 697.76, 'duration': 3.12}
+{'text': 'really good point too why the [\xa0__\xa0] would', 'start': 699.519, 'duration': 2.641}
+{'text': "you shoot if you know it's the police", 'start': 700.88, 'duration': 3.199}
+{'text': "you're probably never winning that", 'start': 702.16, 'duration': 4.56}
+{'text': 'fire fight right if they only announced', 'start': 704.079, 'duration': 3.76}
+{'text': "once and they were asleep wouldn't that", 'start': 706.72, 'duration': 2.48}
+{'text': 'make announcing once effectively', 'start': 707.839, 'duration': 4.56}
+{'text': 'the same as not at all uh maybe does the', 'start': 709.2, 'duration': 4.48}
+{'text': "same reason we'll be doing a raid like", 'start': 712.399, 'duration': 2.641}
+{'text': "this on the suspect's ex-girlfriend at", 'start': 713.68, 'duration': 2.159}
+{'text': '12 a.m', 'start': 715.04, 'duration': 2.479}
+{'text': "um i'm not sure i don't know what the", 'start': 715.839, 'duration': 3.12}
+{'text': 'police are working off of at the time i', 'start': 717.519, 'duration': 3.12}
+{'text': "don't know", 'start': 718.959, 'duration': 4.081}
+{'text': "i haven't listened to the 911 call yet", 'start': 720.639, 'duration': 3.601}
+{'text': "that's why an attorney for taylor's", 'start': 723.04, 'duration': 2.56}
+{'text': 'boyfriend kenneth walker who fired the', 'start': 724.24, 'duration': 3.12}
+{'text': 'police during the raid is demanding that', 'start': 725.6, 'duration': 3.2}
+{'text': 'cameron release the evidence that was', 'start': 727.36, 'duration': 2.719}
+{'text': 'presented to the grand jury', 'start': 728.8, 'duration': 4.08}
+{'text': 'is this evidence not made public oh wait', 'start': 730.079, 'duration': 4.401}
+{'text': "it's a grand jury so this isn't like a", 'start': 732.88, 'duration': 3.92}
+{'text': 'normal', 'start': 734.48, 'duration': 2.32}
+{'text': 'shut the [\xa0__\xa0] up um police were wearing', 'start': 740.48, 'duration': 3.599}
+{'text': 'body cams and actually use them this', 'start': 742.8, 'duration': 2.479}
+{'text': "wouldn't be so much ambiguity", 'start': 744.079, 'duration': 4.241}
+{'text': "yeah i don't know why i don't know why", 'start': 745.279, 'duration': 3.841}
+{'text': "you wouldn't", 'start': 748.32, 'duration': 2.319}
+{'text': "i well i don't know what the department", 'start': 749.12, 'duration': 2.959}
+{'text': 'protocol is like if they have like the', 'start': 750.639, 'duration': 2.401}
+{'text': 'servers and the maintenance and', 'start': 752.079, 'duration': 2.32}
+{'text': 'everything to like handle body cam', 'start': 753.04, 'duration': 2.72}
+{'text': 'footage but', 'start': 754.399, 'duration': 2.721}
+{'text': 'why not surround the house get on a', 'start': 755.76, 'duration': 2.72}
+{'text': 'megaphone and ask her to come out with', 'start': 757.12, 'duration': 2.159}
+{'text': 'her hands up', 'start': 758.48, 'duration': 1.84}
+{'text': "why she'll take down the door with the", 'start': 759.279, 'duration': 2.881}
+{'text': 'batting room i still serve the warrant', 'start': 760.32, 'duration': 4.16}
+{'text': 'in the middle of the night', 'start': 762.16, 'duration': 5.359}
+{'text': 'oh man what can you really can you', 'start': 764.48, 'duration': 4.799}
+{'text': 'really do that', 'start': 767.519, 'duration': 4.081}
+{'text': "ah this sounds really ah [\xa0__\xa0] i don't", 'start': 769.279, 'duration': 3.441}
+{'text': 'know this sound this', 'start': 771.6, 'duration': 2.56}
+{'text': "sounds like it would make things let's", 'start': 772.72, 'duration': 2.72}
+{'text': 'say that you thought that there was a', 'start': 774.16, 'duration': 3.04}
+{'text': 'possibility that taylor could have an', 'start': 775.44, 'duration': 2.48}
+{'text': 'armed person', 'start': 777.2, 'duration': 4.72}
+{'text': 'inside okay oh [\xa0__\xa0]', 'start': 777.92, 'duration': 9.919}
+{'text': "i don't know what road i want to go down", 'start': 781.92, 'duration': 5.919}
+{'text': 'this is a this sound this reads like a', 'start': 788.56, 'duration': 4.24}
+{'text': 'really really really stupid point to me', 'start': 790.8, 'duration': 5.599}
+{'text': 'but i might be missing something', 'start': 792.8, 'duration': 3.599}
+{'text': 'like', 'start': 798.839, 'duration': 3.0}
+{'text': "imagine there's drug dealers across the", 'start': 802.639, 'duration': 3.281}
+{'text': 'apartment from you', 'start': 804.8, 'duration': 3.12}
+{'text': "let's imagine let's imagine that i live", 'start': 805.92, 'duration': 3.52}
+{'text': 'in a place okay', 'start': 807.92, 'duration': 4.24}
+{'text': "um and then let's say there are drug", 'start': 809.44, 'duration': 4.88}
+{'text': 'dealers living across the street from me', 'start': 812.16, 'duration': 4.0}
+{'text': 'would i want cops to like break down', 'start': 814.32, 'duration': 3.759}
+{'text': 'that door and go in and do [\xa0__\xa0]', 'start': 816.16, 'duration': 3.6}
+{'text': 'or would i want them to surround my', 'start': 818.079, 'duration': 3.2}
+{'text': 'whole apartment complex turn on the', 'start': 819.76, 'duration': 3.199}
+{'text': 'megaphone and let the people across the', 'start': 821.279, 'duration': 5.201}
+{'text': "hallway from me know that they're [\xa0__\xa0]", 'start': 822.959, 'duration': 6.24}
+{'text': "man i don't know dude i like i don't", 'start': 826.48, 'duration': 4.0}
+{'text': 'think i would want to be anywhere in', 'start': 829.199, 'duration': 2.801}
+{'text': 'that apartment complex that', 'start': 830.48, 'duration': 3.359}
+{'text': "if that's what the [\xa0__\xa0] was going on", 'start': 832.0, 'duration': 3.76}
+{'text': 'that sounds like a recipe for [\xa0__\xa0]', 'start': 833.839, 'duration': 2.721}
+{'text': 'disaster', 'start': 835.76, 'duration': 3.36}
+{'text': "like holy [\xa0__\xa0] destiny i wouldn't want", 'start': 836.56, 'duration': 3.519}
+{'text': 'them to be there at all who the [\xa0__\xa0]', 'start': 839.12, 'duration': 2.32}
+{'text': 'cares about a drug bust', 'start': 840.079, 'duration': 3.12}
+{'text': "well that's not really the world we live", 'start': 841.44, 'duration': 3.28}
+{'text': 'in right now mason zero', 'start': 843.199, 'duration': 4.801}
+{'text': "drugs are illegal so they didn't expect", 'start': 844.72, 'duration': 4.239}
+{'text': 'that the tails department was a drug', 'start': 848.0, 'duration': 2.0}
+{'text': 'house they were looking for evidence', 'start': 848.959, 'duration': 2.641}
+{'text': 'um connected to a different drug house', 'start': 850.0, 'duration': 3.12}
+{'text': 'no you are just they were', 'start': 851.6, 'duration': 3.12}
+{'text': "well there's two things describe king", 'start': 853.12, 'duration': 3.36}
+{'text': 'one is that her house was used as a drug', 'start': 854.72, 'duration': 2.88}
+{'text': 'drop', 'start': 856.48, 'duration': 3.68}
+{'text': "yes and then two is that they i don't", 'start': 857.6, 'duration': 3.76}
+{'text': 'think they were sure not if that', 'start': 860.16, 'duration': 2.32}
+{'text': 'ex-boyfriend could have been', 'start': 861.36, 'duration': 3.919}
+{'text': 'at the house it was not used as a drug', 'start': 862.48, 'duration': 3.28}
+{'text': 'drop', 'start': 865.279, 'duration': 2.721}
+{'text': "okay clear chaos we're gonna read into", 'start': 865.76, 'duration': 3.439}
+{'text': "this if you're wrong you are permanently", 'start': 868.0, 'duration': 2.48}
+{'text': "banned from my chat i'm permanently", 'start': 869.199, 'duration': 2.561}
+{'text': 'banning people that are correcting me on', 'start': 870.48, 'duration': 2.08}
+{'text': '[\xa0__\xa0] like this', 'start': 871.76, 'duration': 2.96}
+{'text': 'that are just wrong my understanding is', 'start': 872.56, 'duration': 3.04}
+{'text': 'that this house', 'start': 874.72, 'duration': 2.559}
+{'text': 'was part of an investigation because', 'start': 875.6, 'duration': 3.52}
+{'text': 'briana taylor had been suspected', 'start': 877.279, 'duration': 4.0}
+{'text': 'if not her than her ex this apartment', 'start': 879.12, 'duration': 3.92}
+{'text': 'had been suspected of receiving drugs in', 'start': 881.279, 'duration': 3.201}
+{'text': 'the past', 'start': 883.04, 'duration': 3.44}
+{'text': 'that not judges judges had signed a', 'start': 884.48, 'duration': 3.2}
+{'text': "warrant to search miss taylor's house", 'start': 886.48, 'duration': 2.4}
+{'text': 'because the police believe that glover', 'start': 887.68, 'duration': 2.48}
+{'text': "brianna's ex-boyfriend at the time had", 'start': 888.88, 'duration': 3.04}
+{'text': "been receiving packages at taylor's", 'start': 890.16, 'duration': 4.16}
+{'text': 'address', 'start': 891.92, 'duration': 2.4}
+{'text': "i'll give you the 1024 hour bye", 'start': 896.959, 'duration': 5.281}
+{'text': "welcome everybody here's what the facts", 'start': 900.88, 'duration': 5.199}
+{'text': 'lies about the brianna teller case', 'start': 902.24, 'duration': 3.839}
+{'text': 'um okay hold on', 'start': 908.399, 'duration': 6.56}
+{'text': "i the okay my i'm yeah okay whatever", 'start': 911.44, 'duration': 5.12}
+{'text': 'my my take away from this is literally', 'start': 914.959, 'duration': 3.12}
+{'text': 'the exact same as it was before', 'start': 916.56, 'duration': 4.8}
+{'text': 'so unfortunately i think that', 'start': 918.079, 'duration': 6.081}
+{'text': 'the only way to truly know what happened', 'start': 921.36, 'duration': 3.76}
+{'text': 'here', 'start': 924.16, 'duration': 3.919}
+{'text': 'was to have some sort of like footage of', 'start': 925.12, 'duration': 4.719}
+{'text': "the event taking place but we're never", 'start': 928.079, 'duration': 4.161}
+{'text': 'gonna know', 'start': 929.839, 'duration': 2.401}
+{'text': "it i lean based on what i've seen", 'start': 932.399, 'duration': 6.321}
+{'text': 'i lean on um', 'start': 935.68, 'duration': 3.04}
+{'text': 'i leaned towards it being unlikely that', 'start': 939.759, 'duration': 5.041}
+{'text': 'um', 'start': 943.04, 'duration': 3.44}
+{'text': 'that the boyfriend was just shooting at', 'start': 944.8, 'duration': 3.76}
+{'text': 'cops that seems to be hard to believe i', 'start': 946.48, 'duration': 3.76}
+{'text': "don't know who would do that that sounds", 'start': 948.56, 'duration': 7.04}
+{'text': '[\xa0__\xa0] insane but', 'start': 950.24, 'duration': 7.36}
+{'text': 'do you have any opinion on the charges', 'start': 955.6, 'duration': 4.4}
+{'text': 'um', 'start': 957.6, 'duration': 2.4}
+{'text': "well so firstly i don't know if no knock", 'start': 960.959, 'duration': 3.44}
+{'text': 'raids are illegal in', 'start': 962.88, 'duration': 3.12}
+{'text': 'kentucky it sounded like up until the', 'start': 964.399, 'duration': 2.88}
+{'text': 'brianna taylor stuff it sounded like no', 'start': 966.0, 'duration': 1.68}
+{'text': 'knockout', 'start': 967.279, 'duration': 2.24}
+{'text': 'raids were legal so if the no knock raid', 'start': 967.68, 'duration': 3.12}
+{'text': 'is legal and you know knock into', 'start': 969.519, 'duration': 2.88}
+{'text': "somebody's house and they shoot at you", 'start': 970.8, 'duration': 3.76}
+{'text': "then you're probably allowed to shoot", 'start': 972.399, 'duration': 4.081}
+{'text': 'back i would imagine', 'start': 974.56, 'duration': 4.399}
+{'text': "i don't know how you um i don't know how", 'start': 976.48, 'duration': 4.479}
+{'text': 'you have a state', 'start': 978.959, 'duration': 3.361}
+{'text': 'does kentucky have like stand your', 'start': 980.959, 'duration': 3.761}
+{'text': 'ground or last cast or castle doctrine', 'start': 982.32, 'duration': 4.639}
+{'text': "[\xa0__\xa0] i i don't know how has anybody ever", 'start': 984.72, 'duration': 3.52}
+{'text': "killed a cop that's like", 'start': 986.959, 'duration': 2.8}
+{'text': 'broken into their house on a no-knock', 'start': 988.24, 'duration': 5.279}
+{'text': 'raid how can you possibly', 'start': 989.759, 'duration': 3.76}
+{'text': 'it seems like a weird conflict of [\xa0__\xa0]', 'start': 994.16, 'duration': 3.28}
+{'text': 'there it has', 'start': 995.839, 'duration': 16.0}
+{'text': 'yeah so', 'start': 997.44, 'duration': 14.399}
+{'text': "it's in this post it's super weird are", 'start': 1013.519, 'duration': 2.88}
+{'text': 'you gonna both yeah because because', 'start': 1014.8, 'duration': 2.8}
+{'text': "you're basically justified at killing", 'start': 1016.399, 'duration': 2.641}
+{'text': 'any cop then that', 'start': 1017.6, 'duration': 4.159}
+{'text': 'in a video game policies are actually', 'start': 1019.04, 'duration': 3.2}
+{'text': 'too loud', 'start': 1021.759, 'duration': 1.841}
+{'text': 'um obviously to no not considering', 'start': 1022.24, 'duration': 3.28}
+{'text': "clothing but i don't know okay this", 'start': 1023.6, 'duration': 4.64}
+{'text': "this needs to stop okay listen i don't", 'start': 1025.52, 'duration': 4.08}
+{'text': 'even know if i have a hot take on the', 'start': 1028.24, 'duration': 2.48}
+{'text': 'brianna tiller case okay', 'start': 1029.6, 'duration': 2.479}
+{'text': 'i agree that everything is [\xa0__\xa0] i', 'start': 1030.72, 'duration': 2.64}
+{'text': "don't know if i ever had a hot take on", 'start': 1032.079, 'duration': 2.801}
+{'text': "it what i just don't like", 'start': 1033.36, 'duration': 3.76}
+{'text': "i don't like the the i don't like the", 'start': 1034.88, 'duration': 3.439}
+{'text': 'the wrong information', 'start': 1037.12, 'duration': 3.04}
+{'text': 'okay the policy is dog [\xa0__\xa0] to allow', 'start': 1038.319, 'duration': 3.281}
+{'text': 'officers to know to no not conspiring', 'start': 1040.16, 'duration': 1.84}
+{'text': 'clothing', 'start': 1041.6, 'duration': 1.599}
+{'text': "there's two big problems with your thing", 'start': 1042.0, 'duration': 3.12}
+{'text': 'here okay number one so do you think no', 'start': 1043.199, 'duration': 3.12}
+{'text': 'knocking a police officer', 'start': 1045.12, 'duration': 2.959}
+{'text': 'uniform clothing is fine like do you', 'start': 1046.319, 'duration': 3.041}
+{'text': 'really have time to look out and', 'start': 1048.079, 'duration': 2.561}
+{'text': 'ascertain like the clothing of the', 'start': 1049.36, 'duration': 2.4}
+{'text': 'individuals that have just broken into', 'start': 1050.64, 'duration': 2.399}
+{'text': "your house i don't know if it makes that", 'start': 1051.76, 'duration': 2.24}
+{'text': 'big of a difference', 'start': 1053.039, 'duration': 2.721}
+{'text': "if you're no knocking in police clothes", 'start': 1054.0, 'duration': 3.12}
+{'text': "versus non-police calls i don't know if", 'start': 1055.76, 'duration': 1.919}
+{'text': 'it matters', 'start': 1057.12, 'duration': 3.12}
+{'text': 'number one number two somebody character', 'start': 1057.679, 'duration': 3.12}
+{'text': "i'm wrong", 'start': 1060.24, 'duration': 1.679}
+{'text': "99 percent sure because i've read this", 'start': 1060.799, 'duration': 2.321}
+{'text': 'like six different places they know', 'start': 1061.919, 'duration': 2.88}
+{'text': 'knock in civilian clothes but they have', 'start': 1063.12, 'duration': 4.08}
+{'text': 'giant [\xa0__\xa0] vests on that say police', 'start': 1064.799, 'duration': 5.361}
+{'text': "like it's not like they're like it's not", 'start': 1067.2, 'duration': 4.16}
+{'text': "like they're in like [\xa0__\xa0] beach", 'start': 1070.16, 'duration': 2.399}
+{'text': 'shorts and a t-shirt', 'start': 1071.36, 'duration': 2.48}
+{'text': 'and they come through and they slide an', 'start': 1072.559, 'duration': 3.201}
+{'text': 'uzi out from the from their like pocket', 'start': 1073.84, 'duration': 2.719}
+{'text': 'or whatever like', 'start': 1075.76, 'duration': 2.72}
+{'text': 'they have giant vests that say police on', 'start': 1076.559, 'duration': 5.12}
+{'text': 'them okay stop that line right', 'start': 1078.48, 'duration': 6.319}
+{'text': 'that line not lying', 'start': 1081.679, 'duration': 3.12}
+{'text': 'you have any thoughts on grand jury', 'start': 1087.919, 'duration': 2.801}
+{'text': 'should they be reformed or removed i', 'start': 1089.039, 'duration': 3.281}
+{'text': 'mean it seems like in the in a case like', 'start': 1090.72, 'duration': 3.12}
+{'text': 'this it should be a public jury that', 'start': 1092.32, 'duration': 2.96}
+{'text': 'would be my opinion', 'start': 1093.84, 'duration': 3.68}
+{'text': 'um can you tell me what the purpose for', 'start': 1095.28, 'duration': 3.68}
+{'text': 'no knock rates are it seems pretty high', 'start': 1097.52, 'duration': 2.96}
+{'text': 'risk even if it has utility for big', 'start': 1098.96, 'duration': 2.88}
+{'text': 'busts on criminals and weapons', 'start': 1100.48, 'duration': 4.4}
+{'text': 'the concept of a no knock raid', 'start': 1101.84, 'duration': 5.92}
+{'text': 'okay sorry here is the big trigger the', 'start': 1104.88, 'duration': 4.88}
+{'text': 'concept of a no knock raid is', 'start': 1107.76, 'duration': 5.039}
+{'text': 'perfectly and totally fine okay if you', 'start': 1109.76, 'duration': 4.72}
+{'text': 'believe that there are one dangerous', 'start': 1112.799, 'duration': 2.481}
+{'text': 'criminals', 'start': 1114.48, 'duration': 2.319}
+{'text': 'two people that are likely to destroy', 'start': 1115.28, 'duration': 3.279}
+{'text': 'evidence okay or three', 'start': 1116.799, 'duration': 3.201}
+{'text': 'people that are likely to flee or take', 'start': 1118.559, 'duration': 3.36}
+{'text': 'hostages or do [\xa0__\xa0] up [\xa0__\xa0] then no', 'start': 1120.0, 'duration': 3.44}
+{'text': 'knock raids in these situations make', 'start': 1121.919, 'duration': 2.561}
+{'text': "sense you don't want to knock on the", 'start': 1123.44, 'duration': 2.4}
+{'text': 'door and give them time to get all set', 'start': 1124.48, 'duration': 3.04}
+{'text': 'up kill you and your [\xa0__\xa0] cop friends', 'start': 1125.84, 'duration': 3.04}
+{'text': 'or take hostages or blow all the', 'start': 1127.52, 'duration': 2.88}
+{'text': 'evidence up for some crazy [\xa0__\xa0] right', 'start': 1128.88, 'duration': 2.799}
+{'text': "knowing that grades aren't horrible", 'start': 1130.4, 'duration': 3.279}
+{'text': 'things okay but', 'start': 1131.679, 'duration': 5.281}
+{'text': 'the um the bar for getting a no knock', 'start': 1133.679, 'duration': 5.841}
+{'text': 'warrant from a judge should be insanely', 'start': 1136.96, 'duration': 3.68}
+{'text': '[\xa0__\xa0] high', 'start': 1139.52, 'duration': 3.2}
+{'text': "i don't know how you get a no knock on a", 'start': 1140.64, 'duration': 3.52}
+{'text': 'soft target', 'start': 1142.72, 'duration': 3.44}
+{'text': "for a girl that's an ex-boyfriend that", 'start': 1144.16, 'duration': 3.68}
+{'text': 'seems kind of strange to me', 'start': 1146.16, 'duration': 3.519}
+{'text': 'unless as part of like the evidence they', 'start': 1147.84, 'duration': 3.36}
+{'text': 'submitted to the judge that brianna', 'start': 1149.679, 'duration': 3.201}
+{'text': 'taylor and that ex-boyfriend had like', 'start': 1151.2, 'duration': 3.68}
+{'text': 'continual contact or something', 'start': 1152.88, 'duration': 4.799}
+{'text': 'like that would be', 'start': 1154.88, 'duration': 2.799}
+{'text': "maybe but i don't know what all was", 'start': 1158.48, 'duration': 4.36}
+{'text': 'included for justification for the', 'start': 1161.039, 'duration': 4.801}
+{'text': 'warrant', 'start': 1162.84, 'duration': 3.0}
+{'text': "according to the cops at least wasn't", 'start': 1171.6, 'duration': 2.959}
+{'text': 'this no not well apparently no knack was', 'start': 1172.72, 'duration': 2.4}
+{'text': 'written on the', 'start': 1174.559, 'duration': 2.161}
+{'text': 'warrant but they decided to knock after', 'start': 1175.12, 'duration': 4.72}
+{'text': 'i guess', 'start': 1176.72, 'duration': 3.12}
+{'text': "it was over [\xa0__\xa0] drugs you don't do", 'start': 1181.6, 'duration': 3.52}
+{'text': 'you do do drugs should co', 'start': 1183.76, 'duration': 4.88}
+{'text': "okay it's not that it was oh okay uh", 'start': 1185.12, 'duration': 5.28}
+{'text': "i oh you don't wanna okay let me just", 'start': 1188.64, 'duration': 4.399}
+{'text': 'call myself', 'start': 1190.4, 'duration': 5.76}
+{'text': 'okay nobody got shot in the head here', 'start': 1193.039, 'duration': 4.0}
+{'text': 'over drugs', 'start': 1196.16, 'duration': 3.44}
+{'text': 'okay people got shot because somebody', 'start': 1197.039, 'duration': 3.76}
+{'text': 'shot at somebody coming through an', 'start': 1199.6, 'duration': 1.84}
+{'text': 'apartment', 'start': 1200.799, 'duration': 2.081}
+{'text': 'that guy could have been justified in', 'start': 1201.44, 'duration': 3.28}
+{'text': "shooting it but i'm just saying to say", 'start': 1202.88, 'duration': 2.48}
+{'text': 'that', 'start': 1204.72, 'duration': 2.959}
+{'text': 'brianna taylor got killed over drugs no', 'start': 1205.36, 'duration': 3.439}
+{'text': "that's not true", 'start': 1207.679, 'duration': 3.761}
+{'text': 'she got killed because cops entered the', 'start': 1208.799, 'duration': 3.681}
+{'text': 'apartment', 'start': 1211.44, 'duration': 3.119}
+{'text': 'with the wither without notice and her', 'start': 1212.48, 'duration': 4.24}
+{'text': 'boyfriend shot at the [\xa0__\xa0] cops', 'start': 1214.559, 'duration': 4.161}
+{'text': "that's how she got killed and then in", 'start': 1216.72, 'duration': 3.839}
+{'text': 'the ensuing gunfight she died', 'start': 1218.72, 'duration': 3.68}
+{'text': "okay she didn't die just because of", 'start': 1220.559, 'duration': 4.081}
+{'text': 'drugs', 'start': 1222.4, 'duration': 4.8}
+{'text': "all right this guy's been baiting for a", 'start': 1224.64, 'duration': 5.36}
+{'text': 'while oh okay well', 'start': 1227.2, 'duration': 6.959}
+{'text': 'for okay so for people saying that um', 'start': 1230.0, 'duration': 6.24}
+{'text': 'for people saying that it was just over', 'start': 1234.159, 'duration': 3.681}
+{'text': 'drugs okay', 'start': 1236.24, 'duration': 3.12}
+{'text': 'my understanding is that the', 'start': 1237.84, 'duration': 3.52}
+{'text': 'ex-boyfriend of brianna taylor', 'start': 1239.36, 'duration': 4.24}
+{'text': 'had been involved in weird [\xa0__\xa0] before', 'start': 1241.36, 'duration': 3.439}
+{'text': 'that brianna taylor', 'start': 1243.6, 'duration': 4.0}
+{'text': 'also kind of got like involved in so for', 'start': 1244.799, 'duration': 4.0}
+{'text': 'instance i believe that', 'start': 1247.6, 'duration': 5.6}
+{'text': 'her ex-boyfriend rented a car', 'start': 1248.799, 'duration': 4.401}
+{'text': 'under her name supposedly he used her', 'start': 1253.44, 'duration': 3.599}
+{'text': 'her id and [\xa0__\xa0]', 'start': 1256.08, 'duration': 2.24}
+{'text': 'and there was a [\xa0__\xa0] body in the', 'start': 1257.039, 'duration': 3.12}
+{'text': 'trunk of that car okay', 'start': 1258.32, 'duration': 3.44}
+{'text': "so this wasn't over just like they", 'start': 1260.159, 'duration': 2.88}
+{'text': 'thought that there was two grams of', 'start': 1261.76, 'duration': 2.24}
+{'text': 'marijuana', 'start': 1263.039, 'duration': 2.64}
+{'text': 'they are xx did i say current boyfriend', 'start': 1264.0, 'duration': 3.2}
+{'text': 'i mean i said i must say experience that', 'start': 1265.679, 'duration': 1.921}
+{'text': 'right', 'start': 1267.2, 'duration': 2.56}
+{'text': 'yeah yes yes this happened right so it', 'start': 1267.6, 'duration': 3.12}
+{'text': "wasn't just like", 'start': 1269.76, 'duration': 2.799}
+{'text': 'wait what okay do we not know any of', 'start': 1270.72, 'duration': 3.12}
+{'text': 'this like', 'start': 1272.559, 'duration': 2.321}
+{'text': 'we can you can search for the', 'start': 1273.84, 'duration': 3.199}
+{'text': 'information if you want he was no angel', 'start': 1274.88, 'duration': 4.32}
+{'text': "no this isn't a this isn't a he was no", 'start': 1277.039, 'duration': 4.401}
+{'text': 'uh no hold on oof that was it those are', 'start': 1279.2, 'duration': 3.599}
+{'text': "easy bands jordan don't email me you're", 'start': 1281.44, 'duration': 2.96}
+{'text': 'gone', 'start': 1282.799, 'duration': 4.561}
+{'text': 'um this has nothing to do with it they', 'start': 1284.4, 'duration': 4.159}
+{'text': 'were no angel okay', 'start': 1287.36, 'duration': 3.12}
+{'text': 'this has to do with like a like the case', 'start': 1288.559, 'duration': 3.281}
+{'text': "that they were building this wasn't over", 'start': 1290.48, 'duration': 5.36}
+{'text': "just drugs okay it wasn't like they saw", 'start': 1291.84, 'duration': 5.839}
+{'text': 'there was never a no knock warrant that', 'start': 1295.84, 'duration': 3.6}
+{'text': 'was a misconception like boa', 'start': 1297.679, 'duration': 7.281}
+{'text': 'bose post pro for ipvan', 'start': 1299.44, 'duration': 7.76}
+{'text': 'do you ever feel like an npc in like', 'start': 1304.96, 'duration': 5.199}
+{'text': "someone else's life", 'start': 1307.2, 'duration': 2.959}
+{'text': 'because our understanding is that', 'start': 1310.96, 'duration': 4.16}
+{'text': 'initially', 'start': 1312.64, 'duration': 2.48}
+{'text': 'there were no knock warrants', 'start': 1315.76, 'duration': 4.08}
+{'text': "i don't know why you would say there was", 'start': 1322.32, 'duration': 4.8}
+{'text': 'no no knock warrant', 'start': 1323.76, 'duration': 5.52}
+{'text': 'but you better link fast and hard boa', 'start': 1327.12, 'duration': 3.72}
+{'text': "bows because you're about to get the ban", 'start': 1329.28, 'duration': 4.56}
+{'text': 'hammer', 'start': 1330.84, 'duration': 3.0}
+{'text': 'that chatter has no proof testing but', 'start': 1335.44, 'duration': 2.4}
+{'text': 'department received court approval for a', 'start': 1336.64, 'duration': 2.48}
+{'text': 'noc entry the orders were changed before', 'start': 1337.84, 'duration': 2.4}
+{'text': 'the rate to knock an announced meaning', 'start': 1339.12, 'duration': 2.64}
+{'text': 'the police had to identify themselves', 'start': 1340.24, 'duration': 2.88}
+{'text': 'yeah but they had the warrant for no', 'start': 1341.76, 'duration': 6.08}
+{'text': 'knock if they wanted to no', 'start': 1343.12, 'duration': 6.24}
+{'text': 'you could surround the building shut off', 'start': 1347.84, 'duration': 4.56}
+{'text': 'water electricity get', 'start': 1349.36, 'duration': 3.04}
+{'text': 'what', 'start': 1358.84, 'duration': 3.0}
+{'text': "she we ain't got no fortnite", 'start': 1367.44, 'duration': 6.64}
+{'text': 'we give up no electricity no internet', 'start': 1370.64, 'duration': 5.44}
+{'text': "who's should i ban that person where is", 'start': 1374.08, 'duration': 3.04}
+{'text': 'the one guy', 'start': 1376.08, 'duration': 4.0}
+{'text': 'boaz boaz', 'start': 1377.12, 'duration': 2.96}
+{'text': 'there was never a no knock warrant you', 'start': 1382.32, 'duration': 3.839}
+{'text': "gotta blink it or you're", 'start': 1384.799, 'duration': 7.36}
+{'text': "gone you're gone for a thousand 24 hours", 'start': 1386.159, 'duration': 6.0}
+{'text': "they could've brought trebuchets you", 'start': 1398.72, 'duration': 5.12}
+{'text': '[\xa0__\xa0] idiot', 'start': 1400.159, 'duration': 3.681}
+{'text': "um okay i'm sorry [\xa0__\xa0] where were we at", 'start': 1432.799, 'duration': 13.041}
+{'text': 'sorry i was like looking for this', 'start': 1452.799, 'duration': 8.401}
+{'text': 'okay so like this is like some of the', 'start': 1458.96, 'duration': 3.839}
+{'text': "stuff that's going on in the past", 'start': 1461.2, 'duration': 3.839}
+{'text': "now please be clear i'm not saying that", 'start': 1462.799, 'duration': 4.161}
+{'text': 'this is like worth like killing anybody', 'start': 1465.039, 'duration': 3.361}
+{'text': "over or this justify i'm just saying", 'start': 1466.96, 'duration': 2.4}
+{'text': "that like it wasn't", 'start': 1468.4, 'duration': 2.399}
+{'text': 'just like oh they just thought he was', 'start': 1469.36, 'duration': 3.28}
+{'text': 'selling a little bit of weed right', 'start': 1470.799, 'duration': 3.12}
+{'text': 'supposedly there was like a pretty big', 'start': 1472.64, 'duration': 3.68}
+{'text': 'ongoing investigation related to her', 'start': 1473.919, 'duration': 4.401}
+{'text': 'ex-boyfriend okay', 'start': 1476.32, 'duration': 5.28}
+{'text': 'um the doc well allegedly i guess maybe', 'start': 1478.32, 'duration': 3.92}
+{'text': '[\xa0__\xa0] maybe', 'start': 1481.6, 'duration': 2.8}
+{'text': 'was this all a dream maybe um the', 'start': 1482.24, 'duration': 3.84}
+{'text': 'documents also allege that back in 2016', 'start': 1484.4, 'duration': 3.36}
+{'text': 'the body of fernandez bowman was found', 'start': 1486.08, 'duration': 2.4}
+{'text': 'in a car', 'start': 1487.76, 'duration': 2.56}
+{'text': 'rented by brandon taylor when lmtd', 'start': 1488.48, 'duration': 2.88}
+{'text': "detectives rio de taylor's home to", 'start': 1490.32, 'duration': 2.32}
+{'text': 'question her glover was there', 'start': 1491.36, 'duration': 2.64}
+{'text': 'taylor told the detective she did not', 'start': 1492.64, 'duration': 2.8}
+{'text': 'know bowman she had been dating glover', 'start': 1494.0, 'duration': 2.08}
+{'text': 'for several months', 'start': 1495.44, 'duration': 1.92}
+{'text': 'they and she had let him drive the', 'start': 1496.08, 'duration': 2.56}
+{'text': 'rental car she also gave detectives her', 'start': 1497.36, 'duration': 2.16}
+{'text': 'phone number which was a number that', 'start': 1498.64, 'duration': 2.24}
+{'text': 'glover was still using as recently as', 'start': 1499.52, 'duration': 2.32}
+{'text': 'february of this year according to', 'start': 1500.88, 'duration': 1.679}
+{'text': 'documents', 'start': 1501.84, 'duration': 2.0}
+{'text': 'like there was like other weird [\xa0__\xa0]', 'start': 1502.559, 'duration': 2.401}
+{'text': "[\xa0__\xa0] going on it wasn't like they", 'start': 1503.84, 'duration': 2.48}
+{'text': 'thought that she was just a [\xa0__\xa0] weed', 'start': 1504.96, 'duration': 2.719}
+{'text': 'smoker and they were or that the other', 'start': 1506.32, 'duration': 2.88}
+{'text': 'guy was selling weed so they decided to', 'start': 1507.679, 'duration': 2.321}
+{'text': 'like [\xa0__\xa0]', 'start': 1509.2, 'duration': 2.16}
+{'text': 'like break down the door and start', 'start': 1510.0, 'duration': 5.76}
+{'text': "shooting people okay that's not", 'start': 1511.36, 'duration': 5.76}
+{'text': 'the four warrants were all no knock for', 'start': 1515.76, 'duration': 3.039}
+{'text': 'the taylor warrant the cops were told to', 'start': 1517.12, 'duration': 2.799}
+{'text': 'disregard the no knock because she had', 'start': 1518.799, 'duration': 2.401}
+{'text': 'been changed to self-target on paper it', 'start': 1519.919, 'duration': 4.64}
+{'text': 'was still unaverly was not sure', 'start': 1521.2, 'duration': 3.359}
+{'text': 'ccp footage of the house on her raid wha', 'start': 1525.52, 'duration': 6.48}
+{'text': 'why just to find a closure the boyfriend', 'start': 1528.72, 'duration': 4.4}
+{'text': 'made a 911 call and dude', 'start': 1532.0, 'duration': 2.559}
+{'text': "yeah sure i've heard this i don't want", 'start': 1533.12, 'duration': 2.4}
+{'text': 'to listen to this on stream because i', 'start': 1534.559, 'duration': 1.841}
+{'text': "don't know if it's going to be [\xa0__\xa0]", 'start': 1535.52, 'duration': 8.32}
+{'text': 'weird or not', 'start': 1536.4, 'duration': 7.44}
+{'text': "okay that's it we did a brief reading of", 'start': 1544.799, 'duration': 5.201}
+{'text': 'things there you go okay', 'start': 1546.799, 'duration': 3.201}
+{'text': "sloppy's violence outside her apartment", 'start': 1550.48, 'duration': 2.24}
+{'text': 'in the house for the red field i think', 'start': 1551.76, 'duration': 2.08}
+{'text': 'that mr walker was there said i was', 'start': 1552.72, 'duration': 2.4}
+{'text': 'expected to find an underworld alone', 'start': 1553.84, 'duration': 2.319}
+{'text': 'affair to follow their own rules', 'start': 1555.12, 'duration': 2.159}
+{'text': 'engaging', 'start': 1556.159, 'duration': 2.801}
+{'text': 'i could retain safeguards like station', 'start': 1557.279, 'duration': 3.201}
+{'text': 'ambulance outside compounded the wrists', 'start': 1558.96, 'duration': 3.92}
+{'text': 'at night', 'start': 1560.48, 'duration': 2.4}
+{'text': 'they arrested avon barksdale with a', 'start': 1565.2, 'duration': 3.04}
+{'text': 'without a no knock', 'start': 1566.96, 'duration': 2.8}
+{'text': 'officers did knock before brianna taylor', 'start': 1568.24, 'duration': 3.039}
+{'text': 'shooting investigation fines i just read', 'start': 1569.76, 'duration': 2.64}
+{'text': 'this really quickly it says it because', 'start': 1571.279, 'duration': 1.921}
+{'text': 'of the one', 'start': 1572.4, 'duration': 3.84}
+{'text': 'witness or whatever the only thing i', 'start': 1573.2, 'duration': 6.719}
+{'text': "i truly don't understand", 'start': 1576.24, 'duration': 3.679}
+{'text': "is i don't understand why the guy would", 'start': 1580.08, 'duration': 4.8}
+{'text': "fire at the cops that doesn't i don't", 'start': 1582.96, 'duration': 3.68}
+{'text': "i don't i don't think that makes sense", 'start': 1584.88, 'duration': 3.44}
+{'text': 'the idea that they knew there were cops', 'start': 1586.64, 'duration': 3.039}
+{'text': 'outside and they could just take that', 'start': 1588.32, 'duration': 2.479}
+{'text': 'fire fight', 'start': 1589.679, 'duration': 2.801}
+{'text': 'especially them calling 901 after it', 'start': 1590.799, 'duration': 4.161}
+{'text': 'seems like so', 'start': 1592.48, 'duration': 5.679}
+{'text': 'unbelievable to me plus only one bullet', 'start': 1594.96, 'duration': 4.959}
+{'text': 'oh true because they only fired one shot', 'start': 1598.159, 'duration': 3.201}
+{'text': 'like he was trying to scare somebody off', 'start': 1599.919, 'duration': 2.0}
+{'text': 'right', 'start': 1601.36, 'duration': 2.48}
+{'text': 'does the does the guy have any criminal', 'start': 1601.919, 'duration': 3.281}
+{'text': 'record at all', 'start': 1603.84, 'duration': 3.839}
+{'text': 'is it walker her boyfriend did that guy', 'start': 1605.2, 'duration': 7.599}
+{'text': 'have a criminal record at all', 'start': 1607.679, 'duration': 6.801}
+{'text': 'or like warrants or anything yeah so', 'start': 1612.799, 'duration': 3.441}
+{'text': "there's like no reason why he would even", 'start': 1614.48, 'duration': 3.04}
+{'text': "be afraid of the cops it doesn't make", 'start': 1616.24, 'duration': 3.28}
+{'text': 'any sense', 'start': 1617.52, 'duration': 3.44}
+{'text': 'oh true if you have a criminal history', 'start': 1619.52, 'duration': 2.72}
+{'text': "you couldn't get a gun well i think you", 'start': 1620.96, 'duration': 2.719}
+{'text': 'can with misdemeanor you must be able to', 'start': 1622.24, 'duration': 2.0}
+{'text': 'because i have', 'start': 1623.679, 'duration': 2.401}
+{'text': "the license right i think it's with", 'start': 1624.24, 'duration': 3.36}
+{'text': "felons and [\xa0__\xa0] you're not able to if", 'start': 1626.08, 'duration': 2.4}
+{'text': 'you have a felony', 'start': 1627.6, 'duration': 2.72}
+{'text': "i think you're not usually able to or", 'start': 1628.48, 'duration': 3.04}
+{'text': "especially if it's like domestic abuse", 'start': 1630.32, 'duration': 3.76}
+{'text': 'related or whatever but', 'start': 1631.52, 'duration': 3.68}
+{'text': 'would you say that even if the police', 'start': 1634.08, 'duration': 2.479}
+{'text': "are in for you full uniform he wouldn't", 'start': 1635.2, 'duration': 2.719}
+{'text': 'have had time to identify them as police', 'start': 1636.559, 'duration': 4.561}
+{'text': 'in a no-knock warrant um', 'start': 1637.919, 'duration': 4.88}
+{'text': 'i think it can be very very very', 'start': 1641.12, 'duration': 3.76}
+{'text': 'difficult to identify', 'start': 1642.799, 'duration': 3.441}
+{'text': "what you have a misdemeanor i'm pretty", 'start': 1644.88, 'duration': 2.799}
+{'text': 'sure i do right driving under suspended', 'start': 1646.24, 'duration': 3.28}
+{'text': "license i'm pretty sure is at least or", 'start': 1647.679, 'duration': 3.201}
+{'text': "i guess i pled it down wait aren't", 'start': 1649.52, 'duration': 4.879}
+{'text': "speeding tickets misdemeanors i don't i", 'start': 1650.88, 'duration': 4.48}
+{'text': "don't actually know what a speeding", 'start': 1654.399, 'duration': 3.28}
+{'text': "ticket is i'm not sure maybe not", 'start': 1655.36, 'duration': 3.76}
+{'text': "i'm pretty sure the suspended license", 'start': 1657.679, 'duration': 3.6}
+{'text': "thing i pled down they're infractions", 'start': 1659.12, 'duration': 4.4}
+{'text': "oh maybe not then i don't know the", 'start': 1661.279, 'duration': 3.361}
+{'text': 'possible departments have really thick', 'start': 1663.52, 'duration': 2.08}
+{'text': "doors and they couldn't hear through the", 'start': 1664.64, 'duration': 2.32}
+{'text': 'door', 'start': 1665.6, 'duration': 3.28}
+{'text': "i don't believe that an apartment that", 'start': 1666.96, 'duration': 3.52}
+{'text': "is so cheap that it doesn't have doors", 'start': 1668.88, 'duration': 3.12}
+{'text': 'with like eye holes but doors that are', 'start': 1670.48, 'duration': 3.439}
+{'text': 'so huge and thick that they can be they', 'start': 1672.0, 'duration': 4.08}
+{'text': 'battered it down in two hits right', 'start': 1673.919, 'duration': 3.441}
+{'text': "okay if i walk with all right he's not", 'start': 1676.08, 'duration': 2.64}
+{'text': 'being charged seems like the court found', 'start': 1677.36, 'duration': 6.48}
+{'text': 'him innocent in the situation', 'start': 1678.72, 'duration': 5.12}
+{'text': 'because if walker was shooting at the', 'start': 1684.0, 'duration': 3.039}
+{'text': 'people coming through the doors', 'start': 1685.52, 'duration': 3.36}
+{'text': "it's reasonable that he didn't know that", 'start': 1687.039, 'duration': 3.36}
+{'text': 'they were cops', 'start': 1688.88, 'duration': 4.56}
+{'text': 'in which case either the cops', 'start': 1690.399, 'duration': 4.721}
+{'text': 'made themselves aware brianna just', 'start': 1693.44, 'duration': 4.4}
+{'text': "didn't tell him", 'start': 1695.12, 'duration': 5.439}
+{'text': 'or um', 'start': 1697.84, 'duration': 2.719}
+{'text': 'either either the cops were wearing', 'start': 1701.44, 'duration': 3.52}
+{'text': "brandon didn't tell him for some weird", 'start': 1702.559, 'duration': 5.681}
+{'text': 'reason which seems unlikely', 'start': 1704.96, 'duration': 3.28}
+{'text': "yeah i don't know yeah i'm not sure i", 'start': 1708.96, 'duration': 3.12}
+{'text': "don't know rip", 'start': 1711.2, 'duration': 4.079}
+{'text': "that [\xa0__\xa0] we're a body cam", 'start': 1712.08, 'duration': 3.199}
+{'text': "life pro tip if you're doing a no not", 'start': 1715.52, 'duration': 2.879}
+{'text': 'great as a police officer bring your', 'start': 1717.12, 'duration': 1.679}
+{'text': 'camera', 'start': 1718.399, 'duration': 2.561}
+{'text': 'good luck not everybody is born with a', 'start': 1718.799, 'duration': 4.0}
+{'text': '[\xa0__\xa0] silver spoon they can start 50', 'start': 1720.96, 'duration': 3.12}
+{'text': "million [\xa0__\xa0] businesses you don't", 'start': 1722.799, 'duration': 2.48}
+{'text': 'think a lot of these small businesses', 'start': 1724.08, 'duration': 2.959}
+{'text': 'are literally these people livelihoods', 'start': 1725.279, 'duration': 4.081}
+{'text': 'would', 'start': 1727.039, 'duration': 2.321}

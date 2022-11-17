@@ -1,0 +1,1643 @@
+{'text': 'i think most people in the world are', 'start': 0.08, 'duration': 3.119}
+{'text': 'pretty aligning their core values', 'start': 1.599, 'duration': 3.521}
+{'text': 'and then you have like your basic like', 'start': 3.199, 'duration': 3.6}
+{'text': 'logical processing but the differences', 'start': 5.12, 'duration': 2.88}
+{'text': 'are information', 'start': 6.799, 'duration': 3.281}
+{'text': 'we live in totally different worlds when', 'start': 8.0, 'duration': 3.679}
+{'text': "you've got people that are just slipping", 'start': 10.08, 'duration': 3.04}
+{'text': "out of reality and you won't give them", 'start': 11.679, 'duration': 3.601}
+{'text': 'like a foothold to like latch onto', 'start': 13.12, 'duration': 3.76}
+{'text': "when you're so divisive and when you're", 'start': 15.28, 'duration': 3.36}
+{'text': 'so antagonistic over and over and over', 'start': 16.88, 'duration': 2.559}
+{'text': 'and over again', 'start': 18.64, 'duration': 2.24}
+{'text': "it's obvious that people are going to go", 'start': 19.439, 'duration': 3.281}
+{'text': 'a certain way they see the lawmakers', 'start': 20.88, 'duration': 2.479}
+{'text': 'escaping', 'start': 22.72, 'duration': 7.92}
+{'text': 'the rioters now become incensed', 'start': 23.359, 'duration': 10.401}
+{'text': 'they came from all 50 states', 'start': 30.64, 'duration': 6.4}
+{'text': "that's not jcs's voice how disappointing", 'start': 33.76, 'duration': 5.52}
+{'text': 'is that a brit bonger no hold on they', 'start': 37.04, 'duration': 3.92}
+{'text': 'protest an election they believed had', 'start': 39.28, 'duration': 2.56}
+{'text': 'been stolen', 'start': 40.96, 'duration': 3.68}
+{'text': 'wait is it an irishman why are we', 'start': 41.84, 'duration': 3.28}
+{'text': 'getting', 'start': 44.64, 'duration': 1.919}
+{'text': 'foreigners talking about this this is', 'start': 45.12, 'duration': 3.04}
+{'text': "election interference i don't care what", 'start': 46.559, 'duration': 2.801}
+{'text': 'this guy has to say', 'start': 48.16, 'duration': 2.16}
+{'text': 'am i allowed to make jokes about', 'start': 49.36, 'duration': 2.64}
+{'text': 'potatoes or is that i think i get in', 'start': 50.32, 'duration': 2.64}
+{'text': 'trouble nevermind', 'start': 52.0, 'duration': 2.32}
+{'text': 'oh well no irish people are white so', 'start': 52.96, 'duration': 3.36}
+{'text': "twitch shouldn't care right we're here", 'start': 54.32, 'duration': 2.559}
+{'text': 'patriots', 'start': 56.32, 'duration': 3.12}
+{'text': 'well russians are white and foreign got', 'start': 56.879, 'duration': 3.921}
+{'text': 'in trouble for making fun of russians', 'start': 59.44, 'duration': 5.119}
+{'text': "hmm i don't know we're in washington d.c", 'start': 60.8, 'duration': 7.12}
+{'text': 'capitol building dead in front of us', 'start': 64.559, 'duration': 6.641}
+{'text': 'their day of action would be january 6th', 'start': 67.92, 'duration': 4.72}
+{'text': 'when congress would count electoral', 'start': 71.2, 'duration': 4.0}
+{'text': 'ballots and ratify the 2020 election', 'start': 72.64, 'duration': 4.4}
+{'text': 'results', 'start': 75.2, 'duration': 3.76}
+{'text': 'for some it was just a rally for their', 'start': 77.04, 'duration': 3.2}
+{'text': 'president', 'start': 78.96, 'duration': 6.479}
+{'text': 'for others it was a call to arms on', 'start': 80.24, 'duration': 6.0}
+{'text': 'congress', 'start': 85.439, 'duration': 3.68}
+{'text': "directly after trump's speech in the", 'start': 86.24, 'duration': 4.0}
+{'text': 'weeks beforehand', 'start': 89.119, 'duration': 2.64}
+{'text': 'there were over a million mentions on', 'start': 90.24, 'duration': 4.48}
+{'text': 'social media of storming the capital', 'start': 91.759, 'duration': 4.32}
+{'text': "maps were shared of the building's", 'start': 94.72, 'duration': 3.439}
+{'text': 'layout there was talk of bringing', 'start': 96.079, 'duration': 4.241}
+{'text': 'weapons and ammunition', 'start': 98.159, 'duration': 3.92}
+{'text': 'and discussion over which lawmakers', 'start': 100.32, 'duration': 3.839}
+{'text': 'should be targeted first', 'start': 102.079, 'duration': 4.561}
+{'text': 'this anger was based on a lie this', 'start': 104.159, 'duration': 5.201}
+{'text': 'election was a fraud', 'start': 106.64, 'duration': 4.64}
+{'text': 'a lie that had grown more frenzied after', 'start': 109.36, 'duration': 3.119}
+{'text': 'the election', 'start': 111.28, 'duration': 2.96}
+{'text': 'president trump won this election they', 'start': 112.479, 'duration': 4.0}
+{'text': 'were flipping votes steal the election', 'start': 114.24, 'duration': 3.36}
+{'text': 'in philadelphia you win', 'start': 116.479, 'duration': 3.521}
+{'text': 'in a landslide and they steal the', 'start': 117.6, 'duration': 4.32}
+{'text': "election in atlanta and it's rich", 'start': 120.0, 'duration': 3.759}
+{'text': "steal the election of milwaukee it's not", 'start': 121.92, 'duration': 3.6}
+{'text': 'acceptable this is outrageous', 'start': 123.759, 'duration': 3.841}
+{'text': 'are they wait is he is he still fighting', 'start': 125.52, 'duration': 3.68}
+{'text': 'in arizona or do they still have some', 'start': 127.6, 'duration': 2.48}
+{'text': 'lawsuit', 'start': 129.2, 'duration': 2.48}
+{'text': 'i think trump actually broke the', 'start': 130.08, 'duration': 3.519}
+{'text': 'republican party like their brains are', 'start': 131.68, 'duration': 2.48}
+{'text': 'broken', 'start': 133.599, 'duration': 4.321}
+{'text': "i don't know what to do jesus christ", 'start': 134.16, 'duration': 5.52}
+{'text': 'like i really do think that republicans', 'start': 137.92, 'duration': 3.44}
+{'text': 'are waiting for trump to come in', 'start': 139.68, 'duration': 3.68}
+{'text': 'like [\xa0__\xa0] gandalf on a horse over the', 'start': 141.36, 'duration': 3.44}
+{'text': 'mountain', 'start': 143.36, 'duration': 3.84}
+{'text': "on like in 2024 he's gonna come riding", 'start': 144.8, 'duration': 4.56}
+{'text': 'in', 'start': 147.2, 'duration': 2.16}
+{'text': '[Music]', 'start': 151.1, 'duration': 3.46}
+{'text': 'like unironically i believe that a lot', 'start': 152.8, 'duration': 2.96}
+{'text': "of republicans still think that that's", 'start': 154.56, 'duration': 2.959}
+{'text': "what's exactly what's going to happen", 'start': 155.76, 'duration': 3.759}
+{'text': 'a lie spread by the president and his', 'start': 157.519, 'duration': 3.761}
+{'text': "closest allies let's call out cheating", 'start': 159.519, 'duration': 3.601}
+{'text': 'when we find it some of whom stoked', 'start': 161.28, 'duration': 3.12}
+{'text': 'calls for violence all', 'start': 163.12, 'duration': 2.8}
+{'text': 'hell is going to break loose tomorrow', 'start': 164.4, 'duration': 3.119}
+{'text': "everyone's going to remember who", 'start': 165.92, 'duration': 3.36}
+{'text': 'actually stands in the breach and', 'start': 167.519, 'duration': 3.761}
+{'text': 'fights tomorrow and who goes running off', 'start': 169.28, 'duration': 3.12}
+{'text': 'like a chicken we', 'start': 171.28, 'duration': 4.239}
+{'text': 'bleed freedom this will be their', 'start': 172.4, 'duration': 3.919}
+{'text': 'waterloo', 'start': 175.519, 'duration': 3.44}
+{'text': 'and we will sacrifice for freedom this', 'start': 176.319, 'duration': 3.601}
+{'text': 'will be', 'start': 178.959, 'duration': 4.241}
+{'text': 'their destruction', 'start': 179.92, 'duration': 3.28}
+{'text': 'what happens next do you mean republican', 'start': 183.519, 'duration': 3.041}
+{'text': "voters actual republican we're actually", 'start': 185.12, 'duration': 3.839}
+{'text': 'like republicans wait what do you mean', 'start': 186.56, 'duration': 4.88}
+{'text': "i'm wait what's the difference what does", 'start': 188.959, 'duration': 4.0}
+{'text': 'the dgg analyst say about transparent', 'start': 191.44, 'duration': 3.519}
+{'text': "24. i still don't think he'll run i feel", 'start': 192.959, 'duration': 3.121}
+{'text': "like he'll lose interest that's what i", 'start': 194.959, 'duration': 2.64}
+{'text': 'felt the whole time but', 'start': 196.08, 'duration': 3.2}
+{'text': "i don't know i i wonder i'm staying by", 'start': 197.599, 'duration': 2.56}
+{'text': 'that prediction though because if it', 'start': 199.28, 'duration': 2.319}
+{'text': 'comes true i look like a god', 'start': 200.159, 'duration': 6.0}
+{'text': "so i'm still staying by it but chaos", 'start': 201.599, 'duration': 10.64}
+{'text': 'they broke the glass insurrection', 'start': 206.159, 'duration': 8.0}
+{'text': 'death i think it means elected', 'start': 212.239, 'duration': 3.28}
+{'text': 'republican officials versus republican', 'start': 214.159, 'duration': 2.481}
+{'text': 'voters oh', 'start': 215.519, 'duration': 3.041}
+{'text': "i don't think officials like trump at", 'start': 216.64, 'duration': 4.4}
+{'text': 'all i think that most of the elect', 'start': 218.56, 'duration': 3.92}
+{'text': 'the vast majority think of elected', 'start': 221.04, 'duration': 3.6}
+{'text': 'republican officials [\xa0__\xa0]', 'start': 222.48, 'duration': 4.8}
+{'text': 'hate trump but they have to simp him', 'start': 224.64, 'duration': 3.92}
+{'text': "because they're because their", 'start': 227.28, 'duration': 2.4}
+{'text': 'constituents love him', 'start': 228.56, 'duration': 2.72}
+{'text': "you have to you can't i don't think you", 'start': 229.68, 'duration': 3.279}
+{'text': "i don't think you can afford to be", 'start': 231.28, 'duration': 3.519}
+{'text': "maybe in some districts i don't think", 'start': 232.959, 'duration': 3.121}
+{'text': 'you can afford to be anti-trump if', 'start': 234.799, 'duration': 2.481}
+{'text': "you're a republican legislature because", 'start': 236.08, 'duration': 2.159}
+{'text': "you're going to lose the support of your", 'start': 237.28, 'duration': 1.44}
+{'text': 'base', 'start': 238.239, 'duration': 2.241}
+{'text': 'now there are some more extreme right', 'start': 238.72, 'duration': 2.96}
+{'text': "people it's like the marjorie green", 'start': 240.48, 'duration': 2.16}
+{'text': "taylor and [\xa0__\xa0] that i've gotten", 'start': 241.68, 'duration': 2.24}
+{'text': 'that are probably genuinely trump', 'start': 242.64, 'duration': 3.36}
+{'text': "sycophants but um i don't think that i", 'start': 243.92, 'duration': 3.519}
+{'text': "don't think the average elected official", 'start': 246.0, 'duration': 3.04}
+{'text': 'likes all of the um', 'start': 247.439, 'duration': 3.761}
+{'text': 'uncertainty and instability that trump', 'start': 249.04, 'duration': 3.36}
+{'text': 'like kind of brought to the party i', 'start': 251.2, 'duration': 2.959}
+{'text': "don't think so", 'start': 252.4, 'duration': 3.92}
+{'text': 'then there began a campaign to whitewash', 'start': 254.159, 'duration': 3.281}
+{'text': 'history', 'start': 256.32, 'duration': 4.56}
+{'text': 'starting at the top it was a zero threat', 'start': 257.44, 'duration': 6.08}
+{'text': 'right from the start it was zero threat', 'start': 260.88, 'duration': 4.4}
+{'text': 'and spreading throughout the republican', 'start': 263.52, 'duration': 2.32}
+{'text': 'party', 'start': 265.28, 'duration': 2.8}
+{'text': 'even calling an insurrection uh it', 'start': 265.84, 'duration': 3.6}
+{'text': "wasn't by and large", 'start': 268.08, 'duration': 4.0}
+{'text': 'it was all it was peaceful protest one', 'start': 269.44, 'duration': 4.72}
+{'text': 'lawmaker who helped barricade the house', 'start': 272.08, 'duration': 2.8}
+{'text': 'doors', 'start': 274.16, 'duration': 2.88}
+{'text': 'now suggests there was barely any threat', 'start': 274.88, 'duration': 4.08}
+{'text': "if you didn't know the tv footage was a", 'start': 277.04, 'duration': 4.08}
+{'text': 'video from january the 6th', 'start': 278.96, 'duration': 4.0}
+{'text': 'you would actually think it was a normal', 'start': 281.12, 'duration': 3.76}
+{'text': 'tourist visit', 'start': 282.96, 'duration': 4.959}
+{'text': 'a tourist visit this was not', 'start': 284.88, 'duration': 6.319}
+{'text': 'and the proof is in the footage', 'start': 287.919, 'duration': 3.28}
+{'text': 'as part of a six-month investigation the', 'start': 291.28, 'duration': 3.68}
+{'text': 'new york times has collected and', 'start': 293.52, 'duration': 2.64}
+{'text': 'forensically analyzed', 'start': 294.96, 'duration': 4.0}
+{'text': 'thousands of videos most filmed by the', 'start': 296.16, 'duration': 5.759}
+{'text': 'writers themselves', 'start': 298.96, 'duration': 2.959}
+{'text': 'we obtained internal police radio', 'start': 302.32, 'duration': 3.84}
+{'text': 'traffic', 'start': 304.24, 'duration': 2.959}
+{'text': 'by one of these big questions do you', 'start': 306.16, 'duration': 2.08}
+{'text': 'have any idea what the solution is from', 'start': 307.199, 'duration': 2.961}
+{'text': 'your voter base is that [\xa0__\xa0] crazy i', 'start': 308.24, 'duration': 3.84}
+{'text': 'still think our huge problem right now', 'start': 310.16, 'duration': 4.24}
+{'text': 'is kind of this fake news i think is', 'start': 312.08, 'duration': 4.32}
+{'text': 'like the biggest problem', 'start': 314.4, 'duration': 4.079}
+{'text': 'um i i think that when you have this you', 'start': 316.4, 'duration': 4.16}
+{'text': 'have this like epistemic divide', 'start': 318.479, 'duration': 3.761}
+{'text': 'in terms of like how do people figure', 'start': 320.56, 'duration': 3.6}
+{'text': "out what's real or what's true", 'start': 322.24, 'duration': 3.36}
+{'text': "and you can't agree on it and when you", 'start': 324.16, 'duration': 3.28}
+{'text': "can't agree on reality um", 'start': 325.6, 'duration': 4.0}
+{'text': "i think that you're [\xa0__\xa0] because like", 'start': 327.44, 'duration': 3.68}
+{'text': "there's like three parts of how you spit", 'start': 329.6, 'duration': 2.879}
+{'text': 'on a conclusion right', 'start': 331.12, 'duration': 4.48}
+{'text': 'you have like your core values which', 'start': 332.479, 'duration': 3.841}
+{'text': 'honestly', 'start': 335.6, 'duration': 2.8}
+{'text': 'i think most people are pretty aligned i', 'start': 336.32, 'duration': 3.439}
+{'text': 'think most people in the world', 'start': 338.4, 'duration': 3.44}
+{'text': 'are pretty aligning their core values', 'start': 339.759, 'duration': 4.081}
+{'text': 'you have the information you get', 'start': 341.84, 'duration': 4.799}
+{'text': 'and then you have like your basic mental', 'start': 343.84, 'duration': 3.84}
+{'text': 'faculty', 'start': 346.639, 'duration': 4.081}
+{'text': 'so like given you know if a', 'start': 347.68, 'duration': 5.44}
+{'text': 'then b then c does that mean if a then c', 'start': 350.72, 'duration': 4.4}
+{'text': 'like this basic like logical processing', 'start': 353.12, 'duration': 2.48}
+{'text': 'i think', 'start': 355.12, 'duration': 2.079}
+{'text': 'i think everybody has number one i think', 'start': 355.6, 'duration': 2.8}
+{'text': 'most of us share these common core', 'start': 357.199, 'duration': 1.761}
+{'text': 'values', 'start': 358.4, 'duration': 2.16}
+{'text': 'i think that most people have three most', 'start': 358.96, 'duration': 3.44}
+{'text': 'people can like put together like causal', 'start': 360.56, 'duration': 3.44}
+{'text': "statements that's a pretty human thing", 'start': 362.4, 'duration': 2.88}
+{'text': 'to do', 'start': 364.0, 'duration': 3.52}
+{'text': 'but the differences are information we', 'start': 365.28, 'duration': 4.0}
+{'text': 'live in totally different worlds', 'start': 367.52, 'duration': 3.36}
+{'text': 'so like when you put people in these', 'start': 369.28, 'duration': 3.759}
+{'text': 'different types of media environments', 'start': 370.88, 'duration': 4.08}
+{'text': 'even with shared values and even with', 'start': 373.039, 'duration': 3.841}
+{'text': 'the ability to like logically form', 'start': 374.96, 'duration': 3.2}
+{'text': 'conclusions', 'start': 376.88, 'duration': 2.96}
+{'text': 'you just you wind up with totally', 'start': 378.16, 'duration': 3.28}
+{'text': 'different conclusions just', 'start': 379.84, 'duration': 3.12}
+{'text': 'with each other you know like i said', 'start': 381.44, 'duration': 3.44}
+{'text': "like it's not really that crazy to think", 'start': 382.96, 'duration': 3.679}
+{'text': 'that like the election is stolen', 'start': 384.88, 'duration': 3.68}
+{'text': "given you've been fed all this for other", 'start': 386.639, 'duration': 3.12}
+{'text': 'information that you believe in', 'start': 388.56, 'duration': 2.56}
+{'text': 'given that you think that like all of', 'start': 389.759, 'duration': 2.641}
+{'text': 'these institutions are against trump', 'start': 391.12, 'duration': 2.32}
+{'text': 'given that you think that there were', 'start': 392.4, 'duration': 2.88}
+{'text': 'people dominion voting machines', 'start': 393.44, 'duration': 3.44}
+{'text': 'chavez coming back from the past like', 'start': 395.28, 'duration': 2.88}
+{'text': "given you think all this stuff it's not", 'start': 396.88, 'duration': 2.48}
+{'text': 'really that crazy to think the election', 'start': 398.16, 'duration': 2.8}
+{'text': "was stolen in fact it's actually crazy", 'start': 399.36, 'duration': 2.64}
+{'text': "if you don't think it is right it's", 'start': 400.96, 'duration': 2.239}
+{'text': 'these different media environments these', 'start': 402.0, 'duration': 2.56}
+{'text': 'different information worlds that we', 'start': 403.199, 'duration': 2.161}
+{'text': 'live in', 'start': 404.56, 'duration': 2.88}
+{'text': 'um that are like [\xa0__\xa0] up our ability', 'start': 405.36, 'duration': 3.52}
+{'text': 'to', 'start': 407.44, 'duration': 3.039}
+{'text': 'come together or understand each other', 'start': 408.88, 'duration': 3.439}
+{'text': 'or get any kind of common goal work', 'start': 410.479, 'duration': 4.16}
+{'text': 'towards', 'start': 412.319, 'duration': 2.32}
+{'text': 'and went to court to unseal police body', 'start': 415.28, 'duration': 3.759}
+{'text': 'cam footage', 'start': 417.44, 'duration': 3.68}
+{'text': 'our reconstruction shows the capital', 'start': 419.039, 'duration': 3.121}
+{'text': 'riot something that i', 'start': 421.12, 'duration': 3.68}
+{'text': 'missed is um it really is like the metal', 'start': 422.16, 'duration': 3.84}
+{'text': 'gear solid two memes', 'start': 424.8, 'duration': 3.6}
+{'text': "the idea that there's so much", 'start': 426.0, 'duration': 4.0}
+{'text': 'information out there', 'start': 428.4, 'duration': 4.96}
+{'text': "um it's really interesting to me", 'start': 430.0, 'duration': 5.039}
+{'text': 'because this was this ended up being', 'start': 433.36, 'duration': 3.76}
+{'text': 'like a big like foreshadowing in my life', 'start': 435.039, 'duration': 3.921}
+{'text': 'that i just totally missed at the time', 'start': 437.12, 'duration': 5.28}
+{'text': 'i think it was back in 2012 maybe', 'start': 438.96, 'duration': 5.6}
+{'text': 'that my um it was back in 2012 i think i', 'start': 442.4, 'duration': 3.359}
+{'text': 'would ask my mom because i still listen', 'start': 444.56, 'duration': 2.56}
+{'text': 'to some republican radio and talk shows', 'start': 445.759, 'duration': 2.72}
+{'text': 'every now and then and i asked my mom', 'start': 447.12, 'duration': 2.639}
+{'text': 'like oh did you hear what glenn beck or', 'start': 448.479, 'duration': 2.641}
+{'text': 'rush limbaugh said about this like what', 'start': 449.759, 'duration': 2.241}
+{'text': 'do you think about it', 'start': 451.12, 'duration': 2.079}
+{'text': "and i remember my mom told me i don't", 'start': 452.0, 'duration': 3.039}
+{'text': 'really listen to them anymore and i', 'start': 453.199, 'duration': 2.321}
+{'text': 'thought', 'start': 455.039, 'duration': 2.88}
+{'text': "oh my god that's [\xa0__\xa0] awesome my mom", 'start': 455.52, 'duration': 3.119}
+{'text': 'stopped listening', 'start': 457.919, 'duration': 3.201}
+{'text': "to these guys like that's cool um maybe", 'start': 458.639, 'duration': 3.041}
+{'text': "she's", 'start': 461.12, 'duration': 1.68}
+{'text': 'watching something else or maybe she got', 'start': 461.68, 'duration': 2.799}
+{'text': "tired of the extremism but it's not the", 'start': 462.8, 'duration': 2.16}
+{'text': 'case', 'start': 464.479, 'duration': 2.0}
+{'text': 'she stopped listening to traditional', 'start': 464.96, 'duration': 3.679}
+{'text': 'media like radio and and tv', 'start': 466.479, 'duration': 4.0}
+{'text': 'and she got her news almost exclusively', 'start': 468.639, 'duration': 3.12}
+{'text': 'through social media', 'start': 470.479, 'duration': 2.801}
+{'text': 'so like facebook memes and stuff like', 'start': 471.759, 'duration': 3.361}
+{'text': 'that which sounds stupid but i think the', 'start': 473.28, 'duration': 3.199}
+{'text': "last time we checked it's like something", 'start': 475.12, 'duration': 2.4}
+{'text': 'like 68', 'start': 476.479, 'duration': 2.72}
+{'text': 'of americans get the majority of their', 'start': 477.52, 'duration': 3.6}
+{'text': 'news through facebook', 'start': 479.199, 'duration': 4.641}
+{'text': 'um and that that kind of like that idea', 'start': 481.12, 'duration': 3.359}
+{'text': 'that', 'start': 483.84, 'duration': 1.84}
+{'text': 'like your your main source of', 'start': 484.479, 'duration': 2.961}
+{'text': 'information is is coupled in memes and', 'start': 485.68, 'duration': 3.12}
+{'text': 'entertainment by people clearly trying', 'start': 487.44, 'duration': 2.72}
+{'text': 'to sell you like narratives and [\xa0__\xa0] is', 'start': 488.8, 'duration': 1.679}
+{'text': 'just', 'start': 490.16, 'duration': 3.84}
+{'text': 'so toxic for everything', 'start': 490.479, 'duration': 6.321}
+{'text': 'for what it was a violent assault', 'start': 494.0, 'duration': 4.4}
+{'text': 'encouraged by the president', 'start': 496.8, 'duration': 3.679}
+{'text': 'on a seat of democracy that he vowed to', 'start': 498.4, 'duration': 3.84}
+{'text': 'protect', 'start': 500.479, 'duration': 3.761}
+{'text': "we'll chart how police leaders failed to", 'start': 502.24, 'duration': 4.48}
+{'text': 'heed warnings of an impending attack', 'start': 504.24, 'duration': 5.12}
+{'text': 'putting rank-and-file officers in danger', 'start': 506.72, 'duration': 3.28}
+{'text': "we'll track", 'start': 509.36, 'duration': 2.32}
+{'text': 'key instigators in the mob taking', 'start': 510.0, 'duration': 3.2}
+{'text': 'advantage of weaknesses in the maybe', 'start': 511.68, 'duration': 2.719}
+{'text': 'this video will convince me otherwise', 'start': 513.2, 'duration': 2.16}
+{'text': "i'd be interested", 'start': 514.399, 'duration': 2.64}
+{'text': 'but i still think that the primary', 'start': 515.36, 'duration': 3.2}
+{'text': 'failure on that day', 'start': 517.039, 'duration': 4.24}
+{'text': 'um falls in the lap of mayor bowser in', 'start': 518.56, 'duration': 4.159}
+{'text': 'terms of the response in terms of like', 'start': 521.279, 'duration': 3.12}
+{'text': 'inciting the insurrection and everything', 'start': 522.719, 'duration': 3.68}
+{'text': 'obviously i think trump gets that but i', 'start': 524.399, 'duration': 4.161}
+{'text': 'think that she absolutely', 'start': 526.399, 'duration': 3.601}
+{'text': 'completely and totally [\xa0__\xa0] up her', 'start': 528.56, 'duration': 4.0}
+{'text': 'response um to this', 'start': 530.0, 'duration': 5.36}
+{'text': 'this is from mayor bowser on january 5th', 'start': 532.56, 'duration': 4.32}
+{'text': 'dear acting attorney general rosen', 'start': 535.36, 'duration': 2.88}
+{'text': 'secretary mccarthy and acting secretary', 'start': 536.88, 'duration': 2.639}
+{'text': 'miller as a law enforcement agency', 'start': 538.24, 'duration': 2.8}
+{'text': 'charged with protecting residents and', 'start': 539.519, 'duration': 2.561}
+{'text': 'visitors throughout the district of', 'start': 541.04, 'duration': 2.64}
+{'text': 'columbia the metropolitan police', 'start': 542.08, 'duration': 2.96}
+{'text': "department is prepared for this week's", 'start': 543.68, 'duration': 2.56}
+{'text': 'first amendment activities', 'start': 545.04, 'duration': 3.68}
+{'text': 'metropolitan uh the metropolitan police', 'start': 546.24, 'duration': 3.52}
+{'text': 'department has coordinated with its', 'start': 548.72, 'duration': 2.559}
+{'text': 'federal partners namely the u.s park', 'start': 549.76, 'duration': 2.0}
+{'text': 'police', 'start': 551.279, 'duration': 2.0}
+{'text': 'u.s capitol police and the u.s secret', 'start': 551.76, 'duration': 3.04}
+{'text': 'service all of whom regularly have', 'start': 553.279, 'duration': 2.881}
+{'text': 'uniformed personnel protecting federal', 'start': 554.8, 'duration': 2.88}
+{'text': 'assets in the district of columbia this', 'start': 556.16, 'duration': 1.92}
+{'text': 'week', 'start': 557.68, 'duration': 2.08}
+{'text': 'ambidi has additional logistical support', 'start': 558.08, 'duration': 3.28}
+{'text': 'on our members of the dc national guard', 'start': 559.76, 'duration': 3.36}
+{'text': 'they were running [\xa0__\xa0] traffic lights', 'start': 561.36, 'duration': 3.2}
+{'text': 'by the way who will work under the', 'start': 563.12, 'duration': 3.36}
+{'text': 'direction of and in coordination with', 'start': 564.56, 'duration': 3.839}
+{'text': 'mpd the district of columbia government', 'start': 566.48, 'duration': 3.68}
+{'text': 'has not requested personnel from any', 'start': 568.399, 'duration': 3.281}
+{'text': 'other federal law enforcement agencies', 'start': 570.16, 'duration': 3.2}
+{'text': 'to avoid confusion we ask that', 'start': 571.68, 'duration': 3.279}
+{'text': 'any request for additional assistance be', 'start': 573.36, 'duration': 3.44}
+{'text': 'coordinated using the same process and', 'start': 574.959, 'duration': 2.56}
+{'text': 'procedures', 'start': 576.8, 'duration': 2.479}
+{'text': "we're mindful that in 2020 mpd was", 'start': 577.519, 'duration': 3.121}
+{'text': 'expected to perform the demanding tasks', 'start': 579.279, 'duration': 2.721}
+{'text': 'of policing large crowds while working', 'start': 580.64, 'duration': 3.199}
+{'text': 'around unidentifiable personnel deployed', 'start': 582.0, 'duration': 2.8}
+{'text': 'in the district of columbia without', 'start': 583.839, 'duration': 1.841}
+{'text': 'proper coordination', 'start': 584.8, 'duration': 2.56}
+{'text': 'unidentified personnel in many cases', 'start': 585.68, 'duration': 3.52}
+{'text': 'armed caused confusion among residents', 'start': 587.36, 'duration': 3.36}
+{'text': 'and visitors and could become a national', 'start': 589.2, 'duration': 3.36}
+{'text': 'security threat with no way for mpd and', 'start': 590.72, 'duration': 3.119}
+{'text': 'federal law enforcement to decipher', 'start': 592.56, 'duration': 2.8}
+{'text': 'armed groups to be clear the district of', 'start': 593.839, 'duration': 3.281}
+{'text': 'columbia is not requesting other federal', 'start': 595.36, 'duration': 2.8}
+{'text': 'law enforcement personnel and', 'start': 597.12, 'duration': 2.88}
+{'text': 'discourages any additional deployment', 'start': 598.16, 'duration': 3.52}
+{'text': 'without immediate notification to and', 'start': 600.0, 'duration': 3.279}
+{'text': 'consultation with mpd if such plans are', 'start': 601.68, 'duration': 3.2}
+{'text': 'underway the protection of persons and', 'start': 603.279, 'duration': 2.081}
+{'text': 'property', 'start': 604.88, 'duration': 4.079}
+{'text': 'is our utmost concern and responsibility', 'start': 605.36, 'duration': 5.52}
+{'text': 'mpd is well trained and prepared to lead', 'start': 608.959, 'duration': 3.44}
+{'text': 'the law enforcement coordination and', 'start': 610.88, 'duration': 2.639}
+{'text': 'response to allow for the peaceful', 'start': 612.399, 'duration': 2.241}
+{'text': 'demonstration of first amendment rights', 'start': 613.519, 'duration': 2.56}
+{'text': 'in the district of columbia', 'start': 614.64, 'duration': 4.639}
+{'text': 'um yeah it that was january 5th', 'start': 616.079, 'duration': 5.601}
+{'text': 'okay i think destiny unfairly maligned', 'start': 619.279, 'duration': 3.841}
+{'text': 'mayor bowser in placing', 'start': 621.68, 'duration': 3.44}
+{'text': 'all the responsibility of the lackluster', 'start': 623.12, 'duration': 3.76}
+{'text': 'response to the capital riots on her', 'start': 625.12, 'duration': 3.44}
+{'text': "um hello here is my name i'm brandon", 'start': 626.88, 'duration': 3.04}
+{'text': "jones i'm going to talk today first of", 'start': 628.56, 'duration': 2.16}
+{'text': 'all i would like to', 'start': 629.92, 'duration': 1.919}
+{'text': "talk about the fact there's a difference", 'start': 630.72, 'duration': 2.4}
+{'text': 'between the metropolitan police and the', 'start': 631.839, 'duration': 2.401}
+{'text': "capitol police and i don't think it's", 'start': 633.12, 'duration': 2.64}
+{'text': 'fair that destiny completely and totally', 'start': 634.24, 'duration': 2.719}
+{'text': 'saddles the blame for what happened on', 'start': 635.76, 'duration': 2.8}
+{'text': 'mayor bowser when the head of the', 'start': 636.959, 'duration': 3.44}
+{'text': 'uh capitol police also failed to make a', 'start': 638.56, 'duration': 3.36}
+{'text': 'proper request um', 'start': 640.399, 'duration': 3.201}
+{'text': "and then i'm gonna say well yeah he did", 'start': 641.92, 'duration': 3.2}
+{'text': 'fail to do so however he literally', 'start': 643.6, 'duration': 2.4}
+{'text': 'resigned the next day', 'start': 645.12, 'duration': 2.48}
+{'text': 'because he knew he [\xa0__\xa0] up bowser', 'start': 646.0, 'duration': 3.36}
+{'text': "didn't instead bowser grandstanded like", 'start': 647.6, 'duration': 3.359}
+{'text': 'a [\xa0__\xa0] and bowser tried to', 'start': 649.36, 'duration': 3.039}
+{'text': 'complain like oh look we put in a', 'start': 650.959, 'duration': 2.56}
+{'text': 'request and it took him four hours to', 'start': 652.399, 'duration': 2.241}
+{'text': 'respond blah blah blah blah blah blah', 'start': 653.519, 'duration': 2.961}
+{'text': "blah blah that's why i blame bowser more", 'start': 654.64, 'duration': 2.8}
+{'text': 'if she would have resigned immediately', 'start': 656.48, 'duration': 2.24}
+{'text': 'after like okay fine sure', 'start': 657.44, 'duration': 4.399}
+{'text': 'but capitals defenses to ignite a wave', 'start': 658.72, 'duration': 5.679}
+{'text': 'of violence that engulfed the building', 'start': 661.839, 'duration': 4.641}
+{'text': "we'll show for the first time the many", 'start': 664.399, 'duration': 4.161}
+{'text': 'simultaneous points of attack', 'start': 666.48, 'duration': 4.24}
+{'text': 'and the eight breaches of what appeared', 'start': 668.56, 'duration': 4.279}
+{'text': 'to be an impenetrable institution of', 'start': 670.72, 'duration': 3.679}
+{'text': 'government', 'start': 672.839, 'duration': 3.161}
+{'text': "we'll show how the delay to secure", 'start': 674.399, 'duration': 4.641}
+{'text': 'congress likely cost a rioter her life', 'start': 676.0, 'duration': 5.36}
+{'text': 'and how for some storming the capital', 'start': 679.04, 'duration': 3.44}
+{'text': 'was part of the plan', 'start': 681.36, 'duration': 4.32}
+{'text': 'all along we need to go in', 'start': 682.48, 'duration': 6.24}
+{'text': "to the capitol let's go", 'start': 685.68, 'duration': 5.2}
+{'text': "it's the morning of january 6th and", 'start': 688.72, 'duration': 3.679}
+{'text': 'thousands are filling the national mall', 'start': 690.88, 'duration': 3.84}
+{'text': 'in washington', 'start': 692.399, 'duration': 4.961}
+{'text': 'trump will speak here at the ellipse a', 'start': 694.72, 'duration': 4.239}
+{'text': 'large park near the white house', 'start': 697.36, 'duration': 3.919}
+{'text': 'and a half hour walk to the u.s capitol', 'start': 698.959, 'duration': 3.12}
+{'text': 'how different do you think the', 'start': 701.279, 'duration': 1.921}
+{'text': 'republican response would be if some', 'start': 702.079, 'duration': 2.481}
+{'text': 'members of congress had actually been', 'start': 703.2, 'duration': 2.0}
+{'text': 'killed', 'start': 704.56, 'duration': 2.32}
+{'text': 'um the vast majority of the protest was', 'start': 705.2, 'duration': 2.96}
+{'text': 'peaceful there were just a couple people', 'start': 706.88, 'duration': 2.56}
+{'text': 'that were acting out of line but most', 'start': 708.16, 'duration': 2.64}
+{'text': "republicans didn't want violence that's", 'start': 709.44, 'duration': 3.76}
+{'text': 'what they would have said 100', 'start': 710.8, 'duration': 4.32}
+{'text': 'where the election will be certified', 'start': 713.2, 'duration': 4.0}
+{'text': 'most are ordinary citizens who believe', 'start': 715.12, 'duration': 4.8}
+{'text': "trump's lie that the election was stolen", 'start': 717.2, 'duration': 5.12}
+{'text': 'i think i do think though i think the', 'start': 719.92, 'duration': 3.599}
+{'text': 'more i think about this', 'start': 722.32, 'duration': 3.28}
+{'text': 'the more that i feel about the more', 'start': 723.519, 'duration': 3.281}
+{'text': 'strongly i feel about this', 'start': 725.6, 'duration': 2.56}
+{'text': "when you've got people that are just", 'start': 726.8, 'duration': 2.88}
+{'text': "slipping out of reality and you won't", 'start': 728.16, 'duration': 3.52}
+{'text': 'give them like a foothold to like', 'start': 729.68, 'duration': 4.399}
+{'text': "latch onto when you're so divisive and", 'start': 731.68, 'duration': 4.08}
+{'text': "when you're so antagonistic over and", 'start': 734.079, 'duration': 3.041}
+{'text': 'over and over and over again', 'start': 735.76, 'duration': 3.519}
+{'text': "um it feels like you're you're like it's", 'start': 737.12, 'duration': 3.44}
+{'text': 'obvious that people are gonna go a', 'start': 739.279, 'duration': 2.24}
+{'text': 'certain way', 'start': 740.56, 'duration': 2.959}
+{'text': "i say that but i don't know if i think", 'start': 741.519, 'duration': 3.12}
+{'text': "about it i don't know if real life", 'start': 743.519, 'duration': 2.721}
+{'text': 'politics is necessarily because i guess', 'start': 744.639, 'duration': 4.081}
+{'text': "i'm more hyper-fixated online for that", 'start': 746.24, 'duration': 4.64}
+{'text': 'um some of the coverage of trump was a', 'start': 748.72, 'duration': 3.359}
+{'text': 'little ridiculous though', 'start': 750.88, 'duration': 2.72}
+{'text': 'in terms of like how people on the left', 'start': 752.079, 'duration': 3.44}
+{'text': 'covered him although he did do a lot of', 'start': 753.6, 'duration': 3.76}
+{'text': "ridiculous stuff that's a difficult", 'start': 755.519, 'duration': 3.281}
+{'text': 'ordeal to go through because', 'start': 757.36, 'duration': 4.32}
+{'text': 'trump was unbelievable holy [\xa0__\xa0] trump', 'start': 758.8, 'duration': 3.76}
+{'text': 'was unbelievable', 'start': 761.68, 'duration': 3.36}
+{'text': "so yeah i don't know that's a hard one a", 'start': 762.56, 'duration': 4.079}
+{'text': "great day it's gonna be wild", 'start': 765.04, 'duration': 4.239}
+{'text': 'as trump says but we also see more', 'start': 766.639, 'duration': 3.681}
+{'text': 'extreme groups', 'start': 769.279, 'duration': 2.641}
+{'text': "who've gained a following during trump's", 'start': 770.32, 'duration': 3.6}
+{'text': 'presidency', 'start': 771.92, 'duration': 3.44}
+{'text': 'there are followers of the q anon', 'start': 773.92, 'duration': 3.68}
+{'text': 'conspiracy taking their blood eating our', 'start': 775.36, 'duration': 2.719}
+{'text': 'babies', 'start': 777.6, 'duration': 2.16}
+{'text': 'who believe that trump is facing down a', 'start': 778.079, 'duration': 4.641}
+{'text': 'cabal of satan worshiping pedophiles', 'start': 779.76, 'duration': 4.8}
+{'text': 'cue posts often invoke notions of', 'start': 782.72, 'duration': 5.2}
+{'text': 'patriotism and predict a coming storm', 'start': 784.56, 'duration': 5.12}
+{'text': 'at the head of january 6th some', 'start': 787.92, 'duration': 5.2}
+{'text': 'supporters call for violence', 'start': 789.68, 'duration': 3.44}
+{'text': 'the oath keepers are far right why do', 'start': 794.72, 'duration': 3.359}
+{'text': 'left people get all the responsibility', 'start': 796.8, 'duration': 2.56}
+{'text': 'it feels kind of [\xa0__\xa0] that republicans', 'start': 798.079, 'duration': 2.641}
+{'text': "can act as stupid as they want but it's", 'start': 799.36, 'duration': 3.44}
+{'text': 'up to the left to be the bigger person', 'start': 800.72, 'duration': 3.919}
+{'text': "well no it's up to anybody to like grow", 'start': 802.8, 'duration': 3.279}
+{'text': 'your base', 'start': 804.639, 'duration': 4.801}
+{'text': 'um i mean like the the right i mean like', 'start': 806.079, 'duration': 4.801}
+{'text': "i'll give the right responsibility too", 'start': 809.44, 'duration': 2.32}
+{'text': "right now i'm putting the responsibility", 'start': 810.88, 'duration': 2.24}
+{'text': 'on the left because i want more people', 'start': 811.76, 'duration': 2.56}
+{'text': 'to be left leaning', 'start': 813.12, 'duration': 3.44}
+{'text': "but if i was a conservative and i'm not", 'start': 814.32, 'duration': 4.0}
+{'text': "a dumb [\xa0__\xa0] because i'm still me and i'm", 'start': 816.56, 'duration': 2.56}
+{'text': 'a conservative', 'start': 818.32, 'duration': 3.04}
+{'text': 'i would be incredibly mad at the', 'start': 819.12, 'duration': 3.2}
+{'text': 'republicans', 'start': 821.36, 'duration': 2.8}
+{'text': 'for demonizing the [\xa0__\xa0] out of mail and', 'start': 822.32, 'duration': 3.519}
+{'text': "voting because we would have won if i'm", 'start': 824.16, 'duration': 2.96}
+{'text': 'a conservator i say we would have won', 'start': 825.839, 'duration': 2.24}
+{'text': 'that election', 'start': 827.12, 'duration': 2.399}
+{'text': 'if trump would have allowed republicans', 'start': 828.079, 'duration': 2.641}
+{'text': 'to do mail involving without convincing', 'start': 829.519, 'duration': 2.721}
+{'text': 'them that it was all [\xa0__\xa0] rigged', 'start': 830.72, 'duration': 4.0}
+{'text': '100 um so yeah i mean like if i was if i', 'start': 832.24, 'duration': 3.92}
+{'text': 'was on the republican side', 'start': 834.72, 'duration': 2.96}
+{'text': "but like the reason why i'm looking at", 'start': 836.16, 'duration': 2.56}
+{'text': 'this in terms of responsibility for the', 'start': 837.68, 'duration': 2.159}
+{'text': 'loves because i want the left to go i', 'start': 838.72, 'duration': 2.4}
+{'text': "don't give a [\xa0__\xa0] about conservatives in", 'start': 839.839, 'duration': 2.161}
+{'text': 'the united states well', 'start': 841.12, 'duration': 2.88}
+{'text': 'at least republicans are [\xa0__\xa0] insane', 'start': 842.0, 'duration': 4.16}
+{'text': 'um but yeah if i was a republican i', 'start': 844.0, 'duration': 2.56}
+{'text': 'would say', 'start': 846.16, 'duration': 3.28}
+{'text': 'you you [\xa0__\xa0] lost us this election by', 'start': 846.56, 'duration': 3.2}
+{'text': 'by', 'start': 849.44, 'duration': 1.92}
+{'text': 'demonizing mail and voting so much who', 'start': 849.76, 'duration': 2.56}
+{'text': 'knows how many republicans would have', 'start': 851.36, 'duration': 3.479}
+{'text': 'voted by mail that could have swayed the', 'start': 852.32, 'duration': 4.639}
+{'text': 'election', 'start': 854.839, 'duration': 3.56}
+{'text': 'and then you also completely threw the', 'start': 856.959, 'duration': 3.361}
+{'text': 'senate runoffs as well trump did', 'start': 858.399, 'duration': 5.201}
+{'text': 'like holy [\xa0__\xa0]', 'start': 860.32, 'duration': 3.28}
+{'text': 'paramilitary group are also here we have', 'start': 864.16, 'duration': 4.64}
+{'text': 'men already stationed outside dc', 'start': 866.8, 'duration': 3.68}
+{'text': 'their leader has said the group is ready', 'start': 868.8, 'duration': 3.039}
+{'text': "to follow trump's orders", 'start': 870.48, 'duration': 2.96}
+{'text': 'and take members of what they call the', 'start': 871.839, 'duration': 4.401}
+{'text': 'deep state into custody', 'start': 873.44, 'duration': 4.48}
+{'text': "they're organized staging their", 'start': 876.24, 'duration': 3.52}
+{'text': 'military-style equipment neatly on the', 'start': 877.92, 'duration': 3.2}
+{'text': 'ground', 'start': 879.76, 'duration': 4.72}
+{'text': 'and later they put on body armor talk on', 'start': 881.12, 'duration': 4.719}
+{'text': 'radios', 'start': 884.48, 'duration': 2.96}
+{'text': 'and chat with their supporters on a', 'start': 885.839, 'duration': 3.44}
+{'text': 'walkie-talkie app called zelo', 'start': 887.44, 'duration': 3.68}
+{'text': 'we have a good group we got about 30 40', 'start': 889.279, 'duration': 4.24}
+{'text': 'of us first a walkie-talkie app', 'start': 891.12, 'duration': 4.0}
+{'text': 'why why not just use a [\xa0__\xa0] cell', 'start': 893.519, 'duration': 3.12}
+{'text': 'phone why would you use an app to', 'start': 895.12, 'duration': 4.719}
+{'text': 'emulate a walkie-talkie', 'start': 896.639, 'duration': 3.2}
+{'text': 'sticking together and sticking to the', 'start': 900.24, 'duration': 3.36}
+{'text': "plan i thought mailman voting didn't", 'start': 901.839, 'duration': 3.041}
+{'text': 'really favor any candidate as you make', 'start': 903.6, 'duration': 2.64}
+{'text': 'mail in voting legal', 'start': 904.88, 'duration': 3.12}
+{'text': "it doesn't seem like i think when 538", 'start': 906.24, 'duration': 2.64}
+{'text': "looked it over it doesn't seem like it", 'start': 908.0, 'duration': 2.079}
+{'text': 'favors a particular candidate but on', 'start': 908.88, 'duration': 3.28}
+{'text': 'election day for the presidency', 'start': 910.079, 'duration': 4.081}
+{'text': 'it was probably favoring blue voters', 'start': 912.16, 'duration': 3.119}
+{'text': "quite a bit because republicans didn't", 'start': 914.16, 'duration': 2.32}
+{'text': 'trust it because trump talked so many', 'start': 915.279, 'duration': 4.161}
+{'text': 'times about how fake and rigged it was', 'start': 916.48, 'duration': 4.479}
+{'text': "yeah we're one block away from the", 'start': 919.44, 'duration': 3.68}
+{'text': "capitol now i'm probably gonna go silent", 'start': 920.959, 'duration': 3.12}
+{'text': "when i get there because i'm gonna be a", 'start': 923.12, 'duration': 4.24}
+{'text': 'little busy', 'start': 924.079, 'duration': 6.32}
+{'text': 'another group is the proud boys', 'start': 927.36, 'duration': 5.279}
+{'text': "they're far-right nationalists who flash", 'start': 930.399, 'duration': 4.0}
+{'text': 'white power signs throughout the day', 'start': 932.639, 'duration': 4.481}
+{'text': 'check out all this testosterone they', 'start': 934.399, 'duration': 4.161}
+{'text': 'became a household name when trump', 'start': 937.12, 'duration': 2.8}
+{'text': 'invoked them during a presidential', 'start': 938.56, 'duration': 2.399}
+{'text': 'debate', 'start': 939.92, 'duration': 4.24}
+{'text': 'boys stand back and stand by', 'start': 940.959, 'duration': 5.44}
+{'text': "and that's what they did they have a", 'start': 944.16, 'duration': 4.08}
+{'text': 'history of street violence and will be', 'start': 946.399, 'duration': 3.841}
+{'text': 'key instigators of the riot', 'start': 948.24, 'duration': 7.599}
+{'text': "we'll return to them soon", 'start': 950.24, 'duration': 5.599}
+{'text': 'although the rally is built as a', 'start': 956.399, 'duration': 3.601}
+{'text': 'political protest some make calls to', 'start': 957.759, 'duration': 3.2}
+{'text': 'storm the capital', 'start': 960.0, 'duration': 9.839}
+{'text': 'even before trump speaks', 'start': 960.959, 'duration': 8.88}
+{'text': 'and later when trump does take the stage', 'start': 973.759, 'duration': 3.681}
+{'text': "we're gonna walk down", 'start': 976.0, 'duration': 4.32}
+{'text': 'to the capitol some hear his words as a', 'start': 977.44, 'duration': 5.36}
+{'text': "call to action you'll never", 'start': 980.32, 'duration': 5.12}
+{'text': 'take back our country with weakness you', 'start': 982.8, 'duration': 4.56}
+{'text': 'have to show strength and you have to be', 'start': 985.44, 'duration': 4.24}
+{'text': 'strong', 'start': 987.36, 'duration': 2.32}
+{'text': 'invade the capital building', 'start': 990.959, 'duration': 3.601}
+{'text': 'take', 'start': 994.8, 'duration': 2.24}
+{'text': 'two hours before this the proud boys', 'start': 1006.56, 'duration': 5.279}
+{'text': 'were already heading for the capital', 'start': 1008.639, 'duration': 4.801}
+{'text': "they're clearly spoiling for a fight", 'start': 1011.839, 'duration': 3.761}
+{'text': 'with far-left agitators like antifa', 'start': 1013.44, 'duration': 5.36}
+{'text': 'who they believe are in dc', 'start': 1015.6, 'duration': 3.2}
+{'text': 'but there are moments that suggest', 'start': 1019.36, 'duration': 6.479}
+{'text': 'another motive', 'start': 1020.88, 'duration': 4.959}
+{'text': "let's not [\xa0__\xa0] yell that all right", 'start': 1026.319, 'duration': 4.24}
+{'text': "they're organized too", 'start': 1029.039, 'duration': 3.92}
+{'text': 'many are marked with orange tape or hats', 'start': 1030.559, 'duration': 4.161}
+{'text': "here's all the proud boys guys", 'start': 1032.959, 'duration': 3.441}
+{'text': 'and those are the boys marching with us', 'start': 1034.72, 'duration': 3.28}
+{'text': 'we got hidden guys everywhere', 'start': 1036.4, 'duration': 4.32}
+{'text': "they're wearing body armor carrying", 'start': 1038.0, 'duration': 5.52}
+{'text': 'baseball bats', 'start': 1040.72, 'duration': 2.8}
+{'text': "and using radios correct me if i'm wrong", 'start': 1044.319, 'duration': 4.48}
+{'text': 'but at events like these', 'start': 1047.12, 'duration': 3.679}
+{'text': "i'm pretty sure i think cops are", 'start': 1048.799, 'duration': 3.281}
+{'text': 'actually allowed to throw you', 'start': 1050.799, 'duration': 3.12}
+{'text': 'out if you if you bring like baseball', 'start': 1052.08, 'duration': 3.04}
+{'text': "bats and stuff even if it's like a", 'start': 1053.919, 'duration': 2.321}
+{'text': 'peaceful assembly even', 'start': 1055.12, 'duration': 2.96}
+{'text': 'i think cops can do it for public safety', 'start': 1056.24, 'duration': 3.76}
+{'text': "right am i crazy i'm pretty sure they're", 'start': 1058.08, 'duration': 3.2}
+{'text': 'allowed to do it if a cop sees you with', 'start': 1060.0, 'duration': 2.32}
+{'text': "[\xa0__\xa0] like that they'd be like hey man", 'start': 1061.28, 'duration': 2.32}
+{'text': 'you need to get the [\xa0__\xa0] out of here', 'start': 1062.32, 'duration': 3.92}
+{'text': "i think i could be wrong that's", 'start': 1063.6, 'duration': 5.12}
+{'text': 'affirmative', 'start': 1066.24, 'duration': 4.96}
+{'text': "leading them is ethan nordin who's been", 'start': 1068.72, 'duration': 4.41}
+{'text': 'entrusted with so-called war powers', 'start': 1071.2, 'duration': 4.989}
+{'text': '[Music]', 'start': 1073.13, 'duration': 3.059}
+{'text': "he's joined by other well-known proud", 'start': 1076.72, 'duration': 3.92}
+{'text': 'boys like joe biggs an organizer from', 'start': 1078.4, 'duration': 2.8}
+{'text': 'florida', 'start': 1080.64, 'duration': 4.32}
+{'text': 'oh we debated that guy about gun stuff', 'start': 1081.2, 'duration': 3.76}
+{'text': 'dominic pizzola a former marine and', 'start': 1085.039, 'duration': 4.721}
+{'text': 'billy crestman', 'start': 1087.919, 'duration': 3.441}
+{'text': 'they will be among the first riders', 'start': 1089.76, 'duration': 6.08}
+{'text': 'inside the capitol building', 'start': 1091.36, 'duration': 4.48}
+{'text': 'as trump is speaking some of his other', 'start': 1098.08, 'duration': 11.76}
+{'text': 'supporters also head to the capitol', 'start': 1100.08, 'duration': 9.76}
+{'text': 'just ahead officers guarding the', 'start': 1115.44, 'duration': 2.96}
+{'text': 'building are understaffed and', 'start': 1117.12, 'duration': 5.84}
+{'text': "ill-equipped for what's coming their way", 'start': 1118.4, 'duration': 6.08}
+{'text': 'the building is more than two football', 'start': 1122.96, 'duration': 3.12}
+{'text': 'fields in length', 'start': 1124.48, 'duration': 3.36}
+{'text': 'and barricades erected on the east side', 'start': 1126.08, 'duration': 3.28}
+{'text': 'are defended by just a few dozen', 'start': 1127.84, 'duration': 3.68}
+{'text': 'officers', 'start': 1129.36, 'duration': 4.319}
+{'text': "the west side facing trump's rally is", 'start': 1131.52, 'duration': 5.2}
+{'text': 'even lighter the fencing has been', 'start': 1133.679, 'duration': 3.921}
+{'text': 'extended', 'start': 1136.72, 'duration': 2.88}
+{'text': 'and on the northwest approach only five', 'start': 1137.6, 'duration': 4.0}
+{'text': 'officers stand guard', 'start': 1139.6, 'duration': 3.92}
+{'text': 'around five also defend the southwest', 'start': 1141.6, 'duration': 5.199}
+{'text': 'approach a few more dot the lawn', 'start': 1143.52, 'duration': 5.32}
+{'text': 'and about a dozen officers are behind', 'start': 1146.799, 'duration': 3.601}
+{'text': 'them', 'start': 1148.84, 'duration': 3.32}
+{'text': 'plans to storm the capital were made in', 'start': 1150.4, 'duration': 3.36}
+{'text': 'plain sight', 'start': 1152.16, 'duration': 3.28}
+{'text': 'but the fbi and department of homeland', 'start': 1153.76, 'duration': 5.44}
+{'text': 'security did not deem those threats as', 'start': 1155.44, 'duration': 3.76}
+{'text': 'credible', 'start': 1159.559, 'duration': 3.0}
+{'text': "i i don't know if i believe that what he", 'start': 1162.84, 'duration': 5.24}
+{'text': 'just said i hope they expand on that', 'start': 1166.16, 'duration': 3.6}
+{'text': "my understanding is that i don't know", 'start': 1168.08, 'duration': 3.36}
+{'text': "about the dhs but there's got to be a", 'start': 1169.76, 'duration': 4.159}
+{'text': 'lot of inter-intelligence communication', 'start': 1171.44, 'duration': 4.4}
+{'text': 'i thought that the fbi did take this', 'start': 1173.919, 'duration': 3.601}
+{'text': "pretty seriously because i'm pretty sure", 'start': 1175.84, 'duration': 3.52}
+{'text': 'there were actually arrests made ahead', 'start': 1177.52, 'duration': 3.6}
+{'text': 'of january 6 for people planning stuff', 'start': 1179.36, 'duration': 2.559}
+{'text': 'like this', 'start': 1181.12, 'duration': 2.32}
+{'text': 'that was my understanding was that prior', 'start': 1181.919, 'duration': 3.281}
+{'text': 'to january 6 the fbi was actually making', 'start': 1183.44, 'duration': 3.04}
+{'text': 'arrests for people that were involved in', 'start': 1185.2, 'duration': 1.92}
+{'text': 'this [\xa0__\xa0]', 'start': 1186.48, 'duration': 2.16}
+{'text': 'the idea that nobody took it seriously', 'start': 1187.12, 'duration': 3.12}
+{'text': "doesn't seem that doesn't seem plausible", 'start': 1188.64, 'duration': 2.399}
+{'text': 'to me', 'start': 1190.24, 'duration': 3.6}
+{'text': 'but', 'start': 1191.039, 'duration': 2.801}
+{'text': "capital police leaders and washington's", 'start': 1194.16, 'duration': 3.519}
+{'text': 'mayor were warned at least three times', 'start': 1195.84, 'duration': 2.88}
+{'text': 'of violent threats', 'start': 1197.679, 'duration': 3.041}
+{'text': "but also didn't take them seriously or", 'start': 1198.72, 'duration': 4.16}
+{'text': 'circulated that information', 'start': 1200.72, 'duration': 3.76}
+{'text': 'and they declined offers of security', 'start': 1202.88, 'duration': 3.2}
+{'text': 'personnel from federal and other', 'start': 1204.48, 'duration': 2.24}
+{'text': 'agencies', 'start': 1206.08, 'duration': 2.719}
+{'text': "that's bowser reminded listeners that", 'start': 1206.72, 'duration': 4.079}
+{'text': 'even if we disagreed with trump that', 'start': 1208.799, 'duration': 3.681}
+{'text': "he's better than the left who want to", 'start': 1210.799, 'duration': 3.841}
+{'text': 'take children to drag shows celebrate', 'start': 1212.48, 'duration': 3.6}
+{'text': 'abortions and call', 'start': 1214.64, 'duration': 4.48}
+{'text': "white people racist yeah that's i think", 'start': 1216.08, 'duration': 4.24}
+{'text': "if you're like a love leaning person", 'start': 1219.12, 'duration': 2.88}
+{'text': "it's so easy to just like", 'start': 1220.32, 'duration': 3.599}
+{'text': "bro like there's a lot of commonality", 'start': 1222.0, 'duration': 3.679}
+{'text': 'that we have here like just like', 'start': 1223.919, 'duration': 3.441}
+{'text': 'just call out dumb [\xa0__\xa0] when people say', 'start': 1225.679, 'duration': 3.761}
+{'text': 'it and then focus on like where you like', 'start': 1227.36, 'duration': 4.4}
+{'text': 'focus on what you have um in common you', 'start': 1229.44, 'duration': 4.08}
+{'text': "know like when you like that's why i", 'start': 1231.76, 'duration': 3.52}
+{'text': 'tweeted that that one offline tv girl', 'start': 1233.52, 'duration': 3.44}
+{'text': 'earlier people are saying like', 'start': 1235.28, 'duration': 4.08}
+{'text': "um you can't be racist to white people", 'start': 1236.96, 'duration': 3.76}
+{'text': 'no no', 'start': 1239.36, 'duration': 3.84}
+{'text': 'shut the [\xa0__\xa0] up you can be racist', 'start': 1240.72, 'duration': 3.6}
+{'text': 'towards white people', 'start': 1243.2, 'duration': 3.76}
+{'text': 'okay anybody that says that racism has', 'start': 1244.32, 'duration': 4.16}
+{'text': "to be systemic no it doesn't", 'start': 1246.96, 'duration': 2.8}
+{'text': 'if i go out on the street and i call a', 'start': 1248.48, 'duration': 2.88}
+{'text': 'black person the n word and you say', 'start': 1249.76, 'duration': 3.279}
+{'text': "destiny you're being racist you would be", 'start': 1251.36, 'duration': 2.16}
+{'text': 'right', 'start': 1253.039, 'duration': 1.76}
+{'text': "now i can't counter that and say well", 'start': 1253.52, 'duration': 2.48}
+{'text': "actually that's just one individual", 'start': 1254.799, 'duration': 2.481}
+{'text': "instance of racism so that's just", 'start': 1256.0, 'duration': 2.799}
+{'text': "prejudice that's not actually systemic", 'start': 1257.28, 'duration': 2.879}
+{'text': "racism that doesn't make any sense", 'start': 1258.799, 'duration': 2.641}
+{'text': 'nobody speaks like that nobody', 'start': 1260.159, 'duration': 2.961}
+{'text': 'understands these words like that okay', 'start': 1261.44, 'duration': 3.52}
+{'text': 'anybody can be racist anybody that just', 'start': 1263.12, 'duration': 3.52}
+{'text': "say that it's so easy you don't have to", 'start': 1264.96, 'duration': 3.28}
+{'text': 'be so divisive in terms of how you label', 'start': 1266.64, 'duration': 2.32}
+{'text': 'and redefine words', 'start': 1268.24, 'duration': 1.679}
+{'text': "that's just like one example of a", 'start': 1268.96, 'duration': 2.32}
+{'text': "million things right it's okay to call", 'start': 1269.919, 'duration': 2.401}
+{'text': 'bad things bad', 'start': 1271.28, 'duration': 2.24}
+{'text': "but you don't have to be so dug into", 'start': 1272.32, 'duration': 2.56}
+{'text': 'your position that you have like this', 'start': 1273.52, 'duration': 3.2}
+{'text': 'need to fight against the position of', 'start': 1274.88, 'duration': 3.36}
+{'text': 'or every single position that somebody', 'start': 1276.72, 'duration': 2.88}
+{'text': "that's ideologically different than you", 'start': 1278.24, 'duration': 4.48}
+{'text': "hold it's so stupid", 'start': 1279.6, 'duration': 3.12}
+{'text': 'they could have enlisted several hundred', 'start': 1284.64, 'duration': 3.6}
+{'text': 'more capital police for duty on january', 'start': 1286.32, 'duration': 2.32}
+{'text': '6', 'start': 1288.24, 'duration': 3.57}
+{'text': 'but did not', 'start': 1288.64, 'duration': 7.44}
+{'text': '[Applause]', 'start': 1291.81, 'duration': 5.55}
+{'text': 'and none of the officers on the', 'start': 1296.08, 'duration': 3.28}
+{'text': 'barricades have protective gear or crowd', 'start': 1297.36, 'duration': 4.88}
+{'text': 'control equipment', 'start': 1299.36, 'duration': 4.72}
+{'text': 'as a result the capital is sparsely', 'start': 1302.24, 'duration': 4.319}
+{'text': 'defended', 'start': 1304.08, 'duration': 2.479}
+{'text': '[Applause]', 'start': 1307.29, 'duration': 5.19}
+{'text': "it's 12 50 pm and a large group of proud", 'start': 1310.08, 'duration': 4.32}
+{'text': 'voices with other protesters right by', 'start': 1312.48, 'duration': 7.36}
+{'text': 'the capital police line', 'start': 1314.4, 'duration': 5.44}
+{'text': '[Music]', 'start': 1322.81, 'duration': 3.43}
+{'text': "joe biggs is rallying them when he's", 'start': 1324.08, 'duration': 3.92}
+{'text': 'approached by ryan samso a trump', 'start': 1326.24, 'duration': 4.24}
+{'text': 'supporter from pennsylvania', 'start': 1328.0, 'duration': 4.64}
+{'text': "they chat we don't know about what", 'start': 1330.48, 'duration': 3.439}
+{'text': '[Music]', 'start': 1332.64, 'duration': 3.68}
+{'text': 'but a minute later samsung is the first', 'start': 1333.919, 'duration': 3.971}
+{'text': 'to approach the police line', 'start': 1336.32, 'duration': 4.64}
+{'text': '[Applause]', 'start': 1337.89, 'duration': 6.95}
+{'text': "and it's now that the protest turns", 'start': 1340.96, 'duration': 6.88}
+{'text': 'violent', 'start': 1344.84, 'duration': 3.0}
+{'text': '[Applause]', 'start': 1349.42, 'duration': 4.58}
+{'text': 'remember on this day these are the cops', 'start': 1351.12, 'duration': 4.08}
+{'text': 'that lefties were saying', 'start': 1354.0, 'duration': 3.36}
+{'text': 'let them into the uh into the capitol', 'start': 1355.2, 'duration': 3.76}
+{'text': 'building this is when lefties were', 'start': 1357.36, 'duration': 3.36}
+{'text': 'tweeting oh these fascist cops were', 'start': 1358.96, 'duration': 2.88}
+{'text': 'taking pictures and they just let them', 'start': 1360.72, 'duration': 2.0}
+{'text': "into the building because they didn't", 'start': 1361.84, 'duration': 3.36}
+{'text': 'give a [\xa0__\xa0] remember that', 'start': 1362.72, 'duration': 4.56}
+{'text': 'without hesitation the crowd overpowers', 'start': 1365.2, 'duration': 10.16}
+{'text': 'the police', 'start': 1367.28, 'duration': 10.24}
+{'text': 'nearby a second group breaks through on', 'start': 1375.36, 'duration': 4.88}
+{'text': 'another approach', 'start': 1377.52, 'duration': 2.72}
+{'text': 'others jump fences', 'start': 1381.84, 'duration': 3.12}
+{'text': 'and now hundreds of rioters rush forward', 'start': 1385.28, 'duration': 3.519}
+{'text': 'on several fronts', 'start': 1387.52, 'duration': 5.84}
+{'text': 'dc is a [\xa0__\xa0] war zone', 'start': 1388.799, 'duration': 4.561}
+{'text': 'police retreat to the capitol building', 'start': 1395.36, 'duration': 6.82}
+{'text': "where it's becoming more threatening", 'start': 1397.2, 'duration': 8.059}
+{'text': '[Music]', 'start': 1402.18, 'duration': 3.079}
+{'text': 'a mob mentality begins to take hold', 'start': 1405.44, 'duration': 4.0}
+{'text': "police are so outnumbered they're forced", 'start': 1412.96, 'duration': 3.04}
+{'text': 'to retreat again to more', 'start': 1414.64, 'duration': 2.88}
+{'text': 'tightly defend access points to the', 'start': 1416.0, 'duration': 4.0}
+{'text': 'capitol', 'start': 1417.52, 'duration': 2.48}
+{'text': '[Applause]', 'start': 1420.38, 'duration': 3.359}
+{'text': "it's now five minutes into the siege", 'start': 1426.24, 'duration': 3.52}
+{'text': 'that the capitol police chief calls for', 'start': 1428.08, 'duration': 3.52}
+{'text': 'backup from local law enforcement known', 'start': 1429.76, 'duration': 3.44}
+{'text': 'as the metropolitan police', 'start': 1431.6, 'duration': 3.199}
+{'text': 'and asks other capital leaders to', 'start': 1433.2, 'duration': 3.76}
+{'text': 'mobilize the national guard', 'start': 1434.799, 'duration': 4.24}
+{'text': 'you took a note does that not mean a', 'start': 1436.96, 'duration': 3.44}
+{'text': 'damn thing to you', 'start': 1439.039, 'duration': 3.201}
+{'text': 'metro police will arrive within 15', 'start': 1440.4, 'duration': 3.759}
+{'text': "minutes but for reasons we'll explain", 'start': 1442.24, 'duration': 2.559}
+{'text': 'later', 'start': 1444.159, 'duration': 2.4}
+{'text': "the national guard won't arrive for over", 'start': 1444.799, 'duration': 4.0}
+{'text': 'four hours', 'start': 1446.559, 'duration': 4.801}
+{'text': "i think a lot of what's spurred on today", 'start': 1448.799, 'duration': 4.801}
+{'text': 'um', 'start': 1451.36, 'duration': 3.919}
+{'text': 'why do you blame the mayor for bad', 'start': 1453.6, 'duration': 4.079}
+{'text': 'security i think what happened', 'start': 1455.279, 'duration': 4.961}
+{'text': 'was the mayor saw what happened during', 'start': 1457.679, 'duration': 4.24}
+{'text': 'lafayette square and everything', 'start': 1460.24, 'duration': 3.439}
+{'text': 'and so she thought that they had the', 'start': 1461.919, 'duration': 3.521}
+{'text': 'resources necessary to protect the', 'start': 1463.679, 'duration': 2.48}
+{'text': 'capital', 'start': 1465.44, 'duration': 2.239}
+{'text': 'um and it was just gonna be like a', 'start': 1466.159, 'duration': 2.801}
+{'text': "little they didn't think that it was", 'start': 1467.679, 'duration': 2.961}
+{'text': 'gonna turn into a full-blown riot', 'start': 1468.96, 'duration': 2.88}
+{'text': "so even though i'm pretty sure", 'start': 1470.64, 'duration': 2.8}
+{'text': 'recommendations were made to get more', 'start': 1471.84, 'duration': 3.04}
+{'text': 'people from the national guard', 'start': 1473.44, 'duration': 3.28}
+{'text': 'i think she took a few and they sent', 'start': 1474.88, 'duration': 3.84}
+{'text': 'them out to like like on streets and', 'start': 1476.72, 'duration': 2.88}
+{'text': '[\xa0__\xa0] to just do', 'start': 1478.72, 'duration': 2.48}
+{'text': "traffic control that's it because i", 'start': 1479.6, 'duration': 2.64}
+{'text': 'think she was really scared of the', 'start': 1481.2, 'duration': 2.959}
+{'text': 'optics of having the national guard', 'start': 1482.24, 'duration': 3.6}
+{'text': "at the capitol during the protest that's", 'start': 1484.159, 'duration': 4.081}
+{'text': "i'm 99 sure that that's what happened", 'start': 1485.84, 'duration': 3.839}
+{'text': 'if you read everything that seems to be', 'start': 1488.24, 'duration': 3.919}
+{'text': 'the case', 'start': 1489.679, 'duration': 2.48}
+{'text': 'meanwhile more capital police come to', 'start': 1496.48, 'duration': 3.52}
+{'text': 'reinforce the line', 'start': 1498.24, 'duration': 3.36}
+{'text': "it's the first time we see officers in", 'start': 1500.0, 'duration': 4.159}
+{'text': 'riot gear', 'start': 1501.6, 'duration': 2.559}
+{'text': 'but most are missing their shields', 'start': 1504.96, 'duration': 3.28}
+{'text': 'because they had not prepared to unlock', 'start': 1506.559, 'duration': 3.441}
+{'text': 'the storage area where that equipment is', 'start': 1508.24, 'duration': 3.4}
+{'text': 'kept', 'start': 1510.0, 'duration': 3.2}
+{'text': '[Applause]', 'start': 1511.64, 'duration': 3.399}
+{'text': 'proud boys like billy crestman keep', 'start': 1513.2, 'duration': 4.64}
+{'text': 'rallying them up', 'start': 1515.039, 'duration': 2.801}
+{'text': "so people keep saying this i'm sorry", 'start': 1518.159, 'duration': 3.361}
+{'text': "it's not true okay", 'start': 1520.08, 'duration': 2.24}
+{'text': "destiny i think you're a bit", 'start': 1521.52, 'duration': 2.24}
+{'text': 'misunderstood at this the capital police', 'start': 1522.32, 'duration': 2.4}
+{'text': 'are separate from the metro police and', 'start': 1523.76, 'duration': 1.76}
+{'text': 'the capital police officer refused', 'start': 1524.72, 'duration': 1.52}
+{'text': 'additional news', 'start': 1525.52, 'duration': 2.08}
+{'text': "people keep saying that like oh they're", 'start': 1526.24, 'duration': 3.2}
+{'text': 'totally different there is a lot of', 'start': 1527.6, 'duration': 3.679}
+{'text': 'coordination that goes on between the', 'start': 1529.44, 'duration': 2.8}
+{'text': 'capitol police', 'start': 1531.279, 'duration': 2.961}
+{'text': 'and the metro police of dc are they', 'start': 1532.24, 'duration': 3.2}
+{'text': 'separate yes', 'start': 1534.24, 'duration': 2.88}
+{'text': 'but there is a ton of back and forth', 'start': 1535.44, 'duration': 2.96}
+{'text': 'communication between these people when', 'start': 1537.12, 'duration': 2.24}
+{'text': 'it comes time to figure out how they', 'start': 1538.4, 'duration': 1.759}
+{'text': 'want to run things', 'start': 1539.36, 'duration': 2.64}
+{'text': 'these things are not like firewalled off', 'start': 1540.159, 'duration': 3.361}
+{'text': 'from each other such that they like', 'start': 1542.0, 'duration': 2.799}
+{'text': 'completely do their own things and they', 'start': 1543.52, 'duration': 2.72}
+{'text': 'have no communication with each other', 'start': 1544.799, 'duration': 2.48}
+{'text': 'they have no coordination', 'start': 1546.24, 'duration': 2.319}
+{'text': 'these people these are like highly', 'start': 1547.279, 'duration': 3.041}
+{'text': 'coordinated entities that do talk to', 'start': 1548.559, 'duration': 2.72}
+{'text': 'each other a lot in terms of figuring', 'start': 1550.32, 'duration': 1.92}
+{'text': 'out what they want to do', 'start': 1551.279, 'duration': 3.561}
+{'text': 'here and this is actually like honest to', 'start': 1552.24, 'duration': 5.439}
+{'text': 'god this is like the easiest proof i can', 'start': 1554.84, 'duration': 3.319}
+{'text': 'have', 'start': 1557.679, 'duration': 2.081}
+{'text': 'is to look at what would have happened', 'start': 1558.159, 'duration': 3.841}
+{'text': 'otherwise if bowser was', 'start': 1559.76, 'duration': 5.44}
+{'text': 'heavily requesting assistance prior to', 'start': 1562.0, 'duration': 5.2}
+{'text': 'the riots on the sixth you would have', 'start': 1565.2, 'duration': 4.24}
+{'text': 'seen every single day leading up to it', 'start': 1567.2, 'duration': 4.079}
+{'text': 'or at the very least that day in the day', 'start': 1569.44, 'duration': 2.4}
+{'text': 'after', 'start': 1571.279, 'duration': 3.041}
+{'text': "bowser's saying look we asked for help", 'start': 1571.84, 'duration': 3.439}
+{'text': 'we asked for help', 'start': 1574.32, 'duration': 2.64}
+{'text': "nobody's helping we're asking for help", 'start': 1575.279, 'duration': 3.041}
+{'text': 'trump is blocking anything but you know', 'start': 1576.96, 'duration': 2.56}
+{'text': "you don't see that anywhere", 'start': 1578.32, 'duration': 3.76}
+{'text': 'the only place you see that at is when', 'start': 1579.52, 'duration': 4.72}
+{'text': 'they try to request it the day of', 'start': 1582.08, 'duration': 3.44}
+{'text': 'and getting the authorization and', 'start': 1584.24, 'duration': 2.88}
+{'text': 'everything figured out like on the spot', 'start': 1585.52, 'duration': 3.44}
+{'text': 'is very difficult and challenging to do', 'start': 1587.12, 'duration': 4.799}
+{'text': "right like ma'am", 'start': 1588.96, 'duration': 2.959}
+{'text': "um this may be true but it's not just", 'start': 1592.88, 'duration': 2.24}
+{'text': 'bowser determined if there should be', 'start': 1594.08, 'duration': 2.32}
+{'text': 'units at the capitol this is the capital', 'start': 1595.12, 'duration': 1.919}
+{'text': "police's job", 'start': 1596.4, 'duration': 2.8}
+{'text': 'bowser had the ability to request this', 'start': 1597.039, 'duration': 3.281}
+{'text': 'help beforehand', 'start': 1599.2, 'duration': 3.04}
+{'text': 'and 100 it was within her power to make', 'start': 1600.32, 'duration': 3.12}
+{'text': "it so that this didn't happen and she", 'start': 1602.24, 'duration': 2.799}
+{'text': 'chose not to consciously', 'start': 1603.44, 'duration': 3.44}
+{'text': 'because she was playing an optics game', 'start': 1605.039, 'duration': 3.76}
+{'text': 'trying not to have riot police', 'start': 1606.88, 'duration': 3.919}
+{'text': 'at the capitol in dc during the sixth', 'start': 1608.799, 'duration': 3.36}
+{'text': "that's that it's 100", 'start': 1610.799, 'duration': 4.24}
+{'text': 'share the power to stop it', 'start': 1612.159, 'duration': 2.88}
+{'text': '[Music]', 'start': 1618.07, 'duration': 4.81}
+{'text': 'and again they start rolling with the', 'start': 1619.2, 'duration': 3.68}
+{'text': 'police', 'start': 1624.84, 'duration': 3.0}
+{'text': 'minutes later reinforcements from the', 'start': 1630.08, 'duration': 4.719}
+{'text': 'metro police arrive', 'start': 1631.84, 'duration': 2.959}
+{'text': 'a high-ranking metro officer immediately', 'start': 1637.52, 'duration': 3.039}
+{'text': 'calls for more backup', 'start': 1639.36, 'duration': 3.919}
+{'text': 'did you 12 up to help maintain the lines', 'start': 1640.559, 'duration': 15.061}
+{'text': "they're throwing five packs", 'start': 1643.279, 'duration': 13.52}
+{'text': '[Music]', 'start': 1655.62, 'duration': 3.179}
+{'text': 'they struggle to subdue rioters who', 'start': 1656.799, 'duration': 5.6}
+{'text': 'respond with their own chemical spray', 'start': 1658.799, 'duration': 3.6}
+{'text': 'and within 30 minutes the police already', 'start': 1665.44, 'duration': 5.04}
+{'text': 'have casualties', 'start': 1667.679, 'duration': 2.801}
+{'text': '[Applause]', 'start': 1677.36, 'duration': 5.919}
+{'text': 'this first wave of rioters battling', 'start': 1681.36, 'duration': 4.319}
+{'text': 'police has paved the way across capitol', 'start': 1683.279, 'duration': 5.681}
+{'text': 'grounds for others to follow', 'start': 1685.679, 'duration': 3.281}
+{'text': 'and after trump finishes speaking', 'start': 1689.2, 'duration': 7.09}
+{'text': 'thousands more now fill this space', 'start': 1691.12, 'duration': 8.32}
+{'text': '[Applause]', 'start': 1696.29, 'duration': 3.15}
+{'text': 'meanwhile inside the capital nancy', 'start': 1700.32, 'duration': 3.599}
+{'text': 'pelosi and mike pence have begun', 'start': 1702.399, 'duration': 3.441}
+{'text': 'certifying the 2020 presidential', 'start': 1703.919, 'duration': 2.961}
+{'text': 'election results', 'start': 1705.84, 'duration': 2.48}
+{'text': "oh i was i don't i don't remember i said", 'start': 1706.88, 'duration': 2.64}
+{'text': 'or if i got interrupted responding to', 'start': 1708.32, 'duration': 1.68}
+{'text': 'chat', 'start': 1709.52, 'duration': 2.159}
+{'text': 'um remember part of the reason why', 'start': 1710.0, 'duration': 3.12}
+{'text': 'people are so aspired here is because', 'start': 1711.679, 'duration': 2.88}
+{'text': 'pence was supposed to be', 'start': 1713.12, 'duration': 3.679}
+{'text': 'the last line um i think people were', 'start': 1714.559, 'duration': 3.6}
+{'text': 'under the assumption that pence', 'start': 1716.799, 'duration': 3.841}
+{'text': 'had this ability to just come out and', 'start': 1718.159, 'duration': 4.161}
+{'text': 'say i refuse to certify the election', 'start': 1720.64, 'duration': 2.32}
+{'text': 'results', 'start': 1722.32, 'duration': 2.4}
+{'text': 'trump is going to be the president and', 'start': 1722.96, 'duration': 3.52}
+{'text': "because he wasn't going to do that", 'start': 1724.72, 'duration': 2.48}
+{'text': 'because that would be', 'start': 1726.48, 'duration': 3.28}
+{'text': '[\xa0__\xa0] crazy i think trump tweeted out', 'start': 1727.2, 'duration': 4.32}
+{'text': 'that morning that pence had backstabbed', 'start': 1729.76, 'duration': 2.08}
+{'text': 'him', 'start': 1731.52, 'duration': 1.6}
+{'text': "well i don't remember some tweet like", 'start': 1731.84, 'duration': 2.48}
+{'text': 'that but trump basically tweeted out', 'start': 1733.12, 'duration': 2.559}
+{'text': "he's like pence has failed us he's not", 'start': 1734.32, 'duration': 2.52}
+{'text': 'going to stand up for the republic or', 'start': 1735.679, 'duration': 3.761}
+{'text': 'something', 'start': 1736.84, 'duration': 4.36}
+{'text': 'certification will happen on both sides', 'start': 1739.44, 'duration': 3.359}
+{'text': 'of the building in the house', 'start': 1741.2, 'duration': 3.92}
+{'text': 'and the senate and this is what the', 'start': 1742.799, 'duration': 5.201}
+{'text': 'rioters want to stop', 'start': 1745.12, 'duration': 4.72}
+{'text': 'an hour into the assault the mob is', 'start': 1748.0, 'duration': 3.279}
+{'text': 'battling a police line here', 'start': 1749.84, 'duration': 3.76}
+{'text': 'along the west face of the capital but', 'start': 1751.279, 'duration': 4.081}
+{'text': 'that violence is now going to spread to', 'start': 1753.6, 'duration': 3.199}
+{'text': 'multiple points of attack', 'start': 1755.36, 'duration': 3.919}
+{'text': 'as west', 'start': 1756.799, 'duration': 2.48}
+{'text': 'this was on january 6th mike pence', 'start': 1760.399, 'duration': 3.681}
+{'text': "didn't have the courage to do what", 'start': 1762.88, 'duration': 2.72}
+{'text': 'should have been done to protect our', 'start': 1764.08, 'duration': 2.959}
+{'text': 'country and our constitution giving', 'start': 1765.6, 'duration': 2.88}
+{'text': 'states a chance to certify a corrected', 'start': 1767.039, 'duration': 2.24}
+{'text': 'set of facts', 'start': 1768.48, 'duration': 2.96}
+{'text': 'not the fraudulent or inaccurate ones', 'start': 1769.279, 'duration': 3.441}
+{'text': 'which they were asked to previously', 'start': 1771.44, 'duration': 3.04}
+{'text': 'certify usa demands the truth that was', 'start': 1772.72, 'duration': 4.319}
+{'text': 'on january 6th', 'start': 1774.48, 'duration': 4.64}
+{'text': 'side writers stream around the capital', 'start': 1777.039, 'duration': 4.401}
+{'text': 'and incite the crowd on the east', 'start': 1779.12, 'duration': 3.76}
+{'text': "here's what that crowd looks like on the", 'start': 1781.44, 'duration': 3.76}
+{'text': 'east', 'start': 1782.88, 'duration': 2.32}
+{'text': "they're aware of the siege happening on", 'start': 1788.72, 'duration': 4.12}
+{'text': 'the west side and some are emboldened by', 'start': 1790.24, 'duration': 5.6}
+{'text': 'it', 'start': 1792.84, 'duration': 3.0}
+{'text': "but up until now they've been kept", 'start': 1796.88, 'duration': 4.56}
+{'text': 'behind the barricades', 'start': 1798.32, 'duration': 3.12}
+{'text': 'then this group from the west storms', 'start': 1802.159, 'duration': 3.041}
+{'text': 'around the building', 'start': 1804.0, 'duration': 5.679}
+{'text': 'and pushes right through the barriers', 'start': 1805.2, 'duration': 6.69}
+{'text': 'the police here barely put up a fight', 'start': 1809.679, 'duration': 3.441}
+{'text': '[Applause]', 'start': 1811.89, 'duration': 2.75}
+{'text': 'um bowser does have some fault here but', 'start': 1813.12, 'duration': 2.96}
+{'text': 'the capital police also the ability to', 'start': 1814.64, 'duration': 2.639}
+{'text': "request troops they do but didn't the", 'start': 1816.08, 'duration': 2.64}
+{'text': 'head of the capitol police literally', 'start': 1817.279, 'duration': 2.161}
+{'text': 'resign because', 'start': 1818.72, 'duration': 2.88}
+{'text': 'how because he [\xa0__\xa0] up or am i wrong', 'start': 1819.44, 'duration': 3.599}
+{'text': 'on that i thought he resigned because of', 'start': 1821.6, 'duration': 4.24}
+{'text': 'his [\xa0__\xa0] up as well', 'start': 1823.039, 'duration': 2.801}
+{'text': "and it's now that protesters all along", 'start': 1831.12, 'duration': 3.039}
+{'text': 'the east barricades', 'start': 1833.039, 'duration': 2.851}
+{'text': 'surge forward', 'start': 1834.159, 'duration': 4.431}
+{'text': '[Music]', 'start': 1835.89, 'duration': 6.82}
+{'text': '[Applause]', 'start': 1838.59, 'duration': 6.61}
+{'text': '[Music]', 'start': 1842.71, 'duration': 6.13}
+{'text': 'officers are overwhelmed from several', 'start': 1845.2, 'duration': 5.26}
+{'text': 'directions', 'start': 1848.84, 'duration': 5.0}
+{'text': '[Music]', 'start': 1850.46, 'duration': 7.02}
+{'text': 'and retreat to guard capital entrances', 'start': 1853.84, 'duration': 5.12}
+{'text': '[Applause]', 'start': 1857.48, 'duration': 3.319}
+{'text': "but these writers believe they've been", 'start': 1858.96, 'duration': 3.92}
+{'text': 'deputized by their president to stop a', 'start': 1860.799, 'duration': 5.041}
+{'text': 'crime', 'start': 1862.88, 'duration': 2.96}
+{'text': 'and now they start trying to get into', 'start': 1866.159, 'duration': 12.251}
+{'text': 'the building itself', 'start': 1868.24, 'duration': 14.549}
+{'text': '[Applause]', 'start': 1878.41, 'duration': 4.379}
+{'text': 'the capital is now surrounded', 'start': 1888.72, 'duration': 7.199}
+{'text': "writers haven't made it inside yet but", 'start': 1893.039, 'duration': 4.321}
+{'text': 'around the time that the mob and the', 'start': 1895.919, 'duration': 2.721}
+{'text': 'east pushed forward', 'start': 1897.36, 'duration': 2.72}
+{'text': 'writers on the west were making a', 'start': 1898.64, 'duration': 3.36}
+{'text': 'pivotal move', 'start': 1900.08, 'duration': 3.36}
+{'text': 'this scaffolding was erected for the', 'start': 1902.0, 'duration': 3.84}
+{'text': 'upcoming inauguration of joe biden', 'start': 1903.44, 'duration': 4.239}
+{'text': 'it covers a staircase that gives direct', 'start': 1905.84, 'duration': 3.679}
+{'text': 'access to an upper level', 'start': 1907.679, 'duration': 5.041}
+{'text': 'and dozens of doors and windows three', 'start': 1909.519, 'duration': 5.841}
+{'text': 'police lines guard that route', 'start': 1912.72, 'duration': 4.72}
+{'text': 'but at ground level officers are so', 'start': 1915.36, 'duration': 3.76}
+{'text': 'overwhelmed that just a few cover this', 'start': 1917.44, 'duration': 4.719}
+{'text': 'crucial access point', 'start': 1919.12, 'duration': 6.64}
+{'text': 'several proud boys see the weakness', 'start': 1922.159, 'duration': 3.601}
+{'text': '[Applause]', 'start': 1928.86, 'duration': 5.539}
+{'text': 'proud boys start fighting the police and', 'start': 1932.399, 'duration': 3.12}
+{'text': 'with others in the mob', 'start': 1934.399, 'duration': 15.361}
+{'text': 'they push through the line', 'start': 1935.519, 'duration': 16.16}
+{'text': "over several minutes it's a brutal fight", 'start': 1949.76, 'duration': 4.56}
+{'text': 'on these steps', 'start': 1951.679, 'duration': 2.641}
+{'text': 'man man it sounds crazy but if trump', 'start': 1961.76, 'duration': 3.759}
+{'text': 'wanted to earn', 'start': 1964.64, 'duration': 3.2}
+{'text': 'respect and i would i think i would have', 'start': 1965.519, 'duration': 3.601}
+{'text': 'respected him for it', 'start': 1967.84, 'duration': 2.4}
+{'text': 'uh he obviously would never do it', 'start': 1969.12, 'duration': 2.72}
+{'text': 'because he wants this this is the kind', 'start': 1970.24, 'duration': 3.2}
+{'text': 'of stuff that trump enjoys', 'start': 1971.84, 'duration': 3.839}
+{'text': "is i'm willing to bet that trump could", 'start': 1973.44, 'duration': 3.359}
+{'text': 'have showed up there', 'start': 1975.679, 'duration': 2.72}
+{'text': 'in like a [\xa0__\xa0] motorcade secret', 'start': 1976.799, 'duration': 2.801}
+{'text': 'service or whatever and he probably', 'start': 1978.399, 'duration': 2.4}
+{'text': 'could have gotten all of these people to', 'start': 1979.6, 'duration': 1.76}
+{'text': 'stand down', 'start': 1980.799, 'duration': 3.521}
+{'text': 'garen [\xa0__\xa0] teed', 'start': 1981.36, 'duration': 2.96}
+{'text': 'at one point the writers are held back', 'start': 1984.559, 'duration': 7.12}
+{'text': 'they make a final push of the flight of', 'start': 1990.0, 'duration': 2.36}
+{'text': 'stairs', 'start': 1991.679, 'duration': 5.681}
+{'text': '[Applause]', 'start': 1992.36, 'duration': 6.679}
+{'text': 'at the top they scuffle again with a', 'start': 1997.36, 'duration': 4.799}
+{'text': 'small group of officers', 'start': 1999.039, 'duration': 3.12}
+{'text': 'who give', 'start': 2002.72, 'duration': 2.319}
+{'text': 'the mob now has direct access to capital', 'start': 2011.76, 'duration': 4.08}
+{'text': 'entrances', 'start': 2016.84, 'duration': 3.0}
+{'text': 'and hundreds more protesters below surge', 'start': 2022.24, 'duration': 4.319}
+{'text': '[Applause]', 'start': 2027.18, 'duration': 5.46}
+{'text': 'forward', 'start': 2030.84, 'duration': 3.719}
+{'text': "it's utter mayhem and it's about to get", 'start': 2032.64, 'duration': 2.27}
+{'text': 'worse', 'start': 2034.559, 'duration': 2.561}
+{'text': '[Applause]', 'start': 2034.91, 'duration': 3.97}
+{'text': 'the scene is being filmed from countless', 'start': 2037.12, 'duration': 3.6}
+{'text': 'angles allowing us to piece together', 'start': 2038.88, 'duration': 5.679}
+{'text': 'moment by moment what comes next', 'start': 2040.72, 'duration': 3.839}
+{'text': 'proud boy dominic pizzola uses the', 'start': 2044.799, 'duration': 3.041}
+{'text': 'police shield he stole', 'start': 2046.64, 'duration': 4.959}
+{'text': "to bash in a window i'm really surprised", 'start': 2047.84, 'duration': 4.319}
+{'text': 'that like', 'start': 2051.599, 'duration': 2.161}
+{'text': "all of these windows aren't like", 'start': 2052.159, 'duration': 3.121}
+{'text': "bulletproof glass that's kind of", 'start': 2053.76, 'duration': 2.48}
+{'text': 'surprising i would have thought that', 'start': 2055.28, 'duration': 2.48}
+{'text': 'everything would be like two inch thick', 'start': 2056.24, 'duration': 4.689}
+{'text': 'like glass or some [\xa0__\xa0] but', 'start': 2057.76, 'duration': 5.52}
+{'text': '[Applause]', 'start': 2060.929, 'duration': 5.95}
+{'text': 'and at 2 13 p.m the capital is breached', 'start': 2063.28, 'duration': 8.639}
+{'text': 'the transgender intelligence 4.99', 'start': 2066.879, 'duration': 6.561}
+{'text': "you're gonna call us crazy for", 'start': 2071.919, 'duration': 3.44}
+{'text': 'protecting our democracy', 'start': 2073.44, 'duration': 4.959}
+{'text': "excuse me tiny wasn't blm killing 30", 'start': 2075.359, 'duration': 3.841}
+{'text': 'people', 'start': 2078.399, 'duration': 3.68}
+{'text': 'billions in property damage get real', 'start': 2079.2, 'duration': 3.919}
+{'text': 'slime', 'start': 2082.079, 'duration': 2.56}
+{'text': "first of all i don't defend the blm", 'start': 2083.119, 'duration': 3.441}
+{'text': 'riots secondly that was over the course', 'start': 2084.639, 'duration': 4.0}
+{'text': 'of like a year of rioting', 'start': 2086.56, 'duration': 3.839}
+{'text': "thirdly two wrongs don't make a right", 'start': 2088.639, 'duration': 4.081}
+{'text': 'nice try nice try nice try my dude', 'start': 2090.399, 'duration': 4.081}
+{'text': 'michael sparks a trump supporter from', 'start': 2092.72, 'duration': 5.76}
+{'text': 'kentucky is the first person inside', 'start': 2094.48, 'duration': 6.0}
+{'text': 'a police officer seems unsure of what to', 'start': 2098.48, 'duration': 4.96}
+{'text': 'do and backs off', 'start': 2100.48, 'duration': 4.639}
+{'text': 'sparks is followed by proud boys and', 'start': 2103.44, 'duration': 4.399}
+{'text': 'other far-right extremists', 'start': 2105.119, 'duration': 6.0}
+{'text': 'one carrying a confederate flag another', 'start': 2107.839, 'duration': 5.361}
+{'text': 'armed with a baseball bat', 'start': 2111.119, 'duration': 4.24}
+{'text': 'when rioters break open the locked doors', 'start': 2113.2, 'duration': 5.36}
+{'text': 'hundreds more rush in', 'start': 2115.359, 'duration': 3.201}
+{'text': '[Applause]', 'start': 2118.87, 'duration': 9.209}
+{'text': '[Music]', 'start': 2125.43, 'duration': 4.89}
+{'text': 'this is a critical moment officers must', 'start': 2128.079, 'duration': 4.161}
+{'text': 'now defend the outside and inside of the', 'start': 2130.32, 'duration': 2.56}
+{'text': 'building', 'start': 2132.24, 'duration': 3.359}
+{'text': 'stretching them even further', 'start': 2132.88, 'duration': 4.479}
+{'text': 'simultaneous events now happen that are', 'start': 2135.599, 'duration': 5.281}
+{'text': 'critical to lawmakers safety', 'start': 2137.359, 'duration': 3.521}
+{'text': 'writers head straight for the senate and', 'start': 2142.0, 'duration': 4.32}
+{'text': 'will be at its doors in two minutes', 'start': 2143.599, 'duration': 4.48}
+{'text': 'above them the senate has called into', 'start': 2146.32, 'duration': 3.759}
+{'text': 'recess protesters are in the building', 'start': 2148.079, 'duration': 2.881}
+{'text': 'thank you', 'start': 2150.079, 'duration': 4.881}
+{'text': 'members will evacuate down these stairs', 'start': 2150.96, 'duration': 4.0}
+{'text': 'in this hallway directly overhead the', 'start': 2155.04, 'duration': 3.6}
+{'text': 'rioters officer eugene goodman is', 'start': 2156.72, 'duration': 4.24}
+{'text': 'sprinting to overtake them', 'start': 2158.64, 'duration': 4.32}
+{'text': 'he passes mitt romney who he warns to', 'start': 2160.96, 'duration': 4.32}
+{'text': 'turn around', 'start': 2162.96, 'duration': 5.92}
+{'text': 'reinforcements are following behind', 'start': 2165.28, 'duration': 5.28}
+{'text': 'goodman overtakes the mob goes', 'start': 2168.88, 'duration': 3.12}
+{'text': 'downstairs and intercepts', 'start': 2170.56, 'duration': 4.64}
+{'text': 'them he holds them off while backup', 'start': 2172.0, 'duration': 6.079}
+{'text': 'arrives upstairs', 'start': 2175.2, 'duration': 2.879}
+{'text': "man i i don't know i feel mixed i feel", 'start': 2180.96, 'duration': 4.96}
+{'text': 'like they should have fed the republican', 'start': 2184.56, 'duration': 2.4}
+{'text': 'lawmakers', 'start': 2185.92, 'duration': 2.64}
+{'text': 'to the to the crowd they should have', 'start': 2186.96, 'duration': 3.04}
+{'text': 'said all right these are your', 'start': 2188.56, 'duration': 2.4}
+{'text': 'constituents', 'start': 2190.0, 'duration': 2.72}
+{'text': 'go out and calm them down this is what', 'start': 2190.96, 'duration': 3.28}
+{'text': 'you wanted good luck i feel like they', 'start': 2192.72, 'duration': 3.04}
+{'text': 'should you just send them out go call go', 'start': 2194.24, 'duration': 3.839}
+{'text': 'calm your people down good luck guys', 'start': 2195.76, 'duration': 5.599}
+{'text': "like i i don't know that like", 'start': 2198.079, 'duration': 4.561}
+{'text': 'if you want to support trump and do all', 'start': 2201.359, 'duration': 2.961}
+{'text': 'that [\xa0__\xa0] in a video game um if you want', 'start': 2202.64, 'duration': 2.719}
+{'text': 'to support trump and do all that [\xa0__\xa0]', 'start': 2204.32, 'duration': 2.72}
+{'text': "like that's cool but now this is the", 'start': 2205.359, 'duration': 3.041}
+{'text': 'consequence of reaction now you need to', 'start': 2207.04, 'duration': 7.36}
+{'text': 'go and deal with it good luck', 'start': 2208.4, 'duration': 8.48}
+{'text': 'behind these riders and just feet away', 'start': 2214.4, 'duration': 3.76}
+{'text': 'is an escape route', 'start': 2216.88, 'duration': 3.199}
+{'text': 'where lawmakers and senate staff are now', 'start': 2218.16, 'duration': 3.679}
+{'text': 'fleeing', 'start': 2220.079, 'duration': 5.28}
+{'text': 'just one officer stands guard', 'start': 2221.839, 'duration': 3.52}
+{'text': 'keeping his composure goodwin draws the', 'start': 2226.0, 'duration': 3.76}
+{'text': 'mob away from that escape route', 'start': 2228.16, 'duration': 14.08}
+{'text': 'to where reinforcements are waiting', 'start': 2229.76, 'duration': 14.16}
+{'text': 'he glances toward the senate and', 'start': 2242.24, 'duration': 5.2}
+{'text': 'realizes a door is unguarded', 'start': 2243.92, 'duration': 3.52}
+{'text': 'goodman shoves the protester again', 'start': 2247.76, 'duration': 6.079}
+{'text': 'lures the mob away and brings them into', 'start': 2251.2, 'duration': 6.639}
+{'text': 'that line of fellow officers', 'start': 2253.839, 'duration': 4.0}
+{'text': 'wait is that the big sky up front is', 'start': 2263.839, 'duration': 3.76}
+{'text': 'that', 'start': 2265.52, 'duration': 4.079}
+{'text': 'again the writers here are convinced', 'start': 2267.599, 'duration': 18.24}
+{'text': "it's their duty to defend democracy", 'start': 2269.599, 'duration': 16.24}
+{'text': 'meanwhile on the other side of the', 'start': 2292.24, 'duration': 3.44}
+{'text': 'capitol a few political leaders are', 'start': 2293.839, 'duration': 3.0}
+{'text': 'evacuated from the house of', 'start': 2295.68, 'duration': 3.679}
+{'text': 'representatives', 'start': 2296.839, 'duration': 4.681}
+{'text': 'but despite a lockdown alert proceedings', 'start': 2299.359, 'duration': 4.48}
+{'text': 'here will resume', 'start': 2301.52, 'duration': 4.24}
+{'text': "the house will be in order we'll go", 'start': 2303.839, 'duration': 3.361}
+{'text': 'there soon', 'start': 2305.76, 'duration': 2.96}
+{'text': "first we'll go to the crypt in the", 'start': 2307.2, 'duration': 4.879}
+{'text': 'center of the capital below the rotunda', 'start': 2308.72, 'duration': 5.44}
+{'text': 'the mob is already at its entrance if', 'start': 2312.079, 'duration': 3.601}
+{'text': 'they get through here they will more', 'start': 2314.16, 'duration': 12.16}
+{'text': 'easily fan out across the building', 'start': 2315.68, 'duration': 12.48}
+{'text': 'rioters jostle with police here for six', 'start': 2326.32, 'duration': 3.84}
+{'text': 'minutes and then flood', 'start': 2328.16, 'duration': 2.75}
+{'text': 'through', 'start': 2330.16, 'duration': 7.36}
+{'text': '[Applause]', 'start': 2330.91, 'duration': 9.57}
+{'text': "it's now 2 24 pm some 90 minutes after", 'start': 2337.52, 'duration': 4.16}
+{'text': 'the siege began', 'start': 2340.48, 'duration': 2.8}
+{'text': 'and the mob is about to overrun the', 'start': 2341.68, 'duration': 3.919}
+{'text': 'building', 'start': 2343.28, 'duration': 2.319}
+{'text': 'as this is happening and as thousands', 'start': 2346.4, 'duration': 3.199}
+{'text': 'more swell outside', 'start': 2348.24, 'duration': 4.0}
+{'text': 'trump composes a tweet not to calm his', 'start': 2349.599, 'duration': 3.361}
+{'text': 'supporters', 'start': 2352.24, 'duration': 3.28}
+{'text': 'but to blame his vice president he', 'start': 2352.96, 'duration': 3.04}
+{'text': 'writes', 'start': 2355.52, 'duration': 2.319}
+{'text': "mike pence didn't have the courage to do", 'start': 2356.0, 'duration': 3.28}
+{'text': 'what should have been done to protect', 'start': 2357.839, 'duration': 5.121}
+{'text': 'our country and our constitution', 'start': 2359.28, 'duration': 3.68}
+{'text': 'at this very time pence and his family', 'start': 2363.44, 'duration': 3.76}
+{'text': 'are being taken to safety', 'start': 2365.44, 'duration': 3.2}
+{'text': "along with an aide who's carrying the", 'start': 2367.2, 'duration': 15.2}
+{'text': "country's nuclear launch equipment", 'start': 2368.64, 'duration': 16.479}
+{'text': "at 2 25 p.m there's another major breach", 'start': 2382.4, 'duration': 4.16}
+{'text': 'on the opposite side of the building', 'start': 2385.119, 'duration': 4.321}
+{'text': 'the east side riders have been battling', 'start': 2386.56, 'duration': 4.559}
+{'text': 'a handful of officers at these doors for', 'start': 2389.44, 'duration': 8.399}
+{'text': 'almost half an hour', 'start': 2391.119, 'duration': 6.72}
+{'text': 'the tight turns when riders who came', 'start': 2398.0, 'duration': 3.28}
+{'text': 'through the crypt reached these doors', 'start': 2399.68, 'duration': 3.919}
+{'text': 'and pulled them open', 'start': 2401.28, 'duration': 4.16}
+{'text': 'then an active duty marine corps officer', 'start': 2403.599, 'duration': 3.201}
+{'text': 'christopher warnagiris', 'start': 2405.44, 'duration': 3.04}
+{'text': 'keeps that door open for the mob to', 'start': 2406.8, 'duration': 5.039}
+{'text': 'flood in', 'start': 2408.48, 'duration': 3.359}
+{'text': 'just as elsewhere this crowd is a mix of', 'start': 2420.8, 'duration': 3.76}
+{'text': 'die-hard trump supporters', 'start': 2422.88, 'duration': 3.68}
+{'text': 'but also more organized groups like the', 'start': 2424.56, 'duration': 3.279}
+{'text': 'oath keepers', 'start': 2426.56, 'duration': 3.36}
+{'text': 'who move in formation here toward that', 'start': 2427.839, 'duration': 4.881}
+{'text': 'east side entrance', 'start': 2429.92, 'duration': 2.8}
+{'text': 'the oath keepers and their supporters', 'start': 2435.92, 'duration': 3.28}
+{'text': 'continue to update each other on the', 'start': 2437.68, 'duration': 2.639}
+{'text': 'zello chat up', 'start': 2439.2, 'duration': 3.6}
+{'text': 'the house', 'start': 2440.319, 'duration': 2.481}
+{'text': '[Music]', 'start': 2444.13, 'duration': 9.229}
+{'text': 'the group enters the capital together', 'start': 2446.56, 'duration': 8.88}
+{'text': 'proud boys are near them including joe', 'start': 2453.359, 'duration': 4.881}
+{'text': 'biggs the organizer we saw earlier', 'start': 2455.44, 'duration': 4.48}
+{'text': "he's entering the building for a second", 'start': 2458.24, 'duration': 3.92}
+{'text': 'time', 'start': 2459.92, 'duration': 2.24}
+{'text': 'the oath keepers filled the rotunda', 'start': 2462.24, 'duration': 3.599}
+{'text': 'along with hundreds of other rioters', 'start': 2464.0, 'duration': 3.76}
+{'text': 'is there a um is there like a site', 'start': 2465.839, 'duration': 3.681}
+{'text': "that's keeping track of all the charges", 'start': 2467.76, 'duration': 2.72}
+{'text': 'related to the', 'start': 2469.52, 'duration': 3.28}
+{'text': 'riots on the sixth like how many charges', 'start': 2470.48, 'duration': 5.28}
+{'text': 'have been filed so far', 'start': 2472.8, 'duration': 2.96}
+{'text': 'took over the capital overran the', 'start': 2476.16, 'duration': 5.14}
+{'text': 'capital', 'start': 2478.839, 'duration': 4.441}
+{'text': '[Applause]', 'start': 2481.3, 'duration': 3.74}
+{'text': 'now the police inside the building are', 'start': 2483.28, 'duration': 3.52}
+{'text': 'completely outnumbered and call for', 'start': 2485.04, 'duration': 2.559}
+{'text': 'backup', 'start': 2486.8, 'duration': 2.48}
+{'text': 'we need some additional squads in the', 'start': 2487.599, 'duration': 5.24}
+{'text': "rotunda it's not to burst about 200", 'start': 2489.28, 'duration': 6.559}
+{'text': 'people', 'start': 2492.839, 'duration': 3.0}
+{'text': 'throughout the capital staffers have', 'start': 2497.04, 'duration': 5.36}
+{'text': 'barricaded doors to keep the mob out', 'start': 2498.64, 'duration': 3.76}
+{'text': "in nancy pelosi's chambers staffers rush", 'start': 2504.16, 'duration': 4.08}
+{'text': 'inside a conference room and lock', 'start': 2506.56, 'duration': 4.799}
+{'text': 'two doors behind them', 'start': 2508.24, 'duration': 3.119}
+{'text': 'just 12 minutes later writers outside', 'start': 2513.04, 'duration': 5.92}
+{'text': 'head straight for her offices', 'start': 2515.76, 'duration': 3.2}
+{'text': '9.99 surely you say our protest is more', 'start': 2519.48, 'duration': 5.56}
+{'text': 'moral than blm', 'start': 2523.52, 'duration': 3.52}
+{'text': "we don't want any wrong for anyone", 'start': 2525.04, 'duration': 4.16}
+{'text': 'involved we say our democracy getting', 'start': 2527.04, 'duration': 5.44}
+{'text': 'tempered with and we sought justice', 'start': 2529.2, 'duration': 6.08}
+{'text': "uh no at least blm's issues like can map", 'start': 2532.48, 'duration': 3.52}
+{'text': 'onto reality', 'start': 2535.28, 'duration': 2.24}
+{'text': 'even if you want to say that some of the', 'start': 2536.0, 'duration': 2.96}
+{'text': 'things are exaggerated in terms of', 'start': 2537.52, 'duration': 2.72}
+{'text': 'police problems or whatever like they', 'start': 2538.96, 'duration': 2.56}
+{'text': 'have like legitimate concerns that need', 'start': 2540.24, 'duration': 2.079}
+{'text': 'to be addressed', 'start': 2541.52, 'duration': 2.319}
+{'text': 'these people literally actually think', 'start': 2542.319, 'duration': 3.04}
+{'text': 'the election was actually rigged', 'start': 2543.839, 'duration': 2.641}
+{'text': 'unironically rigged', 'start': 2545.359, 'duration': 2.641}
+{'text': 'which there is just absolutely no', 'start': 2546.48, 'duration': 3.2}
+{'text': 'evidence for like this is alternate', 'start': 2548.0, 'duration': 2.24}
+{'text': 'timeline', 'start': 2549.68, 'duration': 2.88}
+{'text': 'alternate reality type of [\xa0__\xa0] so no', 'start': 2550.24, 'duration': 4.64}
+{'text': 'absolutely not', 'start': 2552.56, 'duration': 3.519}
+{'text': '[Music]', 'start': 2554.88, 'duration': 4.0}
+{'text': 'and pile in', 'start': 2556.079, 'duration': 2.801}
+{'text': "huddles together under a table pelosi's", 'start': 2561.44, 'duration': 4.159}
+{'text': "staff record what's happening", 'start': 2563.599, 'duration': 5.041}
+{'text': "we need capital police i think they're", 'start': 2565.599, 'duration': 4.321}
+{'text': 'pounding the doors trying to find her', 'start': 2568.64, 'duration': 3.52}
+{'text': 'yeah', 'start': 2569.92, 'duration': 2.24}
+{'text': 'one writer tries to break into that same', 'start': 2572.4, 'duration': 3.12}
+{'text': 'room', 'start': 2574.319, 'duration': 3.121}
+{'text': 'inside staffers are silent as they', 'start': 2575.52, 'duration': 4.88}
+{'text': 'record him pounding', 'start': 2577.44, 'duration': 2.96}
+{'text': 'he gets through the first door but the', 'start': 2584.319, 'duration': 4.081}
+{'text': 'second door keeps him out', 'start': 2585.92, 'duration': 4.32}
+{'text': "it's a scene that again shows just how", 'start': 2588.4, 'duration': 3.28}
+{'text': 'compromised the u.s government has', 'start': 2590.24, 'duration': 2.879}
+{'text': 'become', 'start': 2591.68, 'duration': 3.679}
+{'text': 'i think', 'start': 2593.119, 'duration': 2.24}
+{'text': 'by 2 30 pm the senate evacuation is well', 'start': 2596.56, 'duration': 4.4}
+{'text': 'underway', 'start': 2599.28, 'duration': 3.52}
+{'text': 'but even though a lockdown was called', 'start': 2600.96, 'duration': 3.2}
+{'text': 'over 15 minutes ago', 'start': 2602.8, 'duration': 3.36}
+{'text': 'the house is still in session do not', 'start': 2604.16, 'duration': 4.4}
+{'text': "accept arizona's electors as certified", 'start': 2606.16, 'duration': 4.56}
+{'text': 'representative jim mcgovern is cheering', 'start': 2608.56, 'duration': 3.759}
+{'text': 'he told us he wanted to finish hearing', 'start': 2610.72, 'duration': 3.359}
+{'text': 'objections to the election results by', 'start': 2612.319, 'duration': 3.28}
+{'text': 'paul gosar', 'start': 2614.079, 'duration': 3.681}
+{'text': 'house staff and security gave mcgovern', 'start': 2615.599, 'duration': 3.76}
+{'text': 'the all clear to continue', 'start': 2617.76, 'duration': 3.68}
+{'text': "it's a delay that likely costs someone", 'start': 2619.359, 'duration': 4.081}
+{'text': 'their life', 'start': 2621.44, 'duration': 3.76}
+{'text': 'suddenly staff are now pointing at the', 'start': 2623.44, 'duration': 4.879}
+{'text': "chamber's doors", 'start': 2625.2, 'duration': 7.639}
+{'text': 'under your seats please grab a mask', 'start': 2628.319, 'duration': 7.52}
+{'text': 'place', 'start': 2632.839, 'duration': 3.0}
+{'text': 'just outside a mob of a hundred or more', 'start': 2640.96, 'duration': 4.72}
+{'text': 'is being to get into them', 'start': 2643.119, 'duration': 5.391}
+{'text': 'well it came this far what', 'start': 2645.68, 'duration': 6.069}
+{'text': '[Music]', 'start': 2648.51, 'duration': 3.239}
+{'text': '[Applause]', 'start': 2652.35, 'duration': 3.249}
+{'text': 'these writers pay little heat to the', 'start': 2653.92, 'duration': 3.28}
+{'text': 'thin line of police', 'start': 2655.599, 'duration': 5.121}
+{'text': "they're going yeah i would just stop", 'start': 2657.2, 'duration': 6.879}
+{'text': 'bro are pushing against the doors into', 'start': 2660.72, 'duration': 5.76}
+{'text': 'the house', 'start': 2664.079, 'duration': 2.401}
+{'text': 'on the other side capitol police erect a', 'start': 2669.359, 'duration': 4.641}
+{'text': 'barricade and draw their guns', 'start': 2671.52, 'duration': 5.68}
+{'text': "you're a traitor on the floor lawmakers", 'start': 2674.0, 'duration': 5.68}
+{'text': 'are evacuated to the rear of the chamber', 'start': 2677.2, 'duration': 4.48}
+{'text': 'where in a few minutes a rioter will be', 'start': 2679.68, 'duration': 4.72}
+{'text': 'shot and killed', 'start': 2681.68, 'duration': 4.72}
+{'text': 'part of the mob outside now peels off in', 'start': 2684.4, 'duration': 4.439}
+{'text': 'that direction to find a different way', 'start': 2686.4, 'duration': 4.55}
+{'text': 'in', 'start': 2688.839, 'duration': 3.561}
+{'text': '[Music]', 'start': 2690.95, 'duration': 3.29}
+{'text': 'ashley babbitt an air force veteran and', 'start': 2692.4, 'duration': 3.04}
+{'text': 'q anon supporter', 'start': 2694.24, 'duration': 3.04}
+{'text': 'is among the first to arrive at the rear', 'start': 2695.44, 'duration': 8.72}
+{'text': 'of the house', 'start': 2697.28, 'duration': 10.16}
+{'text': 'they see the lawmakers escaping', 'start': 2704.16, 'duration': 4.8}
+{'text': 'that lobby might have been clear had the', 'start': 2707.44, 'duration': 3.52}
+{'text': 'house been evacuated sooner', 'start': 2708.96, 'duration': 5.84}
+{'text': 'but the rioters now become incensed', 'start': 2710.96, 'duration': 3.84}
+{'text': 'zachary allen a trump supporter from', 'start': 2715.44, 'duration': 3.76}
+{'text': 'pennsylvania punches in the glass panels', 'start': 2717.04, 'duration': 5.2}
+{'text': 'with his bare fists', 'start': 2719.2, 'duration': 3.04}
+{'text': 'police are stretched extremely thin okay', 'start': 2724.8, 'duration': 4.319}
+{'text': "it's not for another minute but i'm", 'start': 2728.0, 'duration': 2.8}
+{'text': "turning this on now you're getting afk", 'start': 2729.119, 'duration': 2.641}
+{'text': 'for one minute because people keep', 'start': 2730.8, 'duration': 3.6}
+{'text': 'screaming about it so here you go', 'start': 2731.76, 'duration': 4.4}
+{'text': 'just three officers and a security', 'start': 2734.4, 'duration': 4.08}
+{'text': 'staffer stand guard', 'start': 2736.16, 'duration': 4.32}
+{'text': 'none are wearing riot gear and they keep', 'start': 2738.48, 'duration': 5.04}
+{'text': 'their weapons holstered', 'start': 2740.48, 'duration': 3.04}
+{'text': 'when a team of heavily armed police now', 'start': 2744.88, 'duration': 6.0}
+{'text': 'arrives the three officers step aside', 'start': 2746.64, 'duration': 4.24}
+{'text': 'this creates a crucial gap that allows', 'start': 2752.48, 'duration': 5.119}
+{'text': 'writers to smash in the glass', 'start': 2754.4, 'duration': 7.439}
+{'text': 'a warning what happens next is graphic', 'start': 2757.599, 'duration': 4.24}
+{'text': "it's 2 44 pm and behind the door a", 'start': 2763.359, 'duration': 11.521}
+{'text': 'police officer draws his handgun', 'start': 2766.0, 'duration': 11.359}
+{'text': 'babbitt vaults into the window and the', 'start': 2774.88, 'duration': 5.6}
+{'text': 'officer shoots her once', 'start': 2777.359, 'duration': 3.121}
+{'text': "it's a fatal wound through the upper", 'start': 2781.599, 'duration': 4.0}
+{'text': 'chest', 'start': 2783.28, 'duration': 2.319}
+{'text': 'inside the chamber the floor is clear', 'start': 2787.359, 'duration': 3.76}
+{'text': 'but lawmakers in the balcony are', 'start': 2789.68, 'duration': 4.32}
+{'text': 'sheltering in place', 'start': 2791.119, 'duration': 2.881}
+{'text': '[Applause]', 'start': 2794.4, 'duration': 3.139}
+{'text': 'yeah what the [\xa0__\xa0] take your pins off', 'start': 2798.88, 'duration': 5.36}
+{'text': 'pins off they now remove the breast pins', 'start': 2802.0, 'duration': 3.599}
+{'text': 'that identify them as members of', 'start': 2804.24, 'duration': 3.76}
+{'text': 'congress', 'start': 2805.599, 'duration': 2.401}
+{'text': 'a group of rioters who almost made it to', 'start': 2809.119, 'duration': 4.081}
+{'text': "the balcony are held at gunpoint as it's", 'start': 2810.96, 'duration': 6.879}
+{'text': 'finally evacuated', 'start': 2813.2, 'duration': 4.639}
+{'text': 'now trump supporters have achieved their', 'start': 2819.04, 'duration': 5.92}
+{'text': 'goal stopping the election certification', 'start': 2820.88, 'duration': 4.08}
+{'text': 'and while the house is evacuated at the', 'start': 2826.48, 'duration': 3.2}
+{'text': 'other side of the building', 'start': 2828.56, 'duration': 4.48}
+{'text': 'the senate is occupied', 'start': 2829.68, 'duration': 3.36}
+{'text': 'on the senate floor they leave through', 'start': 2834.319, 'duration': 4.721}
+{'text': 'lawmakers files', 'start': 2836.16, 'duration': 2.88}
+{'text': '[Music]', 'start': 2839.27, 'duration': 3.53}
+{'text': "they're looking for like documents that", 'start': 2841.28, 'duration': 4.0}
+{'text': 'say like ah today i received 10 million', 'start': 2842.8, 'duration': 3.68}
+{'text': 'dollars from the hillary clinton', 'start': 2845.28, 'duration': 1.839}
+{'text': 'foundation', 'start': 2846.48, 'duration': 3.04}
+{'text': 'giving dominion authorization in order', 'start': 2847.119, 'duration': 4.161}
+{'text': 'to uh destroy the election like what are', 'start': 2849.52, 'duration': 2.799}
+{'text': 'they looking like', 'start': 2851.28, 'duration': 2.48}
+{'text': 'what are you [\xa0__\xa0] looking for you', 'start': 2852.319, 'duration': 3.52}
+{'text': 'dumb [\xa0__\xa0] loser', 'start': 2853.76, 'duration': 4.4}
+{'text': 'those', 'start': 2855.839, 'duration': 2.321}
+{'text': '[Music]', 'start': 2859.4, 'duration': 3.8}
+{'text': "and leave a message for mike pence it's", 'start': 2861.119, 'duration': 3.121}
+{'text': 'only a matter of time', 'start': 2863.2, 'duration': 4.639}
+{'text': 'justice is coming as rioters inside have', 'start': 2864.24, 'duration': 5.44}
+{'text': 'been rampaging throughout the capital', 'start': 2867.839, 'duration': 4.48}
+{'text': 'the crowd outside has grown and that', 'start': 2869.68, 'duration': 6.49}
+{'text': 'first battle has continued raging', 'start': 2872.319, 'duration': 7.22}
+{'text': '[Music]', 'start': 2876.17, 'duration': 3.369}
+{'text': 'for almost two hours officers face off', 'start': 2883.44, 'duration': 4.159}
+{'text': 'with writers who say they support the', 'start': 2885.76, 'duration': 2.4}
+{'text': 'police', 'start': 2887.599, 'duration': 4.0}
+{'text': "we've backed you forever", 'start': 2888.16, 'duration': 6.56}
+{'text': 'but assault them anyway', 'start': 2891.599, 'duration': 3.121}
+{'text': "we're going to show what happened here", 'start': 2896.0, 'duration': 3.44}
+{'text': 'because it demonstrates yet again', 'start': 2897.52, 'duration': 3.76}
+{'text': 'how failures by capital police leaders', 'start': 2899.44, 'duration': 3.679}
+{'text': 'to prepare put the safety of these', 'start': 2901.28, 'duration': 4.72}
+{'text': 'officers at risk', 'start': 2903.119, 'duration': 2.881}
+{'text': 'capitol police had been ordered to', 'start': 2912.64, 'duration': 4.24}
+{'text': 'withhold some of their stronger weapons', 'start': 2914.079, 'duration': 4.801}
+{'text': 'but as soon as robert glover a metro', 'start': 2916.88, 'duration': 3.6}
+{'text': 'police inspector arrives', 'start': 2918.88, 'duration': 4.479}
+{'text': 'he calls for his munitions team to help', 'start': 2920.48, 'duration': 4.16}
+{'text': 'give me a dso team', 'start': 2923.359, 'duration': 4.72}
+{'text': 'dso team the eso respond to the west', 'start': 2924.64, 'duration': 6.2}
+{'text': 'part of the capital', 'start': 2928.079, 'duration': 6.011}
+{'text': '[Applause]', 'start': 2930.84, 'duration': 3.25}
+{'text': 'when the building is breached glover', 'start': 2934.319, 'duration': 3.04}
+{'text': 'knows he needs to retreat', 'start': 2936.0, 'duration': 3.599}
+{'text': 'and seeks advice from capital leaders i', 'start': 2937.359, 'duration': 4.881}
+{'text': 'need a canadian official from capital', 'start': 2939.599, 'duration': 4.561}
+{'text': 'so we can coordinate where we want us to', 'start': 2942.24, 'duration': 3.44}
+{'text': 'pull back to', 'start': 2944.16, 'duration': 5.76}
+{'text': 'we cannot hold this without ammunitions', 'start': 2945.68, 'duration': 4.24}
+{'text': '[Applause]', 'start': 2951.33, 'duration': 7.229}
+{'text': "but capital don't respond he asks four", 'start': 2955.359, 'duration': 4.081}
+{'text': 'times', 'start': 2958.559, 'duration': 3.28}
+{'text': 'i need to know some gathering wherever', 'start': 2959.44, 'duration': 3.76}
+{'text': 'they want to pull that too', 'start': 2961.839, 'duration': 9.201}
+{'text': 'sounds like my rust team', 'start': 2963.2, 'duration': 9.58}
+{'text': 'then the police lose the line', 'start': 2971.04, 'duration': 4.79}
+{'text': '[Applause]', 'start': 2972.78, 'duration': 6.109}
+{'text': '[Music]', 'start': 2975.83, 'duration': 3.059}
+{'text': 'here', 'start': 2982.839, 'duration': 9.751}
+{'text': '[Music]', 'start': 2985.1, 'duration': 7.49}
+{'text': 'when british people talk about like', 'start': 2996.319, 'duration': 3.441}
+{'text': 'lifting do you guys say [\xa0__\xa0] like oh', 'start': 2997.839, 'duration': 3.921}
+{'text': 'yeah i can bench six stone', 'start': 2999.76, 'duration': 4.72}
+{'text': "wait do people do that or what i'm just", 'start': 3001.76, 'duration': 3.359}
+{'text': 'curious', 'start': 3004.48, 'duration': 4.4}
+{'text': "i just i'm sorry this is really random", 'start': 3005.119, 'duration': 3.761}
+{'text': 'glover issues at 10 33 a call of last', 'start': 3011.359, 'duration': 5.361}
+{'text': 'resort', 'start': 3014.24, 'duration': 2.48}
+{'text': "wait that's so weird so you guys measure", 'start': 3020.079, 'duration': 3.841}
+{'text': 'yourself they use kg you dumb', 'start': 3022.0, 'duration': 5.2}
+{'text': 'but they measure themselves in pounds', 'start': 3023.92, 'duration': 5.28}
+{'text': 'so you like oh like i weigh like seven', 'start': 3027.2, 'duration': 4.879}
+{'text': 'stone 20 pounds but i can lift like', 'start': 3029.2, 'duration': 6.32}
+{'text': "60 kilos how [\xa0__\xa0] you're dude brit", 'start': 3032.079, 'duration': 5.28}
+{'text': 'bonger land is [\xa0__\xa0] just', 'start': 3035.52, 'duration': 6.319}
+{'text': 'out of this world', 'start': 3037.359, 'duration': 4.48}
+{'text': 'crazed rioters hound the police even as', 'start': 3048.079, 'duration': 5.831}
+{'text': 'they retreat to the upper level', 'start': 3050.4, 'duration': 4.61}
+{'text': '[Applause]', 'start': 3053.91, 'duration': 4.199}
+{'text': '[Music]', 'start': 3055.01, 'duration': 3.099}
+{'text': '[Music]', 'start': 3062.39, 'duration': 5.05}
+{'text': 'police now begin to guard this doorway', 'start': 3064.48, 'duration': 4.72}
+{'text': 'an iconic centerpiece of presidential', 'start': 3067.44, 'duration': 4.56}
+{'text': 'inaugurations', 'start': 3069.2, 'duration': 2.8}
+{'text': '[Applause]', 'start': 3073.27, 'duration': 4.73}
+{'text': 'but for another two hours the same', 'start': 3075.76, 'duration': 4.16}
+{'text': 'pattern will repeat', 'start': 3078.0, 'duration': 4.96}
+{'text': 'rioters filled the terrace instigators', 'start': 3079.92, 'duration': 6.0}
+{'text': 'trigger a frenzy', 'start': 3082.96, 'duration': 2.96}
+{'text': 'and tragically someone will die', 'start': 3086.4, 'duration': 5.36}
+{'text': '[Applause]', 'start': 3089.28, 'duration': 4.96}
+{'text': 'a brutal fight erupts american number', 'start': 3091.76, 'duration': 4.4}
+{'text': 'one lol this could never happen to my', 'start': 3094.24, 'duration': 4.24}
+{'text': 'country', 'start': 3096.16, 'duration': 4.32}
+{'text': 'but what country are you from the', 'start': 3098.48, 'duration': 2.93}
+{'text': 'doorway', 'start': 3100.48, 'duration': 4.02}
+{'text': '[Applause]', 'start': 3101.41, 'duration': 3.09}
+{'text': 'the mob heaves in a coordinated scrum', 'start': 3107.92, 'duration': 8.36}
+{'text': '[Applause]', 'start': 3111.91, 'duration': 4.37}
+{'text': 'and when police finally push them out', 'start': 3117.92, 'duration': 7.919}
+{'text': 'they face even worse violence', 'start': 3120.24, 'duration': 5.599}
+{'text': '[Applause]', 'start': 3132.41, 'duration': 3.99}
+{'text': 'a hockey stick and even an american flag', 'start': 3136.72, 'duration': 5.76}
+{'text': 'at least four officers are pulled into', 'start': 3143.44, 'duration': 2.85}
+{'text': 'the crowd', 'start': 3145.2, 'duration': 4.439}
+{'text': '[Applause]', 'start': 3146.29, 'duration': 3.349}
+{'text': 'one dragged by his own helmet face down', 'start': 3150.8, 'duration': 4.24}
+{'text': '[Applause]', 'start': 3155.67, 'duration': 6.169}
+{'text': 'and again the frenzy turns fatal', 'start': 3157.76, 'duration': 4.079}
+{'text': 'roseanne boyland a trump supporter who', 'start': 3162.16, 'duration': 4.159}
+{'text': 'has been swept up by q anon conspiracies', 'start': 3164.0, 'duration': 4.36}
+{'text': 'is moving toward the door', 'start': 3166.319, 'duration': 4.881}
+{'text': '[Music]', 'start': 3168.36, 'duration': 5.32}
+{'text': 'but amid the scrum she collapses and is', 'start': 3171.2, 'duration': 9.919}
+{'text': 'lying unconscious beneath the mob', 'start': 3173.68, 'duration': 9.12}
+{'text': 'as the crowd sarcastically chants a', 'start': 3181.119, 'duration': 3.281}
+{'text': 'black lives matter slogan', 'start': 3182.8, 'duration': 4.0}
+{'text': "boylan's friend justin winchell tries to", 'start': 3184.4, 'duration': 5.12}
+{'text': 'pull her to safety', 'start': 3186.8, 'duration': 8.4}
+{'text': 'he screams for help', 'start': 3189.52, 'duration': 7.92}
+{'text': 'but instead fellow riders trample over', 'start': 3195.2, 'duration': 6.08}
+{'text': 'boyland and charge at the police again', 'start': 3197.44, 'duration': 3.84}
+{'text': 'boyland will be pronounced dead at a', 'start': 3202.8, 'duration': 7.039}
+{'text': 'local hospital in the evening', 'start': 3204.559, 'duration': 5.28}
+{'text': 'by the end of the day riders have', 'start': 3210.72, 'duration': 3.2}
+{'text': 'breached and entered the building in at', 'start': 3212.48, 'duration': 4.56}
+{'text': 'least eight locations', 'start': 3213.92, 'duration': 3.12}
+{'text': "there's the first breach which we've", 'start': 3217.28, 'duration': 3.44}
+{'text': 'seen when rioters smashed through two', 'start': 3218.64, 'duration': 3.6}
+{'text': 'windows and a door', 'start': 3220.72, 'duration': 3.359}
+{'text': 'beside that a rider with a crowbar', 'start': 3222.24, 'duration': 3.52}
+{'text': 'smashes in a second door', 'start': 3224.079, 'duration': 4.961}
+{'text': 'and then opens it to hundreds of people', 'start': 3225.76, 'duration': 5.52}
+{'text': 'i wonder if you could have like a like a', 'start': 3229.04, 'duration': 4.48}
+{'text': 'like a deprogramming class or whatever', 'start': 3231.28, 'duration': 4.079}
+{'text': "where you force you've got like a", 'start': 3233.52, 'duration': 3.68}
+{'text': 'classroom of like one teacher', 'start': 3235.359, 'duration': 3.601}
+{'text': 'and like 20 of these types of like', 'start': 3237.2, 'duration': 3.919}
+{'text': 'conservatives and the goal is like okay', 'start': 3238.96, 'duration': 3.28}
+{'text': 'well today class', 'start': 3241.119, 'duration': 2.881}
+{'text': "we're gonna learn about was the election", 'start': 3242.24, 'duration': 4.0}
+{'text': 'stolen and all you do is you spend like', 'start': 3244.0, 'duration': 3.68}
+{'text': "you've got like two hour classes like", 'start': 3246.24, 'duration': 2.8}
+{'text': "well let's google around let's see what", 'start': 3247.68, 'duration': 2.32}
+{'text': "the evidence is and let's", 'start': 3249.04, 'duration': 2.559}
+{'text': 'think about this guys and then they', 'start': 3250.0, 'duration': 3.52}
+{'text': "could spend time like well i've got this", 'start': 3251.599, 'duration': 3.201}
+{'text': "article from this side i've got this", 'start': 3253.52, 'duration': 2.319}
+{'text': "it's like okay well", 'start': 3254.8, 'duration': 2.64}
+{'text': "who's being sourced for this literally", 'start': 3255.839, 'duration': 3.841}
+{'text': 'nobody or what about this q post this', 'start': 3257.44, 'duration': 3.84}
+{'text': 'comes from 4chan is this really good i', 'start': 3259.68, 'duration': 3.2}
+{'text': 'wonder if you could do that if people', 'start': 3261.28, 'duration': 3.2}
+{'text': 'after a while um', 'start': 3262.88, 'duration': 2.959}
+{'text': 'if you were to do a process like that', 'start': 3264.48, 'duration': 3.44}
+{'text': 'over months um', 'start': 3265.839, 'duration': 3.041}
+{'text': 'i wonder if you would ever change', 'start': 3267.92, 'duration': 3.12}
+{'text': "anybody's mind i feel like i got i feel", 'start': 3268.88, 'duration': 2.8}
+{'text': 'like', 'start': 3271.04, 'duration': 2.88}
+{'text': 'that process with my mom if i lived with', 'start': 3271.68, 'duration': 3.919}
+{'text': 'her and i did this every day', 'start': 3273.92, 'duration': 2.72}
+{'text': 'i feel like i might be able to get', 'start': 3275.599, 'duration': 2.081}
+{'text': 'through her because i know that when we', 'start': 3276.64, 'duration': 2.88}
+{'text': 'talk about the illegal voting', 'start': 3277.68, 'duration': 3.36}
+{'text': 'it felt like there were times where she', 'start': 3279.52, 'duration': 3.839}
+{'text': 'realized what she was saying', 'start': 3281.04, 'duration': 4.319}
+{'text': 'was ridiculous because i remember that', 'start': 3283.359, 'duration': 3.361}
+{'text': 'she claimed that like', 'start': 3285.359, 'duration': 2.96}
+{'text': 'millions of people were brought in from', 'start': 3286.72, 'duration': 3.359}
+{'text': 'mexico to vote in the', 'start': 3288.319, 'duration': 4.881}
+{'text': '2016 elections and i think for obama too', 'start': 3290.079, 'duration': 5.601}
+{'text': 'and um and i remember asking i was like', 'start': 3293.2, 'duration': 3.68}
+{'text': "okay well let's just", 'start': 3295.68, 'duration': 3.52}
+{'text': "sure okay mom but let's think about this", 'start': 3296.88, 'duration': 3.36}
+{'text': 'right', 'start': 3299.2, 'duration': 3.84}
+{'text': 'millions of people right so they were', 'start': 3300.24, 'duration': 3.599}
+{'text': 'bused in', 'start': 3303.04, 'duration': 2.24}
+{'text': "so let's say there's like 100 people on", 'start': 3303.839, 'duration': 3.76}
+{'text': "a bus right that's 10 000 buses they're", 'start': 3305.28, 'duration': 4.319}
+{'text': 'probably not all going to the same place', 'start': 3307.599, 'duration': 4.801}
+{'text': 'but still right 10 000 buses mom', 'start': 3309.599, 'duration': 4.72}
+{'text': "everybody's got cell phones today", 'start': 3312.4, 'duration': 3.12}
+{'text': "everybody's recording when they go to", 'start': 3314.319, 'duration': 3.28}
+{'text': 'this point nobody sees even one', 'start': 3315.52, 'duration': 4.0}
+{'text': 'bus of illegal immigrants getting out to', 'start': 3317.599, 'duration': 3.76}
+{'text': 'vote mom nobody', 'start': 3319.52, 'duration': 4.559}
+{'text': 'how like real and like i feel like', 'start': 3321.359, 'duration': 3.601}
+{'text': 'having conversations with', 'start': 3324.079, 'duration': 2.561}
+{'text': "slowly she's like okay well you know", 'start': 3324.96, 'duration': 2.879}
+{'text': "i'll look for stuff although like i", 'start': 3326.64, 'duration': 1.84}
+{'text': 'think she', 'start': 3327.839, 'duration': 3.041}
+{'text': 'i can see the cognitive dissonance where', 'start': 3328.48, 'duration': 3.76}
+{'text': 'she i think she starts to feel', 'start': 3330.88, 'duration': 2.64}
+{'text': 'uncomfortable because she realized like', 'start': 3332.24, 'duration': 2.8}
+{'text': 'ah yeah okay this is a little bit', 'start': 3333.52, 'duration': 2.48}
+{'text': 'ridiculous', 'start': 3335.04, 'duration': 2.88}
+{'text': 'um i i feel like if you would spend like', 'start': 3336.0, 'duration': 3.44}
+{'text': 'every day with a person like that', 'start': 3337.92, 'duration': 3.6}
+{'text': 'for a couple months maybe eventually', 'start': 3339.44, 'duration': 3.2}
+{'text': 'like', 'start': 3341.52, 'duration': 3.68}
+{'text': "yeah i don't know", 'start': 3342.64, 'duration': 2.56}
+{'text': 'literally the same thing as my mom i', 'start': 3347.52, 'duration': 2.559}
+{'text': 'would make some breakthrough with a', 'start': 3348.96, 'duration': 2.96}
+{'text': 'variety of issues but a week later would', 'start': 3350.079, 'duration': 3.361}
+{'text': "be some new conspiracy yeah that's the", 'start': 3351.92, 'duration': 2.72}
+{'text': 'problem the problem is that like a week', 'start': 3353.44, 'duration': 3.04}
+{'text': "or two later it'd be some other thing", 'start': 3354.64, 'duration': 4.959}
+{'text': 'yeah giorgio slazakis', 'start': 3356.48, 'duration': 6.079}
+{'text': '55 swedish krona the teacher would', 'start': 3359.599, 'duration': 6.24}
+{'text': 'commit themselves', 'start': 3362.559, 'duration': 3.28}
+{'text': 'commit what', 'start': 3366.079, 'duration': 11.921}
+{'text': 'others smash a window next to the', 'start': 3376.319, 'duration': 5.681}
+{'text': 'inauguration door and climb inside', 'start': 3378.0, 'duration': 4.0}
+{'text': 'at this entrance police stand aside and', 'start': 3385.599, 'duration': 6.321}
+{'text': 'allow rioters to stream in unchallenged', 'start': 3387.92, 'duration': 4.0}
+{'text': 'on the north side of the building police', 'start': 3392.559, 'duration': 5.921}
+{'text': 'in riot gear yield and let the crowd in', 'start': 3394.319, 'duration': 4.161}
+{'text': '[Music]', 'start': 3398.87, 'duration': 3.61}
+{'text': 'another three breaches are on the east', 'start': 3400.559, 'duration': 4.321}
+{'text': 'side two by the central doors into the', 'start': 3402.48, 'duration': 3.2}
+{'text': 'rotunda', 'start': 3404.88, 'duration': 2.4}
+{'text': 'and this southeast door leading to the', 'start': 3405.68, 'duration': 4.32}
+{'text': 'house chamber', 'start': 3407.28, 'duration': 2.72}
+{'text': "it's the arrival of more metropolitan", 'start': 3410.319, 'duration': 3.441}
+{'text': 'police and other agencies that finally', 'start': 3412.0, 'duration': 6.079}
+{'text': 'turns the tide', 'start': 3413.76, 'duration': 6.24}
+{'text': 'when those officers enter the rotunda', 'start': 3418.079, 'duration': 5.441}
+{'text': 'they clear it in just 20 minutes', 'start': 3420.0, 'duration': 3.52}
+{'text': 'as the mob is pushed back through the', 'start': 3429.839, 'duration': 3.921}
+{'text': 'east doors their rage turns to mike', 'start': 3431.44, 'duration': 2.96}
+{'text': 'pence', 'start': 3433.76, 'duration': 2.56}
+{'text': 'who trump attacked earlier', 'start': 3434.4, 'duration': 7.12}
+{'text': '[Music]', 'start': 3436.32, 'duration': 7.36}
+{'text': 'metro officers also stop other rioters', 'start': 3441.52, 'duration': 3.599}
+{'text': 'from entering on the west side', 'start': 3443.68, 'duration': 3.01}
+{'text': 'where the mob first broke in', 'start': 3445.119, 'duration': 4.701}
+{'text': '[Music]', 'start': 3446.69, 'duration': 3.13}
+{'text': '[Applause]', 'start': 3450.21, 'duration': 4.0}
+{'text': 'but here too we see a crowd empowered by', 'start': 3454.48, 'duration': 4.16}
+{'text': "the belief that they're carrying out", 'start': 3457.04, 'duration': 4.799}
+{'text': 'some patriotic duty', 'start': 3458.64, 'duration': 3.199}
+{'text': '[Music]', 'start': 3462.48, 'duration': 4.24}
+{'text': 'over the course of the day 150 police', 'start': 3464.319, 'duration': 4.721}
+{'text': 'officers are injured', 'start': 3466.72, 'duration': 4.879}
+{'text': 'after 4 pm metro and capitol police were', 'start': 3469.04, 'duration': 5.58}
+{'text': 'gained control of the upper levels', 'start': 3471.599, 'duration': 5.52}
+{'text': '[Applause]', 'start': 3474.62, 'duration': 4.179}
+{'text': 'the final parts of the interior are', 'start': 3477.119, 'duration': 3.281}
+{'text': 'cleared by other law enforcement', 'start': 3478.799, 'duration': 5.04}
+{'text': 'including federal agencies tear gas and', 'start': 3480.4, 'duration': 5.04}
+{'text': 'flash banks disperse the crowd on the', 'start': 3483.839, 'duration': 6.0}
+{'text': 'inauguration terrace', 'start': 3485.44, 'duration': 4.399}
+{'text': '[Music]', 'start': 3490.87, 'duration': 4.249}
+{'text': 'the virginia state police and arlington', 'start': 3493.28, 'duration': 3.519}
+{'text': 'county police helped to reclaim that', 'start': 3495.119, 'duration': 4.0}
+{'text': 'area', 'start': 3496.799, 'duration': 2.32}
+{'text': 'then rioters are swiftly pushed off', 'start': 3499.52, 'duration': 3.839}
+{'text': 'capitol grounds by a reinforced police', 'start': 3501.359, 'duration': 2.741}
+{'text': 'line', 'start': 3503.359, 'duration': 3.871}
+{'text': '[Applause]', 'start': 3504.1, 'duration': 3.13}
+{'text': 'only now more than three hours after', 'start': 3509.44, 'duration': 3.919}
+{'text': 'capitol police first called them', 'start': 3511.599, 'duration': 5.681}
+{'text': 'do national guard soldiers arrive', 'start': 3513.359, 'duration': 7.281}
+{'text': 'and turn down right now troops were', 'start': 3517.28, 'duration': 6.079}
+{'text': 'staging just 20 minutes away', 'start': 3520.64, 'duration': 4.959}
+{'text': 'but a recent procedural change meant the', 'start': 3523.359, 'duration': 3.76}
+{'text': 'highest level of the pentagon had to', 'start': 3525.599, 'duration': 2.801}
+{'text': 'approve deployment', 'start': 3527.119, 'duration': 3.2}
+{'text': "all right it's a stupid [\xa0__\xa0] pentagon", 'start': 3528.4, 'duration': 3.919}
+{'text': 'officials delayed the decision', 'start': 3530.319, 'duration': 4.401}
+{'text': 'partially in fear of bad optics even as', 'start': 3532.319, 'duration': 5.091}
+{'text': 'the capital was being overrun', 'start': 3534.72, 'duration': 5.85}
+{'text': '[Music]', 'start': 3537.41, 'duration': 3.16}
+{'text': 'as calm returns the president tweets', 'start': 3540.72, 'duration': 3.76}
+{'text': 'again', 'start': 3543.04, 'duration': 3.12}
+{'text': 'he repeats that the election had been', 'start': 3544.48, 'duration': 3.119}
+{'text': 'stripped away', 'start': 3546.16, 'duration': 3.919}
+{'text': 'calls his supporters great patriots and', 'start': 3547.599, 'duration': 3.2}
+{'text': 'says', 'start': 3550.079, 'duration': 4.161}
+{'text': 'remember this day forever', 'start': 3550.799, 'duration': 3.441}
+{'text': 'the aftermath of january 6th has been as', 'start': 3556.88, 'duration': 5.36}
+{'text': 'divisive as the lie that launched it', 'start': 3558.88, 'duration': 4.88}
+{'text': 'even as one arm of government has', 'start': 3562.24, 'duration': 3.28}
+{'text': 'indicted hundreds of writers', 'start': 3563.76, 'duration': 3.839}
+{'text': 'republican lawmakers continue efforts to', 'start': 3565.52, 'duration': 3.839}
+{'text': 'normalize what happened with a mix of', 'start': 3567.599, 'duration': 3.76}
+{'text': 'denials and conspiracy theories some of', 'start': 3569.359, 'duration': 3.521}
+{'text': 'the people who breached the capital', 'start': 3571.359, 'duration': 2.401}
+{'text': 'today', 'start': 3572.88, 'duration': 3.12}
+{'text': "were not trump supporters that's right", 'start': 3573.76, 'duration': 3.44}
+{'text': 'oh yeah', 'start': 3576.0, 'duration': 3.2}
+{'text': 'those are people that love this country', 'start': 3577.2, 'duration': 3.919}
+{'text': 'that truly respect', 'start': 3579.2, 'duration': 3.599}
+{'text': 'law enforcement would never do anything', 'start': 3581.119, 'duration': 3.041}
+{'text': 'to break a law', 'start': 3582.799, 'duration': 3.201}
+{'text': "and so i wasn't concerned they include", 'start': 3584.16, 'duration': 3.84}
+{'text': "paul gosar who'd been at the trump rally", 'start': 3586.0, 'duration': 4.16}
+{'text': 'the doj is harassing peaceful patriots', 'start': 3588.0, 'duration': 3.119}
+{'text': 'across the country', 'start': 3590.16, 'duration': 2.959}
+{'text': 'and andrew clyde who we saw earlier', 'start': 3591.119, 'duration': 3.921}
+{'text': 'standing just a few feet from rioters', 'start': 3593.119, 'duration': 3.921}
+{'text': 'there was no insurrection and to call it', 'start': 3595.04, 'duration': 3.6}
+{'text': 'an insurrection in my opinion', 'start': 3597.04, 'duration': 5.279}
+{'text': 'is a face line republican leaders have', 'start': 3598.64, 'duration': 5.52}
+{'text': 'blocked an independent investigation', 'start': 3602.319, 'duration': 3.361}
+{'text': 'that could have brought new details to', 'start': 3604.16, 'duration': 1.919}
+{'text': 'light', 'start': 3605.68, 'duration': 2.24}
+{'text': "i've made the decision to oppose the", 'start': 3606.079, 'duration': 4.161}
+{'text': 'house democrats slanted and unbalanced', 'start': 3607.92, 'duration': 3.6}
+{'text': 'proposal', 'start': 3610.24, 'duration': 2.96}
+{'text': 'for another commission to study the', 'start': 3611.52, 'duration': 4.96}
+{'text': 'events of january the 6th', 'start': 3613.2, 'duration': 5.44}
+{'text': 'and in may a top republican was ousted', 'start': 3616.48, 'duration': 3.52}
+{'text': "from the party's leadership", 'start': 3618.64, 'duration': 3.04}
+{'text': 'after blaming trump for inspiring the', 'start': 3620.0, 'duration': 4.0}
+{'text': 'riot i think that the party', 'start': 3621.68, 'duration': 3.76}
+{'text': "is in a place that we've got to bring it", 'start': 3624.0, 'duration': 4.559}
+{'text': 'back from', 'start': 3625.44, 'duration': 4.879}
+{'text': 'none of what happened on january 6 would', 'start': 3628.559, 'duration': 3.361}
+{'text': 'have been possible without a huge mass', 'start': 3630.319, 'duration': 2.721}
+{'text': 'of ordinary people', 'start': 3631.92, 'duration': 3.42}
+{'text': 'who were proud of what they achieved', 'start': 3633.04, 'duration': 5.47}
+{'text': '[Applause]', 'start': 3635.34, 'duration': 3.17}
+{'text': 'millions around the country still', 'start': 3640.64, 'duration': 2.8}
+{'text': 'believed the violence was not only', 'start': 3642.079, 'duration': 2.24}
+{'text': 'justified', 'start': 3643.44, 'duration': 3.76}
+{'text': 'but necessary', 'start': 3644.319, 'duration': 2.881}
+{'text': 'and the forces that brought them there', 'start': 3648.24, 'duration': 4.24}
+{'text': 'have not gone away yeah the patriots are', 'start': 3650.319, 'duration': 3.601}
+{'text': 'coming back yo', 'start': 3652.48, 'duration': 3.2}
+{'text': "wait what was that noise i'll be on our", 'start': 3653.92, 'duration': 4.56}
+{'text': 'side when that happens', 'start': 3655.68, 'duration': 2.8}
+{'text': 'remember to hit that like and subscribe', 'start': 3659.839, 'duration': 2.72}
+{'text': "and don't forget the notification bell", 'start': 3661.04, 'duration': 3.2}
+{'text': 'so that my videos show up', 'start': 3662.559, 'duration': 3.681}
+{'text': 'right in your feed okay this is my last', 'start': 3664.24, 'duration': 3.839}
+{'text': 'game i will sell farm i swear to god i', 'start': 3666.24, 'duration': 3.92}
+{'text': "will go i'll i'm not kidding either", 'start': 3668.079, 'duration': 4.0}
+{'text': 'i will oh [\xa0__\xa0] dude this is my last one', 'start': 3670.16, 'duration': 4.48}
+{'text': 'for the day', 'start': 3672.079, 'duration': 2.561}

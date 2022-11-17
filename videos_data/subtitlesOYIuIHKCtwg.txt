@@ -1,0 +1,453 @@
+{'text': 'reminder tom cruise was right when he', 'start': 0.0, 'duration': 3.76}
+{'text': "scolded matt lauer on today's show about", 'start': 2.0, 'duration': 3.04}
+{'text': 'psychiatry and anti-depressants he', 'start': 3.76, 'duration': 2.72}
+{'text': "actually was right let's go back because", 'start': 5.04, 'duration': 2.799}
+{'text': "you mention it let's go back and", 'start': 6.48, 'duration': 3.039}
+{'text': 'remember this was tom cruise back in i', 'start': 7.839, 'duration': 3.361}
+{'text': 'think it was like 2004 or five this was', 'start': 9.519, 'duration': 3.441}
+{'text': 'this was a while ago over 15 years ago', 'start': 11.2, 'duration': 2.8}
+{'text': 'and he had this conversation with matt', 'start': 12.96, 'duration': 2.96}
+{'text': 'lauer and on the today show about', 'start': 14.0, 'duration': 3.44}
+{'text': 'psychiatry and psychiatric medicine and', 'start': 15.92, 'duration': 2.8}
+{'text': 'depression and he has been mocked', 'start': 17.44, 'duration': 3.44}
+{'text': 'ruthlessly for this ever since', 'start': 18.72, 'duration': 3.76}
+{'text': "but turns out he's 100 right let's watch", 'start': 20.88, 'duration': 2.559}
+{'text': 'that again', 'start': 22.48, 'duration': 2.48}
+{'text': 'here we are today where i talk out', 'start': 23.439, 'duration': 3.68}
+{'text': 'against drugs and psychiatric abuses of', 'start': 24.96, 'duration': 3.76}
+{'text': 'electric shocking people okay against', 'start': 27.119, 'duration': 3.361}
+{'text': 'their will of drugging children with', 'start': 28.72, 'duration': 3.2}
+{'text': 'them not knowing the effects of these', 'start': 30.48, 'duration': 2.72}
+{'text': 'drugs do you know what adderall is do', 'start': 31.92, 'duration': 2.479}
+{'text': 'you know ritalin do you know now that', 'start': 33.2, 'duration': 2.879}
+{'text': 'ritalin is a street drug do you', 'start': 34.399, 'duration': 3.921}
+{'text': 'understand that this is so stupid wait', 'start': 36.079, 'duration': 3.681}
+{'text': "hold on there's he just said so many", 'start': 38.32, 'duration': 3.68}
+{'text': 'dumb things all in a row there was so', 'start': 39.76, 'duration': 6.08}
+{'text': 'many stupid things all in a row', 'start': 42.0, 'duration': 3.84}
+{'text': 'of electric shocking', 'start': 48.8, 'duration': 2.8}
+{'text': "it's too early for me to get triggered", 'start': 55.12, 'duration': 5.279}
+{'text': 'over this where i talk out against drugs', 'start': 56.8, 'duration': 5.599}
+{'text': 'and psychiatric abuses of electric', 'start': 60.399, 'duration': 3.281}
+{'text': 'shocking people', 'start': 62.399, 'duration': 3.281}
+{'text': 'okay okay electric shock therapy is a', 'start': 63.68, 'duration': 4.56}
+{'text': 'real thing that is like i think they', 'start': 65.68, 'duration': 5.36}
+{'text': 'i think it might still be used for um', 'start': 68.24, 'duration': 5.84}
+{'text': 'resistant treatment depression', 'start': 71.04, 'duration': 4.48}
+{'text': "it's not just like they don't just like", 'start': 74.08, 'duration': 2.88}
+{'text': 'throw people in like a thing and just', 'start': 75.52, 'duration': 3.12}
+{'text': "like zap you because they're torturing", 'start': 76.96, 'duration': 2.88}
+{'text': 'you or whatever', 'start': 78.64, 'duration': 4.799}
+{'text': "i'm pretty sure there are um", 'start': 79.84, 'duration': 5.84}
+{'text': 'pretty sure this is efficacious when it', 'start': 83.439, 'duration': 3.921}
+{'text': 'comes to treating certain types of', 'start': 85.68, 'duration': 4.479}
+{'text': 'mental disorders', 'start': 87.36, 'duration': 2.799}
+{'text': "um obviously we're just throwing people", 'start': 90.799, 'duration': 3.201}
+{'text': "into shocking them that's bad but the", 'start': 92.4, 'duration': 3.759}
+{'text': "whole therapy isn't bad", 'start': 94.0, 'duration': 3.92}
+{'text': 'against their will', 'start': 96.159, 'duration': 3.441}
+{'text': "yes he's saying it's bad but it's not", 'start': 97.92, 'duration': 3.199}
+{'text': "bad what's your", 'start': 99.6, 'duration': 3.199}
+{'text': "what's your evidence for that because it", 'start': 101.119, 'duration': 4.241}
+{'text': 'looks bad or psychiatric abuses of', 'start': 102.799, 'duration': 4.96}
+{'text': 'electric shocking people okay against', 'start': 105.36, 'duration': 5.119}
+{'text': 'their will of drugging children with', 'start': 107.759, 'duration': 4.241}
+{'text': 'them not knowing', 'start': 110.479, 'duration': 2.96}
+{'text': "we any drug you give your kid they're", 'start': 112.0, 'duration': 2.799}
+{'text': "not going to know that's not an argument", 'start': 113.439, 'duration': 3.04}
+{'text': "that's just like a collection of random", 'start': 114.799, 'duration': 3.28}
+{'text': "words like kids don't know anything", 'start': 116.479, 'duration': 3.201}
+{'text': 'about anything the question is whether', 'start': 118.079, 'duration': 2.961}
+{'text': 'or not the', 'start': 119.68, 'duration': 2.64}
+{'text': 'the treatment', 'start': 121.04, 'duration': 2.8}
+{'text': 'the therapy outweighs the um the', 'start': 122.32, 'duration': 2.96}
+{'text': 'therapeutic effects that way the side', 'start': 123.84, 'duration': 3.44}
+{'text': 'effects what a weird', 'start': 125.28, 'duration': 3.119}
+{'text': 'do you only give your children medicine', 'start': 127.28, 'duration': 2.24}
+{'text': 'if they understand all the side of their', 'start': 128.399, 'duration': 2.721}
+{'text': "children that's not how that's not how", 'start': 129.52, 'duration': 2.719}
+{'text': "that works otherwise we wouldn't send", 'start': 131.12, 'duration': 2.16}
+{'text': "them to school if they'd say they didn't", 'start': 132.239, 'duration': 2.08}
+{'text': 'want to go', 'start': 133.28, 'duration': 2.64}
+{'text': 'the effects of these drugs do you know', 'start': 134.319, 'duration': 3.761}
+{'text': 'what adderall is do you know ritalin do', 'start': 135.92, 'duration': 3.84}
+{'text': 'you know now that ritalin is a street', 'start': 138.08, 'duration': 4.56}
+{'text': 'drug xanax is a street drug just because', 'start': 139.76, 'duration': 4.4}
+{'text': "something is a street drug doesn't mean", 'start': 142.64, 'duration': 3.12}
+{'text': "it's not effective at doing something", 'start': 144.16, 'duration': 3.2}
+{'text': 'what it what what is the what is the', 'start': 145.76, 'duration': 3.28}
+{'text': "point of that it's like the first time", 'start': 147.36, 'duration': 3.68}
+{'text': 'somebody was like rudely is that an', 'start': 149.04, 'duration': 4.88}
+{'text': "amphetamine it's basically meth like", 'start': 151.04, 'duration': 4.88}
+{'text': "okay what's your point it's not it's not", 'start': 153.92, 'duration': 3.44}
+{'text': "an argument at all you're just it's just", 'start': 155.92, 'duration': 4.16}
+{'text': "like random words you're saying", 'start': 157.36, 'duration': 4.8}
+{'text': 'do you understand that the difference is', 'start': 160.08, 'duration': 3.439}
+{'text': 'this was not against matter of fact', 'start': 162.16, 'duration': 3.12}
+{'text': "though this wasn't an answering your", 'start': 163.519, 'duration': 3.121}
+{'text': "question matt i'm asking a question i", 'start': 165.28, 'duration': 3.52}
+{'text': "understand there's abuse of all of these", 'start': 166.64, 'duration': 4.08}
+{'text': "things no you see here's the problem you", 'start': 168.8, 'duration': 4.24}
+{'text': "don't know the history of psychiatry i", 'start': 170.72, 'duration': 5.519}
+{'text': 'do all it does is mask the problem matt', 'start': 173.04, 'duration': 4.8}
+{'text': 'and if you understand the history of it', 'start': 176.239, 'duration': 3.36}
+{'text': 'it masks the problem', 'start': 177.84, 'duration': 3.6}
+{'text': "that's what it does", 'start': 179.599, 'duration': 3.601}
+{'text': "that's all it does", 'start': 181.44, 'duration': 3.68}
+{'text': "you're not getting to the reason why", 'start': 183.2, 'duration': 3.92}
+{'text': 'there is no such thing as a chemical', 'start': 185.12, 'duration': 4.32}
+{'text': "imbalance and i'm saying that drugs", 'start': 187.12, 'duration': 4.399}
+{'text': "aren't the answer that these these drugs", 'start': 189.44, 'duration': 3.6}
+{'text': 'are i wonder if he believes for things', 'start': 191.519, 'duration': 3.36}
+{'text': 'like like schizophrenia or like', 'start': 193.04, 'duration': 3.279}
+{'text': "parkinson's disease does he think that", 'start': 194.879, 'duration': 2.72}
+{'text': 'these things', 'start': 196.319, 'duration': 2.801}
+{'text': "would do they i don't know like what his", 'start': 197.599, 'duration': 3.201}
+{'text': 'background is like what scientologist', 'start': 199.12, 'duration': 3.44}
+{'text': 'like some people believe that there is', 'start': 200.8, 'duration': 3.2}
+{'text': 'no such thing as like a disease of the', 'start': 202.56, 'duration': 3.039}
+{'text': "human body it's always like something is", 'start': 204.0, 'duration': 3.599}
+{'text': 'out of balance so like things even', 'start': 205.599, 'duration': 3.841}
+{'text': 'things like cancer are just caused by', 'start': 207.599, 'duration': 3.521}
+{'text': 'like imbalance and diet or lifestyle', 'start': 209.44, 'duration': 2.799}
+{'text': 'whatever i wonder if he believes that i', 'start': 211.12, 'duration': 2.32}
+{'text': "don't know", 'start': 212.239, 'duration': 3.881}
+{'text': "very dangerous they're mind altering", 'start': 213.44, 'duration': 5.359}
+{'text': 'antipsychotic drugs and there are ways', 'start': 216.12, 'duration': 4.44}
+{'text': 'of doing it without that so that we', 'start': 218.799, 'duration': 4.16}
+{'text': "don't end up in a brave new world yes", 'start': 220.56, 'duration': 4.8}
+{'text': 'there are abuses and if there are ways', 'start': 222.959, 'duration': 4.081}
+{'text': 'to do it without doing it then do it', 'start': 225.36, 'duration': 4.159}
+{'text': 'show it show us like show us how you do', 'start': 227.04, 'duration': 4.64}
+{'text': 'it do the research give us a study like', 'start': 229.519, 'duration': 3.601}
+{'text': "go like it's", 'start': 231.68, 'duration': 2.8}
+{'text': 'if there are ways to do things out of', 'start': 233.12, 'duration': 3.759}
+{'text': 'drugs that sounds awesome demonstrate it', 'start': 234.48, 'duration': 3.44}
+{'text': 'like', 'start': 236.879, 'duration': 2.56}
+{'text': "yes maybe they've gone too far in", 'start': 237.92, 'duration': 2.879}
+{'text': 'certain areas maybe there are too many', 'start': 239.439, 'duration': 3.52}
+{'text': 'kids on ritalin maybe electric shockers', 'start': 240.799, 'duration': 4.08}
+{'text': "kids on riddling that i'm just saying", 'start': 242.959, 'duration': 4.0}
+{'text': "but but aren't there examples where it", 'start': 244.879, 'duration': 3.28}
+{'text': 'works', 'start': 246.959, 'duration': 3.041}
+{'text': "you don't even you're glib you don't", 'start': 248.159, 'duration': 3.761}
+{'text': 'even know what ritalin is if you start', 'start': 250.0, 'duration': 3.76}
+{'text': 'talking about chemical imbalance you', 'start': 251.92, 'duration': 3.84}
+{'text': 'have to evaluate and read the research', 'start': 253.76, 'duration': 3.52}
+{'text': 'papers on how they came up with these', 'start': 255.76, 'duration': 4.8}
+{'text': "theories matt okay that's what i've done", 'start': 257.28, 'duration': 4.96}
+{'text': "you go and you say where's the where's", 'start': 260.56, 'duration': 3.52}
+{'text': "the medical test where's the blood test", 'start': 262.24, 'duration': 3.44}
+{'text': "that says how much ritalin you're", 'start': 264.08, 'duration': 2.88}
+{'text': 'supposed to get', 'start': 265.68, 'duration': 2.88}
+{'text': "you you're it's very impressive to", 'start': 266.96, 'duration': 2.88}
+{'text': "listen to you because clearly you've", 'start': 268.56, 'duration': 2.8}
+{'text': 'done the homework and and you know the', 'start': 269.84, 'duration': 2.96}
+{'text': "subject what do you mean clearly you've", 'start': 271.36, 'duration': 2.559}
+{'text': "done the homework you haven't pushed", 'start': 272.8, 'duration': 2.32}
+{'text': 'back on them or engaged with anything', 'start': 273.919, 'duration': 3.84}
+{'text': 'you said it sounds like', 'start': 275.12, 'duration': 4.48}
+{'text': "it sounds like you just haven't i mean", 'start': 277.759, 'duration': 3.601}
+{'text': 'like what', 'start': 279.6, 'duration': 3.84}
+{'text': 'and you should and you should do that', 'start': 281.36, 'duration': 4.0}
+{'text': 'also because just knowing people who are', 'start': 283.44, 'duration': 4.96}
+{'text': "on ritalin isn't enough", 'start': 285.36, 'duration': 4.0}
+{'text': 'that uh', 'start': 288.4, 'duration': 2.16}
+{'text': 'he', 'start': 289.36, 'duration': 2.64}
+{'text': "couldn't be more right about everything", 'start': 290.56, 'duration': 2.96}
+{'text': 'that he said', 'start': 292.0, 'duration': 2.88}
+{'text': 'also', 'start': 293.52, 'duration': 5.04}
+{'text': 'for matt the [\xa0__\xa0] here', 'start': 294.88, 'duration': 3.68}
+{'text': "let's say that you have a body of", 'start': 300.8, 'duration': 3.839}
+{'text': "scientific literature that's pointing in", 'start': 302.56, 'duration': 4.8}
+{'text': 'this direction', 'start': 304.639, 'duration': 2.721}
+{'text': 'that says the answer is a', 'start': 308.8, 'duration': 5.04}
+{'text': "and then let's say that over here", 'start': 311.759, 'duration': 3.761}
+{'text': 'we have an answer of b but we have no', 'start': 313.84, 'duration': 2.96}
+{'text': 'supporting papers for we have no', 'start': 315.52, 'duration': 3.2}
+{'text': 'supporting research', 'start': 316.8, 'duration': 3.52}
+{'text': "if you're standing", 'start': 318.72, 'duration': 3.6}
+{'text': 'on the hilltop screaming the answer is b', 'start': 320.32, 'duration': 3.599}
+{'text': "the answers b the answers b but there's", 'start': 322.32, 'duration': 3.68}
+{'text': 'no research to support you and then one', 'start': 323.919, 'duration': 3.761}
+{'text': 'day through more and more and more', 'start': 326.0, 'duration': 4.0}
+{'text': 'research it comes time to see that oh b', 'start': 327.68, 'duration': 3.92}
+{'text': "is actually true that doesn't mean you", 'start': 330.0, 'duration': 2.8}
+{'text': 'were right', 'start': 331.6, 'duration': 4.08}
+{'text': "that's that's not how that works", 'start': 332.8, 'duration': 5.36}
+{'text': 'getting to the right answer without any', 'start': 335.68, 'duration': 4.799}
+{'text': 'tried or tested methodology or any like', 'start': 338.16, 'duration': 4.4}
+{'text': "rational basis to get there it doesn't", 'start': 340.479, 'duration': 3.761}
+{'text': 'mean that you were ever right it means', 'start': 342.56, 'duration': 4.079}
+{'text': "you got lucky on a thing once this isn't", 'start': 344.24, 'duration': 4.399}
+{'text': "that's not this isn't how any", 'start': 346.639, 'duration': 4.161}
+{'text': 'um', 'start': 348.639, 'duration': 3.361}
+{'text': '[\xa0__\xa0] i wonder if we should start talking', 'start': 350.8, 'duration': 3.76}
+{'text': 'about um', 'start': 352.0, 'duration': 2.56}
+{'text': 'if i say justif justify true belief is', 'start': 355.759, 'duration': 4.241}
+{'text': 'this do people still use this theory of', 'start': 358.479, 'duration': 3.121}
+{'text': 'truth are there other things that people', 'start': 360.0, 'duration': 2.8}
+{'text': "i don't know if it's like outdated that", 'start': 361.6, 'duration': 3.28}
+{'text': 'they still wins', 'start': 362.8, 'duration': 5.04}
+{'text': 'um', 'start': 364.88, 'duration': 2.96}
+{'text': "there's like a couple things necessary", 'start': 368.08, 'duration': 2.959}
+{'text': 'for you to say that you have knowledge', 'start': 369.759, 'duration': 2.801}
+{'text': 'of something and just like saying like', 'start': 371.039, 'duration': 4.16}
+{'text': "oh there's a person behind the couch", 'start': 372.56, 'duration': 4.56}
+{'text': 'and you um yeah i think jtp may not be', 'start': 375.199, 'duration': 3.12}
+{'text': 'scary like if you walk into it and', 'start': 377.12, 'duration': 2.32}
+{'text': "you're like there's a person behind that", 'start': 378.319, 'duration': 2.481}
+{'text': "couch and somebody's like really like", 'start': 379.44, 'duration': 3.36}
+{'text': 'yeah there is i know', 'start': 380.8, 'duration': 3.6}
+{'text': "and you just you're guessing you have no", 'start': 382.8, 'duration': 4.399}
+{'text': '[\xa0__\xa0] idea um and it turns out there', 'start': 384.4, 'duration': 4.72}
+{'text': "is a perspective you'll be like oh see i", 'start': 387.199, 'duration': 3.201}
+{'text': 'was right it was a really good guess by', 'start': 389.12, 'duration': 3.12}
+{'text': "me it was a really good like no that's", 'start': 390.4, 'duration': 5.239}
+{'text': 'not how it works', 'start': 392.24, 'duration': 3.399}
+{'text': 'and what he says there at the end though', 'start': 398.24, 'duration': 3.36}
+{'text': 'well just because you know someone on', 'start': 400.08, 'duration': 4.32}
+{'text': 'this drug and you say rjtb is better i', 'start': 401.6, 'duration': 5.76}
+{'text': 'wonder if we should um', 'start': 404.4, 'duration': 4.88}
+{'text': 'what is rational justified trouble what', 'start': 407.36, 'duration': 3.76}
+{'text': 'does the r stand for', 'start': 409.28, 'duration': 3.52}
+{'text': "i'm familiar with the gettier objections", 'start': 411.12, 'duration': 3.44}
+{'text': "to jtb i just don't know what replaced", 'start': 412.8, 'duration': 3.36}
+{'text': 'it', 'start': 414.56, 'duration': 3.359}
+{'text': 'because you can have a justification for', 'start': 416.16, 'duration': 3.28}
+{'text': 'a belief and the belief ends up being', 'start': 417.919, 'duration': 2.881}
+{'text': 'true and you do have the justification', 'start': 419.44, 'duration': 2.8}
+{'text': 'but it was the improper justification', 'start': 420.8, 'duration': 2.48}
+{'text': 'even though the belief ended up being', 'start': 422.24, 'duration': 2.32}
+{'text': "true there's like a way there's like i", 'start': 423.28, 'duration': 3.759}
+{'text': 'think these are called gettier problems', 'start': 424.56, 'duration': 4.16}
+{'text': "i'll have two honey ales please one for", 'start': 427.039, 'duration': 3.841}
+{'text': 'me one for the lady if you can call me', 'start': 428.72, 'duration': 5.039}
+{'text': 'that coming right up', 'start': 430.88, 'duration': 4.56}
+{'text': 'how are you doing', 'start': 433.759, 'duration': 5.521}
+{'text': '[\xa0__\xa0] drugger looking son of a [\xa0__\xa0]', 'start': 435.44, 'duration': 3.84}
+{'text': '[Music]', 'start': 439.29, 'duration': 4.07}
+{'text': 'nancy', 'start': 442.0, 'duration': 3.199}
+{'text': '[Music]', 'start': 443.36, 'duration': 4.239}
+{'text': 'nancy pelosi', 'start': 445.199, 'duration': 6.361}
+{'text': "i'll have 200 what", 'start': 447.599, 'duration': 3.961}
+{'text': 'that destiny', 'start': 452.0, 'duration': 2.88}
+{'text': 'do you this is somewhat of a thing', 'start': 454.96, 'duration': 2.0}
+{'text': 'because every theory of truth has', 'start': 455.919, 'duration': 2.72}
+{'text': 'problems oh well', 'start': 456.96, 'duration': 2.88}
+{'text': "don't i don't know why we click that", 'start': 458.639, 'duration': 2.56}
+{'text': 'okay', 'start': 459.84, 'duration': 3.199}
+{'text': "that's that's not enough to declare that", 'start': 461.199, 'duration': 3.68}
+{'text': 'the drugs should be prescribed or that', 'start': 463.039, 'duration': 3.84}
+{'text': 'they work say it works', 'start': 464.879, 'duration': 3.841}
+{'text': 'and what he says there at the end though', 'start': 466.879, 'duration': 3.361}
+{'text': 'well just because you know someone on', 'start': 468.72, 'duration': 2.8}
+{'text': 'this drug and you say it works now', 'start': 470.24, 'duration': 3.2}
+{'text': "that's that's not enough to declare that", 'start': 471.52, 'duration': 3.76}
+{'text': 'the drugs should be prescribed or that', 'start': 473.44, 'duration': 3.84}
+{'text': 'they work', 'start': 475.28, 'duration': 4.4}
+{'text': "but that's always been the response", 'start': 477.28, 'duration': 3.68}
+{'text': 'right you what matt lauer there matt', 'start': 479.68, 'duration': 3.12}
+{'text': "lauer wait hold on that hasn't always", 'start': 480.96, 'duration': 3.2}
+{'text': 'been the response the response has', 'start': 482.8, 'duration': 2.72}
+{'text': 'always been like growing bodies of', 'start': 484.16, 'duration': 2.64}
+{'text': 'literature that have been comparing', 'start': 485.52, 'duration': 4.16}
+{'text': 'these drugs and rcts', 'start': 486.8, 'duration': 5.44}
+{'text': "to to placebos that's how you know now", 'start': 489.68, 'duration': 3.68}
+{'text': "that maybe they're not as effective", 'start': 492.24, 'duration': 3.519}
+{'text': 'because of more trials with rctp with', 'start': 493.36, 'duration': 5.279}
+{'text': "rcts i don't understand why why do why", 'start': 495.759, 'duration': 4.401}
+{'text': 'is it okay', 'start': 498.639, 'duration': 2.801}
+{'text': 'like you have years of scientific', 'start': 500.16, 'duration': 2.479}
+{'text': 'literature pointing to the fact that', 'start': 501.44, 'duration': 3.12}
+{'text': 'like certain drugs might be efficacious', 'start': 502.639, 'duration': 3.84}
+{'text': "and they're like that's fake but then", 'start': 504.56, 'duration': 4.24}
+{'text': "one pretty big study maybe maybe it'll", 'start': 506.479, 'duration': 3.44}
+{'text': 'be a turning point comes out and says', 'start': 508.8, 'duration': 2.32}
+{'text': "well maybe they don't work as well as we", 'start': 509.919, 'duration': 2.401}
+{'text': "thought and now you're like oh now the", 'start': 511.12, 'duration': 2.64}
+{'text': 'science is real how do you pick and', 'start': 512.32, 'duration': 2.8}
+{'text': 'choose my dude', 'start': 513.76, 'duration': 3.36}
+{'text': 'i thought did a very good job of playing', 'start': 515.12, 'duration': 5.279}
+{'text': 'the role of the kind of hapless', 'start': 517.12, 'duration': 6.0}
+{'text': 'uh uninformed person', 'start': 520.399, 'duration': 4.401}
+{'text': 'who has dipped their toe into this issue', 'start': 523.12, 'duration': 2.96}
+{'text': 'and has a lot of annex has a few', 'start': 524.8, 'duration': 3.44}
+{'text': 'anecdotal stories and then main and then', 'start': 526.08, 'duration': 3.28}
+{'text': 'kind of goes along with the mainstream', 'start': 528.24, 'duration': 2.719}
+{'text': "narrative because of it he's playing", 'start': 529.36, 'duration': 3.039}
+{'text': 'that role you know', 'start': 530.959, 'duration': 3.201}
+{'text': "uh convincingly because that's who he", 'start': 532.399, 'duration': 3.44}
+{'text': 'actually is and was it still is', 'start': 534.16, 'duration': 2.72}
+{'text': 'presumably', 'start': 535.839, 'duration': 2.0}
+{'text': 'but everything you heard from out loud', 'start': 536.88, 'duration': 2.24}
+{'text': "and exchanges like i've heard the same", 'start': 537.839, 'duration': 3.761}
+{'text': 'thing so many times over the years', 'start': 539.12, 'duration': 3.839}
+{'text': 'you you make all these points you have', 'start': 541.6, 'duration': 3.04}
+{'text': 'data and research about the the', 'start': 542.959, 'duration': 3.041}
+{'text': 'medicines that these the so-called', 'start': 544.64, 'duration': 3.84}
+{'text': 'medicines that the pharma is giving out', 'start': 546.0, 'duration': 4.24}
+{'text': 'um about the psychiatric industry the', 'start': 548.48, 'duration': 4.479}
+{'text': 'way they go about these these issues', 'start': 550.24, 'duration': 4.0}
+{'text': 'you you have your criticisms that are', 'start': 552.959, 'duration': 2.961}
+{'text': 'well thought out are you still going to', 'start': 554.24, 'duration': 3.52}
+{'text': "watch matt walsh's what is a woman also", 'start': 555.92, 'duration': 4.16}
+{'text': 'i love you yeah probably at some point', 'start': 557.76, 'duration': 3.759}
+{'text': 'based on the data and then what you', 'start': 560.08, 'duration': 2.72}
+{'text': 'always get in response is yeah but i', 'start': 561.519, 'duration': 3.041}
+{'text': 'know someone', 'start': 562.8, 'duration': 3.36}
+{'text': 'i know someone who felt better with it', 'start': 564.56, 'duration': 3.52}
+{'text': 'who says this do people actually argue', 'start': 566.16, 'duration': 4.56}
+{'text': 'this way god this', 'start': 568.08, 'duration': 5.12}
+{'text': "hold on i gotta i don't okay i can't be", 'start': 570.72, 'duration': 3.6}
+{'text': 'completely unhinged because if i ever', 'start': 573.2, 'duration': 2.079}
+{'text': 'have a chance to debate these people', 'start': 574.32, 'duration': 2.56}
+{'text': "they'll run away if i'm super hinged", 'start': 575.279, 'duration': 3.201}
+{'text': 'matt walsh is not an intelligent person', 'start': 576.88, 'duration': 2.959}
+{'text': "i don't know how he gets away with like", 'start': 578.48, 'duration': 2.32}
+{'text': 'presenting himself as like an', 'start': 579.839, 'duration': 3.361}
+{'text': "intellectual he's very dumb", 'start': 580.8, 'duration': 4.159}
+{'text': "um it's really irritating to talk about", 'start': 583.2, 'duration': 4.0}
+{'text': 'anything jesus', 'start': 584.959, 'duration': 4.0}
+{'text': 'and then well it might be over-diagnosed', 'start': 587.2, 'duration': 3.92}
+{'text': 'certainly', 'start': 588.959, 'duration': 3.601}
+{'text': 'and you you hand weight just by by', 'start': 591.12, 'duration': 2.88}
+{'text': 'saying by with the', 'start': 592.56, 'duration': 2.88}
+{'text': 'acknowledgement that it might be over', 'start': 594.0, 'duration': 3.76}
+{'text': 'diagnosed you hand wave away 65 million', 'start': 595.44, 'duration': 4.8}
+{'text': 'people on psychiatric medication', 'start': 597.76, 'duration': 3.84}
+{'text': "kind of like when you're like yeah i had", 'start': 600.24, 'duration': 2.88}
+{'text': 'a friend who took ivermectin and he got', 'start': 601.6, 'duration': 2.96}
+{'text': 'better', 'start': 603.12, 'duration': 2.8}
+{'text': 'i have a friend that did the 1000', 'start': 604.56, 'duration': 3.04}
+{'text': 'milligram super shot of vitamin c and he', 'start': 605.92, 'duration': 3.2}
+{'text': 'gets cured of his flu in one day hot', 'start': 607.6, 'duration': 2.799}
+{'text': 'like dude', 'start': 609.12, 'duration': 3.04}
+{'text': "i'm pretty sure conservatives argue from", 'start': 610.399, 'duration': 3.281}
+{'text': 'this perspective more than people on the', 'start': 612.16, 'duration': 3.28}
+{'text': 'left do not to say that nobody else does', 'start': 613.68, 'duration': 3.12}
+{'text': 'it but like conservatives argue this', 'start': 615.44, 'duration': 4.399}
+{'text': 'type of [\xa0__\xa0] all the time', 'start': 616.8, 'duration': 3.039}
+{'text': 'and tom cruise again has been', 'start': 620.8, 'duration': 3.68}
+{'text': 'mocked for that ruthlessly ever since he', 'start': 622.8, 'duration': 3.12}
+{'text': 'was 100 right', 'start': 624.48, 'duration': 3.2}
+{'text': 'tom cruise is probably mocked because', 'start': 625.92, 'duration': 3.44}
+{'text': 'his foundation of knowledge comes from', 'start': 627.68, 'duration': 3.92}
+{'text': 'scientology where he has an entire', 'start': 629.36, 'duration': 3.84}
+{'text': "framework that's built out to say that", 'start': 631.6, 'duration': 3.12}
+{'text': 'like certain diseases are caused or not', 'start': 633.2, 'duration': 3.12}
+{'text': 'caused by some weird [\xa0__\xa0] energies', 'start': 634.72, 'duration': 3.2}
+{'text': "that's probably why trump cruz gets", 'start': 636.32, 'duration': 3.68}
+{'text': "mocked not because he's questioning the", 'start': 637.92, 'duration': 3.28}
+{'text': "scientific literature there's always", 'start': 640.0, 'duration': 2.8}
+{'text': 'been questions about ssris and', 'start': 641.2, 'duration': 5.52}
+{'text': 'antipsychotics and other types of like', 'start': 642.8, 'duration': 5.44}
+{'text': 'drugs that are used to treat people for', 'start': 646.72, 'duration': 2.88}
+{'text': 'for these different mental illnesses', 'start': 648.24, 'duration': 2.719}
+{'text': "like they've always been questions", 'start': 649.6, 'duration': 5.04}
+{'text': "that's why there's ongoing research like", 'start': 650.959, 'duration': 3.681}
+{'text': 'now', 'start': 655.36, 'duration': 3.76}
+{'text': 'tom cruise is a scientologist', 'start': 656.399, 'duration': 4.161}
+{'text': 'and as people have pointed out online of', 'start': 659.12, 'duration': 3.36}
+{'text': 'the last day or two', 'start': 660.56, 'duration': 3.279}
+{'text': "that well this doesn't vindicate tom", 'start': 662.48, 'duration': 3.2}
+{'text': "cruise because he's a scientologist and", 'start': 663.839, 'duration': 4.161}
+{'text': 'his criticism psychiatry are rooted in', 'start': 665.68, 'duration': 4.24}
+{'text': 'scientology oh [\xa0__\xa0] and the part that he', 'start': 668.0, 'duration': 3.6}
+{'text': "doesn't say is that yeah modern", 'start': 669.92, 'duration': 3.12}
+{'text': "psychiatry is flawed you shouldn't take", 'start': 671.6, 'duration': 2.72}
+{'text': 'these drugs you should be a', 'start': 673.04, 'duration': 2.64}
+{'text': "scientologist instead that's the party", 'start': 674.32, 'duration': 2.4}
+{'text': "doesn't say the interview but yet but", 'start': 675.68, 'duration': 1.92}
+{'text': "that's what he means that's what he's", 'start': 676.72, 'duration': 2.64}
+{'text': 'leading to and you might be right about', 'start': 677.6, 'duration': 2.64}
+{'text': "that in fact you probably aren't whether", 'start': 679.36, 'duration': 2.32}
+{'text': 'he is a scientologist and yeah okay so', 'start': 680.24, 'duration': 2.8}
+{'text': "you're right about that", 'start': 681.68, 'duration': 2.56}
+{'text': "it doesn't change the fact that what he", 'start': 683.04, 'duration': 2.96}
+{'text': 'says there is true', 'start': 684.24, 'duration': 4.159}
+{'text': 'and the fact that the kooky crazy', 'start': 686.0, 'duration': 4.079}
+{'text': 'scientologist', 'start': 688.399, 'duration': 4.56}
+{'text': 'has more insight into this issue and', 'start': 690.079, 'duration': 3.921}
+{'text': 'makes', 'start': 692.959, 'duration': 3.44}
+{'text': 'what do you', 'start': 694.0, 'duration': 2.399}
+{'text': 'oh man', 'start': 697.36, 'duration': 3.76}
+{'text': 'the fact what does he think insight', 'start': 699.44, 'duration': 4.399}
+{'text': 'means', 'start': 701.12, 'duration': 4.24}
+{'text': "let's say you have like a religious dude", 'start': 703.839, 'duration': 2.881}
+{'text': 'that shows up or a spiritual guy that', 'start': 705.36, 'duration': 3.12}
+{'text': 'shows up to some like fair and he', 'start': 706.72, 'duration': 3.04}
+{'text': "decides that he's not going to eat any", 'start': 708.48, 'duration': 2.799}
+{'text': "food that's colored orange because he", 'start': 709.76, 'duration': 3.519}
+{'text': 'thinks orange is bad for the body and', 'start': 711.279, 'duration': 3.281}
+{'text': 'then it turns out that there was like', 'start': 713.279, 'duration': 3.281}
+{'text': 'some food poisoning thing with like a', 'start': 714.56, 'duration': 4.56}
+{'text': 'hamburger bun and somebody got sick', 'start': 716.56, 'duration': 4.16}
+{'text': 'like would you would you actually say', 'start': 719.12, 'duration': 3.519}
+{'text': 'that like wow the guy with the the guy', 'start': 720.72, 'duration': 3.28}
+{'text': "that didn't eat orange food had more", 'start': 722.639, 'duration': 2.721}
+{'text': "insight into the problem that's not what", 'start': 724.0, 'duration': 4.16}
+{'text': 'insight means my dude stumbling around', 'start': 725.36, 'duration': 4.479}
+{'text': 'in the dark into a correct answer', 'start': 728.16, 'duration': 3.28}
+{'text': "because you get lucky isn't that's not", 'start': 729.839, 'duration': 4.161}
+{'text': 'insightful', 'start': 731.44, 'duration': 2.56}
+{'text': 'more sense', 'start': 735.2, 'duration': 4.079}
+{'text': 'than most other people talking about it', 'start': 737.44, 'duration': 3.6}
+{'text': 'the fact that the scientologist makes', 'start': 739.279, 'duration': 3.201}
+{'text': 'more sense than most of this happening', 'start': 741.04, 'duration': 2.96}
+{'text': "is orange i don't know orange hamburger", 'start': 742.48, 'duration': 3.919}
+{'text': 'but brown orange whatever psychiatrists', 'start': 744.0, 'duration': 4.399}
+{'text': 'and big pharma executives on this issue', 'start': 746.399, 'duration': 4.081}
+{'text': "um that's not embarrassing", 'start': 748.399, 'duration': 3.12}
+{'text': 'for those of us who agree with tom', 'start': 750.48, 'duration': 2.479}
+{'text': "cruise that's embarrassing for the rest", 'start': 751.519, 'duration': 2.32}
+{'text': 'of you', 'start': 752.959, 'duration': 2.241}
+{'text': 'that tom cruise is smarter than you on', 'start': 753.839, 'duration': 2.321}
+{'text': 'this', 'start': 755.2, 'duration': 3.92}
+{'text': 'on this subject', 'start': 756.16, 'duration': 4.32}
+{'text': 'like if you disagree with tom cruise on', 'start': 759.12, 'duration': 2.08}
+{'text': 'that', 'start': 760.48, 'duration': 2.96}
+{'text': 'and then and tom cruise is vindicated', 'start': 761.2, 'duration': 3.52}
+{'text': 'you should you should look at yourself', 'start': 763.44, 'duration': 2.959}
+{'text': 'and and ask yourself well how did the', 'start': 764.72, 'duration': 2.96}
+{'text': 'scientologist get this right and i', 'start': 766.399, 'duration': 2.641}
+{'text': "didn't", 'start': 767.68, 'duration': 4.399}
+{'text': 'that should be the wake-up call', 'start': 769.04, 'duration': 5.68}
+{'text': 'my god', 'start': 772.079, 'duration': 2.641}
+{'text': 'who do you think is dumber crowder or', 'start': 775.12, 'duration': 2.719}
+{'text': 'matt walsh', 'start': 776.639, 'duration': 3.681}
+{'text': 'i like', 'start': 777.839, 'duration': 2.481}
+{'text': "i i i just i haven't seen as much matt", 'start': 781.92, 'duration': 4.56}
+{'text': 'walsh', 'start': 785.36, 'duration': 4.32}
+{'text': 'but he he seems incredibly incredibly', 'start': 786.48, 'duration': 4.159}
+{'text': 'stupid', 'start': 789.68, 'duration': 3.839}
+{'text': 'um crowder seems kind of dumb but like', 'start': 790.639, 'duration': 5.281}
+{'text': 'standard conservative dumb but like i', 'start': 793.519, 'duration': 3.281}
+{'text': "maybe i'm just getting the wrong", 'start': 795.92, 'duration': 2.24}
+{'text': 'impression i feel like matt walsh', 'start': 796.8, 'duration': 2.64}
+{'text': 'presents himself as a big like', 'start': 798.16, 'duration': 3.04}
+{'text': "intellectual i don't feel like crowder", 'start': 799.44, 'duration': 3.519}
+{'text': 'does that crowder feels like a guy that', 'start': 801.2, 'duration': 2.96}
+{'text': "presents himself like oh you know i'm", 'start': 802.959, 'duration': 2.32}
+{'text': 'just a conservative i like to ask', 'start': 804.16, 'duration': 3.52}
+{'text': 'questions and blah blah blah so like', 'start': 805.279, 'duration': 4.081}
+{'text': "where crowder's intelligence is i don't", 'start': 807.68, 'duration': 3.279}
+{'text': 'think is that far off what he kind of', 'start': 809.36, 'duration': 2.719}
+{'text': 'presents himself as although obviously', 'start': 810.959, 'duration': 3.12}
+{'text': 'he presents itself as being correct but', 'start': 812.079, 'duration': 3.2}
+{'text': 'um', 'start': 814.079, 'duration': 3.121}
+{'text': 'matt walsh every time i see him it feels', 'start': 815.279, 'duration': 4.0}
+{'text': "like he's got like a like a", 'start': 817.2, 'duration': 4.16}
+{'text': "some stick of his ass he's like i am the", 'start': 819.279, 'duration': 3.441}
+{'text': 'intellectual here to tell you the truth', 'start': 821.36, 'duration': 4.0}
+{'text': "or whatever and he's so his reasoning on", 'start': 822.72, 'duration': 5.119}
+{'text': "things is so flawed sometimes i'm like", 'start': 825.36, 'duration': 4.08}
+{'text': 'what are you even saying', 'start': 827.839, 'duration': 3.761}
+{'text': "it's", 'start': 829.44, 'duration': 2.16}
+{'text': 'what does it say to you that this guy', 'start': 831.68, 'duration': 3.2}
+{'text': 'that won the lottery had more insight', 'start': 833.12, 'duration': 4.0}
+{'text': 'into how to be rich it was like wait', 'start': 834.88, 'duration': 3.68}
+{'text': 'what because he got lucky when the', 'start': 837.12, 'duration': 2.719}
+{'text': "lottery that's", 'start': 838.56, 'duration': 2.56}
+{'text': "that's not any that's not any of those", 'start': 839.839, 'duration': 4.0}
+{'text': 'words mean', 'start': 841.12, 'duration': 2.719}

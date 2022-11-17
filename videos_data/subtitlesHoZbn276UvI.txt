@@ -1,0 +1,437 @@
+{'text': 'okay good luck so your antibodies are', 'start': 0.08, 'duration': 5.04}
+{'text': 'probably better at that point than the', 'start': 2.72, 'duration': 3.679}
+{'text': 'vaccination', 'start': 5.12, 'duration': 3.76}
+{'text': 'nick carl is an experienced bio', 'start': 6.399, 'duration': 4.561}
+{'text': "yoku i think i'm gonna watch this on", 'start': 8.88, 'duration': 3.36}
+{'text': "full screen i'm too triggered to place", 'start': 10.96, 'duration': 4.08}
+{'text': "in the background now i'm", 'start': 12.24, 'duration': 2.8}
+{'text': 'okay', 'start': 15.599, 'duration': 3.361}
+{'text': 'um your antibodies are probably better', 'start': 16.96, 'duration': 3.68}
+{'text': 'than the vaccine but', 'start': 18.96, 'duration': 3.28}
+{'text': 'that what is this an argument for you', 'start': 20.64, 'duration': 2.879}
+{'text': 'have to get sick to have the antibodies', 'start': 22.24, 'duration': 2.799}
+{'text': "if you don't get vaccinated i mean if", 'start': 23.519, 'duration': 3.041}
+{'text': 'would you rather get sick than just get', 'start': 25.039, 'duration': 3.921}
+{'text': 'vaccinated', 'start': 26.56, 'duration': 2.4}
+{'text': "i don't know what the point of this is", 'start': 29.039, 'duration': 2.881}
+{'text': "the statement doesn't mean anything", 'start': 30.08, 'duration': 3.44}
+{'text': 'then the vaccination', 'start': 31.92, 'duration': 3.84}
+{'text': 'nick carl is an experienced biochemist', 'start': 33.52, 'duration': 3.84}
+{'text': 'at pfizer with a history of working the', 'start': 35.76, 'duration': 3.84}
+{'text': 'pharmaceutical industry nick admits to', 'start': 37.36, 'duration': 4.32}
+{'text': 'our undercover journalists that those', 'start': 39.6, 'duration': 5.52}
+{'text': "who've had covid have stronger immunity", 'start': 41.68, 'duration': 4.64}
+{'text': 'than those', 'start': 45.12, 'duration': 2.16}
+{'text': "that's not that's not no one is", 'start': 46.32, 'duration': 2.32}
+{'text': 'admitting that everybody said that the', 'start': 47.28, 'duration': 2.64}
+{'text': "entire time i'm pretty sure most of the", 'start': 48.64, 'duration': 2.88}
+{'text': "research that's come out has shown that", 'start': 49.92, 'duration': 3.2}
+{'text': 'having the actual exposure to the virus', 'start': 51.52, 'duration': 2.879}
+{'text': 'gives you more immunity than just a', 'start': 53.12, 'duration': 2.48}
+{'text': 'vaccination', 'start': 54.399, 'duration': 3.201}
+{'text': "but like i'm pretty sure there's also if", 'start': 55.6, 'duration': 3.599}
+{'text': 'you had exposure to the virus and some', 'start': 57.6, 'duration': 2.72}
+{'text': 'months have passed and then you get', 'start': 59.199, 'duration': 2.801}
+{'text': 'vaccinated you have even more immunity', 'start': 60.32, 'duration': 4.559}
+{'text': 'like just because um just because you', 'start': 62.0, 'duration': 4.0}
+{'text': 'get', 'start': 64.879, 'duration': 3.361}
+{'text': 'more immunity by getting the actual', 'start': 66.0, 'duration': 4.159}
+{'text': "infection doesn't mean you shouldn't get", 'start': 68.24, 'duration': 3.44}
+{'text': "vast one if you've been infected and two", 'start': 70.159, 'duration': 2.561}
+{'text': "definitely if you haven't been affected", 'start': 71.68, 'duration': 2.479}
+{'text': "like it's that", 'start': 72.72, 'duration': 2.719}
+{'text': 'the point is that the mainstream says', 'start': 74.159, 'duration': 2.561}
+{'text': 'that you still need to get vast even if', 'start': 75.439, 'duration': 2.561}
+{'text': 'you had it for months i mean yeah you', 'start': 76.72, 'duration': 2.56}
+{'text': "still should get vac there's literally", 'start': 78.0, 'duration': 4.4}
+{'text': 'no reason not to it still helps but', 'start': 79.28, 'duration': 4.32}
+{'text': "can't you still get vaccinated and then", 'start': 82.4, 'duration': 3.2}
+{'text': "get exposure when you get it sure it's", 'start': 83.6, 'duration': 3.6}
+{'text': 'possible but', 'start': 85.6, 'duration': 5.04}
+{'text': 'received the pfizer covet vaccine when', 'start': 87.2, 'duration': 5.52}
+{'text': 'somebody is', 'start': 90.64, 'duration': 3.76}
+{'text': 'naturally', 'start': 92.72, 'duration': 2.8}
+{'text': 'immune', 'start': 94.4, 'duration': 4.719}
+{'text': 'like they got covered', 'start': 95.52, 'duration': 3.599}
+{'text': 'they probably have better', 'start': 99.36, 'duration': 4.96}
+{'text': 'like not better but more antibodies', 'start': 101.68, 'duration': 4.56}
+{'text': 'against the violence', 'start': 104.32, 'duration': 3.439}
+{'text': 'because', 'start': 106.24, 'duration': 4.159}
+{'text': 'what the vaccine is is like i said that', 'start': 107.759, 'duration': 6.0}
+{'text': "protein so that's just on the other", 'start': 110.399, 'duration': 6.08}
+{'text': "so it's just one antibody against one", 'start': 113.759, 'duration': 5.201}
+{'text': 'specific part of the virus when you', 'start': 116.479, 'duration': 4.721}
+{'text': "actually get the virus you're going to", 'start': 118.96, 'duration': 4.159}
+{'text': 'start producing antibodies against like', 'start': 121.2, 'duration': 4.72}
+{'text': 'multiple pieces of virus and', 'start': 123.119, 'duration': 5.041}
+{'text': 'not only just like that outside portion', 'start': 125.92, 'duration': 5.28}
+{'text': 'like the inside portion the actual virus', 'start': 128.16, 'duration': 5.28}
+{'text': 'so your antibodies are probably better', 'start': 131.2, 'duration': 5.65}
+{'text': 'at that point than the vaccination', 'start': 133.44, 'duration': 6.24}
+{'text': '[Music]', 'start': 136.85, 'duration': 4.99}
+{'text': "but don't take his word for it to others", 'start': 139.68, 'duration': 4.559}
+{'text': "this isn't like this isn't breaking or", 'start': 141.84, 'duration': 5.36}
+{'text': "this isn't like an expose like", 'start': 144.239, 'duration': 5.041}
+{'text': 'this everybody knows this', 'start': 147.2, 'duration': 3.679}
+{'text': "i don't understand what the", 'start': 149.28, 'duration': 5.12}
+{'text': 'what this is supposed to be exposing', 'start': 150.879, 'duration': 3.521}
+{'text': 'pfizer scientists echo the same', 'start': 154.8, 'duration': 5.04}
+{'text': 'sentiment so i mean well protected', 'start': 157.04, 'duration': 4.96}
+{'text': 'like as much as the vaccine probably', 'start': 159.84, 'duration': 2.88}
+{'text': 'more', 'start': 162.0, 'duration': 4.239}
+{'text': "how so like how much more you're", 'start': 162.72, 'duration': 5.44}
+{'text': 'protected', 'start': 166.239, 'duration': 4.481}
+{'text': 'most likely for laundry since there was', 'start': 168.16, 'duration': 5.2}
+{'text': "a natural response we're like bred and", 'start': 170.72, 'duration': 4.48}
+{'text': 'taught to be like', 'start': 173.36, 'duration': 2.56}
+{'text': 'like', 'start': 175.2, 'duration': 3.119}
+{'text': 'vaccine is safer than than actually', 'start': 175.92, 'duration': 4.399}
+{'text': 'getting coco you cannot like talk about', 'start': 178.319, 'duration': 4.401}
+{'text': "this well wait but that's probably true", 'start': 180.319, 'duration': 4.161}
+{'text': "you'd probably rather get vaccinated", 'start': 182.72, 'duration': 5.04}
+{'text': 'than have the coronavirus right', 'start': 184.48, 'duration': 4.479}
+{'text': "what is the implication here you'd", 'start': 187.76, 'duration': 2.8}
+{'text': 'rather get the virus than just get', 'start': 188.959, 'duration': 4.481}
+{'text': 'vaccinated or', 'start': 190.56, 'duration': 2.88}
+{'text': 'public if you have antibodies built up', 'start': 195.04, 'duration': 3.6}
+{'text': 'like you should be able to prove that', 'start': 197.44, 'duration': 4.079}
+{'text': 'you have those built up i mean i still', 'start': 198.64, 'duration': 5.04}
+{'text': "can't you you can get a blood test for", 'start': 201.519, 'duration': 4.241}
+{'text': 'antibody it was one of the ways that um', 'start': 203.68, 'duration': 3.919}
+{'text': 'early on in the pandemic if you were', 'start': 205.76, 'duration': 3.199}
+{'text': 'infected you can actually go and get a', 'start': 207.599, 'duration': 2.481}
+{'text': "blood test it shows you've had a prior", 'start': 208.959, 'duration': 2.801}
+{'text': 'infection', 'start': 210.08, 'duration': 3.28}
+{'text': 'like i work for like', 'start': 211.76, 'duration': 4.399}
+{'text': "an evil corporation we're trying to", 'start': 213.36, 'duration': 4.64}
+{'text': "keep track of everyone that's been", 'start': 216.159, 'duration': 3.521}
+{'text': 'vaccinated versus', 'start': 218.0, 'duration': 4.239}
+{'text': 'the census of how many people', 'start': 219.68, 'duration': 8.0}
+{'text': 'are actually reported basically our', 'start': 222.239, 'duration': 8.161}
+{'text': 'organization is run on covet money now', 'start': 227.68, 'duration': 4.72}
+{'text': "you don't talk about anything that can", 'start': 230.4, 'duration': 3.6}
+{'text': 'possibly', 'start': 232.4, 'duration': 4.08}
+{'text': "implicate you or like i don't know what", 'start': 234.0, 'duration': 4.0}
+{'text': "any of these sentences mean i don't know", 'start': 236.48, 'duration': 2.959}
+{'text': "why i'm getting like cut sentence cut", 'start': 238.0, 'duration': 2.72}
+{'text': "sentence they're all about different", 'start': 239.439, 'duration': 2.561}
+{'text': "topics i don't know i'm supposed to take", 'start': 240.72, 'duration': 4.159}
+{'text': 'away from any of this', 'start': 242.0, 'duration': 2.879}
+{'text': 'like even if you shut the door through', 'start': 249.519, 'duration': 3.201}
+{'text': "the office it's kind of like", 'start': 251.04, 'duration': 6.4}
+{'text': "who's listening i specifically have like", 'start': 252.72, 'duration': 7.28}
+{'text': 'oh god i signed the ndas against this', 'start': 257.44, 'duration': 4.479}
+{'text': "government doesn't want to show that the", 'start': 260.0, 'duration': 4.24}
+{'text': 'darn vaccine is full of [\xa0__\xa0] it needs to', 'start': 261.919, 'duration': 3.921}
+{'text': "be a registry of the people who aren't", 'start': 264.24, 'duration': 4.239}
+{'text': "vaccinated that's sounding very very", 'start': 265.84, 'duration': 4.24}
+{'text': "i'm going to go door-to-door instead of", 'start': 268.479, 'duration': 5.121}
+{'text': "everyone oh it's just your booster shop", 'start': 270.08, 'duration': 3.52}
+{'text': "she didn't want to take it because of", 'start': 274.96, 'duration': 4.4}
+{'text': 'her religious beliefs she was coerced', 'start': 276.72, 'duration': 4.24}
+{'text': 'into taking they are not reported', 'start': 279.36, 'duration': 3.839}
+{'text': 'because they want to show it under the', 'start': 280.96, 'duration': 4.16}
+{'text': 'map', 'start': 283.199, 'duration': 4.72}
+{'text': 'oh god i signed the ndas against this so', 'start': 285.12, 'duration': 5.04}
+{'text': 'your antibodies are probably better at', 'start': 287.919, 'duration': 4.881}
+{'text': 'that point than the vaccinations', 'start': 290.16, 'duration': 6.44}
+{'text': "you're not wearing a wire right", 'start': 292.8, 'duration': 3.8}
+{'text': 'just like look at the presentation', 'start': 297.52, 'duration': 2.48}
+{'text': 'imagine watching something like this', 'start': 298.72, 'duration': 3.199}
+{'text': "you're like this is the truth now i'm", 'start': 300.0, 'duration': 4.0}
+{'text': 'finally getting that raw unfiltered', 'start': 301.919, 'duration': 3.441}
+{'text': "truth i'm finally figuring out what's", 'start': 304.0, 'duration': 2.479}
+{'text': 'going on in the world doing my own', 'start': 305.36, 'duration': 3.36}
+{'text': 'research just like i said i would like', 'start': 306.479, 'duration': 4.401}
+{'text': 'jesus christ', 'start': 308.72, 'duration': 5.039}
+{'text': "i'm wearing a wire right", 'start': 310.88, 'duration': 2.879}
+{'text': 'our next installment in the series', 'start': 314.479, 'duration': 3.201}
+{'text': 'exposing big pharma will feature', 'start': 316.0, 'duration': 3.44}
+{'text': 'multiple releases inside one of the', 'start': 317.68, 'duration': 3.76}
+{'text': "nation's largest covet vaccine", 'start': 319.44, 'duration': 5.28}
+{'text': 'manufacturers pfizer the series features', 'start': 321.44, 'duration': 6.8}
+{'text': 'not one not two but three scientists', 'start': 324.72, 'duration': 4.88}
+{'text': 'within pfizer talking to one of our', 'start': 328.24, 'duration': 3.679}
+{'text': 'undercover journalists making stunning', 'start': 329.6, 'duration': 4.72}
+{'text': 'admissions about the cobot vaccine and', 'start': 331.919, 'duration': 3.521}
+{'text': 'the culture', 'start': 334.32, 'duration': 4.0}
+{'text': "inside of pfizer like we're like bred", 'start': 335.44, 'duration': 4.88}
+{'text': 'and taught to be like', 'start': 338.32, 'duration': 2.719}
+{'text': 'like', 'start': 340.32, 'duration': 3.12}
+{'text': 'vaccine is safer than than actually', 'start': 341.039, 'duration': 4.16}
+{'text': "getting coconut and that's like", 'start': 343.44, 'duration': 3.36}
+{'text': "because i'm pretty sure for almost", 'start': 345.199, 'duration': 4.801}
+{'text': "everybody that's true", 'start': 346.8, 'duration': 3.2}
+{'text': 'like', 'start': 351.12, 'duration': 3.12}
+{'text': 'honestly we have to we have to do so', 'start': 352.479, 'duration': 3.601}
+{'text': 'many seminars on this like you have no', 'start': 354.24, 'duration': 4.0}
+{'text': 'idea like we have to like sit there for', 'start': 356.08, 'duration': 4.32}
+{'text': 'hours and hours and listen to life be', 'start': 358.24, 'duration': 4.799}
+{'text': 'like you cannot like talk about this', 'start': 360.4, 'duration': 4.72}
+{'text': 'in public you know logically though like', 'start': 363.039, 'duration': 3.841}
+{'text': 'if you have antibodies booked up like', 'start': 365.12, 'duration': 3.04}
+{'text': 'you should be able to prove that you', 'start': 366.88, 'duration': 3.68}
+{'text': 'have those built up like and just be', 'start': 368.16, 'duration': 4.879}
+{'text': "like i don't know maybe potentially that", 'start': 370.56, 'duration': 3.84}
+{'text': "doesn't seem", 'start': 373.039, 'duration': 4.0}
+{'text': 'that crazy i had coven and i have', 'start': 374.4, 'duration': 5.28}
+{'text': 'monster immunity after eight months so i', 'start': 377.039, 'duration': 4.241}
+{'text': 'just got checked last month for', 'start': 379.68, 'duration': 2.799}
+{'text': 'antibodies', 'start': 381.28, 'duration': 2.88}
+{'text': "i mean that's no worries same thing with", 'start': 382.479, 'duration': 3.361}
+{'text': 'my brother', 'start': 384.16, 'duration': 4.0}
+{'text': 'so should i get the vaccine', 'start': 385.84, 'duration': 3.6}
+{'text': 'wait', 'start': 388.16, 'duration': 2.72}
+{'text': 'until when', 'start': 389.44, 'duration': 4.4}
+{'text': 'if your immunity starts to wane then get', 'start': 390.88, 'duration': 5.52}
+{'text': 'vaccinated', 'start': 393.84, 'duration': 2.56}
+{'text': "so i'm well protected", 'start': 397.36, 'duration': 4.32}
+{'text': 'like as much as the vaccine probably', 'start': 399.44, 'duration': 4.64}
+{'text': 'probably or yeah', 'start': 401.68, 'duration': 4.16}
+{'text': 'none of this is secret information i', 'start': 404.08, 'duration': 5.76}
+{'text': "don't understand we're just like", 'start': 405.84, 'duration': 4.0}
+{'text': 'i mean', 'start': 411.12, 'duration': 2.479}
+{'text': 'so', 'start': 413.759, 'duration': 4.241}
+{'text': 'when we came out', 'start': 414.8, 'duration': 3.2}
+{'text': '[Music]', 'start': 419.65, 'duration': 3.47}
+{'text': 'with the question was should people who', 'start': 420.84, 'duration': 4.359}
+{'text': 'got um should people who got cove would', 'start': 423.12, 'duration': 4.479}
+{'text': 'be able to opt out of the vaccine', 'start': 425.199, 'duration': 4.72}
+{'text': 'um', 'start': 427.599, 'duration': 2.32}
+{'text': "i feel like i feel like that wouldn't be", 'start': 431.199, 'duration': 5.201}
+{'text': 'the worst idea if it was', 'start': 433.12, 'duration': 4.799}
+{'text': 'possible', 'start': 436.4, 'duration': 3.28}
+{'text': "um i don't know what the system i guess", 'start': 437.919, 'duration': 3.041}
+{'text': 'you would just get a test a blood test', 'start': 439.68, 'duration': 2.4}
+{'text': 'and that would be like your proof of not', 'start': 440.96, 'duration': 2.32}
+{'text': "needing the vaccinated i don't think", 'start': 442.08, 'duration': 2.64}
+{'text': "that's like the worst thing possible", 'start': 443.28, 'duration': 4.24}
+{'text': 'getting vaccinated though still confers', 'start': 444.72, 'duration': 4.24}
+{'text': 'even more immunity', 'start': 447.52, 'duration': 3.28}
+{'text': "um i don't have to think about that i", 'start': 448.96, 'duration': 3.12}
+{'text': "don't think that would be like the worst", 'start': 450.8, 'duration': 3.6}
+{'text': "thing possible though but um i don't", 'start': 452.08, 'duration': 4.48}
+{'text': 'know', 'start': 454.4, 'duration': 2.16}
+{'text': 'so right now destiny to be fair the', 'start': 463.199, 'duration': 3.761}
+{'text': 'narrative right now is people that got', 'start': 465.36, 'duration': 2.559}
+{'text': 'coveted should still be getting', 'start': 466.96, 'duration': 2.639}
+{'text': 'vaccinated which these guys are advising', 'start': 467.919, 'duration': 3.601}
+{'text': 'against that is not what these guys are', 'start': 469.599, 'duration': 3.28}
+{'text': "advising they're advising that the", 'start': 471.52, 'duration': 4.0}
+{'text': 'vaccine is fake that the virus is fake', 'start': 472.879, 'duration': 4.72}
+{'text': 'that the vaccine is killing people the', 'start': 475.52, 'duration': 3.6}
+{'text': "fda is lying about things that's what's", 'start': 477.599, 'duration': 2.961}
+{'text': 'being um', 'start': 479.12, 'duration': 2.479}
+{'text': 'alleged', 'start': 480.56, 'duration': 2.639}
+{'text': 'uh if in terms of having a conversation', 'start': 481.599, 'duration': 3.201}
+{'text': "about like oh you know if you've already", 'start': 483.199, 'duration': 2.881}
+{'text': 'been infected should you be required to', 'start': 484.8, 'duration': 3.28}
+{'text': 'get the vaccine since infection is also', 'start': 486.08, 'duration': 3.36}
+{'text': "looking for immunity like i don't know i", 'start': 488.08, 'duration': 2.48}
+{'text': "think there's probably a legitimate", 'start': 489.44, 'duration': 5.199}
+{'text': 'conversation we have there right but um', 'start': 490.56, 'duration': 4.079}
+{'text': "destiny shouldn't scientists have more", 'start': 498.639, 'duration': 3.521}
+{'text': 'definitive answers why do they sound so', 'start': 500.4, 'duration': 7.0}
+{'text': 'wishy-washy their responses because like', 'start': 502.16, 'duration': 5.24}
+{'text': 'science in a petri dish is easy but', 'start': 507.52, 'duration': 4.239}
+{'text': 'public policy is a lot more difficult', 'start': 509.52, 'duration': 5.199}
+{'text': 'like should somebody get vaccinated is a', 'start': 511.759, 'duration': 4.64}
+{'text': 'more complicated question should you', 'start': 514.719, 'duration': 3.44}
+{'text': 'mandate vaccines as a more complicated', 'start': 516.399, 'duration': 2.801}
+{'text': 'question', 'start': 518.159, 'duration': 2.401}
+{'text': 'like these are things we have to weigh', 'start': 519.2, 'duration': 3.199}
+{'text': 'risk factors against potential benefits', 'start': 520.56, 'duration': 4.08}
+{'text': 'and like different scenarios like so i i', 'start': 522.399, 'duration': 3.361}
+{'text': "wouldn't expect these guys aren't like", 'start': 524.64, 'duration': 2.8}
+{'text': "policy makers and it sounds like they're", 'start': 525.76, 'duration': 3.36}
+{'text': 'either on like a sting date or something', 'start': 527.44, 'duration': 2.8}
+{'text': "and they're not i don't think they're", 'start': 529.12, 'duration': 2.719}
+{'text': 'trying to give like exact answers like', 'start': 530.24, 'duration': 5.08}
+{'text': "so it's probably just", 'start': 531.839, 'duration': 3.481}
+{'text': "we're seeing", 'start': 536.399, 'duration': 2.56}
+{'text': 'an increase in the delta variant', 'start': 539.12, 'duration': 5.52}
+{'text': 'mostly not because of', 'start': 541.68, 'duration': 4.64}
+{'text': 'the variant', 'start': 544.64, 'duration': 5.84}
+{'text': 'because of immune', 'start': 546.32, 'duration': 4.16}
+{'text': "they're", 'start': 550.64, 'duration': 4.08}
+{'text': 'basically their antibodies are waning', 'start': 552.16, 'duration': 5.44}
+{'text': "um so they're", 'start': 554.72, 'duration': 4.799}
+{'text': "they're still protected but not at that", 'start': 557.6, 'duration': 3.52}
+{'text': '95', 'start': 559.519, 'duration': 4.401}
+{'text': "i could be wrong but i've never heard", 'start': 561.12, 'duration': 5.2}
+{'text': 'that waning antibodies is a reason why', 'start': 563.92, 'duration': 4.8}
+{'text': 'immunity wanes um and any infection', 'start': 566.32, 'duration': 3.76}
+{'text': "you're gonna lose antibodies over time", 'start': 568.72, 'duration': 2.559}
+{'text': "that doesn't mean you still aren't", 'start': 570.08, 'duration': 2.96}
+{'text': "protected the way that i'm pretty sure", 'start': 571.279, 'duration': 3.041}
+{'text': 'you see if people are still protected or', 'start': 573.04, 'duration': 3.28}
+{'text': 'not is by doing like longitudinal i', 'start': 574.32, 'duration': 2.639}
+{'text': "think they're because they're", 'start': 576.32, 'duration': 2.16}
+{'text': "longitudinal tests where you see who's", 'start': 576.959, 'duration': 2.721}
+{'text': 'vaccinated you track them for like a', 'start': 578.48, 'duration': 2.32}
+{'text': "year or two and then you see who's", 'start': 579.68, 'duration': 2.159}
+{'text': "getting infected i think that's the only", 'start': 580.8, 'duration': 2.56}
+{'text': "way to really tell you can't just", 'start': 581.839, 'duration': 5.201}
+{'text': 'measure the antibodies to find out', 'start': 583.36, 'duration': 3.68}
+{'text': 'efficacy', 'start': 587.839, 'duration': 2.881}
+{'text': "it's more like", 'start': 588.959, 'duration': 5.281}
+{'text': "70 so you're being you're", 'start': 590.72, 'duration': 5.44}
+{'text': 'protected', 'start': 594.24, 'duration': 3.68}
+{'text': 'most likely for laundry', 'start': 596.16, 'duration': 4.88}
+{'text': 'since it was a natural response', 'start': 597.92, 'duration': 3.919}
+{'text': 'so', 'start': 601.04, 'duration': 3.919}
+{'text': "basically they're trying to keep track", 'start': 601.839, 'duration': 4.881}
+{'text': "of everyone that's been vaccinated", 'start': 604.959, 'duration': 5.361}
+{'text': 'versus the census of how many people', 'start': 606.72, 'duration': 5.92}
+{'text': 'are actually reported', 'start': 610.32, 'duration': 4.16}
+{'text': "so i mean they're trying to get their", 'start': 612.64, 'duration': 4.0}
+{'text': "numbers but still you shouldn't have to", 'start': 614.48, 'duration': 5.359}
+{'text': 'show anything which is basically in my', 'start': 616.64, 'duration': 6.639}
+{'text': 'opinion a violation of hipaa', 'start': 619.839, 'duration': 5.201}
+{'text': 'they no one has the right to ask you if', 'start': 623.279, 'duration': 3.761}
+{'text': "they've been vaccinated or", 'start': 625.04, 'duration': 2.88}
+{'text': 'so', 'start': 627.04, 'duration': 3.359}
+{'text': "i've never heard that that's a violation", 'start': 627.92, 'duration': 4.32}
+{'text': "of hipaa asking a question i don't think", 'start': 630.399, 'duration': 3.841}
+{'text': "it's i think hipaa violations are when", 'start': 632.24, 'duration': 3.76}
+{'text': "you're like pulling medical data without", 'start': 634.24, 'duration': 3.52}
+{'text': 'consent or sharing medical data or', 'start': 636.0, 'duration': 2.8}
+{'text': "whatever without consent i don't think", 'start': 637.76, 'duration': 3.04}
+{'text': 'just making that request is a violation', 'start': 638.8, 'duration': 3.36}
+{'text': "of hipaa but i don't know if this guy", 'start': 640.8, 'duration': 2.64}
+{'text': 'has any idea what the [\xa0__\xa0] hippa is or', 'start': 642.16, 'duration': 3.919}
+{'text': 'anything about', 'start': 643.44, 'duration': 6.0}
+{'text': "it's an invasion of privacy", 'start': 646.079, 'duration': 3.361}
+{'text': "i i don't agree with it", 'start': 651.04, 'duration': 3.76}
+{'text': "nick's take on these social mandates", 'start': 653.04, 'duration': 3.28}
+{'text': 'would seem to run contrary to a', 'start': 654.8, 'duration': 3.84}
+{'text': 'sentiment on antibody immunity this', 'start': 656.32, 'duration': 3.6}
+{'text': "isn't the first time we've heard the", 'start': 658.64, 'duration': 2.879}
+{'text': 'sentiment from a scientist with one of', 'start': 659.92, 'duration': 3.359}
+{'text': 'these companies how do we get the', 'start': 661.519, 'duration': 5.361}
+{'text': 'unvaccinated vaccinations', 'start': 663.279, 'duration': 3.601}
+{'text': "i feel like what they're doing", 'start': 667.44, 'duration': 4.959}
+{'text': 'like', 'start': 670.32, 'duration': 3.6}
+{'text': 'for instance like the city needs like', 'start': 672.399, 'duration': 4.88}
+{'text': 'fax cards and everything', 'start': 673.92, 'duration': 3.359}
+{'text': "it's just like about making it so", 'start': 677.44, 'duration': 4.16}
+{'text': 'inconvenient', 'start': 679.68, 'duration': 4.48}
+{'text': 'for like vaccinating people', 'start': 681.6, 'duration': 5.359}
+{'text': "to the point where they're just like", 'start': 684.16, 'duration': 4.56}
+{'text': "hey just real quick guys if you're going", 'start': 686.959, 'duration': 3.281}
+{'text': "to go on a date with somebody and you're", 'start': 688.72, 'duration': 3.119}
+{'text': "going to talk don't talk your mouth full", 'start': 690.24, 'duration': 3.52}
+{'text': "why would you do this don't do this", 'start': 691.839, 'duration': 3.761}
+{'text': 'jesus', 'start': 693.76, 'duration': 4.16}
+{'text': 'what do you mean', 'start': 695.6, 'duration': 4.64}
+{'text': 'like if you are restricting people that', 'start': 697.92, 'duration': 5.28}
+{'text': 'are unvaccinated from doing anything', 'start': 700.24, 'duration': 4.159}
+{'text': 'and then like', 'start': 703.2, 'duration': 3.12}
+{'text': 'vaccinated people are allowed to do', 'start': 704.399, 'duration': 3.361}
+{'text': 'anything they want', 'start': 706.32, 'duration': 4.4}
+{'text': "eventually they're just going to be like", 'start': 707.76, 'duration': 5.04}
+{'text': 'let me just get vaccinated', 'start': 710.72, 'duration': 4.0}
+{'text': 'i mean you have', 'start': 712.8, 'duration': 4.0}
+{'text': 'multiple companies that were', 'start': 714.72, 'duration': 4.64}
+{'text': 'basically given a', 'start': 716.8, 'duration': 4.96}
+{'text': 'crap ton of money to produce vaccines', 'start': 719.36, 'duration': 4.719}
+{'text': "and they're pushing them", 'start': 721.76, 'duration': 4.16}
+{'text': 'so what happens to the monoclonal', 'start': 724.079, 'duration': 4.88}
+{'text': 'monoclonal antibody trans', 'start': 725.92, 'duration': 6.4}
+{'text': 'push to the side why', 'start': 728.959, 'duration': 3.361}
+{'text': 'wait what do they mean by push to the', 'start': 734.24, 'duration': 2.96}
+{'text': 'site i thought the monoclonal antibody', 'start': 735.519, 'duration': 4.081}
+{'text': "treatment is still um isn't it still eua", 'start': 737.2, 'duration': 4.4}
+{'text': "under the fda i don't understand they're", 'start': 739.6, 'duration': 5.72}
+{'text': "still there that's still a thing", 'start': 741.6, 'duration': 3.72}
+{'text': "it's disgusting you're not wearing a", 'start': 751.44, 'duration': 4.24}
+{'text': 'wire right yeah', 'start': 752.959, 'duration': 2.721}
+{'text': 'i mean i still feel like i work for like', 'start': 756.88, 'duration': 4.399}
+{'text': 'an evil corporation because it comes', 'start': 759.12, 'duration': 5.04}
+{'text': 'down to profits in the end and i mean', 'start': 761.279, 'duration': 7.041}
+{'text': "i'm there to help people not to make", 'start': 764.16, 'duration': 6.479}
+{'text': 'millions and millions of dollars so i', 'start': 768.32, 'duration': 3.12}
+{'text': 'mean', 'start': 770.639, 'duration': 1.76}
+{'text': "that's", 'start': 771.44, 'duration': 3.68}
+{'text': 'the moral dilemma billions and billions', 'start': 772.399, 'duration': 6.321}
+{'text': "i'm trying to be nice", 'start': 775.12, 'duration': 3.6}
+{'text': "i do i mean i'll give you a hard time", 'start': 779.519, 'duration': 6.841}
+{'text': 'basically our', 'start': 782.32, 'duration': 4.04}
+{'text': 'chris croche is a senior associate', 'start': 795.279, 'duration': 3.921}
+{'text': 'scientist with pfizer he goes on to', 'start': 797.04, 'duration': 4.0}
+{'text': 'explain a test that is currently taking', 'start': 799.2, 'duration': 3.28}
+{'text': 'place at pfizer', 'start': 801.04, 'duration': 3.2}
+{'text': 'not to determine the effectiveness but', 'start': 802.48, 'duration': 4.32}
+{'text': 'to see if it is leading to heart attacks', 'start': 804.24, 'duration': 4.08}
+{'text': "i'm glad you didn't get any uh", 'start': 806.8, 'duration': 3.039}
+{'text': 'myocarditis', 'start': 808.32, 'duration': 3.68}
+{'text': "because that's a concern right yeah more", 'start': 809.839, 'duration': 6.081}
+{'text': 'so for younger people why', 'start': 812.0, 'duration': 4.8}
+{'text': "that's", 'start': 815.92, 'duration': 3.359}
+{'text': "what we're looking into right now oh wow", 'start': 816.8, 'duration': 3.839}
+{'text': 'yeah so', 'start': 819.279, 'duration': 3.601}
+{'text': 'um', 'start': 820.639, 'duration': 2.241}
+{'text': "yeah we're", 'start': 823.04, 'duration': 3.12}
+{'text': 'doing', 'start': 825.279, 'duration': 2.401}
+{'text': 'we just sent', 'start': 826.16, 'duration': 4.56}
+{'text': 'like 3 000 patients', 'start': 827.68, 'duration': 4.159}
+{'text': 'samples', 'start': 830.72, 'duration': 2.88}
+{'text': 'to get tested for', 'start': 831.839, 'duration': 5.201}
+{'text': 'like elevated troponin levels', 'start': 833.6, 'duration': 5.12}
+{'text': "to see if it's", 'start': 837.04, 'duration': 5.96}
+{'text': 'vaccine-based or mm-hmm', 'start': 838.72, 'duration': 4.28}
+{'text': 'the last batch will be sent over next', 'start': 847.92, 'duration': 2.719}
+{'text': 'week', 'start': 849.68, 'duration': 3.279}
+{'text': "all external testing we'll see hopefully", 'start': 850.639, 'duration': 5.281}
+{'text': "it's good because i mean if not then in", 'start': 852.959, 'duration': 4.56}
+{'text': 'my opinion that might pull something', 'start': 855.92, 'duration': 4.0}
+{'text': 'from the market', 'start': 857.519, 'duration': 4.081}
+{'text': "who is this guy what it wouldn't pull in", 'start': 859.92, 'duration': 3.52}
+{'text': 'the market well i guess it was really', 'start': 861.6, 'duration': 3.52}
+{'text': 'bad i would but i think generally when', 'start': 863.44, 'duration': 3.199}
+{'text': "they talk about like there's a risk for", 'start': 865.12, 'duration': 3.36}
+{'text': "young people it's not that like i don't", 'start': 866.639, 'duration': 3.041}
+{'text': "think it's that young people are", 'start': 868.48, 'duration': 2.32}
+{'text': "especially at risk it's that you're", 'start': 869.68, 'duration': 2.719}
+{'text': 'always weighing the risk versus the', 'start': 870.8, 'duration': 3.68}
+{'text': 'reward and if the risk of a young person', 'start': 872.399, 'duration': 4.321}
+{'text': 'of having a serious infection with the', 'start': 874.48, 'duration': 4.24}
+{'text': 'coronavirus is very very very very very', 'start': 876.72, 'duration': 3.6}
+{'text': 'very low then even if the risk of', 'start': 878.72, 'duration': 3.359}
+{'text': 'myocarditis is very very very very low', 'start': 880.32, 'duration': 3.36}
+{'text': "it just the cost benefit isn't there for", 'start': 882.079, 'duration': 3.2}
+{'text': "them to get the vaccine it's not like", 'start': 883.68, 'duration': 3.2}
+{'text': "you'd be like oh it's slightly more", 'start': 885.279, 'duration': 3.601}
+{'text': 'risky to the vaccine versus just getting', 'start': 886.88, 'duration': 3.84}
+{'text': 'risking an infection as a younger person', 'start': 888.88, 'duration': 3.36}
+{'text': "therefore we're going to pull it for", 'start': 890.72, 'duration': 5.119}
+{'text': "everybody in society right that's", 'start': 892.24, 'duration': 3.599}
+{'text': 'if the antibody works more effectively', 'start': 897.44, 'duration': 4.399}
+{'text': 'than the vaccines it begs the question', 'start': 899.279, 'duration': 3.92}
+{'text': "what's with all the fed it doesn't beg", 'start': 901.839, 'duration': 2.961}
+{'text': 'any question it raises the question this', 'start': 903.199, 'duration': 3.841}
+{'text': "isn't picky sorry but if the antibody", 'start': 904.8, 'duration': 4.24}
+{'text': 'works more effectively than the vaccines', 'start': 907.04, 'duration': 4.0}
+{'text': "it begs the question what's with all the", 'start': 909.04, 'duration': 4.08}
+{'text': 'federal mandates regardless of what the', 'start': 911.04, 'duration': 3.919}
+{'text': "data says there's ears and eyes", 'start': 913.12, 'duration': 3.68}
+{'text': 'everywhere what do you mean', 'start': 914.959, 'duration': 2.641}
+{'text': 'yeah', 'start': 916.8, 'duration': 1.599}
+{'text': 'like', 'start': 917.6, 'duration': 2.799}
+{'text': "in the building so it's kind of just", 'start': 918.399, 'duration': 4.0}
+{'text': "like you don't talk about anything that", 'start': 920.399, 'duration': 3.841}
+{'text': 'can possibly', 'start': 922.399, 'duration': 5.44}
+{'text': 'implicate you or like', 'start': 924.24, 'duration': 6.159}
+{'text': 'a big farm', 'start': 927.839, 'duration': 2.56}
+{'text': 'like even if you shut the door through', 'start': 931.04, 'duration': 3.52}
+{'text': "the office it's kind of like who's", 'start': 932.48, 'duration': 3.52}
+{'text': 'listening', 'start': 934.56, 'duration': 3.279}
+{'text': 'these expressed views run contrary to', 'start': 936.0, 'duration': 3.519}
+{'text': 'the current public policy affecting', 'start': 937.839, 'duration': 3.761}
+{'text': 'millions of people we have a hidden', 'start': 939.519, 'duration': 5.161}
+{'text': 'camera footage of executives at pfizer', 'start': 941.6, 'duration': 5.2}
+{'text': '[Music]', 'start': 944.68, 'duration': 5.32}
+{'text': "code yellow i don't know what that means", 'start': 946.8, 'duration': 4.479}
+{'text': "i don't think this is a good youtube", 'start': 950.0, 'duration': 3.199}
+{'text': 'video or like you want to remember my', 'start': 951.279, 'duration': 5.601}
+{'text': 'channel i okay', 'start': 953.199, 'duration': 3.681}
